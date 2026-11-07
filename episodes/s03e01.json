@@ -1,0 +1,131 @@
+[
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s03_e01_c03_u007", "answer": "hang out",
+      "options": ["hang out", "work out", "move in", "show up"] } ] },
+
+  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to make someone feel happier",
+    "exchanges": [ { "uid": "s03_e01_c03_u005", "answer": "cheer up",
+      "options": ["cheer up", "calm down", "give in", "hold on"] } ] },
+
+  { "expression": "pretty much", "type": "colloquial", "level": "elementary", "pos": "adverb",
+    "meaning": "almost completely; more or less",
+    "exchanges": [ { "uid": "s03_e01_c08_u015", "answer": "Pretty much",
+      "options": ["Pretty much", "Quite often", "Fairly late", "Rather quietly"] } ] },
+
+  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit a place briefly, often without planning it",
+    "exchanges": [ { "uid": "s03_e01_c12_u016", "answer": "stopped by", "cueUid": "s03_e01_c12_u014",
+      "options": ["stopped by", "ran off", "got up", "set out"] } ] },
+
+  { "expression": "in a row", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "one after another without a break",
+    "exchanges": [ { "uid": "s03_e01_c02_u014", "answer": "in a row", "cueUid": "s03_e01_c02_u012",
+      "options": ["in a row", "on a roll", "by a mile", "at a loss"] } ] },
+
+  { "expression": "that explains it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when you suddenly understand the reason for something strange",
+    "exchanges": [ { "uid": "s03_e01_c02_u016", "answer": "that explains it", "responseUid": null,
+      "options": ["that explains it", "that settles it", "that does it", "that tears it"] } ] },
+
+  { "expression": "annoying", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "making you feel slightly angry or impatient",
+    "exchanges": [ { "uid": "s03_e01_c04_u018", "answer": "annoying",
+      "options": ["annoying", "amusing", "amazing", "appealing"] } ] },
+
+  { "expression": "for a reason", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "because of a good cause, not by chance",
+    "exchanges": [ { "uid": "s03_e01_c04_u011", "answer": "for a reason",
+      "options": ["for a reason", "in a sense", "at a price", "by a mile"] } ] },
+
+  { "expression": "can't stand", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to strongly dislike someone or something",
+    "exchanges": [ { "uid": "s03_e01_c12_u009", "answer": "stand",
+      "options": ["stand", "sit", "hold", "lift"] } ] },
+
+  { "expression": "give it a shot", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to try doing something to see if you can do it",
+    "exchanges": [ { "uid": "s03_e01_c12_u011", "answer": "giving it a shot",
+      "options": ["giving it a shot", "giving it a twist", "taking it a notch", "calling it a night"] } ] },
+
+  { "expression": "a mess", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "a person who is in a very bad emotional state",
+    "exchanges": [ { "uid": "s03_e01_c13_u019", "answer": "a mess",
+      "options": ["a mess", "a joke", "a catch", "a riot"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s03_e01_c14_u004", "answer": "freaking me out",
+      "options": ["freaking me out", "wearing me down", "putting me off", "letting me down"] } ] },
+
+  { "expression": "look someone in the eye", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to look directly at someone's face to show you are being honest",
+    "exchanges": [ { "uid": "s03_e01_c03_u020", "answer": "in the eye",
+      "options": ["in the eye", "on the nose", "by the hand", "at the back"] } ] },
+
+  { "expression": "that's the spirit", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to praise someone for showing the right attitude",
+    "exchanges": [ { "uid": "s03_e01_c04_u019", "answer": "That's the spirit",
+      "options": ["That's the spirit", "That's the catch", "That's the limit", "That's the thing"] } ] },
+
+  { "expression": "drive someone nuts", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to annoy someone so much that they can hardly bear it",
+    "exchanges": [ { "uid": "s03_e01_c07_u016", "answer": "drive you nuts", "cueUid": "s03_e01_c07_u014",
+      "options": ["drive you nuts", "pull you apart", "take you aback", "put you down"] } ] },
+
+  { "expression": "the real thing", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a genuine, serious relationship or feeling, not a passing one",
+    "exchanges": [ { "uid": "s03_e01_c07_u017", "answer": "the real thing",
+      "options": ["the real thing", "the last straw", "the long haul", "the hard way"] } ] },
+
+  { "expression": "a lot to take", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "hard to put up with because of being too intense or demanding",
+    "exchanges": [ { "uid": "s03_e01_c07_u014", "answer": "a lot to take",
+      "options": ["a lot to take", "a lot to give", "a lot to lose", "a lot to say"] } ] },
+
+  { "expression": "miss out on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to lose the chance to do or enjoy something",
+    "exchanges": [ { "uid": "s03_e01_c08_u013", "answer": "missing out on", "cueUid": "s03_e01_c08_u011",
+      "options": ["missing out on", "running out of", "getting out of", "making up for"] } ] },
+
+  { "expression": "worth mentioning", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "important or interesting enough to be talked about",
+    "exchanges": [ { "uid": "s03_e01_c08_u018", "answer": "worth mentioning", "responseUid": null,
+      "options": ["worth mentioning", "worth keeping", "worth waiting", "worth buying"] } ] },
+
+  { "expression": "since when", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to ask, often with surprise or doubt, when something started being true",
+    "exchanges": [ { "uid": "s03_e01_c13_u005", "answer": "Since when",
+      "options": ["Since when", "So what", "How come", "Now then"] } ] },
+
+  { "expression": "job one", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "the first and most important thing to do",
+    "exchanges": [ { "uid": "s03_e01_c04_u005", "answer": "job one",
+      "options": ["job one", "day one", "round two", "take five"] } ] },
+
+  { "expression": "be adult about it", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to handle a situation in a mature, sensible way without complaining",
+    "exchanges": [ { "uid": "s03_e01_c04_u020", "answer": "be adult about it",
+      "options": ["be adult about it", "be vocal about it", "be picky about it", "be crazy about it"] } ] },
+
+  { "expression": "out on a limb", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "saying or doing something risky that others may not support",
+    "exchanges": [ { "uid": "s03_e01_c07_u011", "answer": "out on a limb",
+      "options": ["out on a limb", "down in the dumps", "up in the air", "over the hill"] } ] },
+
+  { "expression": "stamina", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the physical strength to keep going for a long time",
+    "exchanges": [ { "uid": "s03_e01_c11_u007", "answer": "stamina", "cueUid": "s03_e01_c11_u005",
+      "options": ["stamina", "stature", "stigma", "stamen"] } ] },
+
+  { "expression": "a little birdie told me", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "said when you refuse to reveal who gave you a piece of information",
+    "exchanges": [ { "uid": "s03_e01_c10_u004", "answer": "little birdie",
+      "options": ["little birdie", "tall tale", "wise guy", "old flame"] } ] },
+
+  { "expression": "on Uncle Sam's nickel", "type": "colloquial", "level": "expert", "pos": "adverb",
+    "meaning": "paid for by the US government",
+    "exchanges": [ { "uid": "s03_e01_c13_u025", "answer": "on Uncle Sam's nickel", "cueUid": "s03_e01_c13_u022", "responseUid": null,
+      "options": ["on Uncle Sam's nickel", "in Uncle Sam's pocket", "at Uncle Sam's table", "under Uncle Sam's hat"] } ] }
+]

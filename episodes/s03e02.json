@@ -1,0 +1,130 @@
+[
+  { "expression": "hang on", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "wait a moment",
+    "exchanges": [ { "uid": "s03_e02_c02_u031", "answer": "Hang on",
+      "options": ["Hang on", "Carry on", "Move on", "Go on"] } ] },
+
+  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "used to add a new topic or something you just remembered",
+    "exchanges": [ { "uid": "s03_e02_c03_u159", "answer": "by the way", "responseUid": "s03_e02_c03_u161",
+      "options": ["by the way", "in the way", "on the way", "all the way"] } ] },
+
+  { "expression": "call back", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to phone someone again later, usually after an interrupted call",
+    "exchanges": [ { "uid": "s03_e02_c02_u066", "answer": "call him back",
+      "options": ["call him back", "take him back", "put him back", "pay him back"] } ] },
+
+  { "expression": "go through", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to experience a difficult or unpleasant period",
+    "exchanges": [ { "uid": "s03_e02_c02_u053", "answer": "went through", "responseUid": "s03_e02_c02_u055",
+      "options": ["went through", "got over", "ran into", "put off"] } ] },
+
+  { "expression": "try on", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to put on a piece of clothing to see whether it fits or looks good",
+    "exchanges": [ { "uid": "s03_e02_c03_u009", "answer": "try on",
+      "options": ["try on", "put off", "take in", "turn up"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [ { "uid": "s03_e02_c02_u013", "answer": "turns out", "responseUid": "s03_e02_c02_u015",
+      "options": ["turns out", "goes off", "comes up", "gets by"] } ] },
+
+  { "expression": "spooky", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "frightening in a strange, ghostly way",
+    "exchanges": [ { "uid": "s03_e02_c02_u044", "answer": "spooky",
+      "options": ["spooky", "sloppy", "stuffy", "snappy"] } ] },
+
+  { "expression": "casual", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "relaxed and not serious or formal",
+    "exchanges": [ { "uid": "s03_e02_c02_u082", "answer": "casual", "cueUid": "s03_e02_c02_u080",
+      "options": ["casual", "mutual", "annual", "manual"] } ] },
+
+  { "expression": "by mistake", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "accidentally, without intending to",
+    "exchanges": [ { "uid": "s03_e02_c03_u070", "answer": "by mistake",
+      "options": ["by mistake", "by heart", "by hand", "by force"] } ] },
+
+  { "expression": "appreciate", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be grateful for something someone has done",
+    "exchanges": [ { "uid": "s03_e02_c03_u072", "answer": "appreciate",
+      "options": ["appreciate", "anticipate", "accumulate", "accelerate"] } ] },
+
+  { "expression": "impressed", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "feeling admiration for something because it is very good",
+    "exchanges": [ { "uid": "s03_e02_c04_u004", "answer": "impressed",
+      "options": ["impressed", "depressed", "oppressed", "compressed"] } ] },
+
+  { "expression": "check in", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to contact someone briefly to see how things are going",
+    "exchanges": [ { "uid": "s03_e02_c02_u092", "answer": "checking in",
+      "options": ["checking in", "filling in", "giving in", "cashing in"] } ] },
+
+  { "expression": "essence", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "the most important quality that makes something what it is",
+    "exchanges": [ { "uid": "s03_e02_c03_u035", "answer": "essence",
+      "options": ["essence", "absence", "evidence", "balance"] } ] },
+
+  { "expression": "inflatable", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "able to be filled with air so it becomes bigger",
+    "exchanges": [ { "uid": "s03_e02_c03_u022", "answer": "inflatable",
+      "options": ["inflatable", "invisible", "inevitable", "incredible"] } ] },
+
+  { "expression": "pushing it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "going a bit beyond what is acceptable or reasonable",
+    "exchanges": [ { "uid": "s03_e02_c03_u078", "answer": "pushing it",
+      "options": ["pushing it", "making it", "getting it", "taking it"] } ] },
+
+  { "expression": "catch up on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to do something you have not had time to do until now",
+    "exchanges": [ { "uid": "s03_e02_c03_u081", "answer": "catch up on",
+      "options": ["catch up on", "hold out for", "give in to", "look up to"] } ] },
+
+  { "expression": "out of curiosity", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "said when asking a question only because you want to know, not for any serious reason",
+    "exchanges": [ { "uid": "s03_e02_c03_u084", "answer": "out of curiosity",
+      "options": ["out of curiosity", "out of breath", "out of order", "out of control"] } ] },
+
+  { "expression": "humiliate", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to make someone feel ashamed or stupid in front of other people",
+    "exchanges": [ { "uid": "s03_e02_c03_u085", "answer": "humiliated",
+      "options": ["humiliated", "hesitated", "eliminated", "illustrated"] } ] },
+
+  { "expression": "have had it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to have lost all patience with someone or something",
+    "exchanges": [ { "uid": "s03_e02_c03_u117", "answer": "had it",
+      "options": ["had it", "made it", "got it", "done it"] } ] },
+
+  { "expression": "vacate", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to leave a seat or place so that it is empty for someone else",
+    "exchanges": [ { "uid": "s03_e02_c02_u071", "answer": "vacated", "cueUid": "s03_e02_c02_u069",
+      "options": ["vacated", "located", "donated", "rotated"] } ] },
+
+  { "expression": "negate", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to cancel out the effect of something",
+    "exchanges": [ { "uid": "s03_e02_c02_u093", "answer": "negates",
+      "options": ["negates", "dictates", "relates", "debates"] } ] },
+
+  { "expression": "in turn", "type": "phrase", "level": "college", "pos": "adverb",
+    "meaning": "as a result of that, or for your own part",
+    "exchanges": [ { "uid": "s03_e02_c03_u013", "answer": "in turn", "responseUid": "s03_e02_c03_u015",
+      "options": ["in turn", "in vain", "in time", "in short"] } ] },
+
+  { "expression": "out of the woods", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "no longer in danger or difficulty",
+    "exchanges": [ { "uid": "s03_e02_c03_u066", "answer": "out of the woods",
+      "cueUid": "s03_e02_c03_u064", "responseUid": "s03_e02_c03_u069",
+      "options": ["out of the woods", "out of the blue", "out of the loop", "out of the box"] } ] },
+
+  { "expression": "go commando", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to wear no underwear",
+    "exchanges": [
+      { "uid": "s03_e02_c03_u039", "answer": "go commando",
+        "options": ["go commando", "go bananas", "go public", "go solo"] },
+      { "uid": "s03_e02_c03_u114", "answer": "going commando", "responseUid": "s03_e02_c03_u116",
+        "options": ["going commando", "going bananas", "going public", "going solo"] } ] },
+
+  { "expression": "breezy", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "relaxed, casual and cheerful in manner, as if nothing is a problem",
+    "exchanges": [ { "uid": "s03_e02_c02_u095", "answer": "breezy", "responseUid": null,
+      "options": ["breezy", "greasy", "sturdy", "chewy"] } ] }
+]

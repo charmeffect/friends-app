@@ -1,0 +1,279 @@
+[
+  {
+    "expression": "suck it up",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "accept something unpleasant without complaining and get on with it",
+    "exchanges": [
+      { "uid": "s02_e24_c01_u010", "answer": "suck it up",
+        "options": ["suck it up", "turn it down", "put it off", "give it up"] }
+    ]
+  },
+  {
+    "expression": "up for",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "being considered as a candidate for a part, job, or prize",
+    "exchanges": [
+      { "uid": "s02_e24_c01_u009", "answer": "up for",
+        "options": ["up for", "in for", "out of", "on at"] }
+    ]
+  },
+  {
+    "expression": "figure out",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to understand or solve something after thinking about it",
+    "exchanges": [
+      { "uid": "s02_e24_c02_u003", "answer": "figure out",
+        "options": ["figure out", "put out", "get out", "hand out"] }
+    ]
+  },
+  {
+    "expression": "tense up",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to become stiff and nervous so that your body or muscles tighten",
+    "exchanges": [
+      { "uid": "s02_e24_c02_u011", "answer": "tensed up",
+        "options": ["tensed up", "showed up", "woke up", "lined up"] }
+    ]
+  },
+  {
+    "expression": "make sense",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to be a reasonable or logical thing to say or do",
+    "exchanges": [
+      { "uid": "s02_e24_c02_u012", "answer": "makes sense",
+        "options": ["makes sense", "makes fun", "takes place", "makes up"] }
+    ]
+  },
+  {
+    "expression": "over my dead body",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "expression",
+    "meaning": "said to insist that you will do everything possible to stop something from happening",
+    "exchanges": [
+      { "uid": "s02_e24_c02_u013", "answer": "Over my dead body", "responseUid": null,
+        "options": ["Over my dead body", "Over my own head", "Under my own roof", "Behind my own back"] }
+    ]
+  },
+  {
+    "expression": "nauseous",
+    "type": "word",
+    "level": "high",
+    "pos": "adjective",
+    "meaning": "feeling as if you are about to vomit",
+    "exchanges": [
+      { "uid": "s02_e24_c03_u004", "answer": "nauseous",
+        "options": ["nauseous", "gorgeous", "anxious", "jealous"] }
+    ]
+  },
+  {
+    "expression": "stay up",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to not go to bed, remaining awake until late",
+    "exchanges": [
+      { "uid": "s02_e24_c03_u013", "answer": "stayed up",
+        "options": ["stayed up", "woke up", "gave up", "grew up"] }
+    ]
+  },
+  {
+    "expression": "call someone on something",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to challenge or criticize someone directly for something they keep doing",
+    "exchanges": [
+      { "uid": "s02_e24_c03_u019", "answer": "called me on it", "cueUid": "s02_e24_c03_u015",
+        "options": ["called me on it", "beat me to it", "walked me through it", "put me onto it"] }
+    ]
+  },
+  {
+    "expression": "cut it out",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "stop doing that (said when someone is being annoying)",
+    "exchanges": [
+      { "uid": "s02_e24_c04_u003", "answer": "cut it out",
+        "options": ["cut it out", "put it up", "take it on", "set it in"] }
+    ]
+  },
+  {
+    "expression": "freak out",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [
+      { "uid": "s02_e24_c03_u022", "answer": "freaking me out",
+        "options": ["freaking me out", "showing me off", "calming me down", "wearing me out"] }
+    ]
+  },
+  {
+    "expression": "terrified",
+    "type": "word",
+    "level": "middle",
+    "pos": "adjective",
+    "meaning": "extremely frightened",
+    "exchanges": [
+      { "uid": "s02_e24_c03_u032", "answer": "terrified",
+        "options": ["terrified", "delighted", "exhausted", "confused"] }
+    ]
+  },
+  {
+    "expression": "no pressure",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "said to tell someone they should not feel forced to agree or answer",
+    "exchanges": [
+      { "uid": "s02_e24_c04_u004", "answer": "no pressure", "responseUid": "s02_e24_c04_u006",
+        "options": ["no pressure", "no wonder", "no kidding", "no thanks"] }
+    ]
+  },
+  {
+    "expression": "practice",
+    "type": "word",
+    "level": "college",
+    "pos": "noun",
+    "meaning": "the business of a doctor, dentist, or lawyer",
+    "exchanges": [
+      { "uid": "s02_e24_c04_u013", "answer": "practice",
+        "options": ["practice", "property", "franchise", "warehouse"] }
+    ]
+  },
+  {
+    "expression": "bassinet",
+    "type": "word",
+    "level": "expert",
+    "pos": "noun",
+    "meaning": "a small bed with a hood for a newborn baby",
+    "exchanges": [
+      { "uid": "s02_e24_c04_u014", "answer": "bassinet",
+        "options": ["bassinet", "cabinet", "banquet", "bayonet"] }
+    ]
+  },
+  {
+    "expression": "be into",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to be strongly attracted to or interested in someone or something",
+    "exchanges": [
+      { "uid": "s02_e24_c05_u018", "answer": "into",
+        "options": ["into", "onto", "above", "beside"] }
+    ]
+  },
+  {
+    "expression": "the other day",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "adverb",
+    "meaning": "a few days ago",
+    "exchanges": [
+      { "uid": "s02_e24_c06_u002", "answer": "the other day",
+        "options": ["the other day", "the whole day", "the big day", "the first day"] }
+    ]
+  },
+  {
+    "expression": "humiliating",
+    "type": "word",
+    "level": "high",
+    "pos": "adjective",
+    "meaning": "making you feel ashamed and foolish in front of other people",
+    "exchanges": [
+      { "uid": "s02_e24_c08_u004", "answer": "humiliating",
+        "options": ["humiliating", "fascinating", "exhausting", "refreshing"] }
+    ]
+  },
+  {
+    "expression": "up and about",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "out of bed and moving around again after an illness",
+    "exchanges": [
+      { "uid": "s02_e24_c08_u012", "answer": "up and about",
+        "options": ["up and about", "in and out", "back and forth", "on and off"] },
+      { "uid": "s02_e24_c08_u022", "answer": "up and about",
+        "options": ["up and about", "in and out", "back and forth", "on and off"] }
+    ]
+  },
+  {
+    "expression": "run out on",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to leave someone who depends on you, suddenly abandoning them",
+    "exchanges": [
+      { "uid": "s02_e24_c08_u023", "answer": "ran out on",
+        "options": ["ran out on", "got back at", "put up with", "came down on"] }
+    ]
+  },
+  {
+    "expression": "kick yourself",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to feel angry and regretful about a mistake or a missed chance",
+    "exchanges": [
+      { "uid": "s02_e24_c09_u009", "answer": "kicking yourself",
+        "options": ["kicking yourself", "pinching yourself", "repeating yourself", "introducing yourself"] }
+    ]
+  },
+  {
+    "expression": "guts",
+    "type": "word",
+    "level": "high",
+    "pos": "noun",
+    "meaning": "the courage and determination to do something difficult",
+    "exchanges": [
+      { "uid": "s02_e24_c10_u009", "answer": "guts", "cueUid": "s02_e24_c10_u007",
+        "options": ["guts", "bones", "lungs", "limbs"] }
+    ]
+  },
+  {
+    "expression": "for the record",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "said when you want to state something officially or make a fact clear to everyone",
+    "exchanges": [
+      { "uid": "s02_e24_c10_u014", "answer": "for the record", "cueUid": "s02_e24_c10_u012",
+        "options": ["for the record", "on the house", "at the top", "in the dark"] }
+    ]
+  },
+  {
+    "expression": "all over again",
+    "type": "phrase",
+    "level": "high",
+    "pos": "adverb",
+    "meaning": "from the beginning, one more time",
+    "exchanges": [
+      { "uid": "s02_e24_c11_u008", "answer": "all over again", "cueUid": "s02_e24_c11_u006",
+        "options": ["all over again", "all in all", "all the more", "all too well"] }
+    ]
+  },
+  {
+    "expression": "hell of a",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "used to emphasize that something was very intense, hard, or remarkable",
+    "exchanges": [
+      { "uid": "s02_e24_c13_u003", "answer": "hell of a", "responseUid": null,
+        "options": ["hell of a", "end of a", "half of a", "top of a"] }
+    ]
+  }
+]
