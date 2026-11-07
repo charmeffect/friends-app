@@ -1,0 +1,526 @@
+[
+{
+  "expression": "ironically",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "in a way that is the opposite of what you would expect, often in an amusing way",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c01_u005",
+      "answer": "Ironically",
+      "options": [
+        "Ironically",
+        "Allegedly",
+        "Gradually",
+        "Previously"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be done with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have finished with something and want no more of it",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c01_u007",
+      "answer": "done with",
+      "options": [
+        "done with",
+        "up to",
+        "in for",
+        "out for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "beat someone to it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to do something before another person has the chance to do it",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c02_u004",
+      "answer": "beat you to it",
+      "responseUid": "s05_e14_c02_u006",
+      "options": [
+        "beat you to it",
+        "hold you to it",
+        "talk you into it",
+        "walk you through it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fill out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to complete a form by writing the required information in the spaces",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c02_u004",
+      "answer": "fill out",
+      "responseUid": "s05_e14_c02_u006",
+      "options": [
+        "fill out",
+        "put out",
+        "cut out",
+        "sort out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c03_u008",
+      "answer": "found out",
+      "cueUid": "s05_e14_c03_u006",
+      "options": [
+        "found out",
+        "made out",
+        "gave out",
+        "ran out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at someone's disposal",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "available for someone to use whenever they need it",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c03_u028",
+      "answer": "at my disposal",
+      "cueUid": "s05_e14_c03_u026",
+      "options": [
+        "at my disposal",
+        "in my favor",
+        "on my behalf",
+        "to my knowledge"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "foxy",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "sexually attractive",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c04_u009",
+      "answer": "foxy",
+      "options": [
+        "foxy",
+        "phony",
+        "bossy",
+        "moody"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "charming",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "pleasant and attractive in a way that makes people like you",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c04_u012",
+      "answer": "charming",
+      "options": [
+        "charming",
+        "clumsy",
+        "stubborn",
+        "gloomy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "any word on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask whether there is any news about something",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c05_u012",
+      "answer": "Any word on",
+      "cueUid": null,
+      "options": [
+        "Any word on",
+        "Any way to",
+        "Any time for",
+        "Any room in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "edge",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an advantage over the other people competing for something",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c05_u015",
+      "answer": "edge",
+      "cueUid": "s05_e14_c05_u013",
+      "options": [
+        "edge",
+        "gap",
+        "grip",
+        "slot"
+      ]
+    },
+    {
+      "uid": "s05_e14_c07_u011",
+      "answer": "edge",
+      "cueUid": "s05_e14_c07_u008",
+      "options": [
+        "edge",
+        "gap",
+        "grip",
+        "slot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go crazy over",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become extremely excited and enthusiastic about something",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c05_u026",
+      "answer": "went crazy over",
+      "options": [
+        "went crazy over",
+        "went quiet about",
+        "went easy on",
+        "went ahead with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bucks",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "dollars",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c05_u028",
+      "answer": "bucks",
+      "options": [
+        "bucks",
+        "ounces",
+        "inches",
+        "miles"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "attracted to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "finding someone romantically or sexually appealing",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c05_u035",
+      "answer": "attracted to",
+      "options": [
+        "attracted to",
+        "related to",
+        "opposed to",
+        "used to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slick",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "clever and skillful in a way that is hard to catch or trust",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c06_u015",
+      "answer": "slick",
+      "options": [
+        "slick",
+        "blunt",
+        "stiff",
+        "numb"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "strike up",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to begin a conversation or friendship with someone in a casual way",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c07_u008",
+      "answer": "strike up",
+      "cueUid": "s05_e14_c07_u006",
+      "options": [
+        "strike up",
+        "break up",
+        "pile up",
+        "stir up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get back to someone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to contact someone later to give them an answer",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c07_u028",
+      "answer": "get back to",
+      "options": [
+        "get back to",
+        "look up to",
+        "come down to",
+        "put up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "squeeze",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to press something firmly, especially from both sides",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c03_u037",
+      "answer": "squeeze",
+      "options": [
+        "squeeze",
+        "stretch",
+        "scratch",
+        "swallow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give away the farm",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "to give or reveal far too much, leaving nothing in reserve",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u021",
+      "answer": "give away the farm",
+      "cueUid": "s05_e14_c10_u016",
+      "responseUid": null,
+      "options": [
+        "give away the farm",
+        "throw away the key",
+        "burn down the house",
+        "break up the band"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get out of hand",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to become impossible to control",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u044",
+      "answer": "getting out of hand",
+      "options": [
+        "getting out of hand",
+        "getting out of town",
+        "getting out of shape",
+        "getting out of breath"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop insisting on something or admit defeat in a contest of wills",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u046",
+      "answer": "backing down",
+      "responseUid": "s05_e14_c10_u049",
+      "options": [
+        "backing down",
+        "slowing down",
+        "counting down",
+        "winding down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out in the open",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "no longer secret and known to everyone",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u050",
+      "answer": "out in the open",
+      "responseUid": "s05_e14_c10_u053",
+      "options": [
+        "out in the open",
+        "out of the blue",
+        "up in the air",
+        "over the moon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "crack",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to finally give in or lose control under pressure",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u057",
+      "answer": "cracks",
+      "cueUid": null,
+      "options": [
+        "cracks",
+        "yawns",
+        "sneezes",
+        "shrugs"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hats off to",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to praise or congratulate someone for what they have done",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u080",
+      "answer": "hats off to",
+      "cueUid": "s05_e14_c10_u078",
+      "responseUid": "s05_e14_c10_u082",
+      "options": [
+        "hats off to",
+        "heads up to",
+        "hands down to",
+        "eyes out for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get back on one's feet",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to recover and return to a normal life after a hard time",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c11_u003",
+      "answer": "back on your feet",
+      "options": [
+        "back on your feet",
+        "up on your toes",
+        "off on your own",
+        "out of your mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be behind someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be finished and no longer a problem for someone",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c11_u004",
+      "answer": "behind me",
+      "options": [
+        "behind me",
+        "beside me",
+        "around me",
+        "above me"
+      ]
+    }
+  ]
+}
+]

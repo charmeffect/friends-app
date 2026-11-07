@@ -1,0 +1,279 @@
+[
+  {
+    "expression": "disgusting",
+    "type": "word",
+    "level": "middle",
+    "pos": "adjective",
+    "meaning": "extremely unpleasant or offensive",
+    "exchanges": [
+      { "uid": "s05_e09_c01_u013", "answer": "disgusting",
+        "options": ["disgusting", "gorgeous", "generous", "gifted"] }
+    ]
+  },
+  {
+    "expression": "cover for",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to lie or make excuses so that someone else's secret or mistake is not discovered",
+    "exchanges": [
+      { "uid": "s05_e09_c01_u021", "answer": "covering for",
+        "options": ["covering for", "heading for", "settling for", "standing for"] }
+    ]
+  },
+  {
+    "expression": "go for",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to choose or try to get a particular thing",
+    "exchanges": [
+      { "uid": "s05_e09_c02_u009", "answer": "go for",
+        "options": ["go for", "go by", "go off", "go under"] }
+    ]
+  },
+  {
+    "expression": "evict",
+    "type": "word",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to legally force someone to leave the home they are renting",
+    "exchanges": [
+      { "uid": "s05_e09_c02_u022", "answer": "evicted",
+        "options": ["evicted", "elected", "escorted", "excluded"] }
+    ]
+  },
+  {
+    "expression": "scare off",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to frighten someone so much that they stay away",
+    "exchanges": [
+      { "uid": "s05_e09_c02_u028", "answer": "scare people off",
+        "options": ["scare people off", "talk people down", "show people up", "let people in"] }
+    ]
+  },
+  {
+    "expression": "keep your mitts off",
+    "type": "colloquial",
+    "level": "expert",
+    "pos": "expression",
+    "meaning": "do not touch or take something that belongs to someone else",
+    "exchanges": [
+      { "uid": "s05_e09_c02_u029", "answer": "Keep your mitts off",
+        "options": ["Keep your mitts off", "Keep your chin up", "Keep your shirt on", "Keep your head down"] }
+    ]
+  },
+  {
+    "expression": "bad ass",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "noun",
+    "meaning": "a tough, fearless person who impresses others",
+    "exchanges": [
+      { "uid": "s05_e09_c02_u033", "answer": "bad ass", "cueUid": "s05_e09_c02_u031",
+        "options": ["bad ass", "big mouth", "sore loser", "slow poke"] }
+    ]
+  },
+  {
+    "expression": "pep rally",
+    "type": "word",
+    "level": "expert",
+    "pos": "noun",
+    "meaning": "a school gathering held to build excitement before a sports game",
+    "exchanges": [
+      { "uid": "s05_e09_c03_u006", "answer": "pep rally",
+        "options": ["pep rally", "bake sale", "prom night", "field trip"] }
+    ]
+  },
+  {
+    "expression": "a given",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "expression",
+    "meaning": "something so obvious or certain that it does not need to be stated",
+    "exchanges": [
+      { "uid": "s05_e09_c03_u010", "answer": "a given",
+        "options": ["a given", "a bonus", "a bargain", "a fluke"] }
+    ]
+  },
+  {
+    "expression": "venture",
+    "type": "word",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to dare to say or suggest something, knowing you may be wrong",
+    "exchanges": [
+      { "uid": "s05_e09_c03_u018", "answer": "venture", "responseUid": "s05_e09_c03_u020",
+        "options": ["venture", "gather", "settle", "render"] }
+    ]
+  },
+  {
+    "expression": "push back",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to move an appointment or event to a later time",
+    "exchanges": [
+      { "uid": "s05_e09_c04_u008", "answer": "pushing back", "responseUid": null,
+        "options": ["pushing back", "pushing over", "holding back", "cutting back"] }
+    ]
+  },
+  {
+    "expression": "ask out",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [
+      { "uid": "s05_e09_c05_u002", "answer": "ask me out",
+        "options": ["ask me out", "let me down", "put me off", "take me on"] }
+    ]
+  },
+  {
+    "expression": "drag through the mud",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to damage someone's reputation by saying bad things about them publicly",
+    "exchanges": [
+      { "uid": "s05_e09_c06_u002", "answer": "dragged through the mud",
+        "options": ["dragged through the mud", "swept under the rug", "nipped in the bud", "blown out of proportion"] }
+    ]
+  },
+  {
+    "expression": "come up with",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to think of an idea or plan",
+    "exchanges": [
+      { "uid": "s05_e09_c06_u010", "answer": "come up with",
+        "options": ["come up with", "get on with", "put up with", "do away with"] }
+    ]
+  },
+  {
+    "expression": "have a word with",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to speak to someone briefly and privately, usually about something serious",
+    "exchanges": [
+      { "uid": "s05_e09_c07_u002", "answer": "have a word with",
+        "options": ["have a word with", "make a point of", "take a look at", "get a hold of"] }
+    ]
+  },
+  {
+    "expression": "calm down",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to stop feeling angry, excited, or nervous",
+    "exchanges": [
+      { "uid": "s05_e09_c07_u022", "answer": "calm down", "responseUid": "s05_e09_c07_u024",
+        "options": ["calm down", "come along", "hold up", "sit back"] }
+    ]
+  },
+  {
+    "expression": "ahead of its time",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "having ideas that are more advanced than those of its own period",
+    "exchanges": [
+      { "uid": "s05_e09_c08_u013", "answer": "ahead of its time",
+        "options": ["ahead of its time", "out of its depth", "on its last legs", "under the weather"] },
+      { "uid": "s05_e09_c08_u017", "answer": "ahead of its time",
+        "options": ["ahead of its time", "out of its depth", "on its last legs", "under the weather"] }
+    ]
+  },
+  {
+    "expression": "work out",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [
+      { "uid": "s05_e09_c09_u003", "answer": "work out", "cueUid": null,
+        "options": ["work out", "show up", "hold on", "run off"] }
+    ]
+  },
+  {
+    "expression": "on account of",
+    "type": "phrase",
+    "level": "college",
+    "pos": "expression",
+    "meaning": "because of",
+    "exchanges": [
+      { "uid": "s05_e09_c09_u012", "answer": "On account of",
+        "options": ["On account of", "In spite of", "In front of", "On behalf of"] }
+    ]
+  },
+  {
+    "expression": "leave of absence",
+    "type": "phrase",
+    "level": "college",
+    "pos": "noun",
+    "meaning": "a period of permitted time away from your job",
+    "exchanges": [
+      { "uid": "s05_e09_c09_u016", "answer": "leave of absence", "cueUid": "s05_e09_c09_u014",
+        "options": ["leave of absence", "vote of confidence", "change of heart", "state of mind"] }
+    ]
+  },
+  {
+    "expression": "worked up",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "adjective",
+    "meaning": "upset, angry, or very excited about something",
+    "exchanges": [
+      { "uid": "s05_e09_c09_u016", "answer": "worked up", "cueUid": "s05_e09_c09_u014",
+        "options": ["worked up", "worked out", "washed up", "wound down"] }
+    ]
+  },
+  {
+    "expression": "go on and on",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to keep talking about something for a long time",
+    "exchanges": [
+      { "uid": "s05_e09_c10_u002", "answer": "go on and on",
+        "options": ["go on and on", "go back and forth", "go up and down", "go in and out"] }
+    ]
+  },
+  {
+    "expression": "snap",
+    "type": "word",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to suddenly lose control of yourself because of pressure",
+    "exchanges": [
+      { "uid": "s05_e09_c10_u005", "answer": "snapped",
+        "options": ["snapped", "bolted", "slipped", "stumbled"] }
+    ]
+  },
+  {
+    "expression": "in the sack",
+    "type": "colloquial",
+    "level": "expert",
+    "pos": "expression",
+    "meaning": "in bed, especially having sex",
+    "exchanges": [
+      { "uid": "s05_e09_c12_u041", "answer": "in the sack",
+        "options": ["in the sack", "on the rocks", "in the loop", "off the hook"] }
+    ]
+  },
+  {
+    "expression": "up for grabs",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "still available for anyone who wants to take it",
+    "exchanges": [
+      { "uid": "s05_e09_c12_u050", "answer": "up for grabs", "responseUid": null,
+        "options": ["up for grabs", "out of reach", "on the fence", "in the bag"] }
+    ]
+  }
+]

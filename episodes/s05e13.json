@@ -1,0 +1,508 @@
+[
+{
+  "expression": "look out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a warning to be careful because something dangerous is coming",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c02_u006",
+      "answer": "look out",
+      "options": [
+        "look out",
+        "sit down",
+        "hurry up",
+        "come in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c02_u015",
+      "answer": "help you out",
+      "cueUid": "s05_e13_c02_u012",
+      "options": [
+        "help you out",
+        "pick you up",
+        "let you down",
+        "turn you in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c05_u006",
+      "answer": "Check it out",
+      "options": [
+        "Check it out",
+        "Think it over",
+        "Hand it over",
+        "Leave it out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do someone a favor",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to do something helpful for someone because they ask you to",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c11_u019",
+      "answer": "do me a favor",
+      "responseUid": "s05_e13_c11_u021",
+      "options": [
+        "do me a favor",
+        "pay me a visit",
+        "sing me a song",
+        "tell me a joke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c08_u008",
+      "answer": "freak him out",
+      "options": [
+        "freak him out",
+        "let him down",
+        "turn him in",
+        "show him up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "allergic",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "having a bad physical reaction to a particular food or substance",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c08_u018",
+      "answer": "allergic",
+      "options": [
+        "allergic",
+        "electric",
+        "athletic",
+        "artistic"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c10_u007",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no bad news",
+        "no small favor",
+        "no good reason"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lousy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very bad or unwell",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c11_u039",
+      "answer": "lousy",
+      "options": [
+        "lousy",
+        "handy",
+        "tidy",
+        "cozy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to tell you the truth",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before admitting something honestly, often something the listener may not like",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c12_u009",
+      "answer": "tell you the truth",
+      "responseUid": "s05_e13_c12_u012",
+      "options": [
+        "tell you the truth",
+        "give you the news",
+        "show you the way",
+        "make you a deal"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a difference",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have an important positive effect on something or someone",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c11_u038",
+      "answer": "make a difference",
+      "options": [
+        "make a difference",
+        "take a chance",
+        "have a point",
+        "do a favor"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "screw up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ruin something by making a bad mistake",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c02_u004",
+      "answer": "screw that up",
+      "responseUid": null,
+      "options": [
+        "screw that up",
+        "turn that down",
+        "put that off",
+        "give that away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "abandon",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave someone, especially a child, and never return",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c08_u009",
+      "answer": "abandoned",
+      "options": [
+        "abandoned",
+        "adopted",
+        "admired",
+        "appointed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tense",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "nervous and unable to relax, so that your muscles feel stiff",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c08_u012",
+      "answer": "tense",
+      "responseUid": "s05_e13_c08_u015",
+      "options": [
+        "tense",
+        "dense",
+        "fierce",
+        "plain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chicken out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide not to do something because you are too scared",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c11_u021",
+      "answer": "chickened out",
+      "cueUid": "s05_e13_c11_u019",
+      "options": [
+        "chickened out",
+        "stormed off",
+        "showed up",
+        "passed out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hear someone out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to listen to everything someone wants to say before you judge them",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c10_u016",
+      "answer": "hear me out",
+      "options": [
+        "hear me out",
+        "count me in",
+        "let me go",
+        "hold me back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "irresponsible",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not caring about the results of your actions or your duties to other people",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c11_u018",
+      "answer": "irresponsible",
+      "options": [
+        "irresponsible",
+        "irresistible",
+        "irrelevant",
+        "irregular"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "torture",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to cause someone great pain on purpose, especially to force them to give information",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c02_u002",
+      "answer": "torturing",
+      "options": [
+        "torturing",
+        "lecturing",
+        "nurturing",
+        "capturing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sophisticated",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "having a lot of experience of the world and knowledge of culture and style",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c02_u012",
+      "answer": "sophisticated",
+      "responseUid": "s05_e13_c02_u015",
+      "options": [
+        "sophisticated",
+        "complicated",
+        "exaggerated",
+        "dedicated"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make one's peace with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to accept a painful situation and stop feeling upset about it",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c04_u014",
+      "answer": "made my peace with",
+      "options": [
+        "made my peace with",
+        "took my time with",
+        "did my best with",
+        "had my fun with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "strike that",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "ignore what I just said; I want to take it back",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c06_u023",
+      "answer": "Strike that",
+      "options": [
+        "Strike that",
+        "Spell that",
+        "Prove that",
+        "Watch that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be past it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be no longer upset or affected by something that happened",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c08_u011",
+      "answer": "past it",
+      "options": [
+        "past it",
+        "under it",
+        "about it",
+        "behind it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "controversial",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "causing a lot of disagreement because people have strong opposing opinions about it",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c12_u019",
+      "answer": "controversial",
+      "options": [
+        "controversial",
+        "conventional",
+        "confidential",
+        "continental"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "suave",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "charming, confident, and elegant in a smooth way, used of a man",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c02_u010",
+      "answer": "suave",
+      "options": [
+        "suave",
+        "shrewd",
+        "stern",
+        "shy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "neither here nor there",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "not important or not relevant to what is being discussed",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c11_u036",
+      "answer": "neither here nor there",
+      "options": [
+        "neither here nor there",
+        "once in a while",
+        "over and above",
+        "sooner or later"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cremate",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to burn a dead body as part of a funeral",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c11_u028",
+      "answer": "cremating",
+      "options": [
+        "cremating",
+        "decorating",
+        "hibernating",
+        "liberating"
+      ]
+    }
+  ]
+}
+]

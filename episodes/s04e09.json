@@ -1,134 +1,528 @@
 [
-  { "expression": "pay back", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to return money that you borrowed from someone",
-    "exchanges": [ { "uid": "s04_e09_c10_u024", "answer": "pay you back",
-      "options": ["pay you back", "give you up", "let you down", "put you off"] } ] },
+{
+  "expression": "pay back",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to return money that you borrowed from someone",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c10_u024",
+      "answer": "pay you back",
+      "options": [
+        "pay you back",
+        "give you up",
+        "let you down",
+        "put you off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to go and buy or collect something, often on the way somewhere",
-    "exchanges": [ { "uid": "s04_e09_c12_u012", "answer": "pick stuff up",
-      "cueUid": "s04_e09_c12_u010", "responseUid": "s04_e09_c12_u014",
-      "options": ["pick stuff up", "put stuff off", "give stuff away", "turn stuff in"] } ] },
+{
+  "expression": "pick up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go and buy or collect something, often on the way somewhere",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c12_u012",
+      "answer": "pick stuff up",
+      "cueUid": "s04_e09_c12_u010",
+      "responseUid": "s04_e09_c12_u014",
+      "options": [
+        "pick stuff up",
+        "put stuff off",
+        "give stuff away",
+        "turn stuff in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s04_e09_c12_u004", "answer": "came up with",
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c12_u004",
+      "answer": "came up with",
       "responseUid": "s04_e09_c12_u006",
-      "options": ["came up with", "ran out of", "got away with", "put up with"] } ] },
+      "options": [
+        "came up with",
+        "ran out of",
+        "got away with",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "so what if", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to say that something does not matter, even if it is true",
-    "exchanges": [
-      { "uid": "s04_e09_c09_u008", "answer": "So what if",
-        "options": ["So what if", "As long as", "How come when", "Even so that"] },
-      { "uid": "s04_e09_c11_u026", "answer": "so what if", "cueUid": "s04_e09_c11_u024",
-        "options": ["so what if", "as long as", "how come when", "even so that"] } ] },
+{
+  "expression": "so what if",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something does not matter, even if it is true",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c09_u008",
+      "answer": "So what if",
+      "options": [
+        "So what if",
+        "As long as",
+        "How come when",
+        "Even so that"
+      ]
+    },
+    {
+      "uid": "s04_e09_c11_u026",
+      "answer": "so what if",
+      "cueUid": "s04_e09_c11_u024",
+      "options": [
+        "so what if",
+        "as long as",
+        "how come when",
+        "even so that"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fill in for", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to do someone's job temporarily while they are away",
-    "exchanges": [ { "uid": "s04_e09_c02_u004", "answer": "fill in for",
-      "options": ["fill in for", "look out for", "stand up to", "run off with"] } ] },
+{
+  "expression": "fill in for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do someone's job temporarily while they are away",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c02_u004",
+      "answer": "fill in for",
+      "options": [
+        "fill in for",
+        "look out for",
+        "stand up to",
+        "run off with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get off work", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to finish work or be excused from working for the day",
-    "exchanges": [ { "uid": "s04_e09_c02_u019", "answer": "get off work",
-      "options": ["get off work", "take up work", "set out work", "pass on work"] } ] },
+{
+  "expression": "get off work",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finish work or be excused from working for the day",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c02_u019",
+      "answer": "get off work",
+      "options": [
+        "get off work",
+        "take up work",
+        "set out work",
+        "pass on work"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stuck", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "unable to move or leave a place",
-    "exchanges": [ { "uid": "s04_e09_c04_u017", "answer": "stuck",
-      "options": ["stuck", "struck", "stiff", "stunned"] } ] },
+{
+  "expression": "stuck",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unable to move or leave a place",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c04_u017",
+      "answer": "stuck",
+      "options": [
+        "stuck",
+        "struck",
+        "stiff",
+        "stunned"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a scene", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to make a loud, embarrassing fuss in front of other people",
-    "exchanges": [ { "uid": "s04_e09_c08_u005", "answer": "make a scene",
-      "options": ["make a scene", "take a stand", "give a show", "put a face"] } ] },
+{
+  "expression": "make a scene",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to make a loud, embarrassing fuss in front of other people",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c08_u005",
+      "answer": "make a scene",
+      "options": [
+        "make a scene",
+        "take a stand",
+        "give a show",
+        "put a face"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hear out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to listen to everything someone has to say before responding",
-    "exchanges": [ { "uid": "s04_e09_c12_u002", "answer": "hear me out",
-      "options": ["hear me out", "see me off", "put me up", "call me off"] } ] },
+{
+  "expression": "hear someone out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to listen to everything someone wants to say before you judge them",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c12_u002",
+      "answer": "hear me out",
+      "options": [
+        "hear me out",
+        "see me off",
+        "put me up",
+        "call me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "besides", "type": "word", "level": "middle", "pos": "adverb",
-    "meaning": "used to add another reason to what has just been said",
-    "exchanges": [ { "uid": "s04_e09_c12_u021", "answer": "Besides", "responseUid": null,
-      "options": ["Besides", "Beyond", "Beneath", "Between"] } ] },
+{
+  "expression": "besides",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to add another reason to what has just been said",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c12_u021",
+      "answer": "Besides",
+      "responseUid": null,
+      "options": [
+        "Besides",
+        "Beyond",
+        "Beneath",
+        "Between"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass away", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to die, said as a gentler way of putting it",
-    "exchanges": [ { "uid": "s04_e09_c13_u005", "answer": "passed away",
-      "options": ["passed away", "put away", "gave away", "took away"] } ] },
+{
+  "expression": "pass away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to die, said as a gentler way of putting it",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c13_u005",
+      "answer": "passed away",
+      "options": [
+        "passed away",
+        "put away",
+        "gave away",
+        "took away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on board", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "in agreement with a plan or idea and willing to support it",
-    "exchanges": [
-      { "uid": "s04_e09_c02_u009", "answer": "on board", "cueUid": "s04_e09_c02_u007", "responseUid": null,
-        "options": ["on board", "in line", "at bat", "up front"] },
-      { "uid": "s04_e09_c14_u002", "answer": "on board",
-        "options": ["on board", "in line", "at bat", "up front"] } ] },
+{
+  "expression": "on board",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in agreement with a plan or idea and willing to support it",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c02_u009",
+      "answer": "on board",
+      "cueUid": "s04_e09_c02_u007",
+      "responseUid": null,
+      "options": [
+        "on board",
+        "in line",
+        "at bat",
+        "up front"
+      ]
+    },
+    {
+      "uid": "s04_e09_c14_u002",
+      "answer": "on board",
+      "options": [
+        "on board",
+        "in line",
+        "at bat",
+        "up front"
+      ]
+    }
+  ]
+},
 
-  { "expression": "step down", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "a move to a job or position that is lower or less important",
-    "exchanges": [ { "uid": "s04_e09_c03_u003", "answer": "step down",
-      "options": ["step down", "turn out", "hold up", "break in"] } ] },
+{
+  "expression": "step down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a move to a job or position that is lower or less important",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c03_u003",
+      "answer": "step down",
+      "options": [
+        "step down",
+        "turn out",
+        "hold up",
+        "break in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mentor", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an experienced person who guides and advises someone less experienced",
-    "exchanges": [ { "uid": "s04_e09_c05_u007", "answer": "mentor",
-      "options": ["mentor", "sponsor", "tenant", "vendor"] } ] },
+{
+  "expression": "mentor",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an experienced person who guides and advises someone less experienced",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c05_u007",
+      "answer": "mentor",
+      "options": [
+        "mentor",
+        "sponsor",
+        "tenant",
+        "vendor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand by", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to continue to support a statement or decision you have made",
-    "exchanges": [ { "uid": "s04_e09_c07_u007", "answer": "stand by",
-      "options": ["stand by", "look into", "turn down", "hand in"] } ] },
+{
+  "expression": "stand by",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to continue to support a statement or decision you have made",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c07_u007",
+      "answer": "stand by",
+      "options": [
+        "stand by",
+        "look into",
+        "turn down",
+        "hand in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stick around", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to stay in a place rather than leaving",
-    "exchanges": [ { "uid": "s04_e09_c08_u012", "answer": "sticking around",
-      "options": ["sticking around", "hanging up", "holding on", "getting by"] } ] },
+{
+  "expression": "stick around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stay in a place rather than leaving",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c08_u012",
+      "answer": "sticking around",
+      "options": [
+        "sticking around",
+        "hanging up",
+        "holding on",
+        "getting by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a step back", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to become less involved in something in order to reconsider or rest",
-    "exchanges": [ { "uid": "s04_e09_c10_u016", "answer": "take a step back",
-      "options": ["take a step back", "give a hand out", "put a hold down", "run a check up"] } ] },
+{
+  "expression": "take a step back",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to become less involved in something in order to reconsider or rest",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c10_u016",
+      "answer": "take a step back",
+      "options": [
+        "take a step back",
+        "give a hand out",
+        "put a hold down",
+        "run a check up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "beat", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "extremely tired",
-    "exchanges": [ { "uid": "s04_e09_c11_u008", "answer": "beat",
-      "options": ["beat", "neat", "loose", "sharp"] } ] },
+{
+  "expression": "beat",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely tired",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c11_u008",
+      "answer": "beat",
+      "options": [
+        "beat",
+        "neat",
+        "loose",
+        "sharp"
+      ]
+    }
+  ]
+},
 
-  { "expression": "by any chance", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "used to ask politely whether something is true or possible",
-    "exchanges": [ { "uid": "s04_e09_c13_u012", "answer": "by any chance",
-      "options": ["by any chance", "for any reason", "with any luck", "on any account"] } ] },
+{
+  "expression": "by any chance",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask politely whether something is true or possible",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c13_u012",
+      "answer": "by any chance",
+      "options": [
+        "by any chance",
+        "for any reason",
+        "with any luck",
+        "on any account"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cultivate", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to develop a relationship or skill with care and effort",
-    "exchanges": [ { "uid": "s04_e09_c05_u011", "answer": "cultivating",
-      "options": ["cultivating", "circulating", "calculating", "complicating"] } ] },
+{
+  "expression": "cultivate",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to develop a relationship or skill with care and effort",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c05_u011",
+      "answer": "cultivating",
+      "options": [
+        "cultivating",
+        "circulating",
+        "calculating",
+        "complicating"
+      ]
+    }
+  ]
+},
 
-  { "expression": "retraction", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a public statement taking back something that was said or published earlier",
-    "exchanges": [ { "uid": "s04_e09_c07_u002", "answer": "retraction",
-      "options": ["retraction", "reduction", "reaction", "restriction"] } ] },
+{
+  "expression": "retraction",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a public statement taking back something that was said or published earlier",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c07_u002",
+      "answer": "retraction",
+      "options": [
+        "retraction",
+        "reduction",
+        "reaction",
+        "restriction"
+      ]
+    }
+  ]
+},
 
-  { "expression": "effective", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "starting to apply or be in force from a particular time",
-    "exchanges": [ { "uid": "s04_e09_c08_u023", "answer": "Effective",
-      "options": ["Effective", "Efficient", "Essential", "Eventual"] } ] },
+{
+  "expression": "effective",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "starting to apply or be in force from a particular time",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c08_u023",
+      "answer": "Effective",
+      "options": [
+        "Effective",
+        "Efficient",
+        "Essential",
+        "Eventual"
+      ]
+    }
+  ]
+},
 
-  { "expression": "expense account", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "money a company lets an employee spend on work-related costs",
-    "exchanges": [ { "uid": "s04_e09_c08_u024", "answer": "expense account",
-      "options": ["expense account", "savings balance", "credit record", "payroll card"] } ] },
+{
+  "expression": "expense account",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "money a company lets an employee spend on work-related costs",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c08_u024",
+      "answer": "expense account",
+      "options": [
+        "expense account",
+        "savings balance",
+        "credit record",
+        "payroll card"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lay into", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to criticize or attack someone or something harshly",
-    "exchanges": [ { "uid": "s04_e09_c06_u005", "answer": "laid into",
-      "options": ["laid into", "ran across", "fell for", "took after"] } ] },
+{
+  "expression": "lay into",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to criticize or attack someone or something harshly",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c06_u005",
+      "answer": "laid into",
+      "options": [
+        "laid into",
+        "ran across",
+        "fell for",
+        "took after"
+      ]
+    }
+  ]
+},
 
-  { "expression": "snowball", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to grow bigger or more serious at a fast, increasing rate",
-    "exchanges": [ { "uid": "s04_e09_c10_u018", "answer": "snowballing",
-      "options": ["snowballing", "stonewalling", "bulldozing", "sandbagging"] } ] }
+{
+  "expression": "snowball",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to grow bigger or more serious at a fast, increasing rate",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c10_u018",
+      "answer": "snowballing",
+      "options": [
+        "snowballing",
+        "stonewalling",
+        "bulldozing",
+        "sandbagging"
+      ]
+    }
+  ]
+}
 ]

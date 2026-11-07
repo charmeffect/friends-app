@@ -1,0 +1,509 @@
+[
+{
+  "expression": "get used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become familiar with something so that it no longer seems strange",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c12_u009",
+      "answer": "get used to",
+      "options": [
+        "get used to",
+        "get rid of",
+        "get back at",
+        "get away with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mind if",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way to ask whether someone objects to what you are about to do",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c13_u002",
+      "answer": "mind if",
+      "options": [
+        "mind if",
+        "care that",
+        "know when",
+        "think so"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the other day",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "a few days ago",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c10_u006",
+      "answer": "the other day",
+      "cueUid": "s05_e12_c10_u004",
+      "options": [
+        "the other day",
+        "the whole time",
+        "the next week",
+        "the first night"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dress up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to put on nice or special clothes for an occasion",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c03_u002",
+      "answer": "dressed up",
+      "options": [
+        "dressed up",
+        "lined up",
+        "signed up",
+        "packed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bump into",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c04_u004",
+      "answer": "bumped into",
+      "cueUid": "s05_e12_c04_u002",
+      "options": [
+        "bumped into",
+        "looked into",
+        "broke into",
+        "turned into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have in common",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to share the same interests or qualities as someone",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c09_u013",
+      "answer": "in common",
+      "options": [
+        "in common",
+        "in private",
+        "at stake",
+        "on hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "frustrated",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "annoyed and upset because you cannot change or achieve something",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c07_u004",
+      "answer": "frustrated",
+      "responseUid": "s05_e12_c07_u007",
+      "options": [
+        "frustrated",
+        "fascinated",
+        "flattered",
+        "frightened"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nasty",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unkind and unpleasant, meant to hurt someone",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c05_u010",
+      "answer": "nasty",
+      "options": [
+        "nasty",
+        "nosy",
+        "noisy",
+        "needy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stay out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remain away from home, especially late at night",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c08_u002",
+      "answer": "stay out",
+      "options": [
+        "stay out",
+        "stay in",
+        "hold out",
+        "sit out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good luck with that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically to show that you think someone's plan will fail",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c04_u008",
+      "answer": "good luck with that",
+      "responseUid": null,
+      "options": [
+        "good luck with that",
+        "good job on that",
+        "good call on that",
+        "good point about that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pocket money",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a small amount of money for personal spending",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c13_u019",
+      "answer": "pocket money",
+      "options": [
+        "pocket money",
+        "prize money",
+        "hush money",
+        "seed money"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "juicy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "interesting or exciting because it is shocking or private",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c04_u021",
+      "answer": "juicy",
+      "options": [
+        "juicy",
+        "greasy",
+        "chewy",
+        "crunchy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "overhear",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to hear what other people are saying without them meaning you to",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c10_u006",
+      "answer": "overheard",
+      "cueUid": "s05_e12_c10_u004",
+      "options": [
+        "overheard",
+        "overlooked",
+        "overcame",
+        "overturned"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "open up to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start sharing your private thoughts and feelings with someone",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c11_u016",
+      "answer": "opened up to",
+      "options": [
+        "opened up to",
+        "looked up to",
+        "made up to",
+        "gave in to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on fire",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "performing extremely well and succeeding at everything",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c06_u010",
+      "answer": "on fire",
+      "options": [
+        "on fire",
+        "on edge",
+        "on hold",
+        "on call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get off one's chest",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to tell someone about something that has been worrying you so that you feel relieved",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c10_u002",
+      "answer": "get off my chest",
+      "options": [
+        "get off my chest",
+        "get out of hand",
+        "get on my nerves",
+        "get under my skin"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tough call",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a decision that is difficult to make",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c11_u021",
+      "answer": "tough call",
+      "options": [
+        "tough call",
+        "close shave",
+        "long shot",
+        "fair game"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fall apart",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fail completely or stop working, used of relationships and plans",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c14_u009",
+      "answer": "falls apart",
+      "options": [
+        "falls apart",
+        "shows up",
+        "runs out",
+        "takes off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "gullible",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "too ready to believe what people tell you, so easy to fool",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c13_u028",
+      "answer": "gullible",
+      "responseUid": null,
+      "options": [
+        "gullible",
+        "gracious",
+        "gorgeous",
+        "grateful"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no strings attached",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "given or offered without any conditions or expectations in return",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c15_u011",
+      "answer": "No strings attached",
+      "cueUid": "s05_e12_c15_u009",
+      "responseUid": null,
+      "options": [
+        "No strings attached",
+        "No questions asked",
+        "No hard feelings",
+        "No harm done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "initiate",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to start something or cause it to begin",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c01_u006",
+      "answer": "initiated",
+      "options": [
+        "initiated",
+        "imitated",
+        "indicated",
+        "irritated"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "suck-up",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who flatters someone in authority to gain their favour",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c07_u008",
+      "answer": "suck-up",
+      "options": [
+        "suck-up",
+        "show-off",
+        "know-it-all",
+        "pushover"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "confront",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to face someone directly and challenge them about something they have done",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c13_u005",
+      "answer": "confront",
+      "options": [
+        "confront",
+        "convince",
+        "console",
+        "consult"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sabbatical",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a period of paid leave from a job, especially for an academic, to rest or study",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c14_u005",
+      "answer": "sabbatical",
+      "options": [
+        "sabbatical",
+        "probation",
+        "retainer",
+        "commission"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sniveling",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "complaining in a weak, tearful, self-pitying way",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c12_u012",
+      "answer": "sniveling",
+      "options": [
+        "sniveling",
+        "sizzling",
+        "slouching",
+        "sprawling"
+      ]
+    }
+  ]
+}
+]

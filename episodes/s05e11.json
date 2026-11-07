@@ -1,0 +1,506 @@
+[
+{
+  "expression": "what's the matter",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "what is wrong; asked when someone seems upset",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c01_u005",
+      "answer": "What's the matter",
+      "options": [
+        "What's the matter",
+        "Where's the party",
+        "Who's the winner",
+        "How's the weather"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to admit that someone has made a sensible argument",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c01_u018",
+      "answer": "good point",
+      "options": [
+        "good point",
+        "big deal",
+        "long shot",
+        "hard luck"
+      ],
+      "responseUid": "s05_e11_c01_u020"
+    },
+    {
+      "uid": "s05_e11_c01_u030",
+      "answer": "good point",
+      "options": [
+        "good point",
+        "nice try",
+        "bad timing",
+        "close call"
+      ],
+      "responseUid": "s05_e11_c01_u032"
+    }
+  ]
+},
+
+{
+  "expression": "go out on a limb",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to say or do something risky that others might not agree with",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u002",
+      "answer": "out on a limb",
+      "options": [
+        "out on a limb",
+        "off the deep end",
+        "down to the wire",
+        "up in the air"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "plummet",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to fall straight down very fast",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u008",
+      "answer": "plummet",
+      "options": [
+        "plummet",
+        "wander",
+        "sprint",
+        "stumble"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sprout",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to grow or suddenly develop something new, like a plant growing shoots",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u010",
+      "answer": "sprouting",
+      "options": [
+        "sprouting",
+        "stealing",
+        "painting",
+        "shaking"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "better yet",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to introduce an idea that is even better than the one just mentioned",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u011",
+      "answer": "better yet",
+      "options": [
+        "better yet",
+        "worse still",
+        "even so",
+        "less so"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "New Year's resolution",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a promise to yourself to do or change something in the coming year",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u013",
+      "answer": "New Year's resolution",
+      "options": [
+        "New Year's resolution",
+        "New Year's tradition",
+        "New Year's bonus",
+        "New Year's parade"
+      ],
+      "responseUid": "s05_e11_c02_u015"
+    }
+  ]
+},
+
+{
+  "expression": "keep an eye on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to watch someone carefully to make sure they behave or stay safe",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u021",
+      "answer": "keep an eye on",
+      "options": [
+        "keep an eye on",
+        "get a hold of",
+        "put a stop to",
+        "make a fuss of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "botched",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "done badly or clumsily so that it goes wrong",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u026",
+      "answer": "botched",
+      "options": [
+        "botched",
+        "melted",
+        "haunted",
+        "frozen"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "gossip",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to talk about other people's private lives",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c04_u002",
+      "answer": "gossip",
+      "options": [
+        "gossip",
+        "complain",
+        "exaggerate",
+        "interrupt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check this out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "look at this",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c04_u004",
+      "answer": "check this out",
+      "options": [
+        "check this out",
+        "take this off",
+        "turn this down",
+        "give this back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nail",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something perfectly or succeed at it completely",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c04_u005",
+      "answer": "nailed",
+      "options": [
+        "nailed",
+        "dropped",
+        "skipped",
+        "missed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have in mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be thinking of or intending a particular thing",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c04_u021",
+      "answer": "had in mind",
+      "options": [
+        "had in mind",
+        "put in place",
+        "took to heart",
+        "kept in touch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freak",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who looks or behaves in a very strange way",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c04_u027",
+      "answer": "freak",
+      "options": [
+        "freak",
+        "genius",
+        "stranger",
+        "tourist"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "snuggle",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to lie or sit close to someone in a warm, comfortable way",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c05_u002",
+      "answer": "snuggle",
+      "options": [
+        "snuggle",
+        "shower",
+        "giggle",
+        "shiver"
+      ],
+      "responseUid": "s05_e11_c05_u004"
+    }
+  ]
+},
+
+{
+  "expression": "sick and tired of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely annoyed by something that has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c06_u015",
+      "answer": "sick and tired",
+      "options": [
+        "sick and tired",
+        "safe and sound",
+        "loud and clear",
+        "short and sweet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c07_u013",
+      "answer": "hold on",
+      "options": [
+        "hold on",
+        "keep on",
+        "hold off",
+        "carry on"
+      ]
+    },
+    {
+      "uid": "s05_e11_c07_u017",
+      "answer": "Hold on",
+      "options": [
+        "Hold on",
+        "Come on",
+        "Go on",
+        "Hang up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to happen or develop successfully",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c07_u026",
+      "answer": "works out",
+      "options": [
+        "works out",
+        "wears off",
+        "shows up",
+        "runs out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put out fires",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to deal with one urgent problem after another",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c07_u028",
+      "answer": "putting out fires",
+      "options": [
+        "putting out fires",
+        "picking up pieces",
+        "setting up shop",
+        "breaking down doors"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c08_u002",
+      "answer": "freaked out",
+      "options": [
+        "freaked out",
+        "backed off",
+        "showed off",
+        "calmed down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fringe",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a decorative border of hanging threads or strips on clothing",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c10_u014",
+      "answer": "fringe",
+      "options": [
+        "fringe",
+        "glitter",
+        "padding",
+        "ribbon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wrap up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to finish or settle something completely",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c10_u015",
+      "answer": "wrapped up",
+      "options": [
+        "wrapped up",
+        "backed up",
+        "filled in",
+        "dried off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bound to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "certain or very likely to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c10_u018",
+      "answer": "bound to",
+      "options": [
+        "bound to",
+        "used to",
+        "meant to",
+        "afraid to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dying to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "wanting to do something very much",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c10_u046",
+      "answer": "dying to",
+      "options": [
+        "dying to",
+        "learning to",
+        "pretending to",
+        "forgetting to"
+      ],
+      "responseUid": "s05_e11_c10_u048"
+    }
+  ]
+}
+]
