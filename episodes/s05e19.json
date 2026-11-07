@@ -1,0 +1,129 @@
+[
+  { "expression": "the other day", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "a few days ago",
+    "exchanges": [ { "uid": "s05_e19_c02_u018", "answer": "the other day", "responseUid": "s05_e19_c02_u020",
+      "options": ["the other day", "the day after", "any day now", "day by day"] } ] },
+
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s05_e19_c05_u002", "answer": "ran into", "cueUid": null,
+      "options": ["ran into", "ran over", "ran after", "ran through"] } ] },
+
+  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "used to add a new topic or something you just remembered",
+    "exchanges": [ { "uid": "s05_e19_c02_u080", "answer": "by the way",
+      "options": ["by the way", "on the way", "in the way", "all the way"] } ] },
+
+  { "expression": "calm down", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop feeling angry, excited, or nervous",
+    "exchanges": [ { "uid": "s05_e19_c03_u056", "answer": "calm down", "responseUid": null,
+      "options": ["calm down", "slow down", "sit down", "cool off"] } ] },
+
+  { "expression": "what's the occasion", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "asked when someone is dressed up or celebrating, to find out the reason",
+    "exchanges": [ { "uid": "s05_e19_c01_u004", "answer": "What's the occasion", "cueUid": null,
+      "options": ["What's the occasion", "What's the matter", "What's the hurry", "What's the point"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [
+      { "uid": "s05_e19_c02_u098", "answer": "no big deal", "cueUid": "s05_e19_c02_u095",
+        "options": ["no big deal", "no hard feelings", "no such thing", "no other way"] },
+      { "uid": "s05_e19_c03_u037", "answer": "no big deal",
+        "options": ["no big deal", "no hard feelings", "no such thing", "no other way"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s05_e19_c02_u058", "answer": "freak out",
+      "options": ["freak out", "back off", "show off", "calm down"] } ] },
+
+  { "expression": "meanwhile", "type": "word", "level": "middle", "pos": "adverb",
+    "meaning": "during the same time that something else is happening",
+    "exchanges": [ { "uid": "s05_e19_c03_u050", "answer": "Meanwhile", "cueUid": "s05_e19_c03_u047", "responseUid": null,
+      "options": ["Meanwhile", "Otherwise", "Likewise", "Elsewhere"] } ] },
+
+  { "expression": "be on me", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when you will pay for something for other people",
+    "exchanges": [ { "uid": "s05_e19_c03_u102", "answer": "on me",
+      "options": ["on me", "for me", "by me", "to me"] } ] },
+
+  { "expression": "back off", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to stop threatening or bothering someone and move away",
+    "exchanges": [ { "uid": "s05_e19_c05_u017", "answer": "back off",
+      "options": ["back off", "take off", "come off", "set off"] } ] },
+
+  { "expression": "piss off", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone angry",
+    "exchanges": [ { "uid": "s05_e19_c01_u017", "answer": "pissed him off",
+      "options": ["pissed him off", "put him down", "let him in", "took him out"] } ] },
+
+  { "expression": "hit on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+    "exchanges": [ { "uid": "s05_e19_c02_u010", "answer": "hitting on",
+      "options": ["hitting on", "picking on", "counting on", "waiting on"] } ] },
+
+  { "expression": "don't get me started", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to warn that you have strong opinions on a topic and could talk about it for a long time",
+    "exchanges": [ { "uid": "s05_e19_c02_u005", "answer": "Don't get me started", "responseUid": null,
+      "options": ["Don't get me started", "Don't let me down", "Don't put me off", "Don't keep me waiting"] } ] },
+
+  { "expression": "clear up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make something clear by removing confusion or doubt",
+    "exchanges": [ { "uid": "s05_e19_c03_u035", "answer": "cleared that up",
+      "options": ["cleared that up", "turned that down", "kept that up", "put that off"] } ] },
+
+  { "expression": "on purpose", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "intentionally, not by accident",
+    "exchanges": [ { "uid": "s05_e19_c03_u069", "answer": "on purpose",
+      "options": ["on purpose", "on time", "on hold", "on track"] } ] },
+
+  { "expression": "get past", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to overcome or stop being bothered by something difficult",
+    "exchanges": [ { "uid": "s05_e19_c04_u008", "answer": "get past", "cueUid": "s05_e19_c04_u005",
+      "options": ["get past", "get along", "get ahead", "get across"] } ] },
+
+  { "expression": "live for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to consider something the most important thing in your life",
+    "exchanges": [ { "uid": "s05_e19_c03_u003", "answer": "lives for",
+      "options": ["lives for", "lives through", "lives under", "lives beside"] } ] },
+
+  { "expression": "cut someone out of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to remove someone's scenes from a film or show before it is broadcast",
+    "exchanges": [ { "uid": "s05_e19_c02_u119", "answer": "cut me out of", "responseUid": "s05_e19_c02_u121",
+      "options": ["cut me out of", "talked me out of", "ran me out of", "wore me out of"] } ] },
+
+  { "expression": "pull some strings", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to use your influence or personal connections secretly to get something done",
+    "exchanges": [ { "uid": "s05_e19_c01_u007", "answer": "pulled some strings", "responseUid": null,
+      "options": ["pulled some strings", "burned some bridges", "kept some secrets", "threw some punches"] } ] },
+
+  { "expression": "have nothing to prove", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to not need to show others how good you are because your worth is already clear",
+    "exchanges": [ { "uid": "s05_e19_c03_u081", "answer": "have nothing to prove",
+      "options": ["have nothing to prove", "have nothing to wear", "have nothing to hide", "have nothing to spare"] } ] },
+
+  { "expression": "odorless", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "having no smell",
+    "exchanges": [ { "uid": "s05_e19_c03_u095", "answer": "odorless", "cueUid": "s05_e19_c03_u093",
+      "options": ["odorless", "spotless", "weightless", "flawless"] } ] },
+
+  { "expression": "don't do me any favors", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said sarcastically when someone's offer of help feels unwanted or insulting",
+    "exchanges": [ { "uid": "s05_e19_c05_u007", "answer": "doing me any favors",
+      "options": ["doing me any favors", "giving me any trouble", "making me any promises", "telling me any stories"] } ] },
+
+  { "expression": "uncanny", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "strange or surprising in a way that is hard to explain, especially an imitation that is almost too accurate",
+    "exchanges": [ { "uid": "s05_e19_c01_u026", "answer": "uncanny",
+      "options": ["uncanny", "unruly", "unkempt", "untimely"] } ] },
+
+  { "expression": "swoop in", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to move in quickly and suddenly to take an opportunity",
+    "exchanges": [ { "uid": "s05_e19_c02_u091", "answer": "swoop in", "cueUid": "s05_e19_c02_u089",
+      "options": ["swoop in", "sleep in", "cave in", "tune in"] } ] },
+
+  { "expression": "bash someone's head in", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to hit someone very hard on the head, used as a violent threat",
+    "exchanges": [ { "uid": "s05_e19_c02_u066", "answer": "bash his head in", "cueUid": null, "responseUid": "s05_e19_c02_u068",
+      "options": ["bash his head in", "kick his door down", "shake his hand off", "knock his socks off"] } ] }
+]

@@ -1,0 +1,499 @@
+[
+{
+  "expression": "work on",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time and effort trying to improve or fix something",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c01_u013",
+      "answer": "work on",
+      "cueUid": "s05_e17_c01_u011",
+      "responseUid": "s05_e17_c01_u015",
+      "options": [
+        "work on",
+        "put on",
+        "go on",
+        "hold on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you feel sure that something is true or will happen",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c06_u017",
+      "answer": "I bet",
+      "cueUid": "s05_e17_c06_u015",
+      "options": [
+        "I bet",
+        "I wish",
+        "I doubt",
+        "I swear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time with someone as a boyfriend or girlfriend",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c15_u019",
+      "answer": "going out",
+      "options": [
+        "going out",
+        "moving in",
+        "getting up",
+        "coming over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the other day",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "a few days ago",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c12_u012",
+      "answer": "the other day",
+      "options": [
+        "the other day",
+        "the next day",
+        "the last day",
+        "the whole day"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tell me about it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c02_u010",
+      "answer": "Tell me about it",
+      "responseUid": null,
+      "options": [
+        "Tell me about it",
+        "Ask me about it",
+        "Warn me about it",
+        "Remind me about it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "curious",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "wanting to know or learn about something",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c05_u022",
+      "answer": "curious",
+      "options": [
+        "curious",
+        "furious",
+        "generous",
+        "obvious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone a shot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give someone a chance to show what they can do",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c14_u009",
+      "answer": "give you a shot",
+      "options": [
+        "give you a shot",
+        "give you a lift",
+        "give you a hand",
+        "give you a hint"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "accidentally",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "by chance, without meaning to do it",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c06_u021",
+      "answer": "accidentally",
+      "options": [
+        "accidentally",
+        "gradually",
+        "constantly",
+        "frequently"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "loan",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to lend something to someone for a period of time",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c16_u006",
+      "answer": "loaning",
+      "options": [
+        "loaning",
+        "borrowing",
+        "owing",
+        "spending"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mix it up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get actively involved and make things more lively or varied",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c02_u007",
+      "answer": "mix it up",
+      "options": [
+        "mix it up",
+        "make it up",
+        "fix it up",
+        "mix it in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cut short",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to end something earlier than planned",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c05_u004",
+      "answer": "cut short",
+      "options": [
+        "cut short",
+        "cut back",
+        "cut down",
+        "cut loose"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep your hands off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to stop yourself from touching someone or something",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c05_u016",
+      "answer": "keep your hands off",
+      "options": [
+        "keep your hands off",
+        "keep your mouths shut",
+        "keep your feet off",
+        "hold your hands up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all over each other",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "constantly touching and kissing each other in a very affectionate way",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c05_u021",
+      "answer": "all over each other",
+      "options": [
+        "all over each other",
+        "all around each other",
+        "all along each other",
+        "all against each other"
+      ]
+    },
+    {
+      "uid": "s05_e17_c15_u026",
+      "answer": "all over each other",
+      "options": [
+        "all over each other",
+        "all around each other",
+        "all along each other",
+        "all against each other"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walk in on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enter a room and unexpectedly find people doing something private",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c10_u012",
+      "answer": "walk in on",
+      "options": [
+        "walk in on",
+        "walk out on",
+        "hang up on",
+        "sit in on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "handyman",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person paid to do small repairs around a building",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c11_u008",
+      "answer": "handyman",
+      "responseUid": "s05_e17_c11_u010",
+      "options": [
+        "handyman",
+        "mailman",
+        "fireman",
+        "businessman"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stroll",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a slow, relaxed walk for pleasure",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c15_u009",
+      "answer": "stroll",
+      "options": [
+        "stroll",
+        "sprint",
+        "stumble",
+        "shrug"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get past",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to move beyond a stage or difficulty and continue",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c15_u029",
+      "answer": "get past",
+      "options": [
+        "get past",
+        "get back",
+        "get off",
+        "get along"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "can't get enough",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to like something so much that you always want more of it",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c16_u008",
+      "answer": "cannot get enough",
+      "responseUid": null,
+      "options": [
+        "cannot get enough",
+        "cannot take anymore",
+        "cannot keep up",
+        "cannot hold back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "misspeak",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to say something wrongly or not express what you meant",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c05_u024",
+      "answer": "misspoke",
+      "options": [
+        "misspoke",
+        "mistyped",
+        "misprinted",
+        "mislabeled"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sleep around",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to have sex with many different people",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c08_u013",
+      "answer": "sleep around",
+      "options": [
+        "sleep around",
+        "sleep over",
+        "sleep in",
+        "sleep off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "parallel universe",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an imaginary separate world that exists alongside our own",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c12_u015",
+      "answer": "parallel universe",
+      "cueUid": "s05_e17_c12_u013",
+      "options": [
+        "parallel universe",
+        "particular universe",
+        "personal universe",
+        "perfect universe"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "irrational",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not based on reason or clear thinking",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c15_u037",
+      "answer": "irrational",
+      "responseUid": null,
+      "options": [
+        "irrational",
+        "irregular",
+        "irrelevant",
+        "irresistible"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be down with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to agree with a plan or be willing to do it",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c02_u008",
+      "answer": "down with",
+      "options": [
+        "down with",
+        "in with",
+        "off with",
+        "out with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sleazeball",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a dishonest, sexually unpleasant, or morally low person",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c09_u002",
+      "answer": "sleaze-ball",
+      "options": [
+        "sleaze-ball",
+        "screw-ball",
+        "hard-ball",
+        "curve-ball"
+      ]
+    }
+  ]
+}
+]

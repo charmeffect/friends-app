@@ -1,0 +1,127 @@
+[
+  { "expression": "to go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "ordered to be taken away rather than eaten or drunk in the cafe",
+    "exchanges": [ { "uid": "s05_e15_c07_u011", "answer": "to go",
+      "options": ["to go", "to take", "for out", "on hand"] } ] },
+
+  { "expression": "on your own", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "without help from anyone else",
+    "exchanges": [ { "uid": "s05_e15_c12_u029", "answer": "on your own",
+      "options": ["on your own", "by your side", "in your way", "at your end"] } ] },
+
+  { "expression": "move in", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to start living in a new home",
+    "exchanges": [ { "uid": "s05_e15_c03_u026", "answer": "moved in",
+      "options": ["moved in", "signed up", "dropped by", "looked around"] } ] },
+
+  { "expression": "for a while", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "for a fairly long period of time",
+    "exchanges": [ { "uid": "s05_e15_c01_u017", "answer": "for a while",
+      "options": ["for a while", "in a bit", "at a time", "on a roll"] } ] },
+
+  { "expression": "urgent", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "needing attention or action immediately",
+    "exchanges": [ { "uid": "s05_e15_c12_u002", "answer": "urgent",
+      "options": ["urgent", "ancient", "patient", "decent"] } ] },
+
+  { "expression": "mess up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to spoil or ruin something",
+    "exchanges": [ { "uid": "s05_e15_c07_u016", "answer": "mess up",
+      "options": ["mess up", "back off", "show up", "give in"] } ] },
+
+  { "expression": "beat up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to hurt someone badly by hitting them repeatedly",
+    "exchanges": [ { "uid": "s05_e15_c02_u031", "answer": "beating him up",
+      "options": ["beating him up", "letting him down", "picking him out", "showing him off"] } ] },
+
+  { "expression": "have you lost your mind", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said angrily to ask whether someone has gone crazy",
+    "exchanges": [ { "uid": "s05_e15_c06_u018", "answer": "lost your mind",
+      "options": ["lost your mind", "held your breath", "made your bed", "kept your word"] } ] },
+
+  { "expression": "my bad", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "a casual way of admitting that something was your fault",
+    "exchanges": [ { "uid": "s05_e15_c08_u018", "answer": "my bad", "responseUid": null,
+      "options": ["my bad", "my turn", "my call", "my way"] } ] },
+
+  { "expression": "teasing", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "making fun of someone in a playful way",
+    "exchanges": [ { "uid": "s05_e15_c13_u010", "answer": "teasing",
+      "options": ["teasing", "cheating", "chatting", "begging"] } ] },
+
+  { "expression": "get down to business", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to start doing the thing you are really there to do",
+    "exchanges": [ { "uid": "s05_e15_c01_u023", "answer": "down to business",
+      "options": ["down to business", "up to speed", "on the fence", "out of line"] } ] },
+
+  { "expression": "scented", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "having a pleasant smell added to it",
+    "exchanges": [ { "uid": "s05_e15_c03_u009", "answer": "scented",
+      "options": ["scented", "frosted", "tinted", "dented"] } ] },
+
+  { "expression": "party animal", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a person who loves going to parties and having a wild time",
+    "exchanges": [ { "uid": "s05_e15_c04_u008", "answer": "party animal",
+      "options": ["party animal", "couch potato", "early bird", "lone wolf"] } ] },
+
+  { "expression": "obsessed with", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "unable to stop thinking about something",
+    "exchanges": [ { "uid": "s05_e15_c06_u017", "answer": "obsessed with",
+      "options": ["obsessed with", "annoyed with", "bored with", "finished with"] } ] },
+
+  { "expression": "chip in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to each give some money so that a group can pay for something together",
+    "exchanges": [ { "uid": "s05_e15_c08_u007", "answer": "chipping in",
+      "cueUid": "s05_e15_c08_u006", "responseUid": "s05_e15_c08_u009",
+      "options": ["chipping in", "backing down", "giving up", "running off"] } ] },
+
+  { "expression": "unreasonable", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "not fair or sensible; expecting too much",
+    "exchanges": [ { "uid": "s05_e15_c08_u010", "answer": "unreasonable",
+      "options": ["unreasonable", "unemployed", "unfamiliar", "unaware"] } ] },
+
+  { "expression": "jump in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to join a conversation or situation suddenly and eagerly",
+    "exchanges": [ { "uid": "s05_e15_c11_u002", "answer": "jump in",
+      "options": ["jump in", "back off", "pull over", "move out"] } ] },
+
+  { "expression": "things are looking up", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "a situation is starting to improve",
+    "exchanges": [ { "uid": "s05_e15_c10_u016", "answer": "Things are looking up",
+      "options": ["Things are looking up", "Things are adding up", "Things are winding down", "Things are piling up"] } ] },
+
+  { "expression": "who's to say", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "nobody can know for certain",
+    "exchanges": [ { "uid": "s05_e15_c04_u015", "answer": "who's to say",
+      "options": ["who's to say", "who's to blame", "what's to say", "who's to talk"] } ] },
+
+  { "expression": "come off", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to give a particular impression to other people",
+    "exchanges": [ { "uid": "s05_e15_c10_u012", "answer": "came off",
+      "options": ["came off", "took off", "set off", "put off"] } ] },
+
+  { "expression": "talk up", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to praise someone to other people so they think well of them",
+    "exchanges": [ { "uid": "s05_e15_c10_u007", "answer": "talking you up",
+      "options": ["talking you up", "turning you in", "letting you down", "calling you out"] } ] },
+
+  { "expression": "cheap shot", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "an unfair remark that attacks someone's weak point",
+    "exchanges": [ { "uid": "s05_e15_c12_u028", "answer": "cheap shot",
+      "options": ["cheap shot", "long shot", "close call", "hard sell"] } ] },
+
+  { "expression": "fixable", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "able to be repaired or put right",
+    "exchanges": [ { "uid": "s05_e15_c07_u002", "answer": "fixable",
+      "options": ["fixable", "visible", "edible", "flexible"] } ] },
+
+  { "expression": "cheapskate", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a person who hates spending money",
+    "exchanges": [ { "uid": "s05_e15_c04_u002", "answer": "cheapskate",
+      "options": ["cheapskate", "daredevil", "copycat", "killjoy"] } ] },
+
+  { "expression": "abrasive", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "rude and harsh in the way you treat people",
+    "exchanges": [ { "uid": "s05_e15_c10_u025", "answer": "abrasive",
+      "options": ["abrasive", "adhesive", "abstract", "absorbent"] } ] }
+]

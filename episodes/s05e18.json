@@ -1,0 +1,129 @@
+[
+  { "expression": "for sure", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "certain or definitely decided",
+    "exchanges": [ { "uid": "s05_e18_c01_u015", "answer": "for sure",
+      "options": ["for sure", "for good", "on time", "at once"] } ] },
+
+  { "expression": "wish me luck", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said before trying something difficult, asking others to hope you succeed",
+    "exchanges": [ { "uid": "s05_e18_c02_u002", "answer": "Wish me luck", "responseUid": "s05_e18_c02_u004",
+      "options": ["Wish me luck", "Hold me back", "Show me out", "Take me home"] } ] },
+
+  { "expression": "change your mind", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to decide something different from what you decided before",
+    "exchanges": [ { "uid": "s05_e18_c05_u018", "answer": "change my mind", "cueUid": "s05_e18_c05_u012",
+      "options": ["change my mind", "set my mind", "cross my mind", "keep my mind"] } ] },
+
+  { "expression": "get some fresh air", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to go outside for a short time to breathe outdoor air",
+    "exchanges": [ { "uid": "s05_e18_c06_u003", "answer": "get some fresh air",
+      "options": ["get some fresh air", "take some fresh air", "make some fresh air", "have some fresh air"] } ] },
+
+  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a place suddenly or quickly",
+    "exchanges": [ { "uid": "s05_e18_c02_u023", "answer": "take off",
+      "options": ["take off", "take out", "get off", "put off"] } ] },
+
+  { "expression": "tons of", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "a very large number of",
+    "exchanges": [
+      { "uid": "s05_e18_c03_u006", "answer": "tons of",
+        "options": ["tons of", "sorts of", "sides of", "parts of"] },
+      { "uid": "s05_e18_c11_u006", "answer": "tons of", "cueUid": "s05_e18_c11_u003",
+        "options": ["tons of", "sorts of", "ends of", "times of"] } ] },
+
+  { "expression": "throw a party", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to organize and host a party",
+    "exchanges": [ { "uid": "s05_e18_c02_u012", "answer": "throw",
+      "options": ["throw", "make", "put", "bring"] } ] },
+
+  { "expression": "hang around", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stay in a place without doing much, usually waiting for something",
+    "exchanges": [ { "uid": "s05_e18_c07_u004", "answer": "hang around",
+      "options": ["hang around", "hang up", "look around", "turn around"] } ] },
+
+  { "expression": "stink", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to have a very bad smell",
+    "exchanges": [ { "uid": "s05_e18_c09_u004", "answer": "stink", "responseUid": "s05_e18_c09_u006",
+      "options": ["stink", "glow", "sweat", "blush"] } ] },
+
+  { "expression": "you're up", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "it is your turn now",
+    "exchanges": [ { "uid": "s05_e18_c11_u010", "answer": "you're up", "responseUid": "s05_e18_c11_u013",
+      "options": ["you're up", "you're in", "you're off", "you're out"] } ] },
+
+  { "expression": "tell me about it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+    "exchanges": [ { "uid": "s05_e18_c10_u009", "answer": "Tell me about it",
+      "options": ["Tell me about it", "Ask me about it", "Warn me about it", "Remind me of it"] } ] },
+
+  { "expression": "narrow down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to reduce the number of possibilities to a few",
+    "exchanges": [ { "uid": "s05_e18_c07_u006", "answer": "narrowed it down", "cueUid": "s05_e18_c07_u004",
+      "options": ["narrowed it down", "turned it down", "wrote it down", "shut it down"] } ] },
+
+  { "expression": "get high", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to take drugs for the pleasant feeling they give",
+    "exchanges": [ { "uid": "s05_e18_c06_u016", "answer": "get high", "responseUid": "s05_e18_c06_u018",
+      "options": ["get high", "get low", "get far", "get big"] } ] },
+
+  { "expression": "cut back", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to do or use less of something, such as smoking",
+    "exchanges": [ { "uid": "s05_e18_c10_u006", "answer": "cut back",
+      "options": ["cut back", "cut off", "hold back", "fall back"] } ] },
+
+  { "expression": "blow it", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to waste a good opportunity by failing or making a mistake",
+    "exchanges": [ { "uid": "s05_e18_c12_u010", "answer": "blow it", "responseUid": "s05_e18_c12_u012",
+      "options": ["blow it", "blow up", "drop it", "take it"] } ] },
+
+  { "expression": "fill up on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to eat so much of one food that you are no longer hungry for anything else",
+    "exchanges": [ { "uid": "s05_e18_c13_u008", "answer": "filling up on", "cueUid": "s05_e18_c13_u006",
+      "options": ["filling up on", "filling in on", "picking up on", "giving up on"] } ] },
+
+  { "expression": "you lost me", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when you have stopped understanding what someone is explaining",
+    "exchanges": [ { "uid": "s05_e18_c13_u033", "answer": "you lost me",
+      "options": ["you lost me", "you left me", "you beat me", "you had me"] } ] },
+
+  { "expression": "steer clear of", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to deliberately avoid someone or something",
+    "exchanges": [ { "uid": "s05_e18_c03_u004", "answer": "steered clear of",
+      "options": ["steered clear of", "ran short of", "took hold of", "got rid of"] } ] },
+
+  { "expression": "take credit for", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to accept praise for something, especially when you do not deserve it",
+    "exchanges": [ { "uid": "s05_e18_c04_u004", "answer": "take credit for",
+      "options": ["take credit for", "pay respect for", "make time for", "take charge for"] } ] },
+
+  { "expression": "callback", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a second audition for actors chosen from the first round",
+    "exchanges": [ { "uid": "s05_e18_c07_u003", "answer": "callbacks",
+      "options": ["callbacks", "setbacks", "comebacks", "paybacks"] } ] },
+
+  { "expression": "nerve-wracking", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "making you feel very anxious and tense",
+    "exchanges": [ { "uid": "s05_e18_c07_u002", "answer": "nerve wracking",
+      "options": ["nerve wracking", "jaw dropping", "ear splitting", "time consuming"] } ] },
+
+  { "expression": "sabotage", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to deliberately damage or ruin something so that it fails",
+    "exchanges": [ { "uid": "s05_e18_c13_u034", "answer": "sabotaged",
+      "options": ["sabotaged", "salvaged", "savored", "saturated"] } ] },
+
+  { "expression": "rue the day", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to bitterly regret something you did",
+    "exchanges": [ { "uid": "s05_e18_c08_u009", "answer": "rue the day", "responseUid": "s05_e18_c08_u011",
+      "options": ["rue the day", "seize the day", "call the day", "save the day"] } ] },
+
+  { "expression": "bum", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to ask for and get something small, like a cigarette, for free",
+    "exchanges": [ { "uid": "s05_e18_c06_u013", "answer": "bum",
+      "options": ["bum", "fetch", "lend", "trade"] } ] },
+
+  { "expression": "no picnic", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "not easy or pleasant",
+    "exchanges": [ { "uid": "s05_e18_c11_u006", "answer": "no picnic", "cueUid": "s05_e18_c11_u003",
+      "options": ["no picnic", "no party", "no dinner", "no lunch"] } ] }
+]

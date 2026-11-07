@@ -1,0 +1,496 @@
+[
+{
+  "expression": "thank God",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show relief that something good has happened or something bad has not",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c02_u004",
+      "answer": "thank God",
+      "options": [
+        "thank God",
+        "bless me",
+        "good grief",
+        "oh well"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a walk",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go for a short walk, usually to talk or relax",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c09_u023",
+      "answer": "take a walk",
+      "options": [
+        "take a walk",
+        "make a run",
+        "have a jump",
+        "do a step"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no problem",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say you were happy to help and no thanks are needed",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u038",
+      "answer": "no problem",
+      "options": [
+        "no problem",
+        "no matter",
+        "no doubt",
+        "no wonder"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make sense",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be a reasonable or logical thing to say or do",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u033",
+      "answer": "make sense",
+      "options": [
+        "make sense",
+        "take place",
+        "do good",
+        "get real"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c10_u002",
+      "answer": "took off",
+      "options": [
+        "took off",
+        "sat up",
+        "came through",
+        "held on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miserable",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very unhappy or uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u026",
+      "answer": "miserable",
+      "options": [
+        "miserable",
+        "memorable",
+        "miraculous",
+        "mysterious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lying around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "left somewhere carelessly instead of being put away",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c02_u019",
+      "answer": "lying around",
+      "responseUid": "s05_e20_c02_u021",
+      "options": [
+        "lying around",
+        "sitting down",
+        "hanging up",
+        "standing by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "return someone's call",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to phone someone back after they have tried to reach you",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c05_u003",
+      "answer": "return",
+      "options": [
+        "return",
+        "repeat",
+        "refuse",
+        "report"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fall apart",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fail completely or stop working, used of relationships and plans",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c02_u015",
+      "answer": "falling apart",
+      "options": [
+        "falling apart",
+        "breaking in",
+        "running off",
+        "turning over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of the blue",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "suddenly and without any warning",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c04_u011",
+      "answer": "out of the blue",
+      "cueUid": null,
+      "options": [
+        "out of the blue",
+        "off the top",
+        "over the moon",
+        "under the sun"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "twisted",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "strange and morally wrong; perverted",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c06_u014",
+      "answer": "twisted",
+      "cueUid": "s05_e20_c06_u012",
+      "options": [
+        "twisted",
+        "tangled",
+        "tilted",
+        "toasted"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bottom line",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the most important fact or conclusion",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c10_u015",
+      "answer": "bottom line",
+      "options": [
+        "bottom line",
+        "top edge",
+        "front page",
+        "side note"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have second thoughts",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doubting a decision you have already made",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u020",
+      "answer": "second thoughts",
+      "responseUid": "s05_e20_c11_u022",
+      "options": [
+        "second thoughts",
+        "first ideas",
+        "double minds",
+        "late opinions"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "add up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make sense or seem consistent and believable",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c10_u010",
+      "answer": "adds up",
+      "options": [
+        "adds up",
+        "sums in",
+        "counts on",
+        "runs off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to the fullest",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "as completely and enjoyably as possible",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c08_u011",
+      "answer": "to the fullest",
+      "options": [
+        "to the fullest",
+        "at the latest",
+        "in the longest",
+        "for the biggest"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "instinct",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a natural reaction you make without thinking",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c10_u020",
+      "answer": "instinct",
+      "options": [
+        "instinct",
+        "insight",
+        "instance",
+        "incident"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "prototype",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the first model of something, made before the final version",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c02_u013",
+      "answer": "prototype",
+      "options": [
+        "prototype",
+        "stereotype",
+        "archetype",
+        "antidote"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "backfire",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a loud bang from a car engine that sounds like a gunshot",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c07_u013",
+      "answer": "backfire",
+      "options": [
+        "backfire",
+        "backflip",
+        "bonfire",
+        "backlog"
+      ]
+    },
+    {
+      "uid": "s05_e20_c09_u011",
+      "answer": "backfire",
+      "options": [
+        "backfire",
+        "backflip",
+        "bonfire",
+        "backlog"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "seize",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to take an opportunity eagerly before it is lost",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u013",
+      "answer": "seize",
+      "options": [
+        "seize",
+        "cease",
+        "squeeze",
+        "sneeze"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "close call",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a situation in which something bad almost happened but was just avoided",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u035",
+      "answer": "close call",
+      "responseUid": "s05_e20_c11_u037",
+      "options": [
+        "close call",
+        "long shot",
+        "short cut",
+        "hard sell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lean on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to put pressure on someone to make them do or say something",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c03_u002",
+      "answer": "leaned on",
+      "options": [
+        "leaned on",
+        "stood by",
+        "looked at",
+        "ran into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lawyer up",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to hire a lawyer and refuse to talk to the police without one",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c05_u005",
+      "answer": "lawyers up",
+      "options": [
+        "lawyers up",
+        "doctors up",
+        "judges in",
+        "cops out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one's number is up",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "said when someone is about to die or meet their end",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u007",
+      "answer": "number was up",
+      "options": [
+        "number was up",
+        "time was out",
+        "luck was in",
+        "game was off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a drop in the bucket",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a very small amount compared with what is needed or what has been done",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u004",
+      "answer": "drop in the bucket",
+      "options": [
+        "drop in the bucket",
+        "fly in the soup",
+        "pie in the sky",
+        "piece of the cake"
+      ]
+    }
+  ]
+}
+]
