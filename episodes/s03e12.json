@@ -1,0 +1,129 @@
+[
+  { "expression": "hold on", "type": "colloquial", "level": "elementary", "pos": "verb",
+    "meaning": "wait a moment",
+    "exchanges": [ { "uid": "s03_e12_c03_u014", "answer": "hold on", "responseUid": "s03_e12_c03_u016",
+      "options": ["hold on", "keep on", "hold off", "carry on"] } ] },
+
+  { "expression": "get going", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to leave or start moving, usually because it is time to go",
+    "exchanges": [ { "uid": "s03_e12_c15_u017", "answer": "get going",
+      "options": ["get going", "keep looking", "stop running", "quit asking"] } ] },
+
+  { "expression": "get it", "type": "colloquial", "level": "elementary", "pos": "verb",
+    "meaning": "to understand what someone means",
+    "exchanges": [ { "uid": "s03_e12_c08_u003", "answer": "get it",
+      "options": ["get it", "take it", "need it", "want it"] } ] },
+
+  { "expression": "as long as", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "provided that; on the condition that",
+    "exchanges": [ { "uid": "s03_e12_c01_u003", "answer": "as long as",
+      "options": ["as long as", "as soon as", "as far as", "as well as"] } ] },
+
+  { "expression": "geek", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
+    "exchanges": [ { "uid": "s03_e12_c01_u009", "answer": "geeks",
+      "options": ["geeks", "gigs", "gags", "gems"] } ] },
+
+  { "expression": "crazy about", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "very much in love with someone or very enthusiastic about something",
+    "exchanges": [ { "uid": "s03_e12_c10_u008", "answer": "crazy about",
+      "options": ["crazy about", "sorry for", "sick of", "mad at"] } ] },
+
+  { "expression": "go for it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to take the chance and try to get what you want, especially with a romantic interest",
+    "exchanges": [ { "uid": "s03_e12_c04_u002", "answer": "go for it", "responseUid": "s03_e12_c04_u004",
+      "options": ["go for it", "look at it", "live with it", "pass on it"] } ] },
+
+  { "expression": "meanwhile", "type": "word", "level": "middle", "pos": "adverb",
+    "meaning": "during the same time that something else is happening",
+    "exchanges": [ { "uid": "s03_e12_c09_u008", "answer": "meanwhile",
+      "options": ["meanwhile", "otherwise", "therefore", "likewise"] } ] },
+
+  { "expression": "piece of cake", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "something that is very easy to do",
+    "exchanges": [ { "uid": "s03_e12_c05_u009", "answer": "piece of cake", "responseUid": null,
+      "options": ["piece of cake", "slice of pie", "cup of tea", "bowl of soup"] } ] },
+
+  { "expression": "jealous", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "unhappy and fearful because you think someone you love may be attracted to someone else",
+    "exchanges": [ { "uid": "s03_e12_c15_u016", "answer": "jealous",
+      "options": ["jealous", "zealous", "hideous", "tedious"] } ] },
+
+  { "expression": "get out", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when you are surprised and do not quite believe a compliment or news",
+    "exchanges": [ { "uid": "s03_e12_c06_u014", "answer": "Get out",
+      "options": ["Get out", "Come in", "Sit down", "Look up"] } ] },
+
+  { "expression": "fool around", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to kiss or have casual sexual contact with someone",
+    "exchanges": [ { "uid": "s03_e12_c06_u013", "answer": "fooling around",
+      "options": ["fooling around", "freaking out", "showing off", "breaking down"] } ] },
+
+  { "expression": "goof around", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to behave playfully and waste time instead of working",
+    "exchanges": [ { "uid": "s03_e12_c03_u019", "answer": "goofing around", "cueUid": "s03_e12_c03_u017",
+      "options": ["goofing around", "running out", "giving up", "settling down"] } ] },
+
+  { "expression": "in need of", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "needing something",
+    "exchanges": [ { "uid": "s03_e12_c06_u010", "answer": "in need of", "responseUid": null,
+      "options": ["in need of", "in case of", "in spite of", "in front of"] } ] },
+
+  { "expression": "be off", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to be cancelled, said of a planned event",
+    "exchanges": [ { "uid": "s03_e12_c11_u003", "answer": "off",
+      "options": ["off", "down", "away", "back"] } ] },
+
+  { "expression": "inappropriate", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "not suitable or proper for the situation",
+    "exchanges": [ { "uid": "s03_e12_c10_u011", "answer": "Inappropriate",
+      "options": ["Inappropriate", "Inconvenient", "Independent", "Incredible"] } ] },
+
+  { "expression": "have no right to", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "to not be entitled or allowed to do something",
+    "exchanges": [ { "uid": "s03_e12_c13_u004", "answer": "no right",
+      "options": ["no right", "no clue", "no luck", "no doubt"] } ] },
+
+  { "expression": "dense", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "slow to understand things",
+    "exchanges": [
+      { "uid": "s03_e12_c06_u017", "answer": "dense",
+        "options": ["dense", "tense", "blunt", "harsh"] },
+      { "uid": "s03_e12_c12_u010", "answer": "dense", "responseUid": null,
+        "options": ["dense", "tense", "blunt", "harsh"] } ] },
+
+  { "expression": "callback", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a second audition for actors chosen from the first round",
+    "exchanges": [ { "uid": "s03_e12_c05_u005", "answer": "callback",
+      "options": ["callback", "setback", "comeback", "walkout"] } ] },
+
+  { "expression": "mark your territory", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to show others that a person or place belongs to you, the way an animal does",
+    "exchanges": [ { "uid": "s03_e12_c08_u007", "answer": "marking your territory",
+      "options": ["marking your territory", "losing your temper", "wasting your breath", "minding your business"] } ] },
+
+  { "expression": "turn someone on", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to make someone sexually excited",
+    "exchanges": [ { "uid": "s03_e12_c15_u041", "answer": "turned him on", "responseUid": null,
+      "options": ["turned him on", "let him down", "put him off", "set him up"] } ] },
+
+  { "expression": "play date", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "an arranged time for young children to play together",
+    "exchanges": [ { "uid": "s03_e12_c15_u025", "answer": "play date", "cueUid": "s03_e12_c15_u023",
+      "options": ["play date", "due date", "road trip", "pay day"] } ] },
+
+  { "expression": "abridgment", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a shortened version of a book",
+    "exchanges": [ { "uid": "s03_e12_c02_u013", "answer": "abridgment",
+      "options": ["abridgment", "amendment", "assortment", "allotment"] } ] },
+
+  { "expression": "confidant", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a person you trust and tell your private feelings and secrets to",
+    "exchanges": [ { "uid": "s03_e12_c09_u004", "answer": "confidant",
+      "options": ["confidant", "consultant", "contestant", "combatant"] } ] },
+
+  { "expression": "God's gift to women", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "a man who wrongly believes he is irresistibly attractive",
+    "exchanges": [ { "uid": "s03_e12_c16_u006", "answer": "God's gift to women",
+      "options": ["God's gift to women", "king of the castle", "man of the house", "star of the show"] } ] }
+]

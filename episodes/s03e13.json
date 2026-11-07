@@ -1,0 +1,132 @@
+[
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to give someone help, especially in a difficult situation",
+    "exchanges": [ { "uid": "s03_e13_c01_u007", "answer": "help me out",
+      "options": ["help me out", "let me down", "put me off", "get me in"] } ] },
+
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s03_e13_c03_u028", "answer": "ran into",
+      "options": ["ran into", "got off", "put up", "went around"] } ] },
+
+  { "expression": "throw out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to get rid of something you no longer want",
+    "exchanges": [ { "uid": "s03_e13_c06_u021", "answer": "throw them out", "responseUid": null,
+      "options": ["throw them out", "hand them in", "pick them up", "turn them down"] } ] },
+
+  { "expression": "get off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finish work for the day",
+    "exchanges": [ { "uid": "s03_e13_c03_u007", "answer": "get off",
+      "options": ["get off", "get up", "take off", "come by"] } ] },
+
+  { "expression": "make a deal", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to reach an agreement in which each side promises to do something",
+    "exchanges": [
+      { "uid": "s03_e13_c03_u010", "answer": "make a deal", "responseUid": "s03_e13_c03_u012",
+        "options": ["make a deal", "take a turn", "give a hand", "set a date"] },
+      { "uid": "s03_e13_c03_u020", "answer": "made a deal",
+        "options": ["made a deal", "took a turn", "gave a hand", "set a date"] } ] },
+
+  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have a strong, often secret, romantic attraction to someone",
+    "exchanges": [ { "uid": "s03_e13_c07_u006", "answer": "got a crush on",
+      "options": ["got a crush on", "got a grip on", "got a line on", "got a take on"] } ] },
+
+  { "expression": "no wonder", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "it is not surprising that",
+    "exchanges": [ { "uid": "s03_e13_c07_u008", "answer": "No wonder", "responseUid": null,
+      "options": ["No wonder", "No kidding", "No offense", "No problem"] } ] },
+
+  { "expression": "over and over again", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "many times, repeatedly",
+    "exchanges": [ { "uid": "s03_e13_c04_u013", "answer": "over and over again",
+      "options": ["over and over again", "on and off again", "up and down again", "back and forth again"] } ] },
+
+  { "expression": "by accident", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "without intending to; not deliberately",
+    "exchanges": [ { "uid": "s03_e13_c10_u023", "answer": "by accident",
+      "options": ["by accident", "by heart", "in advance", "at length"] } ] },
+
+  { "expression": "here we go again", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when something annoying is starting to happen once more",
+    "exchanges": [ { "uid": "s03_e13_c12_u016", "answer": "Here we go again",
+      "options": ["Here we go again", "There it is again", "Now you see again", "So we meet again"] } ] },
+
+  { "expression": "to be honest", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "said before admitting something frankly",
+    "exchanges": [ { "uid": "s03_e13_c10_u008", "answer": "to be honest",
+      "options": ["to be honest", "to be exact", "to be safe", "to be brief"] } ] },
+
+  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "giving encouragement and help to someone",
+    "exchanges": [ { "uid": "s03_e13_c03_u015", "answer": "supportive",
+      "options": ["supportive", "sensitive", "selective", "secretive"] } ] },
+
+  { "expression": "burst into flames", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to suddenly start burning",
+    "exchanges": [ { "uid": "s03_e13_c05_u010", "answer": "burst into flames",
+      "options": ["burst into flames", "broke into pieces", "fell into place", "went into shock"] } ] },
+
+  { "expression": "out of curiosity", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "said when asking a question only because you want to know, not for any serious reason",
+    "exchanges": [ { "uid": "s03_e13_c09_u004", "answer": "out of curiosity",
+      "options": ["out of curiosity", "out of order", "out of breath", "out of place"] } ] },
+
+  { "expression": "blind date", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "a date with someone you have never met before, usually arranged by a friend",
+    "exchanges": [
+      { "uid": "s03_e13_c09_u005", "answer": "blind date",
+        "options": ["blind date", "double date", "due date", "play date"] },
+      { "uid": "s03_e13_c13_u017", "answer": "blind date",
+        "options": ["blind date", "double date", "due date", "play date"] } ] },
+
+  { "expression": "squish", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to crush something soft so that it loses its shape",
+    "exchanges": [ { "uid": "s03_e13_c06_u003", "answer": "squishing",
+      "options": ["squishing", "splashing", "scrubbing", "scraping"] } ] },
+
+  { "expression": "cut-off", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "the time after which something is no longer allowed or accepted",
+    "exchanges": [ { "uid": "s03_e13_c01_u006", "answer": "cut-off",
+      "options": ["cut-off", "hold-up", "check-in", "set-up"] } ] },
+
+  { "expression": "barely", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "only slightly; almost not at all",
+    "exchanges": [ { "uid": "s03_e13_c12_u005", "answer": "barely",
+      "options": ["barely", "nearly", "mostly", "surely"] } ] },
+
+  { "expression": "grope", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to touch someone's body in an unwanted sexual way",
+    "exchanges": [ { "uid": "s03_e13_c02_u009", "answer": "grope",
+      "options": ["grope", "scold", "shove", "fetch"] } ] },
+
+  { "expression": "sit in on", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to attend a meeting or class as an observer without taking part",
+    "exchanges": [ { "uid": "s03_e13_c04_u006", "answer": "sit in on",
+      "options": ["sit in on", "stand up for", "get on with", "look out for"] } ] },
+
+  { "expression": "platonic", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "describing a close friendship that is not sexual or romantic",
+    "exchanges": [ { "uid": "s03_e13_c08_u002", "answer": "platonic",
+      "options": ["platonic", "chronic", "ironic", "iconic"] } ] },
+
+  { "expression": "exclusive", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "in a relationship with only one person and no one else",
+    "exchanges": [ { "uid": "s03_e13_c13_u021", "answer": "exclusive",
+      "options": ["exclusive", "excessive", "extensive", "expensive"] } ] },
+
+  { "expression": "to top it off", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to add one final, usually bad, event to a list of things that happened",
+    "exchanges": [ { "uid": "s03_e13_c11_u004", "answer": "to top it off",
+      "options": ["to top it off", "to call it off", "to put it off", "to set it off"] } ] },
+
+  { "expression": "dainty", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "small, delicate, and pretty",
+    "exchanges": [ { "uid": "s03_e13_c07_u015", "answer": "dainty",
+      "options": ["dainty", "dizzy", "dusty", "daring"] } ] },
+
+  { "expression": "testy", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "easily annoyed and quick to speak sharply",
+    "exchanges": [ { "uid": "s03_e13_c07_u024", "answer": "testy",
+      "options": ["testy", "tasty", "trusty", "tipsy"] } ] }
+]

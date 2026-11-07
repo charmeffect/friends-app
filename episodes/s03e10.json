@@ -1,0 +1,130 @@
+[
+  { "expression": "do someone a favor", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to do something helpful for someone because they ask you to",
+    "exchanges": [ { "uid": "s03_e10_c04_u017", "answer": "do me one favor",
+      "options": ["do me one favor", "pay me one visit", "give me one break", "show me one trick"] } ] },
+
+  { "expression": "check this out", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "look at this; said to draw attention to something interesting",
+    "exchanges": [ { "uid": "s03_e10_c08_u012", "answer": "Check this out",
+      "options": ["Check this out", "Look this up", "Take this in", "Try this on"] } ] },
+
+  { "expression": "not a problem", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show you are happy to do what someone asked",
+    "exchanges": [ { "uid": "s03_e10_c08_u033", "answer": "Not a problem",
+      "responseUid": "s03_e10_c08_u035",
+      "options": ["Not a problem", "Not a chance", "Not a word", "Not a clue"] } ] },
+
+  { "expression": "make sense", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be a reasonable or logical thing to say or do",
+    "exchanges": [ { "uid": "s03_e10_c04_u016", "answer": "makes sense",
+      "options": ["makes sense", "takes place", "comes true", "pays off"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [ { "uid": "s03_e10_c08_u008", "answer": "no big deal",
+      "options": ["no big deal", "no hard feelings", "no free lunch", "no small talk"] } ] },
+
+  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop thinking about something that is over and start something new",
+    "exchanges": [ { "uid": "s03_e10_c13_u005", "answer": "move on",
+      "cueUid": "s03_e10_c13_u002", "responseUid": null,
+      "options": ["move on", "hold on", "come by", "get up"] } ] },
+
+  { "expression": "pick out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to choose or remove something from a group",
+    "exchanges": [ { "uid": "s03_e10_c09_u010", "answer": "pick out",
+      "options": ["pick out", "pick on", "turn out", "hand out"] } ] },
+
+  { "expression": "temporary", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "lasting only for a short time, not permanent",
+    "exchanges": [ { "uid": "s03_e10_c07_u020", "answer": "temporary",
+      "options": ["temporary", "ordinary", "necessary", "voluntary"] } ] },
+
+  { "expression": "gain weight", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to become heavier or fatter",
+    "exchanges": [ { "uid": "s03_e10_c07_u009", "answer": "gaining weight",
+      "cueUid": "s03_e10_c07_u006",
+      "options": ["gaining weight", "paying rent", "taking turns", "keeping score"] } ] },
+
+  { "expression": "if you ask me", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said before giving your own opinion",
+    "exchanges": [ { "uid": "s03_e10_c07_u024", "answer": "If you ask me",
+      "options": ["If you ask me", "If you say so", "If you must know", "If you don't mind"] } ] },
+
+  { "expression": "put someone down for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to write someone's name on a list as agreeing to buy or take a certain amount",
+    "exchanges": [
+      { "uid": "s03_e10_c07_u004", "answer": "putting you down for",
+        "options": ["putting you down for", "writing you off for", "setting you up for", "holding you back for"] },
+      { "uid": "s03_e10_c07_u006", "answer": "put you down for",
+        "responseUid": "s03_e10_c07_u009",
+        "options": ["put you down for", "let you off for", "turn you in for", "take you out for"] } ] },
+
+  { "expression": "go after", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to try hard to get something you want",
+    "exchanges": [ { "uid": "s03_e10_c07_u026", "answer": "go after",
+      "cueUid": "s03_e10_c07_u024",
+      "options": ["go after", "turn down", "hand over", "run into"] } ] },
+
+  { "expression": "give in to", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to stop resisting a feeling or pressure and let it control you",
+    "exchanges": [ { "uid": "s03_e10_c08_u025", "answer": "give into",
+      "options": ["give into", "run into", "look into", "bump into"] } ] },
+
+  { "expression": "old man", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a person's father",
+    "exchanges": [ { "uid": "s03_e10_c08_u031", "answer": "old man",
+      "cueUid": "s03_e10_c08_u029",
+      "options": ["old man", "big guy", "best man", "wise guy"] } ] },
+
+  { "expression": "look no further", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to tell someone that what they are looking for is right here",
+    "exchanges": [ { "uid": "s03_e10_c09_u011", "answer": "look no further",
+      "options": ["look no further", "take no chances", "waste no time", "hold no grudges"] } ] },
+
+  { "expression": "blow it", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to waste a good opportunity by failing or making a mistake",
+    "exchanges": [ { "uid": "s03_e10_c11_u005", "answer": "blew it",
+      "options": ["blew it", "nailed it", "called it", "beat it"] } ] },
+
+  { "expression": "occur to", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to suddenly come into someone's mind as a thought",
+    "exchanges": [ { "uid": "s03_e10_c08_u014", "answer": "occurred to",
+      "options": ["occurred to", "referred to", "objected to", "belonged to"] } ] },
+
+  { "expression": "judgmental", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "too quick to criticize other people's behavior",
+    "exchanges": [ { "uid": "s03_e10_c06_u004", "answer": "judgmental",
+      "options": ["judgmental", "sentimental", "fundamental", "monumental"] } ] },
+
+  { "expression": "honorary", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "given a title or membership as an honor, without the usual qualifications or duties",
+    "exchanges": [ { "uid": "s03_e10_c05_u005", "answer": "honorary",
+      "options": ["honorary", "ordinary", "temporary", "legendary"] } ] },
+
+  { "expression": "on commission", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "paid a percentage of the value of each sale you make",
+    "exchanges": [ { "uid": "s03_e10_c09_u009", "answer": "on commission",
+      "options": ["on commission", "on probation", "on schedule", "on purpose"] } ] },
+
+  { "expression": "in one's prime", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "at the time of life when someone or something is strongest and most successful",
+    "exchanges": [ { "uid": "s03_e10_c03_u014", "answer": "in their prime",
+      "options": ["in their prime", "on their way", "at their post", "by their side"] } ] },
+
+  { "expression": "the munchies", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a sudden strong desire to eat snacks, especially late at night",
+    "exchanges": [ { "uid": "s03_e10_c08_u014", "answer": "The Munchies",
+      "options": ["The Munchies", "The Jitters", "The Blues", "The Giggles"] } ] },
+
+  { "expression": "ageist", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "treating people unfairly because of their age",
+    "exchanges": [ { "uid": "s03_e10_c06_u012", "answer": "ageist",
+      "options": ["ageist", "sexist", "elitist", "racist"] } ] },
+
+  { "expression": "deity", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a god or goddess",
+    "exchanges": [ { "uid": "s03_e10_c07_u005", "answer": "deities",
+      "options": ["deities", "duties", "diets", "dentists"] } ] }
+]
