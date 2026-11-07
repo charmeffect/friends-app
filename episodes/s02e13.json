@@ -1,0 +1,126 @@
+[
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s02_e13_c02_u002", "answer": "hung out",
+      "options": ["hung out", "hung up", "ran into", "put off"] } ] },
+
+  { "expression": "thanks anyway", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to thank someone politely even though their help did not get you what you wanted",
+    "exchanges": [ { "uid": "s02_e13_c01_u068", "answer": "thanks anyway",
+      "options": ["thanks anyway", "no problem", "good luck", "my pleasure"] } ] },
+
+  { "expression": "forget about it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said in reply to thanks to mean it was nothing and there is no need to mention it",
+    "exchanges": [ { "uid": "s02_e13_c06_u003", "answer": "Forget about it",
+      "options": ["Forget about it", "Think about it", "Get over it", "Look into it"] } ] },
+
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [ { "uid": "s02_e13_c11_u002", "answer": "work out",
+      "options": ["work out", "show up", "hold on", "come by"] } ] },
+
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s02_e13_c01_u016", "answer": "how come",
+      "options": ["how come", "what for", "so what", "since when"] } ] },
+
+  { "expression": "take it personally", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to feel hurt or offended by something as if it were aimed at you",
+    "exchanges": [ { "uid": "s02_e13_c01_u007", "answer": "take it personal",
+      "options": ["take it personal", "make it official", "keep it simple", "get it right"] } ] },
+
+  { "expression": "don't you dare", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to warn someone strongly not to do something",
+    "exchanges": [ { "uid": "s02_e13_c01_u050", "answer": "don't you dare",
+      "options": ["don't you dare", "don't you cry", "don't you worry", "don't you see"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s02_e13_c02_u005", "answer": "end up",
+      "options": ["end up", "turn up", "give up", "keep up"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [ { "uid": "s02_e13_c04_u006", "answer": "no big deal", "responseUid": null,
+      "options": ["no big deal", "no hard feelings", "no other way", "no such thing"] } ] },
+
+  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop thinking about something that is over and start something new",
+    "exchanges": [ { "uid": "s02_e13_c10_u007", "answer": "moved on", "responseUid": null,
+      "options": ["moved on", "moved in", "turned up", "passed out"] } ] },
+
+  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a place suddenly or quickly",
+    "exchanges": [ { "uid": "s02_e13_c09_u007", "answer": "took off", "cueUid": null,
+      "options": ["took off", "showed up", "turned in", "gave up"] } ] },
+
+  { "expression": "for the love of God", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to show strong frustration or urgency when begging someone to do something",
+    "exchanges": [ { "uid": "s02_e13_c01_u017", "answer": "love of God",
+      "options": ["love of God", "life of me", "hell of it", "time being"] } ] },
+
+  { "expression": "make out with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to kiss and touch someone in a sexual way",
+    "exchanges": [ { "uid": "s02_e13_c01_u022", "answer": "making out with",
+      "options": ["making out with", "getting along with", "catching up with", "keeping up with"] } ] },
+
+  { "expression": "get off the track", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to start talking about something other than the subject you meant to discuss",
+    "exchanges": [ { "uid": "s02_e13_c01_u055", "answer": "gettin' off the track",
+      "options": ["gettin' off the track", "gettin' off the hook", "gettin' on my nerves", "gettin' in the way"] } ] },
+
+  { "expression": "hook up with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to start a romantic or sexual relationship with someone",
+    "exchanges": [ { "uid": "s02_e13_c02_u011", "answer": "hook up with",
+      "options": ["hook up with", "catch up with", "break up with", "put up with"] } ] },
+
+  { "expression": "sell out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to betray someone who trusted you in order to get something for yourself",
+    "exchanges": [ { "uid": "s02_e13_c05_u007", "answer": "sold me out", "responseUid": "s02_e13_c05_u009",
+      "options": ["sold me out", "wore me out", "put me off", "cut me off"] } ] },
+
+  { "expression": "tag along", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to go somewhere with other people although they did not invite you",
+    "exchanges": [ { "uid": "s02_e13_c06_u002", "answer": "tag along",
+      "options": ["tag along", "drop by", "hang up", "show off"] } ] },
+
+  { "expression": "blind date", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "a date with someone you have never met before, usually arranged by a friend",
+    "exchanges": [ { "uid": "s02_e13_c07_u004", "answer": "blind date", "cueUid": "s02_e13_c07_u002",
+      "options": ["blind date", "double date", "due date", "play date"] } ] },
+
+  { "expression": "call in sick", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to phone your workplace to say you are ill and will not come in",
+    "exchanges": [ { "uid": "s02_e13_c10_u006", "answer": "called in sick",
+      "options": ["called in sick", "signed off early", "stood up straight", "passed out cold"] } ] },
+
+  { "expression": "blow off", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to skip or ignore something you were supposed to do",
+    "exchanges": [ { "uid": "s02_e13_c02_u009", "answer": "blowin' me off",
+      "options": ["blowin' me off", "takin' me on", "lettin' me down", "puttin' me off"] } ] },
+
+  { "expression": "give the green light", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to give someone permission to go ahead with something",
+    "exchanges": [ { "uid": "s02_e13_c05_u003", "answer": "the green light",
+      "options": ["the green light", "the cold shoulder", "the red carpet", "the upper hand"] } ] },
+
+  { "expression": "make an exception", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to allow something that is not normally allowed, in one particular case",
+    "exchanges": [ { "uid": "s02_e13_c07_u006", "answer": "make the exception",
+      "options": ["make the exception", "pay the price", "break the ice", "set the record"] } ] },
+
+  { "expression": "defense mechanism", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a way of behaving that protects you from feeling hurt or anxious",
+    "exchanges": [ { "uid": "s02_e13_c01_u037", "answer": "defense mechanism", "responseUid": null,
+      "options": ["defense mechanism", "support system", "survival instinct", "status symbol"] } ] },
+
+  { "expression": "stick a fork in me", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "a joking way to say you are completely finished or worn out, as if you were a cooked steak",
+    "exchanges": [ { "uid": "s02_e13_c02_u012", "answer": "stick a fork", "responseUid": "s02_e13_c02_u014",
+      "options": ["stick a fork", "pin a medal", "throw a towel", "put a lid"] } ] },
+
+  { "expression": "swell", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "excellent or very nice; an old-fashioned word often used with light sarcasm",
+    "exchanges": [ { "uid": "s02_e13_c03_u010", "answer": "swell", "cueUid": "s02_e13_c03_u007", "responseUid": null,
+      "options": ["swell", "stale", "sore", "shallow"] } ] }
+]

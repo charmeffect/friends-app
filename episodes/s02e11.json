@@ -1,0 +1,132 @@
+[
+  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to have a friendly relationship with someone",
+    "exchanges": [ { "uid": "s02_e11_c05_u014", "answer": "getting along", "cueUid": null, "responseUid": "s02_e11_c05_u016",
+      "options": ["getting along", "getting over", "getting out", "getting up"] } ] },
+
+  { "expression": "pretty much", "type": "colloquial", "level": "elementary", "pos": "adverb",
+    "meaning": "almost completely; more or less",
+    "exchanges": [ { "uid": "s02_e11_c04_u016", "answer": "Pretty much",
+      "options": ["Pretty much", "Pretty soon", "Very far", "Quite late"] } ] },
+
+  { "expression": "be supposed to", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to be expected or required to do something",
+    "exchanges": [
+      { "uid": "s02_e11_c05_u017", "answer": "supposed to",
+        "options": ["supposed to", "used to", "about to", "due to"] },
+      { "uid": "s02_e11_c07_u013", "answer": "supposed to", "cueUid": "s02_e11_c07_u011",
+        "options": ["supposed to", "used to", "about to", "due to"] } ] },
+
+  { "expression": "gorgeous", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very beautiful or attractive",
+    "exchanges": [ { "uid": "s02_e11_c04_u017", "answer": "gorgeous", "cueUid": null,
+      "options": ["gorgeous", "generous", "gracious", "gigantic"] } ] },
+
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s02_e11_c06_u041", "answer": "How come", "responseUid": null,
+      "options": ["How come", "Why so", "What for", "Since when"] } ] },
+
+  { "expression": "no offense", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said before a remark to show you do not mean to insult the listener",
+    "exchanges": [ { "uid": "s02_e11_c06_u021", "answer": "no offense",
+      "options": ["no offense", "no problem", "no wonder", "no doubt"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [ { "uid": "s02_e11_c06_u008", "answer": "turns out",
+      "options": ["turns out", "comes up", "goes on", "sets off"] } ] },
+
+  { "expression": "have nothing to do with", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "to be completely unconnected to something",
+    "exchanges": [ { "uid": "s02_e11_c02_u015", "answer": "nothing to do with",
+      "options": ["nothing to do with", "nothing to say to", "nothing to go for", "nothing to make of"] } ] },
+
+  { "expression": "suffer from", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to have a particular illness or medical condition",
+    "exchanges": [ { "uid": "s02_e11_c02_u027", "answer": "suffering from", "responseUid": "s02_e11_c02_u031",
+      "options": ["suffering from", "running from", "hiding from", "coming from"] } ] },
+
+  { "expression": "call off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to cancel a planned event",
+    "exchanges": [ { "uid": "s02_e11_c07_u007", "answer": "calling off", "responseUid": "s02_e11_c07_u009",
+      "options": ["calling off", "calling up", "calling in", "calling out"] } ] },
+
+  { "expression": "intense", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "very serious and concentrated, showing strong feeling",
+    "exchanges": [ { "uid": "s02_e11_c02_u023", "answer": "intense", "cueUid": "s02_e11_c02_u020",
+      "options": ["intense", "intact", "immense", "instant"] } ] },
+
+  { "expression": "inspect", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to examine something closely and carefully",
+    "exchanges": [ { "uid": "s02_e11_c03_u004", "answer": "inspect",
+      "options": ["inspect", "insert", "inspire", "install"] } ] },
+
+  { "expression": "unfinished business", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "something that still needs to be dealt with or completed",
+    "exchanges": [
+      { "uid": "s02_e11_c04_u012", "answer": "unfinished business",
+        "options": ["unfinished business", "unwritten rule", "unopened letter", "unlocked door"] },
+      { "uid": "s02_e11_c05_u033", "answer": "unfinished business",
+        "options": ["unfinished business", "unwritten rule", "unopened letter", "unlocked door"] } ] },
+
+  { "expression": "stick around", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to stay in a place rather than leaving",
+    "exchanges": [ { "uid": "s02_e11_c05_u031", "answer": "stuck around",
+      "options": ["stuck around", "looked around", "turned around", "messed around"] } ] },
+
+  { "expression": "worth a shot", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "worth trying even though it may not succeed",
+    "exchanges": [ { "uid": "s02_e11_c05_u040", "answer": "Worth a shot", "responseUid": null,
+      "options": ["Worth a shot", "Worth a look", "Worth a cent", "Worth a word"] } ] },
+
+  { "expression": "talk someone out of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to persuade someone not to do something",
+    "exchanges": [ { "uid": "s02_e11_c06_u024", "answer": "talk you out of", "cueUid": "s02_e11_c06_u022", "responseUid": "s02_e11_c06_u026",
+      "options": ["talk you out of", "keep you off of", "hold you back from", "send you out of"] } ] },
+
+  { "expression": "figure", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to think or assume that something is true",
+    "exchanges": [ { "uid": "s02_e11_c05_u020", "answer": "figured", "cueUid": "s02_e11_c05_u018",
+      "options": ["figured", "fixed", "formed", "fitted"] } ] },
+
+  { "expression": "technically", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "according to the exact meaning of the rules or facts, even if it seems different in practice",
+    "exchanges": [ { "uid": "s02_e11_c11_u004", "answer": "technically",
+      "options": ["technically", "typically", "terribly", "tenderly"] } ] },
+
+  { "expression": "uptight", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "anxious, tense, and unable to relax",
+    "exchanges": [ { "uid": "s02_e11_c04_u008", "answer": "uptight", "cueUid": null,
+      "options": ["uptight", "upbeat", "upright", "upscale"] } ] },
+
+  { "expression": "seeing as", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "because; considering the fact that",
+    "exchanges": [ { "uid": "s02_e11_c02_u006", "answer": "seeing as", "cueUid": "s02_e11_c02_u004",
+      "options": ["seeing as", "saying so", "going by", "looking at"] } ] },
+
+  { "expression": "reluctant", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "unwilling and hesitant to do something",
+    "exchanges": [ { "uid": "s02_e11_c06_u034", "answer": "reluctant",
+      "options": ["reluctant", "relevant", "redundant", "resilient"] } ] },
+
+  { "expression": "drop a bomb on", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to suddenly tell someone shocking news",
+    "exchanges": [ { "uid": "s02_e11_c06_u022", "answer": "drop this bomb on", "responseUid": "s02_e11_c06_u024",
+      "options": ["drop this bomb on", "throw this rock at", "put this load on", "set this fire to"] } ] },
+
+  { "expression": "little did someone know", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "used to say that someone had no idea at all about what was really going to happen",
+    "exchanges": [ { "uid": "s02_e11_c03_u015", "answer": "Little did she know", "cueUid": "s02_e11_c03_u013",
+      "options": ["Little did she know", "Never did she say", "Rarely did she think", "Hardly did she hear"] } ] },
+
+  { "expression": "sorority", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a social club for female students at an American college",
+    "exchanges": [ { "uid": "s02_e11_c04_u025", "answer": "sorority",
+      "options": ["sorority", "seniority", "sobriety", "sincerity"] } ] },
+
+  { "expression": "shrink", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a psychiatrist or therapist",
+    "exchanges": [ { "uid": "s02_e11_c05_u023", "answer": "shrink", "responseUid": "s02_e11_c05_u025",
+      "options": ["shrink", "shrine", "shriek", "shrimp"] } ] }
+]

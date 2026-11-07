@@ -1,0 +1,126 @@
+[
+  { "expression": "pretty much", "type": "colloquial", "level": "elementary", "pos": "adverb",
+    "meaning": "almost completely; more or less",
+    "exchanges": [ { "uid": "s02_e15_c02_u013", "answer": "pretty much",
+      "options": ["pretty much", "very much", "so much", "too much"] } ] },
+
+  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit a place briefly, often without planning it",
+    "exchanges": [ { "uid": "s02_e15_c09_u011", "answer": "stop by",
+      "options": ["stop by", "come up", "go off", "pass out"] } ] },
+
+  { "expression": "that's too bad", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show sympathy when something disappointing has happened to someone",
+    "exchanges": [ { "uid": "s02_e15_c03_u015", "answer": "that's too bad",
+      "options": ["that's too bad", "that's too late", "that's so far", "that's all set"] } ] },
+
+  { "expression": "on the way", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "already coming; traveling toward the place",
+    "exchanges": [ { "uid": "s02_e15_c04_u002", "answer": "on the way",
+      "options": ["on the way", "in the way", "by the way", "at the door"] } ] },
+
+  { "expression": "split up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a marriage or romantic relationship",
+    "exchanges": [ { "uid": "s02_e15_c03_u010", "answer": "split up",
+      "options": ["split up", "moved up", "signed up", "grew up"] } ] },
+
+  { "expression": "speak up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to talk more loudly so that people can hear you",
+    "exchanges": [ { "uid": "s02_e15_c07_u019", "answer": "speak up",
+      "options": ["speak up", "speak out", "shut up", "hold up"] } ] },
+
+  { "expression": "dress up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to put on nice or special clothes for an occasion",
+    "exchanges": [ { "uid": "s02_e15_c09_u017", "answer": "dressed up",
+      "options": ["dressed up", "grown up", "held up", "mixed up"] } ] },
+
+  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad or disappointing",
+    "exchanges": [ { "uid": "s02_e15_c11_u016", "answer": "sucks",
+      "options": ["sucks", "rocks", "counts", "works"] } ] },
+
+  { "expression": "nuts", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "crazy",
+    "exchanges": [ { "uid": "s02_e15_c11_u009", "answer": "nuts",
+      "options": ["nuts", "nails", "bolts", "beans"] } ] },
+
+  { "expression": "grown-up", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "an adult, used especially when speaking to or about children",
+    "exchanges": [ { "uid": "s02_e15_c05_u013", "answer": "grown up",
+      "options": ["grown up", "set up", "made up", "mix up"] } ] },
+
+  { "expression": "there's no rush", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "there is no need to hurry or to decide quickly",
+    "exchanges": [ { "uid": "s02_e15_c11_u019", "answer": "there's no rush",
+      "options": ["there's no rush", "there's no way", "there's no time", "there's no end"] } ] },
+
+  { "expression": "I'll tell you what", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to introduce a suggestion or offer",
+    "exchanges": [ { "uid": "s02_e15_c05_u008", "answer": "I'll tell you what", "cueUid": "s02_e15_c05_u006",
+      "options": ["I'll tell you what", "I'll see you then", "I'll give you that", "I'll say it again"] } ] },
+
+  { "expression": "pathetic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "sad and hopeless in a way that makes others feel pity or scorn",
+    "exchanges": [ { "uid": "s02_e15_c09_u006", "answer": "pathetic",
+      "options": ["pathetic", "dramatic", "athletic", "energetic"] } ] },
+
+  { "expression": "for your information", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said, often with annoyance, to correct someone with a fact they did not know",
+    "exchanges": [ { "uid": "s02_e15_c09_u028", "answer": "for your information",
+      "options": ["for your information", "for your attention", "for your protection", "for your pleasure"] } ] },
+
+  { "expression": "fool around", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to kiss or have casual sexual contact with someone",
+    "exchanges": [ { "uid": "s02_e15_c07_u009", "answer": "foolin' around",
+      "options": ["foolin' around", "playin' up", "runnin' off", "breakin' down"] } ] },
+
+  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do something good for someone to compensate for a wrong you did to them",
+    "exchanges": [ { "uid": "s02_e15_c07_u020", "answer": "make it up", "responseUid": "s02_e15_c07_u022",
+      "options": ["make it up", "take it out", "call it off", "put it on"] } ] },
+
+  { "expression": "cross the line", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to move past a boundary into a new or riskier stage of a relationship or behavior",
+    "exchanges": [ { "uid": "s02_e15_c06_u016", "answer": "crossing that line",
+      "options": ["crossing that line", "drawing that line", "walking that road", "bending that rule"] } ] },
+
+  { "expression": "be into", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be strongly attracted to or interested in someone or something",
+    "exchanges": [ { "uid": "s02_e15_c05_u014", "answer": "into",
+      "options": ["into", "onto", "above", "beside"] } ] },
+
+  { "expression": "worth the wait", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "good enough to justify the long time spent waiting",
+    "exchanges": [ { "uid": "s02_e15_c13_u012", "answer": "worth the wait",
+      "options": ["worth the wait", "worth a shot", "worth a try", "worth the cost"] } ] },
+
+  { "expression": "sympathetic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "showing understanding and care for someone's troubles",
+    "exchanges": [ { "uid": "s02_e15_c03_u012", "answer": "sympathetic",
+      "options": ["sympathetic", "synthetic", "systematic", "symmetric"] } ] },
+
+  { "expression": "judgmental", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "too quick to criticize other people's behavior",
+    "exchanges": [ { "uid": "s02_e15_c09_u024", "answer": "judgmental",
+      "options": ["judgmental", "sentimental", "fundamental", "monumental"] } ] },
+
+  { "expression": "self-conscious", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "nervously aware of how you look or act in front of others",
+    "exchanges": [ { "uid": "s02_e15_c06_u021", "answer": "self conscious",
+      "options": ["self conscious", "self employed", "self centered", "self assured"] } ] },
+
+  { "expression": "in all fairness", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "said before adding a fact that is fair to mention when judging someone",
+    "exchanges": [ { "uid": "s02_e15_c11_u007", "answer": "in all fairness",
+      "options": ["in all fairness", "at all costs", "in all directions", "for all time"] } ] },
+
+  { "expression": "ultimate sacrifice", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "the greatest sacrifice possible, usually giving up one's life",
+    "exchanges": [ { "uid": "s02_e15_c02_u002", "answer": "ultimate sacrifice",
+      "options": ["ultimate sacrifice", "absolute decision", "final judgment", "total surrender"] } ] },
+
+  { "expression": "smitten", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "suddenly and strongly in love with or attracted to someone",
+    "exchanges": [ { "uid": "s02_e15_c05_u010", "answer": "smitten",
+      "options": ["smitten", "bitten", "shaken", "stricken"] } ] }
+]
