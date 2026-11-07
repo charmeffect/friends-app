@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#1a1030">
+    <title>Friends English</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background: linear-gradient(135deg, #130c24, #2a1a4a, #1a1030);
+            min-height: 100vh;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-left: env(safe-area-inset-left);
+            padding-right: env(safe-area-inset-right);
+        }
+
+        header { text-align: center; padding: 26px 20px 8px; }
+
+        header h1 {
+            font-size: 2rem;
+            background: linear-gradient(90deg, #f59e0b, #f472b6, #a78bfa);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 5px;
+        }
+
+        header p { color: #aaa; font-size: 0.95rem; }
+
+        .stats-row {
+            display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;
+            margin: 10px 0 5px; font-size: 0.82rem;
+        }
+        .stats-row span { background: rgba(255,255,255,0.08); padding: 5px 14px; border-radius: 18px; }
+
+        .score-bar { display: flex; gap: 14px; justify-content: center; margin: 8px 0; font-size: 0.9rem; flex-wrap: wrap; }
+        .score-bar span { background: rgba(255,255,255,0.1); padding: 6px 16px; border-radius: 20px; }
+        .score-bar .correct { color: #4caf50; }
+        .score-bar .wrong { color: #f44336; }
+        .score-bar .total { color: #f59e0b; }
+
+        .progress-bar {
+            width: 92%; max-width: 640px; height: 6px;
+            background: rgba(255,255,255,0.1); border-radius: 3px; margin: 0 auto 14px; overflow: hidden;
+        }
+        .progress-bar .fill { height: 100%; background: linear-gradient(90deg, #f59e0b, #f472b6); border-radius: 3px; transition: width 0.4s ease; }
+
+        /* ===== MOTHER TABS ===== */
+        .mother-tabs { display: flex; gap: 6px; justify-content: center; margin: 8px 8px 6px; flex-wrap: wrap; }
+        .mother-tab {
+            background: rgba(255,255,255,0.06); border: 2px solid rgba(255,255,255,0.12);
+            color: #999; padding: 8px 16px; border-radius: 20px; font-size: 0.85rem;
+            cursor: pointer; transition: all 0.25s; font-weight: 600; letter-spacing: 0.3px; min-height: 40px;
+        }
+        .mother-tab:hover { background: rgba(255,255,255,0.1); color: #ccc; }
+        .mother-tab.active {
+            background: linear-gradient(135deg, rgba(245,158,11,0.3), rgba(244,114,182,0.2));
+            border-color: #f59e0b; color: #fbbf24;
+        }
+        .mother-tab .tab-icon { margin-right: 5px; }
+
+        /* ===== SUB PANEL ===== */
+        .sub-panel {
+            display: none; width: 92%; max-width: 640px;
+            background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px; padding: 14px; margin: 4px auto 10px; animation: fadeSlide 0.3s ease;
+        }
+        .sub-panel.visible { display: block; }
+        @keyframes fadeSlide { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: translateY(0); } }
+        .sub-panel-label { font-size: 0.7rem; color: #666; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; text-align: center; }
+
+        .chips { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+        .chip {
+            background: rgba(245,158,11,0.08); border: 1px solid rgba(245,158,11,0.25);
+            color: #fcd34d; padding: 9px 16px; border-radius: 14px; font-size: 0.82rem;
+            cursor: pointer; transition: all 0.2s; font-weight: 600; min-height: 38px;
+        }
+        .chip:hover { background: rgba(245,158,11,0.2); border-color: #f59e0b; color: #fff; }
+        .chip.active { background: rgba(245,158,11,0.3); border-color: #f59e0b; color: #fff; }
+
+        /* Level chips get their own colours when active */
+        .chip.level-chip { background: rgba(255,255,255,0.08); border: 2px solid rgba(255,255,255,0.15); color: #aaa; }
+        .chip.level-chip:hover { background: rgba(255,255,255,0.12); color: #fff; }
+        .chip.level-chip.active { color: #fff; }
+        .chip.level-chip.active[data-value="all"] { background: rgba(245,158,11,0.3); border-color: #f59e0b; }
+        .chip.level-chip.active[data-value="elementary"] { background: rgba(76,175,80,0.3); border-color: #4caf50; }
+        .chip.level-chip.active[data-value="middle"] { background: rgba(33,150,243,0.3); border-color: #2196f3; }
+        .chip.level-chip.active[data-value="high"] { background: rgba(255,152,0,0.3); border-color: #ff9800; }
+        .chip.level-chip.active[data-value="college"] { background: rgba(156,39,176,0.3); border-color: #9c27b0; }
+        .chip.level-chip.active[data-value="expert"] { background: rgba(244,67,54,0.3); border-color: #f44336; }
+
+        /* Badges on the question card */
+        .badge {
+            display: inline-block; padding: 2px 8px; border-radius: 8px; font-size: 0.65rem; font-weight: 700;
+            margin-left: 6px; text-transform: uppercase; letter-spacing: 0.5px; vertical-align: middle;
+        }
+        .badge.level-elementary { background: rgba(76,175,80,0.25); color: #4caf50; }
+        .badge.level-middle { background: rgba(33,150,243,0.25); color: #64b5f6; }
+        .badge.level-high { background: rgba(255,152,0,0.25); color: #ffb74d; }
+        .badge.level-college { background: rgba(156,39,176,0.25); color: #ce93d8; }
+        .badge.level-expert { background: rgba(244,67,54,0.25); color: #ef9a9a; }
+        .badge.type-word { background: rgba(167,139,250,0.25); color: #c4b5fd; }
+        .badge.type-phrase { background: rgba(245,158,11,0.25); color: #fcd34d; }
+        .badge.type-colloquial { background: rgba(244,114,182,0.25); color: #f9a8d4; }
+        .badge.ep { background: rgba(255,255,255,0.1); color: #bbb; }
+        .badge.score-neg { background: rgba(244,67,54,0.2); color: #f88; }
+        .badge.score-pos { background: rgba(76,175,80,0.2); color: #8f8; }
+
+        /* Weak panel */
+        .weak-info { text-align: center; color: #888; font-size: 0.85rem; line-height: 1.6; }
+        .weak-info .weak-count { color: #f44336; font-weight: 700; font-size: 1.3rem; }
+        .weak-list { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; margin-top: 10px; max-height: 140px; overflow-y: auto; }
+        .weak-tag { background: rgba(244,67,54,0.15); border: 1px solid rgba(244,67,54,0.3); color: #f88; padding: 4px 10px; border-radius: 10px; font-size: 0.75rem; }
+        .weak-tag .weak-score { color: #f44336; font-weight: 700; margin-left: 4px; }
+
+        /* ===== SIZE BAR ===== */
+        .size-bar { display: flex; gap: 8px; justify-content: center; margin-bottom: 14px; flex-wrap: wrap; }
+        .size-btn {
+            background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15);
+            color: #aaa; padding: 6px 14px; border-radius: 15px; font-size: 0.8rem; cursor: pointer; transition: all 0.2s; min-height: 34px;
+        }
+        .size-btn:hover, .size-btn.active { background: rgba(245,158,11,0.3); border-color: #f59e0b; color: #fff; }
+
+        /* ===== QUIZ CARD ===== */
+        .card {
+            background: rgba(255,255,255,0.07); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.12); border-radius: 20px;
+            padding: 28px 26px; width: 92%; max-width: 640px; text-align: center;
+        }
+
+        .category-tag {
+            display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 4px;
+            background: rgba(255,255,255,0.08); padding: 5px 12px; border-radius: 12px;
+            font-size: 0.75rem; color: #ccc; margin-bottom: 18px; text-transform: uppercase; letter-spacing: 1px;
+        }
+
+        /* Dialogue */
+        .dialogue { text-align: left; margin-bottom: 22px; }
+        .turn { display: flex; gap: 10px; margin-bottom: 12px; align-items: flex-start; }
+        .turn .who {
+            flex: 0 0 auto; min-width: 74px; text-align: right;
+            font-size: 0.78rem; font-weight: 700; color: #a78bfa; padding-top: 5px; letter-spacing: 0.3px;
+        }
+        .turn .what { flex: 1; padding: 8px 14px; border-radius: 14px; line-height: 1.55; font-size: 1rem; }
+        .turn.context .what { background: rgba(255,255,255,0.05); color: #aaa; }
+        .turn.context .who { color: #777; }
+        .turn.target .what { background: rgba(245,158,11,0.10); border: 1px solid rgba(245,158,11,0.25); color: #f3f3f3; font-size: 1.12rem; }
+        .turn.target .who { color: #fbbf24; }
+
+        .blank {
+            display: inline-block; min-width: 70px; border-bottom: 3px dashed #f59e0b;
+            margin: 0 3px; padding: 0 6px; color: #fbbf24; font-weight: 700; transition: all 0.3s; text-align: center;
+        }
+        .blank.filled { border-bottom-style: solid; border-bottom-color: #4caf50; color: #4caf50; }
+        .blank.wrong-fill { border-bottom-style: solid; border-bottom-color: #f44336; color: #f88; }
+
+        .options { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 10px; }
+        .option-btn {
+            background: rgba(255,255,255,0.1); border: 2px solid rgba(255,255,255,0.2); color: #fff;
+            padding: 11px 20px; border-radius: 12px; font-size: 1rem; cursor: pointer; transition: all 0.2s ease;
+            min-height: 44px; flex: 1 1 calc(50% - 10px); max-width: 100%;
+        }
+        .option-btn:hover:not(:disabled) { background: rgba(245,158,11,0.3); border-color: #f59e0b; }
+        .option-btn:disabled { cursor: default; opacity: 0.55; }
+        .option-btn.selected-correct { background: rgba(76,175,80,0.3); border-color: #4caf50; color: #4caf50; opacity: 1; }
+        .option-btn.selected-wrong { background: rgba(244,67,54,0.3); border-color: #f44336; color: #f44336; opacity: 1; }
+        .option-btn.highlight-correct { background: rgba(76,175,80,0.2); border-color: #4caf50; color: #4caf50; opacity: 1; }
+
+        .feedback { margin-top: 18px; padding: 18px; border-radius: 14px; display: none; text-align: left; animation: fadeIn 0.4s ease; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        .feedback.correct { background: rgba(76,175,80,0.15); border: 1px solid rgba(76,175,80,0.3); display: block; }
+        .feedback.wrong { background: rgba(244,67,54,0.15); border: 1px solid rgba(244,67,54,0.3); display: block; }
+        .feedback h3 { margin-bottom: 8px; font-size: 1.05rem; }
+        .feedback .phrase-title { color: #fbbf24; font-weight: 700; font-size: 1.15rem; margin-bottom: 6px; }
+        .feedback .meaning { color: #ddd; line-height: 1.6; font-size: 0.95rem; }
+        .feedback .example { margin-top: 10px; padding: 10px 14px; background: rgba(255,255,255,0.05); border-radius: 8px; color: #bbb; font-size: 0.9rem; line-height: 1.5; }
+        .feedback .example .ex-who { color: #a78bfa; font-weight: 700; }
+        .feedback .example .ex-ep { color: #777; font-size: 0.75rem; margin-left: 6px; }
+        .feedback .example mark { background: rgba(245,158,11,0.3); color: #fde68a; padding: 0 3px; border-radius: 3px; }
+        .feedback .score-change { margin-top: 8px; font-size: 0.8rem; color: #888; }
+        .feedback .score-change .delta-neg { color: #f44336; font-weight: 700; }
+        .feedback .score-change .delta-pos { color: #4caf50; font-weight: 700; }
+
+        .next-btn {
+            margin-top: 22px; background: linear-gradient(90deg, #f59e0b, #f472b6); border: none; color: #fff;
+            padding: 13px 40px; border-radius: 12px; font-size: 1rem; font-weight: 700; cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s; display: none; min-height: 46px;
+        }
+        .next-btn:hover { transform: scale(1.04); box-shadow: 0 4px 20px rgba(245,158,11,0.4); }
+
+        .results-card { display: none; text-align: center; }
+        .results-card h2 { font-size: 1.8rem; margin-bottom: 15px; color: #fbbf24; }
+        .results-card .stats { font-size: 1.1rem; color: #ccc; line-height: 2; }
+        .results-card .restart-btn {
+            margin-top: 25px; background: linear-gradient(90deg, #f59e0b, #f472b6); border: none; color: #fff;
+            padding: 14px 45px; border-radius: 12px; font-size: 1.05rem; font-weight: 700; cursor: pointer; transition: transform 0.2s; min-height: 46px;
+        }
+        .results-card .restart-btn:hover { transform: scale(1.05); }
+
+        .review-section { margin-top: 20px; text-align: left; max-height: 320px; overflow-y: auto; padding-right: 6px; }
+        .review-item { padding: 12px; margin-bottom: 8px; border-radius: 10px; font-size: 0.9rem; line-height: 1.5; }
+        .review-item.was-correct { background: rgba(76,175,80,0.1); border-left: 3px solid #4caf50; }
+        .review-item.was-wrong { background: rgba(244,67,54,0.1); border-left: 3px solid #f44336; }
+        .review-item .ri-phrase { color: #fbbf24; font-weight: 700; }
+        .review-item .ri-score { font-size: 0.75rem; margin-left: 6px; }
+        .review-item .ri-sentence { color: #aaa; font-size: 0.85rem; margin-top: 4px; }
+
+        .history-summary { margin-top: 16px; padding: 14px; background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; text-align: center; }
+        .history-summary h4 { color: #f44336; font-size: 0.9rem; margin-bottom: 8px; }
+        .history-summary .weak-phrase-list { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
+        .history-summary .weak-phrase-item { background: rgba(244,67,54,0.12); border: 1px solid rgba(244,67,54,0.25); padding: 4px 10px; border-radius: 10px; font-size: 0.75rem; color: #f88; }
+        .history-summary .weak-phrase-item .wps { color: #f44336; font-weight: 700; }
+
+        footer { margin-top: auto; padding: 20px; color: #555; font-size: 0.8rem; text-align: center; }
+
+        /* ===== PHONE ===== */
+        @media (max-width: 480px) {
+            header { padding: 18px 12px 6px; }
+            header h1 { font-size: 1.6rem; }
+            .card { padding: 20px 14px; width: 95%; border-radius: 16px; }
+            .turn { gap: 6px; }
+            .turn .who { min-width: 58px; font-size: 0.7rem; }
+            .turn .what { font-size: 0.95rem; padding: 7px 10px; }
+            .turn.target .what { font-size: 1.02rem; }
+            .option-btn { flex: 1 1 100%; font-size: 0.98rem; }
+            .mother-tab { padding: 7px 12px; font-size: 0.78rem; }
+            .score-bar { gap: 8px; font-size: 0.82rem; }
+            .score-bar span { padding: 5px 12px; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Friends English</h1>
+    <p>Fill the blank in the dialogue</p>
+</header>
+
+<div class="stats-row" id="statsRow">
+    <span id="totalExpressions" style="color:#fbbf24;">Expressions: 0</span>
+    <span id="totalExchanges" style="color:#f472b6;">Scenes: 0</span>
+    <span id="weakCount" style="color:#f44336;">Weak: 0</span>
+</div>
+
+<div class="score-bar">
+    <span class="correct" id="correctCount">Correct: 0</span>
+    <span class="wrong" id="wrongCount">Wrong: 0</span>
+    <span class="total" id="questionNum">1 / 10</span>
+</div>
+
+<div class="progress-bar"><div class="fill" id="progressFill" style="width: 0%"></div></div>
+
+<!-- MOTHER TABS -->
+<div class="mother-tabs" id="motherTabs">
+    <button class="mother-tab active" data-mode="all"><span class="tab-icon">&#9679;</span>All</button>
+    <button class="mother-tab" data-mode="type"><span class="tab-icon">&#9998;</span>By Type</button>
+    <button class="mother-tab" data-mode="level"><span class="tab-icon">&#9733;</span>By Level</button>
+    <button class="mother-tab" data-mode="season"><span class="tab-icon">&#9654;</span>By Season</button>
+    <button class="mother-tab" data-mode="weak"><span class="tab-icon">&#9888;</span>Weak Words</button>
+</div>
+
+<!-- SUB PANELS (chips are generated from data) -->
+<div class="sub-panel" id="panelType">
+    <div class="sub-panel-label">Choose what to practise</div>
+    <div class="chips" id="typeChips"></div>
+</div>
+
+<div class="sub-panel" id="panelLevel">
+    <div class="sub-panel-label">Choose a difficulty level</div>
+    <div class="chips" id="levelChips"></div>
+</div>
+
+<div class="sub-panel" id="panelSeason">
+    <div class="sub-panel-label">Choose a season</div>
+    <div class="chips" id="seasonChips"></div>
+</div>
+
+<div class="sub-panel" id="panelWeak">
+    <div class="weak-info" id="weakInfo">
+        <div>You have <span class="weak-count" id="weakCountDisplay">0</span> weak expressions</div>
+        <div style="font-size:0.75rem; color:#666; margin-top:4px;">Wrong answers get -1. Correct answers recover +1 (only when negative).</div>
+    </div>
+    <div class="weak-list" id="weakList"></div>
+</div>
+
+<!-- QUIZ SIZE -->
+<div class="size-bar" id="sizeBar">
+    <button class="size-btn" data-size="10">10 Qs</button>
+    <button class="size-btn active" data-size="15">15 Qs</button>
+    <button class="size-btn" data-size="20">20 Qs</button>
+    <button class="size-btn" data-size="30">30 Qs</button>
+    <button class="size-btn" data-size="50">50 Qs</button>
+</div>
+
+<div class="card" id="quizCard">
+    <div class="category-tag" id="categoryTag"></div>
+    <div class="dialogue" id="dialogue"></div>
+    <div class="options" id="optionsContainer"></div>
+
+    <div class="feedback" id="feedback">
+        <div class="phrase-title" id="phraseTitle"></div>
+        <div class="meaning" id="phraseMeaning"></div>
+        <div class="example" id="phraseExample"></div>
+        <div class="score-change" id="scoreChange"></div>
+    </div>
+
+    <button class="next-btn" id="nextBtn" onclick="nextQuestion()">Next Question</button>
+</div>
+
+<div class="card results-card" id="resultsCard">
+    <h2>Quiz Complete!</h2>
+    <div class="stats" id="resultsStats"></div>
+    <div class="history-summary" id="historySummary"></div>
+    <div class="review-section" id="reviewSection"></div>
+    <button class="restart-btn" onclick="restartQuiz()" style="margin-top:25px;">Play Again</button>
+</div>
+
+<footer>Friends English &mdash; words, phrases and colloquial English from all 10 seasons</footer>
+
+<script src="data.js"></script>
+<script>
+// ============================
+// STATE
+// ============================
+let currentQuestions = [];
+let currentIndex = 0;
+let correctCount = 0;
+let wrongCount = 0;
+let quizSize = 15;
+let answered = false;
+let selectedMode = "all"; // all | type | level | season | weak
+let selectedType = "all";
+let selectedLevel = "all";
+let selectedSeason = "all";
+let reviewLog = [];
+
+const TYPE_LABELS = { word: "Words", phrase: "Phrases", colloquial: "Colloquial" };
+const LEVEL_ORDER = ["elementary", "middle", "high", "college", "expert"];
+const LEVEL_LABELS = { elementary: "Elementary", middle: "Middle School", high: "High School", college: "College", expert: "Expert" };
+const LEVEL_SHORT = { elementary: "ELEM", middle: "MID", high: "HIGH", college: "COLLEGE", expert: "EXPERT" };
+
+// ============================
+// SCORES (localStorage, keyed by expression)
+// ============================
+const STORAGE_KEY = "friends_phrase_scores";
+
+function loadScores() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; } catch { return {}; }
+}
+function saveScores(scores) {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(scores)); } catch {}
+}
+function getScore(key) { return loadScores()[key] || 0; }
+function recordAnswer(key, isCorrect) {
+    const scores = loadScores();
+    const current = scores[key] || 0;
+    if (!isCorrect) scores[key] = current - 1;
+    else if (current < 0) scores[key] = current + 1;
+    saveScores(scores);
+    return scores[key] || 0;
+}
+function getWeakPhrases() {
+    return Object.entries(loadScores()).filter(([, s]) => s < 0).sort((a, b) => a[1] - b[1]);
+}
+
+// ============================
+// HELPERS
+// ============================
+function escapeHTML(s) {
+    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+function seasonOf(ep) { return ep.slice(0, 3); } // "S01E05" -> "S01"
+function shuffle(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+}
+// Replace the first case-insensitive occurrence of `answer` in `line` with HTML.
+function lineWithBlank(line, answer, replacementHTML) {
+    const idx = line.toLowerCase().indexOf(answer.toLowerCase());
+    if (idx < 0) return escapeHTML(line);
+    return escapeHTML(line.slice(0, idx)) + replacementHTML + escapeHTML(line.slice(idx + answer.length));
+}
+function lineWithMark(line, answer) {
+    return lineWithBlank(line, answer, `<mark>${escapeHTML(answer)}</mark>`);
+}
+
+// ============================
+// STATS
+// ============================
+function countStats() {
+    const totalEx = FRIENDS.reduce((s, it) => s + it.exchanges.length, 0);
+    document.getElementById("totalExpressions").textContent = `Expressions: ${FRIENDS.length}`;
+    document.getElementById("totalExchanges").textContent = `Scenes: ${totalEx}`;
+    updateWeakCount();
+}
+function updateWeakCount() {
+    document.getElementById("weakCount").textContent = `Weak: ${getWeakPhrases().length}`;
+}
+
+// ============================
+// CHIPS (generated from data)
+// ============================
+function renderChipGroup(containerId, extraClass, values, labels, counts, onPick) {
+    const container = document.getElementById(containerId);
+    container.innerHTML = "";
+    const all = document.createElement("button");
+    all.className = `chip ${extraClass} active`;
+    all.dataset.value = "all";
+    all.textContent = "All";
+    container.appendChild(all);
+    values.forEach(v => {
+        const btn = document.createElement("button");
+        btn.className = `chip ${extraClass}`;
+        btn.dataset.value = v;
+        btn.textContent = `${labels[v] || v} (${counts[v] || 0})`;
+        container.appendChild(btn);
+    });
+    container.querySelectorAll(".chip").forEach(btn => {
+        btn.addEventListener("click", () => {
+            container.querySelectorAll(".chip").forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            onPick(btn.dataset.value);
+            startQuiz();
+        });
+    });
+}
+
+function initChips() {
+    const typeCounts = {}, levelCounts = {}, seasonCounts = {};
+    FRIENDS.forEach(it => {
+        typeCounts[it.type] = (typeCounts[it.type] || 0) + 1;
+        levelCounts[it.level] = (levelCounts[it.level] || 0) + 1;
+        const seasons = new Set(it.exchanges.map(e => seasonOf(e.ep)));
+        seasons.forEach(s => seasonCounts[s] = (seasonCounts[s] || 0) + 1);
+    });
+    renderChipGroup("typeChips", "type-chip", ["word", "phrase", "colloquial"].filter(t => typeCounts[t]), TYPE_LABELS, typeCounts, v => selectedType = v);
+    renderChipGroup("levelChips", "level-chip", LEVEL_ORDER.filter(l => levelCounts[l]), LEVEL_LABELS, levelCounts, v => selectedLevel = v);
+    const seasons = Object.keys(seasonCounts).sort();
+    const seasonLabels = {}; seasons.forEach(s => seasonLabels[s] = `Season ${parseInt(s.slice(1), 10)}`);
+    renderChipGroup("seasonChips", "season-chip", seasons, seasonLabels, seasonCounts, v => selectedSeason = v);
+}
+
+function resetChipGroup(containerId) {
+    const container = document.getElementById(containerId);
+    container.querySelectorAll(".chip").forEach(b => b.classList.remove("active"));
+    const all = container.querySelector('.chip[data-value="all"]');
+    if (all) all.classList.add("active");
+}
+
+// ============================
+// MOTHER TABS
+// ============================
+function initMotherTabs() {
+    document.querySelectorAll(".mother-tab").forEach(tab => {
+        tab.addEventListener("click", () => {
+            document.querySelectorAll(".mother-tab").forEach(t => t.classList.remove("active"));
+            tab.classList.add("active");
+            selectedMode = tab.dataset.mode;
+            selectedType = "all"; selectedLevel = "all"; selectedSeason = "all";
+
+            document.getElementById("panelType").classList.toggle("visible", selectedMode === "type");
+            document.getElementById("panelLevel").classList.toggle("visible", selectedMode === "level");
+            document.getElementById("panelSeason").classList.toggle("visible", selectedMode === "season");
+            document.getElementById("panelWeak").classList.toggle("visible", selectedMode === "weak");
+
+            if (selectedMode === "type") resetChipGroup("typeChips");
+            if (selectedMode === "level") resetChipGroup("levelChips");
+            if (selectedMode === "season") resetChipGroup("seasonChips");
+            if (selectedMode === "weak") renderWeakPanel();
+
+            startQuiz();
+        });
+    });
+}
+
+// ============================
+// WEAK PANEL
+// ============================
+function renderWeakPanel() {
+    const weak = getWeakPhrases();
+    document.getElementById("weakCountDisplay").textContent = weak.length;
+    const list = document.getElementById("weakList");
+    list.innerHTML = "";
+    if (weak.length === 0) {
+        list.innerHTML = '<div style="color:#666; font-size:0.8rem; padding:8px;">No weak expressions yet. Keep practising!</div>';
+        return;
+    }
+    weak.forEach(([phrase, score]) => {
+        const tag = document.createElement("span");
+        tag.className = "weak-tag";
+        tag.innerHTML = `${escapeHTML(phrase)}<span class="weak-score">${score}</span>`;
+        list.appendChild(tag);
+    });
+}
+
+// ============================
+// QUIZ POOL — one question per exchange
+// ============================
+function buildQuizPool() {
+    let items = [...FRIENDS];
+
+    if (selectedMode === "weak") {
+        const weakSet = new Set(getWeakPhrases().map(([p]) => p));
+        items = items.filter(it => weakSet.has(it.expression));
+        if (items.length === 0) items = [...FRIENDS];
+    } else if (selectedMode === "type" && selectedType !== "all") {
+        items = items.filter(it => it.type === selectedType);
+    } else if (selectedMode === "level" && selectedLevel !== "all") {
+        items = items.filter(it => it.level === selectedLevel);
+    }
+    if (items.length === 0) items = [...FRIENDS];
+
+    const pool = [];
+    items.forEach(item => {
+        item.exchanges.forEach(ex => {
+            if (selectedMode === "season" && selectedSeason !== "all" && seasonOf(ex.ep) !== selectedSeason) return;
+            pool.push({ item, ex });
+        });
+    });
+    if (pool.length === 0) FRIENDS.forEach(item => item.exchanges.forEach(ex => pool.push({ item, ex })));
+
+    // At most one question per expression per quiz, so a 15-question round covers 15 expressions.
+    const byExpr = new Map();
+    shuffle(pool).forEach(q => { if (!byExpr.has(q.item.expression)) byExpr.set(q.item.expression, q); });
+    return [...byExpr.values()];
+}
+
+// ============================
+// START
+// ============================
+function startQuiz() {
+    const pool = buildQuizPool();
+    currentQuestions = shuffle(pool).slice(0, quizSize);
+    currentIndex = 0; correctCount = 0; wrongCount = 0; answered = false; reviewLog = [];
+    document.getElementById("resultsCard").style.display = "none";
+    document.getElementById("quizCard").style.display = "block";
+    updateScore();
+    showQuestion();
+}
+
+// ============================
+// SHOW QUESTION
+// ============================
+function turnHTML(cls, who, whatHTML) {
+    return `<div class="turn ${cls}"><div class="who">${escapeHTML(who)}</div><div class="what">${whatHTML}</div></div>`;
+}
+
+function showQuestion() {
+    answered = false;
+    const q = currentQuestions[currentIndex];
+    const { item, ex } = q;
+
+    const score = getScore(item.expression);
+    let tag = `<span class="badge type-${item.type}">${item.type}</span>`;
+    tag += `<span class="badge level-${item.level}">${LEVEL_SHORT[item.level] || item.level}</span>`;
+    tag += `<span class="badge ep">${ex.ep}</span>`;
+    if (score < 0) tag += `<span class="badge score-neg">score ${score}</span>`;
+    else if (score > 0) tag += `<span class="badge score-pos">score +${score}</span>`;
+    document.getElementById("categoryTag").innerHTML = tag;
+
+    let html = "";
+    if (ex.cue) html += turnHTML("context", ex.cueSpeaker || "", escapeHTML(ex.cue));
+    html += turnHTML("target", ex.speaker, lineWithBlank(ex.line, ex.answer, '<span class="blank" id="blankSpan">______</span>'));
+    if (ex.response) html += turnHTML("context", ex.responseSpeaker || "", escapeHTML(ex.response));
+    document.getElementById("dialogue").innerHTML = html;
+
+    const fb = document.getElementById("feedback");
+    fb.className = "feedback"; fb.style.display = "none";
+    document.getElementById("nextBtn").style.display = "none";
+    document.getElementById("scoreChange").innerHTML = "";
+
+    const container = document.getElementById("optionsContainer");
+    container.innerHTML = "";
+    shuffle(ex.options).forEach(opt => {
+        const btn = document.createElement("button");
+        btn.className = "option-btn";
+        btn.textContent = opt;
+        btn.onclick = () => selectAnswer(opt, btn);
+        container.appendChild(btn);
+    });
+    updateScore();
+}
+
+// ============================
+// ANSWER
+// ============================
+function selectAnswer(selected, btn) {
+    if (answered) return;
+    answered = true;
+    const { item, ex } = currentQuestions[currentIndex];
+    const isCorrect = selected.toLowerCase() === ex.answer.toLowerCase();
+    const blank = document.getElementById("blankSpan");
+    const feedback = document.getElementById("feedback");
+
+    document.querySelectorAll(".option-btn").forEach(b => b.disabled = true);
+
+    const oldScore = getScore(item.expression);
+    const newScore = recordAnswer(item.expression, isCorrect);
+    const delta = newScore - oldScore;
+
+    const oldH3 = feedback.querySelector("h3");
+    if (oldH3) oldH3.remove();
+    const h3 = document.createElement("h3");
+
+    if (isCorrect) {
+        correctCount++;
+        btn.classList.add("selected-correct");
+        blank.textContent = ex.answer; blank.classList.add("filled");
+        feedback.className = "feedback correct";
+        h3.textContent = "Correct!"; h3.style.color = "#4caf50";
+    } else {
+        wrongCount++;
+        btn.classList.add("selected-wrong");
+        blank.textContent = ex.answer; blank.classList.add("wrong-fill");
+        feedback.className = "feedback wrong";
+        h3.innerHTML = `Wrong! The answer is "<strong>${escapeHTML(ex.answer)}</strong>"`; h3.style.color = "#f44336";
+        document.querySelectorAll(".option-btn").forEach(b => {
+            if (b.textContent.toLowerCase() === ex.answer.toLowerCase()) b.classList.add("highlight-correct");
+        });
+    }
+    feedback.prepend(h3);
+
+    document.getElementById("phraseTitle").textContent = `${item.expression}  ·  ${item.pos}`;
+    document.getElementById("phraseMeaning").textContent = item.meaning;
+
+    // Example: another scene with the same expression if there is one, else this one with the answer shown.
+    const others = item.exchanges.filter(e => e.uid !== ex.uid);
+    const exEx = others.length ? others[Math.floor(Math.random() * others.length)] : ex;
+    document.getElementById("phraseExample").innerHTML =
+        `<span class="ex-who">${escapeHTML(exEx.speaker)}:</span> ${lineWithMark(exEx.line, exEx.answer)}<span class="ex-ep">${exEx.ep}</span>`;
+
+    const sc = document.getElementById("scoreChange");
+    if (delta !== 0) {
+        const cls = delta < 0 ? "delta-neg" : "delta-pos";
+        sc.innerHTML = `Expression score: ${newScore} (<span class="${cls}">${delta > 0 ? "+" : ""}${delta}</span>)`;
+    } else if (isCorrect && oldScore >= 0) {
+        sc.innerHTML = `Expression score: ${newScore} <span style="color:#666">(already mastered)</span>`;
+    }
+    feedback.style.display = "block";
+
+    reviewLog.push({
+        phrase: item.expression, correct: isCorrect, yourAnswer: selected,
+        sentence: `${ex.speaker}: ${ex.line}`, newScore, delta
+    });
+
+    const nb = document.getElementById("nextBtn");
+    nb.style.display = "inline-block";
+    nb.textContent = currentIndex < currentQuestions.length - 1 ? "Next Question" : "See Results";
+
+    updateScore();
+    updateWeakCount();
+}
+
+// ============================
+// NEXT / RESULTS
+// ============================
+function nextQuestion() {
+    currentIndex++;
+    if (currentIndex >= currentQuestions.length) showResults(); else showQuestion();
+}
+
+function showResults() {
+    document.getElementById("quizCard").style.display = "none";
+    document.getElementById("resultsCard").style.display = "block";
+
+    const pct = Math.round((correctCount / currentQuestions.length) * 100);
+    let grade = "";
+    if (pct >= 90) grade = "Amazing! Could you BE any better?";
+    else if (pct >= 70) grade = "Great job! Keep practising!";
+    else if (pct >= 50) grade = "Good effort! Review the ones you missed.";
+    else grade = "Keep studying! You'll improve with practice.";
+
+    document.getElementById("resultsStats").innerHTML = `
+        <p>Score: <strong>${correctCount} / ${currentQuestions.length}</strong> (${pct}%)</p>
+        <p style="margin-top:10px; color: #fbbf24;">${grade}</p>`;
+
+    const weak = getWeakPhrases();
+    const summaryDiv = document.getElementById("historySummary");
+    if (weak.length > 0) {
+        const top = weak.slice(0, 20);
+        summaryDiv.innerHTML = `
+            <h4>Your ${weak.length} Weakest Expression${weak.length > 1 ? "s" : ""} (All Time)</h4>
+            <div class="weak-phrase-list">
+                ${top.map(([p, s]) => `<span class="weak-phrase-item">${escapeHTML(p)} <span class="wps">${s}</span></span>`).join("")}
+            </div>
+            ${weak.length > 20 ? `<div style="color:#666; font-size:0.7rem; margin-top:6px;">...and ${weak.length - 20} more</div>` : ""}`;
+    } else {
+        summaryDiv.innerHTML = `<h4 style="color:#4caf50;">No weak expressions! Great job!</h4>`;
+    }
+
+    const reviewDiv = document.getElementById("reviewSection");
+    reviewDiv.innerHTML = "<h3 style='margin-bottom:12px; color:#aaa;'>Review:</h3>";
+    reviewLog.forEach(r => {
+        const div = document.createElement("div");
+        div.className = `review-item ${r.correct ? "was-correct" : "was-wrong"}`;
+        const scoreColor = r.newScore < 0 ? "#f44336" : r.newScore > 0 ? "#4caf50" : "#888";
+        const deltaStr = r.delta !== 0 ? `(${r.delta > 0 ? "+" : ""}${r.delta})` : "";
+        div.innerHTML = `
+            <span class="ri-phrase">${escapeHTML(r.phrase)}</span>
+            ${r.correct ? "&#10003;" : `&#10007; (you picked: ${escapeHTML(r.yourAnswer)})`}
+            <span class="ri-score" style="color:${scoreColor}">[ ${r.newScore} ${deltaStr}]</span>
+            <div class="ri-sentence">${escapeHTML(r.sentence)}</div>`;
+        reviewDiv.appendChild(div);
+    });
+
+    if (selectedMode === "weak") renderWeakPanel();
+}
+
+function restartQuiz() { startQuiz(); }
+
+function updateScore() {
+    document.getElementById("correctCount").textContent = `Correct: ${correctCount}`;
+    document.getElementById("wrongCount").textContent = `Wrong: ${wrongCount}`;
+    document.getElementById("questionNum").textContent = `${currentIndex + 1} / ${currentQuestions.length}`;
+    document.getElementById("progressFill").style.width = `${(currentIndex / Math.max(1, currentQuestions.length)) * 100}%`;
+}
+
+// ============================
+// QUIZ SIZE
+// ============================
+document.querySelectorAll(".size-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+        document.querySelectorAll(".size-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+        quizSize = parseInt(btn.dataset.size, 10);
+        startQuiz();
+    });
+});
+
+// ============================
+// INIT
+// ============================
+countStats();
+initMotherTabs();
+initChips();
+startQuiz();
+</script>
+
+</body>
+</html>

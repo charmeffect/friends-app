@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>friends-app smoke test</title></head>
+<body>
+<!-- Loads ../index.html in an iframe and drives it. Run with:
+     python3 -m http.server 8765  (from the project root)
+     "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu \
+        --virtual-time-budget=8000 --dump-dom http://127.0.0.1:8765/friends-app/tools/smoke-test.html | grep -o 'SMOKE.*' -->
+<iframe id="f" src="../index.html" style="width:400px;height:900px"></iframe>
+<pre id="out"></pre>
+<script>
+const results = {};
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+document.getElementById('f').addEventListener('load', async () => {
+  const w = document.getElementById('f').contentWindow, d = w.document;
+  try {
+    await sleep(300);
+    results.title = d.title;
+    results.stats = d.getElementById('totalExpressions').textContent + ' | ' + d.getElementById('totalExchanges').textContent;
+    results.typeChips = [...d.querySelectorAll('#typeChips .chip')].map(b => b.textContent);
+    results.levelChips = [...d.querySelectorAll('#levelChips .chip')].map(b => b.textContent);
+    results.seasonChips = [...d.querySelectorAll('#seasonChips .chip')].map(b => b.textContent);
+    results.questionNum = d.getElementById('questionNum').textContent;
+    const turns = [...d.querySelectorAll('#dialogue .turn')].map(t => t.className + ': ' + t.querySelector('.who').textContent + ' / ' + t.querySelector('.what').textContent.slice(0, 60));
+    results.turns = turns;
+    results.hasBlank = !!d.getElementById('blankSpan');
+    const opts = [...d.querySelectorAll('.option-btn')];
+    results.optionCount = opts.length;
+    // Answer with the correct option (found from the current question state)
+    const q = w.eval('currentQuestions[currentIndex]');
+    const correctBtn = opts.find(b => b.textContent.toLowerCase() === q.ex.answer.toLowerCase());
+    correctBtn.click();
+    await sleep(100);
+    results.afterCorrect = {
+      feedbackClass: d.getElementById('feedback').className,
+      h3: d.querySelector('#feedback h3').textContent,
+      blank: d.getElementById('blankSpan').textContent,
+      title: d.getElementById('phraseTitle').textContent,
+      example: d.getElementById('phraseExample').textContent.slice(0, 80),
+      nextVisible: d.getElementById('nextBtn').style.display,
+      correctCount: d.getElementById('correctCount').textContent,
+    };
+    // Next question, answer wrong
+    d.getElementById('nextBtn').click();
+    await sleep(100);
+    const q2 = w.eval('currentQuestions[currentIndex]');
+    const wrongBtn = [...d.querySelectorAll('.option-btn')].find(b => b.textContent.toLowerCase() !== q2.ex.answer.toLowerCase());
+    wrongBtn.click();
+    await sleep(100);
+    results.afterWrong = {
+      feedbackClass: d.getElementById('feedback').className,
+      h3: d.querySelector('#feedback h3').textContent,
+      highlighted: d.querySelectorAll('.option-btn.highlight-correct').length,
+      wrongCount: d.getElementById('wrongCount').textContent,
+      weakCount: d.getElementById('weakCount').textContent,
+      stored: w.localStorage.getItem('friends_phrase_scores'),
+    };
+    // Switch to By Season, pick first season chip
+    d.querySelector('.mother-tab[data-mode="season"]').click();
+    await sleep(100);
+    results.seasonPanelVisible = d.getElementById('panelSeason').classList.contains('visible');
+    const s1 = d.querySelector('#seasonChips .chip[data-value="S01"]');
+    s1.click(); await sleep(100);
+    results.seasonQuiz = { selectedSeason: w.eval('selectedSeason'), questionNum: d.getElementById('questionNum').textContent };
+    // By Type -> colloquial
+    d.querySelector('.mother-tab[data-mode="type"]').click(); await sleep(50);
+    d.querySelector('#typeChips .chip[data-value="colloquial"]').click(); await sleep(100);
+    results.typeQuiz = { selectedType: w.eval('selectedType'), allColloquial: w.eval('currentQuestions').every(x => x.item.type === 'colloquial'), n: w.eval('currentQuestions').length };
+    // By Level -> elementary
+    d.querySelector('.mother-tab[data-mode="level"]').click(); await sleep(50);
+    d.querySelector('#levelChips .chip[data-value="elementary"]').click(); await sleep(100);
+    results.levelQuiz = { selectedLevel: w.eval('selectedLevel'), allElem: w.eval('currentQuestions').every(x => x.item.level === 'elementary'), n: w.eval('currentQuestions').length };
+    // Weak tab
+    d.querySelector('.mother-tab[data-mode="weak"]').click(); await sleep(100);
+    results.weak = { tags: d.querySelectorAll('#weakList .weak-tag').length, n: w.eval('currentQuestions').length };
+    // Run a full 10-question quiz to the results card
+    d.querySelector('.mother-tab[data-mode="all"]').click(); await sleep(50);
+    d.querySelector('.size-btn[data-size="10"]').click(); await sleep(50);
+    for (let i = 0; i < 10; i++) {
+      const qq = w.eval('currentQuestions[currentIndex]');
+      [...d.querySelectorAll('.option-btn')].find(b => b.textContent.toLowerCase() === qq.ex.answer.toLowerCase()).click();
+      await sleep(20);
+      d.getElementById('nextBtn').click();
+      await sleep(20);
+    }
+    results.results = { visible: d.getElementById('resultsCard').style.display, stats: d.getElementById('resultsStats').textContent.replace(/\s+/g, ' ').trim().slice(0, 60), reviewItems: d.querySelectorAll('.review-item').length };
+    results.jsErrors = w.__errors || 0;
+    results.ok = true;
+  } catch (e) {
+    results.ok = false; results.error = String(e && e.stack || e);
+  }
+  document.getElementById('out').textContent = 'SMOKE' + JSON.stringify(results);
+});
+</script>
+</body></html>
