@@ -1,0 +1,137 @@
+[
+  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to look after someone who needs help",
+    "exchanges": [ { "uid": "s02_e06_c01_u037", "answer": "taken care of",
+      "options": ["taken care of", "made fun of", "got rid of", "kept track of"] } ] },
+
+  { "expression": "for a sec", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "for a second; for a very short time",
+    "exchanges": [
+      { "uid": "s02_e06_c01_u003", "answer": "for a sec",
+        "options": ["for a sec", "in a row", "at a go", "on a roll"] },
+      { "uid": "s02_e06_c06_u022", "answer": "for a sec",
+        "options": ["for a sec", "on a roll", "in a row", "at a go"] } ] },
+
+  { "expression": "no way", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to say that something is impossible or will definitely not happen",
+    "exchanges": [ { "uid": "s02_e06_c04_u023", "answer": "no way", "cueUid": null,
+      "options": ["no way", "no fun", "no rush", "no point"] } ] },
+
+  { "expression": "nuts", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "crazy",
+    "exchanges": [ { "uid": "s02_e06_c01_u014", "answer": "nuts", "responseUid": "s02_e06_c01_u016",
+      "options": ["nuts", "neat", "cute", "nice"] } ] },
+
+  { "expression": "swell up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to become larger than normal, usually because of injury or illness",
+    "exchanges": [ { "uid": "s02_e06_c01_u027", "answer": "swelling up",
+      "options": ["swelling up", "drying out", "breaking off", "cooling down"] } ] },
+
+  { "expression": "get a shot", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to receive an injection of medicine",
+    "exchanges": [ { "uid": "s02_e06_c01_u031", "answer": "get a shot",
+      "options": ["get a shot", "get a lift", "take a bow", "make a wish"] } ] },
+
+  { "expression": "consider it done", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to promise that you will certainly do what someone has asked",
+    "exchanges": [ { "uid": "s02_e06_c01_u042", "answer": "Consider it done",
+      "options": ["Consider it done", "Call it even", "Leave it alone", "Keep it simple"] } ] },
+
+  { "expression": "adopt", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to legally take another person's child into your family and raise it as your own",
+    "exchanges": [ { "uid": "s02_e06_c03_u018", "answer": "adopt", "responseUid": null,
+      "options": ["adopt", "adapt", "adjust", "admit"] } ] },
+
+  { "expression": "adorable", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very cute and easy to love",
+    "exchanges": [ { "uid": "s02_e06_c04_u037", "answer": "adorable",
+      "options": ["adorable", "available", "affordable", "agreeable"] } ] },
+
+  { "expression": "here's the deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to introduce an explanation of the situation",
+    "exchanges": [ { "uid": "s02_e06_c04_u072", "answer": "here's the deal", "responseUid": null,
+      "options": ["here's the deal", "there's the catch", "that's the point", "where's the plan"] } ] },
+
+  { "expression": "be there for someone", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to give someone support and attention when they need it",
+    "exchanges": [ { "uid": "s02_e06_c06_u002", "answer": "being there for me",
+      "options": ["being there for me", "going there with me", "sitting there by me", "standing there with me"] } ] },
+
+  { "expression": "assume", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to accept that something is true without checking it",
+    "exchanges": [
+      { "uid": "s02_e06_c03_u012", "answer": "assume",
+        "options": ["assume", "assure", "assist", "assess"] },
+      { "uid": "s02_e06_c04_u079", "answer": "assuming",
+        "options": ["assuming", "assuring", "assisting", "assessing"] } ] },
+
+  { "expression": "out the window", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "no longer possible; completely abandoned",
+    "exchanges": [ { "uid": "s02_e06_c01_u038", "answer": "out the window",
+      "options": ["out the window", "over the moon", "down the hall", "up the wall"] } ] },
+
+  { "expression": "get a whiff of", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to smell something briefly",
+    "exchanges": [ { "uid": "s02_e06_c03_u013", "answer": "Get a whiff of",
+      "options": ["Get a whiff of", "Take a sip of", "Have a bite of", "Get a grip on"] } ] },
+
+  { "expression": "skip a beat", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to react with a sudden jolt of emotion, said of the heart or, jokingly, another organ",
+    "exchanges": [ { "uid": "s02_e06_c03_u014", "answer": "skipped a beat",
+      "options": ["skipped a beat", "missed a step", "dropped a note", "lost a turn"] } ] },
+
+  { "expression": "gig", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a booking for a musician to perform",
+    "exchanges": [ { "uid": "s02_e06_c04_u002", "answer": "gig",
+      "options": ["gig", "chore", "task", "fee"] } ] },
+
+  { "expression": "phobia", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "an extreme and unreasonable fear of something",
+    "exchanges": [ { "uid": "s02_e06_c04_u025", "answer": "phobia",
+      "options": ["phobia", "fever", "theory", "habit"] } ] },
+
+  { "expression": "make out with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to kiss and touch someone in a sexual way",
+    "exchanges": [ { "uid": "s02_e06_c04_u034", "answer": "make out", "cueUid": null,
+      "options": ["make out", "pass out", "sell out", "back off"] } ] },
+
+  { "expression": "get the ball rolling", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make something start happening",
+    "exchanges": [ { "uid": "s02_e06_c05_u007", "answer": "get the ball rolling",
+      "options": ["get the ball rolling", "set the bar high", "let the cat out", "put the kettle on"] } ] },
+
+  { "expression": "kick someone's ass", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to beat someone up or defeat them completely",
+    "exchanges": [ { "uid": "s02_e06_c06_u011", "answer": "kick his ass",
+      "options": ["kick his ass", "hold his hand", "pull his leg", "save his neck"] } ] },
+
+  { "expression": "freckle", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a small light-brown spot on the skin",
+    "exchanges": [ { "uid": "s02_e06_c06_u005", "answer": "freckle", "responseUid": "s02_e06_c06_u007",
+      "options": ["freckle", "buckle", "pickle", "nickel"] } ] },
+
+  { "expression": "immodest", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "showing too much pride in yourself or your abilities",
+    "exchanges": [ { "uid": "s02_e06_c03_u010", "answer": "immodest",
+      "options": ["immodest", "impatient", "immature", "impolite"] } ] },
+
+  { "expression": "orally", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "by mouth, said of taking medicine",
+    "exchanges": [ { "uid": "s02_e06_c04_u027", "answer": "orally",
+      "options": ["orally", "openly", "oddly", "overly"] } ] },
+
+  { "expression": "under the circumstances", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "given the particular situation; because of the conditions that exist",
+    "exchanges": [ { "uid": "s02_e06_c04_u028", "answer": "under these circumstances", "responseUid": "s02_e06_c04_u031",
+      "options": ["under these circumstances", "beyond these limits", "over these matters", "within these terms"] } ] },
+
+  { "expression": "puncture wound", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "an injury where a sharp pointed object has pierced the skin",
+    "exchanges": [ { "uid": "s02_e06_c04_u056", "answer": "puncture wound",
+      "options": ["puncture wound", "paper cut", "muscle cramp", "nose bleed"] } ] },
+
+  { "expression": "bite me", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "a rude, defiant reply meaning that you do not care what the other person thinks",
+    "exchanges": [ { "uid": "s02_e06_c04_u077", "answer": "bite me", "responseUid": null,
+      "options": ["bite me", "hug me", "call me", "feed me"] } ] }
+]

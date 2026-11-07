@@ -1,0 +1,485 @@
+[
+{
+  "expression": "stop by",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit a place briefly, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c01_u007",
+      "answer": "stopped by",
+      "responseUid": "s02_e04_c01_u009",
+      "options": [
+        "stopped by",
+        "pulled off",
+        "stayed in",
+        "ran out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "never mind",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "forget what I just said; it is not important anymore",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c07_u009",
+      "answer": "never mind",
+      "options": [
+        "never mind",
+        "no matter",
+        "not now",
+        "no doubt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c07_u015",
+      "answer": "Hang on",
+      "responseUid": null,
+      "options": [
+        "Hang on",
+        "Hang up",
+        "Carry on",
+        "Go on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no problem",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say you were happy to help and no thanks are needed",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c06_u009",
+      "answer": "no problem",
+      "options": [
+        "no problem",
+        "no matter",
+        "no question",
+        "no chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at the last minute",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at the latest possible time, just before something happens",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c02_u034",
+      "answer": "at the last minute",
+      "options": [
+        "at the last minute",
+        "in the last place",
+        "on the last line",
+        "by the last call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dress up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to put on nice or special clothes for an occasion",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c03_u016",
+      "answer": "dressing up",
+      "options": [
+        "dressing up",
+        "dressing down",
+        "putting on",
+        "warming up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no kidding",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "really? - used to show surprise at what someone just said",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c04_u026",
+      "answer": "No kidding",
+      "options": [
+        "No kidding",
+        "No idea",
+        "No thanks",
+        "No chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become successful in your career",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c05_u011",
+      "answer": "make it",
+      "options": [
+        "make it",
+        "take it",
+        "lose it",
+        "beat it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fit in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be accepted by a group because you are like its other members",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c08_u013",
+      "answer": "fit in",
+      "options": [
+        "fit in",
+        "fill in",
+        "get in",
+        "fit out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a while",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to need a fairly long time",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c09_u011",
+      "answer": "take a while",
+      "options": [
+        "take a while",
+        "take a turn",
+        "make a scene",
+        "have a go"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mess up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spoil or ruin something",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c11_u021",
+      "answer": "mess it up",
+      "options": [
+        "mess it up",
+        "put it up",
+        "take it up",
+        "make it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dead meat",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in serious trouble and about to be punished",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c02_u018",
+      "answer": "dead meat",
+      "cueUid": "s02_e04_c02_u016",
+      "options": [
+        "dead meat",
+        "hot stuff",
+        "big cheese",
+        "old news"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go through with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something you planned or promised even though it is difficult",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c02_u034",
+      "answer": "go through with it",
+      "options": [
+        "go through with it",
+        "come up with it",
+        "put up with it",
+        "do away with it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hook up with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start a romantic or sexual relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c03_u008",
+      "answer": "hook up with",
+      "options": [
+        "hook up with",
+        "catch up with",
+        "put up with",
+        "keep up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for your information",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, often with annoyance, to correct someone with a fact they did not know",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c03_u017",
+      "answer": "For your information",
+      "options": [
+        "For your information",
+        "For your reference",
+        "In your interest",
+        "To your knowledge"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wiped",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely tired",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c09_u004",
+      "answer": "wiped",
+      "options": [
+        "wiped",
+        "washed",
+        "wasted",
+        "dried"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the right track",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "doing something in a way that will lead to a good result",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c11_u024",
+      "answer": "on the right track",
+      "options": [
+        "on the right track",
+        "in the right place",
+        "at the right time",
+        "on the right side"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "judgmental",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "too quick to criticize other people's behavior",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c02_u005",
+      "answer": "judgemental",
+      "options": [
+        "judgemental",
+        "sentimental",
+        "fundamental",
+        "monumental"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as opposed to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "rather than; used to contrast one thing with another",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c02_u025",
+      "answer": "as opposed to",
+      "options": [
+        "as opposed to",
+        "as regards to",
+        "in addition to",
+        "on account of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "live a lie",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to keep pretending to be something you are not",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c08_u011",
+      "answer": "live a lie",
+      "options": [
+        "live a lie",
+        "tell a tale",
+        "take a stand",
+        "make a scene"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a nutshell",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said before giving a very short summary",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c09_u017",
+      "answer": "in a nutshell",
+      "responseUid": null,
+      "options": [
+        "in a nutshell",
+        "in a heartbeat",
+        "at a glance",
+        "on a whim"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch someone off guard",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to surprise someone when they are not ready for it",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c11_u026",
+      "answer": "catch me off guard",
+      "options": [
+        "catch me off guard",
+        "throw me off track",
+        "put me on hold",
+        "keep me at bay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "virility",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a man's sexual strength and manly energy",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c03_u004",
+      "answer": "virility",
+      "options": [
+        "virility",
+        "vitality",
+        "nobility",
+        "humility"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "psych out",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to make someone so anxious by overthinking that they lose confidence",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c04_u020",
+      "answer": "psyched out",
+      "options": [
+        "psyched out",
+        "psyched up",
+        "spaced out",
+        "locked out"
+      ]
+    }
+  ]
+}
+]

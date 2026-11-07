@@ -1,0 +1,136 @@
+[
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [
+      { "uid": "s02_e05_c02_u031", "answer": "ran into",
+        "options": ["ran into", "came over", "put off", "went after"] },
+      { "uid": "s02_e05_c07_u006", "answer": "run into",
+        "options": ["run into", "go after", "put up", "come over"] } ] },
+
+  { "expression": "show up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to arrive at a place where people are expecting you",
+    "exchanges": [
+      { "uid": "s02_e05_c01_u021", "answer": "show up",
+        "options": ["show up", "turn in", "come off", "get by"] },
+      { "uid": "s02_e05_c04_u053", "answer": "show up",
+        "options": ["show up", "turn in", "come off", "get by"] } ] },
+
+  { "expression": "me neither", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to agree with a negative statement someone has just made",
+    "exchanges": [ { "uid": "s02_e05_c04_u028", "answer": "Me neither",
+      "options": ["Me neither", "Not yet", "Who knows", "So long"] } ] },
+
+  { "expression": "all of a sudden", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "suddenly and unexpectedly",
+    "exchanges": [ { "uid": "s02_e05_c02_u029", "answer": "All of a sudden", "cueUid": "s02_e05_c02_u025",
+      "options": ["All of a sudden", "Once in a while", "In the long run", "On the other hand"] } ] },
+
+  { "expression": "afford", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to have enough money to pay for something",
+    "exchanges": [ { "uid": "s02_e05_c02_u021", "answer": "afford",
+      "options": ["afford", "attend", "assume", "arrange"] } ] },
+
+  { "expression": "save up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to keep money so that you can pay for something later",
+    "exchanges": [ { "uid": "s02_e05_c02_u018", "answer": "savin' up",
+      "options": ["savin' up", "settin' off", "puttin' in", "takin' on"] } ] },
+
+  { "expression": "get promoted", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be given a higher position at work",
+    "exchanges": [ { "uid": "s02_e05_c03_u047", "answer": "got promoted",
+      "options": ["got promoted", "got engaged", "got elected", "got arrested"] } ] },
+
+  { "expression": "rude", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "not polite; showing no respect for other people",
+    "exchanges": [ { "uid": "s02_e05_c05_u006", "answer": "rude",
+      "options": ["rude", "proud", "loud", "wise"] } ] },
+
+  { "expression": "in charge of", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "responsible for and in control of something",
+    "exchanges": [ { "uid": "s02_e05_c03_u003", "answer": "in charge of", "responseUid": "s02_e05_c03_u005",
+      "options": ["in charge of", "in favor of", "in front of", "in spite of"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [ { "uid": "s02_e05_c03_u048", "answer": "no big deal",
+      "options": ["no big deal", "no free lunch", "no small talk", "no hard feelings"] } ] },
+
+  { "expression": "stand someone up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to fail to show up for a date you had arranged with someone",
+    "exchanges": [ { "uid": "s02_e05_c02_u044", "answer": "stood you up", "cueUid": "s02_e05_c02_u042",
+      "options": ["stood you up", "put you off", "set you back", "held you over"] } ] },
+
+  { "expression": "pay off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to bring a good result after time, effort, or money has been spent",
+    "exchanges": [ { "uid": "s02_e05_c01_u019", "answer": "paid off",
+      "options": ["paid off", "run out", "set in", "gone by"] } ] },
+
+  { "expression": "go through with", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to do something you planned even though it is difficult or questionable",
+    "exchanges": [ { "uid": "s02_e05_c02_u015", "answer": "go through with",
+      "options": ["go through with", "get along with", "come up with", "put up with"] } ] },
+
+  { "expression": "hold back", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to prevent someone from doing or achieving what they want",
+    "exchanges": [ { "uid": "s02_e05_c07_u031", "answer": "hold you back",
+      "options": ["hold you back", "turn you in", "cut you off", "show you up"] } ] },
+
+  { "expression": "on the edge of one's seat", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "very excited and eager to find out what happens next",
+    "exchanges": [ { "uid": "s02_e05_c03_u016", "answer": "edge of my seat",
+      "options": ["edge of my seat", "tip of my tongue", "top of my lungs", "end of my rope"] } ] },
+
+  { "expression": "confess", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to admit something you feel guilty or embarrassed about",
+    "exchanges": [ { "uid": "s02_e05_c02_u042", "answer": "confess", "responseUid": "s02_e05_c02_u044",
+      "options": ["confess", "convince", "consult", "conclude"] } ] },
+
+  { "expression": "awkward", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "uncomfortable, embarrassing, or clumsy",
+    "exchanges": [ { "uid": "s02_e05_c04_u063", "answer": "awkward",
+      "options": ["awkward", "gorgeous", "elegant", "generous"] } ] },
+
+  { "expression": "bite one's lip", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to press your teeth into your lip to stop yourself from making a sound or saying something",
+    "exchanges": [
+      { "uid": "s02_e05_c04_u047", "answer": "biting her lip", "responseUid": "s02_e05_c04_u049",
+        "options": ["biting her lip", "rolling her eyes", "shaking her head", "crossing her arms"] },
+      { "uid": "s02_e05_c04_u061", "answer": "bite my lip", "cueUid": "s02_e05_c04_u058",
+        "options": ["bite my lip", "roll my eyes", "shake my head", "cross my arms"] } ] },
+
+  { "expression": "conventional", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "following the usual and accepted way of doing things",
+    "exchanges": [ { "uid": "s02_e05_c02_u034", "answer": "conventional",
+      "options": ["conventional", "controversial", "confidential", "consecutive"] } ] },
+
+  { "expression": "steep", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "(of a price) unreasonably high",
+    "exchanges": [ { "uid": "s02_e05_c02_u009", "answer": "steep",
+      "options": ["steep", "sharp", "tight", "blunt"] } ] },
+
+  { "expression": "apiece", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "for or from each person; each",
+    "exchanges": [ { "uid": "s02_e05_c03_u044", "answer": "apiece",
+      "options": ["apiece", "alike", "apart", "aside"] } ] },
+
+  { "expression": "out of line", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "behaving in a way that is not acceptable or goes too far",
+    "exchanges": [ { "uid": "s02_e05_c07_u040", "answer": "out of line", "responseUid": null,
+      "options": ["out of line", "off the hook", "on the fence", "up the wall"] } ] },
+
+  { "expression": "hickey", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a red mark on the skin left by someone sucking or kissing it hard",
+    "exchanges": [ { "uid": "s02_e05_c07_u012", "answer": "hickey",
+      "options": ["hickey", "hiccup", "tickle", "hockey"] } ] },
+
+  { "expression": "kickback", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "money or a gift given secretly in return for a business favor",
+    "exchanges": [ { "uid": "s02_e05_c07_u035", "answer": "kick back",
+      "cueUid": "s02_e05_c07_u029", "responseUid": "s02_e05_c07_u037",
+      "options": ["kick back", "set up", "hand out", "trade off"] } ] },
+
+  { "expression": "hoopla", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a lot of excited talk and fuss about something",
+    "exchanges": [ { "uid": "s02_e05_c03_u065", "answer": "hoopla", "responseUid": "s02_e05_c03_u067",
+      "options": ["hoopla", "hiatus", "hoedown", "hangover"] } ] }
+]
