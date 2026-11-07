@@ -1,0 +1,121 @@
+[
+  { "expression": "come over", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit someone at their home",
+    "exchanges": [ { "uid": "s03_e16_c04_u011", "answer": "came over",
+      "options": ["came over", "went off", "got up", "ran out"] } ] },
+
+  { "expression": "calm down", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop feeling angry, excited, or nervous",
+    "exchanges": [ { "uid": "s03_e16_c04_u015", "answer": "calm down", "responseUid": null,
+      "options": ["calm down", "hold still", "back up", "stand by"] } ] },
+
+  { "expression": "work on", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time and effort trying to improve or fix something",
+    "exchanges": [ { "uid": "s03_e16_c02_u003", "answer": "work on",
+      "options": ["work on", "get by", "run for", "put off"] } ] },
+
+  { "expression": "right on time", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "at exactly the time that was planned, not early or late",
+    "exchanges": [ { "uid": "s03_e16_c06_u028", "answer": "right on time",
+      "options": ["right on time", "just in place", "far off track", "well at hand"] } ] },
+
+  { "expression": "break up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship",
+    "exchanges": [ { "uid": "s03_e16_c04_u007", "answer": "broke up",
+      "options": ["broke up", "grew in", "held off", "took out"] } ] },
+
+  { "expression": "get back together", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start a relationship or partnership again after it has ended",
+    "exchanges": [ { "uid": "s03_e16_c06_u020", "answer": "get back together",
+      "options": ["get back together", "run back inside", "go down together", "come back around"] } ] },
+
+  { "expression": "reach", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to succeed in contacting someone, usually by phone",
+    "exchanges": [ { "uid": "s03_e16_c06_u002", "answer": "reach",
+      "options": ["reach", "follow", "answer", "visit"] } ] },
+
+  { "expression": "convince", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to persuade someone to do something or to believe something",
+    "exchanges": [ { "uid": "s03_e16_c13_u104", "answer": "convinced",
+      "options": ["convinced", "informed", "promised", "invited"] } ] },
+
+  { "expression": "work it out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to solve a problem or settle a disagreement with someone",
+    "exchanges": [ { "uid": "s03_e16_c11_u012", "answer": "work it out",
+      "options": ["work it out", "put it on", "take it in", "give it up"] } ] },
+
+  { "expression": "out of my mind", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not thinking clearly; behaving as if crazy because of strong emotion",
+    "exchanges": [ { "uid": "s03_e16_c13_u150", "answer": "out of my mind",
+      "options": ["out of my mind", "off of my head", "over my own feet", "up to my neck"] } ] },
+
+  { "expression": "judge", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to form a critical opinion about someone based on what they do",
+    "exchanges": [ { "uid": "s03_e16_c07_u011", "answer": "judge",
+      "options": ["judge", "trust", "follow", "charge"] } ] },
+
+  { "expression": "cheat on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+    "exchanges": [ { "uid": "s03_e16_c13_u077", "answer": "cheat on",
+      "options": ["cheat on", "pass on", "hang on", "sit on"] } ] },
+
+  { "expression": "make up with", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to become friendly with someone again after an argument",
+    "exchanges": [ { "uid": "s03_e16_c08_u003", "answer": "make up with",
+      "options": ["make up with", "put up with", "run out on", "get down to"] } ] },
+
+  { "expression": "on board", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "in agreement with a plan or idea and willing to support it",
+    "exchanges": [ { "uid": "s03_e16_c08_u007", "answer": "on board",
+      "options": ["on board", "in shape", "at large", "on edge"] } ] },
+
+  { "expression": "tough spot", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a difficult situation that is hard to get out of",
+    "exchanges": [ { "uid": "s03_e16_c13_u160", "answer": "tough spot",
+      "options": ["tough spot", "high point", "long shot", "close call"] } ] },
+
+  { "expression": "devastated", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "extremely shocked and upset",
+    "exchanges": [ { "uid": "s03_e16_c13_u116", "answer": "devastated", "responseUid": "s03_e16_c13_u120",
+      "options": ["devastated", "delighted", "distracted", "determined"] } ] },
+
+  { "expression": "put through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make someone experience something difficult or unpleasant",
+    "exchanges": [ { "uid": "s03_e16_c06_u004", "answer": "put you through",
+      "options": ["put you through", "got you over", "let you down", "set you back"] } ] },
+
+  { "expression": "threshold", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the level at which something starts to be felt or to have an effect",
+    "exchanges": [ { "uid": "s03_e16_c13_u015", "answer": "threshold",
+      "options": ["threshold", "margin", "ceiling", "balance"] } ] },
+
+  { "expression": "address", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to deal with or give attention to a question or problem",
+    "exchanges": [ { "uid": "s03_e16_c08_u005", "answer": "address",
+      "options": ["address", "achieve", "assign", "attend"] } ] },
+
+  { "expression": "monogamy", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the practice of having only one romantic or sexual partner at a time",
+    "exchanges": [ { "uid": "s03_e16_c10_u015", "answer": "monogamy",
+      "options": ["monogamy", "hierarchy", "diplomacy", "autonomy"] } ] },
+
+  { "expression": "jeopardize", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to put something valuable at risk of being lost or damaged",
+    "exchanges": [ { "uid": "s03_e16_c13_u083", "answer": "jeopardising", "responseUid": "s03_e16_c13_u086",
+      "options": ["jeopardising", "prioritising", "analysing", "organising"] } ] },
+
+  { "expression": "self-involved", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "concerned only with yourself and not noticing what is happening to other people",
+    "exchanges": [ { "uid": "s03_e16_c13_u154", "answer": "self-involved",
+      "options": ["self-involved", "self-assured", "self-employed", "self-taught"] } ] },
+
+  { "expression": "technicality", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a small detail in a rule or law that is used to win an argument or escape blame",
+    "exchanges": [ { "uid": "s03_e16_c13_u088", "answer": "technicality",
+      "options": ["technicality", "formality", "generality", "possibility"] } ] },
+
+  { "expression": "neither here nor there", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "not important or not relevant to what is being discussed",
+    "exchanges": [ { "uid": "s03_e16_c13_u159", "answer": "neither here nor there",
+      "options": ["neither here nor there", "never now or later", "nowhere near enough", "none of the above"] } ] }
+]

@@ -1,0 +1,130 @@
+[
+  { "expression": "get used to", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to become familiar with something so that it no longer seems strange",
+    "exchanges": [ { "uid": "s03_e19_c10_u023", "answer": "get used to",
+      "options": ["get used to", "get rid of", "get back to", "get away from"] } ] },
+
+  { "expression": "feel like", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to want to do something at that moment",
+    "exchanges": [ { "uid": "s03_e19_c14_u014", "answer": "feel like",
+      "cueUid": "s03_e19_c14_u011", "responseUid": "s03_e19_c14_u021",
+      "options": ["feel like", "look like", "sound like", "seem like"] } ] },
+
+  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "used to add a new topic or something you just remembered",
+    "exchanges": [ { "uid": "s03_e19_c15_u010", "answer": "By the way",
+      "options": ["By the way", "In the end", "At the time", "On the whole"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s03_e19_c01_u009", "answer": "ask you out",
+      "cueUid": "s03_e19_c01_u007",
+      "options": ["ask you out", "take you in", "put you up", "let you down"] } ] },
+
+  { "expression": "drive someone crazy", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to annoy someone very much over a long time",
+    "exchanges": [ { "uid": "s03_e19_c02_u015", "answer": "driving me crazy",
+      "cueUid": "s03_e19_c02_u013",
+      "options": ["driving me crazy", "keeping me busy", "making me proud", "leaving me cold"] } ] },
+
+  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop thinking about something that is over and start something new",
+    "exchanges": [ { "uid": "s03_e19_c06_u009", "answer": "move on",
+      "responseUid": "s03_e19_c06_u014",
+      "options": ["move on", "hold on", "come on", "look on"] } ] },
+
+  { "expression": "crazy about", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "very much in love with someone or very enthusiastic about something",
+    "exchanges": [ { "uid": "s03_e19_c07_u014", "answer": "crazy about",
+      "options": ["crazy about", "sorry about", "curious about", "nervous about"] } ] },
+
+  { "expression": "run out of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to use up all of something so that none is left",
+    "exchanges": [ { "uid": "s03_e19_c07_u014", "answer": "running out of",
+      "options": ["running out of", "running away from", "running back to", "running ahead of"] } ] },
+
+  { "expression": "loveable", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "having qualities that make people like you easily",
+    "exchanges": [ { "uid": "s03_e19_c05_u008", "answer": "loveable",
+      "options": ["loveable", "reliable", "sensible", "capable"] } ] },
+
+  { "expression": "keep track", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stay informed about where things are or what is happening",
+    "exchanges": [ { "uid": "s03_e19_c11_u003", "answer": "keep track",
+      "options": ["keep track", "keep time", "keep pace", "keep quiet"] } ] },
+
+  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have a strong, often secret, romantic attraction to someone",
+    "exchanges": [ { "uid": "s03_e19_c13_u008", "answer": "has a crush on",
+      "options": ["has a crush on", "has a word with", "has a look at", "has a deal with"] } ] },
+
+  { "expression": "cheat on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+    "exchanges": [ { "uid": "s03_e19_c04_u008", "answer": "cheating on",
+      "options": ["cheating on", "picking on", "spying on", "leaning on"] } ] },
+
+  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "giving encouragement and help to someone",
+    "exchanges": [ { "uid": "s03_e19_c05_u008", "answer": "supportive",
+      "responseUid": "s03_e19_c05_u010",
+      "options": ["supportive", "sensitive", "defensive", "protective"] } ] },
+
+  { "expression": "awfully", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "very or extremely",
+    "exchanges": [ { "uid": "s03_e19_c12_u018", "answer": "awfully",
+      "options": ["awfully", "barely", "hardly", "rarely"] } ] },
+
+  { "expression": "wind up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to end up in a situation, usually without intending to",
+    "exchanges": [ { "uid": "s03_e19_c09_u002", "answer": "wind up",
+      "options": ["wind up", "hold up", "wrap up", "fill up"] } ] },
+
+  { "expression": "get the part", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be chosen to play a role in a play, film, or show",
+    "exchanges": [ { "uid": "s03_e19_c02_u020", "answer": "gotten the part",
+      "responseUid": "s03_e19_c02_u022",
+      "options": ["gotten the part", "missed the point", "lost the game", "made the cut"] } ] },
+
+  { "expression": "get back at", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to do something bad to someone because they hurt you",
+    "exchanges": [ { "uid": "s03_e19_c11_u014", "answer": "get back at",
+      "cueUid": "s03_e19_c11_u011", "responseUid": null,
+      "options": ["get back at", "get along with", "get hold of", "get away from"] } ] },
+
+  { "expression": "out of your mind", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "crazy or behaving in a completely unreasonable way",
+    "exchanges": [ { "uid": "s03_e19_c13_u011", "answer": "out of your mind",
+      "options": ["out of your mind", "out of your way", "out of your league", "out of your depth"] } ] },
+
+  { "expression": "out of spite", "type": "phrase", "level": "college", "pos": "adverb",
+    "meaning": "done only in order to hurt or annoy someone, not for any real reason",
+    "exchanges": [ { "uid": "s03_e19_c06_u029", "answer": "out of spite",
+      "cueUid": "s03_e19_c06_u021",
+      "options": ["out of spite", "out of breath", "out of town", "out of order"] } ] },
+
+  { "expression": "have it coming", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to deserve the bad thing that happens to you",
+    "exchanges": [ { "uid": "s03_e19_c15_u011", "answer": "had that one coming",
+      "options": ["had that one coming", "took that one back", "got that one wrong", "put that one off"] } ] },
+
+  { "expression": "don't do me any favors", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said sarcastically when someone's offer of help feels unwanted or insulting",
+    "exchanges": [ { "uid": "s03_e19_c06_u018", "answer": "do me any favours",
+      "options": ["do me any favours", "give me any trouble", "tell me any lies", "make me any promises"] } ] },
+
+  { "expression": "psyche", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the human mind or soul, especially its deeper feelings and attitudes",
+    "exchanges": [ { "uid": "s03_e19_c03_u011", "answer": "psyche",
+      "options": ["psyche", "physique", "pathos", "stigma"] } ] },
+
+  { "expression": "the best thing since sliced bread", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "used to describe someone or something as the greatest thing ever, often sarcastically",
+    "exchanges": [ { "uid": "s03_e19_c13_u005", "answer": "sliced bread",
+      "responseUid": "s03_e19_c13_u007",
+      "options": ["sliced bread", "cold beer", "hot cakes", "cheap wine"] } ] },
+
+  { "expression": "incisive", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "showing clear, sharp thinking that gets straight to the point",
+    "exchanges": [ { "uid": "s03_e19_c03_u011", "answer": "incisive",
+      "options": ["incisive", "indecisive", "inclusive", "intrusive"] } ] }
+]
