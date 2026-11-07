@@ -5,7 +5,7 @@
      python3 -m http.server 8765  (from the project root)
      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --disable-gpu \
         --virtual-time-budget=8000 --dump-dom http://127.0.0.1:8765/friends-app/tools/smoke-test.html | grep -o 'SMOKE.*' -->
-<iframe id="f" src="../index.html" style="width:400px;height:900px"></iframe>
+<iframe id="f" src="../index.html" style="width:375px;height:1000px;border:0"></iframe>
 <pre id="out"></pre>
 <script>
 const results = {};
@@ -15,6 +15,7 @@ document.getElementById('f').addEventListener('load', async () => {
   try {
     await sleep(300);
     results.title = d.title;
+    results.viewport = { iframeInnerWidth: w.innerWidth, docScrollWidth: d.documentElement.scrollWidth, bodyScrollWidth: d.body.scrollWidth, phoneMediaQuery: w.matchMedia('(max-width: 480px)').matches };
     results.stats = d.getElementById('totalExpressions').textContent + ' | ' + d.getElementById('totalExchanges').textContent;
     results.typeChips = [...d.querySelectorAll('#typeChips .chip')].map(b => b.textContent);
     results.levelChips = [...d.querySelectorAll('#levelChips .chip')].map(b => b.textContent);
