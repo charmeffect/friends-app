@@ -1,0 +1,126 @@
+[
+  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to have a friendly relationship with someone",
+    "exchanges": [ { "uid": "s02_e18_c02_u007", "answer": "getting along",
+      "options": ["getting along", "backing off", "showing off", "settling down"] } ] },
+
+  { "expression": "get to know", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time with someone so that you learn what they are like",
+    "exchanges": [ { "uid": "s02_e18_c02_u009", "answer": "get to know",
+      "options": ["get to know", "put to bed", "set to rest", "bring to light"] } ] },
+
+  { "expression": "feel like", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to want to do something at that moment",
+    "exchanges": [ { "uid": "s02_e18_c13_u005", "answer": "feel like",
+      "options": ["feel like", "look like", "sound like", "seem like"] } ] },
+
+  { "expression": "you got it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to agree to do what someone has just asked or suggested",
+    "exchanges": [ { "uid": "s02_e18_c15_u009", "answer": "You got it", "responseUid": null,
+      "options": ["You got it", "You took it", "You lost it", "You made it"] } ] },
+
+  { "expression": "all of a sudden", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "suddenly and unexpectedly",
+    "exchanges": [ { "uid": "s02_e18_c03_u006", "answer": "all of the sudden", "responseUid": null,
+      "options": ["all of the sudden", "in the long run", "at the same time", "on the other hand"] } ] },
+
+  { "expression": "drop off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave something at a place while you are on your way somewhere",
+    "exchanges": [ { "uid": "s02_e18_c10_u008", "answer": "dropped it off",
+      "options": ["dropped it off", "called it off", "put it off", "turned it off"] } ] },
+
+  { "expression": "come by", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to make a short visit to a place",
+    "exchanges": [ { "uid": "s02_e18_c05_u017", "answer": "came by",
+      "options": ["came by", "stood by", "got by", "came off"] } ] },
+
+  { "expression": "curious", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "wanting to know or learn about something",
+    "exchanges": [ { "uid": "s02_e18_c09_u003", "answer": "curious", "responseUid": null,
+      "options": ["curious", "furious", "serious", "anxious"] } ] },
+
+  { "expression": "tell me about it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+    "exchanges": [ { "uid": "s02_e18_c09_u014", "answer": "Tell me about it", "responseUid": null,
+      "options": ["Tell me about it", "Talk to me now", "Say it to me", "Ask me about it"] } ] },
+
+  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad or disappointing",
+    "exchanges": [ { "uid": "s02_e18_c13_u011", "answer": "sucks",
+      "options": ["sucks", "rocks", "works", "pays"] } ] },
+
+  { "expression": "have the last word", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to make the final remark in an argument so that nobody can reply",
+    "exchanges": [ { "uid": "s02_e18_c01_u003", "answer": "have the last word",
+      "options": ["have the last word", "hold the top spot", "take the first shot", "make the long walk"] } ] },
+
+  { "expression": "lame", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "weak and unconvincing",
+    "exchanges": [ { "uid": "s02_e18_c02_u016", "answer": "lame",
+      "options": ["lame", "bald", "ripe", "steep"] } ] },
+
+  { "expression": "intense", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "very serious and concentrated, showing strong feeling",
+    "exchanges": [ { "uid": "s02_e18_c05_u012", "answer": "intense",
+      "options": ["intense", "immense", "obese", "remote"] } ] },
+
+  { "expression": "long lost", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "not seen or heard of for a very long time",
+    "exchanges": [ { "uid": "s02_e18_c08_u004", "answer": "long lost",
+      "options": ["long lost", "hard won", "far flung", "high born"] } ] },
+
+  { "expression": "end of story", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to show that there is nothing more to say about a matter",
+    "exchanges": [ { "uid": "s02_e18_c10_u004", "answer": "end of story",
+      "options": ["end of story", "top of mind", "piece of cake", "out of order"] } ] },
+
+  { "expression": "the other way around", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "in the opposite situation, with the positions of the two people or things reversed",
+    "exchanges": [ { "uid": "s02_e18_c11_u055", "answer": "the other way around", "responseUid": null,
+      "options": ["the other way around", "the same way back", "the long way home", "the wrong way out"] } ] },
+
+  { "expression": "kill off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to remove a character from a story by making them die",
+    "exchanges": [ { "uid": "s02_e18_c12_u027", "answer": "kill off", "cueUid": "s02_e18_c12_u025",
+      "options": ["kill off", "show off", "set off", "cut off"] } ] },
+
+  { "expression": "grotesque", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "ugly or distorted in a way that is disturbing",
+    "exchanges": [ { "uid": "s02_e18_c02_u003", "answer": "grotesque",
+      "options": ["grotesque", "glamorous", "gracious", "gradual"] } ] },
+
+  { "expression": "gather", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to conclude something from what you have seen or heard",
+    "exchanges": [ { "uid": "s02_e18_c05_u010", "answer": "gather",
+      "options": ["gather", "wander", "bother", "suffer"] } ] },
+
+  { "expression": "irony", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a situation that is strange or funny because it is the opposite of what you would expect",
+    "exchanges": [ { "uid": "s02_e18_c13_u016", "answer": "irony",
+      "options": ["irony", "allergy", "lottery", "surgery"] } ] },
+
+  { "expression": "incorporate", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to include something as part of what you are saying or making",
+    "exchanges": [ { "uid": "s02_e18_c13_u019", "answer": "incorporate",
+      "options": ["incorporate", "interrogate", "investigate", "illustrate"] } ] },
+
+  { "expression": "brisk", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "cold and fresh, used of weather",
+    "exchanges": [ { "uid": "s02_e18_c15_u006", "answer": "brisk",
+      "options": ["brisk", "bland", "blunt", "brash"] } ] },
+
+  { "expression": "wild oats", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "casual romantic or sexual adventures a young person is expected to have before settling down",
+    "exchanges": [ { "uid": "s02_e18_c11_u011", "answer": "wild oats",
+      "options": ["wild oats", "loose ends", "hot potatoes", "sour grapes"] } ] },
+
+  { "expression": "in the sack", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "in bed, especially having sex",
+    "exchanges": [ { "uid": "s02_e18_c11_u018", "answer": "in the sack",
+      "options": ["in the sack", "on the rocks", "in the loop", "off the hook"] } ] },
+
+  { "expression": "freak of nature", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a person or thing that is extremely strange or abnormal",
+    "exchanges": [ { "uid": "s02_e18_c14_u010", "answer": "freak of nature", "responseUid": null,
+      "options": ["freak of nature", "force of habit", "work of art", "ball of fire"] } ] }
+]

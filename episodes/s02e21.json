@@ -1,0 +1,503 @@
+[
+{
+  "expression": "cheer up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel happier",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c02_u023",
+      "answer": "cheer himself up",
+      "options": [
+        "cheer himself up",
+        "wear himself out",
+        "let himself go",
+        "shut himself in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "forget it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop asking or to drop the idea",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c03_u020",
+      "answer": "forget it",
+      "options": [
+        "forget it",
+        "take it",
+        "watch it",
+        "make it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c08_u013",
+      "answer": "hang on",
+      "options": [
+        "hang on",
+        "come on",
+        "go on",
+        "get on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "beat",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely tired",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c02_u002",
+      "answer": "beat",
+      "responseUid": "s02_e21_c02_u004",
+      "options": [
+        "beat",
+        "blunt",
+        "steep",
+        "vast"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have had enough of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be unable to tolerate something any longer",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c05_u014",
+      "answer": "had enough of",
+      "options": [
+        "had enough of",
+        "got hold of",
+        "made fun of",
+        "took care of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tell on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to report someone's bad behaviour to a person in authority, such as a parent",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c05_u021",
+      "answer": "told on",
+      "cueUid": "s02_e21_c05_u019",
+      "options": [
+        "told on",
+        "gave up",
+        "ran into",
+        "took after"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "time is money",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to urge someone to hurry because wasted time means lost money",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c07_u002",
+      "answer": "time is money",
+      "responseUid": "s02_e21_c07_u004",
+      "options": [
+        "time is money",
+        "less is more",
+        "life is short",
+        "seeing is believing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "any minute now",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very soon, at any moment",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c10_u016",
+      "answer": "any minute now",
+      "options": [
+        "any minute now",
+        "some time ago",
+        "every other day",
+        "all night long"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "before I forget",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you want to mention something quickly before it slips your mind",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c11_u026",
+      "answer": "Before I forget",
+      "options": [
+        "Before I forget",
+        "After I leave",
+        "Since I asked",
+        "While I think"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "beat up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to hurt someone badly by hitting them repeatedly",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c08_u014",
+      "answer": "beaten up",
+      "responseUid": "s02_e21_c08_u016",
+      "options": [
+        "beaten up",
+        "taken in",
+        "shown around",
+        "picked out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chicken out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide not to do something because you are too scared",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c01_u013",
+      "answer": "chickened out",
+      "cueUid": "s02_e21_c01_u011",
+      "options": [
+        "chickened out",
+        "dozed off",
+        "signed up",
+        "ran into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speaking of which",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to introduce something related to what was just mentioned",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c01_u005",
+      "answer": "speaking of which",
+      "responseUid": "s02_e21_c01_u007",
+      "options": [
+        "speaking of which",
+        "thinking of that",
+        "looking at it",
+        "coming to that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the same page",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in agreement about what is happening or what should be done",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c02_u026",
+      "answer": "on the same page",
+      "responseUid": null,
+      "options": [
+        "on the same page",
+        "in the same boat",
+        "at the same time",
+        "down the same road"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kick someone's ass",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to beat someone up or defeat them completely",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c05_u027",
+      "answer": "kick your ass",
+      "options": [
+        "kick your ass",
+        "pull your leg",
+        "break your heart",
+        "twist your arm"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "once in a blue moon",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "very rarely",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c07_u019",
+      "answer": "in a blue moon",
+      "cueUid": "s02_e21_c07_u016",
+      "options": [
+        "in a blue moon",
+        "on a rainy day",
+        "at a late hour",
+        "for a short while"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stand up to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to refuse to be bullied or treated badly by someone",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c08_u012",
+      "answer": "stand up to",
+      "cueUid": "s02_e21_c08_u008",
+      "options": [
+        "stand up to",
+        "look up to",
+        "run out on",
+        "get on with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's left of",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the part of something that remains after the rest has been destroyed or used",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c10_u007",
+      "answer": "what's left of",
+      "options": [
+        "what's left of",
+        "what's up with",
+        "what's new with",
+        "what's in for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "abandon",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave someone, especially a child, and never return",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c07_u021",
+      "answer": "abandoned",
+      "options": [
+        "abandoned",
+        "promoted",
+        "assembled",
+        "interviewed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me get this straight",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before repeating something to make sure you have understood it correctly",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c02_u024",
+      "answer": "get this straight",
+      "options": [
+        "get this straight",
+        "keep this short",
+        "take this back",
+        "set this aside"
+      ]
+    },
+    {
+      "uid": "s02_e21_c11_u033",
+      "answer": "get this straight",
+      "cueUid": "s02_e21_c11_u030",
+      "responseUid": "s02_e21_c11_u035",
+      "options": [
+        "get this straight",
+        "keep this short",
+        "take this back",
+        "put this away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kudos",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "praise and respect for an achievement",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c02_u021",
+      "answer": "Kudos",
+      "options": [
+        "Kudos",
+        "Dibs",
+        "Perks",
+        "Odds"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come to terms with",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to accept a painful situation and stop fighting it",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c09_u010",
+      "answer": "come to terms with",
+      "cueUid": "s02_e21_c09_u008",
+      "options": [
+        "come to terms with",
+        "run out of time",
+        "got a hold of",
+        "kept in touch with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stand one's ground",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to refuse to move or back down when challenged",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c11_u002",
+      "answer": "standing our ground",
+      "options": [
+        "standing our ground",
+        "holding our breath",
+        "losing our minds",
+        "watching our weight"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "heavy",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "serious and emotionally intense, said as a reaction to surprising news",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c10_u020",
+      "answer": "Heavy",
+      "options": [
+        "Heavy",
+        "Sharp",
+        "Loud",
+        "Bright"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in the book",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "listed in the telephone directory, so easy to look up and call",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c10_u039",
+      "answer": "in the book",
+      "options": [
+        "in the book",
+        "on the map",
+        "at the top",
+        "in the lead"
+      ]
+    }
+  ]
+}
+]
