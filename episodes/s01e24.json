@@ -1,0 +1,126 @@
+[
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to assist someone with work or a task",
+    "exchanges": [ { "uid": "s01_e24_c01_u015", "answer": "helping out",
+      "options": ["helping out", "hanging out", "giving out", "showing out"] } ] },
+
+  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to stop worrying or talking about something",
+    "exchanges": [ { "uid": "s01_e24_c11_u003", "answer": "let it go",
+      "options": ["let it go", "get it on", "put it up", "take it off"] } ] },
+
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [ { "uid": "s01_e24_c06_u010", "answer": "work out", "cueUid": "s01_e24_c06_u008", "responseUid": "s01_e24_c06_u012",
+      "options": ["work out", "show up", "run off", "take in"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s01_e24_c03_u007", "answer": "asking me out",
+      "options": ["asking me out", "letting me down", "putting me off", "taking me on"] } ] },
+
+  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s01_e24_c06_u021", "answer": "dumping", "responseUid": null,
+      "options": ["dumping", "firing", "suing", "hiring"] } ] },
+
+  { "expression": "be there for someone", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to give someone support and attention when they need it",
+    "exchanges": [ { "uid": "s01_e24_c02_u072", "answer": "being there for her", "cueUid": "s01_e24_c02_u069",
+      "options": ["being there for her", "going there with her", "staying here by her", "getting there to her"] } ] },
+
+  { "expression": "every other day", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "on alternate days; one day yes, the next day no",
+    "exchanges": [ { "uid": "s01_e24_c01_u022", "answer": "every other day", "responseUid": "s01_e24_c01_u024",
+      "options": ["every other day", "each another day", "any other day", "all other days"] } ] },
+
+  { "expression": "have a point", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have said something that is a fair and valid argument",
+    "exchanges": [ { "uid": "s01_e24_c02_u014", "answer": "got a point",
+      "options": ["got a point", "got a clue", "got a line", "got a turn"] } ] },
+
+  { "expression": "persuade", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to make someone agree to do something by giving them good reasons",
+    "exchanges": [ { "uid": "s01_e24_c02_u027", "answer": "persuade",
+      "options": ["persuade", "pursue", "provide", "preserve"] } ] },
+
+  { "expression": "go for it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to decide to try something and act on it with determination",
+    "exchanges": [ { "uid": "s01_e24_c06_u001", "answer": "go for it",
+      "options": ["go for it", "get at it", "sit on it", "run by it"] } ] },
+
+  { "expression": "for God's sake", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to show annoyance or impatience",
+    "exchanges": [ { "uid": "s01_e24_c04_u021", "answer": "for God's sake", "responseUid": null,
+      "options": ["for God's sake", "in God's name", "to God's face", "at God's will"] } ] },
+
+  { "expression": "nod off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to fall asleep without meaning to, usually while sitting",
+    "exchanges": [ { "uid": "s01_e24_c01_u001", "answer": "nodding off",
+      "options": ["nodding off", "showing off", "taking off", "going off"] } ] },
+
+  { "expression": "look out for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to protect someone and make sure they are all right",
+    "exchanges": [ { "uid": "s01_e24_c02_u057", "answer": "looking out for", "responseUid": "s01_e24_c02_u059",
+      "options": ["looking out for", "looking up to", "looking back at", "looking down on"] } ] },
+
+  { "expression": "get through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to help someone survive a difficult period",
+    "exchanges": [ { "uid": "s01_e24_c02_u087", "answer": "got me through",
+      "options": ["got me through", "got me across", "got me under", "got me along"] } ] },
+
+  { "expression": "desperately", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "extremely or very much, in a way that shows strong need",
+    "exchanges": [ { "uid": "s01_e24_c03_u008", "answer": "desperately",
+      "options": ["desperately", "deliberately", "delicately", "decisively"] } ] },
+
+  { "expression": "gut feeling", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "an instinctive feeling about something, not based on reasoning",
+    "exchanges": [ { "uid": "s01_e24_c06_u004", "answer": "gut feeling", "cueUid": "s01_e24_c06_u002",
+      "options": ["gut feeling", "head count", "heart rate", "brain scan"] } ] },
+
+  { "expression": "hell of a", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to emphasize that something was very intense, hard, or remarkable",
+    "exchanges": [ { "uid": "s01_e24_c09_u003", "answer": "hell of a",
+      "options": ["hell of a", "end of a", "half of a", "top of a"] } ] },
+
+  { "expression": "don't get me wrong", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said before explaining something so the listener does not misunderstand you",
+    "exchanges": [ { "uid": "s01_e24_c10_u001", "answer": "don't get me wrong",
+      "options": ["don't get me wrong", "don't take me down", "don't put me off", "don't let me go"] } ] },
+
+  { "expression": "itinerary", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a detailed plan of a journey, listing places and times",
+    "exchanges": [ { "uid": "s01_e24_c02_u027", "answer": "itinerary",
+      "options": ["itinerary", "inventory", "ideology", "identity"] } ] },
+
+  { "expression": "as it happens", "type": "phrase", "level": "college", "pos": "adverb",
+    "meaning": "used to mention a fact that is relevant by chance",
+    "exchanges": [ { "uid": "s01_e24_c07_u009", "answer": "as it happens",
+      "options": ["as it happens", "as it ends", "as it moves", "as it works"] } ] },
+
+  { "expression": "heightened", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "made stronger or more intense than usual",
+    "exchanges": [ { "uid": "s01_e24_c07_u010", "answer": "heightened",
+      "options": ["heightened", "hardened", "hastened", "harvested"] } ] },
+
+  { "expression": "ridicule", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to make fun of someone in an unkind way",
+    "exchanges": [ { "uid": "s01_e24_c11_u011", "answer": "ridicule", "cueUid": "s01_e24_c11_u008",
+      "options": ["ridicule", "rescue", "regulate", "reward"] } ] },
+
+  { "expression": "hand over fist", "type": "colloquial", "level": "expert", "pos": "adverb",
+    "meaning": "very quickly and in large amounts, said of making money",
+    "exchanges": [ { "uid": "s01_e24_c01_u024", "answer": "hand over fist", "cueUid": "s01_e24_c01_u022", "responseUid": null,
+      "options": ["hand over fist", "head over heels", "foot in mouth", "arm in arm"] } ] },
+
+  { "expression": "per se", "type": "phrase", "level": "expert", "pos": "adverb",
+    "meaning": "by itself; in the strict sense of the word",
+    "exchanges": [ { "uid": "s01_e24_c10_u001", "answer": "per se",
+      "options": ["per se", "per capita", "pro rata", "ad hoc"] } ] },
+
+  { "expression": "have someone pegged", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to have formed a firm opinion about what kind of person someone is",
+    "exchanges": [ { "uid": "s01_e24_c05_u011", "answer": "had you pegged as", "responseUid": null,
+      "options": ["had you pegged as", "had you hooked as", "had you nailed as", "had you pitched as"] } ] }
+]

@@ -1,0 +1,126 @@
+[
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s02_e02_c01_u009", "answer": "hanging out",
+      "options": ["hanging out", "showing off", "hanging up", "working out"] } ] },
+
+  { "expression": "get used to", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to become familiar with something so that it no longer seems strange",
+    "exchanges": [ { "uid": "s02_e02_c01_u012", "answer": "get used to", "responseUid": "s02_e02_c01_u014",
+      "options": ["get used to", "get rid of", "get back to", "get along with"] } ] },
+
+  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "used to add a new topic or something you just remembered",
+    "exchanges": [ { "uid": "s02_e02_c08_u005", "answer": "by the way", "responseUid": "s02_e02_c08_u007",
+      "options": ["by the way", "in the end", "on the whole", "at the time"] } ] },
+
+  { "expression": "have plans", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to have already arranged to do something",
+    "exchanges": [ { "uid": "s02_e02_c05_u003", "answer": "have plans",
+      "options": ["have plans", "make time", "take turns", "keep track"] } ] },
+
+  { "expression": "grow up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to stop behaving childishly",
+    "exchanges": [ { "uid": "s02_e02_c01_u010", "answer": "grow up",
+      "options": ["grow up", "show up", "grow out", "turn up"] } ] },
+
+  { "expression": "grow out of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to become too big for clothes or shoes as you grow",
+    "exchanges": [ { "uid": "s02_e02_c01_u002", "answer": "grow out of",
+      "options": ["grow out of", "grow up on", "run out of", "give in to"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [ { "uid": "s02_e02_c09_u013", "answer": "no big deal",
+      "options": ["no big deal", "no hard feelings", "no such thing", "no free lunch"] } ] },
+
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s02_e02_c08_u007", "answer": "how come", "cueUid": "s02_e02_c08_u005",
+      "options": ["how come", "how so", "how far", "how long"] } ] },
+
+  { "expression": "no wonder", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "it is not surprising that",
+    "exchanges": [ { "uid": "s02_e02_c04_u007", "answer": "no wonder",
+      "options": ["no wonder", "no way", "no matter", "no offense"] } ] },
+
+  { "expression": "sooner or later", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "at some time in the future, even if you do not know exactly when",
+    "exchanges": [ { "uid": "s02_e02_c10_u008", "answer": "sooner or later",
+      "options": ["sooner or later", "more or less", "now and then", "back and forth"] } ] },
+
+  { "expression": "what do you say", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to make a suggestion and ask whether the other person agrees",
+    "exchanges": [ { "uid": "s02_e02_c12_u011", "answer": "what do you say", "responseUid": null,
+      "options": ["what do you say", "what do you know", "how do you do", "where do you go"] } ] },
+
+  { "expression": "crazy about", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "very much in love with someone or very enthusiastic about something",
+    "exchanges": [ { "uid": "s02_e02_c13_u006", "answer": "crazy about",
+      "options": ["crazy about", "sick of", "mad at", "nervous around"] } ] },
+
+  { "expression": "take advantage of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make good use of an opportunity while it is available",
+    "exchanges": [ { "uid": "s02_e02_c02_u008", "answer": "take advantage of",
+      "options": ["take advantage of", "take care of", "make sense of", "get hold of"] } ] },
+
+  { "expression": "cheat on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+    "exchanges": [ { "uid": "s02_e02_c02_u018", "answer": "cheating on", "responseUid": "s02_e02_c02_u020",
+      "options": ["cheating on", "picking on", "checking on", "cheering on"] } ] },
+
+  { "expression": "territory", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "an area that someone claims or controls as their own",
+    "exchanges": [ { "uid": "s02_e02_c03_u011", "answer": "territory", "cueUid": "s02_e02_c03_u009", "responseUid": null,
+      "options": ["territory", "terminal", "ceremony", "treasury"] } ] },
+
+  { "expression": "quality time", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "time spent giving your full attention to someone you care about",
+    "exchanges": [ { "uid": "s02_e02_c08_u004", "answer": "quality time",
+      "options": ["quality time", "spare time", "prime time", "part time"] } ] },
+
+  { "expression": "day job", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "the regular job someone does for money while pursuing a different ambition",
+    "exchanges": [ { "uid": "s02_e02_c10_u006", "answer": "day job",
+      "options": ["day job", "dream job", "desk job", "night shift"] } ] },
+
+  { "expression": "fix someone up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to arrange for someone to meet a possible romantic partner",
+    "exchanges": [ { "uid": "s02_e02_c10_u012", "answer": "fix you up", "responseUid": null,
+      "options": ["fix you up", "set you back", "put you off", "take you in"] } ] },
+
+  { "expression": "intimidated", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "feeling nervous and less confident because someone seems impressive or powerful",
+    "exchanges": [ { "uid": "s02_e02_c13_u004", "answer": "intimidated",
+      "options": ["intimidated", "illuminated", "interrogated", "initiated"] } ] },
+
+  { "expression": "duh", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to show that something is so obvious it did not need saying",
+    "exchanges": [ { "uid": "s02_e02_c07_u004", "answer": "Duh",
+      "options": ["Duh", "Ugh", "Phew", "Yikes"] } ] },
+
+  { "expression": "occur to", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to suddenly come into someone's mind as a thought",
+    "exchanges": [ { "uid": "s02_e02_c08_u026", "answer": "occur to",
+      "options": ["occur to", "amount to", "belong to", "object to"] } ] },
+
+  { "expression": "manipulative", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "skilfully controlling or influencing people for your own advantage, often unfairly",
+    "exchanges": [ { "uid": "s02_e02_c13_u015", "answer": "manipulative", "cueUid": "s02_e02_c13_u012", "responseUid": null,
+      "options": ["manipulative", "meditative", "cooperative", "legislative"] } ] },
+
+  { "expression": "stand your ground", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to refuse to back down or give up your position when challenged",
+    "exchanges": [ { "uid": "s02_e02_c10_u010", "answer": "stand your ground",
+      "options": ["stand your ground", "hold your horses", "keep your word", "mind your business"] } ] },
+
+  { "expression": "hate someone's guts", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to dislike someone intensely",
+    "exchanges": [ { "uid": "s02_e02_c11_u013", "answer": "hate Julie's guts",
+      "options": ["hate Julie's guts", "pull Julie's leg", "hold Julie's hand", "get Julie's goat"] } ] },
+
+  { "expression": "doofus", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a stupid, clumsy person",
+    "exchanges": [ { "uid": "s02_e02_c12_u009", "answer": "doofus",
+      "options": ["doofus", "sucker", "hotshot", "rascal"] } ] }
+]

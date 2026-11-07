@@ -1,0 +1,127 @@
+[
+  { "expression": "hand out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to give something to each person in a group",
+    "exchanges": [ { "uid": "s01_e23_c01_u007", "answer": "handing out",
+      "options": ["handing out", "picking up", "putting off", "taking in"] } ] },
+
+  { "expression": "take care", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said when saying goodbye to wish someone well",
+    "exchanges": [ { "uid": "s01_e23_c05_u010", "answer": "take care",
+      "options": ["take care", "sit tight", "hold still", "look out"] } ] },
+
+  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to stop worrying or talking about something",
+    "exchanges": [ { "uid": "s01_e23_c02_u002", "answer": "Let it go",
+      "options": ["Let it go", "Take it in", "Put it on", "Set it off"] } ] },
+
+  { "expression": "be right back", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to return very soon",
+    "exchanges": [ { "uid": "s01_e23_c02_u016", "answer": "be right back",
+      "options": ["be right back", "be all set", "be far off", "be well off"] } ] },
+
+  { "expression": "give birth", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to have a baby",
+    "exchanges": [ { "uid": "s01_e23_c01_u009", "answer": "giving birth",
+      "options": ["giving birth", "taking notes", "making dinner", "giving thanks"] } ] },
+
+  { "expression": "the hell", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "added after a question word to show annoyance or impatience",
+    "exchanges": [ { "uid": "s01_e23_c01_u020", "answer": "the hell",
+      "options": ["the hell", "the way", "the end", "the case"] } ] },
+
+  { "expression": "shut up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "a rude way of telling someone to stop talking",
+    "exchanges": [ { "uid": "s01_e23_c03_u016", "answer": "shut up",
+      "options": ["shut up", "hurry up", "look up", "stand up"] } ] },
+
+  { "expression": "right this way", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "please follow me in this direction",
+    "exchanges": [ { "uid": "s01_e23_c03_u021", "answer": "Right this way", "responseUid": null,
+      "options": ["Right this way", "Just this once", "All this time", "Over this side"] } ] },
+
+  { "expression": "no fair", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said in protest when something seems unjust",
+    "exchanges": [ { "uid": "s01_e23_c04_u009", "answer": "No fair",
+      "options": ["No fair", "No doubt", "No wonder", "No matter"] } ] },
+
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s01_e23_c20_u004", "answer": "How come",
+      "options": ["How come", "What for", "Why so", "Since when"] } ] },
+
+  { "expression": "long story", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to avoid explaining something complicated right now",
+    "exchanges": [ { "uid": "s01_e23_c19_u004", "answer": "Long story",
+      "options": ["Long story", "Big deal", "Hard luck", "Fair point"] } ] },
+
+  { "expression": "resent", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to feel bitter or angry about something you think is unfair",
+    "exchanges": [ { "uid": "s01_e23_c04_u002", "answer": "resent", "responseUid": "s01_e23_c04_u005",
+      "options": ["resent", "resemble", "rescue", "repeat"] } ] },
+
+  { "expression": "come along", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to arrive or appear in someone's life",
+    "exchanges": [ { "uid": "s01_e23_c08_u004", "answer": "came along", "cueUid": "s01_e23_c08_u002",
+      "options": ["came along", "went by", "broke down", "showed off"] } ] },
+
+  { "expression": "not much of a", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "not a very good or enthusiastic example of something",
+    "exchanges": [ { "uid": "s01_e23_c05_u005", "answer": "not much of a",
+      "options": ["not much of a", "not many of a", "not any of a", "not all of a"] } ] },
+
+  { "expression": "I'll tell you what", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to introduce a suggestion or offer",
+    "exchanges": [ { "uid": "s01_e23_c04_u012", "answer": "I'll tell you what",
+      "options": ["I'll tell you what", "I'll show you how", "I'll ask you why", "I'll see you then"] } ] },
+
+  { "expression": "ironic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "surprising or amusing because it is the opposite of what you would expect",
+    "exchanges": [ { "uid": "s01_e23_c08_u014", "answer": "ironic", "responseUid": null,
+      "options": ["ironic", "iconic", "chronic", "exotic"] } ] },
+
+  { "expression": "to the rescue", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "arriving to save or help someone",
+    "exchanges": [ { "uid": "s01_e23_c18_u002", "answer": "to the rescue",
+      "options": ["to the rescue", "on the loose", "at the ready", "in the know"] } ] },
+
+  { "expression": "cook up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to invent something quickly, such as a plan or a name",
+    "exchanges": [ { "uid": "s01_e23_c20_u005", "answer": "cooked it up",
+      "options": ["cooked it up", "cut it out", "put it off", "let it go"] } ] },
+
+  { "expression": "make arrangements", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to plan and organize something in advance",
+    "exchanges": [ { "uid": "s01_e23_c01_u008", "answer": "made arrangements",
+      "options": ["made arrangements", "took lessons", "gave orders", "paid tribute"] } ] },
+
+  { "expression": "hypothetically", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "as an imagined possibility, not as something real",
+    "exchanges": [ { "uid": "s01_e23_c04_u014", "answer": "hypothetically",
+      "cueUid": "s01_e23_c04_u013", "responseUid": "s01_e23_c04_u017",
+      "options": ["hypothetically", "enthusiastically", "automatically", "dramatically"] } ] },
+
+  { "expression": "pick your moments", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to choose carefully when to say or do something",
+    "exchanges": [ { "uid": "s01_e23_c01_u013", "answer": "pick your moments",
+      "options": ["pick your moments", "watch your step", "mind your manners", "keep your word"] } ] },
+
+  { "expression": "fiasco", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a complete and embarrassing failure",
+    "exchanges": [ { "uid": "s01_e23_c06_u015", "answer": "fiasco",
+      "options": ["fiasco", "fiesta", "fiancé", "fixture"] } ] },
+
+  { "expression": "obstetrician", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a doctor who cares for women during pregnancy and childbirth",
+    "exchanges": [ { "uid": "s01_e23_c02_u022", "answer": "obstetrician",
+      "options": ["obstetrician", "orthodontist", "pediatrician", "electrician"] } ] },
+
+  { "expression": "loaner", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "something lent to you for temporary use until your own is available",
+    "exchanges": [ { "uid": "s01_e23_c15_u003", "answer": "loaner",
+      "options": ["loaner", "loner", "lender", "lodger"] } ] },
+
+  { "expression": "Mazel tov", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "a Yiddish expression used to say congratulations",
+    "exchanges": [ { "uid": "s01_e23_c13_u005", "answer": "Mazel tov", "responseUid": null,
+      "options": ["Mazel tov", "Bon voyage", "Carpe diem", "Hasta luego"] } ] }
+]
