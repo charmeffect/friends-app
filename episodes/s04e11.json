@@ -1,0 +1,124 @@
+[
+  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop having something, often as a sacrifice",
+    "exchanges": [ { "uid": "s04_e11_c10_u002", "answer": "give him up",
+      "options": ["give him up", "pick him up", "hold him back", "turn him in"] } ] },
+
+  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit a place briefly, often without planning it",
+    "exchanges": [ { "uid": "s04_e11_c10_u010", "answer": "stop by",
+      "options": ["stop by", "run off", "show off", "look up"] } ] },
+
+  { "expression": "mess up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to spoil or ruin something",
+    "exchanges": [ { "uid": "s04_e11_c02_u009", "answer": "messed it up",
+      "options": ["messed it up", "picked it up", "turned it down", "put it off"] } ] },
+
+  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said sarcastically to show that something is not important",
+    "exchanges": [ { "uid": "s04_e11_c03_u023", "answer": "big deal",
+      "options": ["big deal", "good call", "fair point", "hard luck"] } ] },
+
+  { "expression": "go for it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to decide to try something and act on it with determination",
+    "exchanges": [ { "uid": "s04_e11_c03_u028", "answer": "go for it", "cueUid": "s04_e11_c03_u025",
+      "options": ["go for it", "get at it", "sit on it", "look at it"] } ] },
+
+  { "expression": "in person", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "by being physically present yourself, rather than on paper or by phone",
+    "exchanges": [ { "uid": "s04_e11_c05_u012", "answer": "in person", "cueUid": null, "responseUid": "s04_e11_c05_u014",
+      "options": ["in person", "on purpose", "at once", "by hand"] } ] },
+
+  { "expression": "regret", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to feel sorry about something you did and wish you had not done it",
+    "exchanges": [ { "uid": "s04_e11_c10_u029", "answer": "regret",
+      "options": ["regret", "resent", "reveal", "review"] } ] },
+
+  { "expression": "hang in there", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "keep going and do not give up during a difficult time",
+    "exchanges": [ { "uid": "s04_e11_c09_u009", "answer": "hang in there", "cueUid": "s04_e11_c09_u007",
+      "options": ["hang in there", "get out there", "look over there", "stay up there"] } ] },
+
+  { "expression": "give birth", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to have a baby",
+    "exchanges": [ { "uid": "s04_e11_c02_u043", "answer": "gave birth", "responseUid": null,
+      "options": ["gave birth", "took notes", "made sense", "paid rent"] } ] },
+
+  { "expression": "get a jump on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to start something earlier than usual so that you gain an advantage",
+    "exchanges": [ { "uid": "s04_e11_c01_u010", "answer": "get a jump on", "cueUid": "s04_e11_c01_u008",
+      "options": ["get a jump on", "take a seat at", "make a run for", "put a lid on"] } ] },
+
+  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "giving encouragement and help to someone",
+    "exchanges": [ { "uid": "s04_e11_c02_u038", "answer": "supportive", "responseUid": "s04_e11_c02_u041",
+      "options": ["supportive", "aggressive", "defensive", "expensive"] } ] },
+
+  { "expression": "think through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to consider something carefully before deciding",
+    "exchanges": [ { "uid": "s04_e11_c02_u041", "answer": "think it through", "cueUid": "s04_e11_c02_u039",
+      "options": ["think it through", "take it back", "put it off", "give it up"] } ] },
+
+  { "expression": "fill someone's shoes", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do a job or role as well as the person who did it before you",
+    "exchanges": [ { "uid": "s04_e11_c03_u019", "answer": "fill his shoes",
+      "options": ["fill his shoes", "hold his hand", "pull his leg", "save his face"] } ] },
+
+  { "expression": "go all out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to put in the greatest possible effort to make something impressive",
+    "exchanges": [ { "uid": "s04_e11_c05_u007", "answer": "go all out",
+      "options": ["go all out", "give it up", "turn it on", "let it out"] } ] },
+
+  { "expression": "morning sickness", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "nausea that pregnant women often feel, especially early in the day",
+    "exchanges": [ { "uid": "s04_e11_c02_u034", "answer": "morning sickness", "cueUid": "s04_e11_c02_u032",
+      "options": ["morning sickness", "evening fever", "sudden dizziness", "common cold"] } ] },
+
+  { "expression": "crushed", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "extremely upset and disappointed",
+    "exchanges": [ { "uid": "s04_e11_c10_u006", "answer": "crushed", "cueUid": "s04_e11_c10_u003", "responseUid": "s04_e11_c10_u010",
+      "options": ["crushed", "flattered", "exhausted", "startled"] } ] },
+
+  { "expression": "surrogate", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a woman who carries and gives birth to a baby for another couple",
+    "exchanges": [
+      { "uid": "s04_e11_c02_u026", "answer": "surrogate", "responseUid": "s04_e11_c02_u028",
+        "options": ["surrogate", "delegate", "advocate", "candidate"] },
+      { "uid": "s04_e11_c11_u002", "answer": "surrogate",
+        "options": ["surrogate", "delegate", "advocate", "candidate"] } ] },
+
+  { "expression": "conceive", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to become pregnant",
+    "exchanges": [ { "uid": "s04_e11_c01_u011", "answer": "conceive",
+      "options": ["conceive", "deceive", "perceive", "receive"] } ] },
+
+  { "expression": "elope", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to run away secretly in order to get married",
+    "exchanges": [ { "uid": "s04_e11_c01_u004", "answer": "eloping", "cueUid": "s04_e11_c01_u002",
+      "options": ["eloping", "evolving", "escaping", "exploding"] } ] },
+
+  { "expression": "so be it", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to accept a situation you cannot change, even if you do not like it",
+    "exchanges": [ { "uid": "s04_e11_c07_u008", "answer": "so be it",
+      "options": ["so be it", "here we go", "there you are", "way to go"] } ] },
+
+  { "expression": "on one's toes", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "alert and ready, because you never know what will happen next",
+    "exchanges": [ { "uid": "s04_e11_c08_u028", "answer": "on their toes", "responseUid": null,
+      "options": ["on their toes", "in their shoes", "by their side", "over their heads"] } ] },
+
+  { "expression": "not know squat", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to know nothing at all about something",
+    "exchanges": [ { "uid": "s04_e11_c09_u006", "answer": "know squat",
+      "options": ["know squat", "talk shop", "make sense", "take stock"] } ] },
+
+  { "expression": "gravy boat", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a small jug used for serving gravy or sauce at the table",
+    "exchanges": [ { "uid": "s04_e11_c01_u014", "answer": "gravy boat", "responseUid": null,
+      "options": ["gravy boat", "gravy train", "ferry boat", "tug boat"] } ] },
+
+  { "expression": "set up camp", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to settle in one place and stay there for a long time",
+    "exchanges": [ { "uid": "s04_e11_c08_u024", "answer": "set up camp",
+      "options": ["set up camp", "pack up shop", "pick up speed", "take up space"] } ] }
+]

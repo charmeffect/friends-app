@@ -1,0 +1,132 @@
+[
+  { "expression": "you got it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to agree to do what someone has just asked or suggested",
+    "exchanges": [ { "uid": "s04_e14_c02_u014", "answer": "You got it",
+      "options": ["You got it", "You made it", "You said it", "You did it"] } ] },
+
+  { "expression": "what's the matter", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "what is wrong; asked when someone seems upset",
+    "exchanges": [ { "uid": "s04_e14_c03_u020", "answer": "what's the matter",
+      "options": ["what's the matter", "what's the point", "what's the time", "what's the catch"] } ] },
+
+  { "expression": "calm down", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop feeling angry, excited, or nervous",
+    "exchanges": [ { "uid": "s04_e14_c06_u003", "answer": "Calm down",
+      "options": ["Calm down", "Hurry up", "Cheer up", "Back off"] } ] },
+
+  { "expression": "pay attention", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to listen to or watch something carefully",
+    "exchanges": [ { "uid": "s04_e14_c11_u006", "answer": "pay attention",
+      "options": ["pay attention", "take turns", "make sense", "stay put"] } ] },
+
+  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s04_e14_c01_u014", "answer": "broke up with",
+      "options": ["broke up with", "made up for", "got on with", "ran off with"] } ] },
+
+  { "expression": "stink", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to have a very bad smell",
+    "exchanges": [
+      { "uid": "s04_e14_c04_u008", "answer": "stink",
+        "options": ["stink", "sweat", "shine", "shake"] },
+      { "uid": "s04_e14_c08_u007", "answer": "stink",
+        "options": ["stink", "sweat", "shine", "shake"] } ] },
+
+  { "expression": "oversleep", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to sleep longer than you meant to",
+    "exchanges": [ { "uid": "s04_e14_c04_u007", "answer": "overslept",
+      "options": ["overslept", "overheard", "overate", "overdid"] } ] },
+
+  { "expression": "short for", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "used to say that a name is a shortened form of a longer name",
+    "exchanges": [ { "uid": "s04_e14_c04_u024", "answer": "short for", "responseUid": null,
+      "options": ["short for", "close to", "good for", "next to"] } ] },
+
+  { "expression": "miserable", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very unhappy or uncomfortable",
+    "exchanges": [ { "uid": "s04_e14_c05_u007", "answer": "miserable",
+      "options": ["miserable", "reasonable", "fashionable", "memorable"] } ] },
+
+  { "expression": "for once", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "on this one occasion, as a change from what usually happens",
+    "exchanges": [ { "uid": "s04_e14_c05_u017", "answer": "for once",
+      "options": ["for once", "at once", "for good", "at last"] } ] },
+
+  { "expression": "thank goodness", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to show relief that something turned out well",
+    "exchanges": [
+      { "uid": "s04_e14_c03_u047", "answer": "Thank goodness",
+        "options": ["Thank goodness", "Bless you", "Good luck", "Never mind"] },
+      { "uid": "s04_e14_c10_u022", "answer": "thank goodness",
+        "options": ["thank goodness", "bless you", "good luck", "never mind"] } ] },
+
+  { "expression": "cheat on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+    "exchanges": [ { "uid": "s04_e14_c01_u013", "answer": "cheat on", "cueUid": "s04_e14_c01_u010",
+      "options": ["cheat on", "look at", "laugh at", "wait for"] } ] },
+
+  { "expression": "be into", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be strongly attracted to or interested in someone or something",
+    "exchanges": [ { "uid": "s04_e14_c02_u028", "answer": "into",
+      "options": ["into", "onto", "above", "beside"] } ] },
+
+  { "expression": "bright and early", "type": "colloquial", "level": "high", "pos": "adverb",
+    "meaning": "very early in the morning",
+    "exchanges": [ { "uid": "s04_e14_c03_u016", "answer": "bright and early", "responseUid": null,
+      "options": ["bright and early", "fast and loose", "safe and sound", "up and about"] } ] },
+
+  { "expression": "run down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to hit someone with a vehicle and knock them to the ground",
+    "exchanges": [ { "uid": "s04_e14_c03_u051", "answer": "run down",
+      "options": ["run down", "put off", "held up", "shown around"] } ] },
+
+  { "expression": "overhear", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to hear what other people are saying without them meaning you to",
+    "exchanges": [ { "uid": "s04_e14_c04_u019", "answer": "overheard",
+      "options": ["overheard", "overlooked", "overtook", "overcame"] } ] },
+
+  { "expression": "get nowhere", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make no progress despite trying",
+    "exchanges": [ { "uid": "s04_e14_c05_u015", "answer": "getting nowhere",
+      "options": ["getting nowhere", "going anywhere", "coming somewhere", "heading elsewhere"] } ] },
+
+  { "expression": "kick someone's butt", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to beat someone up or punish them physically",
+    "exchanges": [ { "uid": "s04_e14_c08_u006", "answer": "kick your butt",
+      "options": ["kick your butt", "pull your leg", "hold your hand", "twist your arm"] } ] },
+
+  { "expression": "lost cause", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "something that has no chance of succeeding, so it is not worth trying anymore",
+    "exchanges": [ { "uid": "s04_e14_c09_u019", "answer": "lost cause",
+      "options": ["lost cause", "close call", "sure thing", "done deal"] } ] },
+
+  { "expression": "petite", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "small and slim in an attractive way, used of a woman",
+    "exchanges": [ { "uid": "s04_e14_c09_u024", "answer": "petite", "cueUid": "s04_e14_c09_u022",
+      "options": ["petite", "polite", "plain", "pale"] } ] },
+
+  { "expression": "graze", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to touch or scrape something lightly while passing it",
+    "exchanges": [ { "uid": "s04_e14_c09_u027", "answer": "grazed",
+      "options": ["grazed", "grabbed", "gripped", "greeted"] } ] },
+
+  { "expression": "screw over", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to treat someone very unfairly or cheat them, especially for your own benefit",
+    "exchanges": [ { "uid": "s04_e14_c10_u006", "answer": "screw me over",
+      "options": ["screw me over", "put me up", "show me around", "get me through"] } ] },
+
+  { "expression": "clock", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to hit someone hard, especially in the face",
+    "exchanges": [ { "uid": "s04_e14_c04_u021", "answer": "clocked",
+      "options": ["clocked", "thanked", "sued", "joined"] } ] },
+
+  { "expression": "worth one's salt", "type": "colloquial", "level": "expert", "pos": "adjective",
+    "meaning": "good at your job and deserving the respect or pay you receive",
+    "exchanges": [ { "uid": "s04_e14_c08_u016", "answer": "worth his salt",
+      "options": ["worth his salt", "under his breath", "over his head", "behind his back"] } ] },
+
+  { "expression": "spunky", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "lively, brave, and full of energy",
+    "exchanges": [ { "uid": "s04_e14_c09_u022", "answer": "spunky", "responseUid": "s04_e14_c09_u024",
+      "options": ["spunky", "chunky", "clumsy", "stingy"] } ] }
+]

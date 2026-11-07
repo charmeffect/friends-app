@@ -1,0 +1,126 @@
+[
+  { "expression": "get started", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to begin doing something",
+    "exchanges": [ { "uid": "s04_e13_c05_u016", "answer": "get started",
+      "options": ["get started", "set aside", "put away", "look ahead"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s04_e13_c12_u020", "answer": "hang out", "cueUid": "s04_e13_c12_u018",
+      "options": ["hang out", "hold on", "sit up", "come by"] } ] },
+
+  { "expression": "pretty much", "type": "colloquial", "level": "elementary", "pos": "adverb",
+    "meaning": "almost completely; more or less",
+    "exchanges": [ { "uid": "s04_e13_c12_u016", "answer": "Pretty much",
+      "options": ["Pretty much", "Very often", "Quite soon", "Fairly late"] } ] },
+
+  { "expression": "worst nightmare", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "the most unpleasant thing you can imagine happening",
+    "exchanges": [ { "uid": "s04_e13_c03_u007", "answer": "worst nightmare",
+      "options": ["worst nightmare", "last request", "first draft", "long weekend"] } ] },
+
+  { "expression": "adorable", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very cute and easy to love",
+    "exchanges": [ { "uid": "s04_e13_c07_u002", "answer": "adorable",
+      "options": ["adorable", "affordable", "available", "adjustable"] } ] },
+
+  { "expression": "grow up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to stop behaving childishly",
+    "exchanges": [ { "uid": "s04_e13_c06_u024", "answer": "grow up",
+      "options": ["grow up", "move out", "sit down", "look back"] } ] },
+
+  { "expression": "anytime soon", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "in the near future",
+    "exchanges": [ { "uid": "s04_e13_c06_u025", "answer": "anytime soon", "responseUid": null,
+      "options": ["anytime soon", "all along", "once again", "every week"] } ] },
+
+  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop thinking about something that is over and start something new",
+    "exchanges": [ { "uid": "s04_e13_c11_u005", "answer": "move on", "responseUid": "s04_e13_c11_u007",
+      "options": ["move on", "hang on", "log in", "show up"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s04_e13_c12_u032", "answer": "ended up",
+      "options": ["ended up", "turned in", "showed up", "set off"] } ] },
+
+  { "expression": "have people over", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to invite guests to your home",
+    "exchanges": [ { "uid": "s04_e13_c04_u015", "answer": "having people over", "cueUid": "s04_e13_c04_u013",
+      "options": ["having people over", "putting people off", "setting people up", "letting people down"] } ] },
+
+  { "expression": "step down", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "a move to a less important or lower-ranking position",
+    "exchanges": [ { "uid": "s04_e13_c02_u009", "answer": "step down",
+      "options": ["step down", "long shot", "head start", "close call"] } ] },
+
+  { "expression": "eliminate", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to remove or get rid of something completely",
+    "exchanges": [ { "uid": "s04_e13_c02_u007", "answer": "eliminated",
+      "options": ["eliminated", "evaluated", "elevated", "estimated"] } ] },
+
+  { "expression": "fairly certain", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "quite sure, though not completely",
+    "exchanges": [ { "uid": "s04_e13_c04_u012", "answer": "fairly certain",
+      "options": ["fairly certain", "deeply sorry", "barely awake", "truly grateful"] } ] },
+
+  { "expression": "jump to conclusions", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to decide something is true before you have enough facts",
+    "exchanges": [ { "uid": "s04_e13_c06_u003", "answer": "jump to any conclusions",
+      "options": ["jump to any conclusions", "run into any trouble", "stick to any opinions", "fall for any excuses"] } ] },
+
+  { "expression": "chemistry", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a strong mutual attraction or natural connection between two people",
+    "exchanges": [ { "uid": "s04_e13_c06_u017", "answer": "chemistry",
+      "options": ["chemistry", "ceremony", "currency", "symmetry"] } ] },
+
+  { "expression": "make the first move", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be the first to show romantic interest in someone",
+    "exchanges": [ { "uid": "s04_e13_c08_u015", "answer": "make the first move", "cueUid": "s04_e13_c08_u013",
+      "options": ["make the first move", "take the last step", "break the bad news", "hold the front line"] } ] },
+
+  { "expression": "back someone up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to support someone by agreeing with what they say",
+    "exchanges": [ { "uid": "s04_e13_c09_u011", "answer": "Back me up",
+      "options": ["Back me up", "Fill me in", "Let me down", "Cut me off"] } ] },
+
+  { "expression": "snooty", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "behaving as if you are better than other people",
+    "exchanges": [ { "uid": "s04_e13_c02_u010", "answer": "snooty", "responseUid": "s04_e13_c02_u012",
+      "options": ["snooty", "sleepy", "sloppy", "sneaky"] } ] },
+
+  { "expression": "undermine", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to secretly weaken someone's position or confidence",
+    "exchanges": [ { "uid": "s04_e13_c03_u009", "answer": "undermine",
+      "options": ["undermine", "underline", "undertake", "overhear"] } ] },
+
+  { "expression": "go about", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to begin dealing with or doing something",
+    "exchanges": [ { "uid": "s04_e13_c08_u020", "answer": "go about",
+      "options": ["go about", "put off", "make up", "turn down"] } ] },
+
+  { "expression": "eat and run", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to leave right after eating instead of staying to talk",
+    "exchanges": [ { "uid": "s04_e13_c07_u025", "answer": "eat and run",
+      "options": ["eat and run", "wait and see", "come and go", "hit and miss"] } ] },
+
+  { "expression": "justify", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to show that an action is reasonable or acceptable",
+    "exchanges": [ { "uid": "s04_e13_c12_u033", "answer": "justify",
+      "options": ["justify", "clarify", "modify", "notify"] } ] },
+
+  { "expression": "gravy train", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a situation where someone gets money or benefits easily without effort",
+    "exchanges": [ { "uid": "s04_e13_c02_u014", "answer": "gravy train", "responseUid": "s04_e13_c02_u016",
+      "options": ["gravy train", "silver spoon", "paper trail", "rain check"] } ] },
+
+  { "expression": "pan out", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to develop or turn out successfully",
+    "exchanges": [ { "uid": "s04_e13_c09_u014", "answer": "pan out",
+      "options": ["pan out", "wear off", "show up", "back down"] } ] },
+
+  { "expression": "billfold", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a wallet for carrying paper money",
+    "exchanges": [ { "uid": "s04_e13_c13_u002", "answer": "billfold", "responseUid": "s04_e13_c13_u004",
+      "options": ["billfold", "briefcase", "bookmark", "blindfold"] } ] }
+]

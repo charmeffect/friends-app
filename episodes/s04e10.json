@@ -1,0 +1,136 @@
+[
+  { "expression": "get going", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to leave or start moving, usually because it is time to go",
+    "exchanges": [ { "uid": "s04_e10_c05_u002", "answer": "get going",
+      "options": ["get going", "come along", "stay put", "hold back"] } ] },
+
+  { "expression": "turn into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to develop or change into something different",
+    "exchanges": [ { "uid": "s04_e10_c07_u004", "answer": "turn into",
+      "options": ["turn into", "look after", "give away", "run over"] } ] },
+
+  { "expression": "have a deal", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to have made an agreement that both people are expected to keep",
+    "exchanges": [ { "uid": "s04_e10_c09_u004", "answer": "had a deal",
+      "options": ["had a deal", "made a bet", "got a plan", "kept a date"] } ] },
+
+  { "expression": "give someone another chance", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to let someone try again after they have disappointed you",
+    "exchanges": [ { "uid": "s04_e10_c05_u008", "answer": "give her another chance", "responseUid": null,
+      "options": ["give her another chance", "take her another time", "make her another offer", "show her another side"] } ] },
+
+  { "expression": "set up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to arrange a date for someone with a person they have not met",
+    "exchanges": [
+      { "uid": "s04_e10_c02_u009", "answer": "set you up",
+        "options": ["set you up", "pick you up", "put you off", "let you down"] },
+      { "uid": "s04_e10_c03_u004", "answer": "set up",
+        "options": ["set up", "put off", "let down", "held up"] } ] },
+
+  { "expression": "pick on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to keep treating someone unfairly or making fun of them",
+    "exchanges": [ { "uid": "s04_e10_c02_u022", "answer": "picked on", "responseUid": "s04_e10_c02_u024",
+      "options": ["picked on", "looked after", "turned down", "called off"] } ] },
+
+  { "expression": "exhausted", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "extremely tired",
+    "exchanges": [ { "uid": "s04_e10_c10_u013", "answer": "exhausted",
+      "options": ["exhausted", "embarrassed", "impressed", "offended"] } ] },
+
+  { "expression": "generous", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "willing to give more money or help than is expected",
+    "exchanges": [ { "uid": "s04_e10_c08_u006", "answer": "generous",
+      "options": ["generous", "nervous", "jealous", "curious"] } ] },
+
+  { "expression": "make a bet", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to say that something will happen and agree to pay if you are wrong",
+    "exchanges": [ { "uid": "s04_e10_c14_u004", "answer": "made a bet",
+      "cueUid": "s04_e10_c14_u002", "responseUid": "s04_e10_c14_u006",
+      "options": ["made a bet", "took a vote", "had a word", "did a deal"] } ] },
+
+  { "expression": "get the wrong idea", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to misunderstand a situation and believe something that is not true",
+    "exchanges": [ { "uid": "s04_e10_c07_u010", "answer": "get the wrong idea", "responseUid": null,
+      "options": ["get the wrong idea", "take the wrong turn", "make the wrong call", "pick the wrong time"] } ] },
+
+  { "expression": "fling", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a short, casual romantic relationship that is not meant to be serious",
+    "exchanges": [
+      { "uid": "s04_e10_c03_u006", "answer": "fling",
+        "options": ["fling", "feud", "prank", "grudge"] },
+      { "uid": "s04_e10_c07_u008", "answer": "fling", "cueUid": "s04_e10_c07_u006",
+        "options": ["fling", "blast", "chore", "hunch"] } ] },
+
+  { "expression": "go out of one's way", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make a special effort to do something, beyond what is normally expected",
+    "exchanges": [ { "uid": "s04_e10_c02_u011", "answer": "out of my way",
+      "options": ["out of my way", "out of my depth", "out of my mind", "out of my league"] } ] },
+
+  { "expression": "at someone's mercy", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "completely in someone's power, unable to escape what they decide to do",
+    "exchanges": [ { "uid": "s04_e10_c01_u013", "answer": "at my mercy",
+      "options": ["at my mercy", "on my nerves", "in my debt", "by my side"] } ] },
+
+  { "expression": "talk over", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to discuss something thoroughly before making a decision",
+    "exchanges": [ { "uid": "s04_e10_c03_u011", "answer": "talk this over",
+      "options": ["talk this over", "put this off", "think this up", "call this off"] } ] },
+
+  { "expression": "throw oneself at", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to try very eagerly and obviously to get someone's attention or favour",
+    "exchanges": [ { "uid": "s04_e10_c04_u018", "answer": "throwing themselves at", "cueUid": "s04_e10_c04_u016",
+      "options": ["throwing themselves at", "making themselves up", "pulling themselves together", "helping themselves to"] } ] },
+
+  { "expression": "have had it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to have lost all patience with someone or something",
+    "exchanges": [ { "uid": "s04_e10_c08_u013", "answer": "had it",
+      "options": ["had it", "done it", "seen it", "got it"] } ] },
+
+  { "expression": "scare away", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to frighten someone so much that they leave or stop being interested",
+    "exchanges": [ { "uid": "s04_e10_c11_u006", "answer": "scared him away",
+      "options": ["scared him away", "talked him down", "showed him up", "let him off"] } ] },
+
+  { "expression": "end things with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to finish a romantic relationship with someone",
+    "exchanges": [ { "uid": "s04_e10_c11_u002", "answer": "ended things with",
+      "options": ["ended things with", "patched things up", "talked things over", "kept things from"] } ] },
+
+  { "expression": "make headway", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to make progress toward a goal, especially when it is difficult",
+    "exchanges": [ { "uid": "s04_e10_c02_u019", "answer": "making headway", "cueUid": "s04_e10_c02_u017",
+      "options": ["making headway", "taking stock", "breaking even", "keeping score"] } ] },
+
+  { "expression": "confrontation", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a situation in which you face and argue with someone directly",
+    "exchanges": [ { "uid": "s04_e10_c02_u026", "answer": "confrontation",
+      "options": ["confrontation", "concentration", "conversation", "consideration"] } ] },
+
+  { "expression": "torn", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "unable to decide between two choices because you want both",
+    "exchanges": [ { "uid": "s04_e10_c10_u012", "answer": "torn",
+      "options": ["torn", "sore", "worn", "bent"] } ] },
+
+  { "expression": "catch", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a person who is very desirable as a romantic partner",
+    "exchanges": [ { "uid": "s04_e10_c11_u011", "answer": "catch",
+      "options": ["catch", "shot", "sport", "pick"] } ] },
+
+  { "expression": "it never hurts", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to mean that doing something is always worth it, even if it may not help",
+    "exchanges": [ { "uid": "s04_e10_c08_u006", "answer": "never hurts",
+      "options": ["never hurts", "hardly works", "rarely helps", "always fails"] } ] },
+
+  { "expression": "you bet your ass", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "a forceful, rude way of saying that something is absolutely certain",
+    "exchanges": [
+      { "uid": "s04_e10_c04_u041", "answer": "You bet your ass", "responseUid": null,
+        "options": ["You bet your ass", "You hold your breath", "You keep your word", "You mind your business"] },
+      { "uid": "s04_e10_c13_u018", "answer": "You bet your ass",
+        "options": ["You bet your ass", "You hold your tongue", "You watch your step", "You keep your cool"] } ] },
+
+  { "expression": "play the field", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to date several people casually instead of committing to one",
+    "exchanges": [ { "uid": "s04_e10_c04_u022", "answer": "play the field", "responseUid": "s04_e10_c04_u024",
+      "options": ["play the field", "run the show", "hit the road", "call the shots"] } ] }
+]

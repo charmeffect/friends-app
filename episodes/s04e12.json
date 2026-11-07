@@ -1,0 +1,520 @@
+[
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c06_u035",
+      "answer": "hold on",
+      "responseUid": "s04_e12_c06_u037",
+      "options": [
+        "hold on",
+        "keep on",
+        "hold off",
+        "carry on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone a hand",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to help someone with a task",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u041",
+      "answer": "give me a hand",
+      "responseUid": "s04_e12_c08_u043",
+      "options": [
+        "give me a hand",
+        "show me a sign",
+        "cut me a deal",
+        "buy me a drink"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "your fault",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "used to say that someone is responsible for something bad that happened",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u029",
+      "answer": "your fault",
+      "cueUid": "s04_e12_c08_u027",
+      "responseUid": "s04_e12_c08_u031",
+      "options": [
+        "your fault",
+        "your turn",
+        "your luck",
+        "your plan"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get rid of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove or sell something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c02_u005",
+      "answer": "get rid of",
+      "options": [
+        "get rid of",
+        "get hold of",
+        "get out of",
+        "get ahead of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop threatening or bothering someone and move away",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c01_u004",
+      "answer": "BACK OFF",
+      "options": [
+        "BACK OFF",
+        "COME ON",
+        "HOLD ON",
+        "SIT DOWN"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pressure",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "stress caused by having to do something difficult or important",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c03_u016",
+      "answer": "pressure",
+      "options": [
+        "pressure",
+        "treasure",
+        "measure",
+        "pleasure"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "impressed",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "feeling admiration for something because it is very good",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c02_u025",
+      "answer": "impressed",
+      "responseUid": "s04_e12_c02_u027",
+      "options": [
+        "impressed",
+        "depressed",
+        "oppressed",
+        "compressed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mix up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to confuse two things or put them together by mistake",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u056",
+      "answer": "mix those up",
+      "options": [
+        "mix those up",
+        "put those on",
+        "take those off",
+        "hand those in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blame",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to say that someone or something is responsible for a bad result",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u068",
+      "answer": "blame",
+      "options": [
+        "blame",
+        "trust",
+        "waste",
+        "share"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ruin",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spoil or destroy something completely",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u069",
+      "answer": "ruining",
+      "options": [
+        "ruining",
+        "painting",
+        "hosting",
+        "chasing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "morning person",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "someone who is cheerful and energetic early in the day",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c01_u003",
+      "answer": "morning person",
+      "options": [
+        "morning person",
+        "people person",
+        "party animal",
+        "team player"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "second opinion",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "advice from another expert to check whether the first expert was right",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c01_u010",
+      "answer": "second opinion",
+      "responseUid": null,
+      "options": [
+        "second opinion",
+        "second chance",
+        "second thought",
+        "second hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the odds",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the probability that something will happen",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c03_u011",
+      "answer": "odds",
+      "options": [
+        "odds",
+        "ends",
+        "dues",
+        "deeds"
+      ]
+    },
+    {
+      "uid": "s04_e12_c08_u015",
+      "answer": "odds",
+      "options": [
+        "odds",
+        "ends",
+        "dues",
+        "deeds"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in favor of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to the advantage of a particular side or person",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c06_u002",
+      "answer": "in favor of",
+      "options": [
+        "in favor of",
+        "in spite of",
+        "in front of",
+        "in charge of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spice up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make something more exciting or interesting",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c06_u026",
+      "answer": "spice it up",
+      "options": [
+        "spice it up",
+        "cool it down",
+        "pass it on",
+        "shut it off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have something against",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have a reason to dislike or object to someone or something",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c06_u032",
+      "answer": "have against",
+      "options": [
+        "have against",
+        "hold over",
+        "take from",
+        "put under"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come down with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start to suffer from an illness",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u006",
+      "answer": "coming down with",
+      "responseUid": "s04_e12_c08_u008",
+      "options": [
+        "coming down with",
+        "getting on with",
+        "running out of",
+        "putting up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "life-altering",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "changing someone's life in a major and lasting way",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c04_u004",
+      "answer": "life-altering",
+      "options": [
+        "life-altering",
+        "heart-breaking",
+        "mind-numbing",
+        "far-fetched"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pet peeve",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a small thing that a particular person finds especially annoying",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c04_u015",
+      "answer": "pet peeve",
+      "cueUid": "s04_e12_c04_u013",
+      "options": [
+        "pet peeve",
+        "lucky charm",
+        "close call",
+        "long shot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "riled up",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "angry, excited, or agitated",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c06_u033",
+      "answer": "riled up",
+      "options": [
+        "riled up",
+        "worn out",
+        "tied up",
+        "let down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "raise the stakes",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to increase the amount of money or the risk involved in a bet or situation",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u064",
+      "answer": "raise the stakes",
+      "options": [
+        "raise the stakes",
+        "call the shots",
+        "cut the corners",
+        "take the fall"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fork over",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to hand over money, usually unwillingly",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c02_u055",
+      "answer": "Fork it over",
+      "options": [
+        "Fork it over",
+        "Spit it out",
+        "Put it off",
+        "Call it off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "scare the bejeezus out of",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to frighten someone very badly",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c04_u019",
+      "answer": "scares the bejeezus",
+      "options": [
+        "scares the bejeezus",
+        "breaks the ice",
+        "steals the show",
+        "pulls the plug"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "knocked up",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "pregnant",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u037",
+      "answer": "knocked up",
+      "cueUid": "s04_e12_c08_u018",
+      "options": [
+        "knocked up",
+        "tied down",
+        "fed up",
+        "locked up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "flail",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to wave or swing around wildly and without control",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c04_u023",
+      "answer": "flail",
+      "options": [
+        "flail",
+        "swell",
+        "fold",
+        "melt"
+      ]
+    }
+  ]
+}
+]
