@@ -1,0 +1,126 @@
+[
+  { "expression": "show up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to arrive at a place where people are expecting you",
+    "exchanges": [ { "uid": "s03_e04_c02_u008", "answer": "show up",
+      "options": ["show up", "sign off", "sit down", "move on"] } ] },
+
+  { "expression": "be good at", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to be able to do something well",
+    "exchanges": [ { "uid": "s03_e04_c04_u015", "answer": "good at",
+      "options": ["good at", "well in", "fine for", "nice to"] } ] },
+
+  { "expression": "my fault", "type": "phrase", "level": "elementary", "pos": "noun",
+    "meaning": "said to admit that you are the one responsible for a mistake",
+    "exchanges": [ { "uid": "s03_e04_c02_u018", "answer": "my fault",
+      "options": ["my fault", "my turn", "my treat", "my call"] } ] },
+
+  { "expression": "go off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start ringing or sounding, as an alarm does",
+    "exchanges": [ { "uid": "s03_e04_c03_u025", "answer": "going off",
+      "options": ["going off", "taking off", "running out", "setting in"] } ] },
+
+  { "expression": "in advance", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "before something happens",
+    "exchanges": [ { "uid": "s03_e04_c05_u017", "answer": "in advance", "responseUid": null,
+      "options": ["in advance", "on time", "at once", "by hand"] } ] },
+
+  { "expression": "grumpy", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "in a bad mood and easily annoyed",
+    "exchanges": [ { "uid": "s03_e04_c10_u014", "answer": "grumpy",
+      "options": ["grumpy", "greedy", "grubby", "gutsy"] } ] },
+
+  { "expression": "these things happen", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to comfort someone by pointing out that bad luck is a normal part of life",
+    "exchanges": [ { "uid": "s03_e04_c07_u014", "answer": "these things happen",
+      "options": ["these things happen", "those times change", "such things matter", "many things count"] } ] },
+
+  { "expression": "keep in mind", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remember a fact and consider it",
+    "exchanges": [ { "uid": "s03_e04_c01_u014", "answer": "Keep in mind",
+      "options": ["Keep in mind", "Keep in touch", "Keep in line", "Keep in step"] } ] },
+
+  { "expression": "crazy about", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "very much in love with someone or very enthusiastic about something",
+    "exchanges": [ { "uid": "s03_e04_c10_u015", "answer": "crazy about",
+      "options": ["crazy about", "angry with", "tired of", "scared by"] } ] },
+
+  { "expression": "pathetic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "sad and hopeless in a way that makes others feel pity or scorn",
+    "exchanges": [ { "uid": "s03_e04_c03_u012", "answer": "pathetic",
+      "options": ["pathetic", "patriotic", "prophetic", "poetic"] } ] },
+
+  { "expression": "fall for", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be tricked by something or someone",
+    "exchanges": [ { "uid": "s03_e04_c07_u003", "answer": "fall for",
+      "options": ["fall for", "look for", "stand for", "ask for"] } ] },
+
+  { "expression": "intrigued", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "interested and curious because something seems unusual or fascinating",
+    "exchanges": [ { "uid": "s03_e04_c01_u012", "answer": "intrigued",
+      "options": ["intrigued", "insulted", "informed", "involved"] } ] },
+
+  { "expression": "face your fear", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to confront something that frightens you instead of avoiding it",
+    "exchanges": [ { "uid": "s03_e04_c03_u035", "answer": "face your fear",
+      "options": ["face your fear", "hold your breath", "lose your mind", "take your time"] } ] },
+
+  { "expression": "behind someone's back", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "secretly, without the person concerned knowing about it",
+    "exchanges": [ { "uid": "s03_e04_c08_u018", "answer": "behind my back",
+      "options": ["behind my back", "over my head", "off my chest", "on my mind"] } ] },
+
+  { "expression": "have a shot at", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to have a real chance of getting or achieving something",
+    "exchanges": [ { "uid": "s03_e04_c07_u012", "answer": "got a shot at",
+      "options": ["got a shot at", "took a look at", "had a laugh at", "made a face at"] } ] },
+
+  { "expression": "rejection", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "the act of refusing to accept someone, for example for a job or a role",
+    "exchanges": [ { "uid": "s03_e04_c07_u018", "answer": "rejection",
+      "options": ["rejection", "reflection", "reception", "reduction"] } ] },
+
+  { "expression": "aloof", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "cool and distant, not showing friendliness or interest",
+    "exchanges": [ { "uid": "s03_e04_c06_u020", "answer": "aloof",
+      "options": ["aloof", "alert", "alike", "afraid"] } ] },
+
+  { "expression": "damage control", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "action taken to limit the harm after something has gone wrong",
+    "exchanges": [ { "uid": "s03_e04_c06_u017", "answer": "damage control",
+      "options": ["damage control", "crowd control", "quality control", "birth control"] } ] },
+
+  { "expression": "clingy", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "too emotionally dependent, wanting to be close to someone all the time",
+    "exchanges": [ { "uid": "s03_e04_c06_u006", "answer": "clingy",
+      "options": ["clingy", "classy", "cranky", "chubby"] } ] },
+
+  { "expression": "unprecedented", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "never having happened or existed before",
+    "exchanges": [ { "uid": "s03_e04_c10_u009", "answer": "unprecedented",
+      "options": ["unprecedented", "unpredictable", "unproductive", "unprotected"] } ] },
+
+  { "expression": "throw someone off", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to confuse someone so that they do not notice what is really going on",
+    "exchanges": [ { "uid": "s03_e04_c10_u013", "answer": "throw her off",
+      "options": ["throw her off", "put her up", "call her out", "turn her down"] } ] },
+
+  { "expression": "patch through", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to connect a phone caller to another line",
+    "exchanges": [ { "uid": "s03_e04_c04_u005", "answer": "patch you through",
+      "options": ["patch you through", "pass you along", "put you off", "call you back"] } ] },
+
+  { "expression": "busted", "type": "colloquial", "level": "college", "pos": "adjective",
+    "meaning": "caught in the act of doing something wrong",
+    "exchanges": [ { "uid": "s03_e04_c09_u020", "answer": "busted",
+      "options": ["busted", "bummed", "beaten", "bored"] } ] },
+
+  { "expression": "every which way", "type": "colloquial", "level": "expert", "pos": "adverb",
+    "meaning": "in all directions, with no order or control",
+    "exchanges": [ { "uid": "s03_e04_c03_u039", "answer": "every which way", "responseUid": null,
+      "options": ["every which way", "all over town", "any old how", "once and for all"] } ] },
+
+  { "expression": "trip someone out", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to shock or disturb someone with strange, unexpected behavior",
+    "exchanges": [ { "uid": "s03_e04_c05_u012", "answer": "tripping me out",
+      "options": ["tripping me out", "ticking me off", "putting me on", "wearing me down"] } ] }
+]

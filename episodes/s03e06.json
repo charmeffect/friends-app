@@ -1,0 +1,517 @@
+[
+{
+  "expression": "move out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave the place where you live and go to live somewhere else",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c02_u008",
+      "answer": "moved out",
+      "options": [
+        "moved out",
+        "moved in",
+        "moved on",
+        "moved over"
+      ]
+    },
+    {
+      "uid": "s03_e06_c12_u007",
+      "answer": "moved out",
+      "responseUid": "s03_e06_c12_u009",
+      "options": [
+        "moved out",
+        "moved in",
+        "moved up",
+        "moved back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no way",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something is impossible or will definitely not happen",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u006",
+      "answer": "No way",
+      "options": [
+        "No way",
+        "No more",
+        "No matter",
+        "No sooner"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "help yourself",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to let someone take what they want without asking",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c12_u005",
+      "answer": "Help yourself",
+      "options": [
+        "Help yourself",
+        "Hold yourself",
+        "Save yourself",
+        "Mind yourself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on sale",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "being sold at a reduced price",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c14_u005",
+      "answer": "on sale",
+      "options": [
+        "on sale",
+        "in stock",
+        "at cost",
+        "by hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put on weight",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become heavier or fatter",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c02_u004",
+      "answer": "put on weight",
+      "cueUid": "s03_e06_c02_u002",
+      "options": [
+        "put on weight",
+        "take on work",
+        "give up hope",
+        "pick up speed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sneak out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place quietly and secretly so that nobody notices",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c02_u011",
+      "answer": "sneak out",
+      "options": [
+        "sneak out",
+        "sneak in",
+        "sneak up",
+        "sneak by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from time to time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "occasionally, but not regularly",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c03_u003",
+      "answer": "from time to time",
+      "options": [
+        "from time to time",
+        "from day to day",
+        "from side to side",
+        "from end to end"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "neat",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "tidy and keeping things clean and in order",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c04_u005",
+      "answer": "neat",
+      "options": [
+        "neat",
+        "loud",
+        "tall",
+        "rich"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "jerk",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a rude or unpleasant person",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c09_u009",
+      "answer": "jerk",
+      "options": [
+        "jerk",
+        "nerd",
+        "hero",
+        "fool"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make yourself comfortable",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to a guest to tell them to relax and feel at home",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c08_u016",
+      "answer": "make yourself comfortable",
+      "responseUid": "s03_e06_c08_u018",
+      "options": [
+        "make yourself comfortable",
+        "keep yourself busy",
+        "hold yourself together",
+        "let yourself go"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an emphatic way of saying yes or certainly",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c08_u019",
+      "answer": "you bet",
+      "options": [
+        "you bet",
+        "you wish",
+        "you guess",
+        "you hope"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lock up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to lock all the doors of a building when you leave it",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c13_u003",
+      "answer": "lock up",
+      "options": [
+        "lock up",
+        "shut off",
+        "close in",
+        "turn down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "disturb",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to interrupt someone and stop them from doing what they are doing",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c07_u011",
+      "answer": "disturbing",
+      "options": [
+        "disturbing",
+        "ignoring",
+        "praising",
+        "copying"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hit it off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to like each other and become friendly as soon as you meet",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c02_u027",
+      "answer": "hit it off",
+      "cueUid": "s03_e06_c02_u025",
+      "responseUid": null,
+      "options": [
+        "hit it off",
+        "put it on",
+        "took it back",
+        "let it out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dull",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not interesting or exciting; boring",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c02_u019",
+      "answer": "dull",
+      "options": [
+        "dull",
+        "bold",
+        "calm",
+        "keen"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you betcha",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "an enthusiastic way of saying yes or certainly",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u012",
+      "answer": "You betcha",
+      "options": [
+        "You betcha",
+        "You gotcha",
+        "You wanna",
+        "You oughta"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whip someone's butt",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to defeat someone easily in a game or contest",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u017",
+      "answer": "whip your butt",
+      "options": [
+        "whip your butt",
+        "hold your hand",
+        "wash your hair",
+        "bend your knee"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "propose a toast",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ask people to raise their glasses and drink in honour of someone",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u022",
+      "answer": "propose a toast",
+      "options": [
+        "propose a toast",
+        "make a wish",
+        "take a bow",
+        "throw a party"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fling",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a short, casual romantic relationship that is not meant to be serious",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u027",
+      "answer": "fling",
+      "options": [
+        "fling",
+        "feast",
+        "fight",
+        "flight"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "humidity",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the amount of water vapour in the air, which makes it feel damp",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c08_u012",
+      "answer": "humidity",
+      "options": [
+        "humidity",
+        "gravity",
+        "velocity",
+        "density"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "head rush",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a brief dizzy feeling you get when you stand up too quickly",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c08_u011",
+      "answer": "head rush",
+      "options": [
+        "head rush",
+        "eye strain",
+        "back rub",
+        "ear ache"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mix and match",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "combining different things freely in any way you like",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c13_u006",
+      "answer": "mix and match",
+      "options": [
+        "mix and match",
+        "cut and paste",
+        "hide and seek",
+        "rock and roll"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nurturing",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "caring for and encouraging someone so that they can develop and feel supported",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c15_u002",
+      "answer": "nurturing",
+      "options": [
+        "nurturing",
+        "demanding",
+        "ambitious",
+        "sarcastic"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dismantle",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to take a machine or structure apart into its separate pieces",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c14_u006",
+      "answer": "dismantle",
+      "options": [
+        "dismantle",
+        "disguise",
+        "dissolve",
+        "disobey"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the third degree",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "long, intense questioning that makes someone feel like a suspect",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c10_u007",
+      "answer": "the third degree",
+      "cueUid": "s03_e06_c10_u004",
+      "options": [
+        "the third degree",
+        "the second round",
+        "the first prize",
+        "the fourth floor"
+      ]
+    }
+  ]
+}
+]

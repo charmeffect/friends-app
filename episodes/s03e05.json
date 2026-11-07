@@ -1,0 +1,126 @@
+[
+  { "expression": "get mad", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to become angry",
+    "exchanges": [ { "uid": "s03_e05_c03_u006", "answer": "get mad",
+      "options": ["get mad", "get lost", "get hurt", "get sick"] } ] },
+
+  { "expression": "to go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "ordered to be taken away rather than eaten or drunk in the cafe",
+    "exchanges": [ { "uid": "s03_e05_c14_u005", "answer": "to go", "cueUid": "s03_e05_c14_u002",
+      "options": ["to go", "to eat", "to buy", "to get"] } ] },
+
+  { "expression": "have no idea", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to not know something at all",
+    "exchanges": [ { "uid": "s03_e05_c10_u008", "answer": "had no idea",
+      "options": ["had no idea", "had no plan", "had no time", "had no choice"] } ] },
+
+  { "expression": "good job", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to praise someone for doing something well",
+    "exchanges": [ { "uid": "s03_e05_c13_u015", "answer": "good job",
+      "options": ["good job", "good luck", "good news", "good grief"] } ] },
+
+  { "expression": "any sign of", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "any indication that someone has arrived or something has appeared",
+    "exchanges": [ { "uid": "s03_e05_c02_u004", "answer": "Any sign of",
+      "options": ["Any sign of", "Any hope for", "Any point in", "Any use of"] } ] },
+
+  { "expression": "just in case", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "as a precaution, in case something is needed later",
+    "exchanges": [ { "uid": "s03_e05_c08_u012", "answer": "just in case", "cueUid": "s03_e05_c08_u008",
+      "options": ["just in case", "just in time", "just for now", "just like that"] } ] },
+
+  { "expression": "buck", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a dollar",
+    "exchanges": [ { "uid": "s03_e05_c15_u005", "answer": "bucks",
+      "options": ["bucks", "cents", "coins", "chips"] } ] },
+
+  { "expression": "be on me", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when you will pay for something for other people",
+    "exchanges": [ { "uid": "s03_e05_c15_u011", "answer": "on me", "responseUid": null,
+      "options": ["on me", "for me", "to me", "by me"] } ] },
+
+  { "expression": "get something done", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to manage to finish or accomplish work",
+    "exchanges": [ { "uid": "s03_e05_c03_u040", "answer": "get anything done",
+      "options": ["get anything done", "get anything back", "get anything out", "get anything off"] } ] },
+
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s03_e05_c09_u003", "answer": "makes it up",
+      "options": ["makes it up", "takes it in", "puts it off", "gives it out"] } ] },
+
+  { "expression": "admit", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to agree, often reluctantly, that something is true",
+    "exchanges": [ { "uid": "s03_e05_c14_u014", "answer": "admit",
+      "options": ["admit", "deny", "forget", "ignore"] } ] },
+
+  { "expression": "tick off", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone annoyed or angry",
+    "exchanges": [ { "uid": "s03_e05_c01_u004", "answer": "tick you off", "cueUid": null,
+      "options": ["tick you off", "turn you on", "put you out", "let you down"] } ] },
+
+  { "expression": "snug", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "fitting very tightly against the body",
+    "exchanges": [ { "uid": "s03_e05_c01_u010", "answer": "snug",
+      "options": ["snug", "shiny", "soggy", "sturdy"] } ] },
+
+  { "expression": "desperate", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "feeling that a situation is so bad you will try anything to change it",
+    "exchanges": [ { "uid": "s03_e05_c02_u009", "answer": "desperate",
+      "options": ["desperate", "delicate", "deliberate", "decent"] } ] },
+
+  { "expression": "mind reader", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a person who can know what others are thinking without being told",
+    "exchanges": [ { "uid": "s03_e05_c04_u006", "answer": "mind reader",
+      "options": ["mind reader", "lip reader", "palm reader", "speed reader"] } ] },
+
+  { "expression": "narrow down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to reduce the number of possibilities to a few",
+    "exchanges": [ { "uid": "s03_e05_c07_u007", "answer": "narrowed down",
+      "options": ["narrowed down", "passed down", "written down", "turned down"] } ] },
+
+  { "expression": "about time", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when something finally happens later than it should have",
+    "exchanges": [ { "uid": "s03_e05_c11_u007", "answer": "about time",
+      "options": ["about time", "on time", "in time", "over time"] } ] },
+
+  { "expression": "hit on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+    "exchanges": [ { "uid": "s03_e05_c14_u020", "answer": "hit on",
+      "options": ["hit on", "pick on", "sit on", "turn on"] } ] },
+
+  { "expression": "take advantage of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make good use of an opportunity while it is available",
+    "exchanges": [ { "uid": "s03_e05_c03_u045", "answer": "take advantage of",
+      "options": ["take advantage of", "take account of", "take notice of", "take care of"] } ] },
+
+  { "expression": "out of someone's league", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "too attractive or impressive for someone to have a chance with",
+    "exchanges": [ { "uid": "s03_e05_c03_u010", "answer": "out of your league",
+      "options": ["out of your league", "out of your mind", "out of your hands", "out of your depth"] } ] },
+
+  { "expression": "play the odds", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to choose the option that is most likely to succeed",
+    "exchanges": [ { "uid": "s03_e05_c07_u015", "answer": "play the odds", "cueUid": "s03_e05_c07_u013",
+      "options": ["play the odds", "hold the line", "pay the price", "set the pace"] } ] },
+
+  { "expression": "on the house", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "free, paid for by the business rather than the customer",
+    "exchanges": [ { "uid": "s03_e05_c10_u011", "answer": "on the house",
+      "options": ["on the house", "on the table", "on the way", "on the spot"] } ] },
+
+  { "expression": "laminated", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "covered in a thin layer of clear plastic to protect it",
+    "exchanges": [ { "uid": "s03_e05_c11_u010", "answer": "laminated",
+      "options": ["laminated", "decorated", "illustrated", "translated"] } ] },
+
+  { "expression": "dingy", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "dark, dirty, and dull-looking",
+    "exchanges": [ { "uid": "s03_e05_c05_u005", "answer": "dingy",
+      "options": ["dingy", "dizzy", "dainty", "dandy"] } ] },
+
+  { "expression": "hopping mad", "type": "colloquial", "level": "expert", "pos": "adjective",
+    "meaning": "extremely angry",
+    "exchanges": [ { "uid": "s03_e05_c12_u031", "answer": "hopping mad", "responseUid": null,
+      "options": ["hopping mad", "jumping mad", "skipping mad", "running mad"] } ] }
+]

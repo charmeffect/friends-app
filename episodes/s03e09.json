@@ -1,0 +1,127 @@
+[
+  { "expression": "nice try", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said when someone's attempt or excuse has failed, often mockingly",
+    "exchanges": [ { "uid": "s03_e09_c04_u055", "answer": "Nice try",
+      "options": ["Nice try", "Good luck", "Well done", "Too bad"] } ] },
+
+  { "expression": "out loud", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "in a voice that others can hear, not silently",
+    "exchanges": [ { "uid": "s03_e09_c03_u108", "answer": "out loud",
+      "options": ["out loud", "up front", "at once", "in full"] } ] },
+
+  { "expression": "back and forth", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "repeatedly from one place to another and back again",
+    "exchanges": [ { "uid": "s03_e09_c03_u112", "answer": "back and forth",
+      "options": ["back and forth", "now and then", "on and off", "more or less"] } ] },
+
+  { "expression": "break up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship",
+    "exchanges": [ { "uid": "s03_e09_c02_u009", "answer": "broke up",
+      "options": ["broke up", "showed up", "grew up", "gave up"] } ] },
+
+  { "expression": "sick of", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "annoyed and bored by something that has gone on too long",
+    "exchanges": [ { "uid": "s03_e09_c02_u029", "answer": "sick of",
+      "options": ["sick of", "fond of", "proud of", "aware of"] } ] },
+
+  { "expression": "stuck with", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "forced to keep or deal with someone or something you did not choose",
+    "exchanges": [ { "uid": "s03_e09_c03_u020", "answer": "stuck with",
+      "options": ["stuck with", "done with", "used to", "good at"] } ] },
+
+  { "expression": "go well", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to happen successfully or without problems",
+    "exchanges": [ { "uid": "s03_e09_c03_u101", "answer": "went well",
+      "options": ["went well", "got lost", "ran late", "wore off"] } ] },
+
+  { "expression": "what's with", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "asked to find out the reason for something strange or unexpected",
+    "exchanges": [ { "uid": "s03_e09_c04_u021", "answer": "What's with",
+      "options": ["What's with", "Where's at", "Who's on", "How's by"] } ] },
+
+  { "expression": "shoot", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "a mild exclamation of annoyance or disappointment",
+    "exchanges": [ { "uid": "s03_e09_c05_u005", "answer": "shoot",
+      "options": ["shoot", "cheers", "bingo", "hooray"] } ] },
+
+  { "expression": "says who", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "a challenge asking who has the authority to make a claim or rule",
+    "exchanges": [ { "uid": "s03_e09_c02_u018", "answer": "Says who", "responseUid": "s03_e09_c02_u020",
+      "options": ["Says who", "Knows who", "Tells who", "Asks who"] } ] },
+
+  { "expression": "run out of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to use up all of something so that none is left",
+    "exchanges": [ { "uid": "s03_e09_c04_u107", "answer": "running out of",
+      "options": ["running out of", "getting back to", "putting up with", "looking out for"] } ] },
+
+  { "expression": "take one's mind off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make someone stop thinking about something upsetting",
+    "exchanges": [ { "uid": "s03_e09_c02_u011", "answer": "take your mind off",
+      "options": ["take your mind off", "get your hands on", "put your finger on", "lose your temper with"] } ] },
+
+  { "expression": "fish out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to pull something out of water or a container, often after searching for it",
+    "exchanges": [ { "uid": "s03_e09_c04_u003", "answer": "fished it out",
+      "options": ["fished it out", "dug it up", "handed it in", "put it away"] } ] },
+
+  { "expression": "for a change", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "as something different from what usually happens",
+    "exchanges": [ { "uid": "s03_e09_c04_u044", "answer": "for a change",
+      "options": ["for a change", "in a row", "at a time", "on a roll"] } ] },
+
+  { "expression": "bring it on", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to accept a challenge confidently",
+    "exchanges": [ { "uid": "s03_e09_c04_u041", "answer": "bring it on",
+      "options": ["bring it on", "give it up", "hold it back", "leave it out"] } ] },
+
+  { "expression": "shallow", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "not interested in serious ideas or deep feelings",
+    "exchanges": [ { "uid": "s03_e09_c04_u072", "answer": "shallow",
+      "options": ["shallow", "hollow", "narrow", "bitter"] } ] },
+
+  { "expression": "swollen", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "larger than normal because of illness or injury",
+    "exchanges": [ { "uid": "s03_e09_c03_u149", "answer": "swollen",
+      "options": ["swollen", "frozen", "rotten", "golden"] } ] },
+
+  { "expression": "lame", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "weak, unimpressive, or not good at anything",
+    "exchanges": [ { "uid": "s03_e09_c04_u094", "answer": "lame",
+      "options": ["lame", "loud", "late", "tall"] } ] },
+
+  { "expression": "nice going", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when someone has done something well, or sarcastically when they have made a mistake",
+    "exchanges": [ { "uid": "s03_e09_c04_u073", "answer": "Nice going",
+      "options": ["Nice going", "Good luck", "Well said", "Take care"] } ] },
+
+  { "expression": "out of the running", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "no longer having a chance to win or be chosen",
+    "exchanges": [ { "uid": "s03_e09_c04_u009", "answer": "out of the running",
+      "options": ["out of the running", "down to the wire", "up in the air", "in on the joke"] } ] },
+
+  { "expression": "compulsive", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "unable to stop doing something, even when it is harmful",
+    "exchanges": [ { "uid": "s03_e09_c03_u141", "answer": "compulsive",
+      "options": ["compulsive", "defensive", "excessive", "abusive"] } ] },
+
+  { "expression": "breakthrough", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a sudden important discovery or realization",
+    "exchanges": [ { "uid": "s03_e09_c04_u075", "answer": "breakthroughs",
+      "options": ["breakthroughs", "setbacks", "drawbacks", "outbreaks"] } ] },
+
+  { "expression": "concentric", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "sharing the same center, used of circles of different sizes",
+    "exchanges": [ { "uid": "s03_e09_c01_u005", "answer": "concentric",
+      "cueUid": "s03_e09_c01_u003", "responseUid": "s03_e09_c01_u008",
+      "options": ["concentric", "parallel", "diagonal", "vertical"] } ] },
+
+  { "expression": "cut to the chase", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to get to the important point without wasting time",
+    "exchanges": [ { "uid": "s03_e09_c04_u060", "answer": "cut to the chase",
+      "options": ["cut to the chase", "beat around the bush", "call it a day", "go by the book"] } ] },
+
+  { "expression": "merriment", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "cheerful fun and laughter, especially at a celebration",
+    "exchanges": [ { "uid": "s03_e09_c04_u063", "answer": "merriment",
+      "options": ["merriment", "resentment", "nourishment", "settlement"] } ] }
+]
