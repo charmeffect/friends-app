@@ -103,6 +103,11 @@ for (const f of files) {
       if (cueId && !cue) err(etag, `cueUid ${cueId} not found`);
       if (resId && !res) err(etag, `responseUid ${resId} not found`);
       if (!cue && !res) err(etag, 'exchange needs a cue or a response line');
+      const ansLc = ex.answer.toLowerCase();
+      if (u.text.toLowerCase().indexOf(ansLc, pos + 1) >= 0) console.warn(`WARN ${etag}: answer "${ex.answer}" occurs more than once in the line (only the first is blanked)`);
+      if (cue && cue.text.toLowerCase().includes(ansLc)) console.warn(`WARN ${etag}: answer "${ex.answer}" also appears in the cue line (gives it away) - override cueUid or pick another line`);
+      if (res && res.text.toLowerCase().includes(ansLc)) console.warn(`WARN ${etag}: answer "${ex.answer}" also appears in the response line (gives it away) - override responseUid or pick another line`);
+      ex.options.forEach((o, k) => { if (o.trim().split(/\s+/).length > 4) console.warn(`WARN ${etag}: option[${k}] "${o}" is longer than 4 words`); });
       resolved.push({
         ep: epCode(ex.uid), uid: ex.uid,
         cueSpeaker: cue ? cue.speaker : null, cue: cue ? cue.text : null,

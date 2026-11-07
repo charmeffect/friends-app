@@ -99,10 +99,6 @@
     "exchanges": [ { "uid": "s01_e03_c06_u008", "answer": "a thing or two",
       "options": ["a thing or two", "a bit or so", "a one or more", "a piece or part"] } ] },
 
-  { "expression": "flaw", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a fault or weakness in someone's character or in a thing",
-    "exchanges": [ { "uid": "s01_e03_c09_u013", "answer": "flaw",
-      "options": ["flaw", "floor", "flow", "flare"] } ] },
 
   { "expression": "bottom line", "type": "phrase", "level": "high", "pos": "noun",
     "meaning": "the most important fact or conclusion",

@@ -1,0 +1,135 @@
+[
+  { "expression": "check on", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to look at or contact someone to make sure they are safe and well",
+    "exchanges": [ { "uid": "s01_e07_c03_u005", "answer": "check on",
+      "options": ["check on", "hold on", "pass by", "turn in"] } ] },
+
+  { "expression": "a bunch of", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "a large number of things",
+    "exchanges": [ { "uid": "s01_e07_c05_u004", "answer": "a bunch of",
+      "options": ["a bunch of", "a slice of", "a drop of", "a loaf of"] } ] },
+
+  { "expression": "there you go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to encourage or praise someone when they finally do something right",
+    "exchanges": [ { "uid": "s01_e07_c06_u003", "answer": "There you go",
+      "options": ["There you go", "Here it is", "Off we go", "Up you get"] } ] },
+
+  { "expression": "black out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to lose all electric light and power",
+    "exchanges": [ { "uid": "s01_e07_c03_u001", "answer": "blacked out",
+      "options": ["blacked out", "burned up", "run down", "worn out"] } ] },
+
+  { "expression": "trapped", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "unable to leave a place",
+    "exchanges": [ { "uid": "s01_e07_c04_u003", "answer": "trapped",
+      "options": ["trapped", "tripped", "trimmed", "tracked"] } ] },
+
+  { "expression": "go with", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to choose or accept one of several options",
+    "exchanges": [ { "uid": "s01_e07_c04_u005", "answer": "going with",
+      "options": ["going with", "coming by", "taking off", "putting up"] } ] },
+
+  { "expression": "break down", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop working because of a mechanical failure",
+    "exchanges": [ { "uid": "s01_e07_c08_u012", "answer": "broke down",
+      "cueUid": "s01_e07_c08_u010", "responseUid": null,
+      "options": ["broke down", "took off", "went up", "came by"] } ] },
+
+  { "expression": "yeah right", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said sarcastically to show you do not believe what someone just said",
+    "exchanges": [ { "uid": "s01_e07_c08_u029", "answer": "Yeah right",
+      "options": ["Yeah right", "So long", "Good grief", "Well done"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s01_e07_c08_u049", "answer": "ask her out",
+      "options": ["ask her out", "let her down", "put her off", "take her in"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be something, often unexpectedly",
+    "exchanges": [ { "uid": "s01_e07_c16_u015", "answer": "turned out",
+      "options": ["turned out", "showed up", "broke down", "took off"] } ] },
+
+  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start talking about a subject",
+    "exchanges": [ { "uid": "s01_e07_c20_u010", "answer": "bring it up",
+      "cueUid": "s01_e07_c20_u007", "responseUid": null,
+      "options": ["bring it up", "put it off", "turn it down", "set it back"] } ] },
+
+  { "expression": "enter one's mind", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to occur to you as a thought or idea",
+    "exchanges": [ { "uid": "s01_e07_c07_u012", "answer": "entered my mind",
+      "options": ["entered my mind", "left my hands", "hit my head", "passed my lips"] } ] },
+
+  { "expression": "hold up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to delay people or make them wait",
+    "exchanges": [ { "uid": "s01_e07_c08_u025", "answer": "holding up",
+      "cueUid": "s01_e07_c08_u023",
+      "options": ["holding up", "letting down", "showing off", "taking after"] } ] },
+
+  { "expression": "burn out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to gradually fade and stop, like a fire that has used up its fuel",
+    "exchanges": [
+      { "uid": "s01_e07_c08_u030", "answer": "burns out",
+        "responseUid": "s01_e07_c08_u032",
+        "options": ["burns out", "pulls in", "turns up", "sets off"] },
+      { "uid": "s01_e07_c20_u001", "answer": "burn out",
+        "responseUid": "s01_e07_c20_u004",
+        "options": ["burn out", "pull in", "turn up", "set off"] } ] },
+
+  { "expression": "make your move", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to finally act on a romantic interest, such as asking someone out",
+    "exchanges": [ { "uid": "s01_e07_c08_u045", "answer": "make your move",
+      "options": ["make your move", "hold your breath", "keep your word", "lose your way"] } ] },
+
+  { "expression": "on second thought", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "used when you change your mind after thinking again",
+    "exchanges": [ { "uid": "s01_e07_c13_u001", "answer": "on second thought",
+      "cueUid": "s01_e07_c09_u004", "responseUid": null,
+      "options": ["on second thought", "at first sight", "in due course", "for good measure"] } ] },
+
+  { "expression": "back on track", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "going well again after a problem or mistake",
+    "exchanges": [ { "uid": "s01_e07_c17_u004", "answer": "back on track",
+      "options": ["back on track", "up in arms", "out of line", "down to earth"] } ] },
+
+  { "expression": "you betcha", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "an enthusiastic way of saying yes or certainly",
+    "exchanges": [ { "uid": "s01_e07_c16_u023", "answer": "You betcha", "responseUid": null,
+      "options": ["You betcha", "No sweat", "My bad", "Way off"] } ] },
+
+  { "expression": "eligible", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "desirable as a marriage or dating partner, usually because single and successful",
+    "exchanges": [ { "uid": "s01_e07_c03_u004", "answer": "Eligible",
+      "options": ["Eligible", "Elegant", "Elusive", "Eloquent"] } ] },
+
+  { "expression": "overrated", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "valued or praised more than it deserves",
+    "exchanges": [ { "uid": "s01_e07_c08_u028", "answer": "overrated",
+      "options": ["overrated", "overloaded", "overlooked", "overpriced"] } ] },
+
+  { "expression": "lay the groundwork", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to do the early preparation that makes something possible later",
+    "exchanges": [ { "uid": "s01_e07_c08_u048", "answer": "laying the groundwork",
+      "options": ["laying the groundwork", "raising the bar", "holding the fort", "calling the shots"] } ] },
+
+  { "expression": "superficial", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "based only on appearance, without any depth or real substance",
+    "exchanges": [ { "uid": "s01_e07_c18_u013", "answer": "superficial",
+      "options": ["superficial", "substantial", "supernatural", "sufficient"] } ] },
+
+  { "expression": "vestibule", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a small entrance hall or lobby between the outer door and the inside of a building",
+    "exchanges": [ { "uid": "s01_e07_c07_u011", "answer": "vestibule",
+      "options": ["vestibule", "vestige", "vehicle", "ventricle"] } ] },
+
+  { "expression": "officiate", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to lead or perform the duties at a ceremony or formal event",
+    "exchanges": [ { "uid": "s01_e07_c05_u002", "answer": "officiating",
+      "options": ["officiating", "operating", "oscillating", "originating"] } ] },
+
+  { "expression": "loathe", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to hate someone or something intensely",
+    "exchanges": [ { "uid": "s01_e07_c13_u001", "answer": "loathe", "cueUid": "s01_e07_c09_u004", "responseUid": null,
+      "options": ["loathe", "clothe", "loosen", "lodge"] } ] }
+]

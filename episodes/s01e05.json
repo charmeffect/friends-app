@@ -1,0 +1,141 @@
+[
+  { "expression": "on one's own", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "without help from anyone else; independently",
+    "exchanges": [
+      { "uid": "s01_e05_c02_u023", "answer": "on your own", "responseUid": null,
+        "options": ["on your own", "by your side", "in your place", "at your best"] },
+      { "uid": "s01_e05_c12_u011", "answer": "on my own", "responseUid": null,
+        "options": ["on my own", "by my side", "in my place", "at my best"] } ] },
+
+  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to tell someone to stop asking or to drop the idea",
+    "exchanges": [
+      { "uid": "s01_e05_c03_u002", "answer": "Forget it",
+        "options": ["Forget it", "Watch it", "Name it", "Make it"] },
+      { "uid": "s01_e05_c02_u046", "answer": "Forget it", "cueUid": null,
+        "options": ["Forget it", "Watch it", "Name it", "Make it"] } ] },
+
+  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to go and buy or collect something, often on the way somewhere",
+    "exchanges": [
+      { "uid": "s01_e05_c04_u007", "answer": "pick up", "cueUid": "s01_e05_c04_u004",
+        "options": ["pick up", "put up", "take up", "set up"] },
+      { "uid": "s01_e05_c04_u011", "answer": "pick something else up",
+        "options": ["pick something else up", "put something else on", "take something else off", "set something else down"] } ] },
+
+
+  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone suddenly",
+    "exchanges": [ { "uid": "s01_e05_c02_u029", "answer": "dumped",
+      "options": ["dumped", "bumped", "pumped", "jumped"] } ] },
+
+  { "expression": "audition", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a short performance an actor gives to try to get a part",
+    "exchanges": [
+      { "uid": "s01_e05_c02_u048", "answer": "auditions",
+        "options": ["auditions", "editions", "additions", "ambitions"] },
+      { "uid": "s01_e05_c03_u003", "answer": "auditions",
+        "options": ["auditions", "editions", "additions", "ambitions"] } ] },
+
+  { "expression": "ask a favor", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to request that someone do something kind to help you",
+    "exchanges": [ { "uid": "s01_e05_c03_u007", "answer": "favor",
+      "options": ["favor", "flavor", "fever", "feather"] } ] },
+
+  { "expression": "tons of", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "a very large number of",
+    "exchanges": [ { "uid": "s01_e05_c03_u008", "answer": "tons of",
+      "options": ["tons of", "pounds of", "yards of", "miles of"] } ] },
+
+  { "expression": "there you go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show that someone has finally got it right or done the sensible thing",
+    "exchanges": [
+      { "uid": "s01_e05_c04_u012", "answer": "There you go", "responseUid": null,
+        "options": ["There you go", "Here you are", "Off you go", "Away we go"] },
+      { "uid": "s01_e05_c11_u004", "answer": "there you go", "responseUid": null,
+        "options": ["there you go", "here you are", "off you go", "away we go"] } ] },
+
+  { "expression": "pretty much", "type": "colloquial", "level": "elementary", "pos": "adverb",
+    "meaning": "almost completely; more or less",
+    "exchanges": [ { "uid": "s01_e05_c09_u002", "answer": "Pretty much",
+      "options": ["Pretty much", "Fairly well", "Really far", "Quite long"] } ] },
+
+  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad or disappointing",
+    "exchanges": [ { "uid": "s01_e05_c06_u011", "answer": "sucked", "responseUid": "s01_e05_c06_u015",
+      "options": ["sucked", "sank", "slipped", "stuck"] } ] },
+
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s01_e05_c15_u009", "answer": "making up",
+      "options": ["making up", "taking up", "giving up", "picking up"] } ] },
+
+  { "expression": "as far as I'm concerned", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "in my opinion",
+    "exchanges": [ { "uid": "s01_e05_c01_u002", "answer": "concerned",
+      "options": ["concerned", "interested", "convinced", "committed"] } ] },
+
+  { "expression": "blow someone's mind", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to amaze or shock someone completely",
+    "exchanges": [ { "uid": "s01_e05_c01_u005", "answer": "blows my mind",
+      "options": ["blows my mind", "pulls my leg", "bites my tongue", "holds my breath"] } ] },
+
+  { "expression": "get up the courage", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make yourself brave enough to do something difficult",
+    "exchanges": [ { "uid": "s01_e05_c02_u007", "answer": "get up the courage",
+      "options": ["get up the courage", "put on the nerve", "take in the heart", "give off the guts"] } ] },
+
+  { "expression": "gang up on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to join together as a group against one person",
+    "exchanges": [ { "uid": "s01_e05_c02_u010", "answer": "gangin' up on",
+      "options": ["gangin' up on", "fillin' in on", "cuttin' back on", "sittin' in on"] } ] },
+
+  { "expression": "you don't say", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "a sarcastic reply meaning that what was just said is obvious",
+    "exchanges": [ { "uid": "s01_e05_c02_u035", "answer": "You don't say", "responseUid": null,
+      "options": ["You don't say", "You can't tell", "You won't know", "You never ask"] } ] },
+
+  { "expression": "put our heads together", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to work together to solve a problem",
+    "exchanges": [ { "uid": "s01_e05_c13_u018", "answer": "put our heads together",
+      "cueUid": "s01_e05_c13_u016", "responseUid": null,
+      "options": ["put our heads together", "keep our eyes open", "get our hands dirty", "take our hats off"] } ] },
+
+  { "expression": "here's the thing", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to introduce the main point or an awkward explanation",
+    "exchanges": [ { "uid": "s01_e05_c14_u001", "answer": "Here's the thing", "responseUid": "s01_e05_c14_u003",
+      "options": ["Here's the thing", "There's the deal", "That's the way", "Where's the catch"] } ] },
+
+  { "expression": "be beyond someone", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to be impossible for someone to understand",
+    "exchanges": [ { "uid": "s01_e05_c01_u005", "answer": "beyond",
+      "options": ["beyond", "behind", "below", "beside"] } ] },
+
+  { "expression": "sophisticated", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "having a lot of experience of the world and knowledge of culture and style",
+    "exchanges": [
+      { "uid": "s01_e05_c02_u048", "answer": "sophisticated",
+        "options": ["sophisticated", "superstitious", "suspicious", "susceptible"] },
+      { "uid": "s01_e05_c03_u003", "answer": "sophisticated",
+        "options": ["sophisticated", "superstitious", "suspicious", "susceptible"] } ] },
+
+  { "expression": "blow off", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to skip or ignore something you were supposed to do",
+    "exchanges": [ { "uid": "s01_e05_c06_u011", "answer": "blew off", "responseUid": "s01_e05_c06_u015",
+      "options": ["blew off", "set off", "ran off", "cut off"] } ] },
+
+  { "expression": "judgment call", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a decision based on personal opinion because there is no clear rule",
+    "exchanges": [ { "uid": "s01_e05_c07_u032", "answer": "judgment call", "responseUid": null,
+      "options": ["judgment call", "phone call", "wake-up call", "curtain call"] } ] },
+
+  { "expression": "grieve", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to feel deep sadness after losing someone or something",
+    "exchanges": [ { "uid": "s01_e05_c16_u014", "answer": "grieve",
+      "options": ["grieve", "greet", "grill", "grind"] } ] },
+
+  { "expression": "rambunctious", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "noisy, wild, and hard to control",
+    "exchanges": [ { "uid": "s01_e05_c13_u008", "answer": "rambunctious",
+      "options": ["rambunctious", "nutritious", "fictitious", "infectious"] } ] }
+]
