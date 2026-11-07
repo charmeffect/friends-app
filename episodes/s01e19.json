@@ -1,0 +1,134 @@
+[
+  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to go and buy or collect something, often on the way somewhere",
+    "exchanges": [ { "uid": "s01_e19_c04_u010", "answer": "pick up",
+      "options": ["pick up", "put on", "take off", "give in"] } ] },
+
+  { "expression": "have a seat", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "sit down (said politely to a guest)",
+    "exchanges": [ { "uid": "s01_e19_c06_u029", "answer": "have a seat",
+      "options": ["have a seat", "take a look", "make a move", "give a hand"] } ] },
+
+  { "expression": "gotcha", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said when you catch or trap someone",
+    "exchanges": [ { "uid": "s01_e19_c07_u018", "answer": "Gotcha",
+      "options": ["Gotcha", "Yikes", "Oops", "Shucks"] } ] },
+
+  { "expression": "from now on", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "starting at this moment and continuing into the future",
+    "exchanges": [ { "uid": "s01_e19_c06_u070", "answer": "from now on", "responseUid": null,
+      "options": ["from now on", "by and large", "in the end", "at all costs"] } ] },
+
+  { "expression": "any minute", "type": "colloquial", "level": "middle", "pos": "adverb",
+    "meaning": "very soon, at any moment",
+    "exchanges": [ { "uid": "s01_e19_c05_u021", "answer": "any minute",
+      "options": ["any minute", "every hour", "some day", "each time"] } ] },
+
+  { "expression": "owe", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to need to give something to someone because they gave you something or you took it from them",
+    "exchanges": [ { "uid": "s01_e19_c05_u037", "answer": "owe", "responseUid": null,
+      "options": ["owe", "lend", "earn", "spare"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [ { "uid": "s01_e19_c06_u017", "answer": "Turned out",
+      "options": ["Turned out", "Gave in", "Took off", "Came by"] } ] },
+
+  { "expression": "named after", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "given the same name as another person or thing",
+    "exchanges": [ { "uid": "s01_e19_c06_u024", "answer": "named after",
+      "options": ["named after", "called for", "known by", "looked like"] } ] },
+
+  { "expression": "what's with", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "asked to find out the reason for something strange or unexpected",
+    "exchanges": [ { "uid": "s01_e19_c07_u007", "answer": "what's with",
+      "options": ["what's with", "how's about", "where's to", "who's for"] } ] },
+
+  { "expression": "in the mood for", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "feeling like having or doing something",
+    "exchanges": [ { "uid": "s01_e19_c08_u005", "answer": "in the mood for",
+      "options": ["in the mood for", "on the way to", "at the time of", "by the look of"] } ] },
+
+  { "expression": "in the middle of", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "busy doing something that has not been finished yet",
+    "exchanges": [ { "uid": "s01_e19_c06_u066", "answer": "in the middle of",
+      "options": ["in the middle of", "at the end of", "on the top of", "by the side of"] } ] },
+
+  { "expression": "so long as", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "only if; on the condition that",
+    "exchanges": [
+      { "uid": "s01_e19_c03_u021", "answer": "so long as",
+        "options": ["so long as", "as far as", "so much as", "as well as"] },
+      { "uid": "s01_e19_c08_u007", "answer": "so long as",
+        "cueUid": "s01_e19_c08_u005", "responseUid": "s01_e19_c08_u011",
+        "options": ["so long as", "as far as", "so much as", "as well as"] } ] },
+
+  { "expression": "get a say", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to be allowed to give an opinion that influences a decision",
+    "exchanges": [ { "uid": "s01_e19_c03_u029", "answer": "get a say",
+      "options": ["get a say", "have a go", "take a shot", "make a call"] } ] },
+
+  { "expression": "partially", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "to some degree but not completely",
+    "exchanges": [
+      { "uid": "s01_e19_c06_u003", "answer": "partially",
+        "options": ["partially", "potentially", "personally", "previously"] },
+      { "uid": "s01_e19_c08_u007", "answer": "partially",
+        "cueUid": "s01_e19_c08_u005", "responseUid": "s01_e19_c08_u011",
+        "options": ["partially", "potentially", "personally", "previously"] } ] },
+
+  { "expression": "brush up against", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to touch someone or something lightly while passing",
+    "exchanges": [ { "uid": "s01_e19_c06_u080", "answer": "brushed up against",
+      "options": ["brushed up against", "bumped up into", "ran up over", "came up with"] } ] },
+
+  { "expression": "be hard on", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to treat or criticize someone severely",
+    "exchanges": [ { "uid": "s01_e19_c08_u003", "answer": "hard on",
+      "options": ["hard on", "soft at", "tough for", "rough to"] } ] },
+
+  { "expression": "on purpose", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "intentionally, not by accident",
+    "exchanges": [ { "uid": "s01_e19_c06_u102", "answer": "on purpose",
+      "options": ["on purpose", "by heart", "at random", "in vain"] } ] },
+
+  { "expression": "run something by", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to tell someone about an idea so they can give their opinion on it",
+    "exchanges": [ { "uid": "s01_e19_c05_u044", "answer": "run something by",
+      "options": ["run something by", "put something off", "get something over", "set something up"] } ] },
+
+  { "expression": "reconcile", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to find a way to settle a disagreement",
+    "exchanges": [ { "uid": "s01_e19_c06_u029", "answer": "reconcile",
+      "options": ["reconcile", "reconsider", "recollect", "reinforce"] } ] },
+
+  { "expression": "for old times' sake", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "because of the happy times you shared in the past",
+    "exchanges": [ { "uid": "s01_e19_c06_u043", "answer": "for old times' sake",
+      "options": ["for old times' sake", "in the long run", "at any rate", "on the whole"] } ] },
+
+  { "expression": "oblivious", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "not aware of what is happening around you",
+    "exchanges": [ { "uid": "s01_e19_c06_u103", "answer": "oblivious", "responseUid": null,
+      "options": ["oblivious", "obnoxious", "obedient", "obsolete"] } ] },
+
+  { "expression": "the bigger person", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "the one who acts generously and maturely instead of taking revenge",
+    "exchanges": [ { "uid": "s01_e19_c07_u028", "answer": "the bigger person", "responseUid": null,
+      "options": ["the bigger person", "the taller woman", "the older sister", "the better half"] } ] },
+
+  { "expression": "woo", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to try to win someone's love or attention",
+    "exchanges": [ { "uid": "s01_e19_c04_u010", "answer": "woo",
+      "options": ["woo", "nag", "bug", "tag"] } ] },
+
+  { "expression": "per se", "type": "phrase", "level": "expert", "pos": "adverb",
+    "meaning": "by itself; in the strict sense of the word",
+    "exchanges": [ { "uid": "s01_e19_c06_u065", "answer": "per se",
+      "options": ["per se", "ad hoc", "de facto", "vice versa"] } ] },
+
+  { "expression": "frolic", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to play or move about in a lively, carefree way",
+    "exchanges": [ { "uid": "s01_e19_c03_u023", "answer": "frolicking",
+      "options": ["frolicking", "flinching", "floundering", "fidgeting"] } ] }
+]

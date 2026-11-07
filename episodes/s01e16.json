@@ -1,0 +1,127 @@
+[
+  { "expression": "start over", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to begin something again from the beginning",
+    "exchanges": [ { "uid": "s01_e16_c01_u012", "answer": "start over",
+      "options": ["start over", "come along", "turn back", "hold off"] } ] },
+
+  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to have a friendly relationship with someone",
+    "exchanges": [ { "uid": "s01_e16_c02_u031", "answer": "get along",
+      "options": ["get along", "go ahead", "keep up", "look out"] } ] },
+
+  { "expression": "get fired", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to lose your job because your employer dismisses you",
+    "exchanges": [ { "uid": "s01_e16_c09_u013", "answer": "got fired",
+      "options": ["got fired", "got lost", "got stuck", "got sick"] } ] },
+
+  { "expression": "do someone a favor", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to do something helpful for someone because they ask you to",
+    "exchanges": [ { "uid": "s01_e16_c10_u023", "answer": "do me a favour",
+      "options": ["do me a favour", "make me a deal", "tell me a secret", "show me a trick"] } ] },
+
+  { "expression": "fall in love", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to start to love someone romantically",
+    "exchanges": [ { "uid": "s01_e16_c15_u021", "answer": "falling in love",
+      "options": ["falling in love", "going in deep", "staying in line", "giving in early"] } ] },
+
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s01_e16_c01_u010", "answer": "how come",
+      "options": ["how come", "what for", "since when", "so what"] } ] },
+
+  { "expression": "in a row", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "one after another without a break",
+    "exchanges": [ { "uid": "s01_e16_c02_u003", "answer": "in a row",
+      "options": ["in a row", "on a roll", "at a time", "for a change"] } ] },
+
+  { "expression": "complicated", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "involving many parts or feelings and difficult to explain",
+    "exchanges": [ { "uid": "s01_e16_c03_u015", "answer": "complicated", "cueUid": "s01_e16_c03_u013",
+      "options": ["complicated", "comfortable", "complimentary", "considerate"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s01_e16_c05_u023", "answer": "asked out", "cueUid": "s01_e16_c05_u020",
+      "options": ["asked out", "called up", "put down", "let in"] } ] },
+
+  { "expression": "keep it down", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to be quieter so as not to disturb others",
+    "exchanges": [ { "uid": "s01_e16_c10_u021", "answer": "keep it down",
+      "cueUid": "s01_e16_c10_u017", "responseUid": null,
+      "options": ["keep it down", "turn it off", "hold it up", "put it away"] } ] },
+
+  { "expression": "have a sec", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have a moment free to talk to someone",
+    "exchanges": [ { "uid": "s01_e16_c14_u001", "answer": "have a sec",
+      "options": ["have a sec", "take a tick", "get a go", "keep a slot"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s01_e16_c15_u001", "answer": "ended up",
+      "options": ["ended up", "gave in", "went off", "came by"] } ] },
+
+  { "expression": "act out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to behave badly as a way of expressing hidden feelings",
+    "exchanges": [ { "uid": "s01_e16_c02_u001", "answer": "acting out",
+      "options": ["acting out", "giving up", "hanging on", "running off"] } ] },
+
+  { "expression": "go over", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to check or examine something carefully",
+    "exchanges": [ { "uid": "s01_e16_c04_u009", "answer": "going over",
+      "options": ["going over", "getting by", "putting off", "turning down"] } ] },
+
+  { "expression": "run it by someone", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to tell someone about a plan so they can give their opinion or approval",
+    "exchanges": [ { "uid": "s01_e16_c05_u020", "answer": "run it by", "responseUid": "s01_e16_c05_u023",
+      "options": ["run it by", "hand it to", "get it from", "keep it with"] } ] },
+
+  { "expression": "grow apart", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to gradually become less close to someone over time",
+    "exchanges": [ { "uid": "s01_e16_c05_u026", "answer": "grown apart",
+      "options": ["grown apart", "gone under", "taken off", "fallen through"] } ] },
+
+  { "expression": "miss out on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to lose the chance to do or enjoy something",
+    "exchanges": [ { "uid": "s01_e16_c06_u011", "answer": "miss out on",
+      "options": ["miss out on", "give in to", "get away with", "look up to"] } ] },
+
+  { "expression": "put it this way", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said before explaining something in a different or simpler way",
+    "exchanges": [ { "uid": "s01_e16_c09_u003", "answer": "put it this way",
+      "options": ["put it this way", "say it like that", "take it from here", "make it that far"] } ] },
+
+  { "expression": "let someone go", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to dismiss someone from a job (a polite way of saying fire)",
+    "exchanges": [ { "uid": "s01_e16_c11_u006", "answer": "let her go",
+      "options": ["let her go", "set her up", "put her down", "took her on"] } ] },
+
+  { "expression": "big picture", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "the overall situation, rather than the small details",
+    "exchanges": [ { "uid": "s01_e16_c12_u013", "answer": "big picture",
+      "options": ["big picture", "long shot", "fine print", "fair game"] } ] },
+
+  { "expression": "flip someone for it", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to toss a coin with someone to decide who gets something",
+    "exchanges": [ { "uid": "s01_e16_c06_u013", "answer": "flip you for it", "responseUid": "s01_e16_c06_u015",
+      "options": ["flip you for it", "bet you on it", "race you to it", "pay you for it"] } ] },
+
+  { "expression": "recollection", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the ability to remember something; a memory",
+    "exchanges": [ { "uid": "s01_e16_c11_u010", "answer": "recollection",
+      "options": ["recollection", "recognition", "reflection", "collection"] } ] },
+
+  { "expression": "occur to", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to suddenly come into someone's mind as a thought",
+    "exchanges": [ { "uid": "s01_e16_c13_u002", "answer": "occurring to",
+      "options": ["occurring to", "belonging to", "appealing to", "referring to"] } ] },
+
+  { "expression": "out of whack", "type": "colloquial", "level": "expert", "pos": "adjective",
+    "meaning": "not working or balanced correctly",
+    "exchanges": [ { "uid": "s01_e16_c04_u011", "answer": "out of whack",
+      "options": ["out of whack", "off the hook", "up the wall", "over the top"] } ] },
+
+  { "expression": "dip your pen in the company ink", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to have a romantic relationship with someone you work with (said as a warning)",
+    "exchanges": [ { "uid": "s01_e16_c05_u002", "answer": "company ink", "responseUid": null,
+      "options": ["company ink", "office well", "boss's cup", "payroll jar"] } ] }
+]

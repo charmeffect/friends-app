@@ -1,0 +1,132 @@
+[
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s01_e18_c01_u037", "answer": "how come",
+      "options": ["how come", "what for", "since when", "so what"] } ] },
+
+  { "expression": "for real", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "seriously, not just for practice or fun",
+    "exchanges": [ { "uid": "s01_e18_c02_u018", "answer": "for real",
+      "options": ["for real", "for now", "for long", "for sure"] } ] },
+
+  { "expression": "where were we", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to return to what you were doing or talking about before an interruption",
+    "exchanges": [ { "uid": "s01_e18_c07_u067", "answer": "Where were we",
+      "options": ["Where were we", "What was that", "Who are they", "How were you"] } ] },
+
+  { "expression": "you're kidding", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show surprise and disbelief at what someone just told you",
+    "exchanges": [ { "uid": "s01_e18_c04_u010", "answer": "You're kidding",
+      "options": ["You're kidding", "You're welcome", "You're early", "You're next"] } ] },
+
+  { "expression": "typical", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "showing the usual qualities of a particular kind of person or thing",
+    "exchanges": [
+      { "uid": "s01_e18_c01_u046", "answer": "typical",
+        "options": ["typical", "tropical", "critical", "physical"] },
+      { "uid": "s01_e18_c06_u008", "answer": "typical",
+        "options": ["typical", "tropical", "critical", "physical"] } ] },
+
+  { "expression": "hand over", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to give something to someone, often unwillingly",
+    "exchanges": [ { "uid": "s01_e18_c07_u001", "answer": "hand over",
+      "options": ["hand over", "put off", "look up", "take after"] } ] },
+
+  { "expression": "buck", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a dollar",
+    "exchanges": [ { "uid": "s01_e18_c07_u044", "answer": "buck",
+      "options": ["buck", "bulb", "brick", "badge"] } ] },
+
+  { "expression": "have feelings for", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be romantically attracted to someone",
+    "exchanges": [ { "uid": "s01_e18_c03_u007", "answer": "had feelings for", "responseUid": null,
+      "options": ["had feelings for", "made plans with", "took care of", "kept tabs on"] } ] },
+
+  { "expression": "give it a go", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to try doing something",
+    "exchanges": [ { "uid": "s01_e18_c05_u020", "answer": "give it a go", "responseUid": null,
+      "options": ["give it a go", "call it a day", "make it a point", "take it in stride"] } ] },
+
+  { "expression": "sarcastic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "saying the opposite of what you mean in order to mock someone",
+    "exchanges": [ { "uid": "s01_e18_c01_u022", "answer": "sarcastic", "cueUid": "s01_e18_c01_u020",
+      "options": ["sarcastic", "sensitive", "stubborn", "generous"] } ] },
+
+  { "expression": "lame", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "weak and unconvincing",
+    "exchanges": [ { "uid": "s01_e18_c01_u044", "answer": "lame",
+      "cueUid": "s01_e18_c01_u042", "responseUid": "s01_e18_c01_u046",
+      "options": ["lame", "loud", "late", "loose"] } ] },
+
+  { "expression": "rematch", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a second game between the same players after one side has lost",
+    "exchanges": [ { "uid": "s01_e18_c02_u039", "answer": "rematch",
+      "options": ["rematch", "refund", "reunion", "reminder"] } ] },
+
+  { "expression": "could use", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "would benefit from or would like to have something",
+    "exchanges": [ { "uid": "s01_e18_c02_u040", "answer": "Could use",
+      "options": ["Could use", "Should keep", "Would lose", "Might find"] } ] },
+
+  { "expression": "way off", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "completely wrong or mistaken",
+    "exchanges": [ { "uid": "s01_e18_c03_u005", "answer": "way off",
+      "options": ["way off", "far out", "all set", "long gone"] } ] },
+
+  { "expression": "competitive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "strongly wanting to win or to be better than others",
+    "exchanges": [ { "uid": "s01_e18_c04_u002", "answer": "competitive",
+      "options": ["competitive", "sensitive", "creative", "attractive"] } ] },
+
+  { "expression": "bluff", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to pretend you have something or will do something in order to deceive someone",
+    "exchanges": [ { "uid": "s01_e18_c04_u026", "answer": "bluffing",
+      "cueUid": "s01_e18_c04_u022", "responseUid": "s01_e18_c04_u028",
+      "options": ["bluffing", "bragging", "gambling", "folding"] } ] },
+
+  { "expression": "have the last laugh", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to end up winning after others have mocked or doubted you",
+    "exchanges": [ { "uid": "s01_e18_c07_u002", "answer": "the last laugh",
+      "options": ["the last laugh", "the long face", "the big mouth", "the cold shoulder"] } ] },
+
+  { "expression": "shuffle", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to mix playing cards into a random order before dealing",
+    "exchanges": [ { "uid": "s01_e18_c05_u019", "answer": "shuffle",
+      "options": ["shuffle", "sharpen", "swallow", "scatter"] } ] },
+
+  { "expression": "settle", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to pay money that you owe",
+    "exchanges": [ { "uid": "s01_e18_c02_u031", "answer": "settle",
+      "cueUid": "s01_e18_c02_u029", "responseUid": "s01_e18_c02_u034",
+      "options": ["settle", "wander", "bother", "hustle"] } ] },
+
+  { "expression": "beg to differ", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "a polite way of saying that you disagree",
+    "exchanges": [ { "uid": "s01_e18_c04_u007", "answer": "beg to differ",
+      "options": ["beg to differ", "dare to say", "hate to ask", "need to think"] } ] },
+
+  { "expression": "cave", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to stop resisting and give in to pressure",
+    "exchanges": [ { "uid": "s01_e18_c05_u009", "answer": "caved",
+      "options": ["caved", "yawned", "tripped", "blushed"] } ] },
+
+  { "expression": "hold someone over", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to help someone manage until something better, such as a proper meal, arrives",
+    "exchanges": [ { "uid": "s01_e18_c07_u012", "answer": "hold me over",
+      "options": ["hold me over", "keep me up", "fill me in", "cheer me on"] } ] },
+
+  { "expression": "full of it", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "talking nonsense or making claims that are not true",
+    "exchanges": [ { "uid": "s01_e18_c07_u082", "answer": "full of it",
+      "options": ["full of it", "in on it", "up to it", "on about it"] } ] },
+
+  { "expression": "read 'em and weep", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "said when showing a winning hand of cards, telling the others to look and accept defeat",
+    "exchanges": [ { "uid": "s01_e18_c01_u035", "answer": "Read 'em and weep",
+      "options": ["Read 'em and weep", "Pay 'em and leave", "Cut 'em and deal", "Count 'em and smile"] } ] },
+
+  { "expression": "shy", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "lacking the amount of money that is needed",
+    "exchanges": [ { "uid": "s01_e18_c07_u101", "answer": "shy", "cueUid": "s01_e18_c07_u098",
+      "options": ["shy", "sore", "slow", "dim"] } ] }
+]

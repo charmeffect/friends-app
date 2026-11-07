@@ -1,0 +1,132 @@
+[
+  { "expression": "what's the matter", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "a question asking what is wrong with someone or something",
+    "exchanges": [ { "uid": "s01_e20_c05_u001", "answer": "What's the matter",
+      "options": ["What's the matter", "What's the time", "What's the point", "What's the plan"] } ] },
+
+  { "expression": "you got it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to agree to do what someone has just asked or suggested",
+    "exchanges": [ { "uid": "s01_e20_c12_u012", "answer": "You got it", "responseUid": "s01_e20_c12_u014",
+      "options": ["You got it", "You made it", "You did it", "You found it"] } ] },
+
+  { "expression": "hear from", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to receive a call, letter or message from someone",
+    "exchanges": [ { "uid": "s01_e20_c07_u011", "answer": "heard from", "responseUid": "s01_e20_c07_u013",
+      "options": ["heard from", "heard of", "heard about", "heard out"] } ] },
+
+  { "expression": "upset", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "unhappy or worried because something bad has happened",
+    "exchanges": [ { "uid": "s01_e20_c02_u015", "answer": "upset",
+      "options": ["upset", "asleep", "awake", "alike"] } ] },
+
+  { "expression": "engaged", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "having formally agreed to marry someone",
+    "exchanges": [ { "uid": "s01_e20_c02_u036", "answer": "engaged",
+      "options": ["engaged", "related", "allergic", "addicted"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s01_e20_c06_u022", "answer": "ended up", "cueUid": "s01_e20_c06_u019",
+      "options": ["ended up", "set up", "turned up", "showed up"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [ { "uid": "s01_e20_c12_u008", "answer": "turns out",
+      "options": ["turns out", "turns up", "runs out", "works out"] } ] },
+
+  { "expression": "get together", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to meet someone socially",
+    "exchanges": [ { "uid": "s01_e20_c12_u010", "answer": "get together",
+      "options": ["get together", "get along", "go together", "get through"] } ] },
+
+  { "expression": "grow up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to stop behaving childishly",
+    "exchanges": [ { "uid": "s01_e20_c04_u011", "answer": "grow up",
+      "options": ["grow up", "get up", "show up", "slow down"] } ] },
+
+  { "expression": "ever since", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "continuously from the time that something happened",
+    "exchanges": [ { "uid": "s01_e20_c08_u018", "answer": "ever since",
+      "options": ["ever since", "even though", "as if", "so that"] } ] },
+
+  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s01_e20_c10_u005", "answer": "break up with",
+      "options": ["break up with", "stand up for", "put up with", "look up to"] } ] },
+
+  { "expression": "needy", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "wanting too much attention or affection from other people",
+    "exchanges": [
+      { "uid": "s01_e20_c02_u003", "answer": "needy",
+        "options": ["needy", "nerdy", "greedy", "moody"] },
+      { "uid": "s01_e20_c12_u021", "answer": "needy", "responseUid": null,
+        "options": ["needy", "nerdy", "greedy", "moody"] } ] },
+
+  { "expression": "mess with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to interfere with or provoke someone who could cause you trouble",
+    "exchanges": [ { "uid": "s01_e20_c01_u003", "answer": "mess with",
+      "options": ["mess with", "mix with", "part with", "fill with"] } ] },
+
+  { "expression": "creep out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone feel uneasy or scared",
+    "exchanges": [ { "uid": "s01_e20_c04_u009", "answer": "creeps me out",
+      "options": ["creeps me out", "cracks me up", "cheers me up", "fills me in"] } ] },
+
+  { "expression": "break it off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to end a romantic relationship",
+    "exchanges": [ { "uid": "s01_e20_c05_u007", "answer": "break it off",
+      "options": ["break it off", "take it off", "put it off", "show it off"] } ] },
+
+  { "expression": "pathetic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "sad and hopeless in a way that makes others feel pity or scorn",
+    "exchanges": [ { "uid": "s01_e20_c06_u008", "answer": "pathetic",
+      "options": ["pathetic", "athletic", "energetic", "sympathetic"] } ] },
+
+  { "expression": "maid of honour", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "the chief bridesmaid who helps the bride at a wedding",
+    "exchanges": [
+      { "uid": "s01_e20_c08_u008", "answer": "maid of honour", "cueUid": "s01_e20_c08_u006",
+        "options": ["maid of honour", "lady in waiting", "mother of pearl", "jack of trades"] },
+      { "uid": "s01_e20_c10_u026", "answer": "maid of honor", "cueUid": "s01_e20_c10_u024",
+        "options": ["maid of honor", "lady in waiting", "mother of pearl", "jack of trades"] } ] },
+
+  { "expression": "can't help oneself", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be unable to stop yourself from doing something",
+    "exchanges": [ { "uid": "s01_e20_c10_u008", "answer": "help myself",
+      "options": ["help myself", "hurt myself", "find myself", "excuse myself"] } ] },
+
+  { "expression": "violated", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "feeling that your privacy or personal space has been intruded on",
+    "exchanges": [ { "uid": "s01_e20_c01_u007", "answer": "violated",
+      "options": ["violated", "validated", "vacated", "ventilated"] } ] },
+
+  { "expression": "for future reference", "type": "phrase", "level": "college", "pos": "adverb",
+    "meaning": "said when giving information that will be useful to know later",
+    "exchanges": [ { "uid": "s01_e20_c06_u002", "answer": "for future reference",
+      "options": ["for future reference", "for better measure", "for later notice", "for present purposes"] } ] },
+
+  { "expression": "apples and oranges", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "two things that are too different to be compared",
+    "exchanges": [ { "uid": "s01_e20_c06_u032", "answer": "apples and oranges",
+      "options": ["apples and oranges", "cats and dogs", "bread and butter", "nuts and bolts"] } ] },
+
+  { "expression": "at the end of the day", "type": "colloquial", "level": "college", "pos": "adverb",
+    "meaning": "when everything has been considered; ultimately",
+    "exchanges": [ { "uid": "s01_e20_c10_u024", "answer": "end of the day", "responseUid": "s01_e20_c10_u026",
+      "options": ["end of the day", "top of the hour", "turn of the century", "back of the room"] } ] },
+
+  { "expression": "let someone dangle", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to keep someone waiting in uncertainty on purpose",
+    "exchanges": [ { "uid": "s01_e20_c02_u004", "answer": "dangle",
+      "options": ["dangle", "dawdle", "dabble", "doodle"] } ] },
+
+  { "expression": "hone", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to practise and refine a skill or piece of work until it is polished",
+    "exchanges": [ { "uid": "s01_e20_c04_u003", "answer": "honing",
+      "options": ["honing", "humming", "hiking", "hosting"] } ] },
+
+  { "expression": "out someone", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to reveal publicly that someone is gay",
+    "exchanges": [ { "uid": "s01_e20_c12_u003", "answer": "outing", "responseUid": null,
+      "options": ["outing", "ousting", "outdoing", "outfitting"] } ] }
+]

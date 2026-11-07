@@ -1,0 +1,134 @@
+[
+  { "expression": "fill out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to complete a form by writing the required information in the spaces",
+    "exchanges": [ { "uid": "s01_e17_c01_u030", "answer": "filling out", "cueUid": "s01_e17_c01_u028",
+      "options": ["filling out", "making up", "giving away", "turning down"] } ] },
+
+  { "expression": "take your time", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to tell someone there is no need to hurry",
+    "exchanges": [ { "uid": "s01_e17_c02_u020", "answer": "take your time",
+      "options": ["take your time", "make your way", "hold your tongue", "mind your step"] } ] },
+
+  { "expression": "get in trouble", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to end up being punished or blamed for something you did",
+    "exchanges": [ { "uid": "s01_e17_c06_u018", "answer": "get in trouble",
+      "options": ["get in trouble", "get in shape", "get on board", "get in line"] } ] },
+
+  { "expression": "might as well", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to suggest doing something because there is no better option",
+    "exchanges": [ { "uid": "s01_e17_c01_u025", "answer": "Might as well",
+      "options": ["Might as well", "Could as much", "Would as long", "Should as far"] } ] },
+
+  { "expression": "after all", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "used to add a reason that explains or justifies what you have just said",
+    "exchanges": [ { "uid": "s01_e17_c06_u014", "answer": "After all", "cueUid": "s01_e17_c06_u011",
+      "options": ["After all", "Above all", "At last", "In all"] } ] },
+
+  { "expression": "be there for someone", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to give someone support and attention when they need it",
+    "exchanges": [ { "uid": "s01_e17_c07_u027", "answer": "there for",
+      "options": ["there for", "here with", "out to", "up on"] } ] },
+
+  { "expression": "what's the deal with", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to ask what is happening with someone or something",
+    "exchanges": [ { "uid": "s01_e17_c08_u024", "answer": "What's the deal with",
+      "options": ["What's the deal with", "What's the use of", "What's the harm in", "What's the hurry with"] } ] },
+
+  { "expression": "all of a sudden", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "suddenly and unexpectedly",
+    "exchanges": [ { "uid": "s01_e17_c05_u009", "answer": "all of a sudden",
+      "options": ["all of a sudden", "once in a while", "in the long run", "by and large"] } ] },
+
+  { "expression": "spoiled", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "selfish and badly behaved because you have always been given what you want",
+    "exchanges": [ { "uid": "s01_e17_c06_u052", "answer": "spoiled",
+      "options": ["spoiled", "spotted", "startled", "stranded"] } ] },
+
+  { "expression": "any minute", "type": "colloquial", "level": "middle", "pos": "adverb",
+    "meaning": "very soon, at any moment",
+    "exchanges": [ { "uid": "s01_e17_c04_u013", "answer": "any minute",
+      "options": ["any minute", "every hour", "some day", "each time"] } ] },
+
+  { "expression": "make up for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to compensate for something that was missed or done badly",
+    "exchanges": [ { "uid": "s01_e17_c05_u007", "answer": "make up for",
+      "options": ["make up for", "get back at", "put up with", "look out for"] } ] },
+
+  { "expression": "boss around", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to keep telling people what to do in an annoying, domineering way",
+    "exchanges": [ { "uid": "s01_e17_c06_u049", "answer": "boss people around",
+      "options": ["boss people around", "push people over", "show people up", "turn people down"] } ] },
+
+  { "expression": "stand someone up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to fail to show up for a date you had arranged with someone",
+    "exchanges": [ { "uid": "s01_e17_c07_u026", "answer": "stood me up",
+      "options": ["stood me up", "put me down", "let me in", "held me back"] } ] },
+
+  { "expression": "make all the difference", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to have a very important effect on the result",
+    "exchanges": [ { "uid": "s01_e17_c03_u001", "answer": "makes all the difference",
+      "options": ["makes all the difference", "takes all the time", "gets all the blame", "does all the work"] } ] },
+
+  { "expression": "what are the odds", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when something very unlikely has happened, often sarcastically",
+    "exchanges": [ { "uid": "s01_e17_c02_u018", "answer": "What're the odds", "cueUid": "s01_e17_c02_u015",
+      "options": ["What're the odds", "What're the costs", "What're the rules", "What're the limits"] } ] },
+
+  { "expression": "screw up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to ruin something by making a bad mistake",
+    "exchanges": [ { "uid": "s01_e17_c02_u023", "answer": "screw it up",
+      "options": ["screw it up", "put it off", "pick it up", "turn it down"] } ] },
+
+  { "expression": "panicky", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "feeling sudden, uncontrolled fear or worry",
+    "exchanges": [ { "uid": "s01_e17_c05_u004", "answer": "panicky",
+      "options": ["panicky", "picky", "cranky", "sneaky"] } ] },
+
+  { "expression": "fraud", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "the crime of deceiving someone in order to get money or benefits",
+    "exchanges": [ { "uid": "s01_e17_c01_u024", "answer": "fraud",
+      "options": ["fraud", "theft", "bribery", "forgery"] } ] },
+
+  { "expression": "uptight", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "anxious, tense, and unable to relax",
+    "exchanges": [ { "uid": "s01_e17_c06_u029", "answer": "uptight",
+      "options": ["uptight", "upbeat", "upfront", "upscale"] } ] },
+
+  { "expression": "worst-case scenario", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "the most serious or unpleasant thing that could possibly happen",
+    "exchanges": [ { "uid": "s01_e17_c10_u001", "answer": "worst case scenario", "responseUid": "s01_e17_c10_u003",
+      "options": ["worst case scenario", "long term outlook", "best kept secret", "last minute change"] } ] },
+
+  { "expression": "come through", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to do what is needed or expected of you in a difficult situation",
+    "exchanges": [ { "uid": "s01_e17_c13_u011", "answer": "came through", "cueUid": "s01_e17_c13_u009",
+      "options": ["came through", "went along", "gave in", "fell behind"] } ] },
+
+  { "expression": "blow off", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to skip or ignore something you were supposed to do",
+    "exchanges": [
+      { "uid": "s01_e17_c04_u004", "answer": "blow off",
+        "options": ["blow off", "show off", "blow up", "set off"] },
+      { "uid": "s01_e17_c07_u029", "answer": "blowin' me off",
+        "options": ["blowin' me off", "showin' me up", "sellin' me out", "wearin' me out"] } ] },
+
+  { "expression": "scare the crap out of", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to frighten someone very badly",
+    "exchanges": [ { "uid": "s01_e17_c04_u010", "answer": "scared the crap",
+      "options": ["scared the crap", "kicked the dirt", "shook the dust", "wiped the smile"] } ] },
+
+  { "expression": "hissy fit", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a sudden outburst of childish anger",
+    "exchanges": [ { "uid": "s01_e17_c02_u026", "answer": "hissy fit", "responseUid": null,
+      "options": ["hissy fit", "dizzy spell", "nasty streak", "fussy spot"] } ] },
+
+  { "expression": "wuss", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a weak, cowardly person",
+    "exchanges": [ { "uid": "s01_e17_c06_u019", "answer": "wuss", "responseUid": null,
+      "options": ["wuss", "geek", "brat", "snob"] } ] },
+
+  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to recover from something unpleasant, such as a breakup",
+    "exchanges": [ { "uid": "s01_e17_c12_u021", "answer": "get over",
+      "options": ["get over", "get by", "take over", "get in"] } ] }
+]
