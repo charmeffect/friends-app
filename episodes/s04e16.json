@@ -1,0 +1,129 @@
+[
+  { "expression": "have a seat", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "sit down (said politely to a guest)",
+    "exchanges": [ { "uid": "s04_e16_c06_u009", "answer": "have a seat",
+      "options": ["have a seat", "take a look", "make a wish", "give a call"] } ] },
+
+  { "expression": "a bunch of", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "a large number of things",
+    "exchanges": [ { "uid": "s04_e16_c06_u022", "answer": "a bunch of",
+      "options": ["a bunch of", "a piece of", "a drop of", "a sheet of"] } ] },
+
+  { "expression": "get going", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to leave or start moving, usually because it is time to go",
+    "exchanges": [ { "uid": "s04_e16_c04_u030", "answer": "get going",
+      "options": ["get going", "get even", "get ahead", "get along"] } ] },
+
+  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to help someone with a task",
+    "exchanges": [ { "uid": "s04_e16_c04_u044", "answer": "give me a hand",
+      "options": ["give me a hand", "give me a break", "give me a call", "give me a hint"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [ { "uid": "s04_e16_c02_u011", "answer": "turned out", "responseUid": "s04_e16_c02_u013",
+      "options": ["turned out", "showed up", "broke down", "took off"] } ] },
+
+  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to vomit",
+    "exchanges": [ { "uid": "s04_e16_c02_u032", "answer": "throw up", "responseUid": null,
+      "options": ["throw up", "give up", "show up", "wake up"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [ { "uid": "s04_e16_c05_u044", "answer": "no big deal",
+      "options": ["no big deal", "no hard feelings", "no free lunch", "no small talk"] } ] },
+
+  { "expression": "piece of cake", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "something that is very easy to do",
+    "exchanges": [ { "uid": "s04_e16_c01_u003", "answer": "piece of cake",
+      "options": ["piece of cake", "bowl of soup", "loaf of bread", "bag of chips"] } ] },
+
+  { "expression": "in a row", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "one after another without a break",
+    "exchanges": [ { "uid": "s04_e16_c04_u077", "answer": "in a row",
+      "options": ["in a row", "in a way", "in a while", "in a sense"] } ] },
+
+  { "expression": "under control", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "being managed successfully so that nothing goes wrong",
+    "exchanges": [ { "uid": "s04_e16_c05_u058", "answer": "under control",
+      "options": ["under control", "under pressure", "under construction", "under arrest"] } ] },
+
+  { "expression": "nauseous", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "feeling as if you are about to vomit",
+    "exchanges": [ { "uid": "s04_e16_c02_u028", "answer": "nauseous",
+      "options": ["nauseous", "gorgeous", "cautious", "jealous"] } ] },
+
+  { "expression": "craving", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a strong desire for a particular food",
+    "exchanges": [ { "uid": "s04_e16_c01_u006", "answer": "cravings", "responseUid": "s04_e16_c01_u009",
+      "options": ["cravings", "drawings", "savings", "earnings"] } ] },
+
+  { "expression": "guts", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "the courage and determination to do something difficult",
+    "exchanges": [ { "uid": "s04_e16_c02_u003", "answer": "guts",
+      "options": ["guts", "legs", "ears", "wings"] } ] },
+
+  { "expression": "go out of style", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to stop being fashionable or popular",
+    "exchanges": [ { "uid": "s04_e16_c02_u004", "answer": "go out of style", "responseUid": null,
+      "options": ["go out of style", "go out of town", "go out of order", "go out of print"] } ] },
+
+  { "expression": "bummed", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "disappointed and unhappy",
+    "exchanges": [ { "uid": "s04_e16_c02_u020", "answer": "bummed",
+      "options": ["bummed", "tanned", "stuffed", "wired"] } ] },
+
+  { "expression": "play hard to get", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to pretend not to be interested in someone so that they want you more",
+    "exchanges": [ { "uid": "s04_e16_c04_u017", "answer": "play hard to get",
+      "options": ["play hard to get", "play by the rules", "play for the team", "play to the crowd"] } ] },
+
+  { "expression": "cheat on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+    "exchanges": [ { "uid": "s04_e16_c05_u008", "answer": "cheat on",
+      "options": ["cheat on", "pick on", "lean on", "sit on"] } ] },
+
+  { "expression": "pathetic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "sad and hopeless in a way that makes others feel pity or scorn",
+    "exchanges": [ { "uid": "s04_e16_c06_u008", "answer": "pathetic",
+      "options": ["pathetic", "athletic", "patriotic", "prophetic"] } ] },
+
+  { "expression": "even things out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make a situation fair or balanced again",
+    "exchanges": [ { "uid": "s04_e16_c05_u014", "answer": "even things out", "responseUid": "s04_e16_c05_u016",
+      "options": ["even things out", "talk things over", "think things through", "take things back"] } ] },
+
+  { "expression": "ornate", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "decorated with a lot of complicated detail",
+    "exchanges": [ { "uid": "s04_e16_c02_u013", "answer": "ornate", "cueUid": "s04_e16_c02_u011",
+      "options": ["ornate", "obese", "obsolete", "overdue"] } ] },
+
+  { "expression": "lax", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "not strict or careful enough",
+    "exchanges": [ { "uid": "s04_e16_c02_u015", "answer": "lax", "responseUid": "s04_e16_c02_u017",
+      "options": ["lax", "lush", "loud", "lunar"] } ] },
+
+  { "expression": "seduce", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to persuade someone to have sex with you",
+    "exchanges": [
+      { "uid": "s04_e16_c05_u063", "answer": "seduce",
+        "options": ["seduce", "deceive", "rescue", "recruit"] },
+      { "uid": "s04_e16_c04_u005", "answer": "seduce",
+        "options": ["seduce", "deceive", "rescue", "recruit"] } ] },
+
+  { "expression": "skit", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a short comic performance",
+    "exchanges": [ { "uid": "s04_e16_c05_u024", "answer": "skit",
+      "options": ["skit", "poll", "menu", "chart"] } ] },
+
+  { "expression": "natural causes", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "illness or old age, rather than an accident or violence, as the reason for a death",
+    "exchanges": [ { "uid": "s04_e16_c07_u010", "answer": "natural causes",
+      "options": ["natural causes", "natural gas", "natural light", "natural resources"] } ] },
+
+  { "expression": "fat lip", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a swollen lip caused by being hit",
+    "exchanges": [ { "uid": "s04_e16_c06_u018", "answer": "fat lip",
+      "options": ["fat lip", "flat tire", "wet blanket", "cold shoulder"] } ] }
+]

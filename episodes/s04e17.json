@@ -1,0 +1,129 @@
+[
+  { "expression": "look out", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "a warning to be careful because something dangerous is coming",
+    "exchanges": [ { "uid": "s04_e17_c02_u021", "answer": "Look out",
+      "options": ["Look out", "Hold on", "Come in", "Sit down"] } ] },
+
+  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to make someone feel happier",
+    "exchanges": [ { "uid": "s04_e17_c03_u009", "answer": "cheer up", "cueUid": "s04_e17_c03_u007",
+      "options": ["cheer up", "calm down", "hurry up", "slow down"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s04_e17_c03_u016", "answer": "hung out",
+      "options": ["hung out", "ran off", "got along", "put up"] } ] },
+
+  { "expression": "show up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to arrive at a place where people are expecting you",
+    "exchanges": [
+      { "uid": "s04_e17_c10_u019", "answer": "Show up", "cueUid": "s04_e17_c10_u017",
+        "options": ["Show up", "Look up", "Give up", "Make up"] },
+      { "uid": "s04_e17_c11_u024", "answer": "show up",
+        "options": ["show up", "look up", "give up", "make up"] } ] },
+
+  { "expression": "flip through", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to look quickly through pages or TV channels without stopping long on any of them",
+    "exchanges": [ { "uid": "s04_e17_c01_u016", "answer": "flipping through",
+      "options": ["flipping through", "running into", "putting off", "turning down"] } ] },
+
+  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start talking about a subject",
+    "exchanges": [ { "uid": "s04_e17_c03_u010", "answer": "brought it up",
+      "options": ["brought it up", "took it off", "gave it in", "set it down"] } ] },
+
+  { "expression": "in a row", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "one after another without a break",
+    "exchanges": [ { "uid": "s04_e17_c05_u005", "answer": "in a row", "responseUid": "s04_e17_c05_u007",
+      "options": ["in a row", "at a time", "on a roll", "by a mile"] } ] },
+
+  { "expression": "drop out of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave school or college before finishing the course",
+    "exchanges": [ { "uid": "s04_e17_c05_u018", "answer": "drop out of",
+      "options": ["drop out of", "sign up for", "look out for", "put up with"] } ] },
+
+  { "expression": "give up on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop hoping for or trying to achieve something",
+    "exchanges": [ { "uid": "s04_e17_c05_u024", "answer": "give up on",
+      "options": ["give up on", "run out of", "look down on", "get back at"] } ] },
+
+  { "expression": "in the first place", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "at all, or from the very beginning; used to say a situation would not have started",
+    "exchanges": [ { "uid": "s04_e17_c10_u006", "answer": "in the first place",
+      "options": ["in the first place", "at the last minute", "on the other hand", "for the time being"] } ] },
+
+  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to laugh at or joke about someone in an unkind way",
+    "exchanges": [ { "uid": "s04_e17_c10_u014", "answer": "made fun of", "responseUid": "s04_e17_c10_u015",
+      "options": ["made fun of", "took care of", "got rid of", "kept track of"] } ] },
+
+  { "expression": "none of your business", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to tell someone that something is private and does not concern them",
+    "exchanges": [ { "uid": "s04_e17_c12_u016", "answer": "none of your business",
+      "options": ["none of your business", "out of your hands", "all in your head", "beyond your control"] } ] },
+
+  { "expression": "lug around", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to carry something heavy from place to place with effort",
+    "exchanges": [ { "uid": "s04_e17_c02_u018", "answer": "lugging around", "cueUid": "s04_e17_c02_u016",
+      "options": ["lugging around", "passing around", "fooling around", "turning around"] } ] },
+
+  { "expression": "come out and say", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to say something directly instead of hinting at it or avoiding it",
+    "exchanges": [ { "uid": "s04_e17_c06_u011", "answer": "come out and say",
+      "options": ["come out and say", "get up and go", "sit down and think", "stand back and watch"] } ] },
+
+  { "expression": "corny", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "silly and old-fashioned in a way that is embarrassing rather than moving",
+    "exchanges": [ { "uid": "s04_e17_c07_u007", "answer": "corny", "responseUid": "s04_e17_c07_u009",
+      "options": ["corny", "cozy", "cocky", "crispy"] } ] },
+
+  { "expression": "dreadful", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "very bad or unpleasant",
+    "exchanges": [ { "uid": "s04_e17_c09_u005", "answer": "dreadful",
+      "options": ["dreadful", "grateful", "peaceful", "cheerful"] } ] },
+
+  { "expression": "talk someone into", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to persuade someone to do something they were not planning to do",
+    "exchanges": [ { "uid": "s04_e17_c10_u006", "answer": "talk me into",
+      "options": ["talk me into", "put me onto", "get me over", "let me down"] } ] },
+
+  { "expression": "sit back", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to do nothing and let things happen instead of taking action",
+    "exchanges": [ { "uid": "s04_e17_c10_u015", "answer": "sat back", "responseUid": "s04_e17_c10_u017",
+      "options": ["sat back", "stood up", "ran off", "held on"] } ] },
+
+  { "expression": "moron", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a very stupid person (an insult)",
+    "exchanges": [ { "uid": "s04_e17_c11_u021", "answer": "moron",
+      "options": ["moron", "genius", "coward", "tyrant"] } ] },
+
+  { "expression": "live out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to actually do something you have dreamed about",
+    "exchanges": [ { "uid": "s04_e17_c03_u013", "answer": "live out",
+      "options": ["live out", "act up", "carry on", "give off"] } ] },
+
+  { "expression": "heat up", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to become more intense or passionate",
+    "exchanges": [ { "uid": "s04_e17_c03_u025", "answer": "heat up", "responseUid": null,
+      "options": ["heat up", "cool off", "wear out", "break down"] } ] },
+
+  { "expression": "play hard to get", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to pretend not to be interested in someone so that they want you more",
+    "exchanges": [ { "uid": "s04_e17_c07_u028", "answer": "play hard to get",
+      "options": ["play hard to get", "take long to come", "keep close to home", "stay out of reach"] } ] },
+
+  { "expression": "sweatshop", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a factory where people work very long hours for very low pay",
+    "exchanges": [ { "uid": "s04_e17_c05_u017", "answer": "sweatshop",
+      "options": ["sweatshop", "workshop", "bookshop", "pawnshop"] } ] },
+
+  { "expression": "insider trading", "type": "phrase", "level": "expert", "pos": "noun",
+    "meaning": "illegally buying or selling shares using secret information from inside a company",
+    "exchanges": [ { "uid": "s04_e17_c07_u016", "answer": "insider trading",
+      "options": ["insider trading", "online banking", "foreign exchange", "outdoor shopping"] } ] },
+
+  { "expression": "bugger off", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "go away (a rude British expression)",
+    "exchanges": [ { "uid": "s04_e17_c12_u016", "answer": "bugger off",
+      "options": ["bugger off", "cheer up", "hang on", "turn in"] } ] }
+]

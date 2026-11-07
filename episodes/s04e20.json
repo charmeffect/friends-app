@@ -1,0 +1,127 @@
+[
+  { "expression": "take a break", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop an activity for a short time to rest",
+    "exchanges": [ { "uid": "s04_e20_c03_u006", "answer": "take a break",
+      "options": ["take a break", "take a hint", "make a scene", "give a hand"] } ] },
+
+  { "expression": "try on", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to put on a piece of clothing to see whether it fits or looks good",
+    "exchanges": [ { "uid": "s04_e20_c04_u008", "answer": "try it on", "responseUid": "s04_e20_c04_u011",
+      "options": ["try it on", "put it off", "take it in", "give it up"] } ] },
+
+  { "expression": "do the dishes", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to wash the plates, cups and pans after a meal",
+    "exchanges": [ { "uid": "s04_e20_c03_u002", "answer": "doing the dishes", "responseUid": "s04_e20_c03_u004",
+      "options": ["doing the dishes", "doing the math", "making the rounds", "taking the stairs"] } ] },
+
+  { "expression": "be proud of", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to feel pleased and satisfied about something you have or have done",
+    "exchanges": [ { "uid": "s04_e20_c02_u009", "answer": "proud of",
+      "options": ["proud of", "fond of", "sick of", "made of"] } ] },
+
+  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to make someone feel happier",
+    "exchanges": [ { "uid": "s04_e20_c12_u035", "answer": "cheer you up",
+      "cueUid": "s04_e20_c12_u032", "responseUid": "s04_e20_c12_u038",
+      "options": ["cheer you up", "calm you down", "wear you out", "turn you off"] } ] },
+
+  { "expression": "exhausted", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "extremely tired",
+    "exchanges": [ { "uid": "s04_e20_c02_u006", "answer": "exhausted",
+      "options": ["exhausted", "excited", "exposed", "expected"] } ] },
+
+  { "expression": "snore", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to breathe noisily through the nose and mouth while sleeping",
+    "exchanges": [ { "uid": "s04_e20_c11_u012", "answer": "snoring", "cueUid": "s04_e20_c11_u009",
+      "options": ["snoring", "snarling", "snooping", "snickering"] } ] },
+
+  { "expression": "handle", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to deal with or be responsible for something",
+    "exchanges": [ { "uid": "s04_e20_c12_u008", "answer": "handling",
+      "options": ["handling", "hiding", "holding", "helping"] } ] },
+
+  { "expression": "hang in there", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "keep going and do not give up during a difficult time",
+    "exchanges": [ { "uid": "s04_e20_c03_u016", "answer": "hang in there", "responseUid": "s04_e20_c03_u018",
+      "options": ["hang in there", "hold on tight", "stay in line", "wait out here"] } ] },
+
+  { "expression": "it's a date", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to confirm that you agree to meet someone at the time suggested",
+    "exchanges": [ { "uid": "s04_e20_c03_u034", "answer": "it's a date",
+      "options": ["it's a date", "it's a shame", "it's a stretch", "it's a tie"] } ] },
+
+  { "expression": "dying to", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "wanting to do something very much",
+    "exchanges": [ { "uid": "s04_e20_c12_u004", "answer": "dying to",
+      "options": ["dying to", "used to", "scared to", "stuck to"] } ] },
+
+  { "expression": "stay up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to not go to bed, remaining awake until late",
+    "exchanges": [ { "uid": "s04_e20_c09_u004", "answer": "stay up",
+      "options": ["stay up", "get up", "stay off", "hold up"] } ] },
+
+  { "expression": "light sleeper", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "a person who wakes up easily at small noises or movements",
+    "exchanges": [ { "uid": "s04_e20_c02_u013", "answer": "light sleeper", "responseUid": "s04_e20_c02_u015",
+      "options": ["light sleeper", "heavy drinker", "early riser", "deep thinker"] } ] },
+
+  { "expression": "run errands", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to go out to do small jobs such as shopping or collecting things",
+    "exchanges": [ { "uid": "s04_e20_c02_u034", "answer": "running errands", "cueUid": "s04_e20_c02_u031",
+      "options": ["running errands", "running late", "running laps", "running wild"] } ] },
+
+  { "expression": "take by surprise", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to happen unexpectedly so that someone is not prepared for it",
+    "exchanges": [ { "uid": "s04_e20_c03_u010", "answer": "took me by surprise", "responseUid": "s04_e20_c03_u013",
+      "options": ["took me by surprise", "took me for granted", "put me on hold", "set me at ease"] } ] },
+
+  { "expression": "rush into", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to start doing something too quickly, without thinking carefully",
+    "exchanges": [ { "uid": "s04_e20_c07_u010", "answer": "rushed into", "cueUid": "s04_e20_c07_u008",
+      "options": ["rushed into", "ran into", "rushed through", "jumped at"] } ] },
+
+  { "expression": "tear down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to destroy a building deliberately",
+    "exchanges": [ { "uid": "s04_e20_c07_u030", "answer": "torn down",
+      "options": ["torn down", "turned down", "worn out", "put down"] } ] },
+
+  { "expression": "on the right track", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "doing something in a way that will lead to a good result",
+    "exchanges": [ { "uid": "s04_e20_c08_u011", "answer": "on the right track", "cueUid": "s04_e20_c08_u009",
+      "options": ["on the right track", "in the fast lane", "up the wrong tree", "off the deep end"] } ] },
+
+  { "expression": "feel blue", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to feel sad and low in spirits",
+    "exchanges": [ { "uid": "s04_e20_c12_u006", "answer": "feel blue",
+      "options": ["feel blue", "see red", "look pale", "turn gray"] } ] },
+
+  { "expression": "coincidence", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "two things happening at the same time by chance, not because one caused the other",
+    "exchanges": [ { "uid": "s04_e20_c09_u021", "answer": "coincidence",
+      "options": ["coincidence", "confidence", "conscience", "consequence"] } ] },
+
+  { "expression": "come on to", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to show someone that you are sexually interested in them",
+    "exchanges": [ { "uid": "s04_e20_c09_u012", "answer": "coming on to", "cueUid": "s04_e20_c09_u009",
+      "options": ["coming on to", "going off on", "giving in to", "looking up to"] } ] },
+
+  { "expression": "squeaky", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "making or having a high, thin, sharp sound",
+    "exchanges": [ { "uid": "s04_e20_c08_u004", "answer": "squeaky",
+      "options": ["squeaky", "sticky", "sloppy", "spotty"] } ] },
+
+  { "expression": "hasty", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "done too quickly, without enough thought",
+    "exchanges": [ { "uid": "s04_e20_c08_u015", "answer": "hasty", "responseUid": "s04_e20_c08_u017",
+      "options": ["hasty", "nasty", "hazy", "tasty"] } ] },
+
+  { "expression": "fill the silence", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to say something only because a pause in conversation feels uncomfortable",
+    "exchanges": [ { "uid": "s04_e20_c02_u003", "answer": "fill these silences",
+      "options": ["fill these silences", "break these habits", "keep these secrets", "waste these moments"] } ] },
+
+  { "expression": "scare easy", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to become frightened or put off very quickly",
+    "exchanges": [ { "uid": "s04_e20_c12_u023", "answer": "scares easy",
+      "options": ["scares easy", "sleeps light", "talks big", "runs late"] } ] }
+]

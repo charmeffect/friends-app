@@ -1,0 +1,538 @@
+[
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u013",
+      "answer": "ran into",
+      "options": [
+        "ran into",
+        "ran off",
+        "came over",
+        "went by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "can't stand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to strongly dislike someone or something",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u030",
+      "answer": "can't stand",
+      "options": [
+        "can't stand",
+        "can't hear",
+        "can't find",
+        "can't reach"
+      ],
+      "cueUid": "s04_e15_c02_u021"
+    }
+  ]
+},
+
+{
+  "expression": "crazy about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very much in love with someone or very enthusiastic about something",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u031",
+      "answer": "crazy about",
+      "options": [
+        "crazy about",
+        "curious about",
+        "nervous about",
+        "careful about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drive someone crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to annoy someone very much over a long time",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u004",
+      "answer": "drive you crazy",
+      "options": [
+        "drive you crazy",
+        "drive you home",
+        "drive you away",
+        "drive you back"
+      ]
+    },
+    {
+      "uid": "s04_e15_c05_u006",
+      "answer": "driving me crazy",
+      "options": [
+        "driving me crazy",
+        "driving me home",
+        "driving me away",
+        "driving me back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "alimony",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "money a person must pay to a former spouse after a divorce",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u019",
+      "answer": "alimony",
+      "options": [
+        "alimony",
+        "harmony",
+        "ceremony",
+        "testimony"
+      ],
+      "cueUid": "s04_e15_c02_u017"
+    }
+  ]
+},
+
+{
+  "expression": "pre-emptive strike",
+  "type": "phrase",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an attack made first to stop an expected problem before it can start",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u036",
+      "answer": "pre-emptive strike",
+      "options": [
+        "pre-emptive strike",
+        "long-term plan",
+        "last-minute call",
+        "short-term fix"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to start with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to give the first and most basic reason for something",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c03_u020",
+      "answer": "to start with",
+      "options": [
+        "to start with",
+        "to end with",
+        "to deal with",
+        "to go with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "meant to be",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "destined to happen, especially said of a relationship",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c04_u006",
+      "answer": "meant to be",
+      "options": [
+        "meant to be",
+        "hard to get",
+        "born to lose",
+        "free to go"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to escape or avoid being caught",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c04_u008",
+      "answer": "get away",
+      "options": [
+        "get away",
+        "get along",
+        "get up",
+        "get by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "soak up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enjoy or absorb as much of something as possible",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c04_u016",
+      "answer": "soak up",
+      "options": [
+        "soak up",
+        "clean up",
+        "pick up",
+        "wrap up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "brutal",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely violent and rough",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c06_u021",
+      "answer": "brutal",
+      "options": [
+        "brutal",
+        "subtle",
+        "formal",
+        "casual"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "handle it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be able to deal with a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c06_u022",
+      "answer": "handle it",
+      "options": [
+        "handle it",
+        "cancel it",
+        "finish it",
+        "forget it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go out with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to date someone; to spend time with someone romantically",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c06_u029",
+      "answer": "go out with",
+      "options": [
+        "go out with",
+        "get on with",
+        "put up with",
+        "go off with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hilarious",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely funny",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c06_u031",
+      "answer": "hilarious",
+      "options": [
+        "hilarious",
+        "furious",
+        "serious",
+        "curious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stay away from",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to keep at a distance from someone or something",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c06_u035",
+      "answer": "stay away from",
+      "options": [
+        "stay away from",
+        "stay ahead of",
+        "look up to",
+        "run out of"
+      ],
+      "cueUid": "s04_e15_c06_u033",
+      "responseUid": "s04_e15_c06_u037"
+    },
+    {
+      "uid": "s04_e15_c07_u002",
+      "answer": "Stay away from",
+      "options": [
+        "Stay away from",
+        "Stay ahead of",
+        "Look up to",
+        "Run out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cut in line",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to unfairly join a queue in front of people who were already waiting",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c07_u015",
+      "answer": "cut in line",
+      "options": [
+        "cut in line",
+        "got in shape",
+        "fell in love",
+        "ran in place"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go easy on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to treat someone gently and not too harshly",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c07_u019",
+      "answer": "go easy on",
+      "options": [
+        "go easy on",
+        "go hard at",
+        "get back at",
+        "look down on"
+      ]
+    },
+    {
+      "uid": "s04_e15_c10_u002",
+      "answer": "go easy on",
+      "options": [
+        "go easy on",
+        "go hard at",
+        "get back at",
+        "look down on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you don't say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a sarcastic reply meaning that what was just said is obvious",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c07_u020",
+      "answer": "You don't say",
+      "options": [
+        "You don't say",
+        "You don't know",
+        "You don't care",
+        "You don't mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bloody",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "a British swear word used to add force to what is said",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c07_u025",
+      "answer": "bloody",
+      "options": [
+        "bloody",
+        "lovely",
+        "tiny",
+        "early"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "saucy",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "slightly rude or sexually suggestive in a playful way",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c08_u005",
+      "answer": "Saucy",
+      "options": [
+        "Saucy",
+        "Crispy",
+        "Greasy",
+        "Chilly"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do someone a favor",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to do something helpful for someone because they ask you to",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c10_u009",
+      "answer": "do me a favour",
+      "options": [
+        "do me a favour",
+        "make me a deal",
+        "give me a break",
+        "show me a sign"
+      ],
+      "cueUid": "s04_e15_c10_u007",
+      "responseUid": "s04_e15_c10_u011"
+    }
+  ]
+},
+
+{
+  "expression": "inflict",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to cause someone to suffer something unpleasant such as pain",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c10_u022",
+      "answer": "inflict",
+      "options": [
+        "inflict",
+        "inspect",
+        "inhale",
+        "insert"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop threatening or bothering someone and move away",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c10_u026",
+      "answer": "back off",
+      "options": [
+        "back off",
+        "show off",
+        "put off",
+        "pay off"
+      ],
+      "cueUid": "s04_e15_c10_u024"
+    }
+  ]
+},
+
+{
+  "expression": "bloke",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a British informal word for a man",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c10_u028",
+      "answer": "bloke",
+      "options": [
+        "bloke",
+        "kid",
+        "cop",
+        "nerd"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "concussion",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a brain injury caused by a hard blow to the head",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c12_u014",
+      "answer": "concussion",
+      "options": [
+        "concussion",
+        "conclusion",
+        "confession",
+        "connection"
+      ]
+    }
+  ]
+}
+]

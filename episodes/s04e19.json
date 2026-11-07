@@ -1,0 +1,129 @@
+[
+  { "expression": "try on", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to put on a piece of clothing to see whether it fits or looks good",
+    "exchanges": [ { "uid": "s04_e19_c02_u021", "answer": "tried them on",
+      "options": ["tried them on", "took them off", "put them away", "gave them back"] } ] },
+
+  { "expression": "a bunch of", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "a large number of things",
+    "exchanges": [ { "uid": "s04_e19_c03_u006", "answer": "a bunch of",
+      "options": ["a bunch of", "a piece of", "a pair of", "a cup of"] } ] },
+
+  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to tell someone to stop asking or to drop the idea",
+    "exchanges": [ { "uid": "s04_e19_c04_u006", "answer": "Forget it",
+      "options": ["Forget it", "Watch it", "Beat it", "Name it"] } ] },
+
+  { "expression": "move in with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start living in the same home as someone",
+    "exchanges": [
+      { "uid": "s04_e19_c04_u030", "answer": "move in with",
+        "options": ["move in with", "move on from", "move out of", "move up to"] },
+      { "uid": "s04_e19_c06_u004", "answer": "Move in with", "responseUid": "s04_e19_c06_u006",
+        "options": ["Move in with", "Move on from", "Move out of", "Move up to"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s04_e19_c05_u024", "answer": "end up", "responseUid": "s04_e19_c05_u026",
+      "options": ["end up", "turn down", "set off", "give in"] } ] },
+
+  { "expression": "take it back", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to withdraw something you have just said, as if you had never said it",
+    "exchanges": [ { "uid": "s04_e19_c06_u015", "answer": "take it back", "cueUid": "s04_e19_c06_u013",
+      "options": ["take it back", "put it down", "give it up", "let it out"] } ] },
+
+  { "expression": "worth it", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "good enough to justify the trouble or cost involved",
+    "exchanges": [ { "uid": "s04_e19_c07_u031", "answer": "worth it",
+      "options": ["worth it", "into it", "over it", "about it"] } ] },
+
+  { "expression": "apparently", "type": "word", "level": "middle", "pos": "adverb",
+    "meaning": "according to what you have heard or read, although it may not be true",
+    "exchanges": [ { "uid": "s04_e19_c03_u019", "answer": "apparently",
+      "options": ["apparently", "eventually", "accidentally", "immediately"] } ] },
+
+  { "expression": "switch back", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to return to the earlier arrangement or position after a change",
+    "exchanges": [ { "uid": "s04_e19_c07_u018", "answer": "switching back",
+      "options": ["switching back", "running off", "handing over", "settling down"] } ] },
+
+  { "expression": "have nothing to do with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to not be involved in or connected with something",
+    "exchanges": [ { "uid": "s04_e19_c07_u016", "answer": "nothing to do with",
+      "options": ["nothing to do with", "nothing to say to", "nothing to ask of", "nothing to hide from"] } ] },
+
+  { "expression": "if it weren't for", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "used to say that something would not have happened without a particular person or thing",
+    "exchanges": [ { "uid": "s04_e19_c02_u008", "answer": "if it weren't for",
+      "options": ["if it weren't for", "as it turned out", "in case it was", "as soon as with"] } ] },
+
+  { "expression": "see it coming", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to realize in advance that something is going to happen",
+    "exchanges": [ { "uid": "s04_e19_c03_u028", "answer": "see that coming",
+      "options": ["see that coming", "get that going", "take that along", "hear that out"] } ] },
+
+  { "expression": "clog", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to block a pipe or drain so that nothing can flow through it",
+    "exchanges": [ { "uid": "s04_e19_c05_u006", "answer": "clogged",
+      "options": ["clogged", "scrubbed", "polished", "painted"] } ] },
+
+  { "expression": "wind up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to end up in a situation, usually without intending to",
+    "exchanges": [ { "uid": "s04_e19_c06_u022", "answer": "wound up",
+      "options": ["wound up", "wore out", "went off", "woke up"] } ] },
+
+  { "expression": "fair and square", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "honestly and completely according to the rules",
+    "exchanges": [ { "uid": "s04_e19_c07_u024", "answer": "fair and square",
+      "options": ["fair and square", "safe and sound", "loud and clear", "short and sweet"] } ] },
+
+  { "expression": "backup", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "something kept ready to be used if the main one fails",
+    "exchanges": [ { "uid": "s04_e19_c07_u026", "answer": "backup",
+      "options": ["backup", "setup", "pickup", "makeup"] } ] },
+
+  { "expression": "winner takes all", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "the person who wins gets everything and the loser gets nothing",
+    "exchanges": [ { "uid": "s04_e19_c05_u023", "answer": "winner takes all", "cueUid": "s04_e19_c05_u019",
+      "options": ["winner takes all", "loser goes first", "player picks one", "dealer calls it"] } ] },
+
+  { "expression": "bachelor pad", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "an apartment where a single man lives",
+    "exchanges": [ { "uid": "s04_e19_c03_u034", "answer": "bachelor pad", "responseUid": "s04_e19_c03_u036",
+      "options": ["bachelor pad", "guest room", "master suite", "garden shed"] } ] },
+
+  { "expression": "impartial", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "not favouring either side in a dispute; fair",
+    "exchanges": [ { "uid": "s04_e19_c05_u035", "answer": "impartial",
+      "options": ["impartial", "immature", "impatient", "impulsive"] } ] },
+
+  { "expression": "hasty", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "done too quickly, without enough thought",
+    "exchanges": [ { "uid": "s04_e19_c07_u055", "answer": "hasty",
+      "options": ["hasty", "lofty", "frosty", "nasty"] } ] },
+
+  { "expression": "peace offering", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a gift given to show that you want to end a disagreement",
+    "exchanges": [ { "uid": "s04_e19_c07_u003", "answer": "peace offering",
+      "options": ["peace offering", "charity package", "farewell gift", "birthday present"] } ] },
+
+  { "expression": "screw", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "used before a name or thing to say rudely that you no longer care about it",
+    "exchanges": [ { "uid": "s04_e19_c05_u011", "answer": "Screw", "responseUid": "s04_e19_c05_u013",
+      "options": ["Screw", "Bless", "Feed", "Paint"] } ] },
+
+  { "expression": "bellyaching", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "complaining in an annoying, persistent way",
+    "exchanges": [ { "uid": "s04_e19_c01_u011", "answer": "bellyaching",
+      "options": ["bellyaching", "backstabbing", "daydreaming", "sleepwalking"] } ] },
+
+  { "expression": "blimey", "type": "word", "level": "expert", "pos": "expression",
+    "meaning": "a British exclamation of surprise",
+    "exchanges": [ { "uid": "s04_e19_c02_u002", "answer": "blimey",
+      "options": ["blimey", "cheers", "pardon", "hooray"] } ] },
+
+  { "expression": "knickers", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "the British word for women's underpants",
+    "exchanges": [ { "uid": "s04_e19_c06_u003", "answer": "knickers", "cueUid": null,
+      "options": ["knickers", "slippers", "mittens", "goggles"] } ] }
+]
