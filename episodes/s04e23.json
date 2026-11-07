@@ -1,0 +1,132 @@
+[
+  { "expression": "hurry up", "type": "colloquial", "level": "elementary", "pos": "verb",
+    "meaning": "to move or act more quickly",
+    "exchanges": [ { "uid": "s04_e23_c01_u002", "answer": "hurry up",
+      "options": ["hurry up", "cheer up", "look up", "grow up"] } ] },
+
+  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to learn or discover a piece of information",
+    "exchanges": [ { "uid": "s04_e23_c04_u022", "answer": "found out",
+      "options": ["found out", "put out", "left out", "ran out"] } ] },
+
+  { "expression": "all by yourself", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "alone, with nobody else",
+    "exchanges": [ { "uid": "s04_e23_c09_u013", "answer": "all by yourself",
+      "options": ["all by yourself", "all over yourself", "all about yourself", "all in yourself"] } ] },
+
+  { "expression": "at the last minute", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "at the latest possible time, just before something happens",
+    "exchanges": [ { "uid": "s04_e23_c04_u011", "answer": "at the last minute",
+      "options": ["at the last minute", "at the first sight", "in the long run", "on the last day"] } ] },
+
+  { "expression": "not the end of the world", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not as serious a problem as it seems",
+    "exchanges": [ { "uid": "s04_e23_c07_u008", "answer": "end of the world",
+      "options": ["end of the world", "top of the hill", "edge of the map", "back of the line"] } ] },
+
+  { "expression": "either way", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "whichever of the two possibilities happens",
+    "exchanges": [ { "uid": "s04_e23_c07_u009", "answer": "either way",
+      "options": ["either way", "each time", "other hand", "both sides"] } ] },
+
+  { "expression": "now or never", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when something must be done immediately or the chance will be lost forever",
+    "exchanges": [ { "uid": "s04_e23_c10_u014", "answer": "now or never",
+      "options": ["now or never", "sooner or later", "more or less", "here or there"] } ] },
+
+  { "expression": "homesick", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "sad because you are away from home and miss it",
+    "exchanges": [ { "uid": "s04_e23_c13_u014", "answer": "homesick",
+      "options": ["homesick", "heartsick", "homeless", "homemade"] } ] },
+
+  { "expression": "put off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to delay something until a later time",
+    "exchanges": [ { "uid": "s04_e23_c10_u006", "answer": "put the wedding off",
+      "options": ["put the wedding off", "put the wedding on", "set the wedding up", "get the wedding over"] } ] },
+
+  { "expression": "postpone", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to arrange for something to happen at a later time than planned",
+    "exchanges": [ { "uid": "s04_e23_c12_u029", "answer": "postpone", "responseUid": "s04_e23_c12_u031",
+      "options": ["postpone", "promote", "prolong", "preserve"] } ] },
+
+  { "expression": "tear down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to destroy a building deliberately",
+    "exchanges": [
+      { "uid": "s04_e23_c04_u014", "answer": "tearing it down",
+        "options": ["tearing it down", "taking it off", "letting it out", "giving it up"] },
+      { "uid": "s04_e23_c04_u024", "answer": "tore it down", "responseUid": null,
+        "options": ["tore it down", "took it away", "let it out", "set it back"] } ] },
+
+  { "expression": "be hard on", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to treat or criticize someone severely",
+    "exchanges": [ { "uid": "s04_e23_c08_u012", "answer": "hard on yourself",
+      "options": ["hard on yourself", "full of yourself", "far from yourself", "late for yourself"] } ] },
+
+  { "expression": "flip out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to suddenly become extremely angry or lose control",
+    "exchanges": [ { "uid": "s04_e23_c12_u037", "answer": "flipped out",
+      "options": ["flipped out", "backed off", "showed up", "turned in"] } ] },
+
+  { "expression": "mess with someone's head", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to confuse someone or upset their thinking on purpose",
+    "exchanges": [ { "uid": "s04_e23_c15_u015", "answer": "mess with his head",
+      "options": ["mess with his head", "stay on his mind", "get in his face", "play by his rules"] } ] },
+
+  { "expression": "spectacular", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "very impressive or dramatic in size or appearance",
+    "exchanges": [ { "uid": "s04_e23_c07_u006", "answer": "spectacular",
+      "options": ["spectacular", "speculative", "specific", "spectral"] } ] },
+
+  { "expression": "flaw", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a fault or weakness in a person or thing",
+    "exchanges": [
+      { "uid": "s04_e23_c13_u002", "answer": "flaw",
+        "options": ["flaw", "flair", "fluke", "flake"] },
+      { "uid": "s04_e23_c11_u014", "answer": "flaws",
+        "options": ["flaws", "flames", "flakes", "fluids"] } ] },
+
+  { "expression": "god forbid", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to stress that you hope something will never happen, often sarcastically",
+    "exchanges": [ { "uid": "s04_e23_c07_u007", "answer": "God forbid",
+      "options": ["God forbid", "Heaven sent", "Fate willing", "Saints alive"] } ] },
+
+  { "expression": "hands down", "type": "colloquial", "level": "college", "pos": "adverb",
+    "meaning": "easily and without any doubt",
+    "exchanges": [ { "uid": "s04_e23_c06_u002", "answer": "Hands down",
+      "options": ["Hands down", "Heads up", "Feet first", "Arms out"] } ] },
+
+  { "expression": "in the market for", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "interested in buying a particular thing",
+    "exchanges": [ { "uid": "s04_e23_c09_u003", "answer": "in the market for", "cueUid": null,
+      "options": ["in the market for", "at the counter for", "on the shelf for", "by the window for"] } ] },
+
+  { "expression": "of all places", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to show surprise that something happens in such an unlikely place",
+    "exchanges": [ { "uid": "s04_e23_c14_u002", "answer": "of all places",
+      "options": ["of all places", "at all costs", "in all honesty", "by all means"] } ] },
+
+  { "expression": "informed decision", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a choice made after learning all the relevant facts",
+    "exchanges": [ { "uid": "s04_e23_c15_u012", "answer": "informed decision",
+      "options": ["informed decision", "informal discussion", "informative lesson", "inferred conclusion"] } ] },
+
+  { "expression": "half-decent", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "of reasonably good quality, though not excellent",
+    "exchanges": [ { "uid": "s04_e23_c10_u012", "answer": "half-decent",
+      "options": ["half-decent", "half-hearted", "half-baked", "half-asleep"] } ] },
+
+  { "expression": "comprehend", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to understand something fully",
+    "exchanges": [ { "uid": "s04_e23_c10_u009", "answer": "comprehends",
+      "options": ["comprehends", "compensates", "complicates", "compromises"] } ] },
+
+  { "expression": "wedgie", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a prank of pulling someone's underwear up hard from behind",
+    "exchanges": [ { "uid": "s04_e23_c08_u006", "answer": "wedgie",
+      "options": ["wedgie", "hickey", "goatee", "mullet"] } ] },
+
+  { "expression": "tepid", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "only slightly warm, said of a liquid",
+    "exchanges": [ { "uid": "s04_e23_c11_u012", "answer": "tepid", "cueUid": "s04_e23_c11_u010",
+      "options": ["tepid", "torrid", "timid", "turbid"] } ] }
+]

@@ -1,0 +1,121 @@
+[
+  { "expression": "be supposed to", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to be expected or required to do something",
+    "exchanges": [ { "uid": "s04_e21_c24_u003", "answer": "supposed to", "responseUid": null,
+      "options": ["supposed to", "willing to", "about to", "used to"] } ] },
+
+  { "expression": "go ahead", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to give someone permission to do what they asked",
+    "exchanges": [ { "uid": "s04_e21_c08_u009", "answer": "go ahead",
+      "options": ["go ahead", "come along", "get away", "move over"] } ] },
+
+  { "expression": "fall in love", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to start to love someone romantically",
+    "exchanges": [ { "uid": "s04_e21_c16_u009", "answer": "fell in love",
+      "options": ["fell in love", "got in line", "ran in place", "kept in touch"] } ] },
+
+  { "expression": "right on time", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "at exactly the time that was planned, not early or late",
+    "exchanges": [ { "uid": "s04_e21_c10_u010", "answer": "right on time",
+      "options": ["right on time", "just in case", "out of breath", "far from here"] } ] },
+
+  { "expression": "look into", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to find out more about something before deciding",
+    "exchanges": [ { "uid": "s04_e21_c01_u018", "answer": "looked into",
+      "options": ["looked into", "looked after", "cut back", "held off"] } ] },
+
+  { "expression": "in charge of", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "responsible for and in control of something",
+    "exchanges": [ { "uid": "s04_e21_c18_u003", "answer": "in charge of",
+      "options": ["in charge of", "in favor of", "in front of", "in spite of"] } ] },
+
+  { "expression": "for God's sake", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to show annoyance or impatience",
+    "exchanges": [ { "uid": "s04_e21_c22_u002", "answer": "for god's sakes", "responseUid": "s04_e21_c22_u004",
+      "options": ["for god's sakes", "by all means", "at any rate", "on my word"] } ] },
+
+  { "expression": "fine by me", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to say that you have no objection to something",
+    "exchanges": [ { "uid": "s04_e21_c26_u003", "answer": "fine by me",
+      "options": ["fine by me", "good for you", "same to you", "right on cue"] } ] },
+
+  { "expression": "in a million years", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used after 'never' to say that something is completely impossible",
+    "exchanges": [ { "uid": "s04_e21_c02_u003", "answer": "in a million years",
+      "options": ["in a million years", "for a thousand miles", "at a hundred bucks", "on a single day"] } ] },
+
+  { "expression": "hang up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a phone call by putting the phone down",
+    "exchanges": [ { "uid": "s04_e21_c21_u004", "answer": "hang up",
+      "options": ["hang up", "turn up", "hang out", "sign off"] } ] },
+
+  { "expression": "compared to", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "when measured against or judged next to someone or something else",
+    "exchanges": [ { "uid": "s04_e21_c11_u020", "answer": "compared to",
+      "options": ["compared to", "according to", "related to", "thanks to"] } ] },
+
+  { "expression": "zoom out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to adjust a camera so that the picture shows a wider area",
+    "exchanges": [ { "uid": "s04_e21_c28_u009", "answer": "zoom out",
+      "options": ["zoom out", "sign out", "turn out", "check out"] } ] },
+
+  { "expression": "adore", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to like or love someone very much",
+    "exchanges": [ { "uid": "s04_e21_c02_u012", "answer": "adore",
+      "options": ["adore", "admit", "adopt", "adjust"] } ] },
+
+  { "expression": "geeky", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "socially awkward and overly interested in technical or unfashionable things",
+    "exchanges": [ { "uid": "s04_e21_c04_u004", "answer": "geeky",
+      "options": ["geeky", "greedy", "gloomy", "grumpy"] } ] },
+
+  { "expression": "cool off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to become calmer after being angry or upset",
+    "exchanges": [ { "uid": "s04_e21_c09_u011", "answer": "cool off",
+      "options": ["cool off", "set off", "call off", "show off"] } ] },
+
+  { "expression": "big time", "type": "colloquial", "level": "high", "pos": "adverb",
+    "meaning": "very much; to a great degree",
+    "exchanges": [ { "uid": "s04_e21_c09_u003", "answer": "big time",
+      "options": ["big time", "old school", "long haul", "full blast"] } ] },
+
+  { "expression": "cost a fortune", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be extremely expensive",
+    "exchanges": [ { "uid": "s04_e21_c16_u007", "answer": "cost him a fortune",
+      "options": ["cost him a fortune", "done him a favor", "made him a killing", "sold him a lemon"] } ] },
+
+  { "expression": "worth the wait", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "good enough to justify the long time spent waiting",
+    "exchanges": [ { "uid": "s04_e21_c23_u003", "answer": "worth the wait",
+      "options": ["worth the wait", "off the hook", "on the fence", "up the creek"] } ] },
+
+  { "expression": "expire", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to come to the end of the period when something is valid",
+    "exchanges": [ { "uid": "s04_e21_c28_u038", "answer": "expired",
+      "options": ["expired", "exploded", "expanded", "explored"] } ] },
+
+  { "expression": "commitment", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a promise or decision that ties you to someone or something for a long time",
+    "exchanges": [ { "uid": "s04_e21_c14_u003", "answer": "commitment",
+      "options": ["commitment", "compliment", "complaint", "competition"] } ] },
+
+  { "expression": "own up to", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to admit that you did something wrong",
+    "exchanges": [ { "uid": "s04_e21_c12_u002", "answer": "owned up to",
+      "options": ["owned up to", "made up for", "put up with", "came up with"] } ] },
+
+  { "expression": "trimester", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "one of the three periods of about three months into which a pregnancy is divided",
+    "exchanges": [ { "uid": "s04_e21_c15_u011", "answer": "trimester",
+      "options": ["trimester", "semester", "trilogy", "diameter"] } ] },
+
+  { "expression": "closure", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the feeling that a painful experience is finally finished and you can move on",
+    "exchanges": [ { "uid": "s04_e21_c20_u002", "answer": "closure", "responseUid": "s04_e21_c21_u002",
+      "options": ["closure", "clutter", "cluster", "clearance"] } ] },
+
+  { "expression": "the ship has sailed", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "it is too late; the chance has already passed",
+    "exchanges": [ { "uid": "s04_e21_c08_u007", "answer": "ship has sailed",
+      "options": ["ship has sailed", "bridge has burned", "tide has turned", "well has dried"] } ] }
+]

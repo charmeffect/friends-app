@@ -1,0 +1,557 @@
+[
+{
+  "expression": "sick of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "annoyed and bored by something that has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c01_u004",
+      "answer": "sick of",
+      "options": [
+        "sick of",
+        "short of",
+        "full of",
+        "made of"
+      ]
+    },
+    {
+      "uid": "s04_e22_c15_u006",
+      "answer": "sick of",
+      "options": [
+        "sick of",
+        "short of",
+        "full of",
+        "made of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mood swings",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "sudden changes in how someone feels, from happy to angry or sad",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c01_u007",
+      "answer": "mood swings",
+      "options": [
+        "mood swings",
+        "mood rings",
+        "mood boards",
+        "mood lights"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "best man",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the male friend or relative who stands beside the groom and helps him at his wedding",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c02_u008",
+      "answer": "best man",
+      "options": [
+        "best man",
+        "right man",
+        "front man",
+        "old man"
+      ]
+    },
+    {
+      "uid": "s04_e22_c16_u017",
+      "answer": "best man",
+      "options": [
+        "best man",
+        "front man",
+        "right man",
+        "old man"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bachelor party",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a party for a man and his male friends held shortly before his wedding",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c03_u019",
+      "answer": "bachelor party",
+      "options": [
+        "bachelor party",
+        "search party",
+        "block party",
+        "tea party"
+      ]
+    },
+    {
+      "uid": "s04_e22_c04_u010",
+      "answer": "bachelor party",
+      "options": [
+        "bachelor party",
+        "search party",
+        "block party",
+        "garden party"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how come",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "why; used to ask the reason for something in casual speech",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c03_u018",
+      "answer": "how come",
+      "options": [
+        "how come",
+        "what for",
+        "since when",
+        "so what"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stripper",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a performer who takes off their clothes to entertain an audience",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c03_u023",
+      "answer": "strippers",
+      "cueUid": "s04_e22_c03_u021",
+      "responseUid": "s04_e22_c03_u025",
+      "options": [
+        "strippers",
+        "lawyers",
+        "singers",
+        "drivers"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in terms of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say which aspect of something you are talking about",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c04_u004",
+      "answer": "in terms of",
+      "options": [
+        "in terms of",
+        "in spite of",
+        "in front of",
+        "in case of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "geek",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c04_u006",
+      "answer": "geeks",
+      "options": [
+        "geeks",
+        "thugs",
+        "brats",
+        "snobs"
+      ]
+    },
+    {
+      "uid": "s04_e22_c07_u019",
+      "answer": "geeks",
+      "options": [
+        "geeks",
+        "thugs",
+        "brats",
+        "snobs"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c04_u014",
+      "answer": "hanging out",
+      "options": [
+        "hanging out",
+        "hanging up",
+        "hanging on",
+        "hanging back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mellow",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "calm, relaxed, and not wild or loud",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c04_u017",
+      "answer": "mellow",
+      "options": [
+        "mellow",
+        "fancy",
+        "tidy",
+        "spicy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "baby shower",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a party where friends give gifts to a woman who is about to have a baby",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c05_u009",
+      "answer": "baby shower",
+      "options": [
+        "baby shower",
+        "baby boom",
+        "baby step",
+        "baby talk"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good call",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that their decision or suggestion was a good one",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c07_u004",
+      "answer": "Good call",
+      "cueUid": "s04_e22_c07_u002",
+      "options": [
+        "Good call",
+        "Nice try",
+        "No way",
+        "My bad"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "party favor",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a small gift given to each guest at a party",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c07_u011",
+      "answer": "party favours",
+      "options": [
+        "party favours",
+        "party poopers",
+        "party tricks",
+        "party animals"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a tad",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "slightly; a little bit",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c10_u005",
+      "answer": "a tad",
+      "options": [
+        "a tad",
+        "a heap",
+        "a load",
+        "a mile"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "waterworks",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "crying, especially tears that seem exaggerated or meant to get sympathy",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c10_u019",
+      "answer": "water works",
+      "options": [
+        "water works",
+        "fire drills",
+        "light shows",
+        "road blocks"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a blast",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a very enjoyable and exciting experience or event",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c11_u006",
+      "answer": "had a blast",
+      "options": [
+        "had a blast",
+        "had a fit",
+        "had a go",
+        "had a say"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "irreplaceable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "too special or valuable to be replaced if lost",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c11_u011",
+      "answer": "irreplaceable",
+      "options": [
+        "irreplaceable",
+        "irresistible",
+        "irrelevant",
+        "irresponsible"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turn in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to report someone to the police or other authorities",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c11_u018",
+      "answer": "turn me in",
+      "options": [
+        "turn me in",
+        "turn me on",
+        "turn me down",
+        "turn me off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look into",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to investigate or examine a problem or situation",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c11_u020",
+      "answer": "look into",
+      "options": [
+        "look into",
+        "look after",
+        "look around",
+        "look upon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "false labor",
+  "type": "phrase",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "pains late in pregnancy that feel like childbirth starting but are not",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c12_u015",
+      "answer": "false labour",
+      "options": [
+        "false labour",
+        "false teeth",
+        "false start",
+        "false pretence"
+      ]
+    },
+    {
+      "uid": "s04_e22_c15_u002",
+      "answer": "false labour",
+      "options": [
+        "false labour",
+        "false teeth",
+        "false start",
+        "false pretence"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nightstand",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a small table placed next to a bed",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c13_u011",
+      "answer": "nightstand",
+      "options": [
+        "nightstand",
+        "nightgown",
+        "nightmare",
+        "nightclub"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you got it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree to do what someone has just asked or suggested",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c04_u015",
+      "answer": "You got it",
+      "options": [
+        "You got it",
+        "You lost me",
+        "You made it",
+        "You name it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just kidding",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that what you just said or did was a joke",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c15_u024",
+      "answer": "Just kidding",
+      "cueUid": "s04_e22_c15_u022",
+      "responseUid": "s04_e22_c15_u027",
+      "options": [
+        "Just kidding",
+        "Just asking",
+        "Just saying",
+        "Just checking"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to disappoint someone by failing to do what they expected of you",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c16_u015",
+      "answer": "let you down",
+      "options": [
+        "let you down",
+        "let you go",
+        "let you in",
+        "let you off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wuss",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a weak, cowardly person",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c16_u027",
+      "answer": "wuss",
+      "responseUid": null,
+      "options": [
+        "wuss",
+        "hunk",
+        "brat",
+        "snob"
+      ]
+    }
+  ]
+}
+]
