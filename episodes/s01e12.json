@@ -1,0 +1,126 @@
+[
+  { "expression": "never mind", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "forget what I just said; it does not matter",
+    "exchanges": [ { "uid": "s01_e12_c04_u036", "answer": "never mind", "cueUid": "s01_e12_c04_u034", "responseUid": null,
+      "options": ["never mind", "no wonder", "so long", "well done"] } ] },
+
+  { "expression": "get started", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to begin doing something",
+    "exchanges": [ { "uid": "s01_e12_c06_u009", "answer": "get started",
+      "options": ["get started", "get over", "get along", "get away"] } ] },
+
+  { "expression": "move out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to leave the place where you live and go to live somewhere else",
+    "exchanges": [ { "uid": "s01_e12_c10_u003", "answer": "moving out",
+      "options": ["moving out", "moving on", "giving up", "working out"] } ] },
+
+  { "expression": "what's the matter", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "what is wrong; asked when someone seems upset",
+    "exchanges": [ { "uid": "s01_e12_c07_u014", "answer": "what's the matter",
+      "options": ["what's the matter", "what's the point", "what's the catch", "what's the time"] } ] },
+
+  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said sarcastically to show that something is not important",
+    "exchanges": [ { "uid": "s01_e12_c02_u024", "answer": "big deal", "cueUid": "s01_e12_c02_u021",
+      "options": ["big deal", "big time", "fat chance", "long shot"] } ] },
+
+  { "expression": "folks", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "your parents",
+    "exchanges": [ { "uid": "s01_e12_c04_u034", "answer": "folks", "responseUid": "s01_e12_c04_u036",
+      "options": ["folks", "fellows", "guys", "mates"] } ] },
+
+  { "expression": "split", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to share the cost of something between people",
+    "exchanges": [ { "uid": "s01_e12_c05_u008", "answer": "split",
+      "options": ["split", "swap", "spill", "stack"] } ] },
+
+  { "expression": "all of a sudden", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "suddenly and unexpectedly",
+    "exchanges": [ { "uid": "s01_e12_c08_u009", "answer": "all of a sudden",
+      "options": ["all of a sudden", "all the same", "all in all", "all the way"] } ] },
+
+  { "expression": "be sick of", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "to be tired of and annoyed by something you have had too much of",
+    "exchanges": [ { "uid": "s01_e12_c14_u024", "answer": "sick of", "cueUid": "s01_e12_c14_u021",
+      "options": ["sick of", "full of", "short of", "aware of"] } ] },
+
+  { "expression": "heads up", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "a warning shouted so someone looks up and avoids something coming at them",
+    "exchanges": [ { "uid": "s01_e12_c11_u007", "answer": "Heads up", "responseUid": null,
+      "options": ["Heads up", "Hands down", "Bottoms up", "Thumbs up"] } ] },
+
+  { "expression": "deserve", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be worthy of something because of who you are or what you have done",
+    "exchanges": [ { "uid": "s01_e12_c14_u021", "answer": "deserve",
+      "options": ["deserve", "desire", "deliver", "describe"] } ] },
+
+  { "expression": "fling", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a short, casual romantic relationship that is not meant to be serious",
+    "exchanges": [ { "uid": "s01_e12_c02_u027", "answer": "fling", "cueUid": "s01_e12_c02_u024",
+      "options": ["fling", "flop", "flaw", "flare"] } ] },
+
+  { "expression": "commitment", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a promise or decision that ties you to someone or something for a long time",
+    "exchanges": [ { "uid": "s01_e12_c05_u013", "answer": "commitment",
+      "options": ["commitment", "compliment", "complement", "component"] } ] },
+
+  { "expression": "push back", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to move an appointment or event to a later time",
+    "exchanges": [ { "uid": "s01_e12_c06_u001", "answer": "pushed back",
+      "options": ["pushed back", "pushed over", "held back", "cut back"] } ] },
+
+  { "expression": "make a move on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to try to start something romantic or sexual with someone",
+    "exchanges": [ { "uid": "s01_e12_c07_u023", "answer": "made a move on",
+      "options": ["made a move on", "made a point of", "made a note of", "made a run for"] } ] },
+
+  { "expression": "hit on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to talk or act in a way that shows you want a romantic or sexual relationship with someone",
+    "exchanges": [ { "uid": "s01_e12_c12_u005", "answer": "hit on",
+      "options": ["hit on", "hit up", "took on", "let on"] } ] },
+
+  { "expression": "take it well", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to react calmly to bad news instead of getting upset",
+    "exchanges": [ { "uid": "s01_e12_c13_u001", "answer": "took it pretty well",
+      "options": ["took it pretty well", "made it pretty clear", "left it pretty late", "got it pretty wrong"] } ] },
+
+  { "expression": "overwhelmed", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "feeling that something is too much to deal with emotionally",
+    "exchanges": [ { "uid": "s01_e12_c14_u013", "answer": "overwhelmed",
+      "options": ["overwhelmed", "overlooked", "overrated", "overworked"] } ] },
+
+  { "expression": "out of sorts", "type": "colloquial", "level": "college", "pos": "adjective",
+    "meaning": "slightly unwell or in a bad mood for no clear reason",
+    "exchanges": [ { "uid": "s01_e12_c07_u015", "answer": "out of sorts",
+      "options": ["out of sorts", "out of hand", "out of order", "out of stock"] } ] },
+
+  { "expression": "make a pass at", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to try to start a sexual relationship with someone, usually unwanted",
+    "exchanges": [ { "uid": "s01_e12_c10_u015", "answer": "made a pass at", "cueUid": "s01_e12_c10_u013", "responseUid": null,
+      "options": ["made a pass at", "made a dash for", "made a case for", "made a stop at"] } ] },
+
+  { "expression": "distraught", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "extremely upset and unable to think clearly",
+    "exchanges": [ { "uid": "s01_e12_c13_u009", "answer": "distraught", "responseUid": null,
+      "options": ["distraught", "distinct", "disputed", "dissolved"] } ] },
+
+  { "expression": "pick up the pieces", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to help someone recover and return to normal after something bad has happened",
+    "exchanges": [ { "uid": "s01_e12_c13_u009", "answer": "pick up the pieces", "responseUid": null,
+      "options": ["pick up the pieces", "put down the roots", "call off the dogs", "run up the bill"] } ] },
+
+  { "expression": "swear off", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to promise yourself to give something up completely",
+    "exchanges": [ { "uid": "s01_e12_c14_u034", "answer": "swearing off",
+      "options": ["swearing off", "swearing in", "sorting out", "sticking up"] } ] },
+
+  { "expression": "swoop in", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to move in quickly and suddenly to take an opportunity",
+    "exchanges": [ { "uid": "s01_e12_c13_u006", "answer": "swoop in",
+      "options": ["swoop in", "swing by", "sink in", "set in"] } ] },
+
+  { "expression": "leave little to the imagination", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to show or reveal so much that nothing is left to guess about",
+    "exchanges": [ { "uid": "s01_e12_c05_u007", "answer": "imagination",
+      "options": ["imagination", "investigation", "explanation", "conversation"] } ] }
+]

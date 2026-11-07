@@ -1,0 +1,130 @@
+[
+  { "expression": "get going", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to leave or start moving, usually because it is time to go",
+    "exchanges": [ { "uid": "s01_e13_c04_u034", "answer": "get going",
+      "options": ["get going", "get lost", "get along", "get around"] },
+      { "uid": "s01_e13_c06_u013", "answer": "get going",
+      "options": ["get going", "get even", "get through", "get ahead"] } ] },
+
+  { "expression": "what's the matter", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "a question asking what is wrong with someone or something",
+    "exchanges": [ { "uid": "s01_e13_c04_u015", "answer": "the matter", "responseUid": "s01_e13_c04_u017",
+      "options": ["the matter", "the point", "the case", "the thing"] },
+      { "uid": "s01_e13_c08_u019", "answer": "the matter",
+      "options": ["the matter", "the reason", "the story", "the plan"] } ] },
+
+  { "expression": "be all out of", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to have none of something left",
+    "exchanges": [ { "uid": "s01_e13_c02_u014", "answer": "all out of",
+      "options": ["all out of", "all up on", "all in with", "all off to"] } ] },
+
+  { "expression": "change the subject", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start talking about something different, often to avoid an awkward topic",
+    "exchanges": [ { "uid": "s01_e13_c02_u020", "answer": "change the subject",
+      "options": ["change the subject", "raise the question", "make the point", "take the floor"] } ] },
+
+  { "expression": "keep an eye on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to watch someone carefully to make sure they behave or stay safe",
+    "exchanges": [ { "uid": "s01_e13_c06_u021", "answer": "keep an eye on", "responseUid": "s01_e13_c06_u023",
+      "options": ["keep an eye on", "lend a hand to", "give a ring to", "put a stop to"] } ] },
+
+  { "expression": "garbage", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "ideas or talk that are nonsense and worthless",
+    "exchanges": [ { "uid": "s01_e13_c10_u004", "answer": "garbage",
+      "options": ["garbage", "luggage", "cabbage", "bandage"] } ] },
+
+  { "expression": "creepy", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "making you feel uneasy or slightly frightened in an unpleasant way",
+    "exchanges": [ { "uid": "s01_e13_c11_u008", "answer": "creepy", "cueUid": "s01_e13_c11_u006", "responseUid": "s01_e13_c11_u011",
+      "options": ["creepy", "crispy", "chubby", "cheesy"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s01_e13_c09_u013", "answer": "freaks you out",
+      "options": ["freaks you out", "shows you off", "calms you down", "wears you out"] } ] },
+
+  { "expression": "barge in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to enter a room rudely and suddenly without asking",
+    "exchanges": [ { "uid": "s01_e13_c01_u001", "answer": "barge in",
+      "options": ["barge in", "hand in", "turn in", "fill in"] } ] },
+
+  { "expression": "better off", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "in a better situation than you would be otherwise",
+    "exchanges": [ { "uid": "s01_e13_c02_u037", "answer": "better off",
+      "options": ["better off", "well off", "far off", "cut off"] } ] },
+
+  { "expression": "big time", "type": "colloquial", "level": "high", "pos": "adverb",
+    "meaning": "very much; to a great degree",
+    "exchanges": [ { "uid": "s01_e13_c03_u012", "answer": "big time",
+      "options": ["big time", "high speed", "long run", "hard way"] } ] },
+
+  { "expression": "break it off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to end a romantic relationship",
+    "exchanges": [ { "uid": "s01_e13_c06_u030", "answer": "break it off",
+      "options": ["break it off", "turn it off", "take it off", "wear it off"] } ] },
+
+  { "expression": "under someone's roof", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "living in someone's home, and therefore expected to follow their rules",
+    "exchanges": [ { "uid": "s01_e13_c06_u023", "answer": "under my roof",
+      "options": ["under my roof", "over my head", "behind my back", "beside my point"] } ] },
+
+  { "expression": "guts", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "the courage and determination to do something difficult",
+    "exchanges": [ { "uid": "s01_e13_c07_u009", "answer": "guts",
+      "options": ["guts", "bones", "lungs", "limbs"] } ] },
+
+  { "expression": "screwed up", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "ruined or in a bad, confused state",
+    "exchanges": [ { "uid": "s01_e13_c10_u012", "answer": "screwed up",
+      "options": ["screwed up", "lined up", "dressed up", "signed up"] } ] },
+
+  { "expression": "suck up to", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to flatter and please someone in authority so that they will favour you",
+    "exchanges": [ { "uid": "s01_e13_c04_u030", "answer": "sucking up to",
+      "options": ["sucking up to", "catching up to", "adding up to", "owning up to"] } ] },
+
+  { "expression": "textbook", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "exactly like the typical, predictable example described in books",
+    "exchanges": [ { "uid": "s01_e13_c02_u032", "answer": "textbook",
+      "options": ["textbook", "handbook", "notebook", "cookbook"] } ] },
+
+  { "expression": "you're one to talk", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to someone who criticizes a fault that they have themselves",
+    "exchanges": [ { "uid": "s01_e13_c03_u011", "answer": "one to talk",
+      "options": ["one to talk", "one to go", "one to watch", "one to know"] } ] },
+
+  { "expression": "come clean with", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to finally tell someone the truth about something you have hidden",
+    "exchanges": [ { "uid": "s01_e13_c06_u032", "answer": "come clean with",
+      "options": ["come clean with", "come through with", "come across with", "come down with"] } ] },
+
+  { "expression": "sabotage", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to deliberately damage or ruin something so that it fails",
+    "exchanges": [ { "uid": "s01_e13_c04_u025", "answer": "sabotage",
+      "options": ["sabotage", "simulate", "supervise", "sponsor"] } ] },
+
+  { "expression": "restraining order", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a court order that forbids a person from approaching or contacting someone",
+    "exchanges": [ { "uid": "s01_e13_c12_u002", "answer": "restraining order", "responseUid": "s01_e13_c12_u004",
+      "options": ["restraining order", "standing order", "shipping order", "working order"] } ] },
+
+  { "expression": "go the distance", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to keep going until something is completed, such as staying in a relationship for life",
+    "exchanges": [ { "uid": "s01_e13_c07_u006", "answer": "go the distance",
+      "options": ["go the distance", "run the show", "hit the road", "call the shots"] } ] },
+
+  { "expression": "not know someone from Adam", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to have no idea who someone is because you have never met them",
+    "exchanges": [ { "uid": "s01_e13_c02_u030", "answer": "Adam",
+      "options": ["Adam", "Moses", "Noah", "Abel"] } ] },
+
+  { "expression": "tit for tat", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "doing something bad to someone because they did the same to you",
+    "exchanges": [ { "uid": "s01_e13_c04_u007", "answer": "Tit for tat", "responseUid": null,
+      "options": ["Tit for tat", "Dog eat dog", "Hit or miss", "Win or lose"] } ] },
+
+  { "expression": "stand-up guy", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "an honest, loyal man who does the right thing",
+    "exchanges": [ { "uid": "s01_e13_c07_u006", "answer": "stand-up guy",
+      "options": ["stand-up guy", "sit-down guy", "run-down guy", "mixed-up guy"] } ] }
+]

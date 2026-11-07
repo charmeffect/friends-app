@@ -1,0 +1,126 @@
+[
+  { "expression": "never mind", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "forget what I just said; it is not important anymore",
+    "exchanges": [ { "uid": "s01_e15_c03_u005", "answer": "Never mind", "cueUid": "s01_e15_c03_u001",
+      "options": ["Never mind", "No way", "Not yet", "Nice try"] } ] },
+
+  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to date someone; to spend time with someone romantically",
+    "exchanges": [ { "uid": "s01_e15_c04_u025", "answer": "going out with",
+      "options": ["going out with", "getting on with", "running off with", "putting up with"] } ] },
+
+  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to make someone feel happier",
+    "exchanges": [ { "uid": "s01_e15_c06_u013", "answer": "cheer you up",
+      "options": ["cheer you up", "fill you in", "put you off", "show you around"] } ] },
+
+  { "expression": "check this out", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "look at this; said to draw attention to something interesting",
+    "exchanges": [ { "uid": "s01_e15_c09_u007", "answer": "Check this out", "responseUid": "s01_e15_c09_u009",
+      "options": ["Check this out", "Put this on", "Take this in", "Turn this off"] } ] },
+
+  { "expression": "promotion", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a move to a higher, more important position at work",
+    "exchanges": [ { "uid": "s01_e15_c03_u014", "answer": "promotion",
+      "options": ["promotion", "prescription", "precaution", "procession"] } ] },
+
+  { "expression": "have nothing to do with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to not be involved in or connected with something",
+    "exchanges": [ { "uid": "s01_e15_c02_u004", "answer": "nothing to do with", "responseUid": null,
+      "options": ["nothing to do with", "nothing to get from", "nothing to look at", "nothing to put on"] } ] },
+
+  { "expression": "audition", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a short performance an actor gives to try to get a part",
+    "exchanges": [ { "uid": "s01_e15_c04_u016", "answer": "audition",
+      "options": ["audition", "addition", "ambition", "auction"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s01_e15_c08_u002", "answer": "ended up",
+      "options": ["ended up", "came off", "got by", "set out"] } ] },
+
+  { "expression": "I'm with you", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "I understand and agree with what you are saying",
+    "exchanges": [ { "uid": "s01_e15_c11_u015", "answer": "with you",
+      "options": ["with you", "for you", "on you", "at you"] } ] },
+
+  { "expression": "catch a movie", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to go and see a film, usually casually or on short notice",
+    "exchanges": [ { "uid": "s01_e15_c12_u016", "answer": "catch",
+      "options": ["catch", "fetch", "hold", "reach"] } ] },
+
+  { "expression": "the hell", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "added after a question word to show annoyance or impatience",
+    "exchanges": [ { "uid": "s01_e15_c12_u018", "answer": "the hell", "responseUid": null,
+      "options": ["the hell", "the hill", "the hole", "the hall"] } ] },
+
+  { "expression": "flattering", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "making someone look more attractive than usual",
+    "exchanges": [ { "uid": "s01_e15_c02_u002", "answer": "flattering",
+      "options": ["flattering", "flickering", "fluttering", "flavoring"] } ] },
+
+  { "expression": "formerly", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "in the past; before the present time",
+    "exchanges": [ { "uid": "s01_e15_c04_u015", "answer": "formerly",
+      "options": ["formerly", "formally", "firmly", "fairly"] } ] },
+
+  { "expression": "seal the deal", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make an agreement or success final and certain",
+    "exchanges": [ { "uid": "s01_e15_c04_u034", "answer": "seal the deal", "responseUid": null,
+      "options": ["seal the deal", "call the shots", "hold the fort", "spill the beans"] } ] },
+
+  { "expression": "brag", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to talk too proudly about what you have done or own",
+    "exchanges": [ { "uid": "s01_e15_c06_u027", "answer": "brag", "responseUid": null,
+      "options": ["brag", "bluff", "blush", "bolt"] } ] },
+
+  { "expression": "root for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to support someone and hope they succeed",
+    "exchanges": [ { "uid": "s01_e15_c08_u037", "answer": "rooting for",
+      "options": ["rooting for", "falling for", "heading for", "settling for"] } ] },
+
+  { "expression": "cubicle", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a small partitioned workspace in an open-plan office",
+    "exchanges": [ { "uid": "s01_e15_c09_u002", "answer": "cubicle",
+      "options": ["cubicle", "cabinet", "cathedral", "cupboard"] } ] },
+
+  { "expression": "cuddle", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to hold someone close in your arms to show affection",
+    "exchanges": [ { "uid": "s01_e15_c12_u014", "answer": "cuddled",
+      "options": ["cuddled", "huddled", "giggled", "wrestled"] } ] },
+
+  { "expression": "aptitude", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a natural ability to do or learn something",
+    "exchanges": [ { "uid": "s01_e15_c06_u009", "answer": "aptitude",
+      "options": ["aptitude", "attitude", "altitude", "amplitude"] } ] },
+
+  { "expression": "metaphorically", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "using words in a figurative way rather than literally",
+    "exchanges": [ { "uid": "s01_e15_c04_u031", "answer": "metaphorically",
+      "options": ["metaphorically", "mechanically", "methodically", "magnetically"] } ] },
+
+  { "expression": "bail", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to back out of a commitment at the last minute",
+    "exchanges": [ { "uid": "s01_e15_c10_u003", "answer": "bailed",
+      "options": ["bailed", "barked", "bluffed", "boasted"] } ] },
+
+  { "expression": "elaborate", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "very detailed and carefully planned, with many parts",
+    "exchanges": [ { "uid": "s01_e15_c12_u011", "answer": "elaborate",
+      "options": ["elaborate", "elastic", "electric", "eligible"] } ] },
+
+  { "expression": "chick magnet", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a man or thing that attracts women easily",
+    "exchanges": [ { "uid": "s01_e15_c04_u034", "answer": "chick magnet", "responseUid": null,
+      "options": ["chick magnet", "dude catcher", "girl trap", "date maker"] } ] },
+
+  { "expression": "play hardball", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to negotiate in a tough, uncompromising way",
+    "exchanges": [ { "uid": "s01_e15_c08_u041", "answer": "playing hardball", "cueUid": "s01_e15_c08_u038", "responseUid": null,
+      "options": ["playing hardball", "talking shop", "cutting corners", "dropping hints"] } ] },
+
+  { "expression": "tool", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a stupid or unpleasant person; an insult",
+    "exchanges": [ { "uid": "s01_e15_c12_u001", "answer": "tool",
+      "options": ["tool", "toll", "tale", "tune"] } ] }
+]

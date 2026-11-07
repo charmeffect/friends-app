@@ -1,0 +1,126 @@
+[
+  { "expression": "take a break", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop an activity for a short time to rest",
+    "exchanges": [ { "uid": "s01_e10_c02_u041", "answer": "take a short break",
+      "options": ["take a short break", "make a short stop", "have a short talk", "give a short wave"] } ] },
+
+  { "expression": "show up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to arrive at a place where people are expecting you",
+    "exchanges": [ { "uid": "s01_e10_c07_u012", "answer": "showed up",
+      "options": ["showed up", "showed off", "backed up", "made up"] } ] },
+
+  { "expression": "last chance", "type": "phrase", "level": "elementary", "pos": "noun",
+    "meaning": "the final opportunity to do something before it is too late",
+    "exchanges": [ { "uid": "s01_e10_c07_u045", "answer": "last chance",
+      "options": ["last chance", "next step", "first move", "long shot"] } ] },
+
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to end successfully or in the way that was planned",
+    "exchanges": [ { "uid": "s01_e10_c07_u076", "answer": "worked out",
+      "options": ["worked out", "worked up", "worked off", "worked over"] } ] },
+
+  { "expression": "you wish", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to tell someone that what they just said is not true and will not happen",
+    "exchanges": [ { "uid": "s01_e10_c02_u014", "answer": "you wish",
+      "options": ["you wish", "you bet", "you rock", "you lose"] } ] },
+
+  { "expression": "sick of", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "annoyed and bored by something that has gone on too long",
+    "exchanges": [ { "uid": "s01_e10_c02_u015", "answer": "sick of",
+      "options": ["sick of", "fond of", "made of", "short of"] } ] },
+
+  { "expression": "speak up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to talk more loudly so that people can hear you",
+    "exchanges": [ { "uid": "s01_e10_c02_u035", "answer": "speak up",
+      "options": ["speak up", "speak out", "stand up", "shut up"] } ] },
+
+  { "expression": "pack your bags", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to put your things in a suitcase because you are leaving for a trip",
+    "exchanges": [ { "uid": "s01_e10_c05_u034", "answer": "pack his bags", "responseUid": "s01_e10_c05_u036",
+      "options": ["pack his bags", "fill his boots", "wrap his boxes", "lock his doors"] } ] },
+
+  { "expression": "jerk", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a stupid or unpleasant person who treats others badly",
+    "exchanges": [ { "uid": "s01_e10_c07_u019", "answer": "Jerk",
+      "options": ["Jerk", "Jock", "Junk", "Jolt"] } ] },
+
+  { "expression": "pathetic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "sad and hopeless in a way that makes others feel pity or scorn",
+    "exchanges": [ { "uid": "s01_e10_c02_u013", "answer": "pathetic",
+      "options": ["pathetic", "patriotic", "pathological", "patient"] } ] },
+
+  { "expression": "slap in the face", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "an action that insults or disappoints someone badly",
+    "exchanges": [ { "uid": "s01_e10_c02_u010", "answer": "slap in the face",
+      "options": ["slap in the face", "kick in the door", "pat on the head", "shot in the arm"] } ] },
+
+  { "expression": "enthusiasm", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "strong excitement and eager interest in something",
+    "exchanges": [ { "uid": "s01_e10_c02_u017", "answer": "enthusiasm",
+      "options": ["enthusiasm", "entertainment", "enlightenment", "endurance"] } ] },
+
+  { "expression": "snap", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to suddenly lose control of yourself because of pressure",
+    "exchanges": [ { "uid": "s01_e10_c03_u016", "answer": "snapped",
+      "options": ["snapped", "bolted", "slipped", "stumbled"] } ] },
+
+  { "expression": "look in on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to visit someone briefly to check that they are all right",
+    "exchanges": [ { "uid": "s01_e10_c03_u028", "answer": "look in on",
+      "options": ["look in on", "look down on", "look back on", "look up to"] } ] },
+
+  { "expression": "have a blast", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "to have a very enjoyable time",
+    "exchanges": [ { "uid": "s01_e10_c05_u022", "answer": "blast",
+      "options": ["blast", "bang", "burst", "boom"] } ] },
+
+  { "expression": "make out with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to kiss and touch someone in a sexual way",
+    "exchanges": [ { "uid": "s01_e10_c06_u008", "answer": "make out with",
+      "options": ["make out with", "put up with", "get away with", "come up with"] } ] },
+
+  { "expression": "tear apart", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone feel extremely upset and torn between two choices",
+    "exchanges": [ { "uid": "s01_e10_c07_u060", "answer": "tearing me apart",
+      "options": ["tearing me apart", "pulling me over", "setting me apart", "turning me around"] } ] },
+
+  { "expression": "casket", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a box in which a dead person is buried",
+    "exchanges": [ { "uid": "s01_e10_c07_u040", "answer": "casket",
+      "options": ["casket", "cabinet", "carton", "canister"] } ] },
+
+  { "expression": "back by popular demand", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "returning because many people asked for it, used when introducing a performer",
+    "exchanges": [ { "uid": "s01_e10_c02_u021", "answer": "back by popular demand",
+      "options": ["back by popular demand", "here by special request", "in by common consent", "up by general approval"] } ] },
+
+  { "expression": "methodical", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "doing things in a careful, ordered, step-by-step way",
+    "exchanges": [ { "uid": "s01_e10_c03_u004", "answer": "methodical",
+      "options": ["methodical", "mechanical", "medicinal", "metaphorical"] } ] },
+
+  { "expression": "phenomenal", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "extraordinarily good or impressive",
+    "exchanges": [ { "uid": "s01_e10_c04_u007", "answer": "phenomenal", "cueUid": "s01_e10_c04_u004",
+      "options": ["phenomenal", "perpetual", "physical", "predictable"] } ] },
+
+  { "expression": "vividly", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "in a very clear and detailed way, so that it is hard to forget",
+    "exchanges": [ { "uid": "s01_e10_c07_u003", "answer": "Vividly", "responseUid": null,
+      "options": ["Vividly", "Visibly", "Virtually", "Violently"] } ] },
+
+  { "expression": "be upon us", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to be about to happen or arrive very soon",
+    "exchanges": [ { "uid": "s01_e10_c07_u075", "answer": "upon us",
+      "options": ["upon us", "across us", "beneath us", "beside us"] } ] },
+
+  { "expression": "smidge", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a very small amount",
+    "exchanges": [ { "uid": "s01_e10_c03_u003", "answer": "smidge",
+      "options": ["smidge", "smudge", "snitch", "slump"] } ] },
+
+  { "expression": "phone it in", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to do something with the least possible effort, without really caring",
+    "exchanges": [ { "uid": "s01_e10_c08_u001", "answer": "phoning it in",
+      "options": ["phoning it in", "calling it off", "handing it over", "turning it down"] } ] }
+]

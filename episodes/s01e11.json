@@ -1,0 +1,132 @@
+[
+  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit a place briefly, often without planning it",
+    "exchanges": [ { "uid": "s01_e11_c07_u004", "answer": "stop by",
+      "options": ["stop by", "stop up", "stop on", "stop out"] } ] },
+
+  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to look after someone who needs help",
+    "exchanges": [ { "uid": "s01_e11_c10_u010", "answer": "taking care of",
+      "options": ["taking care of", "making sense of", "getting rid of", "taking hold of"] } ] },
+
+  { "expression": "be mad at", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to be angry with someone",
+    "exchanges": [
+      { "uid": "s01_e11_c08_u019", "answer": "mad at", "responseUid": "s01_e11_c08_u022",
+        "options": ["mad at", "mad on", "mad for", "mad to"] },
+      { "uid": "s01_e11_c09_u029", "answer": "mad at",
+        "options": ["mad at", "mad on", "mad for", "mad to"] } ] },
+
+  { "expression": "you're kidding", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show surprise and disbelief at what someone just told you",
+    "exchanges": [ { "uid": "s01_e11_c11_u012", "answer": "You're kidding",
+      "options": ["You're kidding", "You're dreaming", "You're bluffing", "You're fooling"] } ] },
+
+  { "expression": "horoscope", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a prediction of your future based on the position of the stars at your birth",
+    "exchanges": [ { "uid": "s01_e11_c01_u003", "answer": "horoscope", "cueUid": "s01_e11_c01_u001",
+      "options": ["horoscope", "telescope", "microscope", "stethoscope"] } ] },
+
+  { "expression": "pass around", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to give something from one person to the next so everyone can see it",
+    "exchanges": [ { "uid": "s01_e11_c03_u013", "answer": "passing around",
+      "options": ["passing around", "handing over", "turning down", "putting off"] } ] },
+
+  { "expression": "oversleep", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to sleep longer than you meant to",
+    "exchanges": [ { "uid": "s01_e11_c06_u012", "answer": "overslept",
+      "options": ["overslept", "overate", "overheard", "overpaid"] } ] },
+
+  { "expression": "drop off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave something at a place while you are on your way somewhere",
+    "exchanges": [
+      { "uid": "s01_e11_c07_u005", "answer": "drop these off",
+        "options": ["drop these off", "put these on", "give these up", "set these back"] },
+      { "uid": "s01_e11_c11_u001", "answer": "drop off",
+        "options": ["drop off", "put on", "give up", "set back"] } ] },
+
+  { "expression": "give it a shot", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to try doing something to see if you can do it",
+    "exchanges": [ { "uid": "s01_e11_c09_u004", "answer": "give it a shot",
+      "options": ["give it a shot", "give it a kick", "give it a hand", "give it a lift"] } ] },
+
+  { "expression": "see you around", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "a casual goodbye that makes no promise to meet again",
+    "exchanges": [ { "uid": "s01_e11_c10_u021", "answer": "see you around",
+      "options": ["see you around", "hear you out", "let you down", "get you back"] } ] },
+
+  { "expression": "lose track of time", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop noticing what time it is because you are busy or absorbed",
+    "exchanges": [ { "uid": "s01_e11_c05_u014", "answer": "lost track of time",
+      "options": ["lost track of time", "made fun of time", "took care of time", "got hold of time"] } ] },
+
+  { "expression": "what the hell", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "added to a question to show anger or shock",
+    "exchanges": [ { "uid": "s01_e11_c08_u012", "answer": "hell",
+      "options": ["hell", "heaven", "world", "sky"] } ] },
+
+  { "expression": "on the side", "type": "colloquial", "level": "high", "pos": "adverb",
+    "meaning": "as an extra activity in addition to your main job",
+    "exchanges": [ { "uid": "s01_e11_c02_u007", "answer": "on the side",
+      "options": ["on the side", "in the back", "at the top", "by the way"] } ] },
+
+  { "expression": "a blast", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "someone or something that is a lot of fun",
+    "exchanges": [ { "uid": "s01_e11_c03_u014", "answer": "a blast",
+      "options": ["a blast", "a bomb", "a flash", "a storm"] } ] },
+
+  { "expression": "burst into flames", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to suddenly start burning",
+    "exchanges": [ { "uid": "s01_e11_c03_u040", "answer": "burst into flames", "responseUid": null,
+      "options": ["burst into flames", "broke into pieces", "fell into place", "ran into trouble"] } ] },
+
+  { "expression": "do shots", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to drink small glasses of strong alcohol in one swallow",
+    "exchanges": [ { "uid": "s01_e11_c05_u008", "answer": "doing shots", "responseUid": "s01_e11_c05_u010",
+      "options": ["doing shots", "taking turns", "making bets", "having seconds"] } ] },
+
+  { "expression": "kill off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to remove a character from a story by making them die",
+    "exchanges": [ { "uid": "s01_e11_c05_u035", "answer": "kill off", "responseUid": "s01_e11_c05_u037",
+      "options": ["kill off", "set up", "wear out", "pay back"] } ] },
+
+  { "expression": "tell off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to speak angrily to someone because they have done something wrong",
+    "exchanges": [ { "uid": "s01_e11_c11_u011", "answer": "told her off",
+      "options": ["told her off", "told her on", "told her up", "told her in"] } ] },
+
+  { "expression": "spell out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to explain something in a very clear and detailed way",
+    "exchanges": [ { "uid": "s01_e11_c11_u019", "answer": "spelling it out",
+      "options": ["spelling it out", "spelling it up", "spelling it off", "spelling it down"] } ] },
+
+  { "expression": "intimate", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "having a sexual relationship with someone",
+    "exchanges": [ { "uid": "s01_e11_c03_u028", "answer": "intimate", "responseUid": "s01_e11_c03_u031",
+      "options": ["intimate", "intense", "internal", "immediate"] } ] },
+
+  { "expression": "I'll have you know", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "used to insist on a fact when you feel offended or want to correct someone",
+    "exchanges": [ { "uid": "s01_e11_c06_u022", "answer": "I'll have you know",
+      "options": ["I'll have you know", "I'll have you see", "I'll have you think", "I'll have you tell"] } ] },
+
+  { "expression": "to that effect", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "with that general meaning, though not in those exact words",
+    "exchanges": [ { "uid": "s01_e11_c11_u004", "answer": "to that effect",
+      "options": ["to that effect", "to that extent", "to that point", "to that degree"] } ] },
+
+  { "expression": "go down that road", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to start discussing or doing something that is likely to lead to trouble",
+    "exchanges": [ { "uid": "s01_e11_c11_u039", "answer": "go down that road", "responseUid": null,
+      "options": ["go down that road", "go down that street", "go down that hall", "go down that lane"] } ] },
+
+  { "expression": "dive", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a cheap, shabby bar or restaurant",
+    "exchanges": [ { "uid": "s01_e11_c05_u005", "answer": "dive",
+      "options": ["dive", "dome", "deck", "den"] } ] },
+
+  { "expression": "euphemism", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a mild or indirect word used instead of one that is too blunt or embarrassing",
+    "exchanges": [ { "uid": "s01_e11_c05_u020", "answer": "euphemisms",
+      "options": ["euphemisms", "episodes", "equations", "elections"] } ] }
+]
