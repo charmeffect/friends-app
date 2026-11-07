@@ -1,0 +1,126 @@
+[
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s04_e02_c02_u009", "answer": "ran into",
+      "options": ["ran into", "got over", "put off", "took after"] } ] },
+
+  { "expression": "give someone a call", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to phone someone",
+    "exchanges": [ { "uid": "s04_e02_c02_u006", "answer": "Give me a call", "cueUid": "s04_e02_c02_u002",
+      "options": ["Give me a call", "Give me a hand", "Give me a break", "Give me a ride"] } ] },
+
+  { "expression": "fall asleep", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to begin sleeping",
+    "exchanges": [ { "uid": "s04_e02_c02_u013", "answer": "fall asleep",
+      "options": ["fall asleep", "fall behind", "fall apart", "fall over"] } ] },
+
+  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show approval of what someone has done, here sarcastically",
+    "exchanges": [ { "uid": "s04_e02_c06_u011", "answer": "Good for you", "responseUid": null,
+      "options": ["Good for you", "Same to you", "Up to you", "All for you"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s04_e02_c04_u016", "answer": "asked me out",
+      "options": ["asked me out", "set me up", "let me down", "put me off"] } ] },
+
+  { "expression": "for a living", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "as a job, in order to earn money",
+    "exchanges": [ { "uid": "s04_e02_c03_u019", "answer": "for a living",
+      "options": ["for a living", "in a while", "on a roll", "at a time"] } ] },
+
+  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remove or sell something you no longer want",
+    "exchanges": [ { "uid": "s04_e02_c05_u002", "answer": "getting rid of",
+      "options": ["getting rid of", "getting hold of", "getting out of", "getting ahead of"] } ] },
+
+  { "expression": "in touch", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "communicating with someone regularly by phone, letter or in person",
+    "exchanges": [ { "uid": "s04_e02_c11_u008", "answer": "in touch",
+      "options": ["in touch", "on track", "at odds", "in line"] } ] },
+
+  { "expression": "lose touch", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop communicating with someone you used to know",
+    "exchanges": [ { "uid": "s04_e02_c11_u012", "answer": "lose touch",
+      "options": ["lose touch", "lose heart", "lose face", "lose weight"] } ] },
+
+  { "expression": "hang with", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to spend time relaxing with friends",
+    "exchanges": [ { "uid": "s04_e02_c11_u010", "answer": "hang with",
+      "options": ["hang with", "side with", "mess with", "cope with"] } ] },
+
+  { "expression": "I'm set", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "I already have everything I need, so no thanks",
+    "exchanges": [ { "uid": "s04_e02_c13_u009", "answer": "I'm set",
+      "options": ["I'm set", "I'm off", "I'm in", "I'm up"] } ] },
+
+  { "expression": "enough is enough", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when you want something to stop because it has gone on too long",
+    "exchanges": [ { "uid": "s04_e02_c14_u024", "answer": "enough is enough",
+      "options": ["enough is enough", "fair is fair", "less is more", "what is what"] } ] },
+
+  { "expression": "pardon", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to forgive or excuse someone for their behaviour",
+    "exchanges": [ { "uid": "s04_e02_c06_u004", "answer": "pardon",
+      "options": ["pardon", "promote", "pester", "polish"] } ] },
+
+  { "expression": "sturdy", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "strongly built and not easily broken",
+    "exchanges": [ { "uid": "s04_e02_c10_u002", "answer": "Sturdy", "responseUid": "s04_e02_c10_u004",
+      "options": ["Sturdy", "Steady", "Stuffy", "Sticky"] } ] },
+
+  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "giving encouragement and help to someone",
+    "exchanges": [ { "uid": "s04_e02_c14_u027", "answer": "supportive", "cueUid": "s04_e02_c14_u025",
+      "options": ["supportive", "suspicious", "superior", "sufficient"] } ] },
+
+  { "expression": "brag", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to talk too proudly about what you have done or own",
+    "exchanges": [ { "uid": "s04_e02_c14_u042", "answer": "brag", "responseUid": null,
+      "options": ["brag", "bluff", "bribe", "budge"] } ] },
+
+  { "expression": "go by", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be known or called by a particular name",
+    "exchanges": [ { "uid": "s04_e02_c07_u003", "answer": "goes by",
+      "options": ["goes by", "gets by", "puts by", "sits by"] } ] },
+
+  { "expression": "knock off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to reduce a price by a certain amount",
+    "exchanges": [ { "uid": "s04_e02_c10_u006", "answer": "knock five bucks off",
+      "options": ["knock five bucks off", "put five bucks down", "pay five bucks back", "throw five bucks in"] } ] },
+
+  { "expression": "of all people", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to stress that a particular person is the most surprising or unlikely choice",
+    "exchanges": [ { "uid": "s04_e02_c04_u009", "answer": "of all people",
+      "options": ["of all people", "at all costs", "in all honesty", "for all time"] } ] },
+
+  { "expression": "craftsmanship", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the skill with which something has been made by hand",
+    "exchanges": [ { "uid": "s04_e02_c03_u008", "answer": "craftsmanship", "cueUid": "s04_e02_c03_u005",
+      "options": ["craftsmanship", "championship", "scholarship", "partnership"] } ] },
+
+  { "expression": "squirm", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to twist your body around because you are uncomfortable or trying to get free",
+    "exchanges": [ { "uid": "s04_e02_c05_u005", "answer": "squirming",
+      "options": ["squirming", "swirling", "snoring", "shrinking"] } ] },
+
+  { "expression": "voluntarily", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "by one's own free choice, not because of force or necessity",
+    "exchanges": [ { "uid": "s04_e02_c12_u010", "answer": "voluntarily",
+      "options": ["voluntarily", "vigorously", "virtually", "visibly"] } ] },
+
+  { "expression": "insensitive", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "not noticing or caring about other people's feelings",
+    "exchanges": [ { "uid": "s04_e02_c14_u033", "answer": "insensitive",
+      "options": ["insensitive", "inseparable", "indecisive", "insecure"] } ] },
+
+  { "expression": "tetanus shot", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "an injection that protects you from tetanus, a disease caught through cuts from dirty metal",
+    "exchanges": [ { "uid": "s04_e02_c01_u004", "answer": "tetanus shot",
+      "options": ["tetanus shot", "tennis shot", "mug shot", "long shot"] } ] },
+
+  { "expression": "wedgie", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a prank of pulling someone's underwear up hard from behind",
+    "exchanges": [ { "uid": "s04_e02_c11_u014", "answer": "wedgie",
+      "options": ["wedgie", "wedge", "veggie", "wiggle"] } ] }
+]

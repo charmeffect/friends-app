@@ -1,0 +1,138 @@
+[
+  { "expression": "that's too bad", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show sympathy when something disappointing has happened to someone",
+    "exchanges": [ { "uid": "s03_e25_c01_u020", "answer": "That's too bad",
+      "options": ["That's too bad", "That's all set", "That's so long", "That's not yet"] } ] },
+
+  { "expression": "no way", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to say that something is impossible or will definitely not happen",
+    "exchanges": [ { "uid": "s03_e25_c05_u011", "answer": "No way",
+      "options": ["No way", "So what", "My bad", "Big deal"] } ] },
+
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to give someone help, especially in a difficult situation",
+    "exchanges": [ { "uid": "s03_e25_c05_u075", "answer": "help her out",
+      "cueUid": "s03_e25_c05_u073", "responseUid": "s03_e25_c05_u077",
+      "options": ["help her out", "let her down", "call her back", "pick her up"] } ] },
+
+  { "expression": "take it easy", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "calm down and relax",
+    "exchanges": [ { "uid": "s03_e25_c04_u014", "answer": "Take it easy",
+      "options": ["Take it easy", "Make it quick", "Keep it real", "Call it off"] } ] },
+
+  { "expression": "look up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to search for information about someone or something in a list, book, or database",
+    "exchanges": [ { "uid": "s03_e25_c01_u017", "answer": "looked her up",
+      "options": ["looked her up", "called her back", "turned her down", "picked her out"] } ] },
+
+  { "expression": "according to", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "as stated or reported by a particular source",
+    "exchanges": [ { "uid": "s03_e25_c01_u014", "answer": "According to",
+      "responseUid": "s03_e25_c01_u016",
+      "options": ["According to", "Instead of", "Because of", "Apart from"] } ] },
+
+  { "expression": "what's with", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "asked to find out the reason for something strange or unexpected",
+    "exchanges": [ { "uid": "s03_e25_c03_u006", "answer": "What's with",
+      "options": ["What's with", "What's for", "What's on", "Where's at"] } ] },
+
+  { "expression": "pass out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to suddenly become unconscious or fall asleep",
+    "exchanges": [ { "uid": "s03_e25_c06_u012", "answer": "passed out",
+      "options": ["passed out", "showed up", "gave in", "took off"] } ] },
+
+  { "expression": "get back together", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start a relationship or partnership again after it has ended",
+    "exchanges": [
+      { "uid": "s03_e25_c09_u024", "answer": "get back together",
+        "options": ["get back together", "break it off", "hang out tonight", "call it even"] },
+      { "uid": "s03_e25_c11_u002", "answer": "getting back together",
+        "options": ["getting back together", "breaking it off", "hanging out tonight", "calling it even"] } ] },
+
+  { "expression": "in a bit", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "in a short time; soon",
+    "exchanges": [ { "uid": "s03_e25_c09_u011", "answer": "in a bit",
+      "options": ["in a bit", "in a row", "in a way", "in a rush"] } ] },
+
+  { "expression": "thumbs up", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "a sign that someone approves of or accepts something",
+    "exchanges": [ { "uid": "s03_e25_c05_u060", "answer": "thumbs up",
+      "options": ["thumbs up", "dirty looks", "cold shoulders", "pep talks"] } ] },
+
+  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start talking about a subject",
+    "exchanges": [ { "uid": "s03_e25_c09_u004", "answer": "bring up",
+      "options": ["bring up", "turn in", "call off", "put down"] } ] },
+
+  { "expression": "capable of", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "having the ability or qualities needed to do or feel something",
+    "exchanges": [ { "uid": "s03_e25_c01_u006", "answer": "capable of",
+      "options": ["capable of", "proud of", "aware of", "jealous of"] } ] },
+
+  { "expression": "boyfriend material", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "someone who has the qualities that would make a good boyfriend",
+    "exchanges": [
+      { "uid": "s03_e25_c02_u010", "answer": "boyfriend material",
+        "options": ["boyfriend material", "dinner company", "party favor", "wedding guest"] },
+      { "uid": "s03_e25_c06_u002", "answer": "boyfriend material",
+        "responseUid": "s03_e25_c06_u004",
+        "options": ["boyfriend material", "dinner company", "party favor", "wedding guest"] } ] },
+
+  { "expression": "gang up on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to join together as a group against one person",
+    "exchanges": [ { "uid": "s03_e25_c05_u068", "answer": "Gang up on",
+      "options": ["Gang up on", "Look out for", "Back down from", "Get away with"] } ] },
+
+  { "expression": "lose track of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to no longer know where someone is or what is happening to them",
+    "exchanges": [ { "uid": "s03_e25_c04_u018", "answer": "lost track of",
+      "options": ["lost track of", "made fun of", "took care of", "got rid of"] } ] },
+
+  { "expression": "let off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to allow someone to leave work or stop a duty earlier than usual",
+    "exchanges": [ { "uid": "s03_e25_c05_u085", "answer": "let me off",
+      "responseUid": "s03_e25_c05_u087",
+      "options": ["let me off", "took me in", "set me up", "turned me down"] } ] },
+
+  { "expression": "sleep like a log", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to sleep very deeply without waking up",
+    "exchanges": [ { "uid": "s03_e25_c06_u020", "answer": "Like a log",
+      "cueUid": "s03_e25_c06_u018",
+      "options": ["Like a log", "Like a mouse", "Like a fish", "Like a horse"] } ] },
+
+  { "expression": "let me get this straight", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said before repeating something to make sure you have understood it correctly",
+    "exchanges": [ { "uid": "s03_e25_c11_u016", "answer": "get this straight",
+      "options": ["get this straight", "make this quick", "say this once", "take this back"] } ] },
+
+  { "expression": "back away", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to withdraw from a situation or stop pursuing something",
+    "exchanges": [ { "uid": "s03_e25_c11_u004", "answer": "back away",
+      "options": ["back away", "speak up", "chip in", "settle down"] } ] },
+
+  { "expression": "karma", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the idea that your good or bad actions bring you good or bad luck",
+    "exchanges": [ { "uid": "s03_e25_c02_u020", "answer": "karma",
+      "options": ["karma", "alibi", "stamina", "agenda"] } ] },
+
+  { "expression": "nudge", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a gentle push or a little encouragement to make someone do something",
+    "exchanges": [ { "uid": "s03_e25_c09_u005", "answer": "nudge",
+      "options": ["nudge", "wink", "pat", "grin"] } ] },
+
+  { "expression": "breaking and entering", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "the crime of getting into a building illegally, usually by force",
+    "exchanges": [ { "uid": "s03_e25_c08_u010", "answer": "breaking and entering",
+      "options": ["breaking and entering", "aiding and abetting", "hemming and hawing", "wining and dining"] } ] },
+
+  { "expression": "spinster", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "an older woman who has never married",
+    "exchanges": [ { "uid": "s03_e25_c02_u003", "answer": "spinster",
+      "options": ["spinster", "orphan", "toddler", "hermit"] } ] },
+
+  { "expression": "namesake", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a person who has the same name as you or who you were named after",
+    "exchanges": [ { "uid": "s03_e25_c08_u003", "answer": "namesake",
+      "responseUid": "s03_e25_c08_u005",
+      "options": ["namesake", "nemesis", "heirloom", "alibi"] } ] }
+]

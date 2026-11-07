@@ -1,0 +1,130 @@
+[
+  { "expression": "on hold", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "waiting on the phone to be connected to someone",
+    "exchanges": [ { "uid": "s03_e22_c01_u002", "answer": "on hold",
+      "options": ["on hold", "on call", "on duty", "on track"] } ] },
+
+  { "expression": "expire", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to come to the end of the period when something is valid",
+    "exchanges": [ { "uid": "s03_e22_c01_u007", "answer": "expires", "responseUid": null,
+      "options": ["expires", "arrives", "returns", "improves"] } ] },
+
+  { "expression": "double check", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to check something a second time to make sure it is correct",
+    "exchanges": [ { "uid": "s03_e22_c01_u011", "answer": "double check", "cueUid": null,
+      "options": ["double check", "sign up", "look over", "call back"] } ] },
+
+  { "expression": "hang up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a phone call by putting the phone down",
+    "exchanges": [ { "uid": "s03_e22_c02_u012", "answer": "hang up",
+      "options": ["hang up", "hang on", "hold up", "pick up"] } ] },
+
+  { "expression": "awkward", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "uncomfortable, embarrassing, or clumsy",
+    "exchanges": [ { "uid": "s03_e22_c03_u022", "answer": "awkward", "responseUid": "s03_e22_c03_u024",
+      "options": ["awkward", "obvious", "urgent", "hilarious"] } ] },
+
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [ { "uid": "s03_e22_c03_u036", "answer": "work out",
+      "options": ["work out", "show up", "run off", "hold on"] } ] },
+
+  { "expression": "understudy", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "an actor who learns another actor's part so as to replace them if needed",
+    "exchanges": [ { "uid": "s03_e22_c04_u016", "answer": "understudy", "responseUid": "s03_e22_c04_u019",
+      "options": ["understudy", "roommate", "landlord", "cousin"] } ] },
+
+  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s03_e22_c04_u020", "answer": "dumped",
+      "options": ["dumped", "hired", "phoned", "visited"] } ] },
+
+  { "expression": "pursue", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to try hard to win someone's love over a period of time",
+    "exchanges": [ { "uid": "s03_e22_c04_u023", "answer": "pursued",
+      "options": ["pursued", "ignored", "hired", "interviewed"] } ] },
+
+  { "expression": "what a shame", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to show you are sorry or disappointed about something",
+    "exchanges": [ { "uid": "s03_e22_c04_u031", "answer": "what a shame",
+      "options": ["what a shame", "what a relief", "what a night", "what a surprise"] } ] },
+
+  { "expression": "snap", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to suddenly lose control of yourself because of pressure",
+    "exchanges": [ { "uid": "s03_e22_c04_u035", "answer": "snap",
+      "options": ["snap", "faint", "yawn", "sneeze"] } ] },
+
+  { "expression": "uneven", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "not consistently good; strong in some parts and weak in others",
+    "exchanges": [ { "uid": "s03_e22_c04_u042", "answer": "uneven", "cueUid": null,
+      "options": ["uneven", "flawless", "silent", "brief"] } ] },
+
+  { "expression": "laughable", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "so bad or foolish that it deserves to be laughed at",
+    "exchanges": [ { "uid": "s03_e22_c04_u044", "answer": "laughable",
+      "options": ["laughable", "flawless", "brief", "loud"] } ] },
+
+  { "expression": "mind if", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "a polite way to ask whether someone objects to what you are about to do",
+    "exchanges": [
+      { "uid": "s03_e22_c11_u002", "answer": "mind if", "responseUid": "s03_e22_c11_u004",
+        "options": ["mind if", "what if", "as if", "even if"] },
+      { "uid": "s03_e22_c04_u046", "answer": "mind if", "responseUid": null,
+        "options": ["mind if", "what if", "as if", "even if"] } ] },
+
+  { "expression": "make it", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become successful in your career",
+    "exchanges": [ { "uid": "s03_e22_c06_u004", "answer": "make it",
+      "options": ["make it", "get by", "show up", "turn in"] } ] },
+
+  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "used to add a new topic or something you just remembered",
+    "exchanges": [ { "uid": "s03_e22_c06_u007", "answer": "By the way",
+      "options": ["By the way", "In the end", "On the way", "At the time"] } ] },
+
+  { "expression": "trash", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to criticize someone or something very harshly",
+    "exchanges": [ { "uid": "s03_e22_c07_u005", "answer": "trashed",
+      "options": ["trashed", "hired", "filmed", "called"] } ] },
+
+  { "expression": "hurl", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to vomit",
+    "exchanges": [ { "uid": "s03_e22_c07_u017", "answer": "hurl", "responseUid": null,
+      "options": ["hurl", "nap", "shave", "knock"] } ] },
+
+  { "expression": "pass out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to suddenly become unconscious or fall asleep",
+    "exchanges": [ { "uid": "s03_e22_c08_u010", "answer": "passed out",
+      "options": ["passed out", "showed up", "calmed down", "moved in"] } ] },
+
+  { "expression": "extinct", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "no longer existing as a living species",
+    "exchanges": [ { "uid": "s03_e22_c11_u015", "answer": "extinct",
+      "options": ["extinct", "asleep", "famous", "frozen"] } ] },
+
+  { "expression": "at least", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "used to point out the minimum you are asking for or the one good thing in a situation",
+    "exchanges": [ { "uid": "s03_e22_c12_u012", "answer": "at least",
+      "cueUid": "s03_e22_c12_u010", "responseUid": "s03_e22_c12_u014",
+      "options": ["at least", "at most", "at once", "at last"] } ] },
+
+  { "expression": "this is killing me", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when something is extremely painful or hard to bear",
+    "exchanges": [ { "uid": "s03_e22_c12_u019", "answer": "killing me",
+      "options": ["killing me", "holding me", "boring me", "saving me"] } ] },
+
+  { "expression": "so long", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "goodbye",
+    "exchanges": [ { "uid": "s03_e22_c12_u021", "answer": "So long", "responseUid": null,
+      "options": ["So long", "So far", "So much", "So what"] } ] },
+
+  { "expression": "toll free", "type": "phrase", "level": "college", "pos": "adjective",
+    "meaning": "free to call, because the company you are calling pays for the call",
+    "exchanges": [ { "uid": "s03_e22_c13_u004", "answer": "toll free",
+      "options": ["toll free", "hands free", "duty free", "top secret"] } ] },
+
+  { "expression": "and yet", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "used to introduce something surprising that is true despite what was just said",
+    "exchanges": [ { "uid": "s03_e22_c13_u008", "answer": "And yet",
+      "options": ["And yet", "And so", "And then", "Or else"] } ] }
+]

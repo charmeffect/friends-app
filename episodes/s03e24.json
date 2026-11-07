@@ -1,0 +1,126 @@
+[
+  { "expression": "move over", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to change your position so that there is room for someone else",
+    "exchanges": [ { "uid": "s03_e24_c01_u011", "answer": "move over",
+      "options": ["move over", "look up", "come back", "sit down"] } ] },
+
+  { "expression": "what's the matter", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "a question asking what is wrong with someone or something",
+    "exchanges": [ { "uid": "s03_e24_c01_u018", "answer": "What's the matter",
+      "options": ["What's the matter", "What's the rush", "What's the catch", "What's the word"] } ] },
+
+  { "expression": "way to go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to congratulate someone on doing something well",
+    "exchanges": [ { "uid": "s03_e24_c04_u004", "answer": "way to go", "cueUid": "s03_e24_c04_u002",
+      "options": ["way to go", "time to go", "here we go", "off we go"] } ] },
+
+  { "expression": "care about", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to feel that someone is important to you and matters to you",
+    "exchanges": [ { "uid": "s03_e24_c13_u009", "answer": "care about",
+      "options": ["care about", "stand for", "hear from", "deal with"] } ] },
+
+  { "expression": "wound", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "an injury to the body in which the skin is cut or broken",
+    "exchanges": [ { "uid": "s03_e24_c01_u032", "answer": "wound", "responseUid": "s03_e24_c01_u035",
+      "options": ["wound", "wand", "wool", "wink"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not a problem; nothing important or serious",
+    "exchanges": [ { "uid": "s03_e24_c04_u006", "answer": "no big deal",
+      "options": ["no big deal", "no hard feelings", "no free lunch", "no small talk"] } ] },
+
+  { "expression": "workout", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a session of physical exercise or training",
+    "exchanges": [ { "uid": "s03_e24_c05_u014", "answer": "workout", "cueUid": "s03_e24_c05_u012",
+      "options": ["workout", "checkout", "layout", "outfit"] } ] },
+
+  { "expression": "hardly ever", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "almost never",
+    "exchanges": [ { "uid": "s03_e24_c06_u017", "answer": "hardly ever",
+      "options": ["hardly ever", "just about", "quite often", "all along"] } ] },
+
+  { "expression": "apparently", "type": "word", "level": "middle", "pos": "adverb",
+    "meaning": "according to what you have heard or read, although it may not be true",
+    "exchanges": [ { "uid": "s03_e24_c10_u004", "answer": "Apparently",
+      "options": ["Apparently", "Approximately", "Alternatively", "Accordingly"] } ] },
+
+  { "expression": "terrific", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "extremely good or wonderful",
+    "exchanges": [ { "uid": "s03_e24_c10_u008", "answer": "terrific",
+      "options": ["terrific", "terrible", "territorial", "terrifying"] } ] },
+
+  { "expression": "occasionally", "type": "word", "level": "middle", "pos": "adverb",
+    "meaning": "sometimes but not often",
+    "exchanges": [ { "uid": "s03_e24_c11_u012", "answer": "occasionally", "responseUid": "s03_e24_c11_u014",
+      "options": ["occasionally", "officially", "originally", "obviously"] } ] },
+
+  { "expression": "quit", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to stop doing an activity for good",
+    "exchanges": [ { "uid": "s03_e24_c13_u010", "answer": "quit",
+      "options": ["quit", "quote", "queue", "quiver"] } ] },
+
+  { "expression": "anything goes", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "there are no rules and any kind of behaviour is allowed",
+    "exchanges": [ { "uid": "s03_e24_c02_u017", "answer": "anything goes",
+      "options": ["anything goes", "nothing counts", "everything stops", "something gives"] } ] },
+
+  { "expression": "aboard", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "as a new member of a team or organization",
+    "exchanges": [ { "uid": "s03_e24_c03_u006", "answer": "aboard", "responseUid": null,
+      "options": ["aboard", "abroad", "ahead", "afloat"] } ] },
+
+  { "expression": "be on for", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to have a plan or date still arranged for a particular time",
+    "exchanges": [ { "uid": "s03_e24_c05_u012", "answer": "still on", "responseUid": "s03_e24_c05_u014",
+      "options": ["still on", "still in", "still at", "still by"] } ] },
+
+  { "expression": "keep at it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to continue working hard at something without giving up",
+    "exchanges": [ { "uid": "s03_e24_c07_u002", "answer": "Keep at it",
+      "options": ["Keep at it", "Look at it", "Get to it", "Leave it be"] } ] },
+
+  { "expression": "pass out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to suddenly become unconscious or fall asleep",
+    "exchanges": [ { "uid": "s03_e24_c09_u010", "answer": "passed out",
+      "options": ["passed out", "passed up", "passed over", "passed along"] } ] },
+
+  { "expression": "other fish in the sea", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to comfort someone that there are many other people they could date",
+    "exchanges": [ { "uid": "s03_e24_c10_u011", "answer": "fish in the sea",
+      "options": ["fish in the sea", "birds in the sky", "stars in the night", "cards in the deck"] } ] },
+
+  { "expression": "don't get me wrong", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said before a comment so that the listener does not misunderstand you",
+    "exchanges": [ { "uid": "s03_e24_c11_u014", "answer": "get me wrong", "cueUid": "s03_e24_c11_u012",
+      "options": ["get me wrong", "take me down", "put me off", "let me down"] } ] },
+
+  { "expression": "in conclusion", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "used to introduce the final, summarizing point of a talk or text",
+    "exchanges": [ { "uid": "s03_e24_c14_u002", "answer": "in conclusion",
+      "options": ["in conclusion", "in addition", "in contrast", "in advance"] } ] },
+
+  { "expression": "confrontational", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "tending to deal with people in an aggressive, argumentative way",
+    "exchanges": [ { "uid": "s03_e24_c08_u005", "answer": "confrontational",
+      "options": ["confrontational", "conventional", "confidential", "conversational"] } ] },
+
+  { "expression": "ringside", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "in the seats right next to a boxing or fighting ring",
+    "exchanges": [ { "uid": "s03_e24_c09_u015", "answer": "ringside",
+      "options": ["ringside", "roadside", "bedside", "seaside"] } ] },
+
+  { "expression": "feel out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to find out cautiously what someone is like or how they will react before acting",
+    "exchanges": [ { "uid": "s03_e24_c15_u002", "answer": "feel him out",
+      "options": ["feel him out", "fill him in", "fend him off", "face him down"] } ] },
+
+  { "expression": "tanked", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "very drunk",
+    "exchanges": [ { "uid": "s03_e24_c11_u007", "answer": "tanked",
+      "options": ["tanked", "tanned", "tucked", "tagged"] } ] },
+
+  { "expression": "scooch", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to move a short distance along a seat to make room for someone",
+    "exchanges": [ { "uid": "s03_e24_c01_u010", "answer": "scooch",
+      "options": ["scooch", "scribble", "shrug", "sneeze"] } ] }
+]
