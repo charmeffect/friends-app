@@ -1,0 +1,522 @@
+[
+{
+  "expression": "under someone's roof",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "living in someone's home, and therefore expected to follow their rules",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c01_u002",
+      "answer": "under my roof",
+      "responseUid": "s05_e06_c01_u004",
+      "options": [
+        "under my roof",
+        "under my nose",
+        "under my feet",
+        "under my wing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for crying out loud",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show annoyance, surprise, or disbelief about something",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c02_u006",
+      "answer": "for crying out loud",
+      "responseUid": "s05_e06_c02_u009",
+      "options": [
+        "for crying out loud",
+        "for what it's worth",
+        "for the time being",
+        "for all I know"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how come",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "why; used to ask the reason for something in casual speech",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c02_u014",
+      "answer": "How come",
+      "options": [
+        "How come",
+        "What now",
+        "Since when",
+        "Or else"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get rid of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove or sell something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c02_u017",
+      "answer": "getting rid of",
+      "options": [
+        "getting rid of",
+        "making up for",
+        "putting up with",
+        "running out of"
+      ]
+    },
+    {
+      "uid": "s05_e06_c09_u005",
+      "answer": "get rid of",
+      "options": [
+        "get rid of",
+        "get hold of",
+        "get out of",
+        "get ahead of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get off easy",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to receive a much lighter punishment than you deserved",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c02_u027",
+      "answer": "got off easy",
+      "options": [
+        "got off easy",
+        "came up short",
+        "went down hard",
+        "held up fine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hence",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "for this reason; as a result",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c02_u031",
+      "answer": "hence",
+      "options": [
+        "hence",
+        "albeit",
+        "whereas",
+        "lest"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone the creeps",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to make someone feel uneasy or frightened",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c03_u002",
+      "answer": "give me the creeps",
+      "options": [
+        "give me the creeps",
+        "take my breath away",
+        "make my blood boil",
+        "pull my leg"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on board",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in agreement with a plan or idea and willing to support it",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c04_u007",
+      "answer": "on board",
+      "options": [
+        "on board",
+        "on hold",
+        "on edge",
+        "on call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's the matter",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "what is wrong; asked when someone seems upset",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c04_u008",
+      "answer": "What's the matter",
+      "options": [
+        "What's the matter",
+        "What's the point",
+        "What's the rush",
+        "What's the catch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get off the phone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finish a phone call",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c04_u009",
+      "answer": "got off the phone",
+      "responseUid": "s05_e06_c04_u011",
+      "options": [
+        "got off the phone",
+        "got on the train",
+        "got out of class",
+        "got in the shower"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sublet",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to rent a place that you are renting yourself to another person",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c04_u011",
+      "answer": "sublet",
+      "cueUid": "s05_e06_c04_u009",
+      "options": [
+        "sublet",
+        "mortgage",
+        "demolish",
+        "patrol"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "commute",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the regular journey between home and work",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c04_u014",
+      "answer": "commute",
+      "options": [
+        "commute",
+        "layover",
+        "detour",
+        "errand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stick up for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to defend or support someone who is being criticized",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c04_u029",
+      "answer": "stick up for",
+      "responseUid": null,
+      "options": [
+        "stick up for",
+        "put up with",
+        "get back at",
+        "make up for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pelt",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "the skin of an animal with the fur still on it",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c06_u008",
+      "answer": "pelts",
+      "options": [
+        "pelts",
+        "hooves",
+        "antlers",
+        "feathers"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "quirky",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unusual in an appealing or amusing way",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c06_u010",
+      "answer": "quirky",
+      "options": [
+        "quirky",
+        "stubborn",
+        "gloomy",
+        "timid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep your mouth shut",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to stay silent and not reveal a secret",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c07_u014",
+      "answer": "keep my mouth shut",
+      "cueUid": "s05_e06_c07_u012",
+      "options": [
+        "keep my mouth shut",
+        "keep my chin up",
+        "keep my eyes open",
+        "keep my hands off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "my fault",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "said to admit that you are the one responsible for a mistake",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c08_u004",
+      "answer": "my fault",
+      "cueUid": "s05_e06_c08_u002",
+      "options": [
+        "my fault",
+        "my turn",
+        "my call",
+        "my treat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slip out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be said accidentally when it was meant to be kept secret",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c08_u007",
+      "answer": "slip out",
+      "options": [
+        "slip out",
+        "show up",
+        "break down",
+        "fall off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of line",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "behaving in a way that is not acceptable or goes too far",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c10_u010",
+      "answer": "out of line",
+      "options": [
+        "out of line",
+        "out of touch",
+        "out of reach",
+        "out of place"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "balls in the air",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "many tasks or responsibilities that you are handling at the same time",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u004",
+      "answer": "balls in the air",
+      "cueUid": "s05_e06_c11_u002",
+      "options": [
+        "balls in the air",
+        "feet on the ground",
+        "cards on the table",
+        "heads in the clouds"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u013",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "show up",
+        "give up",
+        "put on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "means a lot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are very grateful for what someone did or said",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u016",
+      "answer": "mean a lot",
+      "responseUid": "s05_e06_c11_u018",
+      "options": [
+        "mean a lot",
+        "take a while",
+        "make a point",
+        "cost a fortune"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "track down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to find someone or something after a long search",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u030",
+      "answer": "tracked him down",
+      "options": [
+        "tracked him down",
+        "turned him down",
+        "talked him down",
+        "let him down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shiver",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to shake slightly because you are cold, frightened, or upset",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u066",
+      "answer": "shivering",
+      "cueUid": "s05_e06_c11_u064",
+      "responseUid": "s05_e06_c11_u068",
+      "options": [
+        "shivering",
+        "sweating",
+        "yawning",
+        "blushing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "underprivileged",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "poor and having fewer opportunities than most people in society",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c09_u012",
+      "answer": "underprivileged",
+      "options": [
+        "underprivileged",
+        "unprecedented",
+        "underestimated",
+        "unparalleled"
+      ]
+    }
+  ]
+}
+]

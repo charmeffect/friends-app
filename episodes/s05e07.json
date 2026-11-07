@@ -1,0 +1,126 @@
+[
+  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to look after someone who needs help",
+    "exchanges": [ { "uid": "s05_e07_c01_u014", "answer": "take care of",
+      "options": ["take care of", "look down on", "get hold of", "keep track of"] } ] },
+
+  { "expression": "you got it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to agree to do what someone has just asked or suggested",
+    "exchanges": [ { "uid": "s05_e07_c01_u017", "answer": "You got it", "cueUid": "s05_e07_c01_u015", "responseUid": "s05_e07_c01_u019",
+      "options": ["You got it", "You lost it", "You take it", "You keep it"] } ] },
+
+  { "expression": "be supposed to", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to be expected or required to do something",
+    "exchanges": [ { "uid": "s05_e07_c09_u011", "answer": "supposed to",
+      "options": ["supposed to", "used to", "about to", "able to"] } ] },
+
+  { "expression": "nice try", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said when someone's attempt or excuse has failed, often mockingly",
+    "exchanges": [ { "uid": "s05_e07_c14_u030", "answer": "Nice try",
+      "options": ["Nice try", "Good call", "Fat chance", "Hard luck"] } ] },
+
+  { "expression": "kick out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to force someone to leave a place where they were living or staying",
+    "exchanges": [ { "uid": "s05_e07_c01_u008", "answer": "kicked me out", "cueUid": null, "responseUid": "s05_e07_c01_u011",
+      "options": ["kicked me out", "sold me out", "ruled me out", "wore me out"] } ] },
+
+  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to laugh at or joke about someone in an unkind way",
+    "exchanges": [ { "uid": "s05_e07_c01_u015", "answer": "make fun of", "responseUid": "s05_e07_c01_u017",
+      "options": ["make fun of", "get hold of", "take note of", "run out of"] } ] },
+
+  { "expression": "make a living", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to earn enough money to pay for the things you need",
+    "exchanges": [ { "uid": "s05_e07_c02_u002", "answer": "making a living", "responseUid": "s05_e07_c02_u004",
+      "options": ["making a living", "making a scene", "making a point", "making a move"] } ] },
+
+  { "expression": "shut down", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to force a business or place to stop operating",
+    "exchanges": [ { "uid": "s05_e07_c05_u011", "answer": "shutting this place down", "cueUid": "s05_e07_c05_u009",
+      "options": ["shutting this place down", "turning this place up", "breaking this place in", "setting this place off"] } ] },
+
+  { "expression": "grown-up", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "an adult, used especially when speaking to or about children",
+    "exchanges": [ { "uid": "s05_e07_c06_u010", "answer": "grown up", "responseUid": null,
+      "options": ["grown up", "show off", "stand in", "push over"] } ] },
+
+  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remove or sell something you no longer want",
+    "exchanges": [ { "uid": "s05_e07_c11_u018", "answer": "get rid of", "responseUid": null,
+      "options": ["get rid of", "get ahead of", "get out of", "get wind of"] } ] },
+
+  { "expression": "quiet down", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to become, or make someone become, quieter and calmer",
+    "exchanges": [ { "uid": "s05_e07_c08_u014", "answer": "quiet down",
+      "options": ["quiet down", "slow down", "break down", "write down"] } ] },
+
+  { "expression": "stuck with", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "forced to keep or deal with someone or something you did not choose",
+    "exchanges": [ { "uid": "s05_e07_c11_u008", "answer": "stuck with", "responseUid": "s05_e07_c11_u011",
+      "options": ["stuck with", "fed with", "done with", "bored with"] } ] },
+
+  { "expression": "deduct", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to take away an amount from a total",
+    "exchanges": [ { "uid": "s05_e07_c02_u016", "answer": "deducted",
+      "options": ["deducted", "detected", "dictated", "deposited"] } ] },
+
+  { "expression": "sidekick", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a less important person who helps and spends time with a main character",
+    "exchanges": [ { "uid": "s05_e07_c02_u024", "answer": "sidekick",
+      "options": ["sidekick", "sideline", "sideshow", "sidewalk"] } ] },
+
+  { "expression": "up for grabs", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "still available for anyone who wants to take it",
+    "exchanges": [ { "uid": "s05_e07_c03_u026", "answer": "up for grabs",
+      "options": ["up for grabs", "out of reach", "on the fence", "in the bag"] } ] },
+
+  { "expression": "hold out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to keep going in a difficult situation without giving up",
+    "exchanges": [ { "uid": "s05_e07_c08_u018", "answer": "hold out", "responseUid": null,
+      "options": ["hold out", "hold up", "hold back", "hold down"] } ] },
+
+  { "expression": "use one's head", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to think carefully and sensibly about something",
+    "exchanges": [ { "uid": "s05_e07_c11_u004", "answer": "using his head",
+      "options": ["using his head", "losing his mind", "holding his tongue", "pulling his leg"] } ] },
+
+  { "expression": "hit it off", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to like each other and become friendly as soon as you meet",
+    "exchanges": [ { "uid": "s05_e07_c14_u024", "answer": "hit it off",
+      "options": ["hit it off", "call it off", "set it up", "make it up"] } ] },
+
+  { "expression": "get back on one's feet", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to recover and return to a normal life after a hard time",
+    "exchanges": [ { "uid": "s05_e07_c13_u002", "answer": "back on his feet",
+      "options": ["back on his feet", "out of his hair", "off his back", "under his skin"] } ] },
+
+  { "expression": "knock yourself out", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to tell someone they are free to go ahead and do something you do not care about",
+    "exchanges": [ { "uid": "s05_e07_c02_u011", "answer": "knock yourself out", "responseUid": "s05_e07_c02_u015",
+      "options": ["knock yourself out", "pull yourself together", "make yourself scarce", "brace yourself up"] } ] },
+
+  { "expression": "blow up in someone's face", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to fail suddenly and badly, with bad results for the person who planned it",
+    "exchanges": [ { "uid": "s05_e07_c03_u024", "answer": "Blew up",
+      "options": ["Blew up", "Shut down", "Broke off", "Ran out"] } ] },
+
+  { "expression": "jazz up", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to make something livelier and more exciting",
+    "exchanges": [ { "uid": "s05_e07_c04_u008", "answer": "jazzed it up", "cueUid": "s05_e07_c04_u006",
+      "options": ["jazzed it up", "wrapped it up", "mixed it in", "put it off"] } ] },
+
+  { "expression": "walk right into", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to fall for an obvious trick or trap without noticing it",
+    "exchanges": [ { "uid": "s05_e07_c07_u015", "answer": "Walked right into", "cueUid": "s05_e07_c07_u012",
+      "options": ["Walked right into", "Ran right past", "Stood right by", "Looked right through"] } ] },
+
+  { "expression": "knock it out of the park", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to deal with something extremely well, like hitting a home run in baseball",
+    "exchanges": [ { "uid": "s05_e07_c14_u032", "answer": "out of the park",
+      "options": ["out of the park", "off the hook", "over the moon", "under the bus"] } ] },
+
+  { "expression": "refuse", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "waste or garbage that has been thrown away",
+    "exchanges": [ { "uid": "s05_e07_c12_u011", "answer": "refuse",
+      "options": ["refuse", "lunar", "verbal", "fiscal"] } ] }
+]

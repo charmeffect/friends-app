@@ -1,0 +1,126 @@
+[
+  { "expression": "be right back", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to return very soon",
+    "exchanges": [ { "uid": "s05_e05_c03_u005", "answer": "be right back",
+      "options": ["be right back", "go right now", "come right in", "get right up"] } ] },
+
+  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop having something, often as a sacrifice",
+    "exchanges": [ { "uid": "s05_e05_c08_u011", "answer": "give up",
+      "options": ["give up", "look up", "hold up", "set up"] } ] },
+
+  { "expression": "in charge of", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "responsible for and in control of something",
+    "exchanges": [ { "uid": "s05_e05_c02_u005", "answer": "in charge of", "responseUid": null,
+      "options": ["in charge of", "in front of", "in spite of", "in need of"] } ] },
+
+  { "expression": "get in the way", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to block or interfere with something you want to do",
+    "exchanges": [ { "uid": "s05_e05_c05_u020", "answer": "getting in the way",
+      "options": ["getting in the way", "running up the bill", "sitting on the fence", "turning on the charm"] } ] },
+
+  { "expression": "I hear ya", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "I understand what you are saying and I agree with you",
+    "exchanges": [ { "uid": "s05_e05_c05_u015", "answer": "I hear ya",
+      "options": ["I hear ya", "I bet ya", "I dare ya", "I owe ya"] } ] },
+
+  { "expression": "interrupt", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to stop someone while they are speaking or doing something",
+    "exchanges": [ { "uid": "s05_e05_c10_u020", "answer": "interrupt", "responseUid": null,
+      "options": ["interrupt", "introduce", "interpret", "intimidate"] } ] },
+
+  { "expression": "I'm afraid so", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to say yes when the answer is unwelcome or disappointing",
+    "exchanges": [ { "uid": "s05_e05_c11_u017", "answer": "I'm afraid so",
+      "options": ["I'm afraid so", "I doubt it", "I think not", "I'm all set"] } ] },
+
+  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad or disappointing",
+    "exchanges": [ { "uid": "s05_e05_c11_u004", "answer": "sucked",
+      "options": ["sucked", "rushed", "clicked", "snapped"] } ] },
+
+  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop thinking about something that is over and start something new",
+    "exchanges": [ { "uid": "s05_e05_c11_u013", "answer": "move on",
+      "options": ["move on", "give in", "show up", "back off"] } ] },
+
+  { "expression": "sneak around", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to meet or do something secretly so that other people do not find out",
+    "exchanges": [ { "uid": "s05_e05_c01_u010", "answer": "sneaking around",
+      "options": ["sneaking around", "showing around", "turning around", "bossing around"] } ] },
+
+  { "expression": "here goes", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said just before you start doing something difficult or nerve-racking",
+    "exchanges": [ { "uid": "s05_e05_c04_u004", "answer": "here goes",
+      "options": ["here goes", "so long", "never mind", "all set"] } ] },
+
+  { "expression": "unacceptable", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "not good enough to be allowed or approved of",
+    "exchanges": [ { "uid": "s05_e05_c05_u009", "answer": "unacceptable",
+      "options": ["unacceptable", "unavailable", "unbelievable", "unaffordable"] } ] },
+
+  { "expression": "whatever it takes", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "anything that is necessary to achieve a goal",
+    "exchanges": [ { "uid": "s05_e05_c06_u005", "answer": "whatever it takes",
+      "options": ["whatever it takes", "whenever it works", "whichever it is", "however it goes"] } ] },
+
+  { "expression": "obsess about", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to keep thinking about something all the time so that you cannot think of anything else",
+    "exchanges": [ { "uid": "s05_e05_c08_u019", "answer": "obsessing about", "cueUid": null,
+      "options": ["obsessing about", "bragging about", "arguing about", "reading about"] } ] },
+
+  { "expression": "a matter of time", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to say that something is certain to happen sooner or later",
+    "exchanges": [ { "uid": "s05_e05_c08_u032", "answer": "a matter of time", "responseUid": "s05_e05_c08_u034",
+      "options": ["a matter of time", "a piece of cake", "a stroke of luck", "a change of heart"] } ] },
+
+  { "expression": "hook up with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to start a romantic or sexual relationship with someone",
+    "exchanges": [ { "uid": "s05_e05_c09_u005", "answer": "hooked up with",
+      "options": ["hooked up with", "caught up with", "put up with", "kept up with"] } ] },
+
+  { "expression": "step back", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to withdraw from a situation and become less involved in it",
+    "exchanges": [ { "uid": "s05_e05_c10_u010", "answer": "step back",
+      "options": ["step back", "move in", "stand by", "hold up"] } ] },
+
+  { "expression": "for starters", "type": "colloquial", "level": "high", "pos": "adverb",
+    "meaning": "used to introduce the first point in a list of reasons or things",
+    "exchanges": [ { "uid": "s05_e05_c10_u015", "answer": "for starters",
+      "options": ["for starters", "for granted", "for ages", "for real"] } ] },
+
+  { "expression": "boil down to", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to have something as its most basic or important point",
+    "exchanges": [ { "uid": "s05_e05_c02_u045", "answer": "boils down to",
+      "options": ["boils down to", "runs out of", "looks up to", "gets away with"] } ] },
+
+  { "expression": "to one's liking", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "suitable for what someone wants or enjoys",
+    "exchanges": [ { "uid": "s05_e05_c05_u002", "answer": "to your liking",
+      "options": ["to your liking", "in your favor", "on your side", "at your service"] } ] },
+
+  { "expression": "storm out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to leave a place suddenly and angrily",
+    "exchanges": [ { "uid": "s05_e05_c06_u016", "answer": "Storming out",
+      "options": ["Storming out", "Hanging out", "Passing out", "Working out"] } ] },
+
+  { "expression": "a total bust", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a complete failure or disappointment",
+    "exchanges": [ { "uid": "s05_e05_c07_u007", "answer": "total bust",
+      "options": ["total bust", "close call", "dead end", "long shot"] } ] },
+
+  { "expression": "phase out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to gradually remove someone or something until they are gone completely",
+    "exchanges": [ { "uid": "s05_e05_c08_u030", "answer": "phased out", "responseUid": "s05_e05_c08_u032",
+      "options": ["phased out", "handed out", "sold out", "worn out"] } ] },
+
+  { "expression": "take someone for a ride", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to cheat or deceive someone, especially in order to get their money",
+    "exchanges": [ { "uid": "s05_e05_c05_u014", "answer": "for a ride",
+      "options": ["for a ride", "for a walk", "on a tour", "to the top"] } ] },
+
+  { "expression": "speak ill of", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to say unkind or critical things about someone",
+    "exchanges": [ { "uid": "s05_e05_c05_u024", "answer": "speak ill of",
+      "options": ["speak ill of", "get rid of", "keep track of", "run out of"] } ] }
+]

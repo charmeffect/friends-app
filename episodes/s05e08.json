@@ -1,0 +1,129 @@
+[
+  { "expression": "leave me alone", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "stop bothering me and go away",
+    "exchanges": [ { "uid": "s05_e08_c13_u015", "answer": "leave me alone", "responseUid": null,
+      "options": ["leave me alone", "let me know", "wake me up", "hold me tight"] } ] },
+
+  { "expression": "out of town", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "away from the place where you live, usually on a trip",
+    "exchanges": [ { "uid": "s05_e08_c09_u006", "answer": "out of town",
+      "options": ["out of town", "out of work", "out of touch", "out of date"] } ] },
+
+  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to think of an idea or plan",
+    "exchanges": [
+      { "uid": "s05_e08_c02_u006", "answer": "come up with",
+        "options": ["come up with", "get on with", "put up with", "run off with"] },
+      { "uid": "s05_e08_c13_u008", "answer": "came up with", "cueUid": "s05_e08_c13_u004",
+        "options": ["came up with", "got on with", "put up with", "ran off with"] } ] },
+
+  { "expression": "brand new", "type": "phrase", "level": "elementary", "pos": "adjective",
+    "meaning": "completely new and never used before",
+    "exchanges": [ { "uid": "s05_e08_c06_u005", "answer": "brand new",
+      "options": ["brand new", "dead tired", "wide awake", "fast asleep"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s05_e08_c07_u011", "answer": "freak out",
+      "options": ["freak out", "back off", "show off", "pass out"] } ] },
+
+  { "expression": "out of nowhere", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "suddenly and unexpectedly, without any warning",
+    "exchanges": [ { "uid": "s05_e08_c01_u015", "answer": "out of nowhere", "responseUid": null,
+      "options": ["out of nowhere", "out of order", "out of sight", "out of reach"] } ] },
+
+  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s05_e08_c09_u032", "answer": "dumped",
+      "options": ["dumped", "dared", "dragged", "dressed"] } ] },
+
+  { "expression": "as long as", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "provided that; on the condition that",
+    "exchanges": [ { "uid": "s05_e08_c09_u024", "answer": "as long as",
+      "options": ["as long as", "as soon as", "as far as", "as well as"] } ] },
+
+  { "expression": "first of all", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "used to introduce the first point in a series of points",
+    "exchanges": [ { "uid": "s05_e08_c11_u040", "answer": "first of all", "responseUid": null,
+      "options": ["first of all", "all in all", "best of all", "once and for all"] } ] },
+
+  { "expression": "be all about", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to be the most important or essential point of something",
+    "exchanges": [ { "uid": "s05_e08_c08_u009", "answer": "all about",
+      "options": ["all about", "all over", "all along", "all right"] } ] },
+
+  { "expression": "bum out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone feel sad or disappointed",
+    "exchanges": [ { "uid": "s05_e08_c02_u011", "answer": "bumming us out",
+      "options": ["bumming us out", "calling us out", "selling us out", "showing us up"] } ] },
+
+  { "expression": "abandon", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to leave someone, especially a child, and never return",
+    "exchanges": [ { "uid": "s05_e08_c02_u012", "answer": "abandoned", "responseUid": null,
+      "options": ["abandoned", "admired", "attended", "adopted"] } ] },
+
+  { "expression": "creep out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone feel uneasy, nervous, or disgusted",
+    "exchanges": [ { "uid": "s05_e08_c09_u008", "answer": "creeps me out",
+      "options": ["creeps me out", "cheers me up", "lets me down", "fills me in"] } ] },
+
+  { "expression": "of all people", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to stress that a particular person is the most surprising or unlikely choice",
+    "exchanges": [ { "uid": "s05_e08_c08_u010", "answer": "of all people", "responseUid": null,
+      "options": ["of all people", "at all costs", "by all means", "for all ages"] } ] },
+
+  { "expression": "finish off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to eat or use up the last part of something",
+    "exchanges": [ { "uid": "s05_e08_c09_u063", "answer": "finish off", "cueUid": "s05_e08_c09_u060",
+      "options": ["finish off", "fill up", "fold in", "figure out"] } ] },
+
+  { "expression": "get someone back", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to take revenge on someone for something they did to you",
+    "exchanges": [ { "uid": "s05_e08_c11_u044", "answer": "get him back",
+      "options": ["get him back", "let him off", "take him in", "hold him up"] } ] },
+
+  { "expression": "have had it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to have lost all patience with someone or something",
+    "exchanges": [ { "uid": "s05_e08_c09_u034", "answer": "had it with",
+      "options": ["had it with", "made it for", "got it from", "put it to"] } ] },
+
+  { "expression": "humiliate", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to make someone feel ashamed or stupid in front of other people",
+    "exchanges": [ { "uid": "s05_e08_c11_u035", "answer": "humiliate", "cueUid": "s05_e08_c11_u032",
+      "options": ["humiliate", "hypnotize", "harmonize", "hospitalize"] } ] },
+
+  { "expression": "eviction", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the act of legally forcing someone to leave the home they rent",
+    "exchanges": [ { "uid": "s05_e08_c02_u005", "answer": "eviction",
+      "options": ["eviction", "election", "edition", "emission"] } ] },
+
+  { "expression": "swoop in", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to move in quickly and suddenly to take an opportunity",
+    "exchanges": [ { "uid": "s05_e08_c02_u008", "answer": "swoop in",
+      "options": ["swoop in", "stroll by", "sneak out", "storm off"] } ] },
+
+  { "expression": "for crying out loud", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to show annoyance, surprise, or disbelief about something",
+    "exchanges": [ { "uid": "s05_e08_c10_u004", "answer": "for crying out loud",
+      "options": ["for crying out loud", "for the time being", "for what it's worth", "for all I care"] } ] },
+
+  { "expression": "turn someone on", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to make someone sexually excited",
+    "exchanges": [ { "uid": "s05_e08_c11_u046", "answer": "turns you on",
+      "options": ["turns you on", "lets you down", "puts you off", "picks you up"] } ] },
+
+  { "expression": "feat", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "an impressive achievement that needs great skill or effort",
+    "exchanges": [ { "uid": "s05_e08_c02_u002", "answer": "feat",
+      "options": ["feat", "fleet", "fate", "fuse"] } ] },
+
+  { "expression": "play for both teams", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to be attracted to both men and women",
+    "exchanges": [ { "uid": "s05_e08_c11_u026", "answer": "plays for both teams",
+      "options": ["plays for both teams", "runs with the pack", "goes the extra mile", "beats around the bush"] } ] },
+
+  { "expression": "righteous", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "excellent or extremely good",
+    "exchanges": [ { "uid": "s05_e08_c11_u051", "answer": "righteous",
+      "options": ["righteous", "religious", "rigorous", "ruthless"] } ] }
+]
