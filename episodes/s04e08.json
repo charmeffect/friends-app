@@ -1,0 +1,121 @@
+[
+  { "expression": "take a nap", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to sleep for a short time during the day",
+    "exchanges": [ { "uid": "s04_e08_c02_u012", "answer": "take a nap",
+      "options": ["take a nap", "make a call", "get a cab", "grab a bite"] } ] },
+
+  { "expression": "who cares", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show that something does not matter to you",
+    "exchanges": [ { "uid": "s04_e08_c02_u023", "answer": "Who cares",
+      "options": ["Who cares", "Who knows", "Since when", "Says who"] } ] },
+
+  { "expression": "about to", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "going to do something very soon",
+    "exchanges": [ { "uid": "s04_e08_c02_u024", "answer": "about to",
+      "options": ["about to", "up to", "used to", "down to"] } ] },
+
+  { "expression": "can't stand", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to strongly dislike someone or something",
+    "exchanges": [ { "uid": "s04_e08_c01_u003", "answer": "can't stand", "responseUid": "s04_e08_c01_u007",
+      "options": ["can't stand", "can't help", "can't wait", "can't tell"] } ] },
+
+  { "expression": "speaking of", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "used to introduce something related to what was just mentioned",
+    "exchanges": [ { "uid": "s04_e08_c02_u009", "answer": "Speaking of",
+      "options": ["Speaking of", "Thinking of", "Instead of", "Because of"] } ] },
+
+  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remove or sell something you no longer want",
+    "exchanges": [ { "uid": "s04_e08_c02_u017", "answer": "get rid of",
+      "options": ["get rid of", "get hold of", "get out of", "get ahead of"] } ] },
+
+  { "expression": "make progress", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to get closer to finishing or achieving something",
+    "exchanges": [ { "uid": "s04_e08_c02_u048", "answer": "making some progress",
+      "options": ["making some progress", "taking some credit", "saving some money", "wasting some time"] } ] },
+
+  { "expression": "work it out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to solve a problem or settle a disagreement with someone",
+    "exchanges": [ { "uid": "s04_e08_c06_u007", "answer": "work it out",
+      "options": ["work it out", "put it off", "make it up", "check it out"] } ] },
+
+  { "expression": "let someone down", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to disappoint someone by failing to do what they expected of you",
+    "exchanges": [ { "uid": "s04_e08_c06_u014", "answer": "let you down", "responseUid": "s04_e08_c06_u016",
+      "options": ["let you down", "put you off", "got you back", "set you up"] } ] },
+
+  { "expression": "wash up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to wash your hands and face, especially before a meal",
+    "exchanges": [ { "uid": "s04_e08_c08_u056", "answer": "wash up",
+      "options": ["wash up", "warm up", "sign up", "hang up"] } ] },
+
+  { "expression": "by any chance", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "used to ask politely whether something is true or possible",
+    "exchanges": [ { "uid": "s04_e08_c02_u015", "answer": "by any chance",
+      "options": ["by any chance", "in any case", "at any rate", "for any reason"] } ] },
+
+  { "expression": "picky", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "too careful about choosing only what you like, so that you reject most things",
+    "exchanges": [ { "uid": "s04_e08_c02_u038", "answer": "picky",
+      "options": ["picky", "pushy", "cranky", "chatty"] } ] },
+
+  { "expression": "out of guilt", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "because you feel bad about something wrong you have done",
+    "exchanges": [ { "uid": "s04_e08_c03_u005", "answer": "out of guilt",
+      "options": ["out of guilt", "out of spite", "out of habit", "out of boredom"] } ] },
+
+  { "expression": "hear someone out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to listen to everything someone wants to say before you judge them",
+    "exchanges": [ { "uid": "s04_e08_c03_u008", "answer": "hear the guy out", "responseUid": "s04_e08_c03_u010",
+      "options": ["hear the guy out", "shut the guy up", "let the guy down", "see the guy off"] } ] },
+
+  { "expression": "sentence", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to officially state the punishment a person will receive for a crime",
+    "exchanges": [ { "uid": "s04_e08_c03_u012", "answer": "sentenced",
+      "options": ["sentenced", "suspended", "arrested", "promoted"] } ] },
+
+  { "expression": "mumble", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to speak quietly and unclearly so that the words are hard to hear",
+    "exchanges": [ { "uid": "s04_e08_c04_u003", "answer": "mumbles",
+      "options": ["mumbles", "giggles", "whistles", "scribbles"] } ] },
+
+  { "expression": "commitment", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a promise or decision that ties you to someone or something for a long time",
+    "exchanges": [ { "uid": "s04_e08_c07_u020", "answer": "commitment", "cueUid": "s04_e08_c07_u018",
+      "options": ["commitment", "competition", "complaint", "compliment"] } ] },
+
+  { "expression": "store credit", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "money you can spend only in the shop that gave it to you, usually after returning an item",
+    "exchanges": [ { "uid": "s04_e08_c08_u053", "answer": "store credit",
+      "options": ["store credit", "spare change", "price tag", "sales tax"] } ] },
+
+  { "expression": "come between", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to damage the relationship between two people",
+    "exchanges": [ { "uid": "s04_e08_c08_u126", "answer": "comes between",
+      "options": ["comes between", "goes along", "stands behind", "runs after"] } ] },
+
+  { "expression": "on behalf of", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "as the representative of someone, or for their benefit",
+    "exchanges": [ { "uid": "s04_e08_c02_u041", "answer": "on behalf of", "responseUid": "s04_e08_c02_u043",
+      "options": ["on behalf of", "in charge of", "on account of", "in favor of"] } ] },
+
+  { "expression": "devoid of", "type": "phrase", "level": "college", "pos": "adjective",
+    "meaning": "completely lacking in something",
+    "exchanges": [ { "uid": "s04_e08_c08_u076", "answer": "devoid of", "responseUid": "s04_e08_c08_u079",
+      "options": ["devoid of", "capable of", "aware of", "fond of"] } ] },
+
+  { "expression": "threefold", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "made up of three parts",
+    "exchanges": [ { "uid": "s04_e08_c08_u125", "answer": "threefold",
+      "options": ["threefold", "thoughtless", "thunderous", "threadbare"] } ] },
+
+  { "expression": "get a room", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said jokingly to a couple who are showing too much affection in public",
+    "exchanges": [ { "uid": "s04_e08_c09_u009", "answer": "get a room", "responseUid": null,
+      "options": ["get a room", "take a hike", "grab a seat", "make a move"] } ] },
+
+  { "expression": "do the time", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to serve a prison sentence as the punishment for a crime",
+    "exchanges": [ { "uid": "s04_e08_c03_u013", "answer": "do the time",
+      "options": ["do the time", "beat the clock", "make the cut", "hold the line"] } ] }
+]

@@ -1,0 +1,126 @@
+[
+  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop having something, often as a sacrifice",
+    "exchanges": [ { "uid": "s04_e03_c03_u022", "answer": "giving up", "cueUid": "s04_e03_c03_u020",
+      "options": ["giving up", "setting off", "picking up", "showing off"] } ] },
+
+  { "expression": "calm down", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop feeling angry, excited, or nervous",
+    "exchanges": [ { "uid": "s04_e03_c11_u012", "answer": "calm down", "cueUid": "s04_e03_c11_u009",
+      "options": ["calm down", "come over", "stand up", "wake up"] } ] },
+
+  { "expression": "I don't get it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "I do not understand what you mean or why it is funny",
+    "exchanges": [ { "uid": "s04_e03_c06_u024", "answer": "don't get it",
+      "options": ["don't get it", "don't have it", "don't make it", "don't take it"] } ] },
+
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s04_e03_c02_u005", "answer": "How come",
+      "options": ["How come", "What if", "Which way", "How far"] } ] },
+
+  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remove or sell something you no longer want",
+    "exchanges": [ { "uid": "s04_e03_c02_u006", "answer": "get rid of",
+      "options": ["get rid of", "get hold of", "make fun of", "take care of"] } ] },
+
+  { "expression": "in luck", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "fortunate; getting something good by chance",
+    "exchanges": [ { "uid": "s04_e03_c01_u002", "answer": "in luck",
+      "options": ["in luck", "at ease", "on time", "in charge"] } ] },
+
+  { "expression": "just in case", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "as a precaution, in case something is needed later",
+    "exchanges": [ { "uid": "s04_e03_c06_u020", "answer": "just in case",
+      "options": ["just in case", "all at once", "for a change", "now and then"] } ] },
+
+  { "expression": "speaking of", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "used to introduce something related to what was just mentioned",
+    "exchanges": [ { "uid": "s04_e03_c15_u015", "answer": "speaking of", "responseUid": "s04_e03_c15_u017",
+      "options": ["speaking of", "getting at", "looking at", "pointing to"] } ] },
+
+  { "expression": "means a lot", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to show you are very grateful for what someone did or said",
+    "exchanges": [ { "uid": "s04_e03_c14_u018", "answer": "means a lot", "responseUid": null,
+      "options": ["means a lot", "takes a while", "makes a point", "costs a fortune"] } ] },
+
+  { "expression": "bump into", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s04_e03_c03_u004", "answer": "bumped into",
+      "options": ["bumped into", "called off", "turned down", "stood by"] } ] },
+
+  { "expression": "desperate", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "feeling that a situation is so bad you will try anything to change it",
+    "exchanges": [ { "uid": "s04_e03_c02_u002", "answer": "desperate",
+      "options": ["desperate", "delicate", "deliberate", "desolate"] } ] },
+
+  { "expression": "stick up for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to defend or support someone who is being criticized",
+    "exchanges": [ { "uid": "s04_e03_c02_u008", "answer": "stick up for", "responseUid": null,
+      "options": ["stick up for", "get back at", "put up with", "run out of"] } ] },
+
+  { "expression": "screw up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to ruin something by making a bad mistake",
+    "exchanges": [ { "uid": "s04_e03_c06_u019", "answer": "screw up", "cueUid": "s04_e03_c06_u016",
+      "options": ["screw up", "show up", "sleep in", "speak out"] } ] },
+
+  { "expression": "give someone grief", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to criticize or nag someone in an annoying way",
+    "exchanges": [ { "uid": "s04_e03_c06_u005", "answer": "give me grief",
+      "options": ["give me grief", "cut me slack", "hold me back", "show me around"] } ] },
+
+  { "expression": "out of pity", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "because you feel sorry for someone, not because they deserve it",
+    "exchanges": [ { "uid": "s04_e03_c04_u013", "answer": "out of pity",
+      "options": ["out of pity", "for a change", "by the way", "at a loss"] } ] },
+
+  { "expression": "get the picture", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to understand the situation",
+    "exchanges": [ { "uid": "s04_e03_c12_u009", "answer": "get the picture",
+      "options": ["get the picture", "hit the road", "call the shots", "break the ice"] } ] },
+
+  { "expression": "stingy", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "unwilling to give or share; not generous",
+    "exchanges": [ { "uid": "s04_e03_c13_u012", "answer": "stingy", "responseUid": "s04_e03_c13_u014",
+      "options": ["stingy", "sticky", "stuffy", "sturdy"] } ] },
+
+  { "expression": "jeopardize", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to put something valuable at risk of being lost or damaged",
+    "exchanges": [ { "uid": "s04_e03_c08_u020", "answer": "jeopardising",
+      "options": ["jeopardising", "justifying", "juggling", "jettisoning"] } ] },
+
+  { "expression": "rave about", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to talk about something with great enthusiasm",
+    "exchanges": [ { "uid": "s04_e03_c04_u010", "answer": "raved about",
+      "options": ["raved about", "rolled over", "ran across", "reached for"] } ] },
+
+  { "expression": "mishap", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a small accident or piece of bad luck",
+    "exchanges": [ { "uid": "s04_e03_c16_u006", "answer": "mishap",
+      "options": ["mishap", "misprint", "mistrial", "mishmash"] } ] },
+
+  { "expression": "nod along", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to keep nodding as if you agree or understand, even when you do not",
+    "exchanges": [ { "uid": "s04_e03_c05_u006", "answer": "nod along",
+      "options": ["nod along", "back off", "hold still", "run off"] } ] },
+
+  { "expression": "be a doll", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "a friendly way to ask someone to do a small favour",
+    "exchanges": [ { "uid": "s04_e03_c08_u017", "answer": "be a doll",
+      "options": ["be a doll", "take a hike", "make a scene", "have a seat"] } ] },
+
+  { "expression": "dud", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a person or thing that fails to be interesting or successful",
+    "exchanges": [ { "uid": "s04_e03_c03_u013", "answer": "dud",
+      "options": ["dud", "dolt", "dupe", "dime"] } ] },
+
+  { "expression": "saucy", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "slightly rude or sexually suggestive in a playful way",
+    "exchanges": [ { "uid": "s04_e03_c07_u017", "answer": "saucy",
+      "options": ["saucy", "snappy", "soggy", "stuffy"] } ] },
+
+  { "expression": "swing", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to manage to afford or arrange something",
+    "exchanges": [ { "uid": "s04_e03_c12_u005", "answer": "swing",
+      "options": ["swing", "spin", "shake", "stir"] } ] }
+]

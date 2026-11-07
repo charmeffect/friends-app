@@ -1,0 +1,126 @@
+[
+  { "expression": "the other day", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "a few days ago",
+    "exchanges": [ { "uid": "s04_e05_c16_u006", "answer": "the other day", "responseUid": "s04_e05_c16_u008",
+      "options": ["the other day", "the next week", "the last time", "the whole night"] } ] },
+
+  { "expression": "help yourself", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to let someone take what they want without asking",
+    "exchanges": [ { "uid": "s04_e05_c06_u010", "answer": "help yourself", "responseUid": "s04_e05_c06_u012",
+      "options": ["help yourself", "make yourself", "see yourself", "mind yourself"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [ { "uid": "s04_e05_c01_u002", "answer": "no big deal",
+      "options": ["no big deal", "no hard feelings", "no free lunch", "no small talk"] } ] },
+
+  { "expression": "give me a break", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to ask someone to stop being so hard on you",
+    "exchanges": [ { "uid": "s04_e05_c02_u031", "answer": "give me a break",
+      "options": ["give me a break", "give me a hand", "give me a call", "give me a hint"] } ] },
+
+  { "expression": "show off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to behave in a way meant to attract attention and admiration",
+    "exchanges": [ { "uid": "s04_e05_c02_u037", "answer": "showin' off", "responseUid": null,
+      "options": ["showin' off", "sleepin' in", "workin' out", "runnin' late"] } ] },
+
+  { "expression": "drop off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave something at a place while you are on your way somewhere",
+    "exchanges": [ { "uid": "s04_e05_c12_u002", "answer": "dropped me off", "responseUid": "s04_e05_c12_u004",
+      "options": ["dropped me off", "let me down", "turned me in", "called me back"] } ] },
+
+  { "expression": "my treat", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to tell someone that you will pay for them",
+    "exchanges": [ { "uid": "s04_e05_c09_u015", "answer": "My treat", "cueUid": "s04_e05_c09_u013", "responseUid": null,
+      "options": ["My treat", "My bad", "My call", "My word"] } ] },
+
+  { "expression": "my type", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "the kind of person someone usually finds attractive",
+    "exchanges": [ { "uid": "s04_e05_c11_u005", "answer": "my type", "responseUid": "s04_e05_c11_u007",
+      "options": ["my type", "my size", "my league", "my match"] } ] },
+
+  { "expression": "catch a cold", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to become ill with a cold",
+    "exchanges": [ { "uid": "s04_e05_c08_u013", "answer": "caught your cold",
+      "options": ["caught your cold", "kept your cold", "made your cold", "held your cold"] } ] },
+
+  { "expression": "unemployed", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "without a paid job",
+    "exchanges": [ { "uid": "s04_e05_c02_u020", "answer": "unemployed",
+      "options": ["unemployed", "unprepared", "uninvited", "unimpressed"] } ] },
+
+  { "expression": "on purpose", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "intentionally, not by accident",
+    "exchanges": [ { "uid": "s04_e05_c02_u038", "answer": "on purpose", "responseUid": null,
+      "options": ["on purpose", "by heart", "at once", "in vain"] } ] },
+
+  { "expression": "team up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to put people together so they work as partners",
+    "exchanges": [ { "uid": "s04_e05_c03_u011", "answer": "teamed us up",
+      "options": ["teamed us up", "signed us in", "set us off", "put us through"] } ] },
+
+  { "expression": "lay off", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to stop teasing, criticizing, or bothering someone",
+    "exchanges": [ { "uid": "s04_e05_c04_u019", "answer": "lay off",
+      "options": ["lay off", "get by", "hold on", "run through"] } ] },
+
+  { "expression": "set foot in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to enter or visit a place",
+    "exchanges": [ { "uid": "s04_e05_c05_u025", "answer": "set foot in", "cueUid": "s04_e05_c05_u023",
+      "options": ["set foot in", "took part in", "made way for", "put hands on"] } ] },
+
+  { "expression": "you got me", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to admit that someone has guessed correctly what you were thinking or doing",
+    "exchanges": [ { "uid": "s04_e05_c09_u012", "answer": "You got me",
+      "options": ["You got me", "You made me", "You told me", "You owe me"] } ] },
+
+  { "expression": "tone it down", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make something less extreme or intense",
+    "exchanges": [ { "uid": "s04_e05_c11_u020", "answer": "tone it down", "responseUid": null,
+      "options": ["tone it down", "turn it in", "take it up", "talk it over"] } ] },
+
+  { "expression": "get shot down", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be rejected, especially when asking someone out",
+    "exchanges": [ { "uid": "s04_e05_c02_u021", "answer": "get shot down", "cueUid": "s04_e05_c02_u011",
+      "options": ["get shot down", "get worn out", "get held up", "get cut off"] } ] },
+
+  { "expression": "get out of one's head", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to stop thinking constantly about someone or something",
+    "exchanges": [ { "uid": "s04_e05_c08_u012", "answer": "out of my head",
+      "options": ["out of my head", "off of my chest", "into my hands", "up to my neck"] } ] },
+
+  { "expression": "are we cool", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "asked to check that there are no bad feelings between two people",
+    "exchanges": [ { "uid": "s04_e05_c16_u010", "answer": "are we cool", "cueUid": "s04_e05_c16_u008", "responseUid": "s04_e05_c16_u012",
+      "options": ["are we cool", "are we late", "are we close", "are we sure"] } ] },
+
+  { "expression": "supposedly", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "according to what people say, though it may not be true",
+    "exchanges": [ { "uid": "s04_e05_c08_u006", "answer": "supposedly",
+      "options": ["supposedly", "separately", "suddenly", "similarly"] } ] },
+
+  { "expression": "out on a limb", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "saying or doing something risky that others may not support",
+    "exchanges": [ { "uid": "s04_e05_c02_u031", "answer": "out on a limb",
+      "options": ["out on a limb", "up in the air", "down in the dumps", "off the hook"] } ] },
+
+  { "expression": "initiate", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to start something or cause it to begin",
+    "exchanges": [ { "uid": "s04_e05_c16_u008", "answer": "initiate", "cueUid": "s04_e05_c16_u006", "responseUid": "s04_e05_c16_u010",
+      "options": ["initiate", "imitate", "indicate", "irritate"] } ] },
+
+  { "expression": "exceptionally", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "to an unusually high degree",
+    "exchanges": [ { "uid": "s04_e05_c02_u036", "answer": "exceptionally",
+      "options": ["exceptionally", "exclusively", "eventually", "essentially"] } ] },
+
+  { "expression": "over-the-top", "type": "colloquial", "level": "college", "pos": "adjective",
+    "meaning": "far more extreme or exaggerated than is reasonable",
+    "exchanges": [ { "uid": "s04_e05_c11_u019", "answer": "over-the-top",
+      "options": ["over-the-top", "down-to-earth", "out-of-date", "off-the-record"] } ] },
+
+  { "expression": "square", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a boring, old-fashioned person who always follows the rules",
+    "exchanges": [ { "uid": "s04_e05_c06_u014", "answer": "square", "cueUid": "s04_e05_c06_u012",
+      "options": ["square", "sucker", "rookie", "chicken"] } ] }
+]

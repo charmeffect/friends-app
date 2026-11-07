@@ -1,0 +1,126 @@
+[
+  { "expression": "take out the trash", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to carry the garbage outside to where it is collected",
+    "exchanges": [ { "uid": "s04_e04_c01_u008", "answer": "taken out",
+      "options": ["taken out", "given up", "set off", "turned down"] } ] },
+
+  { "expression": "leave me alone", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "stop bothering me and go away",
+    "exchanges": [ { "uid": "s04_e04_c05_u017", "answer": "Leave me alone",
+      "options": ["Leave me alone", "Let me down", "Take me out", "Keep me up"] } ] },
+
+  { "expression": "on your own", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "without help from anyone else",
+    "exchanges": [ { "uid": "s04_e04_c03_u016", "answer": "on your own", "cueUid": "s04_e04_c03_u014",
+      "options": ["on your own", "in your way", "at your place", "by your side"] } ] },
+
+  { "expression": "can handle it", "type": "colloquial", "level": "elementary", "pos": "verb",
+    "meaning": "to be able to deal with a difficult situation without help",
+    "exchanges": [ { "uid": "s04_e04_c05_u010", "answer": "handle it",
+      "options": ["handle it", "hold it", "carry it", "touch it"] } ] },
+
+  { "expression": "teach someone a lesson", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to punish someone or let them suffer so that they will not behave badly again",
+    "exchanges": [ { "uid": "s04_e04_c03_u004", "answer": "a lesson",
+      "options": ["a lesson", "a lecture", "a trick", "a class"] } ] },
+
+  { "expression": "dress up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to put on nice or special clothes for an occasion",
+    "exchanges": [ { "uid": "s04_e04_c05_u012", "answer": "dressed up",
+      "options": ["dressed up", "worn out", "set off", "put down"] } ] },
+
+  { "expression": "get settled", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to become comfortable and organized in a new home or situation",
+    "exchanges": [ { "uid": "s04_e04_c05_u029", "answer": "get settled", "responseUid": "s04_e04_c05_u031",
+      "options": ["get settled", "get started", "get dressed", "get married"] } ] },
+
+  { "expression": "be cool with", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "to be happy to accept something and not bothered by it",
+    "exchanges": [ { "uid": "s04_e04_c05_u031", "answer": "cool with", "cueUid": "s04_e04_c05_u029", "responseUid": null,
+      "options": ["cool with", "hot on", "cold to", "nice for"] } ] },
+
+  { "expression": "gorgeous", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very beautiful or attractive",
+    "exchanges": [ { "uid": "s04_e04_c05_u004", "answer": "gorgeous",
+      "options": ["gorgeous", "generous", "gracious", "glorious"] } ] },
+
+  { "expression": "access", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "the right or opportunity to use or enter something",
+    "exchanges": [ { "uid": "s04_e04_c06_u010", "answer": "access",
+      "options": ["access", "excess", "assess", "accent"] } ] },
+
+  { "expression": "follow my lead", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "do what I do and copy my movements",
+    "exchanges": [ { "uid": "s04_e04_c10_u003", "answer": "follow my lead",
+      "options": ["follow my lead", "take my word", "hold my place", "watch my back"] } ] },
+
+  { "expression": "for a change", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "as something different from what usually happens",
+    "exchanges": [ { "uid": "s04_e04_c02_u013", "answer": "for a change",
+      "options": ["for a change", "in a way", "at a time", "by a mile"] } ] },
+
+  { "expression": "hold someone's hand", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to give someone support and comfort while they do something difficult",
+    "exchanges": [ { "uid": "s04_e04_c03_u014", "answer": "hold your hand", "responseUid": "s04_e04_c03_u016",
+      "options": ["hold your hand", "shake your hand", "lift your hand", "raise your hand"] } ] },
+
+  { "expression": "fool around", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to kiss or have casual sexual contact with someone",
+    "exchanges": [ { "uid": "s04_e04_c05_u008", "answer": "fooling around",
+      "options": ["fooling around", "catching up", "showing off", "settling down"] } ] },
+
+  { "expression": "flabby", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "soft and loose because of too much fat and not enough muscle",
+    "exchanges": [ { "uid": "s04_e04_c06_u005", "answer": "flabby",
+      "options": ["flabby", "fluffy", "floppy", "flashy"] } ] },
+
+  { "expression": "the other way around", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "in the opposite situation, with the positions of the two people or things reversed",
+    "exchanges": [ { "uid": "s04_e04_c08_u008", "answer": "the other way around",
+      "options": ["the other way around", "the same way again", "the only way through", "the long way home"] } ] },
+
+  { "expression": "get it over with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
+    "exchanges": [ { "uid": "s04_e04_c10_u002", "answer": "get this over with",
+      "options": ["get this over with", "put this up with", "take this out on", "make this up for"] } ] },
+
+  { "expression": "big time", "type": "colloquial", "level": "high", "pos": "adverb",
+    "meaning": "very much; to a great degree",
+    "exchanges": [ { "uid": "s04_e04_c11_u003", "answer": "big time",
+      "options": ["big time", "long run", "high end", "full scale"] } ] },
+
+  { "expression": "hit it off", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to like each other and become friendly as soon as you meet",
+    "exchanges": [ { "uid": "s04_e04_c14_u008", "answer": "hit it off", "responseUid": "s04_e04_c14_u010",
+      "options": ["hit it off", "made it up", "put it on", "took it out"] } ] },
+
+  { "expression": "doomed", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "certain to fail or to suffer something bad",
+    "exchanges": [ { "uid": "s04_e04_c09_u016", "answer": "doomed",
+      "options": ["doomed", "domed", "dimmed", "dented"] } ] },
+
+  { "expression": "in violation of", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "breaking a law, rule, or agreement",
+    "exchanges": [ { "uid": "s04_e04_c04_u008", "answer": "in violation of",
+      "options": ["in violation of", "in favor of", "in charge of", "in front of"] } ] },
+
+  { "expression": "sublet", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to rent a place that you are renting yourself to another person",
+    "exchanges": [ { "uid": "s04_e04_c04_u008", "answer": "subletting",
+      "options": ["subletting", "submitting", "subtracting", "subscribing"] } ] },
+
+  { "expression": "oath", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a serious formal promise to behave in a certain way",
+    "exchanges": [ { "uid": "s04_e04_c05_u006", "answer": "oath", "responseUid": "s04_e04_c05_u009",
+      "options": ["oath", "oasis", "orbit", "omen"] } ] },
+
+  { "expression": "evict", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to legally force someone to leave the home they are renting",
+    "exchanges": [ { "uid": "s04_e04_c05_u022", "answer": "evicted", "responseUid": "s04_e04_c05_u024",
+      "options": ["evicted", "elected", "escorted", "excluded"] } ] },
+
+  { "expression": "lingo", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "the special words and phrases used by a particular group of people",
+    "exchanges": [ { "uid": "s04_e04_c08_u015", "answer": "lingo", "responseUid": null,
+      "options": ["lingo", "logo", "limbo", "lasso"] } ] }
+]

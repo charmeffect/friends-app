@@ -1,0 +1,126 @@
+[
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [ { "uid": "s04_e07_c02_u007", "answer": "work out",
+      "options": ["work out", "show up", "turn in", "pass by"] } ] },
+
+  { "expression": "hang on", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "wait a moment",
+    "exchanges": [ { "uid": "s04_e07_c07_u003", "answer": "Hang on",
+      "options": ["Hang on", "Keep off", "Hold up", "Come in"] } ] },
+
+  { "expression": "have a seat", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "sit down (said politely to a guest)",
+    "exchanges": [ { "uid": "s04_e07_c04_u008", "answer": "Have a seat",
+      "options": ["Have a seat", "Take a step", "Make a stand", "Get a chair"] } ] },
+
+  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said sarcastically to show that something is not important",
+    "exchanges": [ { "uid": "s04_e07_c02_u014", "answer": "big deal",
+      "options": ["big deal", "hard part", "main point", "long story"] } ] },
+
+  { "expression": "settle down", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start living a quiet, steady life, usually with one partner",
+    "exchanges": [ { "uid": "s04_e07_c02_u017", "answer": "settle down",
+      "options": ["settle down", "stand up", "move on", "turn around"] } ] },
+
+  { "expression": "terrific", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "extremely good or wonderful",
+    "exchanges": [ { "uid": "s04_e07_c03_u023", "answer": "terrific",
+      "options": ["terrific", "horrific", "specific", "pathetic"] } ] },
+
+  { "expression": "break down", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop working because of a mechanical failure",
+    "exchanges": [ { "uid": "s04_e07_c04_u013", "answer": "broke down",
+      "options": ["broke down", "ran off", "pulled over", "turned up"] } ] },
+
+  { "expression": "run out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be used up or come to an end",
+    "exchanges": [ { "uid": "s04_e07_c04_u018", "answer": "ran out", "cueUid": "s04_e07_c04_u015",
+      "options": ["ran out", "went by", "came up", "fell off"] } ] },
+
+  { "expression": "afford", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to have enough money to pay for something",
+    "exchanges": [ { "uid": "s04_e07_c07_u010", "answer": "afford",
+      "options": ["afford", "assemble", "arrange", "attract"] } ] },
+
+  { "expression": "lock out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop someone from entering a place by locking the door",
+    "exchanges": [ { "uid": "s04_e07_c07_u002", "answer": "locked myself out",
+      "options": ["locked myself out", "shut myself in", "let myself down", "kept myself up"] } ] },
+
+  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have a strong, often secret, romantic attraction to someone",
+    "exchanges": [ { "uid": "s04_e07_c07_u022", "answer": "crush on",
+      "options": ["crush on", "grudge against", "bet on", "hold over"] } ] },
+
+  { "expression": "bummer", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a disappointing or annoying situation, often said as a reaction to bad news",
+    "exchanges": [ { "uid": "s04_e07_c02_u007", "answer": "Bummer",
+      "options": ["Bummer", "Blunder", "Burden", "Bother"] } ] },
+
+  { "expression": "be in for", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be about to experience something, usually something unpleasant",
+    "exchanges": [ { "uid": "s04_e07_c01_u003", "answer": "in for",
+      "options": ["in for", "up to", "out of", "down with"] } ] },
+
+  { "expression": "call me crazy", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said before giving an opinion that the speaker admits may sound unreasonable",
+    "exchanges": [ { "uid": "s04_e07_c01_u004", "answer": "call me crazy",
+      "options": ["call me crazy", "hold me back", "leave me alone", "make me laugh"] } ] },
+
+  { "expression": "fix up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to arrange a date between two people who have not met",
+    "exchanges": [ { "uid": "s04_e07_c07_u022", "answer": "fix you two up",
+      "options": ["fix you two up", "set you two off", "put you two down", "get you two in"] } ] },
+
+  { "expression": "I've been better", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "a mild way of saying that you are not feeling well or happy",
+    "exchanges": [ { "uid": "s04_e07_c10_u017", "answer": "been better",
+      "options": ["been better", "done worse", "got older", "made good"] } ] },
+
+  { "expression": "behind someone's back", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "secretly, without the person concerned knowing about it",
+    "exchanges": [ { "uid": "s04_e07_c10_u035", "answer": "behind my back",
+      "options": ["behind my back", "over my head", "under my nose", "off my hands"] } ] },
+
+  { "expression": "on purpose", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "intentionally, not by accident",
+    "exchanges": [ { "uid": "s04_e07_c11_u011", "answer": "on purpose", "cueUid": "s04_e07_c11_u009",
+      "options": ["on purpose", "by chance", "in time", "at random"] } ] },
+
+  { "expression": "granted", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "admittedly; used to accept that something is true before making a different point",
+    "exchanges": [ { "uid": "s04_e07_c02_u015", "answer": "granted",
+      "options": ["granted", "hardly", "likewise", "overall"] } ] },
+
+  { "expression": "live with oneself", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to accept your own behaviour without feeling guilty",
+    "exchanges": [ { "uid": "s04_e07_c08_u009", "answer": "live with myself",
+      "options": ["live with myself", "get over myself", "speak for myself", "go by myself"] } ] },
+
+  { "expression": "screw over", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to treat someone very unfairly or cheat them, especially for your own benefit",
+    "exchanges": [ { "uid": "s04_e07_c09_u009", "answer": "screwed over",
+      "options": ["screwed over", "talked down", "looked after", "stood up"] } ] },
+
+  { "expression": "over the line", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "beyond what is acceptable behaviour",
+    "exchanges": [ { "uid": "s04_e07_c10_u036", "answer": "over the line", "responseUid": "s04_e07_c10_u038",
+      "options": ["over the line", "under the radar", "off the hook", "on the fence"] } ] },
+
+  { "expression": "tainted", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "spoiled or made less pure by something bad or immoral",
+    "exchanges": [ { "uid": "s04_e07_c10_u041", "answer": "tainted",
+      "options": ["tainted", "painted", "twisted", "wasted"] } ] },
+
+  { "expression": "dwarf", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to make something seem small or unimportant by comparison",
+    "exchanges": [ { "uid": "s04_e07_c08_u007", "answer": "dwarfed",
+      "options": ["dwarfed", "dwindled", "drained", "dazzled"] } ] },
+
+  { "expression": "have your work cut out for you", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to face a task that will be very difficult to do",
+    "exchanges": [ { "uid": "s04_e07_c10_u023", "answer": "cut out",
+      "options": ["cut out", "put off", "set back", "held up"] } ] }
+]
