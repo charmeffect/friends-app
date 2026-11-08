@@ -1,0 +1,127 @@
+[
+  { "expression": "act one's ass off", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to act with enormous effort and energy",
+    "exchanges": [ { "uid": "s06_e20_c01_u011", "answer": "acting my ass off",
+      "options": ["acting my ass off", "acting my age", "acting on instinct", "acting like a child"] } ] },
+
+  { "expression": "make it", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become successful in your career",
+    "exchanges": [ { "uid": "s06_e20_c01_u015", "answer": "make it", "responseUid": null,
+      "options": ["make it", "fake it", "take it", "break it"] } ] },
+
+  { "expression": "be up for", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "to be one of the people being considered for a job or role",
+    "exchanges": [ { "uid": "s06_e20_c02_u003", "answer": "up for",
+      "options": ["up for", "in on", "out of", "down with"] } ] },
+
+  { "expression": "luck out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be very lucky",
+    "exchanges": [ { "uid": "s06_e20_c02_u005", "answer": "lucked out",
+      "options": ["lucked out", "freaked out", "stood out", "made out"] } ] },
+
+  { "expression": "big cheese", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "the most important or powerful person in a group or organization",
+    "exchanges": [ { "uid": "s06_e20_c02_u007", "answer": "Big Cheese",
+      "options": ["Big Cheese", "Big Apple", "Big Toe", "Big Top"] } ] },
+
+  { "expression": "get your hopes up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to start expecting something good that may not happen",
+    "exchanges": [ { "uid": "s06_e20_c02_u008", "answer": "get your hopes up",
+      "options": ["get your hopes up", "keep your chin up", "put your feet up", "give your seat up"] } ] },
+
+  { "expression": "terrific", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "extremely good or wonderful",
+    "exchanges": [ { "uid": "s06_e20_c02_u012", "answer": "terrific",
+      "options": ["terrific", "tedious", "timid", "tragic"] } ] },
+
+  { "expression": "big break", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "a sudden lucky opportunity that leads to success, especially in a career",
+    "exchanges": [ { "uid": "s06_e20_c03_u018", "answer": "Big Break",
+      "options": ["Big Break", "Big Fall", "Big Loss", "Big Drop"] } ] },
+
+  { "expression": "wish me luck", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said before trying something difficult, asking others to hope you succeed",
+    "exchanges": [ { "uid": "s06_e20_c03_u023", "answer": "Wish me luck", "responseUid": null,
+      "options": ["Wish me luck", "Show me around", "Give me time", "Tell me more"] } ] },
+
+  { "expression": "mess up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to spoil or ruin something",
+    "exchanges": [ { "uid": "s06_e20_c04_u006", "answer": "messed up",
+      "options": ["messed up", "made up", "gave up", "showed up"] } ] },
+
+  { "expression": "callback", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a second audition for actors chosen from the first round",
+    "exchanges": [ { "uid": "s06_e20_c04_u021", "answer": "callback",
+      "options": ["callback", "setback", "comeback", "rollback"] } ] },
+
+  { "expression": "overdue", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "happening later than it should have or than was expected",
+    "exchanges": [ { "uid": "s06_e20_c04_u022", "answer": "overdue",
+      "options": ["overdue", "overseas", "overjoyed", "overcooked"] } ] },
+
+  { "expression": "no offense", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said before a remark to show you do not mean to insult the listener",
+    "exchanges": [ { "uid": "s06_e20_c04_u024", "answer": "no offense",
+      "options": ["no offense", "no kidding", "no wonder", "no problem"] } ] },
+
+
+  { "expression": "take a message", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to write down what a caller wants to say to someone who is not there",
+    "exchanges": [ { "uid": "s06_e20_c07_u002", "answer": "take a message",
+      "options": ["take a message", "make a wish", "have a seat", "pay a visit"] } ] },
+
+  { "expression": "eyesore", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "something very ugly that spoils the look of everything around it",
+    "exchanges": [ { "uid": "s06_e20_c08_u014", "answer": "eyesore",
+      "options": ["eyesore", "eyelash", "eyewitness", "eyeball"] } ] },
+
+  { "expression": "easy for you to say", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when someone gives advice or an opinion without facing the difficulty you face",
+    "exchanges": [ { "uid": "s06_e20_c08_u016", "answer": "easy",
+      "options": ["easy", "rare", "late", "odd"] } ] },
+
+  { "expression": "over the line", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "beyond what is acceptable behaviour",
+    "exchanges": [ { "uid": "s06_e20_c08_u026", "answer": "over the line", "responseUid": null,
+      "options": ["over the line", "out of the loop", "off the hook", "under the weather"] } ] },
+
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s06_e20_c08_u037", "answer": "run into",
+      "options": ["run into", "get over", "look after", "put off"] } ] },
+
+  { "expression": "beat yourself up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to blame or criticize yourself too much for something",
+    "exchanges": [ { "uid": "s06_e20_c09_u003", "answer": "beating yourself up",
+      "options": ["beating yourself up", "cheering yourself up", "giving yourself up", "locking yourself up"] } ] },
+
+  { "expression": "ramble on", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to talk or write at great length in a confused or boring way",
+    "exchanges": [ { "uid": "s06_e20_c09_u018", "answer": "rambled on",
+      "options": ["rambled on", "carried out", "dropped off", "signed up"] } ] },
+
+  { "expression": "get back together", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start a relationship or partnership again after it has ended",
+    "exchanges": [ { "uid": "s06_e20_c09_u019", "answer": "getting back together",
+      "options": ["getting back together", "going back inside", "coming back early", "taking back control"] } ] },
+
+  { "expression": "sell out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to betray someone who trusted you in order to get something for yourself",
+    "exchanges": [ { "uid": "s06_e20_c09_u026", "answer": "sold me out", "responseUid": "s06_e20_c09_u029",
+      "options": ["sold me out", "cheered me up", "checked me out", "wore me out"] } ] },
+
+  { "expression": "go commando", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to wear no underwear",
+    "exchanges": [ { "uid": "s06_e20_c09_u047", "answer": "going commando",
+      "options": ["going commando", "going bananas", "going steady", "going solo"] } ] },
+
+  { "expression": "have someone going", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to make someone believe something that is not true, as a joke",
+    "exchanges": [ { "uid": "s06_e20_c11_u016", "answer": "had me going",
+      "options": ["had me going", "got me thinking", "let me down", "made me laugh"] } ] },
+
+  { "expression": "hold back", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to prevent someone from doing or achieving what they want",
+    "exchanges": [ { "uid": "s06_e20_c12_u014", "answer": "holding us back",
+      "options": ["holding us back", "cheering us up", "showing us off", "giving us up"] } ] }
+]

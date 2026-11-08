@@ -1,0 +1,129 @@
+[
+  { "expression": "interspersed", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "placed here and there among other things",
+    "exchanges": [ { "uid": "s06_e22_c01_u017", "answer": "interspersed",
+      "options": ["interspersed", "infatuated", "incriminated", "insulated"] } ] },
+
+  { "expression": "get someone out of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to help someone avoid having to do something",
+    "exchanges": [ { "uid": "s06_e22_c01_u022", "answer": "got you out of",
+      "options": ["got you out of", "put you up to", "let you in on", "held you back from"] } ] },
+
+  { "expression": "out of town", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "away from the place where you live, usually on a trip",
+    "exchanges": [ { "uid": "s06_e22_c01_u023", "answer": "out of town",
+      "options": ["out of town", "up the wall", "off the record", "over the moon"] } ] },
+
+  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop thinking about something that is over and start something new",
+    "exchanges": [ { "uid": "s06_e22_c01_u029", "answer": "move on",
+      "options": ["move on", "move in", "take on", "pass up"] } ] },
+
+  { "expression": "sweet nothings", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "romantic, affectionate words whispered to a lover",
+    "exchanges": [ { "uid": "s06_e22_c01_u031", "answer": "sweet nothings",
+      "options": ["sweet nothings", "bitter pills", "cold feet", "white lies"] } ] },
+
+  { "expression": "I'm funny like that", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to admit that you behave in an odd or unpredictable way",
+    "exchanges": [ { "uid": "s06_e22_c01_u038", "answer": "funny like that",
+      "options": ["funny like that", "fine with that", "good at that", "sick of that"] } ] },
+
+  { "expression": "a man with a plan", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "said, often ironically, of someone who has clearly worked out what he is going to do",
+    "exchanges": [ { "uid": "s06_e22_c01_u043", "answer": "a plan", "responseUid": null,
+      "options": ["a plan", "a van", "a tan", "a fan"] } ] },
+
+  { "expression": "smug", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "too pleased with yourself in an annoying way",
+    "exchanges": [ { "uid": "s06_e22_c02_u003", "answer": "smug",
+      "options": ["smug", "timid", "clumsy", "naive"] } ] },
+
+  { "expression": "jog someone's memory", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to help someone remember something",
+    "exchanges": [ { "uid": "s06_e22_c02_u008", "answer": "jog your memory",
+      "options": ["jog your memory", "run your mouth", "pick your brain", "lose your temper"] } ] },
+
+  { "expression": "soak up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to enjoy or absorb as much of something as possible",
+    "exchanges": [ { "uid": "s06_e22_c03_u004", "answer": "Soakin' up",
+      "options": ["Soakin' up", "Showin' off", "Makin' up", "Givin' up"] } ] },
+
+  { "expression": "it can't hurt", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to suggest that doing something will not cause any problem and might help",
+    "exchanges": [ { "uid": "s06_e22_c03_u024", "answer": "it can't hurt",
+      "options": ["it can't hurt", "it won't last", "it can't wait", "it isn't fair"] } ] },
+
+  { "expression": "there's no harm in", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "used to say that doing something will not cause any damage or problem",
+    "exchanges": [ { "uid": "s06_e22_c03_u025", "answer": "no harm in",
+      "options": ["no harm in", "no end to", "no sign of", "no rush on"] } ] },
+
+  { "expression": "don't get me started", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to warn that you have strong opinions on a topic and could talk about it for a long time",
+    "exchanges": [ { "uid": "s06_e22_c03_u033", "answer": "get me started", "responseUid": null,
+      "options": ["get me started", "get me wrong", "let me down", "make me laugh"] } ] },
+
+  { "expression": "villain", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a bad or evil character in a story or film",
+    "exchanges": [ { "uid": "s06_e22_c04_u009", "answer": "villains",
+      "options": ["villains", "vegetarians", "veterans", "volunteers"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [
+      { "uid": "s06_e22_c05_u010", "answer": "freaked me out",
+        "options": ["freaked me out", "cheered me up", "let me down", "wore me out"] },
+      { "uid": "s06_e22_c11_u008", "answer": "freaked out",
+        "options": ["freaked out", "made up", "worked out", "showed off"] } ] },
+
+  { "expression": "whatever works", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to accept someone's odd way of doing something as long as it helps them",
+    "exchanges": [ { "uid": "s06_e22_c05_u009", "answer": "whatever works",
+      "options": ["whatever works", "whatever happens", "whoever cares", "wherever possible"] } ] },
+
+  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said sarcastically to show that something is not important",
+    "exchanges": [ { "uid": "s06_e22_c05_u011", "answer": "Big deal",
+      "options": ["Big deal", "Big time", "No wonder", "Fair game"] } ] },
+
+  { "expression": "screen", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to let the answering machine take calls so you can decide whether to answer",
+    "exchanges": [ { "uid": "s06_e22_c06_u002", "answer": "screening",
+      "options": ["screening", "streaming", "scrolling", "stuttering"] } ] },
+
+  { "expression": "secluded", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "quiet, private, and far away from other people",
+    "exchanges": [ { "uid": "s06_e22_c07_u002", "answer": "secluded",
+      "options": ["secluded", "crowded", "polluted", "congested"] } ] },
+
+  { "expression": "be right back", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to return very soon",
+    "exchanges": [ { "uid": "s06_e22_c07_u009", "answer": "be right back",
+      "options": ["be right back", "be just fine", "get right in", "go right ahead"] } ] },
+
+  { "expression": "go straight to your head", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to make you feel drunk or dizzy very quickly",
+    "exchanges": [ { "uid": "s06_e22_c07_u043", "answer": "straight to my head", "responseUid": null,
+      "options": ["straight to my head", "under my skin", "off the hook", "down the drain"] } ] },
+
+  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit a place briefly, often without planning it",
+    "exchanges": [ { "uid": "s06_e22_c09_u005", "answer": "stopped by",
+      "options": ["stopped by", "passed out", "showed off", "signed up"] } ] },
+
+  { "expression": "surprise me", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to let someone choose anything they like for you",
+    "exchanges": [ { "uid": "s06_e22_c10_u008", "answer": "Surprise me",
+      "options": ["Surprise me", "Excuse me", "Forgive me", "Join me"] } ] },
+
+  { "expression": "let me get this straight", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said before repeating something to make sure you have understood it correctly",
+    "exchanges": [ { "uid": "s06_e22_c13_u014", "answer": "got this straight",
+      "options": ["got this straight", "got this done", "put this off", "took this back"] } ] },
+
+  { "expression": "buy", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to believe a story or excuse that may not be true",
+    "exchanges": [ { "uid": "s06_e22_c14_u015", "answer": "buy",
+      "options": ["buy", "pay", "find", "miss"] } ] }
+]

@@ -1,0 +1,124 @@
+[
+  { "expression": "regret", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to feel sorry about something you did and wish you had not done it",
+    "exchanges": [ { "uid": "s06_e25_c01_u003", "answer": "regret",
+      "options": ["regret", "repeat", "recall", "resent"] } ] },
+
+  { "expression": "walk away", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a situation or relationship and stop being involved in it",
+    "exchanges": [ { "uid": "s06_e25_c01_u013", "answer": "walk away",
+      "options": ["walk away", "run over", "come along", "turn up"] } ] },
+
+  { "expression": "fall in love", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to start to love someone romantically",
+    "exchanges": [ { "uid": "s06_e25_c02_u004", "answer": "falling in love",
+      "options": ["falling in love", "falling in line", "getting in shape", "taking in turns"] } ] },
+
+  { "expression": "mate for life", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to stay with the same single partner for the whole of life, as some animals do",
+    "exchanges": [ { "uid": "s06_e25_c03_u003", "answer": "mate for life",
+      "options": ["mate for life", "feed on grass", "sleep in mud", "live in barns"] } ] },
+
+  { "expression": "be all for", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to fully support or approve of something",
+    "exchanges": [ { "uid": "s06_e25_c03_u005", "answer": "all for",
+      "options": ["all for", "sick of", "done with", "out of"] } ] },
+
+  { "expression": "never say never", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to say that you should not rule anything out completely",
+    "exchanges": [ { "uid": "s06_e25_c03_u007", "answer": "never say never",
+      "options": ["never say never", "never mind that", "now or never", "never too late"] } ] },
+
+  { "expression": "strategy", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a carefully planned way of achieving a goal",
+    "exchanges": [ { "uid": "s06_e25_c03_u009", "answer": "strategy",
+      "options": ["strategy", "ceremony", "recipe", "hobby"] } ] },
+
+  { "expression": "backup", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "something kept ready to be used if the main one fails",
+    "exchanges": [ { "uid": "s06_e25_c04_u007", "answer": "backup",
+      "options": ["backup", "setback", "makeup", "checkup"] } ] },
+
+  { "expression": "shake on it", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to shake hands to show that you both agree to a deal",
+    "exchanges": [ { "uid": "s06_e25_c06_u021", "answer": "shook on it", "responseUid": null,
+      "options": ["shook on it", "slept on it", "bet on it", "worked on it"] } ] },
+
+  { "expression": "seal the deal", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make an agreement or success final and certain",
+    "exchanges": [ { "uid": "s06_e25_c04_u019", "answer": "seal the deal",
+      "options": ["seal the deal", "break the ice", "pay the bill", "set the table"] } ] },
+
+  { "expression": "go somewhere", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make progress toward a good result, such as a lasting relationship",
+    "exchanges": [ { "uid": "s06_e25_c05_u009", "answer": "going somewhere",
+      "options": ["going somewhere", "running late", "falling behind", "coming apart"] } ] },
+
+  { "expression": "let's face it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used before admitting an unpleasant truth that cannot be denied",
+    "exchanges": [ { "uid": "s06_e25_c10_u008", "answer": "face it",
+      "options": ["face it", "fix it", "beat it", "keep it"] } ] },
+
+  { "expression": "sorry to hear", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "used to express sympathy about someone's bad news",
+    "exchanges": [ { "uid": "s06_e25_c06_u008", "answer": "sorry to hear",
+      "options": ["sorry to hear", "glad to see", "proud to say", "happy to know"] } ] },
+
+  { "expression": "meant to be", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "destined to happen, especially said of a relationship",
+    "exchanges": [ { "uid": "s06_e25_c06_u009", "answer": "meant to be",
+      "options": ["meant to be", "used to be", "about to be", "going to be"] } ] },
+
+  { "expression": "kick someone's ass", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to beat someone up or defeat them completely",
+    "exchanges": [ { "uid": "s06_e25_c07_u011", "answer": "kick his ass", "responseUid": null,
+      "options": ["kick his ass", "shake his hand", "pick his brain", "take his word"] } ] },
+
+  { "expression": "on the rocks", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "served with ice cubes",
+    "exchanges": [ { "uid": "s06_e25_c08_u011", "answer": "on the rocks",
+      "options": ["on the rocks", "on the line", "on the go", "on the run"] } ] },
+
+  { "expression": "break up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship",
+    "exchanges": [ { "uid": "s06_e25_c08_u015", "answer": "broke up",
+      "options": ["broke up", "broke in", "gave up", "showed up"] } ] },
+
+  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to recover from something unpleasant, such as a breakup",
+    "exchanges": [ { "uid": "s06_e25_c08_u024", "answer": "getting over",
+      "options": ["getting over", "checking in", "showing off", "dropping by"] } ] },
+
+  { "expression": "think things over", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to consider something carefully before making a decision",
+    "exchanges": [
+      { "uid": "s06_e25_c11_u008", "answer": "think things over",
+        "options": ["think things over", "get things done", "keep things clean", "put things away"] },
+      { "uid": "s06_e25_c11_u013", "answer": "thinking things over",
+        "options": ["thinking things over", "getting things done", "keeping things clean", "putting things away"] } ] },
+
+  { "expression": "throw someone off", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to confuse someone so that they do not notice what is really going on",
+    "exchanges": [ { "uid": "s06_e25_c11_u017", "answer": "throw her off",
+      "options": ["throw her off", "get her on", "put her up", "keep her in"] } ] },
+
+  { "expression": "a piece of advice", "type": "phrase", "level": "elementary", "pos": "noun",
+    "meaning": "a single suggestion about what someone should do",
+    "exchanges": [ { "uid": "s06_e25_c11_u022", "answer": "a piece of advice",
+      "options": ["a piece of advice", "a slice of pie", "a cup of tea", "a pair of shoes"] } ] },
+
+  { "expression": "rash", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "done too quickly without thinking carefully about the results",
+    "exchanges": [ { "uid": "s06_e25_c09_u021", "answer": "rash",
+      "options": ["rash", "quiet", "lucky", "polite"] } ] },
+
+  { "expression": "back talk", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "rude or disrespectful replies to someone who has authority over you",
+    "exchanges": [ { "uid": "s06_e25_c09_u013", "answer": "back talk",
+      "options": ["back talk", "small talk", "pep talk", "pillow talk"] } ] },
+
+  { "expression": "old maid", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "an old-fashioned, unkind term for an older woman who has never married",
+    "exchanges": [ { "uid": "s06_e25_c09_u016", "answer": "old maid",
+      "options": ["old maid", "old flame", "old hand", "old timer"] } ] }
+]

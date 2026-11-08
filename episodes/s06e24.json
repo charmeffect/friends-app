@@ -1,0 +1,487 @@
+[
+{
+  "expression": "propose a toast",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ask people to raise their glasses and drink in honour of someone",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c01_u008",
+      "answer": "proposing a toast",
+      "responseUid": "s06_e24_c01_u010",
+      "options": [
+        "proposing a toast",
+        "paying a visit",
+        "taking a bow",
+        "making a scene"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mess up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spoil or ruin something",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c01_u012",
+      "answer": "mess it up",
+      "responseUid": "s06_e24_c01_u014",
+      "options": [
+        "mess it up",
+        "make it up",
+        "give it up",
+        "sum it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "underprivileged",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "poor and having fewer opportunities than most people in society",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c02_u005",
+      "answer": "underprivileged",
+      "options": [
+        "underprivileged",
+        "overqualified",
+        "unidentified",
+        "overrated"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's about time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something should happen now because it has been delayed long enough",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c02_u016",
+      "answer": "it's about time",
+      "options": [
+        "it's about time",
+        "it's no wonder",
+        "it's too late",
+        "it's not fair"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do your part",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to contribute your share of effort to a shared cause",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c02_u022",
+      "answer": "doing your part",
+      "options": [
+        "doing your part",
+        "taking your turn",
+        "making your point",
+        "playing your cards"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all jokes aside",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to show that you are now going to talk seriously",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c02_u024",
+      "answer": "All jokes aside",
+      "responseUid": "s06_e24_c02_u026",
+      "options": [
+        "All jokes aside",
+        "All of a sudden",
+        "All the same",
+        "All the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mature",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "behaving in a sensible, adult way",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c02_u031",
+      "answer": "mature",
+      "options": [
+        "mature",
+        "spoiled",
+        "clumsy",
+        "stubborn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lay out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to spread things out or arrange them so they can be seen",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c04_u005",
+      "answer": "lay out",
+      "options": [
+        "lay out",
+        "give up",
+        "put off",
+        "turn in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bid on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to offer a price for something, especially at an auction",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c04_u018",
+      "answer": "bid on",
+      "responseUid": "s06_e24_c04_u020",
+      "options": [
+        "bid on",
+        "pick on",
+        "count on",
+        "pass on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stop by",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit a place briefly, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c05_u007",
+      "answer": "stopped by",
+      "options": [
+        "stopped by",
+        "showed off",
+        "dropped out",
+        "held back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "can't stand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to strongly dislike someone or something",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c06_u011",
+      "answer": "can't stand",
+      "options": [
+        "can't stand",
+        "can't explain",
+        "can't reach",
+        "can't spell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c08_u024",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "take over",
+        "give in",
+        "show up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walk in on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enter a room and unexpectedly find people doing something private",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c09_u007",
+      "answer": "walked in on",
+      "options": [
+        "walked in on",
+        "ran out on",
+        "looked out for",
+        "came down with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bump into",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c10_u003",
+      "answer": "bumped into",
+      "options": [
+        "bumped into",
+        "looked after",
+        "picked on",
+        "gave up on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get out of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to avoid doing something you are supposed to do",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c10_u010",
+      "answer": "get out of",
+      "options": [
+        "get out of",
+        "look forward to",
+        "come up with",
+        "run out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no way",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something is impossible or will definitely not happen",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c11_u031",
+      "answer": "No way",
+      "options": [
+        "No way",
+        "No wonder",
+        "No kidding",
+        "No offense"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who cares",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that something does not matter to you",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c11_u035",
+      "answer": "Who cares",
+      "options": [
+        "Who cares",
+        "Who's next",
+        "Who said",
+        "Who's there"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "peace and quiet",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a calm situation without noise or disturbance",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c11_u029",
+      "answer": "peace and quiet",
+      "options": [
+        "peace and quiet",
+        "salt and pepper",
+        "rock and roll",
+        "bread and butter"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw someone off",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to confuse someone so that they do not notice what is really going on",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c12_u021",
+      "answer": "throw her off",
+      "responseUid": "s06_e24_c12_u023",
+      "options": [
+        "throw her off",
+        "put her up",
+        "take her in",
+        "let her down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the last thing on one's mind",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "something you are not thinking about or interested in at all",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c12_u022",
+      "answer": "last thing",
+      "options": [
+        "last thing",
+        "best part",
+        "main idea",
+        "big picture"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pay off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to bring a good result after time, effort, or money has been spent",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c12_u025",
+      "answer": "pay off",
+      "options": [
+        "pay off",
+        "pass out",
+        "break down",
+        "show up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep tabs on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to watch someone or something carefully to know what they are doing",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c14_u008",
+      "answer": "keep tabs on",
+      "options": [
+        "keep tabs on",
+        "get rid of",
+        "run out of",
+        "look up to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "branch out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to start doing new or different things beyond your usual activities",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c14_u010",
+      "answer": "branching out",
+      "options": [
+        "branching out",
+        "backing off",
+        "dropping out",
+        "checking in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "suck",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very bad or disappointing",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c13_u005",
+      "answer": "suck",
+      "responseUid": "s06_e24_c13_u008",
+      "options": [
+        "suck",
+        "snore",
+        "melt",
+        "sink"
+      ]
+    }
+  ]
+}
+]
