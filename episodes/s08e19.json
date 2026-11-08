@@ -1,0 +1,480 @@
+[
+  {
+    "expression": "check it out",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "said to make someone look at something interesting you are showing them",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c10_u004",
+        "answer": "Check it out",
+        "options": [
+          "Check it out",
+          "Cut it out",
+          "Work it out",
+          "Hand it over"
+        ],
+        "cueUid": "s08_e19_c10_u002"
+      }
+    ]
+  },
+  {
+    "expression": "to go",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "ordered to be taken away rather than eaten or drunk in the cafe",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c06_u010",
+        "answer": "to go",
+        "options": [
+          "to go",
+          "to stay",
+          "to share",
+          "to keep"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "hang on",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "wait a moment",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c02_u036",
+        "answer": "Hang on",
+        "options": [
+          "Hang on",
+          "Carry on",
+          "Move on",
+          "Come on"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "appreciate",
+    "type": "word",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to be grateful for something someone has done",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c02_u002",
+        "answer": "appreciate",
+        "options": [
+          "appreciate",
+          "regret",
+          "doubt",
+          "resent"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "spare time",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "noun",
+    "meaning": "time when you are not working and can do what you like",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c02_u046",
+        "answer": "spare time",
+        "options": [
+          "spare time",
+          "short notice",
+          "first place",
+          "due course"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "hold one's breath",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to stop breathing for a while on purpose",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c02_u053",
+        "answer": "holding his breath",
+        "options": [
+          "holding his breath",
+          "catching his breath",
+          "losing his temper",
+          "keeping his word"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "role model",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "noun",
+    "meaning": "a person whose behavior others, especially young people, copy and admire",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c03_u027",
+        "answer": "role model",
+        "options": [
+          "role model",
+          "guest star",
+          "stunt double",
+          "tour guide"
+        ],
+        "cueUid": "s08_e19_c02_u046"
+      }
+    ]
+  },
+  {
+    "expression": "eat right",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to eat healthy food in sensible amounts",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c03_u034",
+        "answer": "eat right",
+        "options": [
+          "eat right",
+          "eat out",
+          "eat up",
+          "eat in"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "what's not to like",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "used to say that something has nothing bad about it",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c04_u012",
+        "answer": "What's not to like",
+        "options": [
+          "What's not to like",
+          "What's the big deal",
+          "What's the catch",
+          "What's the hurry"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "best buds",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "noun",
+    "meaning": "very close friends",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c07_u029",
+        "answer": "best buds",
+        "options": [
+          "best buds",
+          "old flames",
+          "big shots",
+          "close calls"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "guilty",
+    "type": "word",
+    "level": "middle",
+    "pos": "adjective",
+    "meaning": "feeling bad because you think you have done something wrong",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c09_u002",
+        "answer": "guilty",
+        "options": [
+          "guilty",
+          "grateful",
+          "jealous",
+          "nervous"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "look someone up",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to find and visit or contact someone you have not seen for a long time",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c02_u031",
+        "answer": "look me up",
+        "options": [
+          "look me up",
+          "show me off",
+          "turn me down",
+          "pass me by"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "a little much",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "slightly too much or too extreme for the situation",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c03_u002",
+        "answer": "a little much",
+        "options": [
+          "a little much",
+          "a little late",
+          "a little short",
+          "a little early"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "pass out",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to suddenly become unconscious or fall asleep",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c04_u003",
+        "answer": "passed out",
+        "options": [
+          "passed out",
+          "passed on",
+          "made out",
+          "stood out"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "from scratch",
+    "type": "phrase",
+    "level": "high",
+    "pos": "adverb",
+    "meaning": "from the very beginning, using basic ingredients or materials rather than ready-made ones",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c04_u007",
+        "answer": "from scratch",
+        "options": [
+          "from scratch",
+          "by heart",
+          "on purpose",
+          "at random"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "kill off",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to remove a character from a story by making them die",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c06_u011",
+        "answer": "killed you off",
+        "options": [
+          "killed you off",
+          "signed you up",
+          "called you back",
+          "cut you in"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "hell of a",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "used to emphasize that something was very intense, hard, or remarkable",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c09_u003",
+        "answer": "hell of a",
+        "options": [
+          "hell of a",
+          "piece of a",
+          "bit of a",
+          "sort of a"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "tough call",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "noun",
+    "meaning": "a decision that is difficult to make",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c09_u012",
+        "answer": "tough call",
+        "options": [
+          "tough call",
+          "close shave",
+          "low blow",
+          "cheap shot"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "step up",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to take action and accept responsibility when something needs to be done",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c09_u020",
+        "answer": "stepped up",
+        "options": [
+          "stepped up",
+          "backed off",
+          "gave in",
+          "stood by"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "keep in check",
+    "type": "phrase",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to control something so that it does not get worse or go too far",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c01_u015",
+        "answer": "keep it in check",
+        "options": [
+          "keep it in check",
+          "keep it in stock",
+          "keep it on file",
+          "keep it on ice"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "regime",
+    "type": "word",
+    "level": "college",
+    "pos": "noun",
+    "meaning": "a fixed plan of diet, exercise, or treatment that you follow regularly",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c03_u033",
+        "answer": "regime",
+        "options": [
+          "regime",
+          "rumor",
+          "ritual",
+          "résumé"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "in moderation",
+    "type": "phrase",
+    "level": "college",
+    "pos": "adverb",
+    "meaning": "in reasonable amounts, not too much",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c06_u008",
+        "answer": "in moderation",
+        "options": [
+          "in moderation",
+          "in advance",
+          "in vain",
+          "in person"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "off the record",
+    "type": "phrase",
+    "level": "college",
+    "pos": "adverb",
+    "meaning": "said unofficially, not to be published or quoted",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c09_u028",
+        "answer": "off the record",
+        "options": [
+          "off the record",
+          "off the hook",
+          "on the house",
+          "on the spot"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "repel",
+    "type": "word",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to make someone not want to be near you",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c12_u020",
+        "answer": "repel",
+        "options": [
+          "repel",
+          "impress",
+          "seduce",
+          "flatter"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "gal pal",
+    "type": "colloquial",
+    "level": "expert",
+    "pos": "noun",
+    "meaning": "a female friend, a phrase often used in gossip magazines",
+    "exchanges": [
+      {
+        "uid": "s08_e19_c01_u020",
+        "responseUid": null,
+        "answer": "gal pal",
+        "options": [
+          "gal pal",
+          "pen pal",
+          "old flame",
+          "right hand"
+        ]
+      }
+    ]
+  }
+]

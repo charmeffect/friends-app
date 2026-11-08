@@ -1,0 +1,134 @@
+[
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s08_e21_c03_u006", "answer": "hang out",
+      "options": ["hang out", "make out", "pass out", "give out"] } ] },
+
+  { "expression": "pay attention", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to listen to or watch something carefully",
+    "exchanges": [ { "uid": "s08_e21_c03_u009", "answer": "pay attention",
+      "options": ["pay attention", "take turns", "give way", "make way"] } ] },
+
+  { "expression": "grab some coffee", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to go and have a quick, casual coffee with someone",
+    "exchanges": [ { "uid": "s08_e21_c07_u009", "answer": "grab some coffee",
+      "options": ["grab some coffee", "break some news", "pick some flowers", "hold some hands"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [
+      { "uid": "s08_e21_c02_u004", "answer": "freaking out",
+        "options": ["freaking out", "backing off", "showing off", "cashing in"] },
+      { "uid": "s08_e21_c09_u005", "answer": "freak out",
+        "options": ["freak out", "back off", "show off", "cash in"] } ] },
+
+  { "expression": "due date", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "the date on which a baby is expected to be born",
+    "exchanges": [ { "uid": "s08_e21_c02_u006", "answer": "due date",
+      "options": ["due date", "due course", "blind date", "play date"] } ] },
+
+  { "expression": "revenge", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "the act of hurting or punishing someone because they hurt you",
+    "exchanges": [ { "uid": "s08_e21_c03_u014", "answer": "revenge",
+      "options": ["revenge", "rescue", "retreat", "recipe"] } ] },
+
+  { "expression": "get your hopes up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to start expecting something good that may not happen",
+    "exchanges": [ { "uid": "s08_e21_c05_u020", "answer": "get your hopes up",
+      "options": ["get your hopes up", "keep your head down", "get your feet wet", "keep your chin up"] } ] },
+
+  { "expression": "look forward to", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to feel pleased and excited about something that is going to happen",
+    "exchanges": [ { "uid": "s08_e21_c13_u020", "answer": "look forward to",
+      "cueUid": "s08_e21_c13_u018", "responseUid": null,
+      "options": ["look forward to", "look down on", "look out for", "look up to"] } ] },
+
+  { "expression": "fit in", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be accepted by a group because you are like its other members",
+    "exchanges": [ { "uid": "s08_e21_c13_u013", "answer": "fit in",
+      "options": ["fit in", "fill in", "give in", "cave in"] } ] },
+
+  { "expression": "have one's share of", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "to have experienced a fair amount of something, usually something bad",
+    "exchanges": [ { "uid": "s08_e21_c01_u005", "answer": "my share of",
+      "options": ["my share of", "my fear of", "my love of", "my dream of"] } ] },
+
+  { "expression": "bad press", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "negative reports or criticism in newspapers and other media",
+    "exchanges": [ { "uid": "s08_e21_c01_u017", "answer": "bad press", "responseUid": null,
+      "options": ["bad press", "bad shoes", "bad dreams", "bad debt"] } ] },
+
+  { "expression": "crib", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a small bed with high barred sides for a baby",
+    "exchanges": [ { "uid": "s08_e21_c02_u010", "answer": "crib",
+      "options": ["crib", "couch", "grill", "ladder"] } ] },
+
+  { "expression": "worked up", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "upset, angry, or very excited about something",
+    "exchanges": [ { "uid": "s08_e21_c04_u013", "answer": "worked up",
+      "options": ["worked up", "fed up", "dressed up", "signed up"] } ] },
+
+  { "expression": "flirt", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to behave toward someone in a playful way that shows you are romantically interested",
+    "exchanges": [ { "uid": "s08_e21_c05_u006", "answer": "flirting",
+      "options": ["flirting", "flinching", "floating", "flipping"] } ] },
+
+  { "expression": "live in your own little world", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to be out of touch with reality and focused only on your own ideas",
+    "exchanges": [ { "uid": "s08_e21_c03_u017", "answer": "own little world",
+      "options": ["own little world", "own big house", "own small room", "own quiet town"] } ] },
+
+  { "expression": "job description", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "the official list of the tasks and duties that a job involves",
+    "exchanges": [ { "uid": "s08_e21_c07_u006", "answer": "job description",
+      "options": ["job description", "job interview", "job title", "job market"] } ] },
+
+  { "expression": "have your hands full", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be very busy or have a lot of difficult things to deal with",
+    "exchanges": [ { "uid": "s08_e21_c13_u003", "answer": "had your hands full",
+      "options": ["had your hands full", "had your fingers crossed", "had your feet up", "had your back turned"] } ] },
+
+  { "expression": "abysmal", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "extremely bad or of very poor quality",
+    "exchanges": [ { "uid": "s08_e21_c01_u022", "answer": "abysmal",
+      "cueUid": "s08_e21_c01_u020", "responseUid": null,
+      "options": ["abysmal", "abnormal", "abrasive", "abstract"] } ] },
+
+  { "expression": "come off", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to give a particular impression to other people",
+    "exchanges": [
+      { "uid": "s08_e21_c05_u030", "answer": "come off",
+        "options": ["come off", "go off", "get off", "put off"] },
+      { "uid": "s08_e21_c09_u002", "answer": "come off",
+        "options": ["come off", "go off", "get off", "put off"] } ] },
+
+  { "expression": "torn", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "unable to decide between two choices because you want both",
+    "exchanges": [ { "uid": "s08_e21_c06_u008", "answer": "torn",
+      "options": ["torn", "sore", "worn", "bent"] } ] },
+
+  { "expression": "sidestep", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to avoid dealing with a problem or difficulty",
+    "exchanges": [ { "uid": "s08_e21_c13_u016", "answer": "sidestep",
+      "options": ["sidestep", "sidetrack", "sideline", "sideswipe"] } ] },
+
+  { "expression": "hats off to", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to praise or congratulate someone for what they have done",
+    "exchanges": [ { "uid": "s08_e21_c10_u011", "answer": "hats off to", "responseUid": null,
+      "options": ["hats off to", "hands off to", "heads up to", "thumbs down to"] } ] },
+
+  { "expression": "brazen", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "bold and shameless, without caring what others think",
+    "exchanges": [ { "uid": "s08_e21_c05_u010", "answer": "brazen",
+      "options": ["brazen", "broken", "brittle", "barren"] } ] },
+
+  { "expression": "about to pop", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "very close to giving birth",
+    "exchanges": [ { "uid": "s08_e21_c05_u012", "answer": "about to pop",
+      "options": ["about to pop", "about to sing", "about to shop", "about to swim"] } ] },
+
+  { "expression": "beck and call", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "the state of being always ready to do whatever someone asks",
+    "exchanges": [ { "uid": "s08_e21_c14_u019", "answer": "beck and call",
+      "options": ["beck and call", "rise and shine", "rack and ruin", "hide and seek"] } ] }
+]

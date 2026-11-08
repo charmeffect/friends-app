@@ -1,0 +1,127 @@
+[
+  { "expression": "get to know", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time with someone so that you learn what they are like",
+    "exchanges": [ { "uid": "s08_e24_c08_u007", "answer": "get to know",
+      "options": ["get to know", "get to pay", "come to tell", "have to ask"] } ] },
+
+  { "expression": "start over", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to begin something again from the beginning",
+    "exchanges": [ { "uid": "s08_e24_c10_u014", "answer": "start over",
+      "options": ["start over", "hand over", "pass over", "turn over"] } ] },
+
+  { "expression": "on your own", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "without help from anyone else",
+    "exchanges": [ { "uid": "s08_e24_c14_u014", "answer": "on your own",
+      "options": ["on your own", "in your way", "at your best", "off your list"] } ] },
+
+  { "expression": "like crazy", "type": "colloquial", "level": "middle", "pos": "adverb",
+    "meaning": "very much, very fast, or with great intensity",
+    "exchanges": [ { "uid": "s08_e24_c08_u005", "answer": "like crazy",
+      "options": ["like crazy", "like magic", "like clockwork", "like new"] } ] },
+
+  { "expression": "deaf", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "unable to hear",
+    "exchanges": [ { "uid": "s08_e24_c04_u011", "answer": "deaf",
+      "responseUid": "s08_e24_c04_u013",
+      "options": ["deaf", "bald", "broke", "shy"] } ] },
+
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s08_e24_c09_u004", "answer": "making up",
+      "options": ["making up", "giving up", "taking up", "setting up"] } ] },
+
+  { "expression": "pick out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to choose or remove something from a group",
+    "exchanges": [ { "uid": "s08_e24_c12_u038", "answer": "picked out",
+      "options": ["picked out", "worn out", "left out", "thrown out"] } ] },
+
+  { "expression": "named after", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "given the same name as another person or thing",
+    "exchanges": [ { "uid": "s08_e24_c12_u039", "answer": "named after",
+      "options": ["named after", "called for", "known by", "looked like"] } ] },
+
+  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start talking about a subject",
+    "exchanges": [ { "uid": "s08_e24_c14_u031", "answer": "brought it up",
+      "options": ["brought it up", "took it back", "gave it away", "put it off"] } ] },
+
+  { "expression": "be on the safe side", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "to take extra care so that nothing goes wrong, even if it may not be necessary",
+    "exchanges": [ { "uid": "s08_e24_c02_u004", "answer": "on the safe side",
+      "options": ["on the safe side", "on the right track", "in the long run", "at the last minute"] } ] },
+
+  { "expression": "far along", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "having made a lot of progress, especially in a pregnancy or labor",
+    "exchanges": [ { "uid": "s08_e24_c03_u006", "answer": "far along",
+      "cueUid": "s08_e24_c03_u003",
+      "options": ["far along", "well off", "long gone", "hard up"] } ] },
+
+  { "expression": "narrow down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to reduce the number of possibilities to a few",
+    "exchanges": [ { "uid": "s08_e24_c12_u024", "answer": "narrowed it down",
+      "options": ["narrowed it down", "turned it down", "written it off", "handed it over"] } ] },
+
+  { "expression": "take your breath away", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to be so beautiful or impressive that it amazes you",
+    "exchanges": [ { "uid": "s08_e24_c14_u003", "answer": "takes your breath away",
+      "options": ["takes your breath away", "gives your age away", "takes your seat away", "puts your mind away"] } ] },
+
+  { "expression": "a keeper", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a person or thing so good that you should hold on to them",
+    "exchanges": [ { "uid": "s08_e24_c14_u004", "answer": "a keeper",
+      "options": ["a keeper", "a tenant", "a lawyer", "a waiter"] } ] },
+
+  { "expression": "sleep-deprived", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "very tired because you have not had enough sleep",
+    "exchanges": [ { "uid": "s08_e24_c12_u017", "answer": "sleep deprived",
+      "responseUid": null,
+      "options": ["sleep deprived", "short sighted", "color blind", "left handed"] } ] },
+
+  { "expression": "commitment issues", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a fear of or difficulty with staying in a long-term serious relationship",
+    "exchanges": [ { "uid": "s08_e24_c02_u016", "answer": "commitment issues",
+      "options": ["commitment issues", "parking tickets", "weather patterns", "tax returns"] } ] },
+
+  { "expression": "widower", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a man whose wife has died and who has not married again",
+    "exchanges": [ { "uid": "s08_e24_c02_u019", "answer": "widower",
+      "options": ["widower", "landlord", "volunteer", "plumber"] } ] },
+
+  { "expression": "in that place", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "at the emotional stage of a relationship where you are ready for something",
+    "exchanges": [
+      { "uid": "s08_e24_c04_u021", "answer": "in that place",
+        "options": ["in that place", "on that bus", "at that party", "in that club"] },
+      { "uid": "s08_e24_c15_u009", "answer": "in that place",
+        "options": ["in that place", "on that bus", "at that party", "in that club"] } ] },
+
+  { "expression": "dial down", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to reduce the intensity or amount of something",
+    "exchanges": [ { "uid": "s08_e24_c10_u017", "answer": "dial down",
+      "options": ["dial down", "back up", "break down", "wear out"] } ] },
+
+  { "expression": "go down that road", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to start discussing or doing something that is likely to lead to trouble",
+    "exchanges": [ { "uid": "s08_e24_c14_u030", "answer": "go down that road",
+      "options": ["go down that road", "go back that way", "get off that bus", "take up that job"] } ] },
+
+  { "expression": "nab", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to catch or get someone or something quickly, often before others can",
+    "exchanges": [ { "uid": "s08_e24_c04_u007", "answer": "nabbed",
+      "options": ["nabbed", "dumped", "fired", "robbed"] } ] },
+
+  { "expression": "freak show", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a place or situation full of strange or shocking sights",
+    "exchanges": [ { "uid": "s08_e24_c16_u002", "answer": "freak show",
+      "options": ["freak show", "bake sale", "book club", "car wash"] } ] },
+
+  { "expression": "unwitting", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "not aware of what is happening or of the part you are playing in it",
+    "exchanges": [ { "uid": "s08_e24_c07_u013", "answer": "unwitting",
+      "options": ["unwitting", "unbeaten", "unspoken", "untidy"] } ] },
+
+  { "expression": "stand-up guy", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "an honest, loyal man who does the right thing",
+    "exchanges": [ { "uid": "s08_e24_c05_u007", "answer": "stand up guy",
+      "options": ["stand up guy", "washed up guy", "mixed up guy", "laid off guy"] } ] }
+]

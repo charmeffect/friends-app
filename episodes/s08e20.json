@@ -1,0 +1,116 @@
+[
+  { "expression": "head count", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "the total number of people who will attend or are present",
+    "exchanges": [ { "uid": "s08_e20_c01_u005", "answer": "head count",
+      "options": ["head count", "face value", "body check", "foot traffic"] } ] },
+
+  { "expression": "give it a rest", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "stop talking or complaining about something because it is annoying",
+    "exchanges": [ { "uid": "s08_e20_c01_u015", "answer": "give it a rest",
+      "options": ["give it a rest", "keep it a secret", "make it a habit", "call it a day"] } ] },
+
+  { "expression": "impromptu", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "done or arranged suddenly without planning or preparation",
+    "exchanges": [ { "uid": "s08_e20_c01_u024", "answer": "impromptu", "responseUid": "s08_e20_c01_u026",
+      "options": ["impromptu", "annual", "elaborate", "formal"] } ] },
+
+  { "expression": "shoot some hoops", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to play basketball casually, often just throwing the ball at the basket",
+    "exchanges": [ { "uid": "s08_e20_c02_u002", "answer": "shoot some hoops",
+      "options": ["shoot some hoops", "pay some bills", "cut some corners", "break some rules"] } ] },
+
+  { "expression": "contestant", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a person who takes part in a competition or game show",
+    "exchanges": [ { "uid": "s08_e20_c02_u010", "answer": "contestants",
+      "options": ["contestants", "architects", "landlords", "tenants"] } ] },
+
+  { "expression": "close enough", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not exactly right but near enough to be accepted",
+    "exchanges": [ { "uid": "s08_e20_c02_u024", "answer": "close enough",
+      "options": ["close enough", "too early", "so cheap", "less often"] } ] },
+
+  { "expression": "small talk", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "polite conversation about unimportant things, especially with people you do not know well",
+    "exchanges": [ { "uid": "s08_e20_c03_u010", "answer": "small talk",
+      "options": ["small talk", "big deal", "short cut", "fast food"] } ] },
+
+  { "expression": "afford", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to have enough money to pay for something",
+    "exchanges": [ { "uid": "s08_e20_c03_u022", "answer": "afford",
+      "options": ["afford", "borrow", "repeat", "invent"] } ] },
+
+  { "expression": "hold your breath", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop breathing in air for a short time on purpose",
+    "exchanges": [ { "uid": "s08_e20_c04_u004", "answer": "Hold your breath",
+      "options": ["Hold your breath", "Make your bed", "Pack your bags", "Wash your hands"] } ] },
+
+  { "expression": "make sense", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be a reasonable or logical thing to say or do",
+    "exchanges": [ { "uid": "s08_e20_c04_u018", "answer": "makes no sense",
+      "options": ["makes no sense", "takes no time", "does no harm", "pays no rent"] } ] },
+
+  { "expression": "taxing", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "needing a lot of mental or physical effort, and therefore tiring",
+    "exchanges": [ { "uid": "s08_e20_c05_u006", "answer": "taxing",
+      "options": ["taxing", "soothing", "thrilling", "rewarding"] } ] },
+
+  { "expression": "swoop in", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to move in quickly and suddenly to take an opportunity",
+    "exchanges": [ { "uid": "s08_e20_c05_u014", "answer": "swoop in",
+      "options": ["swoop in", "back off", "drop out", "sneak off"] } ] },
+
+  { "expression": "on your own", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "without help from anyone else",
+    "exchanges": [ { "uid": "s08_e20_c05_u022", "answer": "on my own",
+      "options": ["on my own", "by my side", "in my way", "at my desk"] } ] },
+
+  { "expression": "fall apart", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to fail completely or stop working, used of relationships and plans",
+    "exchanges": [ { "uid": "s08_e20_c05_u027", "answer": "falling apart",
+      "options": ["falling apart", "showing off", "making up", "giving in"] } ] },
+
+  { "expression": "worth a shot", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "worth trying even though it may not succeed",
+    "exchanges": [ { "uid": "s08_e20_c07_u010", "answer": "worth a shot",
+      "options": ["worth a shot", "over the top", "on the house", "up for grabs"] } ] },
+
+  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to look after someone who needs help",
+    "exchanges": [ { "uid": "s08_e20_c07_u020", "answer": "take care of",
+      "options": ["take care of", "take part in", "make fun of", "run out of"] } ] },
+
+  { "expression": "drive someone crazy", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to annoy someone very much over a long time",
+    "exchanges": [ { "uid": "s08_e20_c07_u021", "answer": "drive us totally crazy",
+      "options": ["drive us totally crazy", "keep us totally safe", "make us totally rich", "leave us totally alone"] } ] },
+
+  { "expression": "give yourself credit", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to recognize your own abilities or achievements",
+    "exchanges": [ { "uid": "s08_e20_c09_u024", "answer": "give yourself credit",
+      "options": ["give yourself credit", "make yourself useful", "keep yourself busy", "help yourself out"] } ] },
+
+  { "expression": "albeit", "type": "word", "level": "expert", "pos": "adverb",
+    "meaning": "although; used to add a fact that slightly limits what was just said",
+    "exchanges": [ { "uid": "s08_e20_c09_u032", "answer": "albeit",
+      "options": ["albeit", "whereas", "unless", "hence"] } ] },
+
+  { "expression": "tell off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to speak angrily to someone because they have done something wrong",
+    "exchanges": [ { "uid": "s08_e20_c09_u034", "answer": "tell her off",
+      "options": ["tell her off", "let her down", "cheer her up", "turn her down"] } ] },
+
+  { "expression": "spiteful", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "deliberately unkind because you want to hurt or upset someone",
+    "exchanges": [ { "uid": "s08_e20_c09_u037", "answer": "spiteful", "responseUid": "s08_e20_c09_u039",
+      "options": ["spiteful", "grateful", "graceful", "peaceful"] } ] },
+
+  { "expression": "know your stuff", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to know a lot about a subject and be well prepared",
+    "exchanges": [ { "uid": "s08_e20_c10_u004", "answer": "know my stuff",
+      "options": ["know my stuff", "mind my business", "pull my weight", "make my point"] } ] },
+
+  { "expression": "lose sight of", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to forget or stop paying attention to something important, such as a goal or reason",
+    "exchanges": [ { "uid": "s08_e20_c10_u013", "answer": "lost sight of", "responseUid": null,
+      "options": ["lost sight of", "made fun of", "taken care of", "run out of"] } ] }
+]
