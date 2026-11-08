@@ -1,0 +1,512 @@
+[
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c10_u007",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "run out",
+        "check out",
+        "drop out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "figure out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand or solve something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c11_u010",
+      "answer": "figure it out",
+      "options": [
+        "figure it out",
+        "make it up",
+        "work it off",
+        "get it in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take care of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to look after someone who needs help",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c09_u005",
+      "answer": "take care of",
+      "options": [
+        "take care of",
+        "take part in",
+        "make fun of",
+        "take note of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dress up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to put on nice or special clothes for an occasion",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c02_u017",
+      "answer": "dressed up",
+      "options": [
+        "dressed up",
+        "washed up",
+        "locked out",
+        "signed in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang in there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "keep going and do not give up during a difficult time",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c08_u013",
+      "answer": "Hang in there",
+      "options": [
+        "Hang in there",
+        "Hang out there",
+        "Back off there",
+        "Look out there"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fill me in",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "tell me the details of what has happened that I do not know about",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c11_u001",
+      "answer": "fill me in",
+      "options": [
+        "fill me in",
+        "fill me up",
+        "hold me back",
+        "turn me down"
+      ]
+    },
+    {
+      "uid": "s09_e11_c11_u011",
+      "answer": "fill me in",
+      "responseUid": null,
+      "options": [
+        "fill me in",
+        "fill me up",
+        "hold me back",
+        "turn me down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "postpone",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to arrange for something to happen at a later time than planned",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c06_u008",
+      "answer": "postpone",
+      "options": [
+        "postpone",
+        "promote",
+        "propose",
+        "pretend"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "loan",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give someone money that they will pay back later",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c02_u006",
+      "answer": "loan",
+      "options": [
+        "loan",
+        "owe",
+        "charge",
+        "cost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "memorable",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "so good or special that people will remember it",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c13_u003",
+      "answer": "memorable",
+      "options": [
+        "memorable",
+        "miserable",
+        "manageable",
+        "measurable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "short on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "not having enough of something",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c02_u005",
+      "answer": "short on",
+      "options": [
+        "short on",
+        "tired of",
+        "full of",
+        "proud of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "overwhelming",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "so great or difficult that you feel unable to deal with it",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c01_u007",
+      "answer": "overwhelming",
+      "options": [
+        "overwhelming",
+        "overheated",
+        "overdue",
+        "overcooked"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pay off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to bring a good result after time, effort, or money has been spent",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c01_u009",
+      "answer": "pays off",
+      "options": [
+        "pays off",
+        "shows off",
+        "sets off",
+        "wears off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "glamorous",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "attractive and exciting in a way connected with fame and wealth",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c02_u012",
+      "answer": "glamorous",
+      "options": [
+        "glamorous",
+        "generous",
+        "gracious",
+        "grateful"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hit on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c05_u002",
+      "answer": "hitting on",
+      "options": [
+        "hitting on",
+        "waiting on",
+        "living on",
+        "working on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from scratch",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "from the very beginning, using basic ingredients or materials rather than ready-made ones",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c10_u001",
+      "answer": "from scratch",
+      "options": [
+        "from scratch",
+        "from memory",
+        "by heart",
+        "on purpose"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nail it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something perfectly or very successfully",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c08_u015",
+      "answer": "nailed it",
+      "options": [
+        "nailed it",
+        "blew it",
+        "dropped it",
+        "lost it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me get this straight",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before repeating something to make sure you have understood it correctly",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c07_u011",
+      "answer": "get this straight",
+      "options": [
+        "get this straight",
+        "take this back",
+        "keep this quiet",
+        "put this down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up to speed",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "fully informed about the latest situation or work",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c11_u005",
+      "answer": "up to speed",
+      "options": [
+        "up to speed",
+        "out of time",
+        "on the move",
+        "in the dark"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "informed decision",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a choice made after learning all the relevant facts",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c03_u001",
+      "answer": "informed decision",
+      "options": [
+        "informed decision",
+        "formal promise",
+        "final offer",
+        "quick escape"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rough around the edges",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "having a slightly rude or unpolished manner",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c08_u003",
+      "answer": "rough around the edges",
+      "options": [
+        "rough around the edges",
+        "sharp around the corners",
+        "soft in the middle",
+        "hard on the outside"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cheeky",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "rude or disrespectful in a bold, slightly amusing way",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c07_u013",
+      "answer": "cheeky",
+      "options": [
+        "cheeky",
+        "chubby",
+        "cheap",
+        "choosy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "obsolete",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "no longer useful because something newer and better exists",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c12_u004",
+      "answer": "obsolete",
+      "options": [
+        "obsolete",
+        "obedient",
+        "obliged",
+        "absolute"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "knock 'em dead",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to impress an audience very much with a performance",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c14_u008",
+      "answer": "knock 'em dead",
+      "options": [
+        "knock 'em dead",
+        "break 'em down",
+        "let 'em go",
+        "pass 'em by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "moonlight",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to work a second job in addition to your main one",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c13_u004",
+      "answer": "moonlight",
+      "options": [
+        "moonlight",
+        "overwork",
+        "sleepwalk",
+        "daydream"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm rubber and you're glue",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "a childish reply meaning that an insult bounces off the speaker and sticks to the person who said it",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c07_u017",
+      "answer": "rubber",
+      "options": [
+        "rubber",
+        "plastic",
+        "paper",
+        "metal"
+      ]
+    }
+  ]
+}
+]
