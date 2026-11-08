@@ -1,0 +1,483 @@
+[
+{
+  "expression": "check on",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to look at or contact someone to make sure they are safe and well",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c03_u010",
+      "answer": "check on",
+      "options": [
+        "check on",
+        "pick on",
+        "count on",
+        "call on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are pleased about or approve of what someone has done",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c07_u003",
+      "answer": "good for you",
+      "options": [
+        "good for you",
+        "after you",
+        "up to you",
+        "mind you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to get rid of something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c10_u010",
+      "answer": "throw out",
+      "options": [
+        "throw out",
+        "hand in",
+        "fill out",
+        "send in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "soul mates",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "two people who are perfectly suited to each other, often believed to be meant for each other",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c04_u021",
+      "answer": "soulmate",
+      "options": [
+        "soulmate",
+        "landlord",
+        "stepfather",
+        "neighbor"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make sense",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be a reasonable or logical thing to say or do",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c09_u028",
+      "answer": "make sense",
+      "options": [
+        "make sense",
+        "take place",
+        "make room",
+        "take turns"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drop off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave something at a place while you are on your way somewhere",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c10_u012",
+      "answer": "dropped off",
+      "options": [
+        "dropped off",
+        "turned down",
+        "wrote off",
+        "cut off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kick out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to force someone to leave a place where they were living or staying",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c12_u004",
+      "answer": "kicking me out",
+      "cueUid": "s10_e05_c12_u002",
+      "options": [
+        "kicking me out",
+        "making me up",
+        "letting me down",
+        "taking me in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just so you know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before giving someone information they should be aware of",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c13_u003",
+      "answer": "just so you know",
+      "options": [
+        "just so you know",
+        "just in case",
+        "just my luck",
+        "just for fun"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for the record",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you want to state something officially or make a fact clear to everyone",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c01_u004",
+      "answer": "for the record",
+      "options": [
+        "for the record",
+        "on the house",
+        "by the book",
+        "off the hook"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "finish off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to eat or use up the last part of something",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c08_u005",
+      "answer": "finishing off",
+      "options": [
+        "finishing off",
+        "showing off",
+        "signing off",
+        "nodding off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "overdressed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "wearing clothes that are too formal or fancy for the occasion",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c01_u027",
+      "answer": "overdressed",
+      "options": [
+        "overdressed",
+        "overrated",
+        "overworked",
+        "overpaid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the whole package",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "every desirable quality a person could want, all together",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c03_u023",
+      "answer": "the whole package",
+      "options": [
+        "the whole package",
+        "the short straw",
+        "the cold shoulder",
+        "the wrong idea"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "self-centered",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "thinking only about yourself and not about other people",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c08_u008",
+      "answer": "self-centered",
+      "options": [
+        "self-centered",
+        "self-conscious",
+        "self-sufficient",
+        "self-employed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "flip out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly become extremely angry or lose control",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c10_u033",
+      "answer": "flip out",
+      "options": [
+        "flip out",
+        "show off",
+        "drop by",
+        "back off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no can do",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a casual way of saying that you cannot or will not do something",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c10_u006",
+      "answer": "No can do",
+      "options": [
+        "No can do",
+        "No hard feelings",
+        "No big deal",
+        "No offense"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dull",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not interesting or exciting; boring",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c10_u023",
+      "answer": "dull",
+      "options": [
+        "dull",
+        "fragile",
+        "chubby",
+        "bald"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "oversight",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a mistake made because someone forgot or failed to notice something",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c01_u009",
+      "answer": "oversight",
+      "options": [
+        "oversight",
+        "outbreak",
+        "overdose",
+        "upgrade"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "impersonal",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "lacking any personal warmth or feeling, as if made for anyone",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c05_u007",
+      "answer": "impersonal",
+      "responseUid": "s10_e05_c05_u009",
+      "options": [
+        "impersonal",
+        "impossible",
+        "impatient",
+        "imperfect"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tacky",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "cheap-looking and showing bad taste",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c09_u009",
+      "answer": "tacky",
+      "options": [
+        "tacky",
+        "sneaky",
+        "sturdy",
+        "spicy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dump on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to criticize something harshly and unfairly",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c09_u014",
+      "answer": "dumped on",
+      "options": [
+        "dumped on",
+        "cashed in",
+        "signed up",
+        "logged on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "beyond help",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "in such a bad state that nobody can help or improve you",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c12_u007",
+      "answer": "beyond help",
+      "options": [
+        "beyond help",
+        "out of reach",
+        "on the mend",
+        "in the clear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get a load of",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "used to tell people to look at or notice something surprising",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c11_u011",
+      "answer": "Get a load of",
+      "options": [
+        "Get a load of",
+        "Get a grip on",
+        "Make a note of",
+        "Get the hang of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sharp as a tack",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "very intelligent and quick to understand things, here said sarcastically",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c02_u013",
+      "answer": "sharp as a tack",
+      "options": [
+        "sharp as a tack",
+        "fit as a fiddle",
+        "cool as a cucumber",
+        "busy as a bee"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wear the pants",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to be the person who makes the decisions and has control in a relationship",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c11_u011",
+      "answer": "wears the pants",
+      "options": [
+        "wears the pants",
+        "takes the cake",
+        "cuts the mustard",
+        "breaks the ice"
+      ]
+    }
+  ]
+}
+]

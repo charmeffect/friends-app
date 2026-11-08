@@ -1,0 +1,481 @@
+[
+{
+  "expression": "way to go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to congratulate someone on doing something well",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u105",
+      "answer": "Way to go",
+      "options": [
+        "Way to go",
+        "On the go",
+        "Way to lose",
+        "Time to stop"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "figure out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand or solve something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u082",
+      "answer": "figure out",
+      "options": [
+        "figure out",
+        "hand out",
+        "turn out",
+        "give up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get going",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave or start moving, usually because it is time to go",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u056",
+      "answer": "get going",
+      "options": [
+        "get going",
+        "get even",
+        "keep going",
+        "get over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "something important or significant",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c01_u017",
+      "answer": "a big deal",
+      "options": [
+        "a big deal",
+        "a big wheel",
+        "a raw deal",
+        "a long shot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "end up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally be in a situation or place, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c01_u019",
+      "answer": "end up",
+      "options": [
+        "end up",
+        "turn in",
+        "end off",
+        "come up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u078",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "take in",
+        "give off",
+        "take on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in charge",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "having control of or responsibility for a group or activity",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u047",
+      "answer": "in charge",
+      "options": [
+        "in charge",
+        "in order",
+        "on hold",
+        "in debt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "messed up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "confused, wrong, or in a bad state",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u045",
+      "answer": "messed up",
+      "options": [
+        "messed up",
+        "dressed up",
+        "set off",
+        "worn in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm begging you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to ask for something very strongly and urgently",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u088",
+      "answer": "I'm begging you",
+      "options": [
+        "I'm begging you",
+        "I'm thanking you",
+        "I'm leaving you",
+        "I'm paying you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to escape or avoid being caught",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u051",
+      "answer": "getting away",
+      "options": [
+        "getting away",
+        "getting along",
+        "getting over",
+        "getting back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "could use",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "would benefit from or would like to have something",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c01_u013",
+      "answer": "could really use",
+      "options": [
+        "could really use",
+        "could really lose",
+        "could really fill",
+        "could really waste"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hit on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u052",
+      "answer": "hit on",
+      "options": [
+        "hit on",
+        "hit off",
+        "run on",
+        "get on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mess with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to interfere with or provoke someone who could cause you trouble",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u065",
+      "answer": "mess with",
+      "options": [
+        "mess with",
+        "run into",
+        "mix up",
+        "care for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to be fair",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before adding a point that is fair to the person being criticized",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u029",
+      "answer": "To be fair",
+      "options": [
+        "To be fair",
+        "To be late",
+        "To be free",
+        "To be safe"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "off the charts",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely high, far above the normal level",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u006",
+      "answer": "off the charts",
+      "options": [
+        "off the charts",
+        "off the hook",
+        "on the rocks",
+        "out of order"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "draw straws",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide who does something by having each person pick a straw, the short one losing",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u086",
+      "answer": "draw straws",
+      "options": [
+        "draw straws",
+        "pull strings",
+        "break straws",
+        "draw lines"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "time capsule",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a collection of objects or messages saved to be opened far in the future",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u007",
+      "answer": "time capsule",
+      "options": [
+        "time capsule",
+        "time zone",
+        "time bomb",
+        "space station"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get pulled over",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be stopped by the police while driving",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u042",
+      "answer": "got pulled over",
+      "options": [
+        "got pulled over",
+        "got pulled out",
+        "got turned over",
+        "got passed over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "antsy",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "restless and impatient because of waiting",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u064",
+      "answer": "antsy",
+      "options": [
+        "antsy",
+        "nosy",
+        "bossy",
+        "thrifty"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "unravel",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to gradually fall apart or fail",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u035",
+      "answer": "unraveled",
+      "options": [
+        "unraveled",
+        "unwrapped",
+        "unloaded",
+        "unlocked"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "novelty",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "made in an unusual or funny form to amuse people rather than to be practical",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u013",
+      "answer": "novelty",
+      "options": [
+        "novelty",
+        "novice",
+        "nobility",
+        "notary"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slip",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to give something to someone quickly and secretly",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u146",
+      "answer": "slipped",
+      "options": [
+        "slipped",
+        "slapped",
+        "skipped",
+        "sipped"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "believe you me",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "used to insist strongly that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u026",
+      "answer": "Believe you me",
+      "options": [
+        "Believe you me",
+        "Bless you me",
+        "Mind you me",
+        "Leave you me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "uncanny",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "strange or surprising in a way that is hard to explain, especially an imitation that is almost too accurate",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u022",
+      "answer": "uncanny",
+      "options": [
+        "uncanny",
+        "unhealthy",
+        "unlikely",
+        "unwanted"
+      ]
+    }
+  ]
+}
+]

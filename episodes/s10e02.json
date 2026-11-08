@@ -1,0 +1,121 @@
+[
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to give someone help, especially in a difficult situation",
+    "exchanges": [ { "uid": "s10_e02_c08_u019", "answer": "help out",
+      "options": ["help out", "pass out", "help off", "sell out"] } ] },
+
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [ { "uid": "s10_e02_c02_u017", "answer": "working out",
+      "options": ["working out", "wearing out", "working up", "burning out"] } ] },
+
+  { "expression": "chill", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to calm down and relax",
+    "exchanges": [ { "uid": "s10_e02_c01_u007", "answer": "chill", "responseUid": "s10_e02_c01_u009",
+      "options": ["chill", "sneeze", "stretch", "whistle"] } ] },
+
+  { "expression": "you bet", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "an emphatic way of saying yes or certainly",
+    "exchanges": [ { "uid": "s10_e02_c04_u009", "answer": "you bet",
+      "options": ["you bet", "you wish", "you win", "you see"] } ] },
+
+  { "expression": "thoughtful", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "showing that you think about other people's needs and feelings",
+    "exchanges": [ { "uid": "s10_e02_c04_u017", "answer": "thoughtful",
+      "options": ["thoughtful", "doubtful", "fearful", "wasteful"] } ] },
+
+  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop thinking about something that is over and start something new",
+    "exchanges": [ { "uid": "s10_e02_c11_u018", "answer": "moved on",
+      "options": ["moved on", "moved off", "looked on", "moved over"] } ] },
+
+  { "expression": "crazy about", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "very much in love with someone or very enthusiastic about something",
+    "exchanges": [ { "uid": "s10_e02_c11_u015", "answer": "crazy about",
+      "options": ["crazy about", "bored with", "jealous of", "afraid of"] } ] },
+
+  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a place suddenly or quickly",
+    "exchanges": [ { "uid": "s10_e02_c10_u010", "answer": "take off", "responseUid": "s10_e02_c10_u012",
+      "options": ["take off", "take over", "show off", "take up"] } ] },
+
+  { "expression": "bump into", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s10_e02_c09_u005", "answer": "bumped into",
+      "options": ["bumped into", "bumped off", "turned into", "looked into"] } ] },
+
+  { "expression": "have a hard time", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to experience difficulty with something",
+    "exchanges": [ { "uid": "s10_e02_c03_u014", "answer": "having a hard time",
+      "options": ["having a hard time", "having a good time", "taking a long time", "having a free time"] } ] },
+
+  { "expression": "overwhelming", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "so great or difficult that you feel unable to deal with it",
+    "exchanges": [ { "uid": "s10_e02_c03_u001", "answer": "overwhelming",
+      "options": ["overwhelming", "overflowing", "overcooked", "overdressed"] } ] },
+
+  { "expression": "absorb", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to take in and fully understand new information or a situation",
+    "exchanges": [ { "uid": "s10_e02_c02_u015", "answer": "absorb",
+      "options": ["absorb", "abolish", "acquire", "abduct"] } ] },
+
+  { "expression": "cherish", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to value and enjoy something very much",
+    "exchanges": [ { "uid": "s10_e02_c05_u002", "answer": "cherish",
+      "options": ["cherish", "perish", "punish", "vanish"] } ] },
+
+  { "expression": "a handful", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "someone or something that is hard to control or look after",
+    "exchanges": [ { "uid": "s10_e02_c05_u003", "answer": "a handful",
+      "options": ["a handful", "a mouthful", "a fistful", "an armful"] } ] },
+
+  { "expression": "a keeper", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a person or thing so good that you should hold on to them",
+    "exchanges": [ { "uid": "s10_e02_c04_u017", "answer": "a keeper",
+      "options": ["a keeper", "a sleeper", "a dealer", "a sweeper"] } ] },
+
+  { "expression": "dread", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to feel very worried about something that is going to happen",
+    "exchanges": [ { "uid": "s10_e02_c04_u008", "answer": "Dreading",
+      "options": ["Dreading", "Shredding", "Threading", "Treading"] } ] },
+
+  { "expression": "give someone a heads-up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to warn someone in advance about something",
+    "exchanges": [ { "uid": "s10_e02_c12_u003", "answer": "give you a heads-up",
+      "options": ["give you a heads-up", "give you a hand", "give you a ride", "give you a break"] } ] },
+
+  { "expression": "on board", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "in agreement with a plan or idea and willing to support it",
+    "exchanges": [ { "uid": "s10_e02_c08_u006", "answer": "onboard",
+      "options": ["onboard", "overboard", "offside", "abroad"] } ] },
+
+  { "expression": "intuitive", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "able to understand or sense things without needing to reason them out",
+    "exchanges": [ { "uid": "s10_e02_c09_u010", "answer": "intuitive",
+      "options": ["intuitive", "intrusive", "inventive", "insecure"] } ] },
+
+  { "expression": "for argument's sake", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "used to show that you are only imagining a situation in order to discuss it",
+    "exchanges": [ { "uid": "s10_e02_c08_u007", "answer": "for argument's sake",
+      "options": ["for argument's sake", "for old times' sake", "for safety's sake", "for appearance' sake"] } ] },
+
+  { "expression": "turn of events", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "an unexpected change in a situation",
+    "exchanges": [ { "uid": "s10_e02_c10_u005", "answer": "turn of events",
+      "options": ["turn of events", "sense of humor", "piece of cake", "state of mind"] } ] },
+
+  { "expression": "raging", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "very strong or extreme, used of a bad habit or condition",
+    "exchanges": [ { "uid": "s10_e02_c07_u010", "answer": "raging",
+      "options": ["raging", "ranging", "rating", "racing"] } ] },
+
+  { "expression": "colour-coded", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "marked with different colours so that things are easy to tell apart",
+    "exchanges": [ { "uid": "s10_e02_c06_u010", "answer": "colour-coded", "cueUid": "s10_e02_c06_u008",
+      "options": ["colour-coded", "sugar-coated", "short-handed", "tight-lipped"] } ] },
+
+  { "expression": "I got nothing", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "said when you have no idea what to say or do to fix a situation",
+    "exchanges": [ { "uid": "s10_e02_c06_u033", "answer": "I got nothing", "responseUid": null,
+      "options": ["I got nothing", "I got lost", "I got paid", "I got older"] } ] }
+]

@@ -1,0 +1,135 @@
+[
+  { "expression": "crippled", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "so badly affected by something that you cannot act or live normally",
+    "exchanges": [ { "uid": "s10_e03_c01_u005", "answer": "crippled",
+      "options": ["crippled", "flattered", "rewarded", "delighted"] } ] },
+
+  { "expression": "routine", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a fixed set of actions that you always do in the same order",
+    "exchanges": [ { "uid": "s10_e03_c01_u009", "answer": "routine",
+      "options": ["routine", "receipt", "uniform", "deadline"] } ] },
+
+  { "expression": "show something off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to let people see something you are proud of so they will admire it",
+    "exchanges": [ { "uid": "s10_e03_c02_u013", "answer": "show it off",
+      "options": ["show it off", "put it out", "take it back", "hand it in"] } ] },
+
+  { "expression": "pick up an accent", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to start speaking with a new accent by being around people who use it",
+    "exchanges": [ { "uid": "s10_e03_c02_u023", "answer": "picked up",
+      "options": ["picked up", "gave out", "put off", "ran over"] } ] },
+
+  { "expression": "brag", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to talk too proudly about what you have done or own",
+    "exchanges": [ { "uid": "s10_e03_c02_u028", "answer": "bragging",
+      "options": ["bragging", "apologizing", "recovering", "panicking"] } ] },
+
+  { "expression": "cut someone out of your life", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to stop seeing or having any contact with someone",
+    "exchanges": [
+      { "uid": "s10_e03_c02_u033", "answer": "Cut her out", "cueUid": "s10_e03_c02_u030",
+        "options": ["Cut her out", "Turn her down", "Hand her over", "Make her up"] },
+      { "uid": "s10_e03_c10_u001", "answer": "cut me out",
+        "options": ["cut me out", "call me back", "cheer me up", "look me up"] } ] },
+
+  { "expression": "harsh", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "unpleasantly severe or unfair",
+    "exchanges": [ { "uid": "s10_e03_c02_u034", "answer": "harsh",
+      "options": ["harsh", "crowded", "fancy", "sleepy"] } ] },
+
+  { "expression": "right this way", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "please follow me in this direction",
+    "exchanges": [ { "uid": "s10_e03_c03_u001", "answer": "Right this way",
+      "options": ["Right this way", "Just in case", "All of a sudden", "Once in a while"] } ] },
+
+  { "expression": "even out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make something equal or the same in level all over",
+    "exchanges": [ { "uid": "s10_e03_c03_u019", "answer": "even that out",
+      "options": ["even that out", "put that off", "hand that in", "let that go"] } ] },
+
+  { "expression": "cheesy", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "cheap, obvious, and trying too hard to be charming or romantic",
+    "exchanges": [ { "uid": "s10_e03_c04_u006", "answer": "cheesy",
+      "options": ["cheesy", "sleepy", "rusty", "soggy"] } ] },
+
+  { "expression": "I don't get it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "I do not understand what you mean or why it is funny",
+    "exchanges": [
+      { "uid": "s10_e03_c04_u012", "answer": "get it",
+        "options": ["get it", "sell it", "own it", "wash it"] },
+      { "uid": "s10_e03_c12_u021", "answer": "get it",
+        "options": ["get it", "sell it", "own it", "wash it"] } ] },
+
+  { "expression": "babysit", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to look after someone's children while the parents are out",
+    "exchanges": [ { "uid": "s10_e03_c05_u002", "answer": "baby-sit",
+      "options": ["baby-sit", "sightsee", "carpool", "ice-skate"] } ] },
+
+  { "expression": "a gas", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "something very fun and enjoyable (here said sarcastically)",
+    "exchanges": [ { "uid": "s10_e03_c05_u004", "answer": "a gas",
+      "options": ["a gas", "a myth", "a lamp", "a wire"] } ] },
+
+  { "expression": "pop by", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to visit a place or person briefly and informally",
+    "exchanges": [ { "uid": "s10_e03_c05_u005", "answer": "pop by",
+      "options": ["pop by", "pull up", "run off", "break in"] } ] },
+
+  { "expression": "don't hold your breath", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "do not expect it to happen soon, or at all",
+    "exchanges": [ { "uid": "s10_e03_c05_u008", "answer": "breath",
+      "options": ["breath", "coat", "ticket", "horse"] } ] },
+
+  { "expression": "hold up well", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to stay strong and not give in when under pressure or in a difficult situation",
+    "exchanges": [ { "uid": "s10_e03_c05_u017", "answer": "hold up",
+      "options": ["hold up", "show off", "sign up", "run out"] } ] },
+
+  { "expression": "take some getting used to", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to feel strange at first and need time before it feels normal",
+    "exchanges": [ { "uid": "s10_e03_c06_u002", "answer": "getting used to",
+      "options": ["getting used to", "running out of", "looking up to", "coming up with"] } ] },
+
+  { "expression": "power through", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to keep going with something difficult by using determination and effort",
+    "exchanges": [
+      { "uid": "s10_e03_c07_u021", "answer": "power through",
+        "options": ["power through", "back down", "sleep over", "check out"] },
+      { "uid": "s10_e03_c07_u023", "answer": "powering through",
+        "options": ["powering through", "backing down", "sleeping over", "checking out"] } ] },
+
+  { "expression": "have a lot to catch up on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have many things to tell each other about what has happened since you last met",
+    "exchanges": [ { "uid": "s10_e03_c08_u014", "answer": "catch up on",
+      "options": ["catch up on", "look down on", "get away with", "run out of"] } ] },
+
+  { "expression": "dodge", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to deliberately avoid someone or something",
+    "exchanges": [ { "uid": "s10_e03_c08_u022", "answer": "dodging",
+      "options": ["dodging", "praising", "copying", "lending"] } ] },
+
+  { "expression": "be right there", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to arrive where someone needs you very soon",
+    "exchanges": [ { "uid": "s10_e03_c08_u028", "answer": "be right there",
+      "options": ["be right there", "be well off", "be in charge", "be out cold"] } ] },
+
+  { "expression": "get over it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "stop being upset about something that is not important",
+    "exchanges": [ { "uid": "s10_e03_c09_u009", "answer": "Get over it",
+      "options": ["Get over it", "Look into it", "Take after it", "Run into it"] } ] },
+
+  { "expression": "into high gear", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "into a state of greater speed, energy, or intensity",
+    "exchanges": [ { "uid": "s10_e03_c09_u011", "answer": "high gear",
+      "options": ["high gear", "low tide", "full bloom", "deep water"] } ] },
+
+  { "expression": "ghastly", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "very pale and ill-looking, or very unpleasant",
+    "exchanges": [ { "uid": "s10_e03_c09_u023", "answer": "ghastly",
+      "options": ["ghastly", "punctual", "generous", "hilarious"] } ] },
+
+  { "expression": "scrappy", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "determined and willing to fight hard for what you want",
+    "exchanges": [ { "uid": "s10_e03_c10_u007", "answer": "scrappy",
+      "options": ["scrappy", "sleepy", "grumpy", "clumsy"] } ] }
+]

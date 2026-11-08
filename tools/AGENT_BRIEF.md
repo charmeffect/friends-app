@@ -29,6 +29,7 @@ Output file: `episodes/<episode>.json` (does not exist yet; create it).
    line that mentions your episode (ignore other episodes; other agents work concurrently).
    If a warning says your type/level differs from an earlier episode's, change yours to match.
    Re-run until your file is clean.
-6. Do NOT run git commands and do NOT edit any other file.
+6. If you save command output to a temp file, put your episode id in the filename (other agents run at the same time).
+7. Do NOT run git commands and do NOT edit any other file.
 
 Final report (short): item count, counts by type and by level, and judgement calls you were unsure about.

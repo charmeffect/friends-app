@@ -1,0 +1,532 @@
+[
+{
+  "expression": "you're on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept a challenge or a bet",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u004",
+      "answer": "You're on",
+      "responseUid": null,
+      "options": [
+        "You're on",
+        "You're out",
+        "You're off",
+        "You're done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cheat on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u017",
+      "answer": "cheating on",
+      "options": [
+        "cheating on",
+        "checking on",
+        "picking on",
+        "walking on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "eavesdrop",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to secretly listen to other people's conversation",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u022",
+      "answer": "eavesdrop",
+      "options": [
+        "eavesdrop",
+        "stumble",
+        "yawn",
+        "sneeze"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "man",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be stationed at a place in order to watch it or operate it",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u037",
+      "answer": "manning",
+      "options": [
+        "manning",
+        "painting",
+        "climbing",
+        "cleaning"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm on it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to promise that you will deal with a task right away",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u038",
+      "answer": "I'm on it",
+      "options": [
+        "I'm on it",
+        "I'm over it",
+        "I'm off it",
+        "I'm out of it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have had it with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be so annoyed with someone or something that you cannot tolerate it any more",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u046",
+      "answer": "had it with",
+      "options": [
+        "had it with",
+        "made it to",
+        "got it from",
+        "done it for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u072",
+      "answer": "hanging out",
+      "options": [
+        "hanging out",
+        "freaking out",
+        "passing out",
+        "working out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pain in the ass",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a very annoying person or thing",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u107",
+      "answer": "pain in my ass",
+      "options": [
+        "pain in my ass",
+        "load off my mind",
+        "light of my life",
+        "apple of my eye"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "enunciate",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to pronounce words very clearly and carefully",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u111",
+      "answer": "Enunciate",
+      "options": [
+        "Enunciate",
+        "Evacuate",
+        "Hibernate",
+        "Meditate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold off on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to delay doing something",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u114",
+      "answer": "hold off",
+      "options": [
+        "hold off",
+        "show off",
+        "set off",
+        "pull off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u116",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "take up",
+        "show off",
+        "get by"
+      ]
+    },
+    {
+      "uid": "s10_e01_c04_u004",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "take up",
+        "show off",
+        "get by"
+      ]
+    },
+    {
+      "uid": "s10_e01_c07_u001",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "take up",
+        "show off",
+        "get by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c02_u018",
+      "answer": "Check it out",
+      "options": [
+        "Check it out",
+        "Cut it out",
+        "Work it out",
+        "Hand it over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "scalp",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the skin on the top of your head where your hair grows",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c02_u022",
+      "answer": "scalp",
+      "options": [
+        "scalp",
+        "spine",
+        "liver",
+        "pulse"
+      ]
+    },
+    {
+      "uid": "s10_e01_c05_u010",
+      "answer": "scalp",
+      "options": [
+        "scalp",
+        "spine",
+        "liver",
+        "pulse"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you go girlfriend",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to cheer on or praise a woman for being bold or looking stylish",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c02_u025",
+      "answer": "You go girlfriend",
+      "options": [
+        "You go girlfriend",
+        "You poor thing",
+        "You lucky dog",
+        "You big baby"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "selfless",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "caring about other people's needs more than your own",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c03_u057",
+      "answer": "selfless",
+      "options": [
+        "selfless",
+        "selfish",
+        "careless",
+        "helpless"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get mad",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become angry",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c03_u078",
+      "answer": "get mad",
+      "options": [
+        "get mad",
+        "get lost",
+        "get bored",
+        "get old"
+      ]
+    },
+    {
+      "uid": "s10_e01_c09_u005",
+      "answer": "gets mad",
+      "options": [
+        "gets mad",
+        "gets lost",
+        "gets bored",
+        "gets old"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shoot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "go ahead and ask or say what you want to say",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c06_u005",
+      "answer": "shoot",
+      "options": [
+        "shoot",
+        "freeze",
+        "duck",
+        "swim"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pull yourself together",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to calm down and control your emotions after being upset",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c07_u011",
+      "answer": "pull yourself together",
+      "options": [
+        "pull yourself together",
+        "help yourself out",
+        "sell yourself short",
+        "make yourself known"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kiss and tell",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to tell other people about your private romantic or sexual experiences",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c07_u016",
+      "answer": "kiss-and-tell",
+      "options": [
+        "kiss-and-tell",
+        "hit-and-run",
+        "cut-and-paste",
+        "show-and-tell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "coward",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is not brave enough to face difficult or unpleasant things",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c07_u018",
+      "answer": "coward",
+      "options": [
+        "coward",
+        "genius",
+        "saint",
+        "hero"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get stuck",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become caught or fixed so that you cannot move or get free",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c08_u005",
+      "answer": "got stuck",
+      "options": [
+        "got stuck",
+        "got fired",
+        "got married",
+        "got elected"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "untangle",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to free someone or something from knots or twisted strands",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c08_u008",
+      "answer": "untangle",
+      "options": [
+        "untangle",
+        "unplug",
+        "unload",
+        "unwrap"
+      ]
+    },
+    {
+      "uid": "s10_e01_c10_u002",
+      "answer": "untangled",
+      "options": [
+        "untangled",
+        "unplugged",
+        "unloaded",
+        "unwrapped"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "frayed",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "worn at the edges so that loose threads or strands stick out",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c08_u010",
+      "answer": "frayed",
+      "options": [
+        "frayed",
+        "hungry",
+        "nervous",
+        "sleepy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel like",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to want to do something at that moment",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c10_u005",
+      "answer": "feel like",
+      "options": [
+        "feel like",
+        "look like",
+        "get over",
+        "run into"
+      ]
+    }
+  ]
+}
+]
