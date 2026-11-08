@@ -1,0 +1,124 @@
+[
+  { "expression": "get past", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to move beyond a stage or difficulty and continue",
+    "exchanges": [ { "uid": "s09_e15_c01_u003", "answer": "get past",
+      "options": ["get past", "get away", "get off", "get along"] } ] },
+
+  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to think of an idea or plan",
+    "exchanges": [
+      { "uid": "s09_e15_c01_u017", "answer": "come up with",
+        "options": ["come up with", "come down with", "put up with", "get on with"] },
+      { "uid": "s09_e15_c11_u008", "answer": "come up with",
+        "options": ["come up with", "come down with", "put up with", "get on with"] } ] },
+
+  { "expression": "start at the bottom", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "to begin a career in the lowest and least important position",
+    "exchanges": [ { "uid": "s09_e15_c03_u005", "answer": "start at the bottom",
+      "options": ["start at the bottom", "stay at the back", "end at the front", "sit at the side"] } ] },
+
+  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to laugh at or joke about someone in an unkind way",
+    "exchanges": [ { "uid": "s09_e15_c04_u005", "answer": "making fun of", "responseUid": null,
+      "options": ["making fun of", "taking care of", "getting rid of", "running out of"] } ] },
+
+  { "expression": "sell-out", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a person who gives up their artistic principles in order to make money",
+    "exchanges": [ { "uid": "s09_e15_c04_u005", "answer": "sell-out",
+      "options": ["sell-out", "walk-out", "break-in", "take-off"] } ] },
+
+  { "expression": "on your own time", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "outside working hours, not while you are supposed to be working",
+    "exchanges": [ { "uid": "s09_e15_c04_u029", "answer": "on your own time",
+      "options": ["on your own time", "in your own words", "by your own hand", "on your own feet"] } ] },
+
+  { "expression": "for someone's benefit", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "done especially so that a particular person can hear, see, or gain from it",
+    "exchanges": [ { "uid": "s09_e15_c04_u030", "answer": "for my benefit",
+      "options": ["for my benefit", "in my absence", "with my blessing", "on my birthday"] } ] },
+
+  { "expression": "urgency", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a feeling that something is very important and must be done quickly",
+    "exchanges": [ { "uid": "s09_e15_c04_u035", "answer": "urgency",
+      "options": ["urgency", "honesty", "accuracy", "privacy"] } ] },
+
+  { "expression": "go out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time with someone as a boyfriend or girlfriend",
+    "exchanges": [ { "uid": "s09_e15_c05_u002", "answer": "going out",
+      "options": ["going out", "going off", "getting out", "giving out"] } ] },
+
+  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show you are pleased about or approve of what someone has done",
+    "exchanges": [ { "uid": "s09_e15_c05_u019", "answer": "Good for you",
+      "options": ["Good for you", "Shame on you", "Bless you", "After you"] } ] },
+
+  { "expression": "so far so good", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when things have gone well up to now",
+    "exchanges": [ { "uid": "s09_e15_c06_u005", "answer": "So far so good",
+      "options": ["So far so good", "Better late than never", "Easy come, easy go", "Long time no see"] } ] },
+
+  { "expression": "self-respecting", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "having pride and standards, so that you would not do something embarrassing",
+    "exchanges": [ { "uid": "s09_e15_c06_u013", "answer": "self-respecting",
+      "options": ["self-respecting", "self-employed", "self-taught", "self-driving"] } ] },
+
+  { "expression": "mug", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to attack someone in a public place and steal their money",
+    "exchanges": [ { "uid": "s09_e15_c07_u007", "answer": "mug",
+      "options": ["mug", "hire", "thank", "greet"] } ] },
+
+  { "expression": "mind your own business", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to be busy with your own affairs and not bother or get involved with anyone else",
+    "exchanges": [ { "uid": "s09_e15_c07_u020", "answer": "minding my own business",
+      "options": ["minding my own business", "paying my own bills", "making my own lunch", "cutting my own hair"] } ] },
+
+  { "expression": "out of nowhere", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "suddenly and unexpectedly, without any warning",
+    "exchanges": [ { "uid": "s09_e15_c07_u022", "answer": "outta nowhere",
+      "options": ["outta nowhere", "outta order", "outta reach", "outta luck"] } ] },
+
+  { "expression": "weapon of choice", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "the tool or method that someone usually prefers to use",
+    "exchanges": [ { "uid": "s09_e15_c07_u034", "answer": "weapon of choice",
+      "options": ["weapon of choice", "matter of fact", "state of mind", "piece of cake"] } ] },
+
+  { "expression": "callback", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a second audition for actors chosen from the first round",
+    "exchanges": [ { "uid": "s09_e15_c09_u011", "answer": "call-back",
+      "options": ["call-back", "walk-on", "write-up", "drop-off"] } ] },
+
+  { "expression": "not half bad", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "fairly good, or better than you expected",
+    "exchanges": [ { "uid": "s09_e15_c09_u014", "answer": "half-bad",
+      "options": ["half-bad", "half-time", "half-moon", "half-way"] } ] },
+
+  { "expression": "go way back", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to have known each other for a very long time",
+    "exchanges": [ { "uid": "s09_e15_c10_u015", "answer": "go way back",
+      "options": ["go way back", "fall way short", "go way over", "stay way behind"] } ] },
+
+  { "expression": "humiliating", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "making you feel ashamed and foolish in front of other people",
+    "exchanges": [ { "uid": "s09_e15_c10_u018", "answer": "humiliating", "responseUid": null,
+      "options": ["humiliating", "comforting", "rewarding", "refreshing"] } ] },
+
+  { "expression": "lose control", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be no longer able to direct or stop what you or something is doing",
+    "exchanges": [ { "uid": "s09_e15_c11_u005", "answer": "lose control",
+      "options": ["lose control", "lose count", "make sense", "take notes"] } ] },
+
+  { "expression": "selling point", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a feature of a product that makes people want to buy it",
+    "exchanges": [ { "uid": "s09_e15_c11_u008", "answer": "selling point",
+      "options": ["selling point", "turning point", "boiling point", "breaking point"] } ] },
+
+  { "expression": "demographic", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a particular group of people, such as an age group, that a product is aimed at",
+    "exchanges": [ { "uid": "s09_e15_c11_u008", "answer": "demographic",
+      "options": ["demographic", "ingredient", "equipment", "dimension"] } ] },
+
+  { "expression": "be mad at", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to be angry with someone",
+    "exchanges": [ { "uid": "s09_e15_c12_u001", "answer": "mad at",
+      "options": ["mad at", "good at", "next to", "made of"] } ] }
+]

@@ -1,0 +1,126 @@
+[
+  { "expression": "take a hit", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to suffer a sudden loss or damage, especially of money",
+    "exchanges": [ { "uid": "s09_e16_c01_u002", "answer": "take a hit",
+      "options": ["take a hit", "take a seat", "make a scene", "get a grip"] } ] },
+
+  { "expression": "bring in", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to earn an amount of money",
+    "exchanges": [ { "uid": "s09_e16_c01_u004", "answer": "bringing in",
+      "options": ["bringing in", "bringing up", "bringing back", "bringing out"] } ] },
+
+  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop having something, often as a sacrifice",
+    "exchanges": [ { "uid": "s09_e16_c01_u006", "answer": "give that up",
+      "options": ["give that up", "take that on", "set that down", "hold that in"] } ] },
+
+  { "expression": "get through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to help someone survive a difficult period",
+    "exchanges": [ { "uid": "s09_e16_c01_u013", "answer": "get us through", "responseUid": null,
+      "options": ["get us through", "let us down", "take us apart", "set us back"] } ] },
+
+  { "expression": "move in with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start living in the same home as someone",
+    "exchanges": [ { "uid": "s09_e16_c09_u010", "answer": "move in with", "cueUid": "s09_e16_c09_u007",
+      "options": ["move in with", "run out of", "look up to", "catch up on"] } ] },
+
+  { "expression": "walk down the aisle", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to get married, from the bride's walk through the church to the altar",
+    "exchanges": [ { "uid": "s09_e16_c04_u016", "answer": "walking down the aisle",
+      "options": ["walking down the aisle", "running up the hill", "going down the drain", "falling off the wagon"] } ] },
+
+  { "expression": "conventional", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "following the usual and accepted way of doing things",
+    "exchanges": [ { "uid": "s09_e16_c04_u017", "answer": "conventional",
+      "options": ["conventional", "adventurous", "rebellious", "spontaneous"] } ] },
+
+  { "expression": "soccer mom", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a suburban mother who spends much of her time driving her children to activities, seen as a typical conventional parent",
+    "exchanges": [ { "uid": "s09_e16_c04_u018", "answer": "soccer mom",
+      "options": ["soccer mom", "drama queen", "party animal", "couch potato"] } ] },
+
+  { "expression": "pick out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to choose or remove something from a group",
+    "exchanges": [ { "uid": "s09_e16_c04_u023", "answer": "picking out",
+      "options": ["picking out", "picking on", "handing out", "giving off"] } ] },
+
+  { "expression": "party line", "type": "phrase", "level": "expert", "pos": "noun",
+    "meaning": "the official position that a group states publicly and expects its members to follow",
+    "exchanges": [ { "uid": "s09_e16_c06_u005", "answer": "party line",
+      "options": ["party line", "punch line", "finish line", "bottom line"] } ] },
+
+  { "expression": "on fire", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "performing extremely well and succeeding at everything",
+    "exchanges": [ { "uid": "s09_e16_c06_u016", "answer": "on fire",
+      "options": ["on fire", "on hold", "on board", "on call"] } ] },
+
+  { "expression": "lose faith in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to stop believing in or trusting something",
+    "exchanges": [ { "uid": "s09_e16_c07_u009", "answer": "lost faith",
+      "options": ["lost faith", "lost track", "lost touch", "lost sleep"] } ] },
+
+  { "expression": "change your mind", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to decide something different from what you decided before",
+    "exchanges": [ { "uid": "s09_e16_c07_u018", "answer": "changing your mind",
+      "options": ["changing your mind", "speaking your mind", "making your bed", "doing your job"] } ] },
+
+  { "expression": "there'll be hell to pay", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "there will be serious trouble or punishment for someone",
+    "exchanges": [ { "uid": "s09_e16_c07_u018", "answer": "hell to pay",
+      "options": ["hell to pay", "time to kill", "room to spare", "money to burn"] } ] },
+
+  { "expression": "give in", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally stop resisting and agree to do something",
+    "exchanges": [ { "uid": "s09_e16_c08_u002", "answer": "gave in", "cueUid": null,
+      "options": ["gave in", "gave out", "gave away", "gave off"] } ] },
+
+  { "expression": "who am I kidding", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when you admit that what you were saying or pretending is not true",
+    "exchanges": [ { "uid": "s09_e16_c08_u003", "answer": "kidding",
+      "options": ["kidding", "helping", "calling", "paying"] } ] },
+
+  { "expression": "you're all set", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "everything is ready or finished for you",
+    "exchanges": [ { "uid": "s09_e16_c08_u004", "answer": "all set",
+      "options": ["all set", "all ears", "all over", "all in"] } ] },
+
+  { "expression": "what brought that on", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "asks what caused someone's sudden behaviour or mood",
+    "exchanges": [ { "uid": "s09_e16_c08_u019", "answer": "brought that on",
+      "options": ["brought that on", "put that off", "took that in", "set that up"] } ] },
+
+  { "expression": "seek out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to deliberately look for and find someone",
+    "exchanges": [ { "uid": "s09_e16_c09_u004", "answer": "seeking me out",
+      "options": ["seeking me out", "leaving me out", "ruling me out", "wearing me out"] } ] },
+
+  { "expression": "miss out on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to lose the chance to do or enjoy something",
+    "exchanges": [ { "uid": "s09_e16_c09_u011", "answer": "missing out on",
+      "options": ["missing out on", "giving in to", "coming up with", "running out of"] } ] },
+
+  { "expression": "a big deal", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "something important or significant",
+    "exchanges": [ { "uid": "s09_e16_c09_u020", "answer": "a big deal",
+      "options": ["a big deal", "a dead end", "a long shot", "a close call"] } ] },
+
+  { "expression": "package deal", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a set of things that come together, so you cannot accept one without the others",
+    "exchanges": [ { "uid": "s09_e16_c11_u013", "answer": "package deal",
+      "options": ["package deal", "rain check", "fair game", "long shot"] } ] },
+
+  { "expression": "get caught up in", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to be so involved in or carried away by something that you stop thinking clearly",
+    "exchanges": [ { "uid": "s09_e16_c13_u008", "answer": "caught up in",
+      "options": ["caught up in", "looked down on", "run out of", "made up of"] } ] },
+
+  { "expression": "wiggle room", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "freedom to change a decision or position slightly",
+    "exchanges": [ { "uid": "s09_e16_c13_u017", "answer": "wiggle room",
+      "options": ["wiggle room", "elbow grease", "small talk", "dead weight"] } ] },
+
+  { "expression": "on the bright side", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "used to introduce the good part of a situation that is mostly bad",
+    "exchanges": [ { "uid": "s09_e16_c13_u041", "answer": "on the bright side", "responseUid": null,
+      "options": ["on the bright side", "in the long run", "off the record", "at the last minute"] } ] }
+]

@@ -1,0 +1,493 @@
+[
+{
+  "expression": "work out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to happen or develop successfully",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c01_u018",
+      "answer": "worked out",
+      "options": [
+        "worked out",
+        "run off",
+        "shown up",
+        "held on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get on with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to continue with something, especially after a difficulty or interruption",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c01_u020",
+      "answer": "get on with",
+      "options": [
+        "get on with",
+        "put up with",
+        "run out of",
+        "cut back on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come to mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to appear in your thoughts suddenly or without effort",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c01_u024",
+      "answer": "come to mind",
+      "options": [
+        "come to mind",
+        "take to heart",
+        "go to waste",
+        "fall to pieces"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fix someone up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to arrange for someone to meet a possible romantic partner",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c02_u006",
+      "answer": "fix him up",
+      "options": [
+        "fix him up",
+        "put him off",
+        "set him back",
+        "take him in"
+      ]
+    },
+    {
+      "uid": "s09_e14_c04_u011",
+      "answer": "fixed him up",
+      "options": [
+        "fixed him up",
+        "put him off",
+        "held him back",
+        "took him in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slim pickings",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "a poor selection with very few good choices available",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c02_u016",
+      "answer": "slim pickings",
+      "options": [
+        "slim pickings",
+        "fair game",
+        "plain sailing",
+        "cold comfort"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "carry on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to continue something, such as a family name, into the next generation",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c02_u014",
+      "answer": "carry on",
+      "options": [
+        "carry on",
+        "give out",
+        "take off",
+        "put down"
+      ]
+    },
+    {
+      "uid": "s09_e14_c13_u027",
+      "answer": "carry on",
+      "options": [
+        "carry on",
+        "give out",
+        "take off",
+        "put down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "set up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange a date for someone with a person they have not met",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c03_u007",
+      "answer": "set me up",
+      "options": [
+        "set me up",
+        "put me off",
+        "let me down",
+        "wear me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be up to",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be doing or planning (what are you up to = what are you doing)",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c03_u006",
+      "answer": "up to",
+      "options": [
+        "up to",
+        "in for",
+        "out of",
+        "on about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'll have you know",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to insist on a fact when you feel offended or want to correct someone",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c03_u004",
+      "answer": "will have you know",
+      "options": [
+        "will have you know",
+        "will let you go",
+        "will see you out",
+        "will keep you posted"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "around the clock",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "all day and all night without stopping",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c03_u017",
+      "answer": "around the clock",
+      "options": [
+        "around the clock",
+        "against the clock",
+        "behind the times",
+        "off the record"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "scream bloody murder",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to scream or complain extremely loudly",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c03_u017",
+      "answer": "screams bloody murder",
+      "options": [
+        "screams bloody murder",
+        "goes cold turkey",
+        "runs a tight ship",
+        "breaks the ice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stand someone up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fail to show up for a date you had arranged with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c04_u021",
+      "answer": "gets stood up",
+      "options": [
+        "gets stood up",
+        "gets carried away",
+        "gets run over",
+        "gets cut off"
+      ]
+    },
+    {
+      "uid": "s09_e14_c06_u006",
+      "answer": "Got stood up",
+      "options": [
+        "Got stood up",
+        "Got carried away",
+        "Got held back",
+        "Got cut off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for pleasure",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "for enjoyment rather than for work or study",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c04_u014",
+      "answer": "for pleasure",
+      "options": [
+        "for pleasure",
+        "on purpose",
+        "by mistake",
+        "in advance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c06_u007",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no small feat",
+        "no laughing matter",
+        "no man's land"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of someone's league",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "too attractive or impressive for someone to have a chance with",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c08_u006",
+      "answer": "out of my league",
+      "options": [
+        "out of my league",
+        "out of my hands",
+        "over my head",
+        "out of my depth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "creep",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an unpleasant or strange person who makes others feel uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c09_u004",
+      "answer": "creep",
+      "options": [
+        "creep",
+        "saint",
+        "darling",
+        "genius"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stoned",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "under the influence of marijuana or another drug",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c09_u007",
+      "answer": "stoned",
+      "responseUid": "s09_e14_c09_u009",
+      "options": [
+        "stoned",
+        "asleep",
+        "polite",
+        "shy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miserable",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very unhappy or uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c09_u012",
+      "answer": "miserable",
+      "options": [
+        "miserable",
+        "wonderful",
+        "relaxing",
+        "memorable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the house",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "free, paid for by the business rather than the customer",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c11_u003",
+      "answer": "on the house",
+      "options": [
+        "on the house",
+        "on the rocks",
+        "on the record",
+        "on the line"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pool",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a shared bet in which people put in money and the winner takes it all",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c11_u010",
+      "answer": "pool",
+      "options": [
+        "pool",
+        "fire",
+        "draft",
+        "toast"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you almost had me",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said when someone nearly fooled or convinced you",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c13_u029",
+      "answer": "almost had me",
+      "responseUid": null,
+      "options": [
+        "almost had me",
+        "nearly lost me",
+        "never told me",
+        "always hated me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rough night",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an evening that was difficult or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c14_u007",
+      "answer": "rough night",
+      "options": [
+        "rough night",
+        "long shot",
+        "sore loser",
+        "blank check"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give it a rest",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "stop talking or complaining about something because it is annoying",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c15_u006",
+      "answer": "give it a rest",
+      "options": [
+        "give it a rest",
+        "make it quick",
+        "call it even",
+        "play it safe"
+      ]
+    }
+  ]
+}
+]

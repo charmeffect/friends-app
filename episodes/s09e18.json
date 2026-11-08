@@ -1,0 +1,511 @@
+[
+{
+  "expression": "pick someone up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go to where someone is and collect them, often to take them somewhere",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u010",
+      "answer": "picked her up",
+      "options": [
+        "picked her up",
+        "set her off",
+        "held her back",
+        "wore her out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u060",
+      "answer": "Hold on",
+      "options": [
+        "Hold on",
+        "Keep on",
+        "Hold off",
+        "Carry on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "calm down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop feeling angry, excited, or nervous",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u068",
+      "answer": "Calm down",
+      "options": [
+        "Calm down",
+        "Break down",
+        "Shut down",
+        "Look down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pitch in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to contribute money or effort to something shared by a group",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c01_u017",
+      "answer": "pitch in",
+      "options": [
+        "pitch in",
+        "log in",
+        "sit in",
+        "tune in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big bucks",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a large amount of money",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u016",
+      "answer": "big bucks",
+      "options": [
+        "big bucks",
+        "big shots",
+        "big wheels",
+        "big deals"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to add money as your share of a group payment",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u061",
+      "answer": "throw in",
+      "options": [
+        "throw in",
+        "throw up",
+        "throw off",
+        "throw out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sort out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to organize or arrange things into groups or order",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u094",
+      "answer": "sort out",
+      "options": [
+        "sort out",
+        "wear out",
+        "black out",
+        "tune out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get into the habit of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start doing something regularly so that it becomes normal for you",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u080",
+      "answer": "habit",
+      "options": [
+        "habit",
+        "debt",
+        "shape",
+        "mood"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come true",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to actually happen, as a wish or dream does",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u045",
+      "answer": "come true",
+      "options": [
+        "come true",
+        "come clean",
+        "come apart",
+        "run dry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just in case",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "as a precaution, in case something is needed later",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u053",
+      "answer": "just in case",
+      "options": [
+        "just in case",
+        "just in time",
+        "just about",
+        "just as well"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "double check",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to check something a second time to make sure it is correct",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u059",
+      "answer": "double checking",
+      "options": [
+        "double checking",
+        "double crossing",
+        "double parking",
+        "double dating"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "want in on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to want to take part in a plan or activity with others",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c01_u023",
+      "answer": "want in on",
+      "options": [
+        "want in on",
+        "look in on",
+        "cash in on",
+        "walk in on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a sure thing",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something that is certain to happen or succeed",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u024",
+      "answer": "sure thing",
+      "options": [
+        "sure thing",
+        "big deal",
+        "hot mess",
+        "sore spot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to change your opinion and start to accept or like someone or something",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u025",
+      "answer": "coming around",
+      "options": [
+        "coming around",
+        "coming apart",
+        "coming undone",
+        "coming clean"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "gas up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fill a vehicle's tank with fuel",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u056",
+      "answer": "gas up",
+      "options": [
+        "gas up",
+        "sign up",
+        "bottle up",
+        "sober up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on a roll",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "having a period of repeated success",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u031",
+      "answer": "on a roll",
+      "options": [
+        "on a roll",
+        "on a diet",
+        "on a break",
+        "on a budget"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so much for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that a plan or idea has failed or is no longer useful",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u081",
+      "answer": "So much for",
+      "options": [
+        "So much for",
+        "As long as",
+        "Instead of",
+        "According to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "betray",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be disloyal to someone who trusts you",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u107",
+      "answer": "betrayed",
+      "options": [
+        "betrayed",
+        "beheaded",
+        "bequeathed",
+        "bedridden"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "squish",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to crush something soft so that it loses its shape",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u140",
+      "answer": "squished",
+      "options": [
+        "squished",
+        "polished",
+        "punished",
+        "published"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the odds",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the probability that something will happen",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c01_u024",
+      "answer": "odds",
+      "options": [
+        "odds",
+        "ends",
+        "stakes",
+        "terms"
+      ]
+    },
+    {
+      "uid": "s09_e18_c02_u023",
+      "answer": "odds",
+      "options": [
+        "odds",
+        "ends",
+        "terms",
+        "debts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wishbone",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a forked bone from a bird that two people pull apart, the one with the bigger piece getting a wish",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u039",
+      "answer": "wishbone",
+      "options": [
+        "wishbone",
+        "backbone",
+        "jawbone",
+        "trombone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "principles",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "moral rules or beliefs that guide how you behave",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u119",
+      "answer": "principles",
+      "options": [
+        "principles",
+        "principals",
+        "participles",
+        "prototypes"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "beg to differ",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a polite way of saying that you disagree",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c04_u003",
+      "answer": "beg to differ",
+      "options": [
+        "beg to differ",
+        "dare to dream",
+        "fail to see",
+        "tend to agree"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "piss away",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to waste money foolishly",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u070",
+      "answer": "piss it all away",
+      "options": [
+        "piss it all away",
+        "give it all back",
+        "lock it all up",
+        "pay it all off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "skittish",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "nervous and easily frightened",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u006",
+      "answer": "skittish",
+      "options": [
+        "skittish",
+        "stylish",
+        "bookish",
+        "boorish"
+      ]
+    }
+  ]
+}
+]
