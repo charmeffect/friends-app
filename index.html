@@ -635,11 +635,17 @@ function selectAnswer(selected, btn) {
     document.getElementById("phraseTitle").textContent = `${item.expression}  ·  ${item.pos}`;
     document.getElementById("phraseMeaning").textContent = item.meaning;
 
-    // Example: another scene with the same expression if there is one, else this one with the answer shown.
-    const others = item.exchanges.filter(e => e.uid !== ex.uid);
-    const exEx = others.length ? others[Math.floor(Math.random() * others.length)] : ex;
-    document.getElementById("phraseExample").innerHTML =
-        `<span class="ex-who">${escapeHTML(exEx.speaker)}:</span> ${lineWithMark(exEx.line, exEx.answer)}<span class="ex-ep">${exEx.ep}</span>`;
+    // Example: a general dictionary-style sentence (item.example, expression marked with [[...]]).
+    // Fallback while examples are being written: another scene with the same expression.
+    if (item.example) {
+        const html = escapeHTML(item.example).replace(/\[\[(.+?)\]\]/g, "<mark>$1</mark>");
+        document.getElementById("phraseExample").innerHTML = `<span class="ex-who">Example:</span> ${html}`;
+    } else {
+        const others = item.exchanges.filter(e => e.uid !== ex.uid);
+        const exEx = others.length ? others[Math.floor(Math.random() * others.length)] : ex;
+        document.getElementById("phraseExample").innerHTML =
+            `<span class="ex-who">${escapeHTML(exEx.speaker)}:</span> ${lineWithMark(exEx.line, exEx.answer)}<span class="ex-ep">${exEx.ep}</span>`;
+    }
 
     const sc = document.getElementById("scoreChange");
     if (delta !== 0) {

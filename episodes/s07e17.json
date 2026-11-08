@@ -1,0 +1,124 @@
+[
+  { "expression": "after you", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said politely to let someone go through a door or go ahead first",
+    "exchanges": [ { "uid": "s07_e17_c02_u021", "answer": "After you", "responseUid": null,
+      "options": ["After you", "Beyond you", "Under you", "Without you"] } ] },
+
+  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to help someone with a task",
+    "exchanges": [ { "uid": "s07_e17_c04_u004", "answer": "give you a hand",
+      "options": ["give you a hand", "lend you an ear", "take you a seat", "get you a break"] } ] },
+
+  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit a place briefly, often without planning it",
+    "exchanges": [
+      { "uid": "s07_e17_c06_u008", "answer": "stop by",
+        "options": ["stop by", "show off", "fill in", "hold up"] },
+      { "uid": "s07_e17_c09_u015", "answer": "stopping by",
+        "options": ["stopping by", "showing off", "filling in", "holding up"] } ] },
+
+  { "expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to make someone look at something interesting you are showing them",
+    "exchanges": [ { "uid": "s07_e17_c06_u010", "answer": "check it out",
+      "options": ["check it out", "cut it out", "work it out", "give it up"] } ] },
+
+  { "expression": "stay out of the way", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to keep away from something so that you do not interfere with what others are doing",
+    "exchanges": [ { "uid": "s07_e17_c01_u013", "answer": "out of the way",
+      "options": ["out of the way", "on the right track", "in the long run", "off the hook"] } ] },
+
+  { "expression": "afford", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to have enough money to pay for something",
+    "exchanges": [ { "uid": "s07_e17_c03_u012", "answer": "afford", "responseUid": "s07_e17_c03_u014",
+      "options": ["afford", "avoid", "alter", "assume"] } ] },
+
+  { "expression": "call off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to cancel a planned event",
+    "exchanges": [ { "uid": "s07_e17_c03_u028", "answer": "called off",
+      "options": ["called off", "called on", "ran over", "took up"] } ] },
+
+  { "expression": "starving", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very hungry",
+    "exchanges": [ { "uid": "s07_e17_c02_u016", "answer": "starving",
+      "options": ["starving", "drowning", "snoring", "glowing"] } ] },
+
+  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad or disappointing",
+    "exchanges": [ { "uid": "s07_e17_c10_u009", "answer": "suck",
+      "options": ["suck", "sweat", "sleep", "shine"] } ] },
+
+  { "expression": "look familiar", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to seem like someone or something you have seen before",
+    "exchanges": [ { "uid": "s07_e17_c11_u018", "answer": "familiar",
+      "options": ["familiar", "nervous", "hungry", "tired"] } ] },
+
+  { "expression": "narrow down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to reduce the number of possibilities to a few",
+    "exchanges": [ { "uid": "s07_e17_c01_u002", "answer": "narrow it down",
+      "options": ["narrow it down", "build it up", "break it off", "pass it on"] } ] },
+
+  { "expression": "be into", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be strongly attracted to or interested in someone or something",
+    "exchanges": [ { "uid": "s07_e17_c01_u005", "answer": "into",
+      "options": ["into", "onto", "over", "off"] } ] },
+
+  { "expression": "overpriced", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "costing more than it is worth",
+    "exchanges": [ { "uid": "s07_e17_c03_u033", "answer": "overpriced",
+      "options": ["overpriced", "overworked", "overcooked", "overweight"] } ] },
+
+  { "expression": "be screwed", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "to be in serious trouble, with no way to avoid a bad result",
+    "exchanges": [ { "uid": "s07_e17_c09_u014", "answer": "screwed",
+      "options": ["screwed", "spoiled", "blessed", "excused"] } ] },
+
+  { "expression": "get away with", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to do something wrong without being punished or stopped",
+    "exchanges": [ { "uid": "s07_e17_c09_u020", "answer": "get away with",
+      "options": ["get away with", "come up with", "catch up with", "make up for"] } ] },
+
+  { "expression": "talk someone out of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to persuade someone not to do something",
+    "exchanges": [ { "uid": "s07_e17_c08_u012", "answer": "talk him out of",
+      "options": ["talk him out of", "talk him into", "put him up to", "let him in on"] } ] },
+
+  { "expression": "leave someone out of this", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to not involve someone in an argument or matter",
+    "exchanges": [ { "uid": "s07_e17_c11_u039", "answer": "out of this",
+      "options": ["out of this", "into this", "under this", "onto this"] } ] },
+
+  { "expression": "hideous", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "extremely ugly or unpleasant to look at",
+    "exchanges": [ { "uid": "s07_e17_c12_u012", "answer": "hideous",
+      "options": ["hideous", "gorgeous", "stunning", "elegant"] } ] },
+
+  { "expression": "fan out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to spread out in different directions from one starting point",
+    "exchanges": [ { "uid": "s07_e17_c05_u004", "answer": "fan out",
+      "options": ["fan out", "calm down", "back off", "sit tight"] } ] },
+
+  { "expression": "feisty", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "lively, determined, and ready to argue or fight",
+    "exchanges": [ { "uid": "s07_e17_c05_u028", "answer": "feisty",
+      "options": ["feisty", "fragile", "faithful", "fluffy"] } ] },
+
+  { "expression": "objectively", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "based on facts rather than personal feelings",
+    "exchanges": [ { "uid": "s07_e17_c07_u004", "answer": "objectively",
+      "options": ["objectively", "anxiously", "jealously", "secretly"] } ] },
+
+  { "expression": "on the verge of", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "very close to doing or becoming something",
+    "exchanges": [ { "uid": "s07_e17_c11_u035", "answer": "on the verge of",
+      "options": ["on the verge of", "in the mood for", "at the end of", "by the side of"] } ] },
+
+  { "expression": "mess around", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to have a casual sexual relationship with someone, especially secretly",
+    "exchanges": [ { "uid": "s07_e17_c12_u005", "answer": "mess around",
+      "options": ["mess around", "show off", "sign up", "settle down"] } ] },
+
+  { "expression": "doofus", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a stupid, clumsy person",
+    "exchanges": [ { "uid": "s07_e17_c06_u022", "answer": "doofus",
+      "options": ["doofus", "dentist", "plumber", "tourist"] } ] }
+]

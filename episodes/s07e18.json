@@ -1,0 +1,138 @@
+[
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s07_e18_c01_u011", "answer": "making up",
+      "options": ["making up", "taking in", "putting off", "giving out"] } ] },
+
+  { "expression": "up for", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "being considered as a candidate for a part, job, or prize",
+    "exchanges": [ { "uid": "s07_e18_c01_u012", "answer": "up for",
+      "options": ["up for", "in on", "out of", "down to"] } ] },
+
+  { "expression": "prestigious", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "admired and respected as very important or of high quality",
+    "exchanges": [ { "uid": "s07_e18_c01_u013", "answer": "prestigious",
+      "options": ["prestigious", "contagious", "nutritious", "precarious"] } ] },
+
+  { "expression": "conjecture", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "an opinion or idea formed without enough evidence to prove it",
+    "exchanges": [ { "uid": "s07_e18_c02_u006", "answer": "conjecture",
+      "options": ["conjecture", "certainty", "conference", "consensus"] } ] },
+
+  { "expression": "cut someone some slack", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to treat someone less harshly than usual because of their situation",
+    "exchanges": [
+      { "uid": "s07_e18_c02_u015", "answer": "slack",
+        "options": ["slack", "shade", "steam", "sleep"] },
+      { "uid": "s07_e18_c06_u014", "answer": "slack", "responseUid": "s07_e18_c06_u016",
+        "options": ["slack", "shade", "steam", "sleep"] } ] },
+
+  { "expression": "check someone out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to look at someone with interest because you find them attractive",
+    "exchanges": [ { "uid": "s07_e18_c03_u002", "answer": "checking you out",
+      "options": ["checking you out", "kicking you out", "ruling you out", "calling you up"] } ] },
+
+  { "expression": "go for it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to decide to try something and act on it with determination",
+    "exchanges": [ { "uid": "s07_e18_c03_u004", "answer": "Go for it",
+      "options": ["Go for it", "Get over it", "Look into it", "Make up for it"] } ] },
+
+  { "expression": "just in case", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "as a precaution, in case something is needed later",
+    "exchanges": [ { "uid": "s07_e18_c03_u006", "answer": "just in case",
+      "options": ["just in case", "just in time", "in the end", "at the moment"] } ] },
+
+  { "expression": "flattered", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "pleased and honored because someone has shown that they admire or value you",
+    "exchanges": [ { "uid": "s07_e18_c03_u008", "answer": "flattered",
+      "options": ["flattered", "flattened", "fractured", "frightened"] } ] },
+
+  { "expression": "be up against", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to have to compete with or deal with a difficult opponent or situation",
+    "exchanges": [ { "uid": "s07_e18_c04_u015", "answer": "up against",
+      "options": ["up against", "down with", "out of", "in for"] } ] },
+
+  { "expression": "gracious", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "behaving in a kind, polite, and generous way, especially when you lose",
+    "exchanges": [
+      { "uid": "s07_e18_c04_u017", "answer": "gracious", "responseUid": "s07_e18_c04_u020",
+        "options": ["gracious", "greedy", "clumsy", "sleepy"] },
+      { "uid": "s07_e18_c08_u007", "answer": "gracious",
+        "options": ["gracious", "greedy", "clumsy", "sleepy"] } ] },
+
+  { "expression": "kiss and tell", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to tell other people about your private romantic or sexual experiences",
+    "exchanges": [ { "uid": "s07_e18_c05_u008", "answer": "kiss and tell",
+      "options": ["kiss and tell", "wait and see", "hit and run", "pick and choose"] } ] },
+
+  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to date someone; to spend time with someone romantically",
+    "exchanges": [ { "uid": "s07_e18_c05_u011", "answer": "going out with",
+      "options": ["going out with", "getting rid of", "looking out for", "coming up with"] } ] },
+
+  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have a strong, often secret, romantic attraction to someone",
+    "exchanges": [
+      { "uid": "s07_e18_c06_u008", "answer": "crush",
+        "options": ["crush", "grudge", "claim", "bet"] },
+      { "uid": "s07_e18_c06_u013", "answer": "crush",
+        "options": ["crush", "grudge", "claim", "bet"] } ] },
+
+  { "expression": "vibe", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a feeling or impression that a person gives to others",
+    "exchanges": [ { "uid": "s07_e18_c06_u010", "answer": "vibe",
+      "options": ["vibe", "wave", "grade", "scene"] } ] },
+
+  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to recover from something unpleasant, such as a breakup",
+    "exchanges": [ { "uid": "s07_e18_c06_u016", "answer": "get over",
+      "options": ["get over", "look after", "take after", "show off"] } ] },
+
+  { "expression": "flaunt", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to show something off openly so that others notice it",
+    "exchanges": [ { "uid": "s07_e18_c07_u005", "answer": "flaunt",
+      "options": ["flaunt", "examine", "postpone", "conceal"] } ] },
+
+  { "expression": "tiptoe around", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to act very carefully around someone to avoid upsetting them",
+    "exchanges": [ { "uid": "s07_e18_c07_u006", "answer": "tip toe around",
+      "options": ["tip toe around", "look down on", "make fun of", "catch up with"] } ] },
+
+  { "expression": "on behalf of", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "as the representative of someone, or for their benefit",
+    "exchanges": [ { "uid": "s07_e18_c09_u003", "answer": "on her behalf",
+      "options": ["on her behalf", "at her expense", "in her favor", "by her side"] } ] },
+
+  { "expression": "for real", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "seriously, not just for practice or fun",
+    "exchanges": [ { "uid": "s07_e18_c10_u016", "answer": "for real",
+      "options": ["for real", "by hand", "on foot", "on sale"] } ] },
+
+  { "expression": "yank someone's chain", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to tease or deceive someone by making them believe something untrue",
+    "exchanges": [ { "uid": "s07_e18_c11_u012", "answer": "yanking your chain",
+      "options": ["yanking your chain", "pulling your weight", "bending your ear", "picking your brain"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [
+      { "uid": "s07_e18_c12_u004", "answer": "freaking me out",
+        "options": ["freaking me out", "backing me up", "cheering me up", "calming me down"] },
+      { "uid": "s07_e18_c14_u006", "answer": "freak you out", "responseUid": "s07_e18_c14_u008",
+        "options": ["freak you out", "cheer you up", "back you up", "calm you down"] } ] },
+
+  { "expression": "don't sweat it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to tell someone not to worry about something",
+    "exchanges": [ { "uid": "s07_e18_c12_u005", "answer": "don't sweat it",
+      "options": ["don't sweat it", "don't push it", "don't buy it", "don't mention it"] } ] },
+
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to assist someone with work or a task",
+    "exchanges": [ { "uid": "s07_e18_c12_u010", "answer": "help me out",
+      "options": ["help me out", "let me down", "count me in", "check me out"] } ] },
+
+  { "expression": "try to pull something", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to attempt to trick or deceive someone to get an advantage",
+    "exchanges": [ { "uid": "s07_e18_c15_u006", "answer": "pull", "responseUid": null,
+      "options": ["pull", "bend", "fold", "drop"] } ] }
+]

@@ -1,0 +1,51 @@
+[
+  {"expression":"go ahead","type":"colloquial","level":"elementary","pos":"expression","meaning":"said to give someone permission to do what they asked","exchanges":[{"uid":"s07_e16_c01_u006","answer":"go ahead","options":["go ahead","go away","go around","go under"]}]},
+
+  {"expression":"hang out","type":"phrase","level":"elementary","pos":"verb","meaning":"to spend time relaxing somewhere or with someone","exchanges":[{"uid":"s07_e16_c03_u002","answer":"hang out","options":["hang out","hang up","work out","sell out"]}]},
+
+  {"expression":"look after","type":"phrase","level":"elementary","pos":"verb","meaning":"to take care of someone and make sure they are safe","exchanges":[{"uid":"s07_e16_c12_u004","answer":"look after","options":["look after","look into","look over","look through"]}]},
+
+  {"expression":"good for you","type":"colloquial","level":"elementary","pos":"expression","meaning":"said to show you are pleased about or approve of what someone has done","exchanges":[{"uid":"s07_e16_c15_u004","answer":"Good for you","options":["Good for you","Shame on you","Watch your step","Mind your manners"]}]},
+
+  {"expression":"a ton of","type":"colloquial","level":"middle","pos":"expression","meaning":"a very large amount of something","exchanges":[{"uid":"s07_e16_c03_u016","answer":"a ton of","options":["a ton of","a slice of","a drop of","a sheet of"]}]},
+
+  {"expression":"practical joke","type":"phrase","level":"middle","pos":"noun","meaning":"a trick played on someone to make them look silly and make others laugh","exchanges":[{"uid":"s07_e16_c05_u010","answer":"practical jokes","options":["practical jokes","fairy tales","nursery rhymes","bedtime stories"]}]},
+
+  {"expression":"barefoot","type":"word","level":"middle","pos":"adjective","meaning":"not wearing any shoes or socks","exchanges":[{"uid":"s07_e16_c05_u012","answer":"barefoot","options":["barefoot","barefaced","bankrupt","backward"]}]},
+
+  {"expression":"in the neighborhood","type":"phrase","level":"middle","pos":"adverb","meaning":"in the nearby area","exchanges":[{"uid":"s07_e16_c07_u005","answer":"in the neighborhood","options":["in the neighborhood","in the mood","in the dark","on the fence"]}]},
+
+  {"expression":"throw up","type":"phrase","level":"middle","pos":"verb","meaning":"to vomit","exchanges":[{"uid":"s07_e16_c08_u011","answer":"threw up","options":["threw up","gave up","set up","took up"]}]},
+
+  {"expression":"easy for you to say","type":"colloquial","level":"high","pos":"expression","meaning":"said when someone gives advice or an opinion without facing the difficulty you face","exchanges":[{"uid":"s07_e16_c02_u005","answer":"Easy","options":["Easy","Rare","Late","Odd"]}]},
+
+  {"expression":"can you blame him","type":"colloquial","level":"high","pos":"expression","meaning":"said to suggest that someone's behavior is understandable and not really wrong","exchanges":[{"uid":"s07_e16_c02_u008","answer":"blame","options":["blame","pay","fire","wake"]}]},
+
+  {"expression":"kick in","type":"phrase","level":"high","pos":"verb","meaning":"to start to take effect or happen","exchanges":[{"uid":"s07_e16_c04_u028","answer":"kick in","options":["kick in","wear off","run out","spill over"]}]},
+
+  {"expression":"hook up with","type":"colloquial","level":"high","pos":"verb","meaning":"to start a romantic or sexual relationship with someone","exchanges":[{"uid":"s07_e16_c08_u096","answer":"hook up with","options":["hook up with","catch up with","keep up with","come up with"]}]},
+
+  {"expression":"settle for","type":"phrase","level":"high","pos":"verb","meaning":"to accept something less than what you really wanted","exchanges":[{"uid":"s07_e16_c09_u014","answer":"settle for","options":["settle for","ask for","pay for","care for"]}]},
+
+  {"expression":"miss out on","type":"phrase","level":"high","pos":"verb","meaning":"to lose the chance to do or enjoy something","exchanges":[{"uid":"s07_e16_c11_u008","answer":"missed out on","options":["missed out on","signed up for","got away with","came up with"]}]},
+
+  {"expression":"live it up","type":"colloquial","level":"high","pos":"verb","meaning":"to enjoy yourself in an exciting and often extravagant way","exchanges":[{"uid":"s07_e16_c08_u035","answer":"livin' it up","options":["livin' it up","messin' it up","givin' it up","wrappin' it up"]}]},
+
+  {"expression":"a weight has been lifted","type":"colloquial","level":"high","pos":"expression","meaning":"said when you suddenly feel relieved of a worry or burden","exchanges":[{"uid":"s07_e16_c15_u005","answer":"weight has been lifted","options":["weight has been lifted","bell has been rung","deal has been made","bill has been paid"]}]},
+
+  {"expression":"get ordained","type":"phrase","level":"college","pos":"verb","meaning":"to be officially made a minister or priest with the right to perform religious ceremonies","exchanges":[{"uid":"s07_e16_c02_u017","answer":"get ordained","options":["get ordained","get divorced","get arrested","get engaged"]},{"uid":"s07_e16_c06_u016","answer":"got ordained","options":["got ordained","got divorced","got arrested","got engaged"]}]},
+
+  {"expression":"have a bone to pick with","type":"colloquial","level":"college","pos":"verb","meaning":"to have a complaint you want to discuss with someone","exchanges":[{"uid":"s07_e16_c05_u004","answer":"a bone to pick","options":["a bone to pick","a seat to save","a train to catch","a card to play"]}]},
+
+  {"expression":"disoriented","type":"word","level":"college","pos":"adjective","meaning":"confused about where you are or what is happening","exchanges":[{"uid":"s07_e16_c06_u021","answer":"disoriented","options":["disoriented","disorganized","discouraged","disinfected"]}]},
+
+  {"expression":"console","type":"word","level":"college","pos":"verb","meaning":"to comfort someone who is sad or disappointed","exchanges":[{"uid":"s07_e16_c08_u027","answer":"consoled","options":["consoled","consulted","conserved","confined"]}]},
+
+  {"expression":"out of the woods","type":"colloquial","level":"college","pos":"expression","meaning":"no longer in danger or difficulty","exchanges":[{"uid":"s07_e16_c15_u003","answer":"out of the woods","options":["out of the woods","out of the blue","out of the loop","out of the box"]}]},
+
+  {"expression":"ex-con","type":"word","level":"expert","pos":"noun","meaning":"a person who has been in prison in the past","exchanges":[{"uid":"s07_e16_c01_u024","answer":"ex-con","options":["ex-con","in-law","ex-pat","has-been"]}]},
+
+  {"expression":"bode well","type":"phrase","level":"expert","pos":"verb","meaning":"to be a sign that something good will happen","exchanges":[{"uid":"s07_e16_c08_u061","answer":"bodes well","options":["bodes well","pays well","sells well","ages well"]}]},
+
+  {"expression":"man of the cloth","type":"colloquial","level":"expert","pos":"noun","meaning":"a priest or minister of a church","exchanges":[{"uid":"s07_e16_c09_u009","answer":"man of the cloth","options":["man of the cloth","man of the world","man of the hour","man of the people"]}]}
+]
