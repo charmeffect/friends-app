@@ -1,135 +1,536 @@
 [
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [
-      { "uid": "s05_e10_c05_u013", "answer": "come up with",
-        "options": ["come up with", "get on with", "put up with", "go through with"] },
-      { "uid": "s05_e10_c16_u028", "answer": "coming up with", "responseUid": null,
-        "options": ["coming up with", "getting on with", "putting up with", "going through with"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c05_u013",
+      "answer": "come up with",
+      "options": [
+        "come up with",
+        "get on with",
+        "put up with",
+        "go through with"
+      ]
+    },
+    {
+      "uid": "s05_e10_c16_u028",
+      "answer": "coming up with",
+      "responseUid": null,
+      "options": [
+        "coming up with",
+        "getting on with",
+        "putting up with",
+        "going through with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s05_e10_c16_u013", "answer": "hanging out", "cueUid": "s05_e10_c16_u010",
-      "options": ["hanging out", "holding on", "heading off", "handing in"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c16_u013",
+      "answer": "hanging out",
+      "cueUid": "s05_e10_c16_u010",
+      "options": [
+        "hanging out",
+        "holding on",
+        "heading off",
+        "handing in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to give someone help, especially in a difficult situation",
-    "exchanges": [ { "uid": "s05_e10_c04_u007", "answer": "help you out",
-      "options": ["help you out", "hold you up", "show you in", "turn you off"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c04_u007",
+      "answer": "help you out",
+      "options": [
+        "help you out",
+        "hold you up",
+        "show you in",
+        "turn you off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show you are pleased about or approve of what someone has done",
-    "exchanges": [ { "uid": "s05_e10_c11_u010", "answer": "good for you",
-      "options": ["good for you", "nice to you", "fine by you", "well on you"] } ] },
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are pleased about or approve of what someone has done",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c11_u010",
+      "answer": "good for you",
+      "options": [
+        "good for you",
+        "nice to you",
+        "fine by you",
+        "well on you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drive someone crazy", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to annoy someone very much over a long time",
-    "exchanges": [ { "uid": "s05_e10_c07_u007", "answer": "driving me crazy",
-      "options": ["driving me crazy", "making me busy", "taking me lightly", "keeping me quiet"] } ] },
+{
+  "expression": "drive someone crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to annoy someone very much over a long time",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c07_u007",
+      "answer": "driving me crazy",
+      "options": [
+        "driving me crazy",
+        "making me busy",
+        "taking me lightly",
+        "keeping me quiet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stick to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to continue following a plan or schedule without changing it",
-    "exchanges": [
-      { "uid": "s05_e10_c05_u009", "answer": "stick to it",
-        "options": ["stick to it", "get over it", "show up to it", "back out of it"] },
-      { "uid": "s05_e10_c07_u013", "answer": "stick to",
-        "options": ["stick to", "put off", "cut back", "get over"] } ] },
+{
+  "expression": "stick to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to continue following a plan or schedule without changing it",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c05_u009",
+      "answer": "stick to it",
+      "options": [
+        "stick to it",
+        "get over it",
+        "show up to it",
+        "back out of it"
+      ]
+    },
+    {
+      "uid": "s05_e10_c07_u013",
+      "answer": "stick to",
+      "options": [
+        "stick to",
+        "put off",
+        "cut back",
+        "get over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jerk", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a rude or unpleasant person",
-    "exchanges": [ { "uid": "s05_e10_c12_u015", "answer": "jerk",
-      "options": ["jerk", "clerk", "monk", "hawk"] } ] },
+{
+  "expression": "jerk",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a rude or unpleasant person",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c12_u015",
+      "answer": "jerk",
+      "options": [
+        "jerk",
+        "clerk",
+        "monk",
+        "hawk"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to take control of a place or organization",
-    "exchanges": [ { "uid": "s05_e10_c14_u007", "answer": "take over", "cueUid": "s05_e10_c14_u005",
-      "options": ["take over", "run over", "get over", "hold over"] } ] },
+{
+  "expression": "take over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take control of a place or organization",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c14_u007",
+      "answer": "take over",
+      "cueUid": "s05_e10_c14_u005",
+      "options": [
+        "take over",
+        "run over",
+        "get over",
+        "hold over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shame on you", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to tell someone they should feel guilty about what they did",
-    "exchanges": [ { "uid": "s05_e10_c09_u007", "answer": "shame on you", "responseUid": "s05_e10_c09_u010",
-      "options": ["shame on you", "blame to you", "guilt at you", "fault in you"] } ] },
+{
+  "expression": "shame on you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone they should feel guilty about what they did",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c09_u007",
+      "answer": "shame on you",
+      "responseUid": "s05_e10_c09_u010",
+      "options": [
+        "shame on you",
+        "blame to you",
+        "guilt at you",
+        "fault in you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spread out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to arrange things so that they happen over a longer period of time",
-    "exchanges": [ { "uid": "s05_e10_c01_u006", "answer": "spread it out",
-      "options": ["spread it out", "stretch it in", "break it off", "hand it over"] } ] },
+{
+  "expression": "spread out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange things so that they happen over a longer period of time",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c01_u006",
+      "answer": "spread it out",
+      "options": [
+        "spread it out",
+        "stretch it in",
+        "break it off",
+        "hand it over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "skip it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to suggest not doing something that was planned",
-    "exchanges": [ { "uid": "s05_e10_c15_u003", "answer": "skip it",
-      "options": ["skip it", "wrap it", "dig it", "push it"] } ] },
+{
+  "expression": "skip it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to suggest not doing something that was planned",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c15_u003",
+      "answer": "skip it",
+      "options": [
+        "skip it",
+        "wrap it",
+        "dig it",
+        "push it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rookie", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a person who has just started a job or activity and has little experience",
-    "exchanges": [ { "uid": "s05_e10_c02_u011", "answer": "rookie",
-      "options": ["rookie", "rascal", "rover", "rebel"] } ] },
+{
+  "expression": "rookie",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who has just started a job or activity and has little experience",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c02_u011",
+      "answer": "rookie",
+      "options": [
+        "rookie",
+        "rascal",
+        "rover",
+        "rebel"
+      ]
+    }
+  ]
+},
 
-  { "expression": "intrigued", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "interested and curious because something seems unusual or fascinating",
-    "exchanges": [ { "uid": "s05_e10_c07_u016", "answer": "intrigued",
-      "options": ["intrigued", "indulged", "inflated", "inclined"] } ] },
+{
+  "expression": "intrigued",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "interested and curious because something seems unusual or fascinating",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c07_u016",
+      "answer": "intrigued",
+      "options": [
+        "intrigued",
+        "indulged",
+        "inflated",
+        "inclined"
+      ]
+    }
+  ]
+},
 
-  { "expression": "nail it", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do something perfectly or very successfully",
-    "exchanges": [ { "uid": "s05_e10_c03_u005", "answer": "nailed it",
-      "options": ["nailed it", "bolted it", "glued it", "taped it"] } ] },
+{
+  "expression": "nail it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something perfectly or very successfully",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c03_u005",
+      "answer": "nailed it",
+      "options": [
+        "nailed it",
+        "bolted it",
+        "glued it",
+        "taped it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand in the way", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to prevent something from happening",
-    "exchanges": [ { "uid": "s05_e10_c15_u012", "answer": "stand in the way",
-      "options": ["stand in the way", "step on the road", "sit by the door", "walk off the path"] } ] },
+{
+  "expression": "stand in the way",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to prevent something from happening",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c15_u012",
+      "answer": "stand in the way",
+      "options": [
+        "stand in the way",
+        "step on the road",
+        "sit by the door",
+        "walk off the path"
+      ]
+    }
+  ]
+},
 
-  { "expression": "security deposit", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "money paid to a landlord when renting a home, returned if the place is left undamaged",
-    "exchanges": [ { "uid": "s05_e10_c07_u018", "answer": "security deposit",
-      "options": ["security deposit", "safety payment", "insurance receipt", "rental invoice"] } ] },
+{
+  "expression": "security deposit",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "money paid to a landlord when renting a home, returned if the place is left undamaged",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c07_u018",
+      "answer": "security deposit",
+      "options": [
+        "security deposit",
+        "safety payment",
+        "insurance receipt",
+        "rental invoice"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put it that way", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when someone's way of explaining something makes you see it differently",
-    "exchanges": [ { "uid": "s05_e10_c15_u013", "answer": "put it that way",
-      "options": ["put it that way", "set it this far", "take it so long", "make it all right"] } ] },
+{
+  "expression": "put it that way",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when someone's way of explaining something makes you see it differently",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c15_u013",
+      "answer": "put it that way",
+      "options": [
+        "put it that way",
+        "set it this far",
+        "take it so long",
+        "make it all right"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for the love of God", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to show strong frustration or urgency when begging someone to do something",
-    "exchanges": [ { "uid": "s05_e10_c01_u015", "answer": "love of God",
-      "options": ["love of God", "will of God", "hand of God", "eyes of God"] } ] },
+{
+  "expression": "for the love of God",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to show strong frustration or urgency when begging someone to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c01_u015",
+      "answer": "love of God",
+      "options": [
+        "love of God",
+        "will of God",
+        "hand of God",
+        "eyes of God"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sabbatical", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a period of paid leave from a job, especially for a university teacher, used for study or rest",
-    "exchanges": [
-      { "uid": "s05_e10_c01_u007", "answer": "sabbatical",
-        "options": ["sabbatical", "probation", "pension", "scholarship"] },
-      { "uid": "s05_e10_c12_u012", "answer": "sabbatical",
-        "options": ["sabbatical", "probation", "pension", "scholarship"] } ] },
+{
+  "expression": "sabbatical",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a period of paid leave from a job, especially for a university teacher, used for study or rest",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c01_u007",
+      "answer": "sabbatical",
+      "options": [
+        "sabbatical",
+        "probation",
+        "pension",
+        "scholarship"
+      ]
+    },
+    {
+      "uid": "s05_e10_c12_u012",
+      "answer": "sabbatical",
+      "options": [
+        "sabbatical",
+        "probation",
+        "pension",
+        "scholarship"
+      ]
+    }
+  ]
+},
 
-  { "expression": "meddle", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to become involved in something that is not your concern",
-    "exchanges": [ { "uid": "s05_e10_c06_u005", "answer": "meddled",
-      "options": ["meddled", "dabbled", "peddled", "huddled"] } ] },
+{
+  "expression": "meddle",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to become involved in something that is not your concern",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c06_u005",
+      "answer": "meddled",
+      "options": [
+        "meddled",
+        "dabbled",
+        "peddled",
+        "huddled"
+      ]
+    }
+  ]
+},
 
-  { "expression": "breathe down someone's neck", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to watch someone closely and pressure them so that they feel uncomfortable",
-    "exchanges": [ { "uid": "s05_e10_c16_u009", "answer": "breathing down your neck",
-      "options": ["breathing down your neck", "looking over your head", "standing on your toes", "hanging around your back"] } ] },
+{
+  "expression": "breathe down someone's neck",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to watch someone closely and pressure them so that they feel uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c16_u009",
+      "answer": "breathing down your neck",
+      "options": [
+        "breathing down your neck",
+        "looking over your head",
+        "standing on your toes",
+        "hanging around your back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "high-profile", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "attracting a lot of public attention",
-    "exchanges": [ { "uid": "s05_e10_c14_u005", "answer": "high-profile", "responseUid": "s05_e10_c14_u007",
-      "options": ["high-profile", "well-rounded", "far-reaching", "long-standing"] } ] },
+{
+  "expression": "high-profile",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "attracting a lot of public attention",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c14_u005",
+      "answer": "high-profile",
+      "responseUid": "s05_e10_c14_u007",
+      "options": [
+        "high-profile",
+        "well-rounded",
+        "far-reaching",
+        "long-standing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crank up", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to increase the intensity or level of something",
-    "exchanges": [ { "uid": "s05_e10_c07_u015", "answer": "crank it up",
-      "options": ["crank it up", "wrap it up", "pull it off", "turn it in"] } ] },
+{
+  "expression": "crank up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to increase the intensity or level of something",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c07_u015",
+      "answer": "crank it up",
+      "options": [
+        "crank it up",
+        "wrap it up",
+        "pull it off",
+        "turn it in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bite me", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "a rude, defiant reply meaning that you do not care what the other person thinks",
-    "exchanges": [ { "uid": "s05_e10_c04_u025", "answer": "Bite me",
-      "options": ["Bite me", "Kiss me", "Hold me", "Fool me"] } ] },
+{
+  "expression": "bite me",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a rude, defiant reply meaning that you do not care what the other person thinks",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c04_u025",
+      "answer": "Bite me",
+      "options": [
+        "Bite me",
+        "Kiss me",
+        "Hold me",
+        "Fool me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "airhead", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a silly person who does not think seriously about anything",
-    "exchanges": [ { "uid": "s05_e10_c13_u002", "answer": "airhead",
-      "options": ["airhead", "egghead", "figurehead", "spearhead"] } ] }
+{
+  "expression": "airhead",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a silly person who does not think seriously about anything",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c13_u002",
+      "answer": "airhead",
+      "options": [
+        "airhead",
+        "egghead",
+        "figurehead",
+        "spearhead"
+      ]
+    }
+  ]
+}
 ]

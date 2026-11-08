@@ -1,127 +1,509 @@
 [
-  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to meet someone by chance",
-    "exchanges": [ { "uid": "s05_e02_c05_u026", "answer": "ran into",
-      "options": ["ran into", "ran over", "ran after", "ran off"] } ] },
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c05_u026",
+      "answer": "ran into",
+      "options": [
+        "ran into",
+        "ran over",
+        "ran after",
+        "ran off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go ahead", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to give someone permission to do what they asked",
-    "exchanges": [ { "uid": "s05_e02_c08_u033", "answer": "Go ahead", "cueUid": "s05_e02_c08_u030",
-      "options": ["Go ahead", "Go along", "Go away", "Go over"] } ] },
+{
+  "expression": "go ahead",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to give someone permission to do what they asked",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c08_u033",
+      "answer": "Go ahead",
+      "cueUid": "s05_e02_c08_u030",
+      "options": [
+        "Go ahead",
+        "Go along",
+        "Go away",
+        "Go over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to make someone look at something interesting you are showing them",
-    "exchanges": [ { "uid": "s05_e02_c02_u045", "answer": "Check it out",
-      "options": ["Check it out", "Look it up", "Take it in", "Try it on"] } ] },
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u045",
+      "answer": "Check it out",
+      "options": [
+        "Check it out",
+        "Look it up",
+        "Take it in",
+        "Try it on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "from now on", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "starting at this moment and continuing into the future",
-    "exchanges": [ { "uid": "s05_e02_c02_u053", "answer": "from now on",
-      "options": ["from now on", "by and large", "in the end", "at all costs"] } ] },
+{
+  "expression": "from now on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "starting at this moment and continuing into the future",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u053",
+      "answer": "from now on",
+      "options": [
+        "from now on",
+        "by and large",
+        "in the end",
+        "at all costs"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a deal", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to reach an agreement in which each side promises to do something",
-    "exchanges": [ { "uid": "s05_e02_c03_u016", "answer": "made a deal",
-      "options": ["made a deal", "made a scene", "made a point", "made a wish"] } ] },
+{
+  "expression": "make a deal",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to reach an agreement in which each side promises to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c03_u016",
+      "answer": "made a deal",
+      "options": [
+        "made a deal",
+        "made a scene",
+        "made a point",
+        "made a wish"
+      ]
+    }
+  ]
+},
 
-  { "expression": "left out", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "excluded from a group or an experience that everyone else shares",
-    "exchanges": [ { "uid": "s05_e02_c07_u005", "answer": "left out",
-      "cueUid": null, "responseUid": "s05_e02_c07_u007",
-      "options": ["left out", "left over", "left off", "left up"] } ] },
+{
+  "expression": "left out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "excluded from a group or an experience that everyone else shares",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c07_u005",
+      "answer": "left out",
+      "cueUid": null,
+      "responseUid": "s05_e02_c07_u007",
+      "options": [
+        "left out",
+        "left over",
+        "left off",
+        "left up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for the last time", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said angrily when repeating something you have already said several times",
-    "exchanges": [ { "uid": "s05_e02_c01_u013", "answer": "For the last time",
-      "options": ["For the last time", "For the first time", "For the time being", "For the long haul"] } ] },
+{
+  "expression": "for the last time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said angrily when repeating something you have already said several times",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c01_u013",
+      "answer": "For the last time",
+      "options": [
+        "For the last time",
+        "For the first time",
+        "For the time being",
+        "For the long haul"
+      ]
+    }
+  ]
+},
 
-  { "expression": "love life", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "the romantic and sexual relationships in a person's life",
-    "exchanges": [ { "uid": "s05_e02_c02_u056", "answer": "love life",
-      "options": ["love life", "night life", "real life", "shelf life"] } ] },
+{
+  "expression": "love life",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the romantic and sexual relationships in a person's life",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u056",
+      "answer": "love life",
+      "options": [
+        "love life",
+        "night life",
+        "real life",
+        "shelf life"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're the boss", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show you will do whatever the other person decides",
-    "exchanges": [ { "uid": "s05_e02_c03_u017", "answer": "you're the boss",
-      "options": ["you're the boss", "you're the host", "you're the judge", "you're the coach"] } ] },
+{
+  "expression": "you're the boss",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you will do whatever the other person decides",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c03_u017",
+      "answer": "you're the boss",
+      "options": [
+        "you're the boss",
+        "you're the host",
+        "you're the judge",
+        "you're the coach"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have people over", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to invite guests to your home",
-    "exchanges": [ { "uid": "s05_e02_c04_u006", "answer": "having me over", "cueUid": "s05_e02_c04_u003",
-      "options": ["having me over", "seeing me off", "letting me down", "picking me up"] } ] },
+{
+  "expression": "have people over",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite guests to your home",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c04_u006",
+      "answer": "having me over",
+      "cueUid": "s05_e02_c04_u003",
+      "options": [
+        "having me over",
+        "seeing me off",
+        "letting me down",
+        "picking me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tricky", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "difficult to do or deal with and likely to cause problems",
-    "exchanges": [ { "uid": "s05_e02_c06_u012", "answer": "tricky",
-      "options": ["tricky", "sticky", "trendy", "tidy"] } ] },
+{
+  "expression": "tricky",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "difficult to do or deal with and likely to cause problems",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c06_u012",
+      "answer": "tricky",
+      "options": [
+        "tricky",
+        "sticky",
+        "trendy",
+        "tidy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "humiliating", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "making you feel ashamed and foolish in front of other people",
-    "exchanges": [ { "uid": "s05_e02_c02_u049", "answer": "humiliating",
-      "options": ["humiliating", "fascinating", "illuminating", "exhilarating"] } ] },
+{
+  "expression": "humiliating",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "making you feel ashamed and foolish in front of other people",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u049",
+      "answer": "humiliating",
+      "options": [
+        "humiliating",
+        "fascinating",
+        "illuminating",
+        "exhilarating"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go after", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to try hard to get something you want",
-    "exchanges": [ { "uid": "s05_e02_c02_u051", "answer": "went after",
-      "options": ["went after", "went along", "went around", "went ahead"] } ] },
+{
+  "expression": "go after",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try hard to get something you want",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u051",
+      "answer": "went after",
+      "options": [
+        "went after",
+        "went along",
+        "went around",
+        "went ahead"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flirt with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to behave playfully toward someone to show you are attracted to them",
-    "exchanges": [ { "uid": "s05_e02_c03_u014", "answer": "flirted with",
-      "options": ["flirted with", "fought with", "sided with", "dealt with"] } ] },
+{
+  "expression": "flirt with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to behave playfully toward someone to show you are attracted to them",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c03_u014",
+      "answer": "flirted with",
+      "options": [
+        "flirted with",
+        "fought with",
+        "sided with",
+        "dealt with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bum out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone feel sad or disappointed",
-    "exchanges": [ { "uid": "s05_e02_c03_u025", "answer": "bums me out",
-      "options": ["bums me out", "puts me on", "sets me up", "picks me up"] } ] },
+{
+  "expression": "bum out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone feel sad or disappointed",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c03_u025",
+      "answer": "bums me out",
+      "options": [
+        "bums me out",
+        "puts me on",
+        "sets me up",
+        "picks me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dead serious", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "completely serious and not joking at all",
-    "exchanges": [ { "uid": "s05_e02_c08_u039", "answer": "dead serious",
-      "options": ["dead serious", "dead quiet", "dead wrong", "dead tired"] } ] },
+{
+  "expression": "dead serious",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "completely serious and not joking at all",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c08_u039",
+      "answer": "dead serious",
+      "options": [
+        "dead serious",
+        "dead quiet",
+        "dead wrong",
+        "dead tired"
+      ]
+    }
+  ]
+},
 
-  { "expression": "always a pleasure", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "a polite, friendly goodbye meaning you enjoyed seeing the person",
-    "exchanges": [ { "uid": "s05_e02_c02_u061", "answer": "Always a pleasure", "responseUid": null,
-      "options": ["Always a pleasure", "Never a problem", "Quite a treat", "Such a shame"] } ] },
+{
+  "expression": "always a pleasure",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a polite, friendly goodbye meaning you enjoyed seeing the person",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u061",
+      "answer": "Always a pleasure",
+      "responseUid": null,
+      "options": [
+        "Always a pleasure",
+        "Never a problem",
+        "Quite a treat",
+        "Such a shame"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ultimately", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "in the end, after everything else has happened",
-    "exchanges": [ { "uid": "s05_e02_c05_u027", "answer": "ultimately",
-      "options": ["ultimately", "frequently", "accidentally", "previously"] } ] },
+{
+  "expression": "ultimately",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "in the end, after everything else has happened",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c05_u027",
+      "answer": "ultimately",
+      "options": [
+        "ultimately",
+        "frequently",
+        "accidentally",
+        "previously"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call the shots", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to be the one who makes the decisions and gives the orders",
-    "exchanges": [ { "uid": "s05_e02_c05_u026", "answer": "calling the shots",
-      "options": ["calling the shots", "taking the heat", "making the rounds", "pulling the plug"] } ] },
+{
+  "expression": "call the shots",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be the one who makes the decisions and gives the orders",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c05_u026",
+      "answer": "calling the shots",
+      "options": [
+        "calling the shots",
+        "taking the heat",
+        "making the rounds",
+        "pulling the plug"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rain check", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "a polite way of declining an invitation while suggesting you will accept it another time",
-    "exchanges": [ { "uid": "s05_e02_c05_u021", "answer": "rain check", "cueUid": "s05_e02_c05_u019",
-      "options": ["rain check", "head start", "back seat", "short cut"] } ] },
+{
+  "expression": "rain check",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a polite way of declining an invitation while suggesting you will accept it another time",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c05_u021",
+      "answer": "rain check",
+      "cueUid": "s05_e02_c05_u019",
+      "options": [
+        "rain check",
+        "head start",
+        "back seat",
+        "short cut"
+      ]
+    }
+  ]
+},
 
-  { "expression": "catch a break", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to have some good luck, especially after a run of bad luck",
-    "exchanges": [ { "uid": "s05_e02_c05_u018", "answer": "catch a break",
-      "options": ["catch a break", "take a hint", "make a call", "get a grip"] } ] },
+{
+  "expression": "catch a break",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to have some good luck, especially after a run of bad luck",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c05_u018",
+      "answer": "catch a break",
+      "options": [
+        "catch a break",
+        "take a hint",
+        "make a call",
+        "get a grip"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bask in", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to enjoy the pleasant feeling of success or admiration for a while",
-    "exchanges": [ { "uid": "s05_e02_c07_u013", "answer": "bask in",
-      "options": ["bask in", "barge in", "chip in", "cave in"] } ] },
+{
+  "expression": "bask in",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to enjoy the pleasant feeling of success or admiration for a while",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c07_u013",
+      "answer": "bask in",
+      "options": [
+        "bask in",
+        "barge in",
+        "chip in",
+        "cave in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're golden", "type": "colloquial", "level": "expert", "pos": "adjective",
-    "meaning": "in a very good position and certain to succeed",
-    "exchanges": [ { "uid": "s05_e02_c03_u018", "answer": "golden", "responseUid": null,
-      "options": ["golden", "frozen", "broken", "chosen"] } ] },
+{
+  "expression": "you're golden",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "in a very good position and certain to succeed",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c03_u018",
+      "answer": "golden",
+      "responseUid": null,
+      "options": [
+        "golden",
+        "frozen",
+        "broken",
+        "chosen"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call shotgun", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to claim the front passenger seat of a car before anyone else",
-    "exchanges": [ { "uid": "s05_e02_c09_u009", "answer": "call shotgun", "cueUid": "s05_e02_c09_u007",
-      "options": ["call shotgun", "call security", "call timeout", "call ahead"] } ] },
+{
+  "expression": "call shotgun",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to claim the front passenger seat of a car before anyone else",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c09_u009",
+      "answer": "call shotgun",
+      "cueUid": "s05_e02_c09_u007",
+      "options": [
+        "call shotgun",
+        "call security",
+        "call timeout",
+        "call ahead"
+      ]
+    }
+  ]
+},
 
-  { "expression": "liquored up", "type": "colloquial", "level": "expert", "pos": "adjective",
-    "meaning": "drunk",
-    "exchanges": [ { "uid": "s05_e02_c01_u003", "answer": "liquored up",
-      "options": ["liquored up", "dressed up", "boxed up", "cooped up"] } ] }
+{
+  "expression": "liquored up",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "drunk",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c01_u003",
+      "answer": "liquored up",
+      "options": [
+        "liquored up",
+        "dressed up",
+        "boxed up",
+        "cooped up"
+      ]
+    }
+  ]
+}
 ]

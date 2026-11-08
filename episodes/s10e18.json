@@ -1,7 +1,7 @@
 [
 {
   "expression": "boarding pass",
-  "type": "word",
+  "type": "phrase",
   "level": "middle",
   "pos": "noun",
   "meaning": "a card or document that allows a passenger to get on a plane",
@@ -205,7 +205,7 @@
 {
   "expression": "come up with",
   "type": "phrase",
-  "level": "elementary",
+  "level": "middle",
   "pos": "verb",
   "meaning": "to think of an idea or plan",
   "exchanges": [
@@ -265,7 +265,7 @@
 {
   "expression": "poultry",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "noun",
   "meaning": "birds such as chickens, ducks and geese that are kept for eggs or meat",
   "exchanges": [
@@ -305,7 +305,7 @@
 {
   "expression": "assure",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to tell someone confidently that something is true so that they stop worrying",
   "exchanges": [
@@ -325,7 +325,7 @@
 {
   "expression": "as a matter of fact",
   "type": "phrase",
-  "level": "high",
+  "level": "middle",
   "pos": "adverb",
   "meaning": "used to add a detail that supports or goes further than what was just said",
   "exchanges": [
@@ -404,8 +404,8 @@
 
 {
   "expression": "rent control",
-  "type": "word",
-  "level": "expert",
+  "type": "phrase",
+  "level": "college",
   "pos": "noun",
   "meaning": "a legal limit on how much a landlord can charge or raise the rent",
   "exchanges": [

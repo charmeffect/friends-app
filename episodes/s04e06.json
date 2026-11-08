@@ -1,129 +1,516 @@
 [
-  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to help someone with a task",
-    "exchanges": [ { "uid": "s04_e06_c08_u004", "answer": "give me a hand",
-      "options": ["give me a hand", "show me a sign", "get me a seat", "save me a spot"] } ] },
+{
+  "expression": "give someone a hand",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to help someone with a task",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c08_u004",
+      "answer": "give me a hand",
+      "options": [
+        "give me a hand",
+        "show me a sign",
+        "get me a seat",
+        "save me a spot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay back", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to return money that you borrowed from someone",
-    "exchanges": [ { "uid": "s04_e06_c02_u057", "answer": "pay you back",
-      "options": ["pay you back", "call you up", "put you off", "let you down"] } ] },
+{
+  "expression": "pay back",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to return money that you borrowed from someone",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u057",
+      "answer": "pay you back",
+      "options": [
+        "pay you back",
+        "call you up",
+        "put you off",
+        "let you down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "right away", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "immediately, without any delay",
-    "exchanges": [ { "uid": "s04_e06_c02_u057", "answer": "right away",
-      "options": ["right away", "so far", "all along", "for good"] } ] },
+{
+  "expression": "right away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "immediately, without any delay",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u057",
+      "answer": "right away",
+      "options": [
+        "right away",
+        "so far",
+        "all along",
+        "for good"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time with someone as a boyfriend or girlfriend",
-    "exchanges": [
-      { "uid": "s04_e06_c02_u041", "answer": "going out", "responseUid": "s04_e06_c02_u043",
-        "options": ["going out", "moving in", "growing up", "taking off"] },
-      { "uid": "s04_e06_c01_u015", "answer": "going out",
-        "options": ["going out", "moving in", "growing up", "taking off"] } ] },
+{
+  "expression": "go out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time with someone as a boyfriend or girlfriend",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u041",
+      "answer": "going out",
+      "responseUid": "s04_e06_c02_u043",
+      "options": [
+        "going out",
+        "moving in",
+        "growing up",
+        "taking off"
+      ]
+    },
+    {
+      "uid": "s04_e06_c01_u015",
+      "answer": "going out",
+      "options": [
+        "going out",
+        "moving in",
+        "growing up",
+        "taking off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "worth it", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "good enough to justify the trouble or cost involved",
-    "exchanges": [ { "uid": "s04_e06_c02_u028", "answer": "worth it",
-      "options": ["worth it", "up to it", "over it", "into it"] } ] },
+{
+  "expression": "worth it",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "good enough to justify the trouble or cost involved",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u028",
+      "answer": "worth it",
+      "options": [
+        "worth it",
+        "up to it",
+        "over it",
+        "into it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to look at something closely because it interests you",
-    "exchanges": [ { "uid": "s04_e06_c02_u055", "answer": "check out",
-      "options": ["check out", "hang out", "work out", "run out"] } ] },
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u055",
+      "answer": "check out",
+      "options": [
+        "check out",
+        "hang out",
+        "work out",
+        "run out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make yourself comfortable", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to a guest to tell them to relax and feel at home",
-    "exchanges": [ { "uid": "s04_e06_c10_u004", "answer": "Make yourself comfortable",
-      "options": ["Make yourself comfortable", "Keep yourself available", "Get yourself together", "Hold yourself responsible"] } ] },
+{
+  "expression": "make yourself comfortable",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to a guest to tell them to relax and feel at home",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c10_u004",
+      "answer": "Make yourself comfortable",
+      "options": [
+        "Make yourself comfortable",
+        "Keep yourself available",
+        "Get yourself together",
+        "Hold yourself responsible"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fine by me", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to say that you have no objection to something",
-    "exchanges": [ { "uid": "s04_e06_c01_u017", "answer": "Fine by me", "responseUid": null,
-      "options": ["Fine by me", "Good for me", "Nice to me", "Fair on me"] } ] },
+{
+  "expression": "fine by me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you have no objection to something",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c01_u017",
+      "answer": "Fine by me",
+      "responseUid": null,
+      "options": [
+        "Fine by me",
+        "Good for me",
+        "Nice to me",
+        "Fair on me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in a while", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "for a fairly long period of time",
-    "exchanges": [ { "uid": "s04_e06_c03_u009", "answer": "in a while",
-      "options": ["in a while", "at a time", "on a roll", "for a change"] } ] },
+{
+  "expression": "in a while",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "for a fairly long period of time",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c03_u009",
+      "answer": "in a while",
+      "options": [
+        "in a while",
+        "at a time",
+        "on a roll",
+        "for a change"
+      ]
+    }
+  ]
+},
 
-  { "expression": "any luck", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to ask whether someone succeeded in what they were trying to do",
-    "exchanges": [ { "uid": "s04_e06_c08_u003", "answer": "Any luck",
-      "options": ["Any luck", "Any time", "Any way", "Any more"] } ] },
+{
+  "expression": "any luck",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask whether someone succeeded in what they were trying to do",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c08_u003",
+      "answer": "Any luck",
+      "options": [
+        "Any luck",
+        "Any time",
+        "Any way",
+        "Any more"
+      ]
+    }
+  ]
+},
 
-  { "expression": "handle", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to deal with or be responsible for something",
-    "exchanges": [ { "uid": "s04_e06_c04_u014", "answer": "handle", "responseUid": null,
-      "options": ["handle", "gather", "notice", "wonder"] } ] },
+{
+  "expression": "handle",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to deal with or be responsible for something",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c04_u014",
+      "answer": "handle",
+      "responseUid": null,
+      "options": [
+        "handle",
+        "gather",
+        "notice",
+        "wonder"
+      ]
+    }
+  ]
+},
 
-  { "expression": "that's the spirit", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to praise someone for showing the right attitude",
-    "exchanges": [ { "uid": "s04_e06_c02_u026", "answer": "that's the spirit",
-      "options": ["that's the spirit", "that's the catch", "that's the limit", "that's the rule"] } ] },
+{
+  "expression": "that's the spirit",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to praise someone for showing the right attitude",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u026",
+      "answer": "that's the spirit",
+      "options": [
+        "that's the spirit",
+        "that's the catch",
+        "that's the limit",
+        "that's the rule"
+      ]
+    }
+  ]
+},
 
-  { "expression": "short notice", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "very little advance warning or time to prepare for something",
-    "exchanges": [ { "uid": "s04_e06_c02_u023", "answer": "short notice",
-      "options": ["short notice", "quick order", "brief call", "small warning"] } ] },
+{
+  "expression": "short notice",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "very little advance warning or time to prepare for something",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u023",
+      "answer": "short notice",
+      "options": [
+        "short notice",
+        "quick order",
+        "brief call",
+        "small warning"
+      ]
+    }
+  ]
+},
 
-  { "expression": "play around with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to spend time on something casually without a serious commitment",
-    "exchanges": [ { "uid": "s04_e06_c02_u024", "answer": "playing around with",
-      "options": ["playing around with", "putting up with", "running out of", "looking down on"] } ] },
+{
+  "expression": "play around with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to spend time on something casually without a serious commitment",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u024",
+      "answer": "playing around with",
+      "options": [
+        "playing around with",
+        "putting up with",
+        "running out of",
+        "looking down on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bottom line", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "the most important fact or conclusion",
-    "exchanges": [ { "uid": "s04_e06_c08_u006", "answer": "bottom line",
-      "options": ["bottom line", "top shelf", "back end", "front page"] } ] },
+{
+  "expression": "bottom line",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the most important fact or conclusion",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c08_u006",
+      "answer": "bottom line",
+      "options": [
+        "bottom line",
+        "top shelf",
+        "back end",
+        "front page"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I owe you one", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to thank someone for a favor, promising to return it one day",
-    "exchanges": [ { "uid": "s04_e06_c08_u016", "answer": "I owe you one",
-      "options": ["I owe you one", "I lent you one", "I made you one", "I sent you one"] } ] },
+{
+  "expression": "I owe you one",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to thank someone for a favor, promising to return it one day",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c08_u016",
+      "answer": "I owe you one",
+      "options": [
+        "I owe you one",
+        "I lent you one",
+        "I made you one",
+        "I sent you one"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get out of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to avoid doing something you are supposed to do",
-    "exchanges": [ { "uid": "s04_e06_c06_u006", "answer": "get out of",
-      "options": ["get out of", "put up with", "run out of", "get down to"] } ] },
+{
+  "expression": "get out of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to avoid doing something you are supposed to do",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c06_u006",
+      "answer": "get out of",
+      "options": [
+        "get out of",
+        "put up with",
+        "run out of",
+        "get down to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "don't take this the wrong way", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said before a remark that might offend, asking the listener not to be upset by it",
-    "exchanges": [ { "uid": "s04_e06_c03_u015", "answer": "the wrong way", "responseUid": null,
-      "options": ["the wrong way", "the long way", "the hard way", "the other way"] } ] },
+{
+  "expression": "don't take this the wrong way",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before a remark that might offend, asking the listener not to be upset by it",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c03_u015",
+      "answer": "the wrong way",
+      "responseUid": null,
+      "options": [
+        "the wrong way",
+        "the long way",
+        "the hard way",
+        "the other way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have something to do with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to be connected with or partly responsible for something",
-    "exchanges": [ { "uid": "s04_e06_c12_u029", "answer": "something to do with",
-      "options": ["something to do with", "nothing to say to", "a bone to pick", "a point to prove"] } ] },
+{
+  "expression": "have something to do with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be connected with or partly responsible for something",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c12_u029",
+      "answer": "something to do with",
+      "options": [
+        "something to do with",
+        "nothing to say to",
+        "a bone to pick",
+        "a point to prove"
+      ]
+    }
+  ]
+},
 
-  { "expression": "settle", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to pay money that you owe",
-    "exchanges": [ { "uid": "s04_e06_c04_u003", "answer": "settle",
-      "options": ["settle", "mention", "follow", "gather"] } ] },
+{
+  "expression": "settle",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to pay money that you owe",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c04_u003",
+      "answer": "settle",
+      "options": [
+        "settle",
+        "mention",
+        "follow",
+        "gather"
+      ]
+    }
+  ]
+},
 
-  { "expression": "endearing", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "making people like you; charming",
-    "exchanges": [ { "uid": "s04_e06_c07_u021", "answer": "endearing",
-      "options": ["endearing", "enduring", "alarming", "demanding"] } ] },
+{
+  "expression": "endearing",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "making people like you; charming",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c07_u021",
+      "answer": "endearing",
+      "options": [
+        "endearing",
+        "enduring",
+        "alarming",
+        "demanding"
+      ]
+    }
+  ]
+},
 
-  { "expression": "while you're at it", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "while you are already doing something, so it is easy to do this extra thing too",
-    "exchanges": [ { "uid": "s04_e06_c05_u026", "answer": "while you're at it",
-      "options": ["while you're at it", "when you're in it", "since you're on it", "as you're by it"] } ] },
+{
+  "expression": "while you're at it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "while you are already doing something, so it is easy to do this extra thing too",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c05_u026",
+      "answer": "while you're at it",
+      "options": [
+        "while you're at it",
+        "when you're in it",
+        "since you're on it",
+        "as you're by it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take credit for", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to accept praise for something, especially when you do not deserve it",
-    "exchanges": [ { "uid": "s04_e06_c12_u006", "answer": "taking credit for",
-      "options": ["taking credit for", "making light of", "giving thought to", "putting stock in"] } ] },
+{
+  "expression": "take credit for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to accept praise for something, especially when you do not deserve it",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c12_u006",
+      "answer": "taking credit for",
+      "options": [
+        "taking credit for",
+        "making light of",
+        "giving thought to",
+        "putting stock in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wuss", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a weak, cowardly person",
-    "exchanges": [ { "uid": "s04_e06_c11_u014", "answer": "wuss", "responseUid": "s04_e06_c11_u016",
-      "options": ["wuss", "dork", "ham", "hunk"] } ] },
+{
+  "expression": "wuss",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a weak, cowardly person",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c11_u014",
+      "answer": "wuss",
+      "responseUid": "s04_e06_c11_u016",
+      "options": [
+        "wuss",
+        "dork",
+        "ham",
+        "hunk"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hard ass", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a tough, strict person who refuses to back down",
-    "exchanges": [ { "uid": "s04_e06_c11_u013", "answer": "hard ass",
-      "options": ["hard ass", "big shot", "wise guy", "class act"] } ] }
+{
+  "expression": "hard ass",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a tough, strict person who refuses to back down",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c11_u013",
+      "answer": "hard ass",
+      "options": [
+        "hard ass",
+        "big shot",
+        "wise guy",
+        "class act"
+      ]
+    }
+  ]
+}
 ]

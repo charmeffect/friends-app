@@ -1,126 +1,512 @@
 [
-  { "expression": "take it easy", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "calm down and relax",
-    "exchanges": [ { "uid": "s02_e23_c10_u018", "answer": "Take it easy", "responseUid": "s02_e23_c10_u020",
-      "options": ["Take it easy", "Keep it up", "Make it quick", "Hold it there"] } ] },
+{
+  "expression": "take it easy",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "calm down and relax",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c10_u018",
+      "answer": "Take it easy",
+      "responseUid": "s02_e23_c10_u020",
+      "options": [
+        "Take it easy",
+        "Keep it up",
+        "Make it quick",
+        "Hold it there"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's up", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "a casual greeting asking what is happening",
-    "exchanges": [ { "uid": "s02_e23_c05_u004", "answer": "what's up",
-      "options": ["what's up", "what's left", "who's next", "how's work"] } ] },
+{
+  "expression": "what's up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual greeting asking what is happening",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c05_u004",
+      "answer": "what's up",
+      "options": [
+        "what's up",
+        "what's left",
+        "who's next",
+        "how's work"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when saying goodbye to wish someone well",
-    "exchanges": [ { "uid": "s02_e23_c13_u014", "answer": "Take care",
-      "options": ["Take care", "Take off", "Take note", "Take heart"] } ] },
+{
+  "expression": "take care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when saying goodbye to wish someone well",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c13_u014",
+      "answer": "Take care",
+      "options": [
+        "Take care",
+        "Take off",
+        "Take note",
+        "Take heart"
+      ]
+    }
+  ]
+},
 
-  { "expression": "left out", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "excluded from a group or an experience that everyone else shares",
-    "exchanges": [ { "uid": "s02_e23_c01_u030", "answer": "left out", "cueUid": "s02_e23_c01_u025", "responseUid": null,
-      "options": ["left out", "worn out", "shut off", "wiped out"] } ] },
+{
+  "expression": "left out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "excluded from a group or an experience that everyone else shares",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c01_u030",
+      "answer": "left out",
+      "cueUid": "s02_e23_c01_u025",
+      "responseUid": null,
+      "options": [
+        "left out",
+        "worn out",
+        "shut off",
+        "wiped out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "small world", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when you unexpectedly discover a connection between you and someone else",
-    "exchanges": [ { "uid": "s02_e23_c06_u008", "answer": "Small world", "responseUid": "s02_e23_c06_u010",
-      "options": ["Small world", "Big news", "Hard luck", "Good call"] } ] },
+{
+  "expression": "small world",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you unexpectedly discover a connection between you and someone else",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c06_u008",
+      "answer": "Small world",
+      "responseUid": "s02_e23_c06_u010",
+      "options": [
+        "Small world",
+        "Big news",
+        "Hard luck",
+        "Good call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "teach someone a lesson", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to punish someone or let them suffer so that they will not behave badly again",
-    "exchanges": [ { "uid": "s02_e23_c08_u007", "answer": "teach her a lesson", "responseUid": "s02_e23_c08_u009",
-      "options": ["teach her a lesson", "give her a break", "show her a thing", "make her a deal"] } ] },
+{
+  "expression": "teach someone a lesson",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to punish someone or let them suffer so that they will not behave badly again",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c08_u007",
+      "answer": "teach her a lesson",
+      "responseUid": "s02_e23_c08_u009",
+      "options": [
+        "teach her a lesson",
+        "give her a break",
+        "show her a thing",
+        "make her a deal"
+      ]
+    }
+  ]
+},
 
-  { "expression": "if you say so", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show that you accept what someone says even though you do not really agree",
-    "exchanges": [ { "uid": "s02_e23_c08_u017", "answer": "if you say so",
-      "options": ["if you say so", "as you well know", "when you put it", "since you ask me"] } ] },
+{
+  "expression": "if you say so",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you accept what someone says even though you do not really agree",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c08_u017",
+      "answer": "if you say so",
+      "options": [
+        "if you say so",
+        "as you well know",
+        "when you put it",
+        "since you ask me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mix up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to confuse two things or put them together by mistake",
-    "exchanges": [ { "uid": "s02_e23_c09_u027", "answer": "mixed up",
-      "options": ["mixed up", "worn down", "picked off", "held back"] } ] },
+{
+  "expression": "mix up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to confuse two things or put them together by mistake",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c09_u027",
+      "answer": "mixed up",
+      "options": [
+        "mixed up",
+        "worn down",
+        "picked off",
+        "held back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s02_e23_c09_u028", "answer": "freak out",
-      "options": ["freak out", "back off", "show off", "calm down"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c09_u028",
+      "answer": "freak out",
+      "options": [
+        "freak out",
+        "back off",
+        "show off",
+        "calm down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said sarcastically to show that something is not important",
-    "exchanges": [ { "uid": "s02_e23_c12_u009", "answer": "Big deal",
-      "options": ["Big deal", "Fat chance", "Good grief", "Tough call"] } ] },
+{
+  "expression": "big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically to show that something is not important",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c12_u009",
+      "answer": "Big deal",
+      "options": [
+        "Big deal",
+        "Fat chance",
+        "Good grief",
+        "Tough call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "strict", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "demanding that rules are obeyed exactly; severe",
-    "exchanges": [ { "uid": "s02_e23_c09_u004", "answer": "strict",
-      "options": ["strict", "stiff", "swift", "steep"] } ] },
+{
+  "expression": "strict",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "demanding that rules are obeyed exactly; severe",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c09_u004",
+      "answer": "strict",
+      "options": [
+        "strict",
+        "stiff",
+        "swift",
+        "steep"
+      ]
+    }
+  ]
+},
 
-  { "expression": "chances are", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "it is likely that",
-    "exchanges": [ { "uid": "s02_e23_c01_u025", "answer": "chances are", "cueUid": "s02_e23_c01_u023",
-      "options": ["chances are", "hopes are", "rules are", "times are"] } ] },
+{
+  "expression": "chances are",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "it is likely that",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c01_u025",
+      "answer": "chances are",
+      "cueUid": "s02_e23_c01_u023",
+      "options": [
+        "chances are",
+        "hopes are",
+        "rules are",
+        "times are"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand between", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to prevent two people from being together or someone from getting what they want",
-    "exchanges": [ { "uid": "s02_e23_c05_u021", "answer": "stand between",
-      "options": ["stand between", "fall behind", "come across", "look after"] } ] },
+{
+  "expression": "stand between",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to prevent two people from being together or someone from getting what they want",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c05_u021",
+      "answer": "stand between",
+      "options": [
+        "stand between",
+        "fall behind",
+        "come across",
+        "look after"
+      ]
+    }
+  ]
+},
 
-  { "expression": "phony", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a person who is insincere and pretends to be something they are not",
-    "exchanges": [ { "uid": "s02_e23_c08_u006", "answer": "phony", "cueUid": "s02_e23_c08_u003",
-      "options": ["phony", "bully", "softie", "rookie"] } ] },
+{
+  "expression": "phony",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who is insincere and pretends to be something they are not",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c08_u006",
+      "answer": "phony",
+      "cueUid": "s02_e23_c08_u003",
+      "options": [
+        "phony",
+        "bully",
+        "softie",
+        "rookie"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drop the ball", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make a careless mistake and fail to do something you were responsible for",
-    "exchanges": [ { "uid": "s02_e23_c10_u004", "answer": "dropped the ball",
-      "options": ["dropped the ball", "spilled the beans", "bit the bullet", "broke the ice"] } ] },
+{
+  "expression": "drop the ball",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make a careless mistake and fail to do something you were responsible for",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c10_u004",
+      "answer": "dropped the ball",
+      "options": [
+        "dropped the ball",
+        "spilled the beans",
+        "bit the bullet",
+        "broke the ice"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'll say", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to agree strongly and enthusiastically with what someone has just said",
-    "exchanges": [ { "uid": "s02_e23_c14_u004", "answer": "I'll say",
-      "options": ["I'll say", "I'll pass", "I'll wait", "I'll check"] } ] },
+{
+  "expression": "I'll say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to agree strongly and enthusiastically with what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c14_u004",
+      "answer": "I'll say",
+      "options": [
+        "I'll say",
+        "I'll pass",
+        "I'll wait",
+        "I'll check"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ironic", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "surprising or amusing because it is the opposite of what you would expect",
-    "exchanges": [ { "uid": "s02_e23_c05_u008", "answer": "ironic",
-      "options": ["ironic", "iconic", "chronic", "organic"] } ] },
+{
+  "expression": "ironic",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "surprising or amusing because it is the opposite of what you would expect",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c05_u008",
+      "answer": "ironic",
+      "options": [
+        "ironic",
+        "iconic",
+        "chronic",
+        "organic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dim", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to make a light less bright",
-    "exchanges": [ { "uid": "s02_e23_c04_u005", "answer": "dim",
-      "options": ["dim", "blur", "tint", "shade"] } ] },
+{
+  "expression": "dim",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make a light less bright",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c04_u005",
+      "answer": "dim",
+      "options": [
+        "dim",
+        "blur",
+        "tint",
+        "shade"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hideous", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "extremely ugly or unpleasant to look at",
-    "exchanges": [ { "uid": "s02_e23_c04_u006", "answer": "hideous",
-      "options": ["hideous", "tedious", "spacious", "devious"] } ] },
+{
+  "expression": "hideous",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely ugly or unpleasant to look at",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c04_u006",
+      "answer": "hideous",
+      "options": [
+        "hideous",
+        "tedious",
+        "spacious",
+        "devious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "uncalled for", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "not necessary or not deserved, and therefore rude or unfair",
-    "exchanges": [ { "uid": "s02_e23_c02_u003", "answer": "uncalled for",
-      "options": ["uncalled for", "unaccounted for", "unasked about", "uncared for"] } ] },
+{
+  "expression": "uncalled for",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not necessary or not deserved, and therefore rude or unfair",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c02_u003",
+      "answer": "uncalled for",
+      "options": [
+        "uncalled for",
+        "unaccounted for",
+        "unasked about",
+        "uncared for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "neurotic", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "excessively anxious or obsessive about small things",
-    "exchanges": [ { "uid": "s02_e23_c09_u007", "answer": "neurotic",
-      "options": ["neurotic", "nostalgic", "narcotic", "nautical"] } ] },
+{
+  "expression": "neurotic",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "excessively anxious or obsessive about small things",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c09_u007",
+      "answer": "neurotic",
+      "options": [
+        "neurotic",
+        "nostalgic",
+        "narcotic",
+        "nautical"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ruffle someone's feathers", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to annoy or upset people, especially by challenging the way things are done",
-    "exchanges": [ { "uid": "s02_e23_c08_u020", "answer": "ruffle some feathers", "responseUid": "s02_e23_c08_u022",
-      "options": ["ruffle some feathers", "pull some strings", "spill some beans", "turn some tables"] } ] },
+{
+  "expression": "ruffle someone's feathers",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to annoy or upset people, especially by challenging the way things are done",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c08_u020",
+      "answer": "ruffle some feathers",
+      "responseUid": "s02_e23_c08_u022",
+      "options": [
+        "ruffle some feathers",
+        "pull some strings",
+        "spill some beans",
+        "turn some tables"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come off", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to give a particular impression to other people",
-    "exchanges": [ { "uid": "s02_e23_c09_u030", "answer": "come off", "responseUid": null,
-      "options": ["come off", "go by", "turn in", "let on"] } ] },
+{
+  "expression": "come off",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to give a particular impression to other people",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c09_u030",
+      "answer": "come off",
+      "responseUid": null,
+      "options": [
+        "come off",
+        "go by",
+        "turn in",
+        "let on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call someone on it", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to challenge someone openly about something dishonest they are trying to do",
-    "exchanges": [ { "uid": "s02_e23_c08_u022", "answer": "call you on it", "cueUid": "s02_e23_c08_u020", "responseUid": null,
-      "options": ["call you on it", "talk you out of", "turn you in for", "let you in on"] } ] },
+{
+  "expression": "call someone on it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to challenge someone openly about something dishonest they are trying to do",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c08_u022",
+      "answer": "call you on it",
+      "cueUid": "s02_e23_c08_u020",
+      "responseUid": null,
+      "options": [
+        "call you on it",
+        "talk you out of",
+        "turn you in for",
+        "let you in on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "brown-nosing", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "flattering someone in authority in order to gain their favor",
-    "exchanges": [ { "uid": "s02_e23_c10_u009", "answer": "brown-nosing",
-      "options": ["brown-nosing", "penny-pinching", "nit-picking", "name-dropping"] } ] }
+{
+  "expression": "brown-nosing",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "flattering someone in authority in order to gain their favor",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c10_u009",
+      "answer": "brown-nosing",
+      "options": [
+        "brown-nosing",
+        "penny-pinching",
+        "nit-picking",
+        "name-dropping"
+      ]
+    }
+  ]
+}
 ]

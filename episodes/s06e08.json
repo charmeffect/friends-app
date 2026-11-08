@@ -1,119 +1,474 @@
 [
-  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show you are pleased about or approve of what someone has done",
-    "exchanges": [ { "uid": "s06_e08_c02_u022", "answer": "Good for you",
-      "options": ["Good for you", "Shame on you", "Up to you", "After you"] } ] },
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are pleased about or approve of what someone has done",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c02_u022",
+      "answer": "Good for you",
+      "options": [
+        "Good for you",
+        "Shame on you",
+        "Up to you",
+        "After you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn into", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to develop or change into something different",
-    "exchanges": [ { "uid": "s06_e08_c13_u011", "answer": "turning into",
-      "options": ["turning into", "running into", "looking into", "getting into"] } ] },
+{
+  "expression": "turn into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to develop or change into something different",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c13_u011",
+      "answer": "turning into",
+      "options": [
+        "turning into",
+        "running into",
+        "looking into",
+        "getting into"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be a man", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to act with courage and confidence instead of being weak or timid",
-    "exchanges": [ { "uid": "s06_e08_c01_u017", "answer": "Be a man", "responseUid": "s06_e08_c01_u019",
-      "options": ["Be a man", "Be a fan", "Be a pal", "Be a star"] } ] },
+{
+  "expression": "be a man",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to act with courage and confidence instead of being weak or timid",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c01_u017",
+      "answer": "Be a man",
+      "responseUid": "s06_e08_c01_u019",
+      "options": [
+        "Be a man",
+        "Be a fan",
+        "Be a pal",
+        "Be a star"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [ { "uid": "s06_e08_c02_u004", "answer": "broke up with",
-      "options": ["broke up with", "made up with", "caught up with", "put up with"] } ] },
+{
+  "expression": "break up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c02_u004",
+      "answer": "broke up with",
+      "options": [
+        "broke up with",
+        "made up with",
+        "caught up with",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "set up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to arrange a date for someone with a person they have not met",
-    "exchanges": [ { "uid": "s06_e08_c02_u010", "answer": "set us up", "responseUid": null,
-      "options": ["set us up", "sum us up", "use us up", "cheer us up"] } ] },
+{
+  "expression": "set up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange a date for someone with a person they have not met",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c02_u010",
+      "answer": "set us up",
+      "responseUid": null,
+      "options": [
+        "set us up",
+        "sum us up",
+        "use us up",
+        "cheer us up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "girly", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "typical of girls or women rather than men, often in a way that seems too pretty or delicate",
-    "exchanges": [ { "uid": "s06_e08_c04_u005", "answer": "girly",
-      "options": ["girly", "sporty", "hungry", "sleepy"] } ] },
+{
+  "expression": "girly",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "typical of girls or women rather than men, often in a way that seems too pretty or delicate",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c04_u005",
+      "answer": "girly",
+      "options": [
+        "girly",
+        "sporty",
+        "hungry",
+        "sleepy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be discovered to be; to happen in a particular way in the end",
-    "exchanges": [ { "uid": "s06_e08_c11_u006", "answer": "turns out",
-      "options": ["turns out", "holds on", "sets in", "falls off"] } ] },
+{
+  "expression": "turn out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be discovered to be; to happen in a particular way in the end",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c11_u006",
+      "answer": "turns out",
+      "options": [
+        "turns out",
+        "holds on",
+        "sets in",
+        "falls off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spare time", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "time when you are not working and can do what you like",
-    "exchanges": [ { "uid": "s06_e08_c12_u013", "answer": "spare time",
-      "options": ["spare time", "short notice", "full swing", "high gear"] } ] },
+{
+  "expression": "spare time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "time when you are not working and can do what you like",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c12_u013",
+      "answer": "spare time",
+      "options": [
+        "spare time",
+        "short notice",
+        "full swing",
+        "high gear"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [ { "uid": "s06_e08_c16_u006", "answer": "dumped",
-      "options": ["dumped", "hired", "praised", "trained"] } ] },
+{
+  "expression": "dump",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c16_u006",
+      "answer": "dumped",
+      "options": [
+        "dumped",
+        "hired",
+        "praised",
+        "trained"
+      ]
+    }
+  ]
+},
 
-  { "expression": "been there", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show you have had the same unpleasant experience yourself",
-    "exchanges": [ { "uid": "s06_e08_c16_u011", "answer": "been there",
-      "options": ["been there", "been fired", "gone bald", "got rich"] } ] },
+{
+  "expression": "been there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you have had the same unpleasant experience yourself",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c16_u011",
+      "answer": "been there",
+      "options": [
+        "been there",
+        "been fired",
+        "gone bald",
+        "got rich"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a big deal", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to treat something as more important or serious than it is",
-    "exchanges": [ { "uid": "s06_e08_c17_u007", "answer": "make a big deal",
-      "options": ["make a big deal", "take a big step", "have a big laugh", "give a big hand"] } ] },
+{
+  "expression": "make a big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to treat something as more important or serious than it is",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c17_u007",
+      "answer": "make a big deal",
+      "options": [
+        "make a big deal",
+        "take a big step",
+        "have a big laugh",
+        "give a big hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "head off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to leave a place in order to go somewhere else",
-    "exchanges": [ { "uid": "s06_e08_c02_u028", "answer": "head off",
-      "options": ["head off", "lay off", "doze off", "show off"] } ] },
+{
+  "expression": "head off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave a place in order to go somewhere else",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c02_u028",
+      "answer": "head off",
+      "options": [
+        "head off",
+        "lay off",
+        "doze off",
+        "show off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make out with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to kiss and touch someone in a sexual way",
-    "exchanges": [
-      { "uid": "s06_e08_c03_u014", "answer": "make out with", "responseUid": null,
-        "options": ["make out with", "break up with", "put up with", "catch up with"] },
-      { "uid": "s06_e08_c06_u041", "answer": "make out with",
-        "options": ["make out with", "break up with", "put up with", "catch up with"] } ] },
+{
+  "expression": "make out with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kiss and touch someone in a sexual way",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c03_u014",
+      "answer": "make out with",
+      "responseUid": null,
+      "options": [
+        "make out with",
+        "break up with",
+        "put up with",
+        "catch up with"
+      ]
+    },
+    {
+      "uid": "s06_e08_c06_u041",
+      "answer": "make out with",
+      "options": [
+        "make out with",
+        "break up with",
+        "put up with",
+        "catch up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fool around", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to kiss or have casual sexual contact with someone",
-    "exchanges": [ { "uid": "s06_e08_c05_u008", "answer": "fooled around",
-      "options": ["fooled around", "showed off", "broke down", "hung up"] } ] },
+{
+  "expression": "fool around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kiss or have casual sexual contact with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c05_u008",
+      "answer": "fooled around",
+      "options": [
+        "fooled around",
+        "showed off",
+        "broke down",
+        "hung up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a shot at", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to have a real chance of getting or achieving something",
-    "exchanges": [ { "uid": "s06_e08_c07_u008", "answer": "a shot at",
-      "options": ["a shot at", "a say in", "a word with", "a taste for"] } ] },
+{
+  "expression": "have a shot at",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have a real chance of getting or achieving something",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c07_u008",
+      "answer": "a shot at",
+      "options": [
+        "a shot at",
+        "a say in",
+        "a word with",
+        "a taste for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "God forbid", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to stress that you hope something will never happen, often sarcastically",
-    "exchanges": [ { "uid": "s06_e08_c08_u003", "answer": "God forbid",
-      "options": ["God forbid", "God bless", "Good grief", "Dear me"] } ] },
+{
+  "expression": "God forbid",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to stress that you hope something will never happen, often sarcastically",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c08_u003",
+      "answer": "God forbid",
+      "options": [
+        "God forbid",
+        "God bless",
+        "Good grief",
+        "Dear me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "connect with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to feel that you understand someone and share a close relationship with them",
-    "exchanges": [ { "uid": "s06_e08_c15_u004", "answer": "connect with",
-      "options": ["connect with", "comply with", "cope with", "tamper with"] } ] },
+{
+  "expression": "connect with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to feel that you understand someone and share a close relationship with them",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c15_u004",
+      "answer": "connect with",
+      "options": [
+        "connect with",
+        "comply with",
+        "cope with",
+        "tamper with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make one's peace with", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to accept a painful situation and stop feeling upset about it",
-    "exchanges": [ { "uid": "s06_e08_c04_u019", "answer": "make my peace with",
-      "options": ["make my peace with", "keep my word with", "lose my nerve with", "take my turn with"] } ] },
+{
+  "expression": "make one's peace with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to accept a painful situation and stop feeling upset about it",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c04_u019",
+      "answer": "make my peace with",
+      "options": [
+        "make my peace with",
+        "keep my word with",
+        "lose my nerve with",
+        "take my turn with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sadly mistaken", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "completely wrong in what you believe or expect",
-    "exchanges": [ { "uid": "s06_e08_c11_u011", "answer": "sadly mistaken",
-      "options": ["sadly mistaken", "deeply grateful", "highly unlikely", "fully aware"] } ] },
+{
+  "expression": "sadly mistaken",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "completely wrong in what you believe or expect",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c11_u011",
+      "answer": "sadly mistaken",
+      "options": [
+        "sadly mistaken",
+        "deeply grateful",
+        "highly unlikely",
+        "fully aware"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be an item", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to be in a romantic relationship with each other",
-    "exchanges": [ { "uid": "s06_e08_c16_u004", "answer": "an item",
-      "options": ["an item", "an issue", "an extra", "an icon"] } ] },
+{
+  "expression": "be an item",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be in a romantic relationship with each other",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c16_u004",
+      "answer": "an item",
+      "options": [
+        "an item",
+        "an issue",
+        "an extra",
+        "an icon"
+      ]
+    }
+  ]
+},
 
-  { "expression": "potpourri", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a mixture of dried petals and spices kept in a bowl to make a room smell pleasant",
-    "exchanges": [ { "uid": "s06_e08_c04_u020", "answer": "potpourri",
-      "options": ["potpourri", "porcelain", "parchment", "plywood"] } ] },
+{
+  "expression": "potpourri",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a mixture of dried petals and spices kept in a bowl to make a room smell pleasant",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c04_u020",
+      "answer": "potpourri",
+      "options": [
+        "potpourri",
+        "porcelain",
+        "parchment",
+        "plywood"
+      ]
+    }
+  ]
+},
 
-  { "expression": "silver fox", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "an attractive older man with grey or white hair",
-    "exchanges": [ { "uid": "s06_e08_c06_u032", "answer": "silver fox",
-      "options": ["silver fox", "top dog", "lone wolf", "dark horse"] } ] },
+{
+  "expression": "silver fox",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an attractive older man with grey or white hair",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c06_u032",
+      "answer": "silver fox",
+      "options": [
+        "silver fox",
+        "top dog",
+        "lone wolf",
+        "dark horse"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you could cut the tension with a knife", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "said when the atmosphere between people in a room is very tense",
-    "exchanges": [ { "uid": "s06_e08_c11_u015", "answer": "with a knife",
-      "options": ["with a knife", "with a smile", "with a straw", "with a pen"] } ] }
+{
+  "expression": "you could cut the tension with a knife",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "said when the atmosphere between people in a room is very tense",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c11_u015",
+      "answer": "with a knife",
+      "options": [
+        "with a knife",
+        "with a smile",
+        "with a straw",
+        "with a pen"
+      ]
+    }
+  ]
+}
 ]

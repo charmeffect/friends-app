@@ -1,127 +1,501 @@
 [
-  { "expression": "avoid", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to stay away from someone on purpose",
-    "exchanges": [ { "uid": "s08_e17_c01_u015", "answer": "avoiding",
-      "options": ["avoiding", "flattering", "bribing", "imitating"] } ] },
+{
+  "expression": "avoid",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay away from someone on purpose",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c01_u015",
+      "answer": "avoiding",
+      "options": [
+        "avoiding",
+        "flattering",
+        "bribing",
+        "imitating"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put yourself out there", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to take an emotional risk by openly showing your feelings or trying something",
-    "exchanges": [
-      { "uid": "s08_e17_c01_u024", "answer": "put yourself out there",
-        "options": ["put yourself out there", "pull yourself together", "keep yourself busy", "hold yourself back"] },
-      { "uid": "s08_e17_c13_u015", "answer": "put myself out there",
-        "options": ["put myself out there", "pulled myself together", "kept myself busy", "held myself back"] } ] },
+{
+  "expression": "put yourself out there",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to take an emotional risk by openly showing your feelings or trying something",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c01_u024",
+      "answer": "put yourself out there",
+      "options": [
+        "put yourself out there",
+        "pull yourself together",
+        "keep yourself busy",
+        "hold yourself back"
+      ]
+    },
+    {
+      "uid": "s08_e17_c13_u015",
+      "answer": "put myself out there",
+      "options": [
+        "put myself out there",
+        "pulled myself together",
+        "kept myself busy",
+        "held myself back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get shot down", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to be rejected, especially when asking someone out",
-    "exchanges": [ { "uid": "s08_e17_c01_u026", "answer": "got shot down",
-      "options": ["got shot down", "got locked out", "got worn out", "got cleaned up"] } ] },
+{
+  "expression": "get shot down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be rejected, especially when asking someone out",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c01_u026",
+      "answer": "got shot down",
+      "options": [
+        "got shot down",
+        "got locked out",
+        "got worn out",
+        "got cleaned up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "awkward", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "uncomfortable, embarrassing, or clumsy",
-    "exchanges": [ { "uid": "s08_e17_c01_u028", "answer": "awkward",
-      "options": ["awkward", "obvious", "generous", "ancient"] } ] },
+{
+  "expression": "awkward",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "uncomfortable, embarrassing, or clumsy",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c01_u028",
+      "answer": "awkward",
+      "options": [
+        "awkward",
+        "obvious",
+        "generous",
+        "ancient"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unpredictability", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the quality of being impossible to know in advance",
-    "exchanges": [ { "uid": "s08_e17_c02_u004", "answer": "unpredictability",
-      "options": ["unpredictability", "bureaucracy", "unemployment", "architecture"] } ] },
+{
+  "expression": "unpredictability",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the quality of being impossible to know in advance",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c02_u004",
+      "answer": "unpredictability",
+      "options": [
+        "unpredictability",
+        "bureaucracy",
+        "unemployment",
+        "architecture"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the trots", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "diarrhea",
-    "exchanges": [ { "uid": "s08_e17_c02_u004", "answer": "the trots",
-      "options": ["the trots", "the creeps", "the blues", "the willies"] } ] },
+{
+  "expression": "the trots",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "diarrhea",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c02_u004",
+      "answer": "the trots",
+      "options": [
+        "the trots",
+        "the creeps",
+        "the blues",
+        "the willies"
+      ]
+    }
+  ]
+},
 
-  { "expression": "man of my dreams", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "the perfect romantic partner you have always hoped to meet",
-    "exchanges": [ { "uid": "s08_e17_c02_u015", "answer": "man of my dreams",
-      "options": ["man of my dreams", "man of the hour", "man of my word", "man of the house"] } ] },
+{
+  "expression": "man of my dreams",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the perfect romantic partner you have always hoped to meet",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c02_u015",
+      "answer": "man of my dreams",
+      "options": [
+        "man of my dreams",
+        "man of the hour",
+        "man of my word",
+        "man of the house"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check someone out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to look at someone with interest because you find them attractive",
-    "exchanges": [ { "uid": "s08_e17_c02_u026", "answer": "checked you out",
-      "options": ["checked you out", "called you out", "freaked you out", "left you out"] } ] },
+{
+  "expression": "check someone out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at someone with interest because you find them attractive",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c02_u026",
+      "answer": "checked you out",
+      "options": [
+        "checked you out",
+        "called you out",
+        "freaked you out",
+        "left you out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sarcastic", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "saying the opposite of what you mean in order to mock someone",
-    "exchanges": [ { "uid": "s08_e17_c03_u005", "answer": "sarcastic",
-      "options": ["sarcastic", "generous", "punctual", "vertical"] } ] },
+{
+  "expression": "sarcastic",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "saying the opposite of what you mean in order to mock someone",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u005",
+      "answer": "sarcastic",
+      "options": [
+        "sarcastic",
+        "generous",
+        "punctual",
+        "vertical"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s08_e17_c03_u013", "answer": "come up with",
-      "options": ["come up with", "come down to", "come in for", "go along with"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u013",
+      "answer": "come up with",
+      "options": [
+        "come up with",
+        "come down to",
+        "come in for",
+        "go along with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "change the subject", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start talking about something different, often to avoid an awkward topic",
-    "exchanges": [ { "uid": "s08_e17_c03_u016", "answer": "change the subject",
-      "options": ["change the subject", "miss the point", "pay the bill", "set the table"] } ] },
+{
+  "expression": "change the subject",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start talking about something different, often to avoid an awkward topic",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u016",
+      "answer": "change the subject",
+      "options": [
+        "change the subject",
+        "miss the point",
+        "pay the bill",
+        "set the table"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make sense", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be a reasonable or logical thing to say or do",
-    "exchanges": [ { "uid": "s08_e17_c03_u017", "answer": "makes sense",
-      "options": ["makes sense", "takes place", "does good", "gets lost"] } ] },
+{
+  "expression": "make sense",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be a reasonable or logical thing to say or do",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u017",
+      "answer": "makes sense",
+      "options": [
+        "makes sense",
+        "takes place",
+        "does good",
+        "gets lost"
+      ]
+    }
+  ]
+},
 
-  { "expression": "head scratcher", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a puzzling problem that is hard to figure out",
-    "exchanges": [ { "uid": "s08_e17_c03_u026", "answer": "head scratcher",
-      "options": ["head scratcher", "page turner", "crowd pleaser", "tear jerker"] } ] },
+{
+  "expression": "head scratcher",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a puzzling problem that is hard to figure out",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u026",
+      "answer": "head scratcher",
+      "options": [
+        "head scratcher",
+        "page turner",
+        "crowd pleaser",
+        "tear jerker"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to leave a place suddenly or quickly",
-    "exchanges": [ { "uid": "s08_e17_c03_u029", "answer": "take off",
-      "options": ["take off", "put on", "pull over", "break down"] } ] },
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u029",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "put on",
+        "pull over",
+        "break down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "maternity leave", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "paid or unpaid time off work that a woman takes when she has a baby",
-    "exchanges": [ { "uid": "s08_e17_c03_u043", "answer": "maternity leave",
-      "options": ["maternity leave", "annual leave", "shore leave", "sick leave"] } ] },
+{
+  "expression": "maternity leave",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "paid or unpaid time off work that a woman takes when she has a baby",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u043",
+      "answer": "maternity leave",
+      "options": [
+        "maternity leave",
+        "annual leave",
+        "shore leave",
+        "sick leave"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to meet someone by chance",
-    "exchanges": [ { "uid": "s08_e17_c08_u002", "answer": "running into",
-      "options": ["running into", "looking after", "turning into", "calling on"] } ] },
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c08_u002",
+      "answer": "running into",
+      "options": [
+        "running into",
+        "looking after",
+        "turning into",
+        "calling on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "banter", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "friendly, playful conversation full of jokes and teasing",
-    "exchanges": [ { "uid": "s08_e17_c08_u004", "answer": "banter",
-      "options": ["banter", "pastry", "gravel", "plumbing"] } ] },
+{
+  "expression": "banter",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "friendly, playful conversation full of jokes and teasing",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c08_u004",
+      "answer": "banter",
+      "options": [
+        "banter",
+        "pastry",
+        "gravel",
+        "plumbing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come on strong", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to behave too forcefully or eagerly, especially in showing romantic interest",
-    "exchanges": [ { "uid": "s08_e17_c08_u016", "answer": "coming on",
-      "options": ["coming on", "giving up", "holding on", "falling in"] } ] },
+{
+  "expression": "come on strong",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to behave too forcefully or eagerly, especially in showing romantic interest",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c08_u016",
+      "answer": "coming on",
+      "options": [
+        "coming on",
+        "giving up",
+        "holding on",
+        "falling in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "benefit of the doubt", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "the decision to believe someone is honest or innocent when you cannot be sure",
-    "exchanges": [ { "uid": "s08_e17_c08_u016", "answer": "benefit of the doubt",
-      "options": ["benefit of the doubt", "time of the day", "rest of the story", "edge of the seat"] } ] },
+{
+  "expression": "benefit of the doubt",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the decision to believe someone is honest or innocent when you cannot be sure",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c08_u016",
+      "answer": "benefit of the doubt",
+      "options": [
+        "benefit of the doubt",
+        "time of the day",
+        "rest of the story",
+        "edge of the seat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "back off", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to stop threatening or bothering someone and move away",
-    "exchanges": [ { "uid": "s08_e17_c09_u009", "answer": "back off",
-      "options": ["back off", "log in", "dress up", "cheer up"] } ] },
+{
+  "expression": "back off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop threatening or bothering someone and move away",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c09_u009",
+      "answer": "back off",
+      "options": [
+        "back off",
+        "log in",
+        "dress up",
+        "cheer up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invent something, such as a rule or a story, that is not true",
-    "exchanges": [ { "uid": "s08_e17_c09_u012", "answer": "made that up",
-      "options": ["made that up", "took that in", "gave that out", "put that on"] } ] },
+{
+  "expression": "make up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invent something, such as a rule or a story, that is not true",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c09_u012",
+      "answer": "made that up",
+      "options": [
+        "made that up",
+        "took that in",
+        "gave that out",
+        "put that on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "creep", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "an unpleasant or strange person who makes others feel uncomfortable",
-    "exchanges": [ { "uid": "s08_e17_c12_u004", "answer": "creep",
-      "options": ["creep", "chef", "nephew", "priest"] } ] },
+{
+  "expression": "creep",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an unpleasant or strange person who makes others feel uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c12_u004",
+      "answer": "creep",
+      "options": [
+        "creep",
+        "chef",
+        "nephew",
+        "priest"
+      ]
+    }
+  ]
+},
 
-  { "expression": "now you're talking", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to show you like what someone has just suggested or said",
-    "exchanges": [ { "uid": "s08_e17_c12_u019", "answer": "Now you're talking",
-      "options": ["Now you're talking", "Now you're stuck", "Now you're out", "Now you're through"] } ] },
+{
+  "expression": "now you're talking",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show you like what someone has just suggested or said",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c12_u019",
+      "answer": "Now you're talking",
+      "options": [
+        "Now you're talking",
+        "Now you're stuck",
+        "Now you're out",
+        "Now you're through"
+      ]
+    }
+  ]
+},
 
-  { "expression": "meant to be", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "destined to happen, especially said of a relationship",
-    "exchanges": [
-      { "uid": "s08_e17_c06_u002", "answer": "meant to be",
-        "options": ["meant to be", "about to be", "used to be", "going to be"] },
-      { "uid": "s08_e17_c14_u005", "answer": "meant to be",
-        "options": ["meant to be", "about to be", "used to be", "going to be"] } ] }
+{
+  "expression": "meant to be",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "destined to happen, especially said of a relationship",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c06_u002",
+      "answer": "meant to be",
+      "options": [
+        "meant to be",
+        "about to be",
+        "used to be",
+        "going to be"
+      ]
+    },
+    {
+      "uid": "s08_e17_c14_u005",
+      "answer": "meant to be",
+      "options": [
+        "meant to be",
+        "about to be",
+        "used to be",
+        "going to be"
+      ]
+    }
+  ]
+}
 ]

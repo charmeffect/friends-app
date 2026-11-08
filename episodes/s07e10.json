@@ -1,121 +1,484 @@
 [
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s07_e10_c01_u018", "answer": "found out",
-      "options": ["found out", "made up", "gave in", "ran over"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c01_u018",
+      "answer": "found out",
+      "options": [
+        "found out",
+        "made up",
+        "gave in",
+        "ran over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dress up as", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to wear a costume so that you look like a particular character",
-    "exchanges": [ { "uid": "s07_e10_c01_u020", "answer": "dress up",
-      "options": ["dress up", "set up", "pick up", "break up"] } ] },
+{
+  "expression": "dress up as",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to wear a costume so that you look like a particular character",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c01_u020",
+      "answer": "dress up",
+      "options": [
+        "dress up",
+        "set up",
+        "pick up",
+        "break up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "assume", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to accept that something is true without checking it",
-    "exchanges": [ { "uid": "s07_e10_c02_u014", "answer": "assumed",
-      "options": ["assumed", "admitted", "denied", "refused"] } ] },
+{
+  "expression": "assume",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to accept that something is true without checking it",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c02_u014",
+      "answer": "assumed",
+      "options": [
+        "assumed",
+        "admitted",
+        "denied",
+        "refused"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I bet", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when you feel sure that something is true or will happen",
-    "exchanges": [ { "uid": "s07_e10_c02_u021", "answer": "I bet",
-      "options": ["I bet", "I quit", "I doubt", "I wish"] } ] },
+{
+  "expression": "I bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you feel sure that something is true or will happen",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c02_u021",
+      "answer": "I bet",
+      "options": [
+        "I bet",
+        "I quit",
+        "I doubt",
+        "I wish"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to look after someone who needs help",
-    "exchanges": [ { "uid": "s07_e10_c02_u022", "answer": "take care of",
-      "options": ["take care of", "get rid of", "make fun of", "run out of"] } ] },
+{
+  "expression": "take care of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to look after someone who needs help",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c02_u022",
+      "answer": "take care of",
+      "options": [
+        "take care of",
+        "get rid of",
+        "make fun of",
+        "run out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "to go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "ordered to be taken away rather than eaten or drunk in the cafe",
-    "exchanges": [ { "uid": "s07_e10_c04_u002", "answer": "to go",
-      "options": ["to go", "to run", "to come", "to leave"] } ] },
+{
+  "expression": "to go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "ordered to be taken away rather than eaten or drunk in the cafe",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c04_u002",
+      "answer": "to go",
+      "options": [
+        "to go",
+        "to run",
+        "to come",
+        "to leave"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shake down", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to get money from someone by putting pressure on them",
-    "exchanges": [ { "uid": "s07_e10_c04_u010", "answer": "shakin' you down",
-      "options": ["shakin' you down", "backin' you up", "cheerin' you on", "shuttin' you out"] } ] },
+{
+  "expression": "shake down",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to get money from someone by putting pressure on them",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c04_u010",
+      "answer": "shakin' you down",
+      "options": [
+        "shakin' you down",
+        "backin' you up",
+        "cheerin' you on",
+        "shuttin' you out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "slip", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to give something to someone quickly and secretly",
-    "exchanges": [ { "uid": "s07_e10_c04_u011", "answer": "slip",
-      "options": ["slip", "win", "cost", "save"] } ] },
+{
+  "expression": "slip",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to give something to someone quickly and secretly",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c04_u011",
+      "answer": "slip",
+      "options": [
+        "slip",
+        "win",
+        "cost",
+        "save"
+      ]
+    }
+  ]
+},
 
-  { "expression": "smooth", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "confident and skilful in dealing with people, without seeming awkward",
-    "exchanges": [ { "uid": "s07_e10_c04_u012", "answer": "smooth", "responseUid": null,
-      "options": ["smooth", "rough", "stiff", "loud"] } ] },
+{
+  "expression": "smooth",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "confident and skilful in dealing with people, without seeming awkward",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c04_u012",
+      "answer": "smooth",
+      "responseUid": null,
+      "options": [
+        "smooth",
+        "rough",
+        "stiff",
+        "loud"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to vomit",
-    "exchanges": [ { "uid": "s07_e10_c05_u002", "answer": "throw up", "responseUid": "s07_e10_c05_u004",
-      "options": ["throw up", "make up", "cheer up", "grow up"] } ] },
+{
+  "expression": "throw up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to vomit",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c05_u002",
+      "answer": "throw up",
+      "responseUid": "s07_e10_c05_u004",
+      "options": [
+        "throw up",
+        "make up",
+        "cheer up",
+        "grow up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "casual", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "relaxed and not serious or formal",
-    "exchanges": [ { "uid": "s07_e10_c06_u002", "answer": "casual",
-      "options": ["casual", "formal", "awkward", "obvious"] } ] },
+{
+  "expression": "casual",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "relaxed and not serious or formal",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c06_u002",
+      "answer": "casual",
+      "options": [
+        "casual",
+        "formal",
+        "awkward",
+        "obvious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unbearable", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "too unpleasant or painful to accept or put up with",
-    "exchanges": [ { "uid": "s07_e10_c07_u003", "answer": "unbearable",
-      "options": ["unbearable", "affordable", "reliable", "available"] } ] },
+{
+  "expression": "unbearable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "too unpleasant or painful to accept or put up with",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c07_u003",
+      "answer": "unbearable",
+      "options": [
+        "unbearable",
+        "affordable",
+        "reliable",
+        "available"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to make someone look at something interesting you are showing them",
-    "exchanges": [ { "uid": "s07_e10_c07_u004", "answer": "check it out",
-      "options": ["check it out", "knock it off", "cut it out", "work it out"] } ] },
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c07_u004",
+      "answer": "check it out",
+      "options": [
+        "check it out",
+        "knock it off",
+        "cut it out",
+        "work it out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "disrupt", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to disturb something so that it cannot continue normally",
-    "exchanges": [ { "uid": "s07_e10_c08_u009", "answer": "disrupts",
-      "options": ["disrupts", "delights", "decorates", "protects"] } ] },
+{
+  "expression": "disrupt",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to disturb something so that it cannot continue normally",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c08_u009",
+      "answer": "disrupts",
+      "options": [
+        "disrupts",
+        "delights",
+        "decorates",
+        "protects"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on some level", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to some degree, often in a way you do not fully admit to yourself",
-    "exchanges": [ { "uid": "s07_e10_c08_u013", "answer": "on some level",
-      "options": ["on some level", "on the record", "off the hook", "by all means"] } ] },
+{
+  "expression": "on some level",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to some degree, often in a way you do not fully admit to yourself",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c08_u013",
+      "answer": "on some level",
+      "options": [
+        "on some level",
+        "on the record",
+        "off the hook",
+        "by all means"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drive out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to force someone to leave a place",
-    "exchanges": [ { "uid": "s07_e10_c09_u019", "answer": "drive me out",
-      "options": ["drive me out", "let me in", "cheer me up", "bring me back"] } ] },
+{
+  "expression": "drive out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to force someone to leave a place",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c09_u019",
+      "answer": "drive me out",
+      "options": [
+        "drive me out",
+        "let me in",
+        "cheer me up",
+        "bring me back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "that's the deal", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to state that this is the arrangement that has been agreed",
-    "exchanges": [ { "uid": "s07_e10_c09_u021", "answer": "that's the deal",
-      "options": ["that's the deal", "that's the spirit", "that's the catch", "that's the limit"] } ] },
+{
+  "expression": "that's the deal",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to state that this is the arrangement that has been agreed",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c09_u021",
+      "answer": "that's the deal",
+      "options": [
+        "that's the deal",
+        "that's the spirit",
+        "that's the catch",
+        "that's the limit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "disappoint", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to make someone sad because something they hoped for does not happen",
-    "exchanges": [ { "uid": "s07_e10_c10_u008", "answer": "disappoint",
-      "options": ["disappoint", "persuade", "replace", "forgive"] } ] },
+{
+  "expression": "disappoint",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone sad because something they hoped for does not happen",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c10_u008",
+      "answer": "disappoint",
+      "options": [
+        "disappoint",
+        "persuade",
+        "replace",
+        "forgive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you bet", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "an emphatic way of saying yes or certainly",
-    "exchanges": [ { "uid": "s07_e10_c11_u028", "answer": "You bet",
-      "options": ["You bet", "You wish", "You quit", "You owe"] } ] },
+{
+  "expression": "you bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an emphatic way of saying yes or certainly",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c11_u028",
+      "answer": "You bet",
+      "options": [
+        "You bet",
+        "You wish",
+        "You quit",
+        "You owe"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wreck", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to damage something so badly that it is ruined",
-    "exchanges": [ { "uid": "s07_e10_c11_u035", "answer": "wrecking",
-      "options": ["wrecking", "saving", "fixing", "sharing"] } ] },
+{
+  "expression": "wreck",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to damage something so badly that it is ruined",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c11_u035",
+      "answer": "wrecking",
+      "options": [
+        "wrecking",
+        "saving",
+        "fixing",
+        "sharing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "implode", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to collapse violently inward",
-    "exchanges": [ { "uid": "s07_e10_c11_u048", "answer": "implode",
-      "options": ["implode", "applaud", "invite", "pretend"] } ] },
+{
+  "expression": "implode",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to collapse violently inward",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c11_u048",
+      "answer": "implode",
+      "options": [
+        "implode",
+        "applaud",
+        "invite",
+        "pretend"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tear down", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to destroy a building deliberately",
-    "exchanges": [ { "uid": "s07_e10_c12_u008", "answer": "tear it down",
-      "options": ["tear it down", "give it up", "turn it in", "show it off"] } ] },
+{
+  "expression": "tear down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to destroy a building deliberately",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c12_u008",
+      "answer": "tear it down",
+      "options": [
+        "tear it down",
+        "give it up",
+        "turn it in",
+        "show it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sense", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to feel or become aware of something without being told",
-    "exchanges": [ { "uid": "s07_e10_c12_u017", "answer": "sensing",
-      "options": ["sensing", "forgetting", "promising", "warning"] } ] },
+{
+  "expression": "sense",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to feel or become aware of something without being told",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c12_u017",
+      "answer": "sensing",
+      "options": [
+        "sensing",
+        "forgetting",
+        "promising",
+        "warning"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be such a baby", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to act in a childish or cowardly way",
-    "exchanges": [ { "uid": "s07_e10_c14_u006", "answer": "such a baby", "responseUid": null,
-      "options": ["such a baby", "such a star", "such a pro", "such a hero"] } ] }
+{
+  "expression": "be such a baby",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to act in a childish or cowardly way",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c14_u006",
+      "answer": "such a baby",
+      "responseUid": null,
+      "options": [
+        "such a baby",
+        "such a star",
+        "such a pro",
+        "such a hero"
+      ]
+    }
+  ]
+}
 ]

@@ -42,7 +42,7 @@
 {
   "expression": "dig",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to like or appreciate something very much (slang)",
   "exchanges": [
@@ -489,7 +489,7 @@
 {
   "expression": "sabotage",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to deliberately damage or ruin something so that it fails",
   "exchanges": [

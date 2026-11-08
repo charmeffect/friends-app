@@ -1,129 +1,511 @@
 [
-  { "expression": "go for it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to decide to try something and act on it with determination",
-    "exchanges": [ { "uid": "s08_e16_c01_u009", "answer": "go for it",
-      "options": ["go for it", "get off it", "come by it", "hold on it"] } ] },
+{
+  "expression": "go for it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to decide to try something and act on it with determination",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c01_u009",
+      "answer": "go for it",
+      "options": [
+        "go for it",
+        "get off it",
+        "come by it",
+        "hold on it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tend to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to usually behave in a particular way or be likely to do something",
-    "exchanges": [ { "uid": "s08_e16_c01_u021", "answer": "tend to",
-      "options": ["tend to", "lead to", "refer to", "object to"] } ] },
+{
+  "expression": "tend to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to usually behave in a particular way or be likely to do something",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c01_u021",
+      "answer": "tend to",
+      "options": [
+        "tend to",
+        "lead to",
+        "refer to",
+        "object to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go away", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to disappear or stop existing",
-    "exchanges": [ { "uid": "s08_e16_c01_u023", "answer": "go away",
-      "options": ["go away", "get away", "give away", "put away"] } ] },
+{
+  "expression": "go away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to disappear or stop existing",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c01_u023",
+      "answer": "go away",
+      "options": [
+        "go away",
+        "get away",
+        "give away",
+        "put away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "soul mates", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "two people who are perfectly suited to each other, often believed to be meant for each other",
-    "exchanges": [ { "uid": "s08_e16_c02_u011", "answer": "soul mates",
-      "options": ["soul mates", "pen pals", "role models", "bank tellers"] } ] },
+{
+  "expression": "soul mates",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "two people who are perfectly suited to each other, often believed to be meant for each other",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c02_u011",
+      "answer": "soul mates",
+      "options": [
+        "soul mates",
+        "pen pals",
+        "role models",
+        "bank tellers"
+      ]
+    }
+  ]
+},
 
-  { "expression": "other half", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "the person who is someone's perfect partner or spouse",
-    "exchanges": [ { "uid": "s08_e16_c02_u019", "answer": "other half",
-      "options": ["other half", "outer shell", "first draft", "last straw"] } ] },
+{
+  "expression": "other half",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the person who is someone's perfect partner or spouse",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c02_u019",
+      "answer": "other half",
+      "options": [
+        "other half",
+        "outer shell",
+        "first draft",
+        "last straw"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be suited for", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "to be right or appropriate for a particular person or purpose",
-    "exchanges": [ { "uid": "s08_e16_c02_u020", "answer": "suited for",
-      "options": ["suited for", "known as", "related to", "used to"] } ] },
+{
+  "expression": "be suited for",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "to be right or appropriate for a particular person or purpose",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c02_u020",
+      "answer": "suited for",
+      "options": [
+        "suited for",
+        "known as",
+        "related to",
+        "used to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "centered", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "emotionally calm, balanced, and sure of yourself",
-    "exchanges": [ { "uid": "s08_e16_c02_u031", "answer": "centered",
-      "options": ["centered", "scattered", "crowded", "stranded"] } ] },
+{
+  "expression": "centered",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "emotionally calm, balanced, and sure of yourself",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c02_u031",
+      "answer": "centered",
+      "options": [
+        "centered",
+        "scattered",
+        "crowded",
+        "stranded"
+      ]
+    }
+  ]
+},
 
-  { "expression": "settle for", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to accept something less than what you really wanted",
-    "exchanges": [ { "uid": "s08_e16_c02_u033", "answer": "settled for",
-      "options": ["settled for", "stood for", "sent for", "made for"] } ] },
+{
+  "expression": "settle for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to accept something less than what you really wanted",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c02_u033",
+      "answer": "settled for",
+      "options": [
+        "settled for",
+        "stood for",
+        "sent for",
+        "made for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be destined for", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "to be meant by fate to be with someone or to reach a particular future",
-    "exchanges": [ { "uid": "s08_e16_c02_u035", "answer": "destined for",
-      "options": ["destined for", "famous for", "guilty of", "allergic to"] } ] },
+{
+  "expression": "be destined for",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "to be meant by fate to be with someone or to reach a particular future",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c02_u035",
+      "answer": "destined for",
+      "options": [
+        "destined for",
+        "famous for",
+        "guilty of",
+        "allergic to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "giving encouragement and help to someone",
-    "exchanges": [ { "uid": "s08_e16_c03_u006", "answer": "supportive",
-      "options": ["supportive", "suspicious", "aggressive", "sarcastic"] } ] },
+{
+  "expression": "supportive",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "giving encouragement and help to someone",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c03_u006",
+      "answer": "supportive",
+      "options": [
+        "supportive",
+        "suspicious",
+        "aggressive",
+        "sarcastic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s08_e16_c03_u012", "answer": "freaking him out",
-      "options": ["freaking him out", "cheering him up", "calming him down", "showing him off"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c03_u012",
+      "answer": "freaking him out",
+      "options": [
+        "freaking him out",
+        "cheering him up",
+        "calming him down",
+        "showing him off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go after", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to try hard to get something you want",
-    "exchanges": [ { "uid": "s08_e16_c03_u010", "answer": "going after",
-      "options": ["going after", "showing off", "putting off", "handing out"] } ] },
+{
+  "expression": "go after",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try hard to get something you want",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c03_u010",
+      "answer": "going after",
+      "options": [
+        "going after",
+        "showing off",
+        "putting off",
+        "handing out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit on", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
-    "exchanges": [ { "uid": "s08_e16_c04_u025", "answer": "hit on",
-      "options": ["hit on", "rely on", "count on", "wait on"] } ] },
+{
+  "expression": "hit on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c04_u025",
+      "answer": "hit on",
+      "options": [
+        "hit on",
+        "rely on",
+        "count on",
+        "wait on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jeopardize", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to put something valuable at risk of being lost or damaged",
-    "exchanges": [ { "uid": "s08_e16_c05_u014", "answer": "jeopardize",
-      "options": ["jeopardize", "celebrate", "advertise", "memorize"] } ] },
+{
+  "expression": "jeopardize",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to put something valuable at risk of being lost or damaged",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u014",
+      "answer": "jeopardize",
+      "options": [
+        "jeopardize",
+        "celebrate",
+        "advertise",
+        "memorize"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [
-      { "uid": "s08_e16_c05_u017", "answer": "get over",
-        "options": ["get over", "run into", "turn down", "make up"] },
-      { "uid": "s08_e16_c05_u021", "answer": "get over",
-        "options": ["get over", "run into", "turn down", "make up"] } ] },
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u017",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "run into",
+        "turn down",
+        "make up"
+      ]
+    },
+    {
+      "uid": "s08_e16_c05_u021",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "run into",
+        "turn down",
+        "make up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "move past", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to stop being affected by a bad experience and continue with your life",
-    "exchanges": [ { "uid": "s08_e16_c05_u025", "answer": "move past",
-      "options": ["move past", "run into", "look after", "give in"] } ] },
+{
+  "expression": "move past",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop being affected by a bad experience and continue with your life",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u025",
+      "answer": "move past",
+      "options": [
+        "move past",
+        "run into",
+        "look after",
+        "give in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand in the way", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to prevent something from happening",
-    "exchanges": [ { "uid": "s08_e16_c05_u027", "answer": "stand in the way",
-      "options": ["stand in the way", "get in line", "come to mind", "take the lead"] } ] },
+{
+  "expression": "stand in the way",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to prevent something from happening",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u027",
+      "answer": "stand in the way",
+      "options": [
+        "stand in the way",
+        "get in line",
+        "come to mind",
+        "take the lead"
+      ]
+    }
+  ]
+},
 
-  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to finally be in a situation or place, often without planning it",
-    "exchanges": [ { "uid": "s08_e16_c05_u029", "answer": "end up",
-      "options": ["end up", "give up", "look up", "cheer up"] } ] },
+{
+  "expression": "end up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally be in a situation or place, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u029",
+      "answer": "end up",
+      "options": [
+        "end up",
+        "give up",
+        "look up",
+        "cheer up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get carried away", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to become so excited or emotional that you lose control of what you do",
-    "exchanges": [ { "uid": "s08_e16_c05_u033", "answer": "get carried away",
-      "options": ["get carried away", "get tied up", "get worn out", "get locked in"] } ] },
+{
+  "expression": "get carried away",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to become so excited or emotional that you lose control of what you do",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u033",
+      "answer": "get carried away",
+      "options": [
+        "get carried away",
+        "get tied up",
+        "get worn out",
+        "get locked in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "phase out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to gradually remove someone or something until they are gone completely",
-    "exchanges": [ { "uid": "s08_e16_c06_u002", "answer": "phasing out",
-      "options": ["phasing out", "showing off", "setting off", "handing in"] } ] },
+{
+  "expression": "phase out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to gradually remove someone or something until they are gone completely",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c06_u002",
+      "answer": "phasing out",
+      "options": [
+        "phasing out",
+        "showing off",
+        "setting off",
+        "handing in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "personals", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "the section of a newspaper with short ads from people looking for a romantic partner",
-    "exchanges": [ { "uid": "s08_e16_c08_u003", "answer": "personals",
-      "options": ["personals", "receipts", "minutes", "footnotes"] } ] },
+{
+  "expression": "personals",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "the section of a newspaper with short ads from people looking for a romantic partner",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c08_u003",
+      "answer": "personals",
+      "options": [
+        "personals",
+        "receipts",
+        "minutes",
+        "footnotes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to have a friendly relationship with someone",
-    "exchanges": [ { "uid": "s08_e16_c08_u009", "answer": "get along",
-      "options": ["get along", "get away", "get ahead", "get by"] } ] },
+{
+  "expression": "get along",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c08_u009",
+      "answer": "get along",
+      "options": [
+        "get along",
+        "get away",
+        "get ahead",
+        "get by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have second thoughts", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start doubting a decision you have already made",
-    "exchanges": [ { "uid": "s08_e16_c08_u016", "answer": "had second thoughts",
-      "options": ["had second thoughts", "made new friends", "lost all hope", "taken good care"] } ] },
+{
+  "expression": "have second thoughts",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doubting a decision you have already made",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c08_u016",
+      "answer": "had second thoughts",
+      "options": [
+        "had second thoughts",
+        "made new friends",
+        "lost all hope",
+        "taken good care"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it quick", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "do something fast without wasting time",
-    "exchanges": [ { "uid": "s08_e16_c07_u007", "answer": "make it quick",
-      "options": ["make it quick", "take it slow", "keep it down", "play it safe"] } ] },
+{
+  "expression": "make it quick",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "do something fast without wasting time",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c07_u007",
+      "answer": "make it quick",
+      "options": [
+        "make it quick",
+        "take it slow",
+        "keep it down",
+        "play it safe"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something important or worth worrying about",
-    "exchanges": [ { "uid": "s08_e16_c09_u031", "answer": "no big deal",
-      "options": ["no big deal", "no small feat", "no man's land", "no such luck"] } ] }
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c09_u031",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no small feat",
+        "no man's land",
+        "no such luck"
+      ]
+    }
+  ]
+}
 ]

@@ -1,126 +1,502 @@
 [
-  { "expression": "time's up", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to announce that the time allowed for something has finished",
-    "exchanges": [ { "uid": "s07_e08_c01_u013", "answer": "time's up",
-      "options": ["time's up", "time's off", "time's down", "time's in"] } ] },
+{
+  "expression": "time's up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to announce that the time allowed for something has finished",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c01_u013",
+      "answer": "time's up",
+      "options": [
+        "time's up",
+        "time's off",
+        "time's down",
+        "time's in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s07_e08_c03_u002", "answer": "hang out",
-      "options": ["hang out", "hang up", "hand out", "hold out"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c03_u002",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "hang up",
+        "hand out",
+        "hold out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to help someone with a task",
-    "exchanges": [ { "uid": "s07_e08_c02_u030", "answer": "give me a hand",
-      "options": ["give me a hand", "give me a head", "get me a hand", "show me a hand"] } ] },
+{
+  "expression": "give someone a hand",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to help someone with a task",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c02_u030",
+      "answer": "give me a hand",
+      "options": [
+        "give me a hand",
+        "give me a head",
+        "get me a hand",
+        "show me a hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to happen or develop successfully",
-    "exchanges": [ { "uid": "s07_e08_c04_u091", "answer": "work out",
-      "options": ["work out", "wear out", "work off", "pass out"] } ] },
+{
+  "expression": "work out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to happen or develop successfully",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u091",
+      "answer": "work out",
+      "options": [
+        "work out",
+        "wear out",
+        "work off",
+        "pass out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to accept a challenge or a bet",
-    "exchanges": [ { "uid": "s07_e08_c02_u024", "answer": "You're on",
-      "options": ["You're on", "You're off", "You're over", "You're down"] } ] },
+{
+  "expression": "you're on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept a challenge or a bet",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c02_u024",
+      "answer": "You're on",
+      "options": [
+        "You're on",
+        "You're off",
+        "You're over",
+        "You're down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship",
-    "exchanges": [ { "uid": "s07_e08_c04_u015", "answer": "broke up",
-      "options": ["broke up", "broke out", "broke in", "broke down"] } ] },
+{
+  "expression": "break up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u015",
+      "answer": "broke up",
+      "options": [
+        "broke up",
+        "broke out",
+        "broke in",
+        "broke down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "allergic", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "having a bad physical reaction to a particular food or substance",
-    "exchanges": [ { "uid": "s07_e08_c04_u006", "answer": "allergic",
-      "options": ["allergic", "athletic", "energetic", "apologetic"] } ] },
+{
+  "expression": "allergic",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "having a bad physical reaction to a particular food or substance",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u006",
+      "answer": "allergic",
+      "options": [
+        "allergic",
+        "athletic",
+        "energetic",
+        "apologetic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to finally be in a situation or place, often without planning it",
-    "exchanges": [ { "uid": "s07_e08_c04_u086", "answer": "end up",
-      "options": ["end up", "end on", "give up", "break up"] } ] },
+{
+  "expression": "end up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally be in a situation or place, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u086",
+      "answer": "end up",
+      "options": [
+        "end up",
+        "end on",
+        "give up",
+        "break up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have a strong, often secret, romantic attraction to someone",
-    "exchanges": [ { "uid": "s07_e08_c05_u007", "answer": "have a crush on",
-      "options": ["have a crush on", "have a grip on", "have a say on", "have a rush on"] } ] },
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c05_u007",
+      "answer": "have a crush on",
+      "options": [
+        "have a crush on",
+        "have a grip on",
+        "have a say on",
+        "have a rush on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s07_e08_c07_u037", "answer": "freaked him out",
-      "options": ["freaked him out", "cheered him up", "calmed him down", "backed him off"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u037",
+      "answer": "freaked him out",
+      "options": [
+        "freaked him out",
+        "cheered him up",
+        "calmed him down",
+        "backed him off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invent something, such as a rule or a story, that is not true",
-    "exchanges": [ { "uid": "s07_e08_c07_u032", "answer": "make stuff up",
-      "options": ["make stuff up", "take stuff in", "put stuff off", "give stuff out"] } ] },
+{
+  "expression": "make up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invent something, such as a rule or a story, that is not true",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u032",
+      "answer": "make stuff up",
+      "options": [
+        "make stuff up",
+        "take stuff in",
+        "put stuff off",
+        "give stuff out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be up to someone", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be someone's decision or responsibility",
-    "exchanges": [ { "uid": "s07_e08_c07_u063", "answer": "up to you",
-      "options": ["up to you", "up for you", "on to you", "in for you"], "responseUid": null } ] },
+{
+  "expression": "be up to someone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be someone's decision or responsibility",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u063",
+      "answer": "up to you",
+      "options": [
+        "up to you",
+        "up for you",
+        "on to you",
+        "in for you"
+      ],
+      "responseUid": null
+    }
+  ]
+},
 
-  { "expression": "technically", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "according to the exact meaning of the rules or facts, even if it seems different in practice",
-    "exchanges": [ { "uid": "s07_e08_c01_u009", "answer": "technically",
-      "options": ["technically", "typically", "tragically", "terribly"] } ] },
+{
+  "expression": "technically",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "according to the exact meaning of the rules or facts, even if it seems different in practice",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c01_u009",
+      "answer": "technically",
+      "options": [
+        "technically",
+        "typically",
+        "tragically",
+        "terribly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of your mind", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "crazy or behaving in a completely unreasonable way",
-    "exchanges": [ { "uid": "s07_e08_c04_u043", "answer": "out of your mind",
-      "options": ["out of your mind", "out of your league", "out of your depth", "out of your way"] } ] },
+{
+  "expression": "out of your mind",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "crazy or behaving in a completely unreasonable way",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u043",
+      "answer": "out of your mind",
+      "options": [
+        "out of your mind",
+        "out of your league",
+        "out of your depth",
+        "out of your way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "needy", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "wanting too much attention or affection from other people",
-    "exchanges": [ { "uid": "s07_e08_c04_u046", "answer": "needy",
-      "options": ["needy", "wealthy", "modest", "punctual"] } ] },
+{
+  "expression": "needy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "wanting too much attention or affection from other people",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u046",
+      "answer": "needy",
+      "options": [
+        "needy",
+        "wealthy",
+        "modest",
+        "punctual"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a move", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to take the first step in trying to start a romantic relationship with someone",
-    "exchanges": [ { "uid": "s07_e08_c04_u065", "answer": "make a move",
-      "options": ["make a move", "make a toast", "take a bath", "break a leg"] } ] },
+{
+  "expression": "make a move",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take the first step in trying to start a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u065",
+      "answer": "make a move",
+      "options": [
+        "make a move",
+        "make a toast",
+        "take a bath",
+        "break a leg"
+      ]
+    }
+  ]
+},
 
-  { "expression": "how are you holding up", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "asked to find out how someone is coping with a difficult situation",
-    "exchanges": [ { "uid": "s07_e08_c04_u081", "answer": "holding up",
-      "options": ["holding up", "holding in", "holding back", "holding off"] } ] },
+{
+  "expression": "how are you holding up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "asked to find out how someone is coping with a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u081",
+      "answer": "holding up",
+      "options": [
+        "holding up",
+        "holding in",
+        "holding back",
+        "holding off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "insecure", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "not confident about yourself and worried about what others think",
-    "exchanges": [ { "uid": "s07_e08_c05_u003", "answer": "insecure",
-      "options": ["insecure", "inspired", "informed", "innocent"] } ] },
+{
+  "expression": "insecure",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not confident about yourself and worried about what others think",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c05_u003",
+      "answer": "insecure",
+      "options": [
+        "insecure",
+        "inspired",
+        "informed",
+        "innocent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bring on", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "said to show that you are ready and eager for something to start or arrive",
-    "exchanges": [ { "uid": "s07_e08_c07_u024", "answer": "Bring on",
-      "options": ["Bring on", "Bring off", "Bring down", "Bring about"] } ] },
+{
+  "expression": "bring on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "said to show that you are ready and eager for something to start or arrive",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u024",
+      "answer": "Bring on",
+      "options": [
+        "Bring on",
+        "Bring off",
+        "Bring down",
+        "Bring about"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get off one's chest", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to tell someone about something that has been worrying you so that you feel relieved",
-    "exchanges": [ { "uid": "s07_e08_c05_u011", "answer": "get off your chest",
-      "options": ["get off your chest", "get off your back", "take off your mind", "get out your head"] } ] },
+{
+  "expression": "get off one's chest",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to tell someone about something that has been worrying you so that you feel relieved",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c05_u011",
+      "answer": "get off your chest",
+      "options": [
+        "get off your chest",
+        "get off your back",
+        "take off your mind",
+        "get out your head"
+      ]
+    }
+  ]
+},
 
-  { "expression": "disgraceful", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "so bad or unacceptable that it should make people feel ashamed",
-    "exchanges": [ { "uid": "s07_e08_c02_u014", "answer": "disgraceful",
-      "options": ["disgraceful", "delightful", "graceful", "respectful"] } ] },
+{
+  "expression": "disgraceful",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "so bad or unacceptable that it should make people feel ashamed",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c02_u014",
+      "answer": "disgraceful",
+      "options": [
+        "disgraceful",
+        "delightful",
+        "graceful",
+        "respectful"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ease the pain", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to make emotional or physical suffering less severe",
-    "exchanges": [ { "uid": "s07_e08_c07_u053", "answer": "ease the pain",
-      "options": ["ease the pain", "raise the bar", "feel the heat", "break the ice"] } ] },
+{
+  "expression": "ease the pain",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make emotional or physical suffering less severe",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u053",
+      "answer": "ease the pain",
+      "options": [
+        "ease the pain",
+        "raise the bar",
+        "feel the heat",
+        "break the ice"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mug shot", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a photograph of a person's face taken by the police after an arrest",
-    "exchanges": [ { "uid": "s07_e08_c07_u066", "answer": "mug shots",
-      "options": ["mug shots", "job offers", "test scores", "price tags"] } ] },
+{
+  "expression": "mug shot",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a photograph of a person's face taken by the police after an arrest",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u066",
+      "answer": "mug shots",
+      "options": [
+        "mug shots",
+        "job offers",
+        "test scores",
+        "price tags"
+      ]
+    }
+  ]
+},
 
-  { "expression": "geographically", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "according to where places are located on a map",
-    "exchanges": [ { "uid": "s07_e08_c07_u009", "answer": "geographically",
-      "options": ["geographically", "generously", "genetically", "gracefully"] } ] },
+{
+  "expression": "geographically",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "according to where places are located on a map",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u009",
+      "answer": "geographically",
+      "options": [
+        "geographically",
+        "generously",
+        "genetically",
+        "gracefully"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hug it out", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to end a disagreement or an emotional moment by hugging each other",
-    "exchanges": [ { "uid": "s07_e08_c04_u097", "answer": "Hug it out",
-      "options": ["Hug it out", "Hash it out", "Sleep it off", "Walk it off"] } ] }
+{
+  "expression": "hug it out",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to end a disagreement or an emotional moment by hugging each other",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u097",
+      "answer": "Hug it out",
+      "options": [
+        "Hug it out",
+        "Hash it out",
+        "Sleep it off",
+        "Walk it off"
+      ]
+    }
+  ]
+}
 ]

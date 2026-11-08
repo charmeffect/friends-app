@@ -1,129 +1,511 @@
 [
-  { "expression": "take your time", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to tell someone there is no need to hurry",
-    "exchanges": [ { "uid": "s09_e02_c04_u015", "answer": "take your time",
-      "options": ["take your time", "mind your step", "pay your bill", "lose your way"] } ] },
+{
+  "expression": "take your time",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell someone there is no need to hurry",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c04_u015",
+      "answer": "take your time",
+      "options": [
+        "take your time",
+        "mind your step",
+        "pay your bill",
+        "lose your way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to visit a place briefly, often without planning it",
-    "exchanges": [ { "uid": "s09_e02_c04_u012", "answer": "stop by",
-      "options": ["stop by", "stop out", "stand by", "step up"] } ] },
+{
+  "expression": "stop by",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit a place briefly, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c04_u012",
+      "answer": "stop by",
+      "options": [
+        "stop by",
+        "stop out",
+        "stand by",
+        "step up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fill out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to complete a form by writing the required information in the spaces",
-    "exchanges": [ { "uid": "s09_e02_c10_u004", "answer": "fill out",
-      "options": ["fill out", "fall out", "pull out", "fill up"] } ] },
+{
+  "expression": "fill out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to complete a form by writing the required information in the spaces",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c10_u004",
+      "answer": "fill out",
+      "options": [
+        "fill out",
+        "fall out",
+        "pull out",
+        "fill up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to stop worrying or talking about something",
-    "exchanges": [ { "uid": "s09_e02_c04_u019", "answer": "letting this go",
-      "options": ["letting this go", "taking this in", "putting this on", "setting this off"] } ] },
+{
+  "expression": "let it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to stop worrying or talking about something",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c04_u019",
+      "answer": "letting this go",
+      "options": [
+        "letting this go",
+        "taking this in",
+        "putting this on",
+        "setting this off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go on and on", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to keep talking about something for a long time",
-    "exchanges": [ { "uid": "s09_e02_c03_u002", "answer": "go on and on",
-      "options": ["go on and on", "get up and go", "come and go", "wait and see"] } ] },
+{
+  "expression": "go on and on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep talking about something for a long time",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c03_u002",
+      "answer": "go on and on",
+      "options": [
+        "go on and on",
+        "get up and go",
+        "come and go",
+        "wait and see"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I told you so", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to point out that you warned someone and you were right",
-    "exchanges": [ { "uid": "s09_e02_c04_u027", "answer": "told you so",
-      "options": ["told you so", "made you up", "got you there", "let you go"] } ] },
+{
+  "expression": "I told you so",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to point out that you warned someone and you were right",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c04_u027",
+      "answer": "told you so",
+      "options": [
+        "told you so",
+        "made you up",
+        "got you there",
+        "let you go"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lose one's mind", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to feel as if you are going crazy because of stress or frustration",
-    "exchanges": [ { "uid": "s09_e02_c06_u008", "answer": "losing my mind",
-      "options": ["losing my mind", "keeping my word", "making my day", "taking my turn"] } ] },
+{
+  "expression": "lose one's mind",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel as if you are going crazy because of stress or frustration",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c06_u008",
+      "answer": "losing my mind",
+      "options": [
+        "losing my mind",
+        "keeping my word",
+        "making my day",
+        "taking my turn"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s09_e02_c10_u023", "answer": "freaked out",
-      "options": ["freaked out", "checked out", "left out", "cut out"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c10_u023",
+      "answer": "freaked out",
+      "options": [
+        "freaked out",
+        "checked out",
+        "left out",
+        "cut out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't help it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be unable to stop yourself from doing something",
-    "exchanges": [ { "uid": "s09_e02_c07_u045", "answer": "couldn't help it",
-      "options": ["couldn't help it", "couldn't make it", "couldn't buy it", "couldn't find it"] } ] },
+{
+  "expression": "can't help it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be unable to stop yourself from doing something",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c07_u045",
+      "answer": "couldn't help it",
+      "options": [
+        "couldn't help it",
+        "couldn't make it",
+        "couldn't buy it",
+        "couldn't find it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [
-      { "uid": "s09_e02_c04_u021", "answer": "got over",
-        "options": ["got over", "got into", "got off", "got by"] },
-      { "uid": "s09_e02_c12_u004", "answer": "get over",
-        "options": ["get over", "get into", "get off", "get by"] } ] },
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c04_u021",
+      "answer": "got over",
+      "options": [
+        "got over",
+        "got into",
+        "got off",
+        "got by"
+      ]
+    },
+    {
+      "uid": "s09_e02_c12_u004",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "get into",
+        "get off",
+        "get by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "duck", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to lower your head or body quickly to avoid being hit",
-    "exchanges": [ { "uid": "s09_e02_c07_u045", "answer": "duck",
-      "options": ["duck", "yawn", "sigh", "shrug"] } ] },
+{
+  "expression": "duck",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to lower your head or body quickly to avoid being hit",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c07_u045",
+      "answer": "duck",
+      "options": [
+        "duck",
+        "yawn",
+        "sigh",
+        "shrug"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to vomit",
-    "exchanges": [ { "uid": "s09_e02_c06_u005", "answer": "throw up",
-      "options": ["throw up", "throw out", "give up", "show up"] } ] },
+{
+  "expression": "throw up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to vomit",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c06_u005",
+      "answer": "throw up",
+      "options": [
+        "throw up",
+        "throw out",
+        "give up",
+        "show up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on board", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "in agreement with a plan or idea and willing to support it",
-    "exchanges": [ { "uid": "s09_e02_c05_u001", "answer": "on board",
-      "options": ["on board", "on hold", "on air", "on fire"] } ] },
+{
+  "expression": "on board",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in agreement with a plan or idea and willing to support it",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c05_u001",
+      "answer": "on board",
+      "options": [
+        "on board",
+        "on hold",
+        "on air",
+        "on fire"
+      ]
+    }
+  ]
+},
 
-  { "expression": "technically", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "according to the exact meaning of the rules or facts, even if it seems different in practice",
-    "exchanges": [ { "uid": "s09_e02_c07_u012", "answer": "technically",
-      "options": ["technically", "traditionally", "financially", "politically"] } ] },
+{
+  "expression": "technically",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "according to the exact meaning of the rules or facts, even if it seems different in practice",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c07_u012",
+      "answer": "technically",
+      "options": [
+        "technically",
+        "traditionally",
+        "financially",
+        "politically"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put aside", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to ignore or not consider something for the moment so you can focus on something else",
-    "exchanges": [ { "uid": "s09_e02_c07_u013", "answer": "put aside",
-      "options": ["put aside", "put across", "put through", "bring aside"] } ] },
+{
+  "expression": "put aside",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ignore or not consider something for the moment so you can focus on something else",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c07_u013",
+      "answer": "put aside",
+      "options": [
+        "put aside",
+        "put across",
+        "put through",
+        "bring aside"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get past", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to move beyond a stage or difficulty and continue",
-    "exchanges": [ { "uid": "s09_e02_c07_u019", "answer": "get past",
-      "options": ["get past", "get across", "get away", "get along"] } ] },
+{
+  "expression": "get past",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to move beyond a stage or difficulty and continue",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c07_u019",
+      "answer": "get past",
+      "options": [
+        "get past",
+        "get across",
+        "get away",
+        "get along"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reflex", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an automatic movement your body makes without you deciding to make it",
-    "exchanges": [ { "uid": "s09_e02_c07_u043", "answer": "reflex",
-      "options": ["reflex", "rumor", "riddle", "refund"] } ] },
+{
+  "expression": "reflex",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an automatic movement your body makes without you deciding to make it",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c07_u043",
+      "answer": "reflex",
+      "options": [
+        "reflex",
+        "rumor",
+        "riddle",
+        "refund"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn on each other", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to start attacking or blaming each other instead of working together",
-    "exchanges": [ { "uid": "s09_e02_c08_u004", "answer": "turn on each other",
-      "options": ["turn on each other", "take after each other", "run into each other", "get over each other"] } ] },
+{
+  "expression": "turn on each other",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start attacking or blaming each other instead of working together",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c08_u004",
+      "answer": "turn on each other",
+      "options": [
+        "turn on each other",
+        "take after each other",
+        "run into each other",
+        "get over each other"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I've got news for you", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to tell someone something surprising that they may not want to hear",
-    "exchanges": [ { "uid": "s09_e02_c12_u010", "answer": "got news for you",
-      "options": ["got news for you", "got a lot on", "feel bad for you", "have time for you"] } ] },
+{
+  "expression": "I've got news for you",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to tell someone something surprising that they may not want to hear",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c12_u010",
+      "answer": "got news for you",
+      "options": [
+        "got news for you",
+        "got a lot on",
+        "feel bad for you",
+        "have time for you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go down that road", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to start discussing or doing something that is likely to lead to trouble",
-    "exchanges": [ { "uid": "s09_e02_c10_u028", "answer": "going down that road",
-      "options": ["going down that road", "taking up that job", "coming up that hill", "getting into that car"] } ] },
+{
+  "expression": "go down that road",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to start discussing or doing something that is likely to lead to trouble",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c10_u028",
+      "answer": "going down that road",
+      "options": [
+        "going down that road",
+        "taking up that job",
+        "coming up that hill",
+        "getting into that car"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for what it's worth", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "used to offer an opinion or feeling while admitting it may not change anything",
-    "exchanges": [ { "uid": "s09_e02_c10_u033", "answer": "for what it's worth",
-      "options": ["for what it's worth", "for heaven's sake", "at the last minute", "by the same token"] } ] },
+{
+  "expression": "for what it's worth",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to offer an opinion or feeling while admitting it may not change anything",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c10_u033",
+      "answer": "for what it's worth",
+      "options": [
+        "for what it's worth",
+        "for heaven's sake",
+        "at the last minute",
+        "by the same token"
+      ]
+    }
+  ]
+},
 
-  { "expression": "provocatively", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "in a deliberately bold way that is meant to attract attention",
-    "exchanges": [ { "uid": "s09_e02_c11_u011", "answer": "provocatively",
-      "options": ["provocatively", "prematurely", "proportionally", "productively"] } ] },
+{
+  "expression": "provocatively",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "in a deliberately bold way that is meant to attract attention",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c11_u011",
+      "answer": "provocatively",
+      "options": [
+        "provocatively",
+        "prematurely",
+        "proportionally",
+        "productively"
+      ]
+    }
+  ]
+},
 
-  { "expression": "strapping", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "tall, strong, and healthy-looking",
-    "exchanges": [ { "uid": "s09_e02_c09_u007", "answer": "strapping",
-      "options": ["strapping", "shrinking", "stuttering", "sniffling"] } ] },
+{
+  "expression": "strapping",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "tall, strong, and healthy-looking",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c09_u007",
+      "answer": "strapping",
+      "options": [
+        "strapping",
+        "shrinking",
+        "stuttering",
+        "sniffling"
+      ]
+    }
+  ]
+},
 
-  { "expression": "misshapen", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "not having the normal or natural shape",
-    "exchanges": [ { "uid": "s09_e02_c10_u006", "answer": "misshapen",
-      "options": ["misshapen", "mistaken", "misspelled", "misleading"] } ] },
+{
+  "expression": "misshapen",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not having the normal or natural shape",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c10_u006",
+      "answer": "misshapen",
+      "options": [
+        "misshapen",
+        "mistaken",
+        "misspelled",
+        "misleading"
+      ]
+    }
+  ]
+},
 
-  { "expression": "misery loves company", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "unhappy people like having others share their unhappiness",
-    "exchanges": [ { "uid": "s09_e02_c11_u003", "answer": "love company",
-      "options": ["love company", "need money", "make sense", "feel lonely"] } ] }
+{
+  "expression": "misery loves company",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "unhappy people like having others share their unhappiness",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c11_u003",
+      "answer": "love company",
+      "options": [
+        "love company",
+        "need money",
+        "make sense",
+        "feel lonely"
+      ]
+    }
+  ]
+}
 ]

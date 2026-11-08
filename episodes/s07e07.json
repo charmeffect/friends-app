@@ -1,126 +1,503 @@
 [
-  { "expression": "do someone a favor", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to do something helpful for someone because they ask you to",
-    "exchanges": [ { "uid": "s07_e07_c01_u008", "answer": "do me a favor",
-      "options": ["do me a favor", "make me a favor", "take me a favor", "give me a favor"] } ] },
+{
+  "expression": "do someone a favor",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to do something helpful for someone because they ask you to",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c01_u008",
+      "answer": "do me a favor",
+      "options": [
+        "do me a favor",
+        "make me a favor",
+        "take me a favor",
+        "give me a favor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lay the groundwork", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to do the early preparation that makes something possible later",
-    "exchanges": [ { "uid": "s07_e07_c01_u010", "answer": "lay the groundwork",
-      "options": ["lay the groundwork", "break the ice", "raise the bar", "clear the air"] } ] },
+{
+  "expression": "lay the groundwork",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to do the early preparation that makes something possible later",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c01_u010",
+      "answer": "lay the groundwork",
+      "options": [
+        "lay the groundwork",
+        "break the ice",
+        "raise the bar",
+        "clear the air"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get mixed up with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to become involved with someone who is likely to cause you trouble",
-    "exchanges": [ { "uid": "s07_e07_c01_u010", "answer": "get mixed up with",
-      "options": ["get mixed up with", "get fed up with", "get carried away with", "get ahead of"] } ] },
+{
+  "expression": "get mixed up with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become involved with someone who is likely to cause you trouble",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c01_u010",
+      "answer": "get mixed up with",
+      "options": [
+        "get mixed up with",
+        "get fed up with",
+        "get carried away with",
+        "get ahead of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone to stop asking or to drop the idea",
-    "exchanges": [ { "uid": "s07_e07_c01_u013", "answer": "forget it",
-      "options": ["forget it", "get it", "take it", "make it"] } ] },
+{
+  "expression": "forget it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop asking or to drop the idea",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c01_u013",
+      "answer": "forget it",
+      "options": [
+        "forget it",
+        "get it",
+        "take it",
+        "make it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a guess", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to try to give an answer when you do not know for sure",
-    "exchanges": [ { "uid": "s07_e07_c02_u003", "answer": "take a guess",
-      "options": ["take a guess", "take a hint", "take a bow", "take a stand"] } ] },
+{
+  "expression": "take a guess",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to try to give an answer when you do not know for sure",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c02_u003",
+      "answer": "take a guess",
+      "options": [
+        "take a guess",
+        "take a hint",
+        "take a bow",
+        "take a stand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s07_e07_c03_u016", "answer": "freak out",
-      "options": ["freak out", "back off", "show off", "hold on"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c03_u016",
+      "answer": "freak out",
+      "options": [
+        "freak out",
+        "back off",
+        "show off",
+        "hold on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hot shot", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "a person who is very successful and confident, often too proud of it",
-    "exchanges": [ { "uid": "s07_e07_c03_u008", "answer": "Hot Shot",
-      "options": ["Hot Shot", "Hot Spot", "Long Shot", "Cheap Shot"] } ] },
+{
+  "expression": "hot shot",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who is very successful and confident, often too proud of it",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c03_u008",
+      "answer": "Hot Shot",
+      "options": [
+        "Hot Shot",
+        "Hot Spot",
+        "Long Shot",
+        "Cheap Shot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a toast", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to say a few words in honor of someone and then drink with everyone",
-    "exchanges": [ { "uid": "s07_e07_c03_u026", "answer": "make a toast",
-      "options": ["make a toast", "take a toast", "do a toast", "have a toast"] } ] },
+{
+  "expression": "make a toast",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to say a few words in honor of someone and then drink with everyone",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c03_u026",
+      "answer": "make a toast",
+      "options": [
+        "make a toast",
+        "take a toast",
+        "do a toast",
+        "have a toast"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go anywhere", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to develop into something successful or serious",
-    "exchanges": [ { "uid": "s07_e07_c04_u032", "answer": "going anywhere",
-      "options": ["going anywhere", "coming along", "falling apart", "getting away"] } ] },
+{
+  "expression": "go anywhere",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to develop into something successful or serious",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c04_u032",
+      "answer": "going anywhere",
+      "options": [
+        "going anywhere",
+        "coming along",
+        "falling apart",
+        "getting away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a chance", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to let someone show what they are like before you judge them",
-    "exchanges": [ { "uid": "s07_e07_c04_u034", "answer": "a chance",
-      "options": ["a chance", "a hint", "a ride", "a hand"] } ] },
+{
+  "expression": "give someone a chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to let someone show what they are like before you judge them",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c04_u034",
+      "answer": "a chance",
+      "options": [
+        "a chance",
+        "a hint",
+        "a ride",
+        "a hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fool around", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to kiss or have casual sexual contact with someone",
-    "exchanges": [ { "uid": "s07_e07_c05_u006", "answer": "fool around",
-      "options": ["fool around", "turn around", "come around", "bring around"] } ] },
+{
+  "expression": "fool around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kiss or have casual sexual contact with someone",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c05_u006",
+      "answer": "fool around",
+      "options": [
+        "fool around",
+        "turn around",
+        "come around",
+        "bring around"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for crying out loud", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to show annoyance, surprise, or disbelief about something",
-    "exchanges": [ { "uid": "s07_e07_c05_u010", "answer": "for cryin' out loud",
-      "options": ["for cryin' out loud", "for the time being", "for good measure", "for better or worse"] } ] },
+{
+  "expression": "for crying out loud",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show annoyance, surprise, or disbelief about something",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c05_u010",
+      "answer": "for cryin' out loud",
+      "options": [
+        "for cryin' out loud",
+        "for the time being",
+        "for good measure",
+        "for better or worse"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in charge", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "having control of or responsibility for a group or activity",
-    "exchanges": [ { "uid": "s07_e07_c06_u004", "answer": "in charge",
-      "options": ["in charge", "at risk", "on hold", "in debt"] } ] },
+{
+  "expression": "in charge",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "having control of or responsibility for a group or activity",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c06_u004",
+      "answer": "in charge",
+      "options": [
+        "in charge",
+        "at risk",
+        "on hold",
+        "in debt"
+      ]
+    }
+  ]
+},
 
-  { "expression": "understaffed", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "not having enough workers to do the necessary work",
-    "exchanges": [ { "uid": "s07_e07_c06_u007", "answer": "understaffed",
-      "options": ["understaffed", "overrated", "outspoken", "undercooked"] } ] },
+{
+  "expression": "understaffed",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not having enough workers to do the necessary work",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c06_u007",
+      "answer": "understaffed",
+      "options": [
+        "understaffed",
+        "overrated",
+        "outspoken",
+        "undercooked"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sanctity", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the quality of being holy or so important that it must be respected",
-    "exchanges": [ { "uid": "s07_e07_c06_u008", "answer": "sanctity",
-      "options": ["sanctity", "vanity", "scarcity", "anxiety"] } ] },
+{
+  "expression": "sanctity",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the quality of being holy or so important that it must be respected",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c06_u008",
+      "answer": "sanctity",
+      "options": [
+        "sanctity",
+        "vanity",
+        "scarcity",
+        "anxiety"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand someone up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to fail to show up for a date you had arranged with someone",
-    "exchanges": [ { "uid": "s07_e07_c08_u002", "answer": "stood me up",
-      "options": ["stood me up", "took me in", "ran me over", "cut me off"] } ] },
+{
+  "expression": "stand someone up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fail to show up for a date you had arranged with someone",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c08_u002",
+      "answer": "stood me up",
+      "options": [
+        "stood me up",
+        "took me in",
+        "ran me over",
+        "cut me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to happen or develop successfully",
-    "exchanges": [ { "uid": "s07_e07_c09_u011", "answer": "work out",
-      "options": ["work out", "wear out", "run out", "break out"] } ] },
+{
+  "expression": "work out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to happen or develop successfully",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c09_u011",
+      "answer": "work out",
+      "options": [
+        "work out",
+        "wear out",
+        "run out",
+        "break out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spark", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a small sign of romantic attraction between two people",
-    "exchanges": [ { "uid": "s07_e07_c09_u015", "answer": "spark", "responseUid": null,
-      "options": ["spark", "crowd", "fuel", "shade"] } ] },
+{
+  "expression": "spark",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a small sign of romantic attraction between two people",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c09_u015",
+      "answer": "spark",
+      "responseUid": null,
+      "options": [
+        "spark",
+        "crowd",
+        "fuel",
+        "shade"
+      ]
+    }
+  ]
+},
 
-  { "expression": "clue someone in", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to give someone information they do not have yet",
-    "exchanges": [ { "uid": "s07_e07_c09_u020", "answer": "clue him in",
-      "options": ["clue him in", "tune him out", "fill him up", "hand him over"] } ] },
+{
+  "expression": "clue someone in",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to give someone information they do not have yet",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c09_u020",
+      "answer": "clue him in",
+      "options": [
+        "clue him in",
+        "tune him out",
+        "fill him up",
+        "hand him over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "brush up on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to improve your knowledge of something you learned before",
-    "exchanges": [ { "uid": "s07_e07_c10_u006", "answer": "brush up on",
-      "options": ["brush up on", "make up for", "catch up with", "put up with"] } ] },
+{
+  "expression": "brush up on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to improve your knowledge of something you learned before",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c10_u006",
+      "answer": "brush up on",
+      "options": [
+        "brush up on",
+        "make up for",
+        "catch up with",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "loner", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a person who prefers to be alone and avoids close relationships",
-    "exchanges": [ { "uid": "s07_e07_c11_u012", "answer": "loner", "responseUid": null,
-      "options": ["loner", "leader", "learner", "lawyer"] } ] },
+{
+  "expression": "loner",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who prefers to be alone and avoids close relationships",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c11_u012",
+      "answer": "loner",
+      "responseUid": null,
+      "options": [
+        "loner",
+        "leader",
+        "learner",
+        "lawyer"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hotbed", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a place where a lot of a particular activity happens",
-    "exchanges": [ { "uid": "s07_e07_c12_u023", "answer": "hotbed",
-      "options": ["hotbed", "bedrock", "hotline", "headline"] } ] },
+{
+  "expression": "hotbed",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a place where a lot of a particular activity happens",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c12_u023",
+      "answer": "hotbed",
+      "options": [
+        "hotbed",
+        "bedrock",
+        "hotline",
+        "headline"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hypoallergenic", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "unlikely to cause an allergic reaction",
-    "exchanges": [ { "uid": "s07_e07_c12_u025", "answer": "hypoallergenic",
-      "options": ["hypoallergenic", "hyperactive", "biodegradable", "antisocial"] } ] },
+{
+  "expression": "hypoallergenic",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unlikely to cause an allergic reaction",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c12_u025",
+      "answer": "hypoallergenic",
+      "options": [
+        "hypoallergenic",
+        "hyperactive",
+        "biodegradable",
+        "antisocial"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have feelings for", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be romantically attracted to someone",
-    "exchanges": [ { "uid": "s07_e07_c12_u029", "answer": "has feelings for",
-      "options": ["has feelings for", "has room for", "has plans for", "has use for"] } ] },
+{
+  "expression": "have feelings for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be romantically attracted to someone",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c12_u029",
+      "answer": "has feelings for",
+      "options": [
+        "has feelings for",
+        "has room for",
+        "has plans for",
+        "has use for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "don't sweat it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to tell someone not to worry about something",
-    "exchanges": [ { "uid": "s07_e07_c13_u002", "answer": "Don't sweat it",
-      "options": ["Don't sweat it", "Don't push it", "Don't blow it", "Don't buy it"] } ] }
+{
+  "expression": "don't sweat it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone not to worry about something",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c13_u002",
+      "answer": "Don't sweat it",
+      "options": [
+        "Don't sweat it",
+        "Don't push it",
+        "Don't blow it",
+        "Don't buy it"
+      ]
+    }
+  ]
+}
 ]

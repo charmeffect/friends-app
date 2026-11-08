@@ -1,126 +1,509 @@
 [
-  { "expression": "what's the matter", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "what is wrong; asked when someone seems upset",
-    "exchanges": [ { "uid": "s03_e11_c02_u003", "answer": "what's the matter",
-      "options": ["what's the matter", "what's the point", "what's the time", "what's the rush"] } ] },
+{
+  "expression": "what's the matter",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "what is wrong; asked when someone seems upset",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c02_u003",
+      "answer": "what's the matter",
+      "options": [
+        "what's the matter",
+        "what's the point",
+        "what's the time",
+        "what's the rush"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a walk", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to go for a short walk, usually to talk or relax",
-    "exchanges": [ { "uid": "s03_e11_c08_u014", "answer": "take a walk",
-      "options": ["take a walk", "make a walk", "do a walk", "go a walk"] } ] },
+{
+  "expression": "take a walk",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go for a short walk, usually to talk or relax",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c08_u014",
+      "answer": "take a walk",
+      "options": [
+        "take a walk",
+        "make a walk",
+        "do a walk",
+        "go a walk"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go ahead", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to give someone permission to do what they asked",
-    "exchanges": [ { "uid": "s03_e11_c12_u036", "answer": "go ahead",
-      "options": ["go ahead", "go along", "go over", "go away"] } ] },
+{
+  "expression": "go ahead",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to give someone permission to do what they asked",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c12_u036",
+      "answer": "go ahead",
+      "options": [
+        "go ahead",
+        "go along",
+        "go over",
+        "go away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep it down", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be quieter so as not to disturb others",
-    "exchanges": [ { "uid": "s03_e11_c01_u016", "answer": "keep it down",
-      "options": ["keep it down", "keep it up", "take it down", "put it off"] } ] },
+{
+  "expression": "keep it down",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be quieter so as not to disturb others",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c01_u016",
+      "answer": "keep it down",
+      "options": [
+        "keep it down",
+        "keep it up",
+        "take it down",
+        "put it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be my guest", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to let someone do what they want, often when you doubt it will work",
-    "exchanges": [ { "uid": "s03_e11_c01_u017", "answer": "be my guest",
-      "options": ["be my guest", "be my friend", "be my judge", "be my host"] } ] },
+{
+  "expression": "be my guest",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to let someone do what they want, often when you doubt it will work",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c01_u017",
+      "answer": "be my guest",
+      "options": [
+        "be my guest",
+        "be my friend",
+        "be my judge",
+        "be my host"
+      ]
+    }
+  ]
+},
 
-  { "expression": "potential", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "the ability someone has to become successful or skilled in the future",
-    "exchanges": [ { "uid": "s03_e11_c03_u010", "answer": "potential",
-      "options": ["potential", "posture", "pension", "paycheck"] } ] },
+{
+  "expression": "potential",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the ability someone has to become successful or skilled in the future",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c03_u010",
+      "answer": "potential",
+      "options": [
+        "potential",
+        "posture",
+        "pension",
+        "paycheck"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invent something, such as a rule or a story, that is not true",
-    "exchanges": [ { "uid": "s03_e11_c11_u013", "answer": "made up",
-      "options": ["made up", "made out", "put up", "set up"] } ] },
+{
+  "expression": "make up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invent something, such as a rule or a story, that is not true",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c11_u013",
+      "answer": "made up",
+      "options": [
+        "made up",
+        "made out",
+        "put up",
+        "set up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something important or worth worrying about",
-    "exchanges": [ { "uid": "s03_e11_c12_u029", "answer": "no big deal",
-      "options": ["no big deal", "no hard feelings", "no great loss", "no small matter"] } ] },
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c12_u029",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no hard feelings",
+        "no great loss",
+        "no small matter"
+      ]
+    }
+  ]
+},
 
-  { "expression": "been there", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show you have had the same unpleasant experience yourself",
-    "exchanges": [ { "uid": "s03_e11_c04_u011", "answer": "been there",
-      "options": ["been there", "gone there", "stayed there", "lived there"] } ] },
+{
+  "expression": "been there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you have had the same unpleasant experience yourself",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c04_u011",
+      "answer": "been there",
+      "options": [
+        "been there",
+        "gone there",
+        "stayed there",
+        "lived there"
+      ]
+    }
+  ]
+},
 
-  { "expression": "total stranger", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a person you have never met or known at all",
-    "exchanges": [ { "uid": "s03_e11_c05_u026", "answer": "total stranger", "cueUid": "s03_e11_c05_u024",
-      "options": ["total stranger", "total outsider", "total foreigner", "total newcomer"] } ] },
+{
+  "expression": "total stranger",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person you have never met or known at all",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c05_u026",
+      "answer": "total stranger",
+      "cueUid": "s03_e11_c05_u024",
+      "options": [
+        "total stranger",
+        "total outsider",
+        "total foreigner",
+        "total newcomer"
+      ]
+    }
+  ]
+},
 
-  { "expression": "screw up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to ruin something by making a bad mistake",
-    "exchanges": [ { "uid": "s03_e11_c02_u017", "answer": "screwed up", "responseUid": null,
-      "options": ["screwed up", "screwed over", "showed up", "summed up"] } ] },
+{
+  "expression": "screw up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ruin something by making a bad mistake",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c02_u017",
+      "answer": "screwed up",
+      "responseUid": null,
+      "options": [
+        "screwed up",
+        "screwed over",
+        "showed up",
+        "summed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you got me", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to admit that someone has guessed correctly what you were thinking or doing",
-    "exchanges": [ { "uid": "s03_e11_c03_u009", "answer": "you got me", "cueUid": "s03_e11_c03_u006",
-      "options": ["you got me", "you had me", "you lost me", "you heard me"] } ] },
+{
+  "expression": "you got me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to admit that someone has guessed correctly what you were thinking or doing",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c03_u009",
+      "answer": "you got me",
+      "cueUid": "s03_e11_c03_u006",
+      "options": [
+        "you got me",
+        "you had me",
+        "you lost me",
+        "you heard me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stick it out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to keep doing something unpleasant until it is finished rather than quitting",
-    "exchanges": [ { "uid": "s03_e11_c04_u004", "answer": "stick it out", "cueUid": "s03_e11_c04_u002",
-      "options": ["stick it out", "stick it up", "put it out", "take it out"] } ] },
+{
+  "expression": "stick it out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep doing something unpleasant until it is finished rather than quitting",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c04_u004",
+      "answer": "stick it out",
+      "cueUid": "s03_e11_c04_u002",
+      "options": [
+        "stick it out",
+        "stick it up",
+        "put it out",
+        "take it out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fool around", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to kiss or have casual sexual contact with someone",
-    "exchanges": [ { "uid": "s03_e11_c06_u013", "answer": "fooled around",
-      "options": ["fooled around", "stuck around", "turned around", "walked around"] } ] },
+{
+  "expression": "fool around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kiss or have casual sexual contact with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c06_u013",
+      "answer": "fooled around",
+      "options": [
+        "fooled around",
+        "stuck around",
+        "turned around",
+        "walked around"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tick off", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone annoyed or angry",
-    "exchanges": [ { "uid": "s03_e11_c10_u005", "answer": "tick her off",
-      "options": ["tick her off", "tick her out", "pick her off", "kick her off"] } ] },
+{
+  "expression": "tick off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone annoyed or angry",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c10_u005",
+      "answer": "tick her off",
+      "options": [
+        "tick her off",
+        "tick her out",
+        "pick her off",
+        "kick her off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bummer", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a disappointing or annoying situation, often said as a reaction to bad news",
-    "exchanges": [ { "uid": "s03_e11_c11_u003", "answer": "Bummer",
-      "options": ["Bummer", "Boomer", "Bumper", "Bouncer"] } ] },
+{
+  "expression": "bummer",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a disappointing or annoying situation, often said as a reaction to bad news",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c11_u003",
+      "answer": "Bummer",
+      "options": [
+        "Bummer",
+        "Boomer",
+        "Bumper",
+        "Bouncer"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pushy", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "too eager to get what you want in a way that annoys other people",
-    "exchanges": [ { "uid": "s03_e11_c11_u007", "answer": "pushy", "responseUid": "s03_e11_c11_u009",
-      "options": ["pushy", "picky", "preachy", "pricey"] } ] },
+{
+  "expression": "pushy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "too eager to get what you want in a way that annoys other people",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c11_u007",
+      "answer": "pushy",
+      "responseUid": "s03_e11_c11_u009",
+      "options": [
+        "pushy",
+        "picky",
+        "preachy",
+        "pricey"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay one's dues", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to do hard, low-level work for a long time in order to earn the position you want",
-    "exchanges": [ { "uid": "s03_e11_c04_u006", "answer": "paying my dues",
-      "options": ["paying my dues", "paying my bills", "paying my debts", "paying my taxes"] } ] },
+{
+  "expression": "pay one's dues",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to do hard, low-level work for a long time in order to earn the position you want",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c04_u006",
+      "answer": "paying my dues",
+      "options": [
+        "paying my dues",
+        "paying my bills",
+        "paying my debts",
+        "paying my taxes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jump the gun", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to act or speak too soon, before the right moment",
-    "exchanges": [ { "uid": "s03_e11_c12_u018", "answer": "jumped the gun",
-      "options": ["jumped the gun", "jumped the ship", "jumped the line", "jumped the fence"] } ] },
+{
+  "expression": "jump the gun",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to act or speak too soon, before the right moment",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c12_u018",
+      "answer": "jumped the gun",
+      "options": [
+        "jumped the gun",
+        "jumped the ship",
+        "jumped the line",
+        "jumped the fence"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let someone down easy", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to reject someone gently so that they are not hurt too much",
-    "exchanges": [ { "uid": "s03_e11_c09_u004", "answer": "let her down easy",
-      "options": ["let her down easy", "let her off easy", "put her down easy", "set her down easy"] } ] },
+{
+  "expression": "let someone down easy",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to reject someone gently so that they are not hurt too much",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c09_u004",
+      "answer": "let her down easy",
+      "options": [
+        "let her down easy",
+        "let her off easy",
+        "put her down easy",
+        "set her down easy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "eavesdrop", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to secretly listen to other people's conversation",
-    "exchanges": [ { "uid": "s03_e11_c14_u005", "answer": "eavesdropping", "responseUid": "s03_e11_c14_u007",
-      "options": ["eavesdropping", "overreacting", "exaggerating", "daydreaming"] } ] },
+{
+  "expression": "eavesdrop",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to secretly listen to other people's conversation",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c14_u005",
+      "answer": "eavesdropping",
+      "responseUid": "s03_e11_c14_u007",
+      "options": [
+        "eavesdropping",
+        "overreacting",
+        "exaggerating",
+        "daydreaming"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over yourself", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "stop thinking that you and your feelings are more important than they really are",
-    "exchanges": [ { "uid": "s03_e11_c11_u032", "answer": "get over yourself", "cueUid": "s03_e11_c11_u030",
-      "options": ["get over yourself", "get off yourself", "get out yourself", "get by yourself"] } ] },
+{
+  "expression": "get over yourself",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "stop thinking that you and your feelings are more important than they really are",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c11_u032",
+      "answer": "get over yourself",
+      "cueUid": "s03_e11_c11_u030",
+      "options": [
+        "get over yourself",
+        "get off yourself",
+        "get out yourself",
+        "get by yourself"
+      ]
+    }
+  ]
+},
 
-  { "expression": "if it's any consolation", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said before mentioning something that may make a person feel slightly better about a disappointment",
-    "exchanges": [ { "uid": "s03_e11_c14_u018", "answer": "if it's any consolation", "responseUid": null,
-      "options": ["if it's any consolation", "if it's any convenience", "if it's any trouble", "if it's any concern"] } ] },
+{
+  "expression": "if it's any consolation",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said before mentioning something that may make a person feel slightly better about a disappointment",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c14_u018",
+      "answer": "if it's any consolation",
+      "responseUid": null,
+      "options": [
+        "if it's any consolation",
+        "if it's any convenience",
+        "if it's any trouble",
+        "if it's any concern"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hammered", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "very drunk",
-    "exchanges": [ { "uid": "s03_e11_c05_u040", "answer": "hammered",
-      "options": ["hammered", "hampered", "haunted", "hardened"] } ] },
+{
+  "expression": "hammered",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "very drunk",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c05_u040",
+      "answer": "hammered",
+      "options": [
+        "hammered",
+        "hampered",
+        "haunted",
+        "hardened"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gassy", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "having a lot of gas in the stomach, which causes discomfort",
-    "exchanges": [ { "uid": "s03_e11_c03_u004", "answer": "gassy",
-      "options": ["gassy", "glossy", "greasy", "gritty"] } ] }
+{
+  "expression": "gassy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having a lot of gas in the stomach, which causes discomfort",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c03_u004",
+      "answer": "gassy",
+      "options": [
+        "gassy",
+        "glossy",
+        "greasy",
+        "gritty"
+      ]
+    }
+  ]
+}
 ]

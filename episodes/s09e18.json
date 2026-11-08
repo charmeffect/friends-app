@@ -62,7 +62,7 @@
 {
   "expression": "pitch in",
   "type": "phrase",
-  "level": "middle",
+  "level": "high",
   "pos": "verb",
   "meaning": "to contribute money or effort to something shared by a group",
   "exchanges": [
@@ -102,7 +102,7 @@
 {
   "expression": "throw in",
   "type": "phrase",
-  "level": "middle",
+  "level": "high",
   "pos": "verb",
   "meaning": "to add money as your share of a group payment",
   "exchanges": [
@@ -382,7 +382,7 @@
 {
   "expression": "the odds",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "noun",
   "meaning": "the probability that something will happen",
   "exchanges": [
@@ -432,7 +432,7 @@
 {
   "expression": "principles",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "noun",
   "meaning": "moral rules or beliefs that guide how you behave",
   "exchanges": [
@@ -492,7 +492,7 @@
 {
   "expression": "skittish",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "adjective",
   "meaning": "nervous and easily frightened",
   "exchanges": [

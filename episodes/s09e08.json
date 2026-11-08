@@ -1,126 +1,503 @@
 [
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s09_e08_c01_u066", "answer": "come up with",
-      "options": ["come up with", "put up with", "catch up with", "keep up with"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u066",
+      "answer": "come up with",
+      "options": [
+        "come up with",
+        "put up with",
+        "catch up with",
+        "keep up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang on", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "wait a moment",
-    "exchanges": [ { "uid": "s09_e08_c01_u074", "answer": "Hang on",
-      "options": ["Hang on", "Hang up", "Turn on", "Hang out"] } ] },
+{
+  "expression": "hang on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u074",
+      "answer": "Hang on",
+      "options": [
+        "Hang on",
+        "Hang up",
+        "Turn on",
+        "Hang out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to look after someone who needs help",
-    "exchanges": [ { "uid": "s09_e08_c01_u240", "answer": "take care of",
-      "options": ["take care of", "take part in", "make fun of", "run out of"] } ] },
+{
+  "expression": "take care of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to look after someone who needs help",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u240",
+      "answer": "take care of",
+      "options": [
+        "take care of",
+        "take part in",
+        "make fun of",
+        "run out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have a strong, often secret, romantic attraction to someone",
-    "exchanges": [ { "uid": "s09_e08_c01_u048", "answer": "crush on",
-      "options": ["crush on", "claim on", "hold on", "lock on"] } ] },
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u048",
+      "answer": "crush on",
+      "options": [
+        "crush on",
+        "claim on",
+        "hold on",
+        "lock on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "creepy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "making you feel uneasy or slightly frightened in an unpleasant way",
-    "exchanges": [ { "uid": "s09_e08_c01_u048", "answer": "creepy",
-      "options": ["creepy", "crunchy", "crispy", "creamy"] } ] },
+{
+  "expression": "creepy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel uneasy or slightly frightened in an unpleasant way",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u048",
+      "answer": "creepy",
+      "options": [
+        "creepy",
+        "crunchy",
+        "crispy",
+        "creamy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no offense", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said before a remark to show you do not mean to insult the listener",
-    "exchanges": [ { "uid": "s09_e08_c01_u054", "answer": "no offense",
-      "options": ["no offense", "no wonder", "no kidding", "no problem"] } ] },
+{
+  "expression": "no offense",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before a remark to show you do not mean to insult the listener",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u054",
+      "answer": "no offense",
+      "options": [
+        "no offense",
+        "no wonder",
+        "no kidding",
+        "no problem"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stink at", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to be very bad at doing something",
-    "exchanges": [ { "uid": "s09_e08_c01_u062", "answer": "stink at",
-      "options": ["stink at", "stick to", "sink into", "stare at"] } ] },
+{
+  "expression": "stink at",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very bad at doing something",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u062",
+      "answer": "stink at",
+      "options": [
+        "stink at",
+        "stick to",
+        "sink into",
+        "stare at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "look forward to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to feel pleased and excited about something that is going to happen",
-    "exchanges": [ { "uid": "s09_e08_c01_u086", "answer": "looking forward to",
-      "options": ["looking forward to", "looking down on", "looking out for", "looking back on"] } ] },
+{
+  "expression": "look forward to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel pleased and excited about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u086",
+      "answer": "looking forward to",
+      "options": [
+        "looking forward to",
+        "looking down on",
+        "looking out for",
+        "looking back on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in private", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "with only the people involved present, away from others",
-    "exchanges": [ { "uid": "s09_e08_c01_u087", "answer": "in private",
-      "options": ["in private", "in public", "in time", "in turn"] } ] },
+{
+  "expression": "in private",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "with only the people involved present, away from others",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u087",
+      "answer": "in private",
+      "options": [
+        "in private",
+        "in public",
+        "in time",
+        "in turn"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take it back", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to withdraw something you have just said, as if you had never said it",
-    "exchanges": [ { "uid": "s09_e08_c01_u217", "answer": "take that back", "responseUid": "s09_e08_c01_u220",
-      "options": ["take that back", "put that down", "turn that off", "give that up"] } ] },
+{
+  "expression": "take it back",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to withdraw something you have just said, as if you had never said it",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u217",
+      "answer": "take that back",
+      "responseUid": "s09_e08_c01_u220",
+      "options": [
+        "take that back",
+        "put that down",
+        "turn that off",
+        "give that up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a hint", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to understand something that is suggested indirectly, such as that you are not wanted",
-    "exchanges": [ { "uid": "s09_e08_c01_u004", "answer": "take the hint",
-      "options": ["take the hint", "make the call", "drop the ball", "miss the point"] } ] },
+{
+  "expression": "take a hint",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to understand something that is suggested indirectly, such as that you are not wanted",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u004",
+      "answer": "take the hint",
+      "options": [
+        "take the hint",
+        "make the call",
+        "drop the ball",
+        "miss the point"
+      ]
+    }
+  ]
+},
 
-  { "expression": "prove someone wrong", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to show that what someone believed or said about you was not true",
-    "exchanges": [ { "uid": "s09_e08_c01_u019", "answer": "proved them wrong",
-      "options": ["proved them wrong", "told them off", "paid them back", "showed them around"] } ] },
+{
+  "expression": "prove someone wrong",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show that what someone believed or said about you was not true",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u019",
+      "answer": "proved them wrong",
+      "options": [
+        "proved them wrong",
+        "told them off",
+        "paid them back",
+        "showed them around"
+      ]
+    }
+  ]
+},
 
-  { "expression": "makeover", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a complete change to someone's appearance, such as new hair, make-up, and clothes",
-    "exchanges": [ { "uid": "s09_e08_c01_u116", "answer": "makeover",
-      "options": ["makeover", "takeover", "leftover", "hangover"] } ] },
+{
+  "expression": "makeover",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a complete change to someone's appearance, such as new hair, make-up, and clothes",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u116",
+      "answer": "makeover",
+      "options": [
+        "makeover",
+        "takeover",
+        "leftover",
+        "hangover"
+      ]
+    }
+  ]
+},
 
-  { "expression": "slap in the face", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "an action that insults or disappoints someone badly",
-    "exchanges": [ { "uid": "s09_e08_c01_u139", "answer": "slap in the face",
-      "options": ["slap in the face", "pat on the back", "piece of cake", "drop in the bucket"] } ] },
+{
+  "expression": "slap in the face",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an action that insults or disappoints someone badly",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u139",
+      "answer": "slap in the face",
+      "options": [
+        "slap in the face",
+        "pat on the back",
+        "piece of cake",
+        "drop in the bucket"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take it out on", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to treat someone or something badly because you are upset about something else",
-    "exchanges": [ { "uid": "s09_e08_c01_u144", "answer": "take it out on",
-      "options": ["take it out on", "hand it over to", "put it down to", "pass it on to"] } ] },
+{
+  "expression": "take it out on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to treat someone or something badly because you are upset about something else",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u144",
+      "answer": "take it out on",
+      "options": [
+        "take it out on",
+        "hand it over to",
+        "put it down to",
+        "pass it on to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let me get this straight", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said before repeating something to make sure you have understood it correctly",
-    "exchanges": [ { "uid": "s09_e08_c01_u166", "answer": "get this straight",
-      "options": ["get this straight", "get this over", "get this started", "get this done"] } ] },
+{
+  "expression": "let me get this straight",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before repeating something to make sure you have understood it correctly",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u166",
+      "answer": "get this straight",
+      "options": [
+        "get this straight",
+        "get this over",
+        "get this started",
+        "get this done"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bring it on", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to accept a challenge confidently",
-    "exchanges": [ { "uid": "s09_e08_c01_u225", "answer": "Bring it on",
-      "options": ["Bring it on", "Get it over", "Turn it off", "Take it in"] } ] },
+{
+  "expression": "bring it on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to accept a challenge confidently",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u225",
+      "answer": "Bring it on",
+      "options": [
+        "Bring it on",
+        "Get it over",
+        "Turn it off",
+        "Take it in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "act your age", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to behave in the mature way expected of someone as old as you",
-    "exchanges": [ { "uid": "s09_e08_c01_u234", "answer": "act your age",
-      "options": ["act your age", "pay your rent", "break your fall", "make your bed"] } ] },
+{
+  "expression": "act your age",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to behave in the mature way expected of someone as old as you",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u234",
+      "answer": "act your age",
+      "options": [
+        "act your age",
+        "pay your rent",
+        "break your fall",
+        "make your bed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "buy", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to believe a story or excuse that may not be true",
-    "exchanges": [ { "uid": "s09_e08_c02_u009", "answer": "bought",
-      "options": ["bought", "sold", "owned", "spent"] } ] },
+{
+  "expression": "buy",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to believe a story or excuse that may not be true",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c02_u009",
+      "answer": "bought",
+      "options": [
+        "bought",
+        "sold",
+        "owned",
+        "spent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make one's peace with", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to accept a painful situation and stop feeling upset about it",
-    "exchanges": [ { "uid": "s09_e08_c01_u093", "answer": "make our peace with", "responseUid": null,
-      "options": ["make our peace with", "make our way to", "put our foot in", "keep our eyes on"] } ] },
+{
+  "expression": "make one's peace with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to accept a painful situation and stop feeling upset about it",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u093",
+      "answer": "make our peace with",
+      "responseUid": null,
+      "options": [
+        "make our peace with",
+        "make our way to",
+        "put our foot in",
+        "keep our eyes on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rise to the occasion", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to deal successfully with a difficult situation by doing better than expected",
-    "exchanges": [ { "uid": "s09_e08_c01_u116", "answer": "rise to the occasion",
-      "options": ["rise to the occasion", "fall into place", "run out of time", "jump to conclusions"] } ] },
+{
+  "expression": "rise to the occasion",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to deal successfully with a difficult situation by doing better than expected",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u116",
+      "answer": "rise to the occasion",
+      "options": [
+        "rise to the occasion",
+        "fall into place",
+        "run out of time",
+        "jump to conclusions"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grow into", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to gradually become able to handle a role or responsibility well",
-    "exchanges": [ { "uid": "s09_e08_c01_u172", "answer": "grow into it",
-      "options": ["grow into it", "grow out of it", "get over it", "give up on it"] } ] },
+{
+  "expression": "grow into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to gradually become able to handle a role or responsibility well",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u172",
+      "answer": "grow into it",
+      "options": [
+        "grow into it",
+        "grow out of it",
+        "get over it",
+        "give up on it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "disregard", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a lack of attention or care for something that should be considered",
-    "exchanges": [ { "uid": "s09_e08_c01_u208", "answer": "disregard",
-      "options": ["disregard", "disguise", "discharge", "dismissal"] } ] },
+{
+  "expression": "disregard",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a lack of attention or care for something that should be considered",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u208",
+      "answer": "disregard",
+      "options": [
+        "disregard",
+        "disguise",
+        "discharge",
+        "dismissal"
+      ]
+    }
+  ]
+},
 
-  { "expression": "so-called", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "used to show you think a name or description is not deserved",
-    "exchanges": [ { "uid": "s09_e08_c01_u213", "answer": "so-called",
-      "options": ["so-called", "well-known", "short-lived", "hard-working"] } ] },
+{
+  "expression": "so-called",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "used to show you think a name or description is not deserved",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u213",
+      "answer": "so-called",
+      "options": [
+        "so-called",
+        "well-known",
+        "short-lived",
+        "hard-working"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crazed", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "extremely busy and frantic, with no time for anything else",
-    "exchanges": [ { "uid": "s09_e08_c01_u034", "answer": "crazed",
-      "options": ["crazed", "grazed", "phrased", "glazed"] } ] }
+{
+  "expression": "crazed",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "extremely busy and frantic, with no time for anything else",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u034",
+      "answer": "crazed",
+      "options": [
+        "crazed",
+        "grazed",
+        "phrased",
+        "glazed"
+      ]
+    }
+  ]
+}
 ]

@@ -1,124 +1,498 @@
 [
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to give someone help, especially in a difficult situation",
-    "exchanges": [ { "uid": "s06_e21_c02_u016", "answer": "help me out",
-      "options": ["help me out", "let me down", "hold me back", "turn me in"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c02_u016",
+      "answer": "help me out",
+      "options": [
+        "help me out",
+        "let me down",
+        "hold me back",
+        "turn me in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take your time", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to tell someone there is no need to hurry",
-    "exchanges": [ { "uid": "s06_e21_c12_u006", "answer": "take your time",
-      "options": ["take your time", "make your way", "hold your tongue", "mind your step"] } ] },
+{
+  "expression": "take your time",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell someone there is no need to hurry",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c12_u006",
+      "answer": "take your time",
+      "options": [
+        "take your time",
+        "make your way",
+        "hold your tongue",
+        "mind your step"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass away", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to die, said as a gentler way of putting it",
-    "exchanges": [ { "uid": "s06_e21_c04_u030", "answer": "passed away", "responseUid": "s06_e21_c04_u032",
-      "options": ["passed away", "passed out", "passed by", "passed up"] } ] },
+{
+  "expression": "pass away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to die, said as a gentler way of putting it",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c04_u030",
+      "answer": "passed away",
+      "responseUid": "s06_e21_c04_u032",
+      "options": [
+        "passed away",
+        "passed out",
+        "passed by",
+        "passed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have had enough of", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be unable to tolerate something any longer",
-    "exchanges": [ { "uid": "s06_e21_c15_u006", "answer": "had enough of",
-      "options": ["had enough of", "run out of", "made fun of", "taken care of"] } ] },
+{
+  "expression": "have had enough of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be unable to tolerate something any longer",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c15_u006",
+      "answer": "had enough of",
+      "options": [
+        "had enough of",
+        "run out of",
+        "made fun of",
+        "taken care of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "nice catch", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to praise someone for noticing a mistake or important detail",
-    "exchanges": [ { "uid": "s06_e21_c16_u004", "answer": "Nice catch", "responseUid": null,
-      "options": ["Nice catch", "Good luck", "Bad call", "Fair game"] } ] },
+{
+  "expression": "nice catch",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to praise someone for noticing a mistake or important detail",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c16_u004",
+      "answer": "Nice catch",
+      "responseUid": null,
+      "options": [
+        "Nice catch",
+        "Good luck",
+        "Bad call",
+        "Fair game"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I beg your pardon", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "a polite or shocked way of asking someone to explain or repeat what they just said",
-    "exchanges": [ { "uid": "s06_e21_c12_u013", "answer": "beg your pardon",
-      "options": ["beg your pardon", "need your help", "take your word", "earn your trust"] } ] },
+{
+  "expression": "I beg your pardon",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite or shocked way of asking someone to explain or repeat what they just said",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c12_u013",
+      "answer": "beg your pardon",
+      "options": [
+        "beg your pardon",
+        "need your help",
+        "take your word",
+        "earn your trust"
+      ]
+    }
+  ]
+},
 
-  { "expression": "knock over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to hit something so that it falls down",
-    "exchanges": [ { "uid": "s06_e21_c07_u008", "answer": "knock over",
-      "options": ["knock over", "think over", "talk over", "sleep over"] } ] },
+{
+  "expression": "knock over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to hit something so that it falls down",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c07_u008",
+      "answer": "knock over",
+      "options": [
+        "knock over",
+        "think over",
+        "talk over",
+        "sleep over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "compliment", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "something nice you say to praise or admire someone",
-    "exchanges": [ { "uid": "s06_e21_c05_u012", "answer": "compliment", "responseUid": null,
-      "options": ["compliment", "complement", "complaint", "comparison"] } ] },
+{
+  "expression": "compliment",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "something nice you say to praise or admire someone",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c05_u012",
+      "answer": "compliment",
+      "responseUid": null,
+      "options": [
+        "compliment",
+        "complement",
+        "complaint",
+        "comparison"
+      ]
+    }
+  ]
+},
 
-  { "expression": "psyched", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "very excited and enthusiastic about something",
-    "exchanges": [ { "uid": "s06_e21_c01_u014", "answer": "psyched", "responseUid": "s06_e21_c01_u016",
-      "options": ["psyched", "spooked", "swamped", "stumped"] } ] },
+{
+  "expression": "psyched",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very excited and enthusiastic about something",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c01_u014",
+      "answer": "psyched",
+      "responseUid": "s06_e21_c01_u016",
+      "options": [
+        "psyched",
+        "spooked",
+        "swamped",
+        "stumped"
+      ]
+    }
+  ]
+},
 
-  { "expression": "judge a book by its cover", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to form an opinion about something based only on how it looks from the outside",
-    "exchanges": [ { "uid": "s06_e21_c02_u002", "answer": "covers",
-      "options": ["covers", "shelves", "margins", "indexes"] } ] },
+{
+  "expression": "judge a book by its cover",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to form an opinion about something based only on how it looks from the outside",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c02_u002",
+      "answer": "covers",
+      "options": [
+        "covers",
+        "shelves",
+        "margins",
+        "indexes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pop into one's head", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to come into someone's mind suddenly, without being planned",
-    "exchanges": [ { "uid": "s06_e21_c04_u033", "answer": "pops into your head",
-      "options": ["pops into your head", "slips your mind", "gets on your nerves", "goes over your head"] } ] },
+{
+  "expression": "pop into one's head",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to come into someone's mind suddenly, without being planned",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c04_u033",
+      "answer": "pops into your head",
+      "options": [
+        "pops into your head",
+        "slips your mind",
+        "gets on your nerves",
+        "goes over your head"
+      ]
+    }
+  ]
+},
 
-  { "expression": "creep out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone feel uneasy or scared",
-    "exchanges": [ { "uid": "s06_e21_c05_u003", "answer": "creeps you out", "responseUid": null,
-      "options": ["creeps you out", "fills you in", "checks you out", "sizes you up"] } ] },
+{
+  "expression": "creep out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone feel uneasy or scared",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c05_u003",
+      "answer": "creeps you out",
+      "responseUid": null,
+      "options": [
+        "creeps you out",
+        "fills you in",
+        "checks you out",
+        "sizes you up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "attitude", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "rude, uncooperative, or unfriendly behaviour toward someone",
-    "exchanges": [ { "uid": "s06_e21_c07_u006", "answer": "attitude",
-      "options": ["attitude", "altitude", "aptitude", "gratitude"] } ] },
+{
+  "expression": "attitude",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "rude, uncooperative, or unfriendly behaviour toward someone",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c07_u006",
+      "answer": "attitude",
+      "options": [
+        "attitude",
+        "altitude",
+        "aptitude",
+        "gratitude"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn on the charm", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to start behaving in a deliberately pleasant way to win someone's approval",
-    "exchanges": [ { "uid": "s06_e21_c10_u006", "answer": "turn on the charm",
-      "options": ["turn on the charm", "lay down the law", "pick up the tab", "hit the books"] } ] },
+{
+  "expression": "turn on the charm",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to start behaving in a deliberately pleasant way to win someone's approval",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c10_u006",
+      "answer": "turn on the charm",
+      "options": [
+        "turn on the charm",
+        "lay down the law",
+        "pick up the tab",
+        "hit the books"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a taste of one's own medicine", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "the same bad treatment that you have been giving to other people",
-    "exchanges": [ { "uid": "s06_e21_c10_u022", "answer": "medicine", "responseUid": null,
-      "options": ["medicine", "dessert", "candy", "honey"] } ] },
+{
+  "expression": "a taste of one's own medicine",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the same bad treatment that you have been giving to other people",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c10_u022",
+      "answer": "medicine",
+      "responseUid": null,
+      "options": [
+        "medicine",
+        "dessert",
+        "candy",
+        "honey"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lighten the mood", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to make a tense or serious situation feel more relaxed",
-    "exchanges": [ { "uid": "s06_e21_c04_u019", "answer": "lighten the mood",
-      "options": ["lighten the mood", "break the news", "pay the bill", "take the hint"] } ] },
+{
+  "expression": "lighten the mood",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to make a tense or serious situation feel more relaxed",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c04_u019",
+      "answer": "lighten the mood",
+      "options": [
+        "lighten the mood",
+        "break the news",
+        "pay the bill",
+        "take the hint"
+      ]
+    }
+  ]
+},
 
-  { "expression": "well received", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "liked and praised by the people who read, saw, or heard it",
-    "exchanges": [ { "uid": "s06_e21_c02_u005", "answer": "well received",
-      "options": ["well received", "well rested", "well behaved", "well paid"] } ] },
+{
+  "expression": "well received",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "liked and praised by the people who read, saw, or heard it",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c02_u005",
+      "answer": "well received",
+      "options": [
+        "well received",
+        "well rested",
+        "well behaved",
+        "well paid"
+      ]
+    }
+  ]
+},
 
-  { "expression": "state of the art", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "using the newest and most advanced technology or methods",
-    "exchanges": [ { "uid": "s06_e21_c03_u019", "answer": "state of the art",
-      "options": ["state of the art", "out of the question", "off the record", "on the house"] } ] },
+{
+  "expression": "state of the art",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "using the newest and most advanced technology or methods",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c03_u019",
+      "answer": "state of the art",
+      "options": [
+        "state of the art",
+        "out of the question",
+        "off the record",
+        "on the house"
+      ]
+    }
+  ]
+},
 
-  { "expression": "talk up", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to praise someone to other people so they think well of them",
-    "exchanges": [
-      { "uid": "s06_e21_c04_u048", "answer": "talk you up",
-        "options": ["talk you up", "turn you in", "let you down", "call you out"] },
-      { "uid": "s06_e21_c09_u022", "answer": "talk you up",
-        "options": ["talk you up", "turn you in", "let you down", "call you out"] } ] },
+{
+  "expression": "talk up",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to praise someone to other people so they think well of them",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c04_u048",
+      "answer": "talk you up",
+      "options": [
+        "talk you up",
+        "turn you in",
+        "let you down",
+        "call you out"
+      ]
+    },
+    {
+      "uid": "s06_e21_c09_u022",
+      "answer": "talk you up",
+      "options": [
+        "talk you up",
+        "turn you in",
+        "let you down",
+        "call you out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "level with", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to be completely honest with someone",
-    "exchanges": [ { "uid": "s06_e21_c11_u004", "answer": "level with me", "responseUid": null,
-      "options": ["level with me", "mess with me", "play with me", "break with me"] } ] },
+{
+  "expression": "level with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be completely honest with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c11_u004",
+      "answer": "level with me",
+      "responseUid": null,
+      "options": [
+        "level with me",
+        "mess with me",
+        "play with me",
+        "break with me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn of events", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "an unexpected change in a situation",
-    "exchanges": [ { "uid": "s06_e21_c13_u014", "answer": "turn of events",
-      "options": ["turn of events", "piece of cake", "waste of time", "sense of humor"] } ] },
+{
+  "expression": "turn of events",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an unexpected change in a situation",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c13_u014",
+      "answer": "turn of events",
+      "options": [
+        "turn of events",
+        "piece of cake",
+        "waste of time",
+        "sense of humor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hold the phone", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "wait a moment, used jokingly when you have just noticed something surprising",
-    "exchanges": [ { "uid": "s06_e21_c02_u015", "answer": "hold the phone",
-      "options": ["hold the phone", "break the ice", "hit the road", "call the shots"] } ] },
+{
+  "expression": "hold the phone",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "wait a moment, used jokingly when you have just noticed something surprising",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c02_u015",
+      "answer": "hold the phone",
+      "options": [
+        "hold the phone",
+        "break the ice",
+        "hit the road",
+        "call the shots"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the Q.T.", "type": "colloquial", "level": "expert", "pos": "adverb",
-    "meaning": "secretly or quietly, without other people knowing",
-    "exchanges": [ { "uid": "s06_e21_c07_u013", "answer": "on the Q.T.",
-      "options": ["on the Q.T.", "on the rocks", "off the hook", "over the top"] } ] },
+{
+  "expression": "on the Q.T.",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adverb",
+  "meaning": "secretly or quietly, without other people knowing",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c07_u013",
+      "answer": "on the Q.T.",
+      "options": [
+        "on the Q.T.",
+        "on the rocks",
+        "off the hook",
+        "over the top"
+      ]
+    }
+  ]
+},
 
-  { "expression": "inside track", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a special advantage or access that other people do not have",
-    "exchanges": [ { "uid": "s06_e21_c09_u022", "answer": "inside track",
-      "options": ["inside track", "short straw", "cold feet", "last laugh"] } ] }
+{
+  "expression": "inside track",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a special advantage or access that other people do not have",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c09_u022",
+      "answer": "inside track",
+      "options": [
+        "inside track",
+        "short straw",
+        "cold feet",
+        "last laugh"
+      ]
+    }
+  ]
+}
 ]

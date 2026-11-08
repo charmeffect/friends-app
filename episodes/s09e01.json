@@ -1,124 +1,492 @@
 [
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s09_e01_c09_u005", "answer": "finds out",
-      "options": ["finds out", "puts off", "hands in", "takes over"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c09_u005",
+      "answer": "finds out",
+      "options": [
+        "finds out",
+        "puts off",
+        "hands in",
+        "takes over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on my way", "type": "phrase", "level": "elementary", "pos": "expression",
-    "meaning": "in the process of going somewhere",
-    "exchanges": [ { "uid": "s09_e01_c08_u003", "answer": "on my way",
-      "options": ["on my way", "in my place", "at my turn", "by my side"] } ] },
+{
+  "expression": "on my way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "in the process of going somewhere",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c08_u003",
+      "answer": "on my way",
+      "options": [
+        "on my way",
+        "in my place",
+        "at my turn",
+        "by my side"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be cool", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "stay calm and don't make a fuss",
-    "exchanges": [ { "uid": "s09_e01_c10_u039", "answer": "Be cool",
-      "options": ["Be cool", "Be quick", "Be loud", "Be brave"] } ] },
+{
+  "expression": "be cool",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "stay calm and don't make a fuss",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c10_u039",
+      "answer": "Be cool",
+      "options": [
+        "Be cool",
+        "Be quick",
+        "Be loud",
+        "Be brave"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ashamed", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "feeling embarrassed or guilty about something you have or did",
-    "exchanges": [ { "uid": "s09_e01_c07_u003", "answer": "ashamed",
-      "options": ["ashamed", "capable", "fond", "certain"] } ] },
+{
+  "expression": "ashamed",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "feeling embarrassed or guilty about something you have or did",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c07_u003",
+      "answer": "ashamed",
+      "options": [
+        "ashamed",
+        "capable",
+        "fond",
+        "certain"
+      ]
+    }
+  ]
+},
 
-  { "expression": "exhausted", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "extremely tired",
-    "exchanges": [ { "uid": "s09_e01_c06_u012", "answer": "exhausted",
-      "options": ["exhausted", "embarrassed", "impressed", "offended"] } ] },
+{
+  "expression": "exhausted",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely tired",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c06_u012",
+      "answer": "exhausted",
+      "options": [
+        "exhausted",
+        "embarrassed",
+        "impressed",
+        "offended"
+      ]
+    }
+  ]
+},
 
-  { "expression": "frustrating", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "making you feel annoyed because you cannot do or achieve what you want",
-    "exchanges": [ { "uid": "s09_e01_c05_u017", "answer": "frustrating",
-      "options": ["frustrating", "fascinating", "refreshing", "satisfying"] } ] },
+{
+  "expression": "frustrating",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel annoyed because you cannot do or achieve what you want",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c05_u017",
+      "answer": "frustrating",
+      "options": [
+        "frustrating",
+        "fascinating",
+        "refreshing",
+        "satisfying"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lose interest", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop being interested in something",
-    "exchanges": [ { "uid": "s09_e01_c06_u027", "answer": "losing interest",
-      "options": ["losing interest", "taking part", "making sense", "gaining weight"] } ] },
+{
+  "expression": "lose interest",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop being interested in something",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c06_u027",
+      "answer": "losing interest",
+      "options": [
+        "losing interest",
+        "taking part",
+        "making sense",
+        "gaining weight"
+      ]
+    }
+  ]
+},
 
-  { "expression": "slow things down", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make a relationship or situation develop more slowly",
-    "exchanges": [ { "uid": "s09_e01_c10_u055", "answer": "slow things down",
-      "options": ["slow things down", "turn things around", "write things down", "sort things out"] } ] },
+{
+  "expression": "slow things down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a relationship or situation develop more slowly",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c10_u055",
+      "answer": "slow things down",
+      "options": [
+        "slow things down",
+        "turn things around",
+        "write things down",
+        "sort things out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone credit", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to admit that someone has some ability or good qualities",
-    "exchanges": [ { "uid": "s09_e01_c06_u004", "answer": "credit",
-      "options": ["credit", "blame", "notice", "warning"] } ] },
+{
+  "expression": "give someone credit",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to admit that someone has some ability or good qualities",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c06_u004",
+      "answer": "credit",
+      "options": [
+        "credit",
+        "blame",
+        "notice",
+        "warning"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get carried away", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to become so excited or emotional that you lose control of what you do",
-    "exchanges": [ { "uid": "s09_e01_c02_u034", "answer": "carried away",
-      "options": ["carried away", "taken aback", "held back", "worn down"] } ] },
+{
+  "expression": "get carried away",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to become so excited or emotional that you lose control of what you do",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c02_u034",
+      "answer": "carried away",
+      "options": [
+        "carried away",
+        "taken aback",
+        "held back",
+        "worn down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "clear up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make something clear by removing confusion or doubt",
-    "exchanges": [ { "uid": "s09_e01_c02_u033", "answer": "clear things up",
-      "options": ["clear things up", "put things off", "mix things up", "give things up"] } ] },
+{
+  "expression": "clear up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make something clear by removing confusion or doubt",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c02_u033",
+      "answer": "clear things up",
+      "options": [
+        "clear things up",
+        "put things off",
+        "mix things up",
+        "give things up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "talk someone into", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to persuade someone to do something they were not planning to do",
-    "exchanges": [ { "uid": "s09_e01_c03_u007", "answer": "talked him into",
-      "options": ["talked him into", "put him onto", "got him over", "let him down"] } ] },
+{
+  "expression": "talk someone into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to do something they were not planning to do",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c03_u007",
+      "answer": "talked him into",
+      "options": [
+        "talked him into",
+        "put him onto",
+        "got him over",
+        "let him down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "meant to be", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "destined to happen, especially said of a relationship",
-    "exchanges": [ { "uid": "s09_e01_c03_u011", "answer": "meant to be",
-      "options": ["meant to be", "about to be", "used to be", "able to be"] } ] },
+{
+  "expression": "meant to be",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "destined to happen, especially said of a relationship",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c03_u011",
+      "answer": "meant to be",
+      "options": [
+        "meant to be",
+        "about to be",
+        "used to be",
+        "able to be"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rush into", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start doing something too quickly, without thinking carefully",
-    "exchanges": [
-      { "uid": "s09_e01_c06_u030", "answer": "rush into",
-        "options": ["rush into", "break into", "bump into", "run across"] },
-      { "uid": "s09_e01_c10_u054", "answer": "rush into",
-        "options": ["rush into", "break into", "bump into", "run across"] } ] },
+{
+  "expression": "rush into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doing something too quickly, without thinking carefully",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c06_u030",
+      "answer": "rush into",
+      "options": [
+        "rush into",
+        "break into",
+        "bump into",
+        "run across"
+      ]
+    },
+    {
+      "uid": "s09_e01_c10_u054",
+      "answer": "rush into",
+      "options": [
+        "rush into",
+        "break into",
+        "bump into",
+        "run across"
+      ]
+    }
+  ]
+},
 
-  { "expression": "step up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to take action and accept responsibility when something needs to be done",
-    "exchanges": [ { "uid": "s09_e01_c10_u047", "answer": "step up",
-      "options": ["step up", "back down", "run off", "give in"] } ] },
+{
+  "expression": "step up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take action and accept responsibility when something needs to be done",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c10_u047",
+      "answer": "step up",
+      "options": [
+        "step up",
+        "back down",
+        "run off",
+        "give in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "awkward", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "uncomfortable, embarrassing, or clumsy",
-    "exchanges": [ { "uid": "s09_e01_c10_u045", "answer": "awkward",
-      "options": ["awkward", "gorgeous", "elegant", "generous"] } ] },
+{
+  "expression": "awkward",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "uncomfortable, embarrassing, or clumsy",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c10_u045",
+      "answer": "awkward",
+      "options": [
+        "awkward",
+        "gorgeous",
+        "elegant",
+        "generous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it official", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to formally announce or confirm something, such as a relationship or engagement",
-    "exchanges": [ { "uid": "s09_e01_c01_u003", "answer": "make it official",
-      "options": ["make it official", "make it worse", "get it wrong", "let it slide"] } ] },
+{
+  "expression": "make it official",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to formally announce or confirm something, such as a relationship or engagement",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c01_u003",
+      "answer": "make it official",
+      "options": [
+        "make it official",
+        "make it worse",
+        "get it wrong",
+        "let it slide"
+      ]
+    }
+  ]
+},
 
-  { "expression": "conceive", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to become pregnant",
-    "exchanges": [ { "uid": "s09_e01_c07_u017", "answer": "conceive",
-      "options": ["conceive", "deceive", "perceive", "receive"] } ] },
+{
+  "expression": "conceive",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to become pregnant",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c07_u017",
+      "answer": "conceive",
+      "options": [
+        "conceive",
+        "deceive",
+        "perceive",
+        "receive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lukewarm", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "showing little enthusiasm or interest",
-    "exchanges": [ { "uid": "s09_e01_c06_u029", "answer": "lukewarm",
-      "options": ["lukewarm", "waterproof", "overpriced", "second-hand"] } ] },
+{
+  "expression": "lukewarm",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "showing little enthusiasm or interest",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c06_u029",
+      "answer": "lukewarm",
+      "options": [
+        "lukewarm",
+        "waterproof",
+        "overpriced",
+        "second-hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "optimum", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "best or most effective for a particular purpose",
-    "exchanges": [ { "uid": "s09_e01_c07_u021", "answer": "optimum",
-      "options": ["optimum", "ominous", "obsolete", "oblivious"] } ] },
+{
+  "expression": "optimum",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "best or most effective for a particular purpose",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c07_u021",
+      "answer": "optimum",
+      "options": [
+        "optimum",
+        "ominous",
+        "obsolete",
+        "oblivious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "up to the task", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "able and ready to do what is required",
-    "exchanges": [ { "uid": "s09_e01_c07_u023", "answer": "up to the task",
-      "options": ["up to the task", "in on the joke", "out of the loop", "on the same page"] } ] },
+{
+  "expression": "up to the task",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "able and ready to do what is required",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c07_u023",
+      "answer": "up to the task",
+      "options": [
+        "up to the task",
+        "in on the joke",
+        "out of the loop",
+        "on the same page"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be a dear", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "used to ask someone politely and warmly to do you a favor",
-    "exchanges": [ { "uid": "s09_e01_c08_u018", "answer": "be a dear", "responseUid": null,
-      "options": ["be a dear", "be a fool", "be a pain", "be a joke"] } ] },
+{
+  "expression": "be a dear",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to ask someone politely and warmly to do you a favor",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c08_u018",
+      "answer": "be a dear",
+      "responseUid": null,
+      "options": [
+        "be a dear",
+        "be a fool",
+        "be a pain",
+        "be a joke"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go to town", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to do something with great energy and enthusiasm",
-    "exchanges": [ { "uid": "s09_e01_c10_u068", "answer": "going to town",
-      "options": ["going to town", "going to waste", "going to pieces", "going to court"] } ] },
+{
+  "expression": "go to town",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to do something with great energy and enthusiasm",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c10_u068",
+      "answer": "going to town",
+      "options": [
+        "going to town",
+        "going to waste",
+        "going to pieces",
+        "going to court"
+      ]
+    }
+  ]
+},
 
-  { "expression": "puppet master", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a person who secretly controls what other people do",
-    "exchanges": [ { "uid": "s09_e01_c03_u009", "answer": "puppet master",
-      "options": ["puppet master", "party animal", "night owl", "black sheep"] } ] }
+{
+  "expression": "puppet master",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who secretly controls what other people do",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c03_u009",
+      "answer": "puppet master",
+      "options": [
+        "puppet master",
+        "party animal",
+        "night owl",
+        "black sheep"
+      ]
+    }
+  ]
+}
 ]

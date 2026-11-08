@@ -1,51 +1,523 @@
 [
-  {"expression":"stick with","type":"phrase","level":"middle","pos":"verb","meaning":"to keep choosing or using something instead of changing to something else","exchanges":[{"uid":"s08_e04_c01_u003","answer":"sticking with","options":["sticking with","taking after","looking into","running into"]}]},
+{
+  "expression": "stick with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep choosing or using something instead of changing to something else",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c01_u003",
+      "answer": "sticking with",
+      "options": [
+        "sticking with",
+        "taking after",
+        "looking into",
+        "running into"
+      ]
+    }
+  ]
+},
 
-  {"expression":"hang out","type":"phrase","level":"elementary","pos":"verb","meaning":"to spend time relaxing somewhere or with someone","exchanges":[{"uid":"s08_e04_c01_u016","answer":"hang out","options":["hang out","show off","pass out","drop in"]}]},
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c01_u016",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "show off",
+        "pass out",
+        "drop in"
+      ]
+    }
+  ]
+},
 
-  {"expression":"you've got to be kidding me","type":"colloquial","level":"elementary","pos":"expression","meaning":"said to show strong surprise, disbelief, or annoyance at what someone has said or done","exchanges":[{"uid":"s08_e04_c01_u024","answer":"kidding","options":["kidding","missing","hearing","pushing"]}]},
+{
+  "expression": "you've got to be kidding me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show strong surprise, disbelief, or annoyance at what someone has said or done",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c01_u024",
+      "answer": "kidding",
+      "options": [
+        "kidding",
+        "missing",
+        "hearing",
+        "pushing"
+      ]
+    }
+  ]
+},
 
-  {"expression":"sonogram","type":"word","level":"expert","pos":"noun","meaning":"an image of a baby inside the womb made using sound waves","exchanges":[{"uid":"s08_e04_c02_u008","answer":"sonogram","options":["sonogram","telegram","hologram","diagram"]}]},
+{
+  "expression": "sonogram",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an image of a baby inside the womb made using sound waves",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c02_u008",
+      "answer": "sonogram",
+      "options": [
+        "sonogram",
+        "telegram",
+        "hologram",
+        "diagram"
+      ]
+    }
+  ]
+},
 
-  {"expression":"come on to","type":"colloquial","level":"high","pos":"verb","meaning":"to show someone that you are sexually interested in them","exchanges":[{"uid":"s08_e04_c02_u017","answer":"comes on to","options":["comes on to","gets back to","catches up to","puts up with"]},{"uid":"s08_e04_c02_u021","answer":"came on to","options":["came on to","got back to","caught up to","put up with"]},{"uid":"s08_e04_c08_u033","answer":"came on to","options":["came on to","looked up to","ran out on","stood up to"]}]},
+{
+  "expression": "come on to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show someone that you are sexually interested in them",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c02_u017",
+      "answer": "comes on to",
+      "options": [
+        "comes on to",
+        "gets back to",
+        "catches up to",
+        "puts up with"
+      ]
+    },
+    {
+      "uid": "s08_e04_c02_u021",
+      "answer": "came on to",
+      "options": [
+        "came on to",
+        "got back to",
+        "caught up to",
+        "put up with"
+      ]
+    },
+    {
+      "uid": "s08_e04_c08_u033",
+      "answer": "came on to",
+      "options": [
+        "came on to",
+        "looked up to",
+        "ran out on",
+        "stood up to"
+      ]
+    }
+  ]
+},
 
-  {"expression":"misleading","type":"word","level":"high","pos":"adjective","meaning":"giving someone a wrong idea or impression of what really happened","exchanges":[{"uid":"s08_e04_c02_u018","answer":"misleading","options":["misleading","outstanding","rewarding","demanding"]}]},
+{
+  "expression": "misleading",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "giving someone a wrong idea or impression of what really happened",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c02_u018",
+      "answer": "misleading",
+      "options": [
+        "misleading",
+        "outstanding",
+        "rewarding",
+        "demanding"
+      ]
+    }
+  ]
+},
 
-  {"expression":"show of hands","type":"colloquial","level":"high","pos":"noun","meaning":"a quick vote in which people raise their hands to show they agree","exchanges":[{"uid":"s08_e04_c02_u030","answer":"show of hands","options":["show of hands","round of applause","piece of cake","sign of life"]}]},
+{
+  "expression": "show of hands",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a quick vote in which people raise their hands to show they agree",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c02_u030",
+      "answer": "show of hands",
+      "options": [
+        "show of hands",
+        "round of applause",
+        "piece of cake",
+        "sign of life"
+      ]
+    }
+  ]
+},
 
-  {"expression":"drop it","type":"colloquial","level":"middle","pos":"expression","meaning":"stop talking about the subject","exchanges":[{"uid":"s08_e04_c02_u033","answer":"drop it","options":["drop it","lose it","push it","fake it"]}]},
+{
+  "expression": "drop it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "stop talking about the subject",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c02_u033",
+      "answer": "drop it",
+      "options": [
+        "drop it",
+        "lose it",
+        "push it",
+        "fake it"
+      ]
+    }
+  ]
+},
 
-  {"expression":"rookie mistake","type":"colloquial","level":"high","pos":"noun","meaning":"a careless error that only an inexperienced beginner would make","exchanges":[{"uid":"s08_e04_c03_u003","answer":"rookie mistake","options":["rookie mistake","close call","lucky guess","fair point"]}]},
+{
+  "expression": "rookie mistake",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a careless error that only an inexperienced beginner would make",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c03_u003",
+      "answer": "rookie mistake",
+      "options": [
+        "rookie mistake",
+        "close call",
+        "lucky guess",
+        "fair point"
+      ]
+    }
+  ]
+},
 
-  {"expression":"insightful","type":"word","level":"college","pos":"adjective","meaning":"showing a clear and deep understanding of something","exchanges":[{"uid":"s08_e04_c03_u023","answer":"insightful","options":["insightful","hesitant","bilingual","drowsy"]}]},
+{
+  "expression": "insightful",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "showing a clear and deep understanding of something",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c03_u023",
+      "answer": "insightful",
+      "options": [
+        "insightful",
+        "hesitant",
+        "bilingual",
+        "drowsy"
+      ]
+    }
+  ]
+},
 
-  {"expression":"a hoot","type":"colloquial","level":"college","pos":"noun","meaning":"a person or thing that is very funny and fun to be with","exchanges":[{"uid":"s08_e04_c03_u024","answer":"hoot","options":["hoot","snack","stretch","brick"]}]},
+{
+  "expression": "a hoot",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person or thing that is very funny and fun to be with",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c03_u024",
+      "answer": "hoot",
+      "options": [
+        "hoot",
+        "snack",
+        "stretch",
+        "brick"
+      ]
+    }
+  ]
+},
 
-  {"expression":"back someone up","type":"phrase","level":"middle","pos":"verb","meaning":"to support someone by agreeing with what they say","exchanges":[{"uid":"s08_e04_c03_u031","answer":"back me up","options":["back me up","let me down","cheer me up","wake me up"]}]},
+{
+  "expression": "back someone up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to support someone by agreeing with what they say",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c03_u031",
+      "answer": "back me up",
+      "options": [
+        "back me up",
+        "let me down",
+        "cheer me up",
+        "wake me up"
+      ]
+    }
+  ]
+},
 
-  {"expression":"dry spell","type":"colloquial","level":"college","pos":"noun","meaning":"a period of time in which you have no sex or romantic activity","exchanges":[{"uid":"s08_e04_c04_u006","answer":"dry spell","options":["dry spell","cold snap","hot streak","short fuse"]}]},
+{
+  "expression": "dry spell",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a period of time in which you have no sex or romantic activity",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c04_u006",
+      "answer": "dry spell",
+      "options": [
+        "dry spell",
+        "cold snap",
+        "hot streak",
+        "short fuse"
+      ]
+    }
+  ]
+},
 
-  {"expression":"like putty","type":"colloquial","level":"expert","pos":"expression","meaning":"very easily influenced or persuaded, ready to do whatever someone wants","exchanges":[{"uid":"s08_e04_c04_u013","answer":"putty","options":["putty","pillars","rockets","rulers"]}]},
+{
+  "expression": "like putty",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "very easily influenced or persuaded, ready to do whatever someone wants",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c04_u013",
+      "answer": "putty",
+      "options": [
+        "putty",
+        "pillars",
+        "rockets",
+        "rulers"
+      ]
+    }
+  ]
+},
 
-  {"expression":"suck","type":"word","level":"middle","pos":"verb","meaning":"to be very bad or disappointing","exchanges":[{"uid":"s08_e04_c06_u003","answer":"sucks","options":["sucks","sinks","sings","slips"]}]},
+{
+  "expression": "suck",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very bad or disappointing",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c06_u003",
+      "answer": "sucks",
+      "options": [
+        "sucks",
+        "sinks",
+        "sings",
+        "slips"
+      ]
+    }
+  ]
+},
 
-  {"expression":"sell","type":"word","level":"college","pos":"verb","meaning":"to present something in a convincing way so that other people believe it","exchanges":[{"uid":"s08_e04_c06_u012","answer":"selling","options":["selling","buying","mailing","spelling"]}]},
+{
+  "expression": "sell",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to present something in a convincing way so that other people believe it",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c06_u012",
+      "answer": "selling",
+      "options": [
+        "selling",
+        "buying",
+        "mailing",
+        "spelling"
+      ]
+    }
+  ]
+},
 
-  {"expression":"good to go","type":"colloquial","level":"middle","pos":"expression","meaning":"ready to start or to leave, with nothing more needed","exchanges":[{"uid":"s08_e04_c06_u014","answer":"good to go","options":["good to go","glad to help","hard to find","new to this"]}]},
+{
+  "expression": "good to go",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "ready to start or to leave, with nothing more needed",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c06_u014",
+      "answer": "good to go",
+      "options": [
+        "good to go",
+        "glad to help",
+        "hard to find",
+        "new to this"
+      ]
+    }
+  ]
+},
 
-  {"expression":"help out","type":"phrase","level":"elementary","pos":"verb","meaning":"to assist someone with work or a task","exchanges":[{"uid":"s08_e04_c06_u019","answer":"help you out","cueUid":"s08_e04_c06_u017","options":["help you out","let you down","check you out","turn you in"]}]},
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to assist someone with work or a task",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c06_u019",
+      "answer": "help you out",
+      "cueUid": "s08_e04_c06_u017",
+      "options": [
+        "help you out",
+        "let you down",
+        "check you out",
+        "turn you in"
+      ]
+    }
+  ]
+},
 
-  {"expression":"means a lot","type":"colloquial","level":"middle","pos":"expression","meaning":"said to show you are very grateful for what someone did or said","exchanges":[{"uid":"s08_e04_c06_u020","answer":"means a lot","options":["means a lot","weighs a lot","sounds a lot","looks a lot"]}]},
+{
+  "expression": "means a lot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are very grateful for what someone did or said",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c06_u020",
+      "answer": "means a lot",
+      "options": [
+        "means a lot",
+        "weighs a lot",
+        "sounds a lot",
+        "looks a lot"
+      ]
+    }
+  ]
+},
 
-  {"expression":"loud and clear","type":"colloquial","level":"middle","pos":"expression","meaning":"said to show that you have fully understood a message or instruction","exchanges":[{"uid":"s08_e04_c06_u037","answer":"Loud and clear","responseUid":null,"options":["Loud and clear","Safe and sound","Short and sweet","Sick and tired"]}]},
+{
+  "expression": "loud and clear",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you have fully understood a message or instruction",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c06_u037",
+      "answer": "Loud and clear",
+      "responseUid": null,
+      "options": [
+        "Loud and clear",
+        "Safe and sound",
+        "Short and sweet",
+        "Sick and tired"
+      ]
+    }
+  ]
+},
 
-  {"expression":"honest mistake","type":"phrase","level":"high","pos":"noun","meaning":"an error made by accident, without any intention to cause harm or deceive","exchanges":[{"uid":"s08_e04_c07_u017","answer":"honest mistake","options":["honest mistake","open secret","happy ending","bad habit"]}]},
+{
+  "expression": "honest mistake",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an error made by accident, without any intention to cause harm or deceive",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c07_u017",
+      "answer": "honest mistake",
+      "options": [
+        "honest mistake",
+        "open secret",
+        "happy ending",
+        "bad habit"
+      ]
+    }
+  ]
+},
 
-  {"expression":"take the high road","type":"colloquial","level":"college","pos":"verb","meaning":"to act in a fair and decent way even when others are behaving badly","exchanges":[{"uid":"s08_e04_c07_u035","answer":"take the high road","options":["take the high road","hit the road","break the ice","jump the gun"]}]},
+{
+  "expression": "take the high road",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to act in a fair and decent way even when others are behaving badly",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c07_u035",
+      "answer": "take the high road",
+      "options": [
+        "take the high road",
+        "hit the road",
+        "break the ice",
+        "jump the gun"
+      ]
+    }
+  ]
+},
 
-  {"expression":"screw up","type":"colloquial","level":"high","pos":"verb","meaning":"to ruin something by making a bad mistake","exchanges":[{"uid":"s08_e04_c08_u005","answer":"screwed up","options":["screwed up","cheered up","showed up","made up"]}]},
+{
+  "expression": "screw up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ruin something by making a bad mistake",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c08_u005",
+      "answer": "screwed up",
+      "options": [
+        "screwed up",
+        "cheered up",
+        "showed up",
+        "made up"
+      ]
+    }
+  ]
+},
 
-  {"expression":"go on and on","type":"colloquial","level":"middle","pos":"verb","meaning":"to keep talking about something for a long time","exchanges":[{"uid":"s08_e04_c08_u012","answer":"went on and on","options":["went on and on","went up and down","went in and out","came and went"]}]},
+{
+  "expression": "go on and on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep talking about something for a long time",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c08_u012",
+      "answer": "went on and on",
+      "options": [
+        "went on and on",
+        "went up and down",
+        "went in and out",
+        "came and went"
+      ]
+    }
+  ]
+},
 
-  {"expression":"go through with","type":"phrase","level":"high","pos":"verb","meaning":"to do something you planned or promised even though it is difficult","exchanges":[{"uid":"s08_e04_c08_u020","answer":"gone through with","options":["gone through with","run out of","looked up to","come up with"]}]}
+{
+  "expression": "go through with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something you planned or promised even though it is difficult",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c08_u020",
+      "answer": "gone through with",
+      "options": [
+        "gone through with",
+        "run out of",
+        "looked up to",
+        "come up with"
+      ]
+    }
+  ]
+}
 ]

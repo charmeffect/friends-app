@@ -1,129 +1,515 @@
 [
-  { "expression": "wait a minute", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to make someone stop because you have just noticed something surprising or unfair",
-    "exchanges": [ { "uid": "s07_e22_c01_u005", "answer": "Wait a minute",
-      "options": ["Wait a minute", "Take your time", "Good for you", "Nice to meet you"] } ] },
+{
+  "expression": "wait a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to make someone stop because you have just noticed something surprising or unfair",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c01_u005",
+      "answer": "Wait a minute",
+      "options": [
+        "Wait a minute",
+        "Take your time",
+        "Good for you",
+        "Nice to meet you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "so much for", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to say that a plan or idea has failed or is no longer useful",
-    "exchanges": [ { "uid": "s07_e22_c01_u015", "answer": "So much for",
-      "options": ["So much for", "So long as", "As far as", "Just in case"] } ] },
+{
+  "expression": "so much for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that a plan or idea has failed or is no longer useful",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c01_u015",
+      "answer": "So much for",
+      "options": [
+        "So much for",
+        "So long as",
+        "As far as",
+        "Just in case"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take it for a spin", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to go for a short drive in a car, especially to try it out",
-    "exchanges": [ { "uid": "s07_e22_c01_u019", "answer": "spin",
-      "options": ["spin", "bite", "shower", "glance"] } ] },
+{
+  "expression": "take it for a spin",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to go for a short drive in a car, especially to try it out",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c01_u019",
+      "answer": "spin",
+      "options": [
+        "spin",
+        "bite",
+        "shower",
+        "glance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "add up to", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to combine to produce a particular result or total",
-    "exchanges": [ { "uid": "s07_e22_c02_u007", "answer": "adds up to", "responseUid": null,
-      "options": ["adds up to", "makes up for", "gets back to", "looks up to"] } ] },
+{
+  "expression": "add up to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to combine to produce a particular result or total",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c02_u007",
+      "answer": "adds up to",
+      "responseUid": null,
+      "options": [
+        "adds up to",
+        "makes up for",
+        "gets back to",
+        "looks up to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to look at something closely because it interests you",
-    "exchanges": [
-      { "uid": "s07_e22_c02_u011", "answer": "checking out",
-        "options": ["checking out", "making out", "freaking out", "backing out"] },
-      { "uid": "s07_e22_c07_u004", "answer": "check out",
-        "options": ["check out", "make out", "freak out", "back out"] } ] },
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c02_u011",
+      "answer": "checking out",
+      "options": [
+        "checking out",
+        "making out",
+        "freaking out",
+        "backing out"
+      ]
+    },
+    {
+      "uid": "s07_e22_c07_u004",
+      "answer": "check out",
+      "options": [
+        "check out",
+        "make out",
+        "freak out",
+        "back out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "alimony", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "money a person must pay to a former spouse after a divorce",
-    "exchanges": [ { "uid": "s07_e22_c02_u018", "answer": "Alimony", "responseUid": null,
-      "options": ["Alimony", "Mortgage", "Tuition", "Insurance"] } ] },
+{
+  "expression": "alimony",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "money a person must pay to a former spouse after a divorce",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c02_u018",
+      "answer": "Alimony",
+      "responseUid": null,
+      "options": [
+        "Alimony",
+        "Mortgage",
+        "Tuition",
+        "Insurance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "RSVP", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a reply telling the host whether you will attend an event you were invited to",
-    "exchanges": [ { "uid": "s07_e22_c03_u002", "answer": "RSVP",
-      "options": ["RSVP", "ASAP", "FAQ", "ETA"] } ] },
+{
+  "expression": "RSVP",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a reply telling the host whether you will attend an event you were invited to",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c03_u002",
+      "answer": "RSVP",
+      "options": [
+        "RSVP",
+        "ASAP",
+        "FAQ",
+        "ETA"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run in the same circles", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "to spend time with the same social group as someone else",
-    "exchanges": [ { "uid": "s07_e22_c03_u007", "answer": "same circles", "responseUid": null,
-      "options": ["same circles", "same boats", "same shoes", "same games"] } ] },
+{
+  "expression": "run in the same circles",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to spend time with the same social group as someone else",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c03_u007",
+      "answer": "same circles",
+      "responseUid": null,
+      "options": [
+        "same circles",
+        "same boats",
+        "same shoes",
+        "same games"
+      ]
+    }
+  ]
+},
 
-  { "expression": "father-in-law", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "the father of your husband or wife",
-    "exchanges": [ { "uid": "s07_e22_c06_u006", "answer": "father-in-law",
-      "options": ["father-in-law", "stepfather", "godfather", "grandfather"] } ] },
+{
+  "expression": "father-in-law",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the father of your husband or wife",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c06_u006",
+      "answer": "father-in-law",
+      "options": [
+        "father-in-law",
+        "stepfather",
+        "godfather",
+        "grandfather"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s07_e22_c06_u011", "answer": "come up with",
-      "options": ["come up with", "put up with", "catch up with", "keep up with"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c06_u011",
+      "answer": "come up with",
+      "options": [
+        "come up with",
+        "put up with",
+        "catch up with",
+        "keep up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pull over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to drive to the side of the road and stop",
-    "exchanges": [ { "uid": "s07_e22_c08_u003", "answer": "Pull over",
-      "options": ["Pull over", "Turn up", "Hold out", "Speed up"] } ] },
+{
+  "expression": "pull over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to drive to the side of the road and stop",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c08_u003",
+      "answer": "Pull over",
+      "options": [
+        "Pull over",
+        "Turn up",
+        "Hold out",
+        "Speed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tense", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "nervous and unable to relax, so that your muscles feel stiff",
-    "exchanges": [ { "uid": "s07_e22_c08_u004", "answer": "tense",
-      "options": ["tense", "brave", "lazy", "proud"] } ] },
+{
+  "expression": "tense",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "nervous and unable to relax, so that your muscles feel stiff",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c08_u004",
+      "answer": "tense",
+      "options": [
+        "tense",
+        "brave",
+        "lazy",
+        "proud"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're going down", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to tell someone they are going to be punished or get into serious trouble",
-    "exchanges": [ { "uid": "s07_e22_c08_u011", "answer": "going down", "responseUid": null,
-      "options": ["going down", "giving up", "coming over", "moving on"] } ] },
+{
+  "expression": "you're going down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to tell someone they are going to be punished or get into serious trouble",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c08_u011",
+      "answer": "going down",
+      "responseUid": null,
+      "options": [
+        "going down",
+        "giving up",
+        "coming over",
+        "moving on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get into it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to start talking about a subject in detail",
-    "exchanges": [ { "uid": "s07_e22_c10_u012", "answer": "get into it",
-      "options": ["get into it", "get over it", "give up on it", "get rid of it"] } ] },
+{
+  "expression": "get into it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to start talking about a subject in detail",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c10_u012",
+      "answer": "get into it",
+      "options": [
+        "get into it",
+        "get over it",
+        "give up on it",
+        "get rid of it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'll get right on that", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said sarcastically to mean you have no intention of doing what was asked",
-    "exchanges": [ { "uid": "s07_e22_c11_u003", "answer": "get right on that",
-      "options": ["get right on that", "get used to that", "get back at that", "get tired of that"] } ] },
+{
+  "expression": "I'll get right on that",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said sarcastically to mean you have no intention of doing what was asked",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c11_u003",
+      "answer": "get right on that",
+      "options": [
+        "get right on that",
+        "get used to that",
+        "get back at that",
+        "get tired of that"
+      ]
+    }
+  ]
+},
 
-  { "expression": "here it comes", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when you expect something bad or predictable to happen any second",
-    "exchanges": [ { "uid": "s07_e22_c11_u017", "answer": "Here it comes",
-      "options": ["Here it comes", "Here you are", "Nice to see", "That is all"] } ] },
+{
+  "expression": "here it comes",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you expect something bad or predictable to happen any second",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c11_u017",
+      "answer": "Here it comes",
+      "options": [
+        "Here it comes",
+        "Here you are",
+        "Nice to see",
+        "That is all"
+      ]
+    }
+  ]
+},
 
-  { "expression": "roll out of bed", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to have just got up, without making any effort to look nice",
-    "exchanges": [ { "uid": "s07_e22_c11_u019", "answer": "rolled out of bed",
-      "options": ["rolled out of bed", "walked into a wall", "run out of gas", "gotten off work"] } ] },
+{
+  "expression": "roll out of bed",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have just got up, without making any effort to look nice",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c11_u019",
+      "answer": "rolled out of bed",
+      "options": [
+        "rolled out of bed",
+        "walked into a wall",
+        "run out of gas",
+        "gotten off work"
+      ]
+    }
+  ]
+},
 
-  { "expression": "phenomenal", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "extraordinarily good or impressive",
-    "exchanges": [ { "uid": "s07_e22_c11_u020", "answer": "phenomenal",
-      "options": ["phenomenal", "miserable", "suspicious", "exhausted"] } ] },
+{
+  "expression": "phenomenal",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extraordinarily good or impressive",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c11_u020",
+      "answer": "phenomenal",
+      "options": [
+        "phenomenal",
+        "miserable",
+        "suspicious",
+        "exhausted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the meantime", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "until something else happens; during the time in between",
-    "exchanges": [ { "uid": "s07_e22_c11_u041", "answer": "in the meantime",
-      "options": ["in the meantime", "on the contrary", "in the long run", "by the book"] } ] },
+{
+  "expression": "in the meantime",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "until something else happens; during the time in between",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c11_u041",
+      "answer": "in the meantime",
+      "options": [
+        "in the meantime",
+        "on the contrary",
+        "in the long run",
+        "by the book"
+      ]
+    }
+  ]
+},
 
-  { "expression": "standing ovation", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "a long period of applause in which the audience stands up to show great approval",
-    "exchanges": [ { "uid": "s07_e22_c12_u018", "answer": "standing ovation",
-      "options": ["standing ovation", "sitting duck", "running joke", "closing remark"] } ] },
+{
+  "expression": "standing ovation",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a long period of applause in which the audience stands up to show great approval",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c12_u018",
+      "answer": "standing ovation",
+      "options": [
+        "standing ovation",
+        "sitting duck",
+        "running joke",
+        "closing remark"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a hoot", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "a person or thing that is very funny and fun to be with",
-    "exchanges": [ { "uid": "s07_e22_c14_u005", "answer": "a hoot",
-      "options": ["a hoot", "a hint", "a host", "a hurdle"] } ] },
+{
+  "expression": "a hoot",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person or thing that is very funny and fun to be with",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c14_u005",
+      "answer": "a hoot",
+      "options": [
+        "a hoot",
+        "a hint",
+        "a host",
+        "a hurdle"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the big day", "type": "colloquial", "level": "middle", "pos": "noun",
-    "meaning": "the day of an important event, especially a wedding",
-    "exchanges": [ { "uid": "s07_e22_c14_u012", "answer": "big day",
-      "options": ["big day", "long night", "good time", "short week"] } ] },
+{
+  "expression": "the big day",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the day of an important event, especially a wedding",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c14_u012",
+      "answer": "big day",
+      "options": [
+        "big day",
+        "long night",
+        "good time",
+        "short week"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wouldn't miss it for the world", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to say that you very much want to be at an event",
-    "exchanges": [ { "uid": "s07_e22_c14_u018", "answer": "for the world",
-      "options": ["for the world", "on the way", "at the moment", "by the time"] } ] },
+{
+  "expression": "wouldn't miss it for the world",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that you very much want to be at an event",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c14_u018",
+      "answer": "for the world",
+      "options": [
+        "for the world",
+        "on the way",
+        "at the moment",
+        "by the time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hook up with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to start a romantic or sexual relationship with someone",
-    "exchanges": [ { "uid": "s07_e22_c16_u003", "answer": "hook up with",
-      "options": ["hook up with", "catch up with", "put up with", "keep up with"] } ] },
+{
+  "expression": "hook up with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start a romantic or sexual relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c16_u003",
+      "answer": "hook up with",
+      "options": [
+        "hook up with",
+        "catch up with",
+        "put up with",
+        "keep up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "look familiar", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to seem like someone or something you have seen before",
-    "exchanges": [ { "uid": "s07_e22_c16_u007", "answer": "familiar",
-      "options": ["familiar", "nervous", "hungry", "tired"] } ] }
+{
+  "expression": "look familiar",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to seem like someone or something you have seen before",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c16_u007",
+      "answer": "familiar",
+      "options": [
+        "familiar",
+        "nervous",
+        "hungry",
+        "tired"
+      ]
+    }
+  ]
+}
 ]

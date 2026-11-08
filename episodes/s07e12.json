@@ -1,126 +1,506 @@
 [
-  { "expression": "feel free", "type": "phrase", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone they are welcome to do something",
-    "exchanges": [ { "uid": "s07_e12_c11_u002", "answer": "Feel free",
-      "options": ["Feel free", "Feel sorry", "Feel sure", "Feel right"] } ] },
+{
+  "expression": "feel free",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone they are welcome to do something",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c11_u002",
+      "answer": "Feel free",
+      "options": [
+        "Feel free",
+        "Feel sorry",
+        "Feel sure",
+        "Feel right"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fall asleep", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to begin sleeping",
-    "exchanges": [ { "uid": "s07_e12_c16_u013", "answer": "fall asleep",
-      "options": ["fall asleep", "fall behind", "fall apart", "fall over"] } ] },
+{
+  "expression": "fall asleep",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to begin sleeping",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c16_u013",
+      "answer": "fall asleep",
+      "options": [
+        "fall asleep",
+        "fall behind",
+        "fall apart",
+        "fall over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hurry up", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "to move or act more quickly",
-    "exchanges": [ { "uid": "s07_e12_c19_u005", "answer": "hurry up",
-      "options": ["hurry up", "cheer up", "sit down", "look out"] } ] },
+{
+  "expression": "hurry up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to move or act more quickly",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c19_u005",
+      "answer": "hurry up",
+      "options": [
+        "hurry up",
+        "cheer up",
+        "sit down",
+        "look out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make sure", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to take care that something happens or is done correctly",
-    "exchanges": [ { "uid": "s07_e12_c08_u003", "answer": "make sure",
-      "options": ["make sure", "make fun", "take part", "give way"] } ] },
+{
+  "expression": "make sure",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to take care that something happens or is done correctly",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c08_u003",
+      "answer": "make sure",
+      "options": [
+        "make sure",
+        "make fun",
+        "take part",
+        "give way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to leave a place suddenly or quickly",
-    "exchanges": [ { "uid": "s07_e12_c02_u006", "answer": "take off",
-      "options": ["take off", "show up", "turn in", "give up"] } ] },
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c02_u006",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "show up",
+        "turn in",
+        "give up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to look at something closely because it interests you",
-    "exchanges": [ { "uid": "s07_e12_c02_u013", "answer": "check this out",
-      "options": ["check this out", "give this up", "turn this down", "make this up"] } ] },
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c02_u013",
+      "answer": "check this out",
+      "options": [
+        "check this out",
+        "give this up",
+        "turn this down",
+        "make this up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "chilly", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "feeling or being unpleasantly cold",
-    "exchanges": [ { "uid": "s07_e12_c02_u002", "answer": "chilly",
-      "options": ["chilly", "chubby", "cheesy", "choppy"] } ] },
+{
+  "expression": "chilly",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "feeling or being unpleasantly cold",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c02_u002",
+      "answer": "chilly",
+      "options": [
+        "chilly",
+        "chubby",
+        "cheesy",
+        "choppy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "interrupt", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to stop someone while they are speaking or doing something",
-    "exchanges": [ { "uid": "s07_e12_c04_u004", "answer": "interrupt", "responseUid": null,
-      "options": ["interrupt", "introduce", "interpret", "intimidate"] } ] },
+{
+  "expression": "interrupt",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop someone while they are speaking or doing something",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c04_u004",
+      "answer": "interrupt",
+      "responseUid": null,
+      "options": [
+        "interrupt",
+        "introduce",
+        "interpret",
+        "intimidate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time with someone as a boyfriend or girlfriend",
-    "exchanges": [ { "uid": "s07_e12_c06_u006", "answer": "going out",
-      "options": ["going out", "getting up", "coming in", "holding on"] } ] },
+{
+  "expression": "go out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time with someone as a boyfriend or girlfriend",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c06_u006",
+      "answer": "going out",
+      "options": [
+        "going out",
+        "getting up",
+        "coming in",
+        "holding on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "any luck", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to ask whether someone succeeded in what they were trying to do",
-    "exchanges": [ { "uid": "s07_e12_c17_u009", "answer": "Any luck",
-      "options": ["Any luck", "Any time", "Any way", "Any more"] } ] },
+{
+  "expression": "any luck",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask whether someone succeeded in what they were trying to do",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c17_u009",
+      "answer": "Any luck",
+      "options": [
+        "Any luck",
+        "Any time",
+        "Any way",
+        "Any more"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flattering", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "making someone look more attractive than usual",
-    "exchanges": [ { "uid": "s07_e12_c02_u005", "answer": "flattering",
-      "options": ["flattering", "flickering", "fluttering", "flavoring"] } ] },
+{
+  "expression": "flattering",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "making someone look more attractive than usual",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c02_u005",
+      "answer": "flattering",
+      "options": [
+        "flattering",
+        "flickering",
+        "fluttering",
+        "flavoring"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fire escape", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "a set of metal stairs on the outside of a building for escaping during a fire",
-    "exchanges": [ { "uid": "s07_e12_c05_u008", "answer": "fire escape", "responseUid": null,
-      "options": ["fire escape", "fire drill", "fire hydrant", "fire truck"] } ] },
+{
+  "expression": "fire escape",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a set of metal stairs on the outside of a building for escaping during a fire",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c05_u008",
+      "answer": "fire escape",
+      "responseUid": null,
+      "options": [
+        "fire escape",
+        "fire drill",
+        "fire hydrant",
+        "fire truck"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bummed", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "disappointed and unhappy",
-    "exchanges": [ { "uid": "s07_e12_c06_u008", "answer": "bummed",
-      "options": ["bummed", "tanned", "stuffed", "wired"] } ] },
+{
+  "expression": "bummed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "disappointed and unhappy",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c06_u008",
+      "answer": "bummed",
+      "options": [
+        "bummed",
+        "tanned",
+        "stuffed",
+        "wired"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be proved wrong", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to be shown to be incorrect about something",
-    "exchanges": [ { "uid": "s07_e12_c07_u019", "answer": "proved wrong",
-      "options": ["proved wrong", "turned down", "broken up", "set free"] } ] },
+{
+  "expression": "be proved wrong",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be shown to be incorrect about something",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c07_u019",
+      "answer": "proved wrong",
+      "options": [
+        "proved wrong",
+        "turned down",
+        "broken up",
+        "set free"
+      ]
+    }
+  ]
+},
 
-  { "expression": "smack", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to hit something hard",
-    "exchanges": [ { "uid": "s07_e12_c08_u006", "answer": "smack",
-      "options": ["smack", "snack", "stack", "smock"] } ] },
+{
+  "expression": "smack",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to hit something hard",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c08_u006",
+      "answer": "smack",
+      "options": [
+        "smack",
+        "snack",
+        "stack",
+        "smock"
+      ]
+    }
+  ]
+},
 
-  { "expression": "we're even", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "neither person has an advantage over the other or owes the other anything",
-    "exchanges": [ { "uid": "s07_e12_c08_u014", "answer": "we're even", "responseUid": null,
-      "options": ["we're even", "we're late", "we're lost", "we're open"] } ] },
+{
+  "expression": "we're even",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "neither person has an advantage over the other or owes the other anything",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c08_u014",
+      "answer": "we're even",
+      "responseUid": null,
+      "options": [
+        "we're even",
+        "we're late",
+        "we're lost",
+        "we're open"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hot for", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "sexually attracted to someone",
-    "exchanges": [ { "uid": "s07_e12_c17_u016", "answer": "hot for", "responseUid": null,
-      "options": ["hot for", "sick of", "proud of", "sorry for"] } ] },
+{
+  "expression": "hot for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "sexually attracted to someone",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c17_u016",
+      "answer": "hot for",
+      "responseUid": null,
+      "options": [
+        "hot for",
+        "sick of",
+        "proud of",
+        "sorry for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call in sick", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to phone your workplace to say you are ill and will not come in",
-    "exchanges": [ { "uid": "s07_e12_c20_u003", "answer": "call in sick",
-      "options": ["call in sick", "sign off early", "stand up straight", "pass out cold"] } ] },
+{
+  "expression": "call in sick",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to phone your workplace to say you are ill and will not come in",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c20_u003",
+      "answer": "call in sick",
+      "options": [
+        "call in sick",
+        "sign off early",
+        "stand up straight",
+        "pass out cold"
+      ]
+    }
+  ]
+},
 
-  { "expression": "overnight", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to send something by a delivery service that arrives the next day",
-    "exchanges": [ { "uid": "s07_e12_c07_u006", "answer": "overnight",
-      "options": ["overnight", "overcook", "overhaul", "overtake"] } ] },
+{
+  "expression": "overnight",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to send something by a delivery service that arrives the next day",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c07_u006",
+      "answer": "overnight",
+      "options": [
+        "overnight",
+        "overcook",
+        "overhaul",
+        "overtake"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rock someone's world", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to give someone an amazing and exciting experience, often sexually",
-    "exchanges": [ { "uid": "s07_e12_c16_u006", "answer": "rocked",
-      "options": ["rocked", "rolled", "raced", "rented"] } ] },
+{
+  "expression": "rock someone's world",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to give someone an amazing and exciting experience, often sexually",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c16_u006",
+      "answer": "rocked",
+      "options": [
+        "rocked",
+        "rolled",
+        "raced",
+        "rented"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gloat", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to show in an annoying way that you are pleased about being right or winning",
-    "exchanges": [ { "uid": "s07_e12_c17_u011", "answer": "gloat",
-      "options": ["gloat", "float", "gleam", "gobble"] } ] },
+{
+  "expression": "gloat",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to show in an annoying way that you are pleased about being right or winning",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c17_u011",
+      "answer": "gloat",
+      "options": [
+        "gloat",
+        "float",
+        "gleam",
+        "gobble"
+      ]
+    }
+  ]
+},
 
-  { "expression": "search warrant", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "an official document that allows the police to search a place",
-    "exchanges": [ { "uid": "s07_e12_c18_u010", "answer": "search warrant",
-      "options": ["search warrant", "parking ticket", "library card", "fishing license"] } ] },
+{
+  "expression": "search warrant",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an official document that allows the police to search a place",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c18_u010",
+      "answer": "search warrant",
+      "options": [
+        "search warrant",
+        "parking ticket",
+        "library card",
+        "fishing license"
+      ]
+    }
+  ]
+},
 
-  { "expression": "against the law", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "not allowed by the law; illegal",
-    "exchanges": [ { "uid": "s07_e12_c18_u011", "answer": "against the law",
-      "options": ["against the law", "beside the point", "behind the times", "under the weather"] } ] },
+{
+  "expression": "against the law",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "not allowed by the law; illegal",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c18_u011",
+      "answer": "against the law",
+      "options": [
+        "against the law",
+        "beside the point",
+        "behind the times",
+        "under the weather"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call it", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to say which side of a tossed coin you think will land facing up",
-    "exchanges": [ { "uid": "s07_e12_c08_u008", "answer": "call it",
-      "options": ["call it", "make it", "take it", "keep it"] } ] },
+{
+  "expression": "call it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to say which side of a tossed coin you think will land facing up",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c08_u008",
+      "answer": "call it",
+      "options": [
+        "call it",
+        "make it",
+        "take it",
+        "keep it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shimmy", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to move by wriggling or sliding the body from side to side",
-    "exchanges": [ { "uid": "s07_e12_c19_u018", "answer": "shimmy", "responseUid": null,
-      "options": ["shimmy", "shovel", "shudder", "shatter"] } ] }
+{
+  "expression": "shimmy",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to move by wriggling or sliding the body from side to side",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c19_u018",
+      "answer": "shimmy",
+      "responseUid": null,
+      "options": [
+        "shimmy",
+        "shovel",
+        "shudder",
+        "shatter"
+      ]
+    }
+  ]
+}
 ]

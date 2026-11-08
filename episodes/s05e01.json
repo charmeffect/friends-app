@@ -1,131 +1,534 @@
 [
-  { "expression": "take your time", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to tell someone there is no need to hurry",
-    "exchanges": [ { "uid": "s05_e01_c02_u004", "answer": "take your time",
-      "options": ["take your time", "make your bed", "hold your horses", "watch your step"] } ] },
+{
+  "expression": "take your time",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell someone there is no need to hurry",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u004",
+      "answer": "take your time",
+      "options": [
+        "take your time",
+        "make your bed",
+        "hold your horses",
+        "watch your step"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hurry up", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "to move or act more quickly",
-    "exchanges": [ { "uid": "s05_e01_c05_u015", "answer": "hurry up",
-      "options": ["hurry up", "calm down", "sit down", "look out"] } ] },
+{
+  "expression": "hurry up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to move or act more quickly",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c05_u015",
+      "answer": "hurry up",
+      "options": [
+        "hurry up",
+        "calm down",
+        "sit down",
+        "look out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "it's getting late", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to suggest it is time to leave or stop because the evening is passing",
-    "exchanges": [ { "uid": "s05_e01_c04_u019", "answer": "getting late",
-      "options": ["getting late", "going slow", "running short", "coming soon"] } ] },
+{
+  "expression": "it's getting late",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to suggest it is time to leave or stop because the evening is passing",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c04_u019",
+      "answer": "getting late",
+      "options": [
+        "getting late",
+        "going slow",
+        "running short",
+        "coming soon"
+      ]
+    }
+  ]
+},
 
-  { "expression": "show up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to arrive at a place where people are expecting you",
-    "exchanges": [ { "uid": "s05_e01_c08_u013", "answer": "show up",
-      "options": ["show up", "back off", "give in", "look away"] } ] },
+{
+  "expression": "show up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to arrive at a place where people are expecting you",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c08_u013",
+      "answer": "show up",
+      "options": [
+        "show up",
+        "back off",
+        "give in",
+        "look away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no matter what", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "regardless of what happens or is true",
-    "exchanges": [ { "uid": "s05_e01_c02_u003", "answer": "no matter what",
-      "options": ["no matter what", "no wonder why", "no doubt that", "no idea how"] } ] },
+{
+  "expression": "no matter what",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "regardless of what happens or is true",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u003",
+      "answer": "no matter what",
+      "options": [
+        "no matter what",
+        "no wonder why",
+        "no doubt that",
+        "no idea how"
+      ]
+    }
+  ]
+},
 
-  { "expression": "could've been worse", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to point out that a bad situation was not as bad as it might have been",
-    "exchanges": [ { "uid": "s05_e01_c01_u026", "answer": "could've been worse",
-      "options": ["could've been worse", "should've been here", "would've been late", "might've been fun"] } ] },
+{
+  "expression": "could've been worse",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to point out that a bad situation was not as bad as it might have been",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c01_u026",
+      "answer": "could've been worse",
+      "options": [
+        "could've been worse",
+        "should've been here",
+        "would've been late",
+        "might've been fun"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spoil", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to ruin something so that it is no longer good or enjoyable",
-    "exchanges": [ { "uid": "s05_e01_c02_u002", "answer": "spoiled",
-      "options": ["spoiled", "spilled", "spelled", "spared"] } ] },
+{
+  "expression": "spoil",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to ruin something so that it is no longer good or enjoyable",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u002",
+      "answer": "spoiled",
+      "options": [
+        "spoiled",
+        "spilled",
+        "spelled",
+        "spared"
+      ]
+    }
+  ]
+},
 
-  { "expression": "do the right thing", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to act in the way that is morally correct",
-    "exchanges": [ { "uid": "s05_e01_c02_u040", "answer": "do the right thing", "responseUid": "s05_e01_c02_u042",
-      "options": ["do the right thing", "say the same word", "take the long road", "play the big game"] } ] },
+{
+  "expression": "do the right thing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to act in the way that is morally correct",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u040",
+      "answer": "do the right thing",
+      "responseUid": "s05_e01_c02_u042",
+      "options": [
+        "do the right thing",
+        "say the same word",
+        "take the long road",
+        "play the big game"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in a bit", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "in a short time; soon",
-    "exchanges": [ { "uid": "s05_e01_c06_u004", "answer": "in a bit", "responseUid": null,
-      "options": ["in a bit", "on a roll", "at a loss", "by a mile"] } ] },
+{
+  "expression": "in a bit",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in a short time; soon",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c06_u004",
+      "answer": "in a bit",
+      "responseUid": null,
+      "options": [
+        "in a bit",
+        "on a roll",
+        "at a loss",
+        "by a mile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "it doesn't count", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when something should not be treated as valid or should not be held against you",
-    "exchanges": [ { "uid": "s05_e01_c02_u058", "answer": "doesn't count", "responseUid": "s05_e01_c02_u060",
-      "options": ["doesn't count", "won't last", "can't fit", "didn't end"] } ] },
+{
+  "expression": "it doesn't count",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something should not be treated as valid or should not be held against you",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u058",
+      "answer": "doesn't count",
+      "responseUid": "s05_e01_c02_u060",
+      "options": [
+        "doesn't count",
+        "won't last",
+        "can't fit",
+        "didn't end"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a point", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have said something that is a fair and valid argument",
-    "exchanges": [ { "uid": "s05_e01_c02_u060", "answer": "got a point", "cueUid": "s05_e01_c02_u058", "responseUid": null,
-      "options": ["got a point", "made a call", "took a shot", "had a go"] } ] },
+{
+  "expression": "have a point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have said something that is a fair and valid argument",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u060",
+      "answer": "got a point",
+      "cueUid": "s05_e01_c02_u058",
+      "responseUid": null,
+      "options": [
+        "got a point",
+        "made a call",
+        "took a shot",
+        "had a go"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no sign of", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "no indication that someone or something is present or coming",
-    "exchanges": [ { "uid": "s05_e01_c08_u007", "answer": "no sign of",
-      "options": ["no sign of", "no way of", "no use of", "no end of"] } ] },
+{
+  "expression": "no sign of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "no indication that someone or something is present or coming",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c08_u007",
+      "answer": "no sign of",
+      "options": [
+        "no sign of",
+        "no way of",
+        "no use of",
+        "no end of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take something the wrong way", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to misunderstand a remark and be offended or upset by it",
-    "exchanges": [ { "uid": "s05_e01_c02_u021", "answer": "the wrong way", "cueUid": null,
-      "options": ["the wrong way", "the hard way", "the long way", "the easy way"] } ] },
+{
+  "expression": "take something the wrong way",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to misunderstand a remark and be offended or upset by it",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u021",
+      "answer": "the wrong way",
+      "cueUid": null,
+      "options": [
+        "the wrong way",
+        "the hard way",
+        "the long way",
+        "the easy way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "soundproof", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "built so that sound cannot pass through",
-    "exchanges": [ { "uid": "s05_e01_c05_u003", "answer": "sound proof",
-      "options": ["sound proof", "water proof", "bullet proof", "fire proof"] } ] },
+{
+  "expression": "soundproof",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "built so that sound cannot pass through",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c05_u003",
+      "answer": "sound proof",
+      "options": [
+        "sound proof",
+        "water proof",
+        "bullet proof",
+        "fire proof"
+      ]
+    }
+  ]
+},
 
-  { "expression": "technically", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "according to the exact meaning of the rules or facts, even if it seems different in practice",
-    "exchanges": [ { "uid": "s05_e01_c06_u003", "answer": "technically",
-      "options": ["technically", "typically", "terrifically", "tragically"] } ] },
+{
+  "expression": "technically",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "according to the exact meaning of the rules or facts, even if it seems different in practice",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c06_u003",
+      "answer": "technically",
+      "options": [
+        "technically",
+        "typically",
+        "terrifically",
+        "tragically"
+      ]
+    }
+  ]
+},
 
-  { "expression": "humiliate", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to make someone feel ashamed or stupid in front of other people",
-    "exchanges": [ { "uid": "s05_e01_c05_u011", "answer": "humiliated",
-      "options": ["humiliated", "delighted", "fascinated", "astonished"] } ] },
+{
+  "expression": "humiliate",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone feel ashamed or stupid in front of other people",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c05_u011",
+      "answer": "humiliated",
+      "options": [
+        "humiliated",
+        "delighted",
+        "fascinated",
+        "astonished"
+      ]
+    }
+  ]
+},
 
-  { "expression": "could use", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "would benefit from or would like to have something",
-    "exchanges": [ { "uid": "s05_e01_c08_u039", "answer": "could use", "cueUid": "s05_e01_c08_u037",
-      "options": ["could use", "would hate", "might lose", "should fear"] } ] },
+{
+  "expression": "could use",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "would benefit from or would like to have something",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c08_u039",
+      "answer": "could use",
+      "cueUid": "s05_e01_c08_u037",
+      "options": [
+        "could use",
+        "would hate",
+        "might lose",
+        "should fear"
+      ]
+    }
+  ]
+},
 
-  { "expression": "clear your head", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to stop feeling confused or upset so you can think calmly again",
-    "exchanges": [ { "uid": "s05_e01_c08_u020", "answer": "clear your head", "cueUid": "s05_e01_c08_u018",
-      "options": ["clear your head", "lose your mind", "hold your tongue", "watch your mouth"] } ] },
+{
+  "expression": "clear your head",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop feeling confused or upset so you can think calmly again",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c08_u020",
+      "answer": "clear your head",
+      "cueUid": "s05_e01_c08_u018",
+      "options": [
+        "clear your head",
+        "lose your mind",
+        "hold your tongue",
+        "watch your mouth"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on standby", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "waiting without a confirmed seat, ready to take a flight if a place becomes free",
-    "exchanges": [ { "uid": "s05_e01_c08_u005", "answer": "on Standby", "responseUid": "s05_e01_c08_u007",
-      "options": ["on Standby", "on Duty", "on Board", "on Call"] } ] },
+{
+  "expression": "on standby",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "waiting without a confirmed seat, ready to take a flight if a place becomes free",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c08_u005",
+      "answer": "on Standby",
+      "responseUid": "s05_e01_c08_u007",
+      "options": [
+        "on Standby",
+        "on Duty",
+        "on Board",
+        "on Call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "interchangeable", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "able to be swapped for one another without any difference",
-    "exchanges": [ { "uid": "s05_e01_c02_u013", "answer": "interchangeable", "cueUid": "s05_e01_c02_u011",
-      "options": ["interchangeable", "indispensable", "incomprehensible", "irreplaceable"] } ] },
+{
+  "expression": "interchangeable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "able to be swapped for one another without any difference",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u013",
+      "answer": "interchangeable",
+      "cueUid": "s05_e01_c02_u011",
+      "options": [
+        "interchangeable",
+        "indispensable",
+        "incomprehensible",
+        "irreplaceable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "objectively", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "based on facts rather than personal feelings",
-    "exchanges": [ { "uid": "s05_e01_c03_u020", "answer": "objectively",
-      "options": ["objectively", "occasionally", "originally", "officially"] } ] },
+{
+  "expression": "objectively",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "based on facts rather than personal feelings",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c03_u020",
+      "answer": "objectively",
+      "options": [
+        "objectively",
+        "occasionally",
+        "originally",
+        "officially"
+      ]
+    }
+  ]
+},
 
-  { "expression": "think outside the box", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to look for new, unconventional ideas instead of the obvious ones",
-    "exchanges": [ { "uid": "s05_e01_c02_u042", "answer": "Think outside the box", "cueUid": "s05_e01_c02_u040",
-      "options": ["Think outside the box", "Look beyond the wall", "Step over the line", "Jump across the fence"] } ] },
+{
+  "expression": "think outside the box",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to look for new, unconventional ideas instead of the obvious ones",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c02_u042",
+      "answer": "Think outside the box",
+      "cueUid": "s05_e01_c02_u040",
+      "options": [
+        "Think outside the box",
+        "Look beyond the wall",
+        "Step over the line",
+        "Jump across the fence"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for all I know", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said when you have no real information and something could easily be true",
-    "exchanges": [ { "uid": "s05_e01_c04_u018", "answer": "For all I know",
-      "options": ["For all I know", "By all I mean", "With all I have", "In all I say"] } ] },
+{
+  "expression": "for all I know",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said when you have no real information and something could easily be true",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c04_u018",
+      "answer": "For all I know",
+      "options": [
+        "For all I know",
+        "By all I mean",
+        "With all I have",
+        "In all I say"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw someone off", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to confuse someone so that they do not notice what is really going on",
-    "exchanges": [ { "uid": "s05_e01_c07_u010", "answer": "throwing me all off",
-      "options": ["throwing me all off", "putting me all on", "letting me all down", "taking me all in"] } ] },
+{
+  "expression": "throw someone off",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to confuse someone so that they do not notice what is really going on",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c07_u010",
+      "answer": "throwing me all off",
+      "options": [
+        "throwing me all off",
+        "putting me all on",
+        "letting me all down",
+        "taking me all in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "same difference", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "said to dismiss a distinction as unimportant because the result is the same",
-    "exchanges": [ { "uid": "s05_e01_c08_u015", "answer": "Same difference",
-      "options": ["Same difference", "Hard luck", "Small world", "Long shot"] } ] },
+{
+  "expression": "same difference",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to dismiss a distinction as unimportant because the result is the same",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c08_u015",
+      "answer": "Same difference",
+      "options": [
+        "Same difference",
+        "Hard luck",
+        "Small world",
+        "Long shot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bloody", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "a British swear word used to add force to what is said",
-    "exchanges": [ { "uid": "s05_e01_c05_u020", "answer": "bloody", "cueUid": "s05_e01_c05_u018", "responseUid": null,
-      "options": ["bloody", "sleepy", "greedy", "lucky"] } ] }
+{
+  "expression": "bloody",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "a British swear word used to add force to what is said",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c05_u020",
+      "answer": "bloody",
+      "cueUid": "s05_e01_c05_u018",
+      "responseUid": null,
+      "options": [
+        "bloody",
+        "sleepy",
+        "greedy",
+        "lucky"
+      ]
+    }
+  ]
+}
 ]

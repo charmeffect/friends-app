@@ -237,11 +237,11 @@
 },
 
 {
-  "expression": "bucks",
+  "expression": "buck",
   "type": "word",
   "level": "middle",
   "pos": "noun",
-  "meaning": "dollars",
+  "meaning": "a dollar",
   "exchanges": [
     {
       "uid": "s05_e14_c05_u028",
@@ -299,7 +299,7 @@
 {
   "expression": "strike up",
   "type": "phrase",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to begin a conversation or friendship with someone in a casual way",
   "exchanges": [

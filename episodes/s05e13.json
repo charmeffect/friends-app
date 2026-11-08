@@ -348,7 +348,7 @@
 {
   "expression": "sophisticated",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "having a lot of experience of the world and knowledge of culture and style",
   "exchanges": [
@@ -429,7 +429,7 @@
 {
   "expression": "controversial",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "causing a lot of disagreement because people have strong opposing opinions about it",
   "exchanges": [
@@ -469,7 +469,7 @@
 {
   "expression": "neither here nor there",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "expression",
   "meaning": "not important or not relevant to what is being discussed",
   "exchanges": [
@@ -489,7 +489,7 @@
 {
   "expression": "cremate",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to burn a dead body as part of a funeral",
   "exchanges": [

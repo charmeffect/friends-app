@@ -1,129 +1,517 @@
 [
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to give someone help, especially in a difficult situation",
-    "exchanges": [ { "uid": "s03_e23_c01_u010", "answer": "help me out",
-      "options": ["help me out", "let me in", "take me on", "put me off"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c01_u010",
+      "answer": "help me out",
+      "options": [
+        "help me out",
+        "let me in",
+        "take me on",
+        "put me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to date someone; to spend time with someone romantically",
-    "exchanges": [ { "uid": "s03_e23_c14_u025", "answer": "went out with", "responseUid": null,
-      "options": ["went out with", "ran out of", "got on with", "came up to"] } ] },
+{
+  "expression": "go out with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to date someone; to spend time with someone romantically",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c14_u025",
+      "answer": "went out with",
+      "responseUid": null,
+      "options": [
+        "went out with",
+        "ran out of",
+        "got on with",
+        "came up to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a seat", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "sit down (said politely to a guest)",
-    "exchanges": [ { "uid": "s03_e23_c12_u006", "answer": "have a seat",
-      "options": ["have a seat", "take a rest", "make a stop", "give a hand"] } ] },
+{
+  "expression": "have a seat",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "sit down (said politely to a guest)",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c12_u006",
+      "answer": "have a seat",
+      "options": [
+        "have a seat",
+        "take a rest",
+        "make a stop",
+        "give a hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something important or worth worrying about",
-    "exchanges": [ { "uid": "s03_e23_c01_u013", "answer": "no big deal",
-      "options": ["no big deal", "no hard feelings", "no free lunch", "no good reason"] } ] },
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c01_u013",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no hard feelings",
+        "no free lunch",
+        "no good reason"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [ { "uid": "s03_e23_c02_u036", "answer": "breaking up with",
-      "options": ["breaking up with", "making up with", "catching up with", "putting up with"] } ] },
+{
+  "expression": "break up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u036",
+      "answer": "breaking up with",
+      "options": [
+        "breaking up with",
+        "making up with",
+        "catching up with",
+        "putting up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "see each other", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be in a dating relationship with someone",
-    "exchanges": [ { "uid": "s03_e23_c09_u007", "answer": "see each other",
-      "options": ["see each other", "know each other", "wait for each other", "look at each other"] } ] },
+{
+  "expression": "see each other",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be in a dating relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c09_u007",
+      "answer": "see each other",
+      "options": [
+        "see each other",
+        "know each other",
+        "wait for each other",
+        "look at each other"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a difference", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to have an important positive effect on something or someone",
-    "exchanges": [ { "uid": "s03_e23_c03_u002", "answer": "making a difference",
-      "options": ["making a difference", "taking a chance", "making a living", "having a point"] } ] },
+{
+  "expression": "make a difference",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have an important positive effect on something or someone",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c03_u002",
+      "answer": "making a difference",
+      "options": [
+        "making a difference",
+        "taking a chance",
+        "making a living",
+        "having a point"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be discovered to be something, often unexpectedly",
-    "exchanges": [ { "uid": "s03_e23_c10_u015", "answer": "turns out", "responseUid": "s03_e23_c10_u017",
-      "options": ["turns out", "shows up", "comes off", "works out"] } ] },
+{
+  "expression": "turn out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be discovered to be something, often unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c10_u015",
+      "answer": "turns out",
+      "responseUid": "s03_e23_c10_u017",
+      "options": [
+        "turns out",
+        "shows up",
+        "comes off",
+        "works out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go with", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to choose one option among several",
-    "exchanges": [
-      { "uid": "s03_e23_c05_u013", "answer": "Go with",
-        "options": ["Go with", "Stand by", "Look at", "Come to"] },
-      { "uid": "s03_e23_c08_u010", "answer": "going with",
-        "options": ["going with", "standing by", "looking at", "getting to"] } ] },
+{
+  "expression": "go with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose one option among several",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c05_u013",
+      "answer": "Go with",
+      "options": [
+        "Go with",
+        "Stand by",
+        "Look at",
+        "Come to"
+      ]
+    },
+    {
+      "uid": "s03_e23_c08_u010",
+      "answer": "going with",
+      "options": [
+        "going with",
+        "standing by",
+        "looking at",
+        "getting to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "none of my business", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something I have the right to be involved in or ask about",
-    "exchanges": [ { "uid": "s03_e23_c14_u018", "answer": "none of my business",
-      "options": ["none of my business", "all of my concern", "out of my hands", "part of my job"] } ] },
+{
+  "expression": "none of my business",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something I have the right to be involved in or ask about",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c14_u018",
+      "answer": "none of my business",
+      "options": [
+        "none of my business",
+        "all of my concern",
+        "out of my hands",
+        "part of my job"
+      ]
+    }
+  ]
+},
 
-  { "expression": "worth a try", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "worth attempting because it might work, even if you are not sure",
-    "exchanges": [ { "uid": "s03_e23_c12_u009", "answer": "worth a try",
-      "options": ["worth a try", "worth a fortune", "quite a stretch", "such a waste"] } ] },
+{
+  "expression": "worth a try",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "worth attempting because it might work, even if you are not sure",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c12_u009",
+      "answer": "worth a try",
+      "options": [
+        "worth a try",
+        "worth a fortune",
+        "quite a stretch",
+        "such a waste"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on call", "type": "phrase", "level": "high", "pos": "adjective",
-    "meaning": "available to be called in to work at any time if needed",
-    "exchanges": [ { "uid": "s03_e23_c02_u014", "answer": "on call", "responseUid": "s03_e23_c02_u016",
-      "options": ["on call", "at large", "in luck", "on board"] } ] },
+{
+  "expression": "on call",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "available to be called in to work at any time if needed",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u014",
+      "answer": "on call",
+      "responseUid": "s03_e23_c02_u016",
+      "options": [
+        "on call",
+        "at large",
+        "in luck",
+        "on board"
+      ]
+    }
+  ]
+},
 
-  { "expression": "necessarily", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "used with a negative to say that something is not always or certainly true",
-    "exchanges": [ { "uid": "s03_e23_c02_u041", "answer": "necessarily", "responseUid": "s03_e23_c02_u043",
-      "options": ["necessarily", "particularly", "accidentally", "eventually"] } ] },
+{
+  "expression": "necessarily",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used with a negative to say that something is not always or certainly true",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u041",
+      "answer": "necessarily",
+      "responseUid": "s03_e23_c02_u043",
+      "options": [
+        "necessarily",
+        "particularly",
+        "accidentally",
+        "eventually"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rush into", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start doing something too quickly, without thinking carefully",
-    "exchanges": [ { "uid": "s03_e23_c08_u006", "answer": "rush into",
-      "options": ["rush into", "look into", "run into", "give into"] } ] },
+{
+  "expression": "rush into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doing something too quickly, without thinking carefully",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c08_u006",
+      "answer": "rush into",
+      "options": [
+        "rush into",
+        "look into",
+        "run into",
+        "give into"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the long run", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "over a long period of time; eventually, rather than right now",
-    "exchanges": [ { "uid": "s03_e23_c08_u011", "answer": "in the long run",
-      "options": ["in the long run", "at the last minute", "out of the blue", "off the top"] } ] },
+{
+  "expression": "in the long run",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "over a long period of time; eventually, rather than right now",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c08_u011",
+      "answer": "in the long run",
+      "options": [
+        "in the long run",
+        "at the last minute",
+        "out of the blue",
+        "off the top"
+      ]
+    }
+  ]
+},
 
-  { "expression": "open up to", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start sharing your private thoughts and feelings with someone",
-    "exchanges": [ { "uid": "s03_e23_c09_u010", "answer": "open up to",
-      "options": ["open up to", "catch up with", "put up with", "get back at"] } ] },
+{
+  "expression": "open up to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start sharing your private thoughts and feelings with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c09_u010",
+      "answer": "open up to",
+      "options": [
+        "open up to",
+        "catch up with",
+        "put up with",
+        "get back at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "walk down the aisle", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to get married, from the bride's walk through the church to the altar",
-    "exchanges": [ { "uid": "s03_e23_c10_u008", "answer": "walking down the aisle",
-      "options": ["walking down the aisle", "running up the stairs", "going through the roof", "hanging around the house"] } ] },
+{
+  "expression": "walk down the aisle",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get married, from the bride's walk through the church to the altar",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c10_u008",
+      "answer": "walking down the aisle",
+      "options": [
+        "walking down the aisle",
+        "running up the stairs",
+        "going through the roof",
+        "hanging around the house"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a break", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to stop criticizing or being so hard on someone",
-    "exchanges": [ { "uid": "s03_e23_c14_u013", "answer": "Give yourself a break", "responseUid": "s03_e23_c14_u015",
-      "options": ["Give yourself a break", "Make yourself a deal", "Take yourself a seat", "Cut yourself a slice"] } ] },
+{
+  "expression": "give someone a break",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to stop criticizing or being so hard on someone",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c14_u013",
+      "answer": "Give yourself a break",
+      "responseUid": "s03_e23_c14_u015",
+      "options": [
+        "Give yourself a break",
+        "Make yourself a deal",
+        "Take yourself a seat",
+        "Cut yourself a slice"
+      ]
+    }
+  ]
+},
 
-  { "expression": "benign", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "not harmful; of a growth, not cancerous",
-    "exchanges": [ { "uid": "s03_e23_c02_u028", "answer": "benign",
-      "options": ["benign", "fragile", "sterile", "obsolete"] } ] },
+{
+  "expression": "benign",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not harmful; of a growth, not cancerous",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u028",
+      "answer": "benign",
+      "options": [
+        "benign",
+        "fragile",
+        "sterile",
+        "obsolete"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reluctant", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "unwilling and hesitant to do something",
-    "exchanges": [ { "uid": "s03_e23_c02_u030", "answer": "reluctant",
-      "options": ["reluctant", "redundant", "eloquent", "prominent"] } ] },
+{
+  "expression": "reluctant",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unwilling and hesitant to do something",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u030",
+      "answer": "reluctant",
+      "options": [
+        "reluctant",
+        "redundant",
+        "eloquent",
+        "prominent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stumped", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "unable to find an answer or explanation for something",
-    "exchanges": [ { "uid": "s03_e23_c06_u003", "answer": "stumped",
-      "options": ["stumped", "stuffed", "stranded", "stingy"] } ] },
+{
+  "expression": "stumped",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unable to find an answer or explanation for something",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c06_u003",
+      "answer": "stumped",
+      "options": [
+        "stumped",
+        "stuffed",
+        "stranded",
+        "stingy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "exclusive", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "in a relationship with only one person and no one else",
-    "exchanges": [ { "uid": "s03_e23_c14_u012", "answer": "exclusive",
-      "options": ["exclusive", "extensive", "excessive", "explicit"] } ] },
+{
+  "expression": "exclusive",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "in a relationship with only one person and no one else",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c14_u012",
+      "answer": "exclusive",
+      "options": [
+        "exclusive",
+        "extensive",
+        "excessive",
+        "explicit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "play the field", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to date several people casually instead of committing to one",
-    "exchanges": [ { "uid": "s03_e23_c02_u019", "answer": "playing the field",
-      "options": ["playing the field", "running the show", "calling the shots", "hitting the road"] } ] },
+{
+  "expression": "play the field",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to date several people casually instead of committing to one",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u019",
+      "answer": "playing the field",
+      "options": [
+        "playing the field",
+        "running the show",
+        "calling the shots",
+        "hitting the road"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wild oats", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "casual romantic or sexual adventures a young person is expected to have before settling down",
-    "exchanges": [ { "uid": "s03_e23_c02_u019", "answer": "wild oats",
-      "options": ["wild oats", "deep roots", "loose ends", "fresh seeds"] } ] },
+{
+  "expression": "wild oats",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "casual romantic or sexual adventures a young person is expected to have before settling down",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u019",
+      "answer": "wild oats",
+      "options": [
+        "wild oats",
+        "deep roots",
+        "loose ends",
+        "fresh seeds"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run-of-the-mill", "type": "phrase", "level": "expert", "pos": "adjective",
-    "meaning": "ordinary and unremarkable, with nothing special about it",
-    "exchanges": [ { "uid": "s03_e23_c04_u002", "answer": "run-of-the-mill", "responseUid": "s03_e23_c04_u005",
-      "options": ["run-of-the-mill", "once-in-a-lifetime", "state-of-the-art", "out-of-the-way"] } ] }
+{
+  "expression": "run-of-the-mill",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "ordinary and unremarkable, with nothing special about it",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c04_u002",
+      "answer": "run-of-the-mill",
+      "responseUid": "s03_e23_c04_u005",
+      "options": [
+        "run-of-the-mill",
+        "once-in-a-lifetime",
+        "state-of-the-art",
+        "out-of-the-way"
+      ]
+    }
+  ]
+}
 ]

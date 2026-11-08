@@ -1,130 +1,512 @@
 [
-  { "expression": "feminine", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "having qualities that are traditionally thought to be typical of women",
-    "exchanges": [ { "uid": "s07_e03_c01_u015", "answer": "Feminine",
-      "options": ["Feminine", "Nocturnal", "Punctual", "Generous"] } ] },
+{
+  "expression": "feminine",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having qualities that are traditionally thought to be typical of women",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c01_u015",
+      "answer": "Feminine",
+      "options": [
+        "Feminine",
+        "Nocturnal",
+        "Punctual",
+        "Generous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "deprive", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to take something away from someone or stop them from having it",
-    "exchanges": [ { "uid": "s07_e03_c02_u004", "answer": "deprive",
-      "options": ["deprive", "accuse", "cure", "suspect"] } ] },
+{
+  "expression": "deprive",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take something away from someone or stop them from having it",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c02_u004",
+      "answer": "deprive",
+      "options": [
+        "deprive",
+        "accuse",
+        "cure",
+        "suspect"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang around", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stay in a place without doing much, usually waiting for something",
-    "exchanges": [ { "uid": "s07_e03_c02_u026", "answer": "hang around",
-      "options": ["hang around", "run across", "break down", "take off"] } ] },
+{
+  "expression": "hang around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay in a place without doing much, usually waiting for something",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c02_u026",
+      "answer": "hang around",
+      "options": [
+        "hang around",
+        "run across",
+        "break down",
+        "take off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to make someone feel happier",
-    "exchanges": [ { "uid": "s07_e03_c02_u032", "answer": "cheer me up",
-      "options": ["cheer me up", "set me off", "wear me out", "check me out"] } ] },
+{
+  "expression": "cheer up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel happier",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c02_u032",
+      "answer": "cheer me up",
+      "options": [
+        "cheer me up",
+        "set me off",
+        "wear me out",
+        "check me out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "free as a bird", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "completely free, with no plans or obligations",
-    "exchanges": [ { "uid": "s07_e03_c03_u008", "answer": "free as a bird",
-      "options": ["free as a bird", "blind as a bat", "sick as a dog", "quiet as a mouse"] } ] },
+{
+  "expression": "free as a bird",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "completely free, with no plans or obligations",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c03_u008",
+      "answer": "free as a bird",
+      "options": [
+        "free as a bird",
+        "blind as a bat",
+        "sick as a dog",
+        "quiet as a mouse"
+      ]
+    }
+  ]
+},
 
-  { "expression": "just so you know", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said before giving someone information they should be aware of",
-    "exchanges": [ { "uid": "s07_e03_c03_u016", "answer": "just so you know",
-      "options": ["just so you know", "just in case", "just for fun", "just as well"] } ] },
+{
+  "expression": "just so you know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before giving someone information they should be aware of",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c03_u016",
+      "answer": "just so you know",
+      "options": [
+        "just so you know",
+        "just in case",
+        "just for fun",
+        "just as well"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lefty", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a person who uses their left hand more naturally than their right",
-    "exchanges": [ { "uid": "s07_e03_c03_u020", "answer": "lefty",
-      "options": ["lefty", "tenant", "plumber", "drummer"] } ] },
+{
+  "expression": "lefty",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who uses their left hand more naturally than their right",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c03_u020",
+      "answer": "lefty",
+      "options": [
+        "lefty",
+        "tenant",
+        "plumber",
+        "drummer"
+      ]
+    }
+  ]
+},
 
-  { "expression": "legacy", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "something valuable that someone leaves behind for later generations after they die",
-    "exchanges": [
-      { "uid": "s07_e03_c03_u026", "answer": "legacy",
-        "options": ["legacy", "verdict", "hostage", "tariff"] },
-      { "uid": "s07_e03_c05_u011", "answer": "legacy",
-        "options": ["legacy", "verdict", "hostage", "tariff"] } ] },
+{
+  "expression": "legacy",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something valuable that someone leaves behind for later generations after they die",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c03_u026",
+      "answer": "legacy",
+      "options": [
+        "legacy",
+        "verdict",
+        "hostage",
+        "tariff"
+      ]
+    },
+    {
+      "uid": "s07_e03_c05_u011",
+      "answer": "legacy",
+      "options": [
+        "legacy",
+        "verdict",
+        "hostage",
+        "tariff"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I bet", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when you feel sure that something is true or will happen",
-    "exchanges": [ { "uid": "s07_e03_c03_u039", "answer": "I bet",
-      "options": ["I bet", "I doubt", "I wish", "I forgot"] } ] },
+{
+  "expression": "I bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you feel sure that something is true or will happen",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c03_u039",
+      "answer": "I bet",
+      "options": [
+        "I bet",
+        "I doubt",
+        "I wish",
+        "I forgot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to fill or use an amount of space",
-    "exchanges": [ { "uid": "s07_e03_c04_u002", "answer": "take up",
-      "options": ["take up", "make up", "give up", "put up"] } ] },
+{
+  "expression": "take up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fill or use an amount of space",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c04_u002",
+      "answer": "take up",
+      "options": [
+        "take up",
+        "make up",
+        "give up",
+        "put up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get through to", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to succeed in making someone understand what you are saying",
-    "exchanges": [ { "uid": "s07_e03_c04_u018", "answer": "getting through to",
-      "options": ["getting through to", "getting back to", "going out with", "looking up to"] } ] },
+{
+  "expression": "get through to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to succeed in making someone understand what you are saying",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c04_u018",
+      "answer": "getting through to",
+      "options": [
+        "getting through to",
+        "getting back to",
+        "going out with",
+        "looking up to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay attention", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to listen to or watch something carefully",
-    "exchanges": [ { "uid": "s07_e03_c04_u020", "answer": "pay attention",
-      "options": ["pay attention", "make sense", "take place", "give way"] } ] },
+{
+  "expression": "pay attention",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to listen to or watch something carefully",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c04_u020",
+      "answer": "pay attention",
+      "options": [
+        "pay attention",
+        "make sense",
+        "take place",
+        "give way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "layman", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a person who has no professional training or expert knowledge in a particular field",
-    "exchanges": [ { "uid": "s07_e03_c05_u004", "answer": "layman",
-      "options": ["layman", "landlord", "chairman", "foreman"] } ] },
+{
+  "expression": "layman",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who has no professional training or expert knowledge in a particular field",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c05_u004",
+      "answer": "layman",
+      "options": [
+        "layman",
+        "landlord",
+        "chairman",
+        "foreman"
+      ]
+    }
+  ]
+},
 
-  { "expression": "arrogance", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the quality of behaving as if you are better or more important than other people",
-    "exchanges": [ { "uid": "s07_e03_c05_u005", "answer": "arrogance",
-      "options": ["arrogance", "diligence", "abundance", "relevance"] } ] },
+{
+  "expression": "arrogance",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the quality of behaving as if you are better or more important than other people",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c05_u005",
+      "answer": "arrogance",
+      "options": [
+        "arrogance",
+        "diligence",
+        "abundance",
+        "relevance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the other hand", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "used to introduce a contrasting situation or point",
-    "exchanges": [ { "uid": "s07_e03_c05_u014", "answer": "on the other hand",
-      "options": ["on the other hand", "in the first place", "at the same time", "by the same token"] } ] },
+{
+  "expression": "on the other hand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to introduce a contrasting situation or point",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c05_u014",
+      "answer": "on the other hand",
+      "options": [
+        "on the other hand",
+        "in the first place",
+        "at the same time",
+        "by the same token"
+      ]
+    }
+  ]
+},
 
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to give someone help, especially in a difficult situation",
-    "exchanges": [ { "uid": "s07_e03_c06_u016", "answer": "help out",
-      "options": ["help out", "stand out", "make out", "pass out"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c06_u016",
+      "answer": "help out",
+      "options": [
+        "help out",
+        "stand out",
+        "make out",
+        "pass out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "face to face", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "in person, meeting directly rather than by phone or message",
-    "exchanges": [ { "uid": "s07_e03_c07_u005", "answer": "face to face",
-      "options": ["face to face", "back to back", "hand in hand", "side by side"] } ] },
+{
+  "expression": "face to face",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in person, meeting directly rather than by phone or message",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c07_u005",
+      "answer": "face to face",
+      "options": [
+        "face to face",
+        "back to back",
+        "hand in hand",
+        "side by side"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tone it down", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make something less extreme or intense",
-    "exchanges": [ { "uid": "s07_e03_c07_u026", "answer": "tone it down",
-      "options": ["tone it down", "turn it up", "play it out", "hand it over"] } ] },
+{
+  "expression": "tone it down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make something less extreme or intense",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c07_u026",
+      "answer": "tone it down",
+      "options": [
+        "tone it down",
+        "turn it up",
+        "play it out",
+        "hand it over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "boss around", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to keep telling people what to do in an annoying, domineering way",
-    "exchanges": [ { "uid": "s07_e03_c07_u027", "answer": "boss me around",
+{
+  "expression": "boss around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep telling people what to do in an annoying, domineering way",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c07_u027",
+      "answer": "boss me around",
       "responseUid": "s07_e03_c07_u029",
-      "options": ["boss me around", "wear me out", "pass me by", "fill me in"] } ] },
+      "options": [
+        "boss me around",
+        "wear me out",
+        "pass me by",
+        "fill me in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give it a shot", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to try doing something to see if you can do it",
-    "exchanges": [ { "uid": "s07_e03_c08_u003", "answer": "give it a shot",
-      "options": ["give it a shot", "give it a rest", "make it a habit", "keep it a secret"] } ] },
+{
+  "expression": "give it a shot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to try doing something to see if you can do it",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c08_u003",
+      "answer": "give it a shot",
+      "options": [
+        "give it a shot",
+        "give it a rest",
+        "make it a habit",
+        "keep it a secret"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to vomit",
-    "exchanges": [ { "uid": "s07_e03_c08_u011", "answer": "threw up",
-      "options": ["threw up", "made up", "took off", "set off"] } ] },
+{
+  "expression": "throw up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to vomit",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c08_u011",
+      "answer": "threw up",
+      "options": [
+        "threw up",
+        "made up",
+        "took off",
+        "set off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "over my dead body", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said to insist that you will do everything possible to stop something from happening",
-    "exchanges": [ { "uid": "s07_e03_c10_u007", "answer": "over my dead body",
-      "options": ["over my dead body", "under my own roof", "off the deep end", "out of thin air"] } ] },
+{
+  "expression": "over my dead body",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to insist that you will do everything possible to stop something from happening",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c10_u007",
+      "answer": "over my dead body",
+      "options": [
+        "over my dead body",
+        "under my own roof",
+        "off the deep end",
+        "out of thin air"
+      ]
+    }
+  ]
+},
 
-  { "expression": "butcher", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to do something very badly, such as pronouncing or using a language poorly",
-    "exchanges": [ { "uid": "s07_e03_c10_u015", "answer": "butcher",
-      "options": ["butcher", "pamper", "harvest", "sponsor"] } ] },
+{
+  "expression": "butcher",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to do something very badly, such as pronouncing or using a language poorly",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c10_u015",
+      "answer": "butcher",
+      "options": [
+        "butcher",
+        "pamper",
+        "harvest",
+        "sponsor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in-laws", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "the parents and other relatives of your husband or wife, or of the person you will marry",
-    "exchanges": [ { "uid": "s07_e03_c11_u003", "answer": "in-laws",
-      "options": ["in-laws", "by-laws", "outskirts", "leftovers"] } ] },
+{
+  "expression": "in-laws",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the parents and other relatives of your husband or wife, or of the person you will marry",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c11_u003",
+      "answer": "in-laws",
+      "options": [
+        "in-laws",
+        "by-laws",
+        "outskirts",
+        "leftovers"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for a living", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "as a job, in order to earn money",
-    "exchanges": [ { "uid": "s07_e03_c11_u003", "answer": "for a living",
-      "options": ["for a living", "for a change", "in a hurry", "on a budget"] } ] }
+{
+  "expression": "for a living",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "as a job, in order to earn money",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c11_u003",
+      "answer": "for a living",
+      "options": [
+        "for a living",
+        "for a change",
+        "in a hurry",
+        "on a budget"
+      ]
+    }
+  ]
+}
 ]

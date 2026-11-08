@@ -1,126 +1,511 @@
 [
-  { "expression": "take a deep breath", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to breathe in slowly and fully, usually to calm down or get ready",
-    "exchanges": [ { "uid": "s05_e22_c03_u012", "answer": "Take a deep breath", "cueUid": "s05_e22_c03_u010",
-      "options": ["Take a deep breath", "Make a quick call", "Have a good look", "Give a big smile"] } ] },
+{
+  "expression": "take a deep breath",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to breathe in slowly and fully, usually to calm down or get ready",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c03_u012",
+      "answer": "Take a deep breath",
+      "cueUid": "s05_e22_c03_u010",
+      "options": [
+        "Take a deep breath",
+        "Make a quick call",
+        "Have a good look",
+        "Give a big smile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn into", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to develop or change into something different",
-    "exchanges": [ { "uid": "s05_e22_c07_u008", "answer": "turns into", "cueUid": "s05_e22_c07_u006",
-      "options": ["turns into", "gives into", "looks into", "runs into"] } ] },
+{
+  "expression": "turn into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to develop or change into something different",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c07_u008",
+      "answer": "turns into",
+      "cueUid": "s05_e22_c07_u006",
+      "options": [
+        "turns into",
+        "gives into",
+        "looks into",
+        "runs into"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a bunch of", "type": "phrase", "level": "elementary", "pos": "expression",
-    "meaning": "a large number of things",
-    "exchanges": [ { "uid": "s05_e22_c06_u010", "answer": "a bunch of", "cueUid": "s05_e22_c06_u008", "responseUid": "s05_e22_c06_u012",
-      "options": ["a bunch of", "a slice of", "a drop of", "a sheet of"] } ] },
+{
+  "expression": "a bunch of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a large number of things",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c06_u010",
+      "answer": "a bunch of",
+      "cueUid": "s05_e22_c06_u008",
+      "responseUid": "s05_e22_c06_u012",
+      "options": [
+        "a bunch of",
+        "a slice of",
+        "a drop of",
+        "a sheet of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hold on", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "wait a moment",
-    "exchanges": [ { "uid": "s05_e22_c09_u007", "answer": "Hold on",
-      "options": ["Hold on", "Keep on", "Hold off", "Carry on"] } ] },
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c09_u007",
+      "answer": "Hold on",
+      "options": [
+        "Hold on",
+        "Keep on",
+        "Hold off",
+        "Carry on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s05_e22_c01_u015", "answer": "freaks out", "cueUid": "s05_e22_c01_u013",
-      "options": ["freaks out", "backs off", "shows off", "calms down"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c01_u015",
+      "answer": "freaks out",
+      "cueUid": "s05_e22_c01_u013",
+      "options": [
+        "freaks out",
+        "backs off",
+        "shows off",
+        "calms down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "problem solved", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when a difficulty has just been dealt with and nothing more needs to be done",
-    "exchanges": [ { "uid": "s05_e22_c03_u007", "answer": "Problem solved",
-      "options": ["Problem solved", "Lesson learned", "Point taken", "Promise kept"] } ] },
+{
+  "expression": "problem solved",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when a difficulty has just been dealt with and nothing more needs to be done",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c03_u007",
+      "answer": "Problem solved",
+      "options": [
+        "Problem solved",
+        "Lesson learned",
+        "Point taken",
+        "Promise kept"
+      ]
+    }
+  ]
+},
 
-  { "expression": "as good as new", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "in perfect condition again after being hurt or damaged",
-    "exchanges": [ { "uid": "s05_e22_c04_u034", "answer": "as good as new",
-      "options": ["as good as new", "as clear as day", "as light as air", "as cool as ice"] } ] },
+{
+  "expression": "as good as new",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in perfect condition again after being hurt or damaged",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c04_u034",
+      "answer": "as good as new",
+      "options": [
+        "as good as new",
+        "as clear as day",
+        "as light as air",
+        "as cool as ice"
+      ]
+    }
+  ]
+},
 
-  { "expression": "apology accepted", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to tell someone you forgive them after they say sorry",
-    "exchanges": [ { "uid": "s05_e22_c05_u044", "answer": "Apology accepted",
-      "options": ["Apology accepted", "Message received", "Invitation declined", "Payment refused"] } ] },
+{
+  "expression": "apology accepted",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone you forgive them after they say sorry",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c05_u044",
+      "answer": "Apology accepted",
+      "options": [
+        "Apology accepted",
+        "Message received",
+        "Invitation declined",
+        "Payment refused"
+      ]
+    }
+  ]
+},
 
-  { "expression": "my treat", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to tell someone that you will pay for them",
-    "exchanges": [ { "uid": "s05_e22_c06_u006", "answer": "My treat", "cueUid": "s05_e22_c06_u004",
-      "options": ["My treat", "My bad", "Your call", "Our turn"] } ] },
+{
+  "expression": "my treat",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that you will pay for them",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c06_u006",
+      "answer": "My treat",
+      "cueUid": "s05_e22_c06_u004",
+      "options": [
+        "My treat",
+        "My bad",
+        "Your call",
+        "Our turn"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pull over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to drive to the side of the road and stop",
-    "exchanges": [ { "uid": "s05_e22_c06_u035", "answer": "pull over",
-      "options": ["pull over", "turn down", "speed up", "back off"] } ] },
+{
+  "expression": "pull over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to drive to the side of the road and stop",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c06_u035",
+      "answer": "pull over",
+      "options": [
+        "pull over",
+        "turn down",
+        "speed up",
+        "back off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "change of plans", "type": "colloquial", "level": "middle", "pos": "noun",
-    "meaning": "a decision to do something different from what was arranged",
-    "exchanges": [ { "uid": "s05_e22_c10_u003", "answer": "change of plans",
-      "options": ["change of plans", "piece of cake", "matter of time", "waste of time"] } ] },
+{
+  "expression": "change of plans",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a decision to do something different from what was arranged",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c10_u003",
+      "answer": "change of plans",
+      "options": [
+        "change of plans",
+        "piece of cake",
+        "matter of time",
+        "waste of time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run out of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to use up all of something so that none is left",
-    "exchanges": [ { "uid": "s05_e22_c09_u012", "answer": "ran out of",
-      "options": ["ran out of", "got rid of", "took care of", "made fun of"] } ] },
+{
+  "expression": "run out of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to use up all of something so that none is left",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c09_u012",
+      "answer": "ran out of",
+      "options": [
+        "ran out of",
+        "got rid of",
+        "took care of",
+        "made fun of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get it over with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
-    "exchanges": [ { "uid": "s05_e22_c02_u034", "answer": "get this over with",
-      "options": ["get this over with", "talk this out with", "hold this off with", "pass this on with"] } ] },
+{
+  "expression": "get it over with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c02_u034",
+      "answer": "get this over with",
+      "options": [
+        "get this over with",
+        "talk this out with",
+        "hold this off with",
+        "pass this on with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "push someone's buttons", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to deliberately do the things that make a particular person angry",
-    "exchanges": [ { "uid": "s05_e22_c02_u010", "answer": "push my buttons",
-      "options": ["push my buttons", "pull my strings", "cross my fingers", "hold my horses"] } ] },
+{
+  "expression": "push someone's buttons",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to deliberately do the things that make a particular person angry",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c02_u010",
+      "answer": "push my buttons",
+      "options": [
+        "push my buttons",
+        "pull my strings",
+        "cross my fingers",
+        "hold my horses"
+      ]
+    }
+  ]
+},
 
-  { "expression": "back to square one", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "back at the starting point because the progress made so far has been lost",
-    "exchanges": [ { "uid": "s05_e22_c03_u009", "answer": "back to square one",
-      "options": ["back to square one", "down to the wire", "up to the mark", "off to the races"] } ] },
+{
+  "expression": "back to square one",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "back at the starting point because the progress made so far has been lost",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c03_u009",
+      "answer": "back to square one",
+      "options": [
+        "back to square one",
+        "down to the wire",
+        "up to the mark",
+        "off to the races"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put someone up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to give someone a place to stay or pay for their accommodation",
-    "exchanges": [ { "uid": "s05_e22_c05_u014", "answer": "putting us up",
-      "options": ["putting us up", "taking us out", "setting us down", "letting us in"] } ] },
+{
+  "expression": "put someone up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to give someone a place to stay or pay for their accommodation",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c05_u014",
+      "answer": "putting us up",
+      "options": [
+        "putting us up",
+        "taking us out",
+        "setting us down",
+        "letting us in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get someone's hopes up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone expect something good that may not happen",
-    "exchanges": [ { "uid": "s05_e22_c06_u025", "answer": "get your hopes up",
-      "options": ["get your hopes up", "let your guard down", "put your foot down", "keep your chin up"] } ] },
+{
+  "expression": "get someone's hopes up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone expect something good that may not happen",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c06_u025",
+      "answer": "get your hopes up",
+      "options": [
+        "get your hopes up",
+        "let your guard down",
+        "put your foot down",
+        "keep your chin up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to appear or be found, often unexpectedly",
-    "exchanges": [ { "uid": "s05_e22_c10_u011", "answer": "turn up", "responseUid": "s05_e22_c10_u013",
-      "options": ["turn up", "run down", "come off", "set in"] } ] },
+{
+  "expression": "turn up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to appear or be found, often unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c10_u011",
+      "answer": "turn up",
+      "responseUid": "s05_e22_c10_u013",
+      "options": [
+        "turn up",
+        "run down",
+        "come off",
+        "set in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a fortune", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to earn a very large amount of money",
-    "exchanges": [ { "uid": "s05_e22_c08_u036", "answer": "make a fortune", "responseUid": null,
-      "options": ["make a fortune", "pay a visit", "take a seat", "lose a bet"] } ] },
+{
+  "expression": "make a fortune",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to earn a very large amount of money",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c08_u036",
+      "answer": "make a fortune",
+      "responseUid": null,
+      "options": [
+        "make a fortune",
+        "pay a visit",
+        "take a seat",
+        "lose a bet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "place a bet", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to risk money on the result of a game, race, or event",
-    "exchanges": [ { "uid": "s05_e22_c05_u022", "answer": "place a little bet", "cueUid": "s05_e22_c05_u019",
-      "options": ["place a little bet", "take a little nap", "have a little chat", "run a little test"] } ] },
+{
+  "expression": "place a bet",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to risk money on the result of a game, race, or event",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c05_u022",
+      "answer": "place a little bet",
+      "cueUid": "s05_e22_c05_u019",
+      "options": [
+        "place a little bet",
+        "take a little nap",
+        "have a little chat",
+        "run a little test"
+      ]
+    }
+  ]
+},
 
-  { "expression": "chilling", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "frightening in a quiet, creepy way",
-    "exchanges": [ { "uid": "s05_e22_c02_u020", "answer": "chilling",
-      "options": ["chilling", "soothing", "charming", "dazzling"] } ] },
+{
+  "expression": "chilling",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "frightening in a quiet, creepy way",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c02_u020",
+      "answer": "chilling",
+      "options": [
+        "chilling",
+        "soothing",
+        "charming",
+        "dazzling"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dump on", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to criticize something harshly and unfairly",
-    "exchanges": [ { "uid": "s05_e22_c06_u028", "answer": "dumping all over",
-      "options": ["dumping all over", "looking all over", "spreading all over", "rolling all over"] } ] },
+{
+  "expression": "dump on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to criticize something harshly and unfairly",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c06_u028",
+      "answer": "dumping all over",
+      "options": [
+        "dumping all over",
+        "looking all over",
+        "spreading all over",
+        "rolling all over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "supervision", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the act of watching over an activity to make sure it is done safely or correctly",
-    "exchanges": [ { "uid": "s05_e22_c07_u017", "answer": "supervision",
-      "options": ["supervision", "suspicion", "subscription", "satisfaction"] } ] },
+{
+  "expression": "supervision",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the act of watching over an activity to make sure it is done safely or correctly",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c07_u017",
+      "answer": "supervision",
+      "options": [
+        "supervision",
+        "suspicion",
+        "subscription",
+        "satisfaction"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freakishly", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "to a degree that is strange or abnormal",
-    "exchanges": [ { "uid": "s05_e22_c08_u032", "answer": "freakishly",
-      "options": ["freakishly", "frantically", "faithfully", "formally"] } ] },
+{
+  "expression": "freakishly",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "to a degree that is strange or abnormal",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c08_u032",
+      "answer": "freakishly",
+      "options": [
+        "freakishly",
+        "frantically",
+        "faithfully",
+        "formally"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hiney", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a playful, childish word for a person's buttocks",
-    "exchanges": [ { "uid": "s05_e22_c05_u052", "answer": "hiney", "responseUid": null,
-      "options": ["hiney", "tummy", "pinky", "belly"] } ] }
+{
+  "expression": "hiney",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a playful, childish word for a person's buttocks",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c05_u052",
+      "answer": "hiney",
+      "responseUid": null,
+      "options": [
+        "hiney",
+        "tummy",
+        "pinky",
+        "belly"
+      ]
+    }
+  ]
+}
 ]

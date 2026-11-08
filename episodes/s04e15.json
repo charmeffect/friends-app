@@ -93,7 +93,7 @@
 {
   "expression": "alimony",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "money a person must pay to a former spouse after a divorce",
   "exchanges": [
@@ -114,7 +114,7 @@
 {
   "expression": "pre-emptive strike",
   "type": "phrase",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "an attack made first to stop an expected problem before it can start",
   "exchanges": [

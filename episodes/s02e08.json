@@ -1,128 +1,510 @@
 [
-  { "expression": "not at all", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "a polite reply to thanks, meaning it was no trouble",
-    "exchanges": [ { "uid": "s02_e08_c13_u003", "answer": "not at all",
-      "options": ["not at all", "not so fast", "all at once", "no way out"] } ] },
+{
+  "expression": "not at all",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite reply to thanks, meaning it was no trouble",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c13_u003",
+      "answer": "not at all",
+      "options": [
+        "not at all",
+        "not so fast",
+        "all at once",
+        "no way out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "got it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "I understand; I have noted that",
-    "exchanges": [ { "uid": "s02_e08_c06_u014", "answer": "Got it",
-      "options": ["Got it", "Made it", "Took it", "Lost it"] } ] },
+{
+  "expression": "got it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "I understand; I have noted that",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c06_u014",
+      "answer": "Got it",
+      "options": [
+        "Got it",
+        "Made it",
+        "Took it",
+        "Lost it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a walk", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to go for a short walk, usually to talk or relax",
-    "exchanges": [ { "uid": "s02_e08_c08_u020", "answer": "take a walk",
-      "options": ["take a walk", "make a wish", "give a hand", "do a favor"] } ] },
+{
+  "expression": "take a walk",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go for a short walk, usually to talk or relax",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c08_u020",
+      "answer": "take a walk",
+      "options": [
+        "take a walk",
+        "make a wish",
+        "give a hand",
+        "do a favor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invent something, such as a rule or a story, that is not true",
-    "exchanges": [ { "uid": "s02_e08_c03_u031", "answer": "made up",
-      "cueUid": "s02_e08_c03_u026", "responseUid": null,
-      "options": ["made up", "gave up", "put up", "took up"] } ] },
+{
+  "expression": "make up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invent something, such as a rule or a story, that is not true",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c03_u031",
+      "answer": "made up",
+      "cueUid": "s02_e08_c03_u026",
+      "responseUid": null,
+      "options": [
+        "made up",
+        "gave up",
+        "put up",
+        "took up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no offense", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said before a remark to show you do not mean to insult the listener",
-    "exchanges": [ { "uid": "s02_e08_c05_u013", "answer": "No offense", "responseUid": null,
-      "options": ["No offense", "No kidding", "No wonder", "No problem"] } ] },
+{
+  "expression": "no offense",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before a remark to show you do not mean to insult the listener",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c05_u013",
+      "answer": "No offense",
+      "responseUid": null,
+      "options": [
+        "No offense",
+        "No kidding",
+        "No wonder",
+        "No problem"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have in common", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to share the same interests or qualities as someone",
-    "exchanges": [ { "uid": "s02_e08_c06_u013", "answer": "in common",
-      "options": ["in common", "at stake", "on hold", "in charge"] } ] },
+{
+  "expression": "have in common",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to share the same interests or qualities as someone",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c06_u013",
+      "answer": "in common",
+      "options": [
+        "in common",
+        "at stake",
+        "on hold",
+        "in charge"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break someone's heart", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to make someone very sad, especially by ending a relationship with them",
-    "exchanges": [ { "uid": "s02_e08_c08_u003", "answer": "break her heart",
-      "options": ["break her heart", "make her day", "keep her word", "save her seat"] } ] },
+{
+  "expression": "break someone's heart",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone very sad, especially by ending a relationship with them",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c08_u003",
+      "answer": "break her heart",
+      "options": [
+        "break her heart",
+        "make her day",
+        "keep her word",
+        "save her seat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [ { "uid": "s02_e08_c08_u014", "answer": "broke up with",
-      "cueUid": "s02_e08_c08_u012", "responseUid": "s02_e08_c08_u016",
-      "options": ["broke up with", "made up for", "got on with", "put up with"] } ] },
+{
+  "expression": "break up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c08_u014",
+      "answer": "broke up with",
+      "cueUid": "s02_e08_c08_u012",
+      "responseUid": "s02_e08_c08_u016",
+      "options": [
+        "broke up with",
+        "made up for",
+        "got on with",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "back someone up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to support someone by agreeing with what they say",
-    "exchanges": [ { "uid": "s02_e08_c09_u013", "answer": "back me up",
-      "options": ["back me up", "hold me down", "pick me up", "let me down"] } ] },
+{
+  "expression": "back someone up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to support someone by agreeing with what they say",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c09_u013",
+      "answer": "back me up",
+      "options": [
+        "back me up",
+        "hold me down",
+        "pick me up",
+        "let me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "allergic", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "having a bad physical reaction to a particular food or substance",
-    "exchanges": [ { "uid": "s02_e08_c13_u004", "answer": "allergic",
-      "options": ["allergic", "addicted", "attached", "married"] } ] },
+{
+  "expression": "allergic",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "having a bad physical reaction to a particular food or substance",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c13_u004",
+      "answer": "allergic",
+      "options": [
+        "allergic",
+        "addicted",
+        "attached",
+        "married"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to manage or get on in a situation; here Phoebe also plays on its other sense, to kiss",
-    "exchanges": [ { "uid": "s02_e08_c03_u010", "answer": "make out",
-      "options": ["make out", "show off", "drop by", "run off"] } ] },
+{
+  "expression": "make out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to manage or get on in a situation; here Phoebe also plays on its other sense, to kiss",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c03_u010",
+      "answer": "make out",
+      "options": [
+        "make out",
+        "show off",
+        "drop by",
+        "run off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pros and cons", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "the advantages and disadvantages of something",
-    "exchanges": [ { "uid": "s02_e08_c06_u007", "answer": "pros and cons",
-      "options": ["pros and cons", "ups and downs", "odds and ends", "dos and don'ts"] } ] },
+{
+  "expression": "pros and cons",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the advantages and disadvantages of something",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c06_u007",
+      "answer": "pros and cons",
+      "options": [
+        "pros and cons",
+        "ups and downs",
+        "odds and ends",
+        "dos and don'ts"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to be mentioned or raised in a conversation",
-    "exchanges": [ { "uid": "s02_e08_c09_u008", "answer": "come up", "cueUid": "s02_e08_c09_u005",
-      "options": ["come up", "go by", "wear off", "set in"] } ] },
+{
+  "expression": "come up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be mentioned or raised in a conversation",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c09_u008",
+      "answer": "come up",
+      "cueUid": "s02_e08_c09_u005",
+      "options": [
+        "come up",
+        "go by",
+        "wear off",
+        "set in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in spite of", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "without being stopped or affected by something; despite",
-    "exchanges": [ { "uid": "s02_e08_c10_u022", "answer": "in spite of",
-      "options": ["in spite of", "in front of", "in case of", "in charge of"] } ] },
+{
+  "expression": "in spite of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "without being stopped or affected by something; despite",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c10_u022",
+      "answer": "in spite of",
+      "options": [
+        "in spite of",
+        "in front of",
+        "in case of",
+        "in charge of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the other way around", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "in the opposite situation, with the positions of the two people or things reversed",
-    "exchanges": [ { "uid": "s02_e08_c10_u024", "answer": "the other way around",
-      "options": ["the other way around", "the whole way through", "the right way up", "the long way home"] } ] },
+{
+  "expression": "the other way around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in the opposite situation, with the positions of the two people or things reversed",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c10_u024",
+      "answer": "the other way around",
+      "options": [
+        "the other way around",
+        "the whole way through",
+        "the right way up",
+        "the long way home"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand a chance", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to have a real possibility of succeeding",
-    "exchanges": [ { "uid": "s02_e08_c12_u010", "answer": "stands a chance", "responseUid": null,
-      "options": ["stands a chance", "makes a point", "takes a turn", "draws a line"] } ] },
+{
+  "expression": "stand a chance",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have a real possibility of succeeding",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c12_u010",
+      "answer": "stands a chance",
+      "responseUid": null,
+      "options": [
+        "stands a chance",
+        "makes a point",
+        "takes a turn",
+        "draws a line"
+      ]
+    }
+  ]
+},
 
-  { "expression": "any day now", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "very soon, at any moment in the next few days",
-    "exchanges": [ { "uid": "s02_e08_c04_u012", "answer": "any day now",
-      "options": ["any day now", "every other day", "some time ago", "all day long"] } ] },
+{
+  "expression": "any day now",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "very soon, at any moment in the next few days",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c04_u012",
+      "answer": "any day now",
+      "options": [
+        "any day now",
+        "every other day",
+        "some time ago",
+        "all day long"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cast aside", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to reject or abandon someone or something you no longer want",
-    "exchanges": [ { "uid": "s02_e08_c03_u032", "answer": "casts aside", "responseUid": null,
-      "options": ["casts aside", "sets apart", "puts forward", "takes along"] } ] },
+{
+  "expression": "cast aside",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to reject or abandon someone or something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c03_u032",
+      "answer": "casts aside",
+      "responseUid": null,
+      "options": [
+        "casts aside",
+        "sets apart",
+        "puts forward",
+        "takes along"
+      ]
+    }
+  ]
+},
 
-  { "expression": "entail", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to involve something as a necessary part",
-    "exchanges": [ { "uid": "s02_e08_c04_u003", "answer": "entail",
-      "options": ["entail", "enforce", "enroll", "endure"] } ] },
+{
+  "expression": "entail",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to involve something as a necessary part",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c04_u003",
+      "answer": "entail",
+      "options": [
+        "entail",
+        "enforce",
+        "enroll",
+        "endure"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cut someone some slack", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to treat someone less harshly than usual because of their situation",
-    "exchanges": [ { "uid": "s02_e08_c09_u005", "answer": "cut him some slack",
-      "options": ["cut him some slack", "put him on hold", "show him the ropes", "take him for granted"] } ] },
+{
+  "expression": "cut someone some slack",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to treat someone less harshly than usual because of their situation",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c09_u005",
+      "answer": "cut him some slack",
+      "options": [
+        "cut him some slack",
+        "put him on hold",
+        "show him the ropes",
+        "take him for granted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "find it in your heart", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to be kind and willing enough to do something, such as forgive someone",
-    "exchanges": [ { "uid": "s02_e08_c12_u009", "answer": "in your heart",
-      "options": ["in your heart", "on your mind", "at your feet", "by your side"] } ] },
+{
+  "expression": "find it in your heart",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be kind and willing enough to do something, such as forgive someone",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c12_u009",
+      "answer": "in your heart",
+      "options": [
+        "in your heart",
+        "on your mind",
+        "at your feet",
+        "by your side"
+      ]
+    }
+  ]
+},
 
-  { "expression": "appalling", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "shocking and very bad",
-    "exchanges": [ { "uid": "s02_e08_c12_u010", "answer": "appalling", "responseUid": null,
-      "options": ["appalling", "appetizing", "applicable", "approximate"] } ] },
+{
+  "expression": "appalling",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "shocking and very bad",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c12_u010",
+      "answer": "appalling",
+      "responseUid": null,
+      "options": [
+        "appalling",
+        "appetizing",
+        "applicable",
+        "approximate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bad boy", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "an impressive or powerful machine or object, said admiringly",
-    "exchanges": [ { "uid": "s02_e08_c03_u002", "answer": "bad boy",
-      "options": ["bad boy", "big shot", "fat cat", "top dog"] } ] },
+{
+  "expression": "bad boy",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an impressive or powerful machine or object, said admiringly",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c03_u002",
+      "answer": "bad boy",
+      "options": [
+        "bad boy",
+        "big shot",
+        "fat cat",
+        "top dog"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what have you", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "and other similar things; used at the end of a list instead of naming more",
-    "exchanges": [ { "uid": "s02_e08_c04_u012", "answer": "what have you",
-      "options": ["what have you", "who knows where", "how about that", "when need be"] } ] },
+{
+  "expression": "what have you",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "and other similar things; used at the end of a list instead of naming more",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c04_u012",
+      "answer": "what have you",
+      "options": [
+        "what have you",
+        "who knows where",
+        "how about that",
+        "when need be"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ditzy", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "silly, scatterbrained and not very practical",
-    "exchanges": [ { "uid": "s02_e08_c08_u044", "answer": "ditzy",
-      "options": ["ditzy", "dizzy", "dusty", "dainty"] } ] }
+{
+  "expression": "ditzy",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "silly, scatterbrained and not very practical",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c08_u044",
+      "answer": "ditzy",
+      "options": [
+        "ditzy",
+        "dizzy",
+        "dusty",
+        "dainty"
+      ]
+    }
+  ]
+}
 ]

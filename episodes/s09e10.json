@@ -1,122 +1,482 @@
 [
-  { "expression": "be off to", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be leaving now in order to go somewhere",
-    "exchanges": [ { "uid": "s09_e10_c01_u004", "answer": "off to",
-      "options": ["off to", "up for", "down with", "on to"] } ] },
+{
+  "expression": "be off to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be leaving now in order to go somewhere",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c01_u004",
+      "answer": "off to",
+      "options": [
+        "off to",
+        "up for",
+        "down with",
+        "on to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no call for", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "used to say that there is no good reason or excuse for someone's behaviour",
-    "exchanges": [ { "uid": "s09_e10_c02_u001", "answer": "call for",
-      "options": ["call for", "sign of", "end to", "fear of"] } ] },
+{
+  "expression": "no call for",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to say that there is no good reason or excuse for someone's behaviour",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c02_u001",
+      "answer": "call for",
+      "options": [
+        "call for",
+        "sign of",
+        "end to",
+        "fear of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to look at something closely because it interests you",
-    "exchanges": [ { "uid": "s09_e10_c02_u005", "answer": "checking out",
-      "options": ["checking out", "showing off", "breaking up", "handing out"] } ] },
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c02_u005",
+      "answer": "checking out",
+      "options": [
+        "checking out",
+        "showing off",
+        "breaking up",
+        "handing out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "to hell with", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to say angrily that you no longer care about someone or something",
-    "exchanges": [ { "uid": "s09_e10_c02_u005", "answer": "to hell with",
-      "options": ["to hell with", "on par with", "along with", "up against"] } ] },
+{
+  "expression": "to hell with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say angrily that you no longer care about someone or something",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c02_u005",
+      "answer": "to hell with",
+      "options": [
+        "to hell with",
+        "on par with",
+        "along with",
+        "up against"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to make someone feel happier",
-    "exchanges": [ { "uid": "s09_e10_c02_u008", "answer": "cheer you guys up",
-      "options": ["cheer you guys up", "wear you guys out", "let you guys down", "put you guys off"] } ] },
+{
+  "expression": "cheer up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel happier",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c02_u008",
+      "answer": "cheer you guys up",
+      "options": [
+        "cheer you guys up",
+        "wear you guys out",
+        "let you guys down",
+        "put you guys off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in order", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "appropriate or deserved in a particular situation",
-    "exchanges": [ { "uid": "s09_e10_c02_u008", "answer": "in order",
-      "options": ["in order", "on hold", "in vain", "at stake"] } ] },
+{
+  "expression": "in order",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "appropriate or deserved in a particular situation",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c02_u008",
+      "answer": "in order",
+      "options": [
+        "in order",
+        "on hold",
+        "in vain",
+        "at stake"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pep talk", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "a short speech meant to encourage people and make them feel more confident",
-    "exchanges": [ { "uid": "s09_e10_c02_u015", "answer": "pep-talk",
-      "options": ["pep-talk", "sit-in", "walk-out", "check-up"] } ] },
+{
+  "expression": "pep talk",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a short speech meant to encourage people and make them feel more confident",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c02_u015",
+      "answer": "pep-talk",
+      "options": [
+        "pep-talk",
+        "sit-in",
+        "walk-out",
+        "check-up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wily", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "clever at getting what you want, especially by tricking people",
-    "exchanges": [ { "uid": "s09_e10_c04_u008", "answer": "wily",
-      "options": ["wily", "timid", "clumsy", "naive"] } ] },
+{
+  "expression": "wily",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "clever at getting what you want, especially by tricking people",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c04_u008",
+      "answer": "wily",
+      "options": [
+        "wily",
+        "timid",
+        "clumsy",
+        "naive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a bunch of", "type": "phrase", "level": "elementary", "pos": "expression",
-    "meaning": "a large number of things",
-    "exchanges": [ { "uid": "s09_e10_c04_u018", "answer": "a bunch of",
-      "options": ["a bunch of", "a piece of", "a slice of", "a drop of"] } ] },
+{
+  "expression": "a bunch of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a large number of things",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c04_u018",
+      "answer": "a bunch of",
+      "options": [
+        "a bunch of",
+        "a piece of",
+        "a slice of",
+        "a drop of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sweet tooth", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "a strong liking for sweet foods such as cake and candy",
-    "exchanges": [ { "uid": "s09_e10_c05_u008", "answer": "Sweet-tooth",
-      "options": ["Sweet-tooth", "Big-shot", "Hot-head", "Smart-mouth"] } ] },
+{
+  "expression": "sweet tooth",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a strong liking for sweet foods such as cake and candy",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c05_u008",
+      "answer": "Sweet-tooth",
+      "options": [
+        "Sweet-tooth",
+        "Big-shot",
+        "Hot-head",
+        "Smart-mouth"
+      ]
+    }
+  ]
+},
 
-  { "expression": "last but not least", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to introduce the final item in a list, saying it is just as important",
-    "exchanges": [ { "uid": "s09_e10_c05_u012", "answer": "last but not least",
-      "options": ["last but not least", "first and foremost", "once and for all", "sooner or later"] } ] },
+{
+  "expression": "last but not least",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the final item in a list, saying it is just as important",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c05_u012",
+      "answer": "last but not least",
+      "options": [
+        "last but not least",
+        "first and foremost",
+        "once and for all",
+        "sooner or later"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dress up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to put on a costume or special clothes",
-    "exchanges": [ { "uid": "s09_e10_c06_u025", "answer": "dress up",
-      "options": ["dress up", "show up", "make up", "grow up"] } ] },
+{
+  "expression": "dress up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to put on a costume or special clothes",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c06_u025",
+      "answer": "dress up",
+      "options": [
+        "dress up",
+        "show up",
+        "make up",
+        "grow up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pissed off", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "very angry or annoyed",
-    "exchanges": [ { "uid": "s09_e10_c07_u006", "answer": "pissed off",
-      "options": ["pissed off", "laid back", "stuck up", "well off"] } ] },
+{
+  "expression": "pissed off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very angry or annoyed",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c07_u006",
+      "answer": "pissed off",
+      "options": [
+        "pissed off",
+        "laid back",
+        "stuck up",
+        "well off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "colleague", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a person you work with in the same job or organization",
-    "exchanges": [ { "uid": "s09_e10_c08_u016", "answer": "colleague",
-      "options": ["colleague", "landlady", "customer", "tenant"] } ] },
+{
+  "expression": "colleague",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person you work with in the same job or organization",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c08_u016",
+      "answer": "colleague",
+      "options": [
+        "colleague",
+        "landlady",
+        "customer",
+        "tenant"
+      ]
+    }
+  ]
+},
 
-  { "expression": "runner-up", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a person who finishes in second place in a competition",
-    "exchanges": [ { "uid": "s09_e10_c08_u021", "answer": "runner-up",
-      "options": ["runner-up", "drop-out", "stand-in", "has-been"] } ] },
+{
+  "expression": "runner-up",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who finishes in second place in a competition",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c08_u021",
+      "answer": "runner-up",
+      "options": [
+        "runner-up",
+        "drop-out",
+        "stand-in",
+        "has-been"
+      ]
+    }
+  ]
+},
 
-  { "expression": "back off", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to stop threatening or bothering someone and move away",
-    "exchanges": [ { "uid": "s09_e10_c10_u001", "answer": "back off",
-      "options": ["back off", "dig in", "turn up", "log on"],
-      "responseUid": "s09_e10_c10_u003" } ] },
+{
+  "expression": "back off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop threatening or bothering someone and move away",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c10_u001",
+      "answer": "back off",
+      "options": [
+        "back off",
+        "dig in",
+        "turn up",
+        "log on"
+      ],
+      "responseUid": "s09_e10_c10_u003"
+    }
+  ]
+},
 
-  { "expression": "entitled to", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "having a fair reason or right to do or feel something",
-    "exchanges": [ { "uid": "s09_e10_c10_u011", "answer": "entitled to",
-      "options": ["entitled to", "opposed to", "related to", "addicted to"] } ] },
+{
+  "expression": "entitled to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "having a fair reason or right to do or feel something",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c10_u011",
+      "answer": "entitled to",
+      "options": [
+        "entitled to",
+        "opposed to",
+        "related to",
+        "addicted to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bode well", "type": "phrase", "level": "expert", "pos": "verb",
-    "meaning": "to be a sign that something good will happen",
-    "exchanges": [ { "uid": "s09_e10_c11_u020", "answer": "bodes well",
-      "options": ["bodes well", "goes wrong", "runs short", "sits tight"] } ] },
+{
+  "expression": "bode well",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be a sign that something good will happen",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c11_u020",
+      "answer": "bodes well",
+      "options": [
+        "bodes well",
+        "goes wrong",
+        "runs short",
+        "sits tight"
+      ]
+    }
+  ]
+},
 
-  { "expression": "safe to say", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "used to say that something is almost certainly true",
-    "exchanges": [ { "uid": "s09_e10_c11_u029", "answer": "safe to say",
-      "options": ["safe to say", "hard to tell", "fair to ask", "fun to see"] } ] },
+{
+  "expression": "safe to say",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something is almost certainly true",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c11_u029",
+      "answer": "safe to say",
+      "options": [
+        "safe to say",
+        "hard to tell",
+        "fair to ask",
+        "fun to see"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put one's foot down", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to firmly refuse to allow something or insist on a decision",
-    "exchanges": [ { "uid": "s09_e10_c14_u006", "answer": "putting my foot down",
-      "options": ["putting my foot down", "pulling my weight", "keeping my head down", "losing my touch"] } ] },
+{
+  "expression": "put one's foot down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to firmly refuse to allow something or insist on a decision",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c14_u006",
+      "answer": "putting my foot down",
+      "options": [
+        "putting my foot down",
+        "pulling my weight",
+        "keeping my head down",
+        "losing my touch"
+      ]
+    }
+  ]
+},
 
-  { "expression": "think through", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to consider something carefully before deciding",
-    "exchanges": [ { "uid": "s09_e10_c15_u025", "answer": "thought this through",
-      "options": ["thought this through", "handed this out", "turned this down", "picked this up"] } ] },
+{
+  "expression": "think through",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to consider something carefully before deciding",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c15_u025",
+      "answer": "thought this through",
+      "options": [
+        "thought this through",
+        "handed this out",
+        "turned this down",
+        "picked this up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be discovered to be something, often unexpectedly",
-    "exchanges": [ { "uid": "s09_e10_c15_u020", "answer": "Turns out",
-      "options": ["Turns out", "Comes in", "Sets off", "Works up"] } ] },
+{
+  "expression": "turn out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be discovered to be something, often unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c15_u020",
+      "answer": "Turns out",
+      "options": [
+        "Turns out",
+        "Comes in",
+        "Sets off",
+        "Works up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "timely", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "happening at a suitable or useful moment",
-    "exchanges": [ { "uid": "s09_e10_c15_u038", "answer": "timely",
-      "options": ["timely", "costly", "clumsy", "hollow"] } ] },
+{
+  "expression": "timely",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "happening at a suitable or useful moment",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c15_u038",
+      "answer": "timely",
+      "options": [
+        "timely",
+        "costly",
+        "clumsy",
+        "hollow"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kept man", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a man who is financially supported by his wife or partner instead of earning his own money",
-    "exchanges": [ { "uid": "s09_e10_c16_u001", "answer": "kept man",
-      "options": ["kept man", "yes man", "marked man", "ladies' man"] } ] }
+{
+  "expression": "kept man",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a man who is financially supported by his wife or partner instead of earning his own money",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c16_u001",
+      "answer": "kept man",
+      "options": [
+        "kept man",
+        "yes man",
+        "marked man",
+        "ladies' man"
+      ]
+    }
+  ]
+}
 ]

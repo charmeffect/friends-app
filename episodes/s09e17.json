@@ -1,129 +1,514 @@
 [
-  { "expression": "be up to", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to be doing or planning (what are you up to = what are you doing)",
-    "exchanges": [ { "uid": "s09_e17_c01_u005", "answer": "up to",
-      "options": ["up to", "up for", "up on", "up at"] } ] },
+{
+  "expression": "be up to",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be doing or planning (what are you up to = what are you doing)",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c01_u005",
+      "answer": "up to",
+      "options": [
+        "up to",
+        "up for",
+        "up on",
+        "up at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go under", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "of a business, to fail and stop operating because it has no money",
-    "exchanges": [ { "uid": "s09_e17_c01_u009", "answer": "went under",
-      "options": ["went under", "went over", "went around", "went across"] } ] },
+{
+  "expression": "go under",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "of a business, to fail and stop operating because it has no money",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c01_u009",
+      "answer": "went under",
+      "options": [
+        "went under",
+        "went over",
+        "went around",
+        "went across"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it clear", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to express something so that there is no doubt about what you mean",
-    "exchanges": [ { "uid": "s09_e17_c01_u020", "answer": "made it clear",
-      "options": ["made it clear", "took it hard", "left it open", "kept it short"] } ] },
+{
+  "expression": "make it clear",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to express something so that there is no doubt about what you mean",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c01_u020",
+      "answer": "made it clear",
+      "options": [
+        "made it clear",
+        "took it hard",
+        "left it open",
+        "kept it short"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rookie mistake", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "a careless error that only an inexperienced beginner would make",
-    "exchanges": [ { "uid": "s09_e17_c03_u014", "answer": "Rookie mistake",
-      "options": ["Rookie mistake", "Lucky break", "Cheap shot", "Fair trade"] } ] },
+{
+  "expression": "rookie mistake",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a careless error that only an inexperienced beginner would make",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c03_u014",
+      "answer": "Rookie mistake",
+      "options": [
+        "Rookie mistake",
+        "Lucky break",
+        "Cheap shot",
+        "Fair trade"
+      ]
+    }
+  ]
+},
 
-  { "expression": "respectfully disagree", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to say politely that you do not share someone's opinion",
-    "exchanges": [ { "uid": "s09_e17_c03_u018", "answer": "respectfully disagree",
-      "options": ["respectfully disagree", "quietly wonder", "rarely forget", "truly remember"] } ] },
+{
+  "expression": "respectfully disagree",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to say politely that you do not share someone's opinion",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c03_u018",
+      "answer": "respectfully disagree",
+      "options": [
+        "respectfully disagree",
+        "quietly wonder",
+        "rarely forget",
+        "truly remember"
+      ]
+    }
+  ]
+},
 
-  { "expression": "who cares", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show that something does not matter to you",
-    "exchanges": [ { "uid": "s09_e17_c03_u020", "answer": "Who cares",
-      "options": ["Who cares", "Who called", "Who's there", "Who said"] } ] },
+{
+  "expression": "who cares",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that something does not matter to you",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c03_u020",
+      "answer": "Who cares",
+      "options": [
+        "Who cares",
+        "Who called",
+        "Who's there",
+        "Who said"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get back at", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to do something bad to someone because they hurt you",
-    "exchanges": [ { "uid": "s09_e17_c05_u006", "answer": "get back at",
-      "options": ["get back at", "look up to", "run out of", "catch up with"] } ] },
+{
+  "expression": "get back at",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something bad to someone because they hurt you",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c05_u006",
+      "answer": "get back at",
+      "options": [
+        "get back at",
+        "look up to",
+        "run out of",
+        "catch up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "there's no harm in", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "used to say that doing something will not cause any damage or problem",
-    "exchanges": [ { "uid": "s09_e17_c06_u004", "answer": "no harm",
-      "options": ["no harm", "no doubt", "no room", "no sign"] } ] },
+{
+  "expression": "there's no harm in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that doing something will not cause any damage or problem",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c06_u004",
+      "answer": "no harm",
+      "options": [
+        "no harm",
+        "no doubt",
+        "no room",
+        "no sign"
+      ]
+    }
+  ]
+},
 
-  { "expression": "next thing you know", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to say that something happens suddenly and unexpectedly after a series of events",
-    "exchanges": [ { "uid": "s09_e17_c06_u005", "answer": "next thing you know",
-      "options": ["next thing you know", "last time you checked", "first thing tomorrow", "every now and then"] } ] },
+{
+  "expression": "next thing you know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something happens suddenly and unexpectedly after a series of events",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c06_u005",
+      "answer": "next thing you know",
+      "options": [
+        "next thing you know",
+        "last time you checked",
+        "first thing tomorrow",
+        "every now and then"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wedged", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "stuck tightly in a narrow space so that you cannot move",
-    "exchanges": [ { "uid": "s09_e17_c06_u005", "answer": "wedged",
-      "options": ["wedged", "hired", "elected", "printed"] } ] },
+{
+  "expression": "wedged",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "stuck tightly in a narrow space so that you cannot move",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c06_u005",
+      "answer": "wedged",
+      "options": [
+        "wedged",
+        "hired",
+        "elected",
+        "printed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "remind someone of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make someone think of a person or thing that is similar",
-    "exchanges": [ { "uid": "s09_e17_c06_u012", "answer": "reminds me of",
-      "options": ["reminds me of", "keeps me from", "takes me for", "gets me through"] } ] },
+{
+  "expression": "remind someone of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone think of a person or thing that is similar",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c06_u012",
+      "answer": "reminds me of",
+      "options": [
+        "reminds me of",
+        "keeps me from",
+        "takes me for",
+        "gets me through"
+      ]
+    }
+  ]
+},
 
-  { "expression": "swallow", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to make food or an object go down your throat into your stomach",
-    "exchanges": [ { "uid": "s09_e17_c07_u009", "answer": "swallowed",
-      "options": ["swallowed", "invented", "delivered", "elected"] } ] },
+{
+  "expression": "swallow",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make food or an object go down your throat into your stomach",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c07_u009",
+      "answer": "swallowed",
+      "options": [
+        "swallowed",
+        "invented",
+        "delivered",
+        "elected"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [
-      { "uid": "s09_e17_c08_u005", "answer": "get over",
-        "options": ["get over", "get into", "look after", "run into"] },
-      { "uid": "s09_e17_c08_u020", "answer": "getting over",
-        "options": ["getting over", "getting into", "looking after", "putting off"] } ] },
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c08_u005",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "get into",
+        "look after",
+        "run into"
+      ]
+    },
+    {
+      "uid": "s09_e17_c08_u020",
+      "answer": "getting over",
+      "options": [
+        "getting over",
+        "getting into",
+        "looking after",
+        "putting off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw someone off", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to confuse someone so that they do not notice what is really going on",
-    "exchanges": [ { "uid": "s09_e17_c08_u019", "answer": "thrown off",
-      "options": ["thrown off", "worn out", "handed in", "picked up"] } ] },
+{
+  "expression": "throw someone off",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to confuse someone so that they do not notice what is really going on",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c08_u019",
+      "answer": "thrown off",
+      "options": [
+        "thrown off",
+        "worn out",
+        "handed in",
+        "picked up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s09_e17_c08_u022", "answer": "hang out", "cueUid": "s09_e17_c08_u020",
-      "options": ["hang out", "hold on", "sit back", "break up"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c08_u022",
+      "answer": "hang out",
+      "cueUid": "s09_e17_c08_u020",
+      "options": [
+        "hang out",
+        "hold on",
+        "sit back",
+        "break up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to vomit",
-    "exchanges": [ { "uid": "s09_e17_c08_u033", "answer": "throw up", "responseUid": null,
-      "options": ["throw up", "cheer up", "sign up", "pay up"] } ] },
+{
+  "expression": "throw up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to vomit",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c08_u033",
+      "answer": "throw up",
+      "responseUid": null,
+      "options": [
+        "throw up",
+        "cheer up",
+        "sign up",
+        "pay up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vocal", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "expressing opinions and feelings openly and loudly",
-    "exchanges": [ { "uid": "s09_e17_c09_u007", "answer": "vocal",
-      "options": ["vocal", "rural", "fragile", "ancient"] } ] },
+{
+  "expression": "vocal",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "expressing opinions and feelings openly and loudly",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c09_u007",
+      "answer": "vocal",
+      "options": [
+        "vocal",
+        "rural",
+        "fragile",
+        "ancient"
+      ]
+    }
+  ]
+},
 
-  { "expression": "condolences", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "expressions of sympathy to someone whose relative or friend has died",
-    "exchanges": [ { "uid": "s09_e17_c09_u009", "answer": "condolences",
-      "options": ["condolences", "coupons", "invoices", "recipes"] } ] },
+{
+  "expression": "condolences",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "expressions of sympathy to someone whose relative or friend has died",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c09_u009",
+      "answer": "condolences",
+      "options": [
+        "condolences",
+        "coupons",
+        "invoices",
+        "recipes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unreasonable", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "not fair or sensible; expecting too much",
-    "exchanges": [ { "uid": "s09_e17_c10_u010", "answer": "unreasonable",
-      "options": ["unreasonable", "unbreakable", "unemployed", "untidy"] } ] },
+{
+  "expression": "unreasonable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not fair or sensible; expecting too much",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c10_u010",
+      "answer": "unreasonable",
+      "options": [
+        "unreasonable",
+        "unbreakable",
+        "unemployed",
+        "untidy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "step up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to take action and accept responsibility when something needs to be done",
-    "exchanges": [ { "uid": "s09_e17_c10_u017", "answer": "step up",
-      "options": ["step up", "show off", "sleep in", "dress up"] } ] },
+{
+  "expression": "step up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take action and accept responsibility when something needs to be done",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c10_u017",
+      "answer": "step up",
+      "options": [
+        "step up",
+        "show off",
+        "sleep in",
+        "dress up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blow it", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to waste a good opportunity by failing or making a mistake",
-    "exchanges": [ { "uid": "s09_e17_c11_u029", "answer": "blew it",
-      "options": ["blew it", "made it", "nailed it", "got it"] } ] },
+{
+  "expression": "blow it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to waste a good opportunity by failing or making a mistake",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c11_u029",
+      "answer": "blew it",
+      "options": [
+        "blew it",
+        "made it",
+        "nailed it",
+        "got it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "intently", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "with close, focused attention",
-    "exchanges": [ { "uid": "s09_e17_c12_u040", "answer": "intently",
-      "options": ["intently", "loosely", "cheaply", "wrongly"] } ] },
+{
+  "expression": "intently",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "with close, focused attention",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u040",
+      "answer": "intently",
+      "options": [
+        "intently",
+        "loosely",
+        "cheaply",
+        "wrongly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invite someone on a date",
-    "exchanges": [ { "uid": "s09_e17_c12_u041", "answer": "asking him out",
-      "options": ["asking him out", "turning him down", "cheering him up", "letting him down"] } ] },
+{
+  "expression": "ask out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone on a date",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u041",
+      "answer": "asking him out",
+      "options": [
+        "asking him out",
+        "turning him down",
+        "cheering him up",
+        "letting him down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make someone's day", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to make someone feel very happy",
-    "exchanges": [ { "uid": "s09_e17_c12_u042", "answer": "made my day",
-      "options": ["made my day", "lost my place", "took my turn", "paid my rent"] } ] },
+{
+  "expression": "make someone's day",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to make someone feel very happy",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u042",
+      "answer": "made my day",
+      "options": [
+        "made my day",
+        "lost my place",
+        "took my turn",
+        "paid my rent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have a strong, often secret, romantic attraction to someone",
-    "exchanges": [ { "uid": "s09_e17_c12_u043", "answer": "had a crush on", "responseUid": null,
-      "options": ["had a crush on", "made a fool of", "took a look at", "kept an eye on"] } ] }
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u043",
+      "answer": "had a crush on",
+      "responseUid": null,
+      "options": [
+        "had a crush on",
+        "made a fool of",
+        "took a look at",
+        "kept an eye on"
+      ]
+    }
+  ]
+}
 ]

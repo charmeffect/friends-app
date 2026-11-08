@@ -248,7 +248,7 @@
 {
   "expression": "the odds",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "noun",
   "meaning": "the probability that something will happen",
   "exchanges": [
@@ -420,7 +420,7 @@
 {
   "expression": "raise the stakes",
   "type": "phrase",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to increase the amount of money or the risk involved in a bet or situation",
   "exchanges": [

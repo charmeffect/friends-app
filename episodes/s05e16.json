@@ -1,126 +1,506 @@
 [
-  { "expression": "take care", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when saying goodbye to wish someone well",
-    "exchanges": [ { "uid": "s05_e16_c08_u020", "answer": "take care",
-      "options": ["take care", "hold still", "sit tight", "stay put"] } ] },
+{
+  "expression": "take care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when saying goodbye to wish someone well",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c08_u020",
+      "answer": "take care",
+      "options": [
+        "take care",
+        "hold still",
+        "sit tight",
+        "stay put"
+      ]
+    }
+  ]
+},
 
-  { "expression": "your fault", "type": "phrase", "level": "elementary", "pos": "noun",
-    "meaning": "used to say that someone is responsible for something bad that happened",
-    "exchanges": [ { "uid": "s05_e16_c11_u008", "answer": "your fault",
-      "options": ["your fault", "your turn", "your call", "your loss"] } ] },
+{
+  "expression": "your fault",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "used to say that someone is responsible for something bad that happened",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c11_u008",
+      "answer": "your fault",
+      "options": [
+        "your fault",
+        "your turn",
+        "your call",
+        "your loss"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to help someone with a task",
-    "exchanges": [ { "uid": "s05_e16_c09_u002", "answer": "a hand",
-      "options": ["a hand", "a break", "a call", "a hint"] } ] },
+{
+  "expression": "give someone a hand",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to help someone with a task",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c09_u002",
+      "answer": "a hand",
+      "options": [
+        "a hand",
+        "a break",
+        "a call",
+        "a hint"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take back", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to return something to the place it came from, such as a shop or counter",
-    "exchanges": [ { "uid": "s05_e16_c03_u009", "answer": "take it back",
-      "options": ["take it back", "put it off", "pick it up", "pay it off"] } ] },
+{
+  "expression": "take back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return something to the place it came from, such as a shop or counter",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c03_u009",
+      "answer": "take it back",
+      "options": [
+        "take it back",
+        "put it off",
+        "pick it up",
+        "pay it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's with", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "asked to find out the reason for something strange or unexpected",
-    "exchanges": [ { "uid": "s05_e16_c03_u021", "answer": "What's with",
-      "options": ["What's with", "Where's at", "Who's for", "How's about"] } ] },
+{
+  "expression": "what's with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked to find out the reason for something strange or unexpected",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c03_u021",
+      "answer": "What's with",
+      "options": [
+        "What's with",
+        "Where's at",
+        "Who's for",
+        "How's about"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a while", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to need a fairly long time",
-    "exchanges": [ { "uid": "s05_e16_c03_u005", "answer": "take a while", "responseUid": "s05_e16_c03_u007",
-      "options": ["take a while", "make a point", "hold a grudge", "catch a break"] } ] },
+{
+  "expression": "take a while",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to need a fairly long time",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c03_u005",
+      "answer": "take a while",
+      "responseUid": "s05_e16_c03_u007",
+      "options": [
+        "take a while",
+        "make a point",
+        "hold a grudge",
+        "catch a break"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I bet", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when you feel sure that something is true or will happen",
-    "exchanges": [ { "uid": "s05_e16_c03_u008", "answer": "I bet",
-      "options": ["I bet", "I wish", "I hope", "I fear"] } ] },
+{
+  "expression": "I bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you feel sure that something is true or will happen",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c03_u008",
+      "answer": "I bet",
+      "options": [
+        "I bet",
+        "I wish",
+        "I hope",
+        "I fear"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good deed", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a kind or helpful act done for someone else",
-    "exchanges": [ { "uid": "s05_e16_c07_u004", "answer": "good deeds",
-      "options": ["good deeds", "kind words", "big favors", "hard times"] } ] },
+{
+  "expression": "good deed",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a kind or helpful act done for someone else",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c07_u004",
+      "answer": "good deeds",
+      "options": [
+        "good deeds",
+        "kind words",
+        "big favors",
+        "hard times"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tape measure", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a long flexible strip marked with units, used for measuring length",
-    "exchanges": [ { "uid": "s05_e16_c07_u040", "answer": "tape measure",
-      "options": ["tape measure", "tape recorder", "paper clip", "power drill"] } ] },
+{
+  "expression": "tape measure",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a long flexible strip marked with units, used for measuring length",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c07_u040",
+      "answer": "tape measure",
+      "options": [
+        "tape measure",
+        "tape recorder",
+        "paper clip",
+        "power drill"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep up the good work", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to encourage someone to continue doing something well",
-    "exchanges": [ { "uid": "s05_e16_c08_u008", "answer": "keep up",
-      "options": ["keep up", "hold on", "put off", "get by"] } ] },
+{
+  "expression": "keep up the good work",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to encourage someone to continue doing something well",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c08_u008",
+      "answer": "keep up",
+      "options": [
+        "keep up",
+        "hold on",
+        "put off",
+        "get by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stuck", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "unable to move or leave a place",
-    "exchanges": [ { "uid": "s05_e16_c10_u038", "answer": "stuck",
-      "options": ["stuck", "loose", "shiny", "soaked"] } ] },
+{
+  "expression": "stuck",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unable to move or leave a place",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c10_u038",
+      "answer": "stuck",
+      "options": [
+        "stuck",
+        "loose",
+        "shiny",
+        "soaked"
+      ]
+    }
+  ]
+},
 
-  { "expression": "add up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make sense or seem consistent and believable",
-    "exchanges": [ { "uid": "s05_e16_c04_u019", "answer": "add up", "responseUid": "s05_e16_c04_u021",
-      "options": ["add up", "show up", "turn up", "cheer up"] } ] },
+{
+  "expression": "add up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make sense or seem consistent and believable",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c04_u019",
+      "answer": "add up",
+      "responseUid": "s05_e16_c04_u021",
+      "options": [
+        "add up",
+        "show up",
+        "turn up",
+        "cheer up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "there you have it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when something has just been shown or proved and nothing more needs saying",
-    "exchanges": [ { "uid": "s05_e16_c07_u033", "answer": "there you have it",
-      "options": ["there you have it", "here we go again", "now you tell me", "off you go then"] } ] },
+{
+  "expression": "there you have it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something has just been shown or proved and nothing more needs saying",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c07_u033",
+      "answer": "there you have it",
+      "options": [
+        "there you have it",
+        "here we go again",
+        "now you tell me",
+        "off you go then"
+      ]
+    }
+  ]
+},
 
-  { "expression": "undercover", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "working secretly while pretending to be someone else, especially as a police officer",
-    "exchanges": [ { "uid": "s05_e16_c08_u012", "answer": "undercover",
-      "options": ["undercover", "underage", "overdue", "underweight"] } ] },
+{
+  "expression": "undercover",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "working secretly while pretending to be someone else, especially as a police officer",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c08_u012",
+      "answer": "undercover",
+      "options": [
+        "undercover",
+        "underage",
+        "overdue",
+        "underweight"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit on", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
-    "exchanges": [ { "uid": "s05_e16_c09_u017", "answer": "hit on",
-      "options": ["hit on", "hang on", "sit on", "step on"] } ] },
+{
+  "expression": "hit on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c09_u017",
+      "answer": "hit on",
+      "options": [
+        "hit on",
+        "hang on",
+        "sit on",
+        "step on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flattered", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "pleased and honored because someone has shown that they admire or value you",
-    "exchanges": [ { "uid": "s05_e16_c09_u015", "answer": "flattered",
-      "options": ["flattered", "frightened", "exhausted", "relieved"] } ] },
+{
+  "expression": "flattered",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "pleased and honored because someone has shown that they admire or value you",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c09_u015",
+      "answer": "flattered",
+      "options": [
+        "flattered",
+        "frightened",
+        "exhausted",
+        "relieved"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pivot", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to turn around a central point",
-    "exchanges": [ { "uid": "s05_e16_c10_u034", "answer": "pivot",
-      "options": ["pivot", "shrink", "float", "melt"] } ] },
+{
+  "expression": "pivot",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to turn around a central point",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c10_u034",
+      "answer": "pivot",
+      "options": [
+        "pivot",
+        "shrink",
+        "float",
+        "melt"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for crying out loud", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to show annoyance, surprise, or disbelief about something",
-    "exchanges": [ { "uid": "s05_e16_c11_u012", "answer": "for crying out loud", "responseUid": null,
-      "options": ["for crying out loud", "for the time being", "for what it's worth", "for old times' sake"] } ] },
+{
+  "expression": "for crying out loud",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show annoyance, surprise, or disbelief about something",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c11_u012",
+      "answer": "for crying out loud",
+      "responseUid": null,
+      "options": [
+        "for crying out loud",
+        "for the time being",
+        "for what it's worth",
+        "for old times' sake"
+      ]
+    }
+  ]
+},
 
-  { "expression": "see it coming", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to realize in advance that something is going to happen",
-    "exchanges": [ { "uid": "s05_e16_c12_u024", "answer": "see that coming", "cueUid": "s05_e16_c12_u022",
-      "options": ["see that coming", "get that going", "hear that calling", "take that along"] } ] },
+{
+  "expression": "see it coming",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to realize in advance that something is going to happen",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c12_u024",
+      "answer": "see that coming",
+      "cueUid": "s05_e16_c12_u022",
+      "options": [
+        "see that coming",
+        "get that going",
+        "hear that calling",
+        "take that along"
+      ]
+    }
+  ]
+},
 
-  { "expression": "busted", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "caught in the act of doing something wrong",
-    "exchanges": [ { "uid": "s05_e16_c05_u010", "answer": "busted", "cueUid": "s05_e16_c05_u008",
-      "options": ["busted", "wasted", "stuffed", "loaded"] } ] },
+{
+  "expression": "busted",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "caught in the act of doing something wrong",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c05_u010",
+      "answer": "busted",
+      "cueUid": "s05_e16_c05_u008",
+      "options": [
+        "busted",
+        "wasted",
+        "stuffed",
+        "loaded"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blow off", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to skip or ignore something you were supposed to do",
-    "exchanges": [ { "uid": "s05_e16_c09_u003", "answer": "blow that off",
-      "options": ["blow that off", "put that on", "take that in", "show that up"] } ] },
+{
+  "expression": "blow off",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to skip or ignore something you were supposed to do",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c09_u003",
+      "answer": "blow that off",
+      "options": [
+        "blow that off",
+        "put that on",
+        "take that in",
+        "show that up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "impersonate", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to pretend to be another person or type of person, usually to deceive people",
-    "exchanges": [ { "uid": "s05_e16_c07_u005", "answer": "impersonating",
-      "options": ["impersonating", "impressing", "imposing", "implementing"] } ] },
+{
+  "expression": "impersonate",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to pretend to be another person or type of person, usually to deceive people",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c07_u005",
+      "answer": "impersonating",
+      "options": [
+        "impersonating",
+        "impressing",
+        "imposing",
+        "implementing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "think a lot of yourself", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to have a very high, usually too high, opinion of your own worth",
-    "exchanges": [ { "uid": "s05_e16_c10_u012", "answer": "think a lot of",
-      "options": ["think a lot of", "get a load of", "make a point of", "take a shot at"] } ] },
+{
+  "expression": "think a lot of yourself",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to have a very high, usually too high, opinion of your own worth",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c10_u012",
+      "answer": "think a lot of",
+      "options": [
+        "think a lot of",
+        "get a load of",
+        "make a point of",
+        "take a shot at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "slammer", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a slang word for prison or jail",
-    "exchanges": [ { "uid": "s05_e16_c05_u012", "answer": "slammer",
-      "options": ["slammer", "hammer", "blender", "sweater"] } ] },
+{
+  "expression": "slammer",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a slang word for prison or jail",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c05_u012",
+      "answer": "slammer",
+      "options": [
+        "slammer",
+        "hammer",
+        "blender",
+        "sweater"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stud", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a man who is seen as very attractive and sexually successful",
-    "exchanges": [ { "uid": "s05_e16_c07_u026", "answer": "stud",
-      "options": ["stud", "clerk", "nerd", "ghost"] } ] }
+{
+  "expression": "stud",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a man who is seen as very attractive and sexually successful",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c07_u026",
+      "answer": "stud",
+      "options": [
+        "stud",
+        "clerk",
+        "nerd",
+        "ghost"
+      ]
+    }
+  ]
+}
 ]

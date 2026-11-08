@@ -1,126 +1,506 @@
 [
-  { "expression": "show up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to arrive at a place where people are expecting you",
-    "exchanges": [ { "uid": "s09_e12_c12_u005", "answer": "show up", "responseUid": "s09_e12_c12_u007",
-      "options": ["show up", "give up", "speak up", "cheer up"] } ] },
+{
+  "expression": "show up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to arrive at a place where people are expecting you",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c12_u005",
+      "answer": "show up",
+      "responseUid": "s09_e12_c12_u007",
+      "options": [
+        "show up",
+        "give up",
+        "speak up",
+        "cheer up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "clean up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to make a place tidy by removing dirt and mess",
-    "exchanges": [ { "uid": "s09_e12_c12_u002", "answer": "clean up", "cueUid": null,
-      "options": ["clean up", "dress up", "warm up", "sign up"] } ] },
+{
+  "expression": "clean up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make a place tidy by removing dirt and mess",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c12_u002",
+      "answer": "clean up",
+      "cueUid": null,
+      "options": [
+        "clean up",
+        "dress up",
+        "warm up",
+        "sign up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s09_e12_c02_u006", "answer": "freak you out",
-      "options": ["freak you out", "wear you out", "cheer you up", "tire you out"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c02_u006",
+      "answer": "freak you out",
+      "options": [
+        "freak you out",
+        "wear you out",
+        "cheer you up",
+        "tire you out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to remove or sell something you no longer want",
-    "exchanges": [ { "uid": "s09_e12_c02_u013", "answer": "get rid of", "cueUid": "s09_e12_c02_u010",
-      "options": ["get rid of", "get back at", "make fun of", "run out of"] } ] },
+{
+  "expression": "get rid of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove or sell something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c02_u013",
+      "answer": "get rid of",
+      "cueUid": "s09_e12_c02_u010",
+      "options": [
+        "get rid of",
+        "get back at",
+        "make fun of",
+        "run out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep an eye on", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to watch someone carefully to make sure they behave or stay safe",
-    "exchanges": [ { "uid": "s09_e12_c06_u003", "answer": "keep an eye on",
-      "options": ["keep an eye on", "lay a hand on", "make a pass at", "take a swing at"] } ] },
+{
+  "expression": "keep an eye on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to watch someone carefully to make sure they behave or stay safe",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c06_u003",
+      "answer": "keep an eye on",
+      "options": [
+        "keep an eye on",
+        "lay a hand on",
+        "make a pass at",
+        "take a swing at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's the big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "asks why someone thinks something is so important or upsetting",
-    "exchanges": [ { "uid": "s09_e12_c04_u006", "answer": "What's the big deal",
-      "options": ["What's the big deal", "What's the last straw", "What's the fine print", "What's the small talk"] } ] },
+{
+  "expression": "what's the big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asks why someone thinks something is so important or upsetting",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c04_u006",
+      "answer": "What's the big deal",
+      "options": [
+        "What's the big deal",
+        "What's the last straw",
+        "What's the fine print",
+        "What's the small talk"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check someone out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to look at someone with interest because you find them attractive",
-    "exchanges": [ { "uid": "s09_e12_c03_u011", "answer": "checking her out", "responseUid": "s09_e12_c03_u013",
-      "options": ["checking her out", "cheering her on", "freaking her out", "backing her up"] } ] },
+{
+  "expression": "check someone out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at someone with interest because you find them attractive",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c03_u011",
+      "answer": "checking her out",
+      "responseUid": "s09_e12_c03_u013",
+      "options": [
+        "checking her out",
+        "cheering her on",
+        "freaking her out",
+        "backing her up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have a strong, often secret, romantic attraction to someone",
-    "exchanges": [ { "uid": "s09_e12_c09_u006", "answer": "had a crush on",
-      "options": ["had a crush on", "had a go at", "had a word with", "had a fit over"] } ] },
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c09_u006",
+      "answer": "had a crush on",
+      "options": [
+        "had a crush on",
+        "had a go at",
+        "had a word with",
+        "had a fit over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't stand", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to strongly dislike someone or something",
-    "exchanges": [ { "uid": "s09_e12_c08_u017", "answer": "can't stand",
-      "options": ["can't stand", "can't miss", "can't afford", "can't place"] } ] },
+{
+  "expression": "can't stand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to strongly dislike someone or something",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c08_u017",
+      "answer": "can't stand",
+      "options": [
+        "can't stand",
+        "can't miss",
+        "can't afford",
+        "can't place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "obnoxious", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "extremely unpleasant and annoying in the way you behave",
-    "exchanges": [ { "uid": "s09_e12_c03_u005", "answer": "obnoxious",
-      "options": ["obnoxious", "generous", "courteous", "modest"] } ] },
+{
+  "expression": "obnoxious",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely unpleasant and annoying in the way you behave",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c03_u005",
+      "answer": "obnoxious",
+      "options": [
+        "obnoxious",
+        "generous",
+        "courteous",
+        "modest"
+      ]
+    }
+  ]
+},
 
-  { "expression": "misjudge", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to form a wrong or unfair opinion about someone",
-    "exchanges": [ { "uid": "s09_e12_c03_u007", "answer": "misjudged",
-      "options": ["misjudged", "misspelled", "misplaced", "miscounted"] } ] },
+{
+  "expression": "misjudge",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to form a wrong or unfair opinion about someone",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c03_u007",
+      "answer": "misjudged",
+      "options": [
+        "misjudged",
+        "misspelled",
+        "misplaced",
+        "miscounted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go after", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to try hard to get something you want",
-    "exchanges": [ { "uid": "s09_e12_c04_u016", "answer": "go after",
-      "options": ["go after", "go without", "go through", "go against"] } ] },
+{
+  "expression": "go after",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try hard to get something you want",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c04_u016",
+      "answer": "go after",
+      "options": [
+        "go after",
+        "go without",
+        "go through",
+        "go against"
+      ]
+    }
+  ]
+},
 
-  { "expression": "off limits", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "not allowed to be approached, used, or dated",
-    "exchanges": [ { "uid": "s09_e12_c04_u020", "answer": "off limits",
-      "options": ["off limits", "on fire", "out of print", "up for grabs"] } ] },
+{
+  "expression": "off limits",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not allowed to be approached, used, or dated",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c04_u020",
+      "answer": "off limits",
+      "options": [
+        "off limits",
+        "on fire",
+        "out of print",
+        "up for grabs"
+      ]
+    }
+  ]
+},
 
-  { "expression": "don't grow on trees", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to mean that something is rare and hard to get",
-    "exchanges": [ { "uid": "s09_e12_c06_u009", "answer": "grow on trees", "responseUid": null,
-      "options": ["grow on trees", "run in families", "wear many hats", "go out of style"] } ] },
+{
+  "expression": "don't grow on trees",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to mean that something is rare and hard to get",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c06_u009",
+      "answer": "grow on trees",
+      "responseUid": null,
+      "options": [
+        "grow on trees",
+        "run in families",
+        "wear many hats",
+        "go out of style"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up for", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to compensate for something that was missed or done badly",
-    "exchanges": [ { "uid": "s09_e12_c12_u015", "answer": "make up for",
-      "options": ["make up for", "come up with", "put up with", "get away with"] } ] },
+{
+  "expression": "make up for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to compensate for something that was missed or done badly",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c12_u015",
+      "answer": "make up for",
+      "options": [
+        "make up for",
+        "come up with",
+        "put up with",
+        "get away with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a hard time", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to tease or criticize someone, often in a playful way",
-    "exchanges": [ { "uid": "s09_e12_c12_u020", "answer": "hard time",
-      "options": ["hard time", "good laugh", "warm welcome", "big hand"] } ] },
+{
+  "expression": "give someone a hard time",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to tease or criticize someone, often in a playful way",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c12_u020",
+      "answer": "hard time",
+      "options": [
+        "hard time",
+        "good laugh",
+        "warm welcome",
+        "big hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bummed", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "disappointed and unhappy",
-    "exchanges": [ { "uid": "s09_e12_c12_u004", "answer": "bummed",
-      "options": ["bummed", "stoked", "pumped", "psyched"] } ] },
+{
+  "expression": "bummed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "disappointed and unhappy",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c12_u004",
+      "answer": "bummed",
+      "options": [
+        "bummed",
+        "stoked",
+        "pumped",
+        "psyched"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unsanitary", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "dirty and likely to spread disease",
-    "exchanges": [ { "uid": "s09_e12_c02_u010", "answer": "unsanitary",
-      "options": ["unsanitary", "unemployed", "unmarried", "unsalted"] } ] },
+{
+  "expression": "unsanitary",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "dirty and likely to spread disease",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c02_u010",
+      "answer": "unsanitary",
+      "options": [
+        "unsanitary",
+        "unemployed",
+        "unmarried",
+        "unsalted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "subordinate", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a person who has a lower position than you at work and reports to you",
-    "exchanges": [ { "uid": "s09_e12_c03_u015", "answer": "subordinate",
-      "options": ["subordinate", "landlord", "neighbor", "sponsor"] } ] },
+{
+  "expression": "subordinate",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who has a lower position than you at work and reports to you",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c03_u015",
+      "answer": "subordinate",
+      "options": [
+        "subordinate",
+        "landlord",
+        "neighbor",
+        "sponsor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forbidden fruit", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "something that is more attractive because you are not allowed to have it",
-    "exchanges": [ { "uid": "s09_e12_c07_u008", "answer": "forbidden fruit",
-      "options": ["forbidden fruit", "bad apple", "hot potato", "sour grapes"] } ] },
+{
+  "expression": "forbidden fruit",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something that is more attractive because you are not allowed to have it",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c07_u008",
+      "answer": "forbidden fruit",
+      "options": [
+        "forbidden fruit",
+        "bad apple",
+        "hot potato",
+        "sour grapes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take the high road", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to act in a fair and decent way even when others are behaving badly",
-    "exchanges": [ { "uid": "s09_e12_c08_u008", "answer": "take the high road",
-      "options": ["take the high road", "hit the road", "take the bait", "jump the gun"] } ] },
+{
+  "expression": "take the high road",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to act in a fair and decent way even when others are behaving badly",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c08_u008",
+      "answer": "take the high road",
+      "options": [
+        "take the high road",
+        "hit the road",
+        "take the bait",
+        "jump the gun"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blow someone off", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to cancel plans with someone or ignore them without giving a good reason",
-    "exchanges": [ { "uid": "s09_e12_c10_u011", "answer": "blow her off",
-      "options": ["blow her off", "cheer her up", "pay her back", "bring her up"] } ] },
+{
+  "expression": "blow someone off",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to cancel plans with someone or ignore them without giving a good reason",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c10_u011",
+      "answer": "blow her off",
+      "options": [
+        "blow her off",
+        "cheer her up",
+        "pay her back",
+        "bring her up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run interference", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to step in and block or distract someone so they cannot do something",
-    "exchanges": [ { "uid": "s09_e12_c06_u006", "answer": "run interference",
-      "options": ["run interference", "pull strings", "make headway", "hold court"] } ] },
+{
+  "expression": "run interference",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to step in and block or distract someone so they cannot do something",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c06_u006",
+      "answer": "run interference",
+      "options": [
+        "run interference",
+        "pull strings",
+        "make headway",
+        "hold court"
+      ]
+    }
+  ]
+},
 
-  { "expression": "leer", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to look at someone in an unpleasant way that shows sexual interest",
-    "exchanges": [ { "uid": "s09_e12_c04_u005", "answer": "leering",
-      "options": ["leering", "sneezing", "sulking", "blinking"] } ] },
+{
+  "expression": "leer",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to look at someone in an unpleasant way that shows sexual interest",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c04_u005",
+      "answer": "leering",
+      "options": [
+        "leering",
+        "sneezing",
+        "sulking",
+        "blinking"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the cusp of", "type": "phrase", "level": "expert", "pos": "expression",
-    "meaning": "at the point when something is just about to happen or begin",
-    "exchanges": [ { "uid": "s09_e12_c06_u007", "answer": "on the cusp of",
-      "options": ["on the cusp of", "in the wake of", "at the mercy of", "in the dark about"] } ] }
+{
+  "expression": "on the cusp of",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "at the point when something is just about to happen or begin",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c06_u007",
+      "answer": "on the cusp of",
+      "options": [
+        "on the cusp of",
+        "in the wake of",
+        "at the mercy of",
+        "in the dark about"
+      ]
+    }
+  ]
+}
 ]

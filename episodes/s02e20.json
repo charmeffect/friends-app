@@ -1,126 +1,507 @@
 [
-  { "expression": "come over", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to visit someone at their home",
-    "exchanges": [ { "uid": "s02_e20_c02_u003", "answer": "come over",
-      "options": ["come over", "hand over", "pull over", "turn over"] } ] },
+{
+  "expression": "come over",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit someone at their home",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c02_u003",
+      "answer": "come over",
+      "options": [
+        "come over",
+        "hand over",
+        "pull over",
+        "turn over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "figure out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to understand or solve something after thinking about it",
-    "exchanges": [ { "uid": "s02_e20_c02_u008", "answer": "figure out",
-      "options": ["figure out", "put out", "get out", "hand out"] } ] },
+{
+  "expression": "figure out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand or solve something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c02_u008",
+      "answer": "figure out",
+      "options": [
+        "figure out",
+        "put out",
+        "get out",
+        "hand out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when saying goodbye to wish someone well",
-    "exchanges": [ { "uid": "s02_e20_c10_u035", "answer": "Take care",
-      "options": ["Take care", "Take off", "Take turns", "Take time"] } ] },
+{
+  "expression": "take care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when saying goodbye to wish someone well",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c10_u035",
+      "answer": "Take care",
+      "options": [
+        "Take care",
+        "Take off",
+        "Take turns",
+        "Take time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "deal with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to take action to solve a problem or handle a person",
-    "exchanges": [ { "uid": "s02_e20_c07_u050", "answer": "deal with", "cueUid": "s02_e20_c07_u048",
-      "options": ["deal with", "play for", "run into", "hear of"] } ] },
+{
+  "expression": "deal with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to take action to solve a problem or handle a person",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u050",
+      "answer": "deal with",
+      "cueUid": "s02_e20_c07_u048",
+      "options": [
+        "deal with",
+        "play for",
+        "run into",
+        "hear of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "leftovers", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "food that remains after a meal and is kept to eat later",
-    "exchanges": [ { "uid": "s02_e20_c02_u002", "answer": "leftovers",
-      "options": ["leftovers", "layovers", "makeovers", "turnovers"] } ] },
+{
+  "expression": "leftovers",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "food that remains after a meal and is kept to eat later",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c02_u002",
+      "answer": "leftovers",
+      "options": [
+        "leftovers",
+        "layovers",
+        "makeovers",
+        "turnovers"
+      ]
+    }
+  ]
+},
 
-  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said sarcastically to show that something is not important",
-    "exchanges": [ { "uid": "s02_e20_c02_u019", "answer": "big deal",
-      "options": ["big deal", "big time", "big shot", "big mouth"] } ] },
+{
+  "expression": "big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically to show that something is not important",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c02_u019",
+      "answer": "big deal",
+      "options": [
+        "big deal",
+        "big time",
+        "big shot",
+        "big mouth"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no luck", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when an attempt has not succeeded",
-    "exchanges": [ { "uid": "s02_e20_c06_u003", "answer": "No luck",
-      "options": ["No luck", "No way", "No kidding", "No problem"] } ] },
+{
+  "expression": "no luck",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when an attempt has not succeeded",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c06_u003",
+      "answer": "No luck",
+      "options": [
+        "No luck",
+        "No way",
+        "No kidding",
+        "No problem"
+      ]
+    }
+  ]
+},
 
-  { "expression": "babysit", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to look after someone's children while the parents are out",
-    "exchanges": [ { "uid": "s02_e20_c06_u026", "answer": "babysit", "cueUid": "s02_e20_c06_u024",
-      "options": ["babysit", "barbecue", "bicker", "bargain"] } ] },
+{
+  "expression": "babysit",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look after someone's children while the parents are out",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c06_u026",
+      "answer": "babysit",
+      "cueUid": "s02_e20_c06_u024",
+      "options": [
+        "babysit",
+        "barbecue",
+        "bicker",
+        "bargain"
+      ]
+    }
+  ]
+},
 
-  { "expression": "depressed", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "very sad and without hope or energy",
-    "exchanges": [ { "uid": "s02_e20_c08_u006", "answer": "depressed", "responseUid": null,
-      "options": ["depressed", "impressed", "obsessed", "compressed"] } ] },
+{
+  "expression": "depressed",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very sad and without hope or energy",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c08_u006",
+      "answer": "depressed",
+      "responseUid": null,
+      "options": [
+        "depressed",
+        "impressed",
+        "obsessed",
+        "compressed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "appreciate", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to be grateful for something someone has done",
-    "exchanges": [ { "uid": "s02_e20_c07_u022", "answer": "appreciate",
-      "options": ["appreciate", "apologize", "anticipate", "accommodate"] } ] },
+{
+  "expression": "appreciate",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be grateful for something someone has done",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u022",
+      "answer": "appreciate",
+      "options": [
+        "appreciate",
+        "apologize",
+        "anticipate",
+        "accommodate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sick of", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "annoyed and bored by something that has gone on too long",
-    "exchanges": [ { "uid": "s02_e20_c03_u015", "answer": "sick of",
-      "options": ["sick of", "fond of", "proud of", "afraid of"] } ] },
+{
+  "expression": "sick of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "annoyed and bored by something that has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c03_u015",
+      "answer": "sick of",
+      "options": [
+        "sick of",
+        "fond of",
+        "proud of",
+        "afraid of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ditch", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to leave someone behind on purpose so you can get away from them",
-    "exchanges": [ { "uid": "s02_e20_c04_u010", "answer": "ditch",
-      "options": ["ditch", "dust", "drag", "dare"] } ] },
+{
+  "expression": "ditch",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave someone behind on purpose so you can get away from them",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c04_u010",
+      "answer": "ditch",
+      "options": [
+        "ditch",
+        "dust",
+        "drag",
+        "dare"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for starters", "type": "colloquial", "level": "high", "pos": "adverb",
-    "meaning": "used to introduce the first point in a list of reasons or things",
-    "exchanges": [ { "uid": "s02_e20_c05_u014", "answer": "for starters",
-      "options": ["for starters", "for keeps", "for good", "for ages"] } ] },
+{
+  "expression": "for starters",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used to introduce the first point in a list of reasons or things",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c05_u014",
+      "answer": "for starters",
+      "options": [
+        "for starters",
+        "for keeps",
+        "for good",
+        "for ages"
+      ]
+    }
+  ]
+},
 
-  { "expression": "behind the times", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "old-fashioned and not keeping up with modern ideas",
-    "exchanges": [ { "uid": "s02_e20_c05_u005", "answer": "behind the times",
-      "options": ["behind the times", "around the clock", "beside the point", "against the odds"] } ] },
+{
+  "expression": "behind the times",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "old-fashioned and not keeping up with modern ideas",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c05_u005",
+      "answer": "behind the times",
+      "options": [
+        "behind the times",
+        "around the clock",
+        "beside the point",
+        "against the odds"
+      ]
+    }
+  ]
+},
 
-  { "expression": "competitive", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "strongly wanting to win or to be better than others",
-    "exchanges": [ { "uid": "s02_e20_c06_u022", "answer": "competitive",
-      "options": ["competitive", "comparative", "compulsive", "compassionate"] } ] },
+{
+  "expression": "competitive",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "strongly wanting to win or to be better than others",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c06_u022",
+      "answer": "competitive",
+      "options": [
+        "competitive",
+        "comparative",
+        "compulsive",
+        "compassionate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "supposedly", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "according to what people say, though it may not be true",
-    "exchanges": [ { "uid": "s02_e20_c06_u026", "answer": "supposedly", "cueUid": "s02_e20_c06_u024",
-      "options": ["supposedly", "supportively", "superficially", "suspiciously"] } ] },
+{
+  "expression": "supposedly",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "according to what people say, though it may not be true",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c06_u026",
+      "answer": "supposedly",
+      "cueUid": "s02_e20_c06_u024",
+      "options": [
+        "supposedly",
+        "supportively",
+        "superficially",
+        "suspiciously"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fall for", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to be tricked by something or someone",
-    "exchanges": [ { "uid": "s02_e20_c07_u014", "answer": "fell for",
-      "options": ["fell for", "stood for", "ran for", "paid for"] } ] },
+{
+  "expression": "fall for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be tricked by something or someone",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u014",
+      "answer": "fell for",
+      "options": [
+        "fell for",
+        "stood for",
+        "ran for",
+        "paid for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "see it coming", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to realize in advance that something is going to happen",
-    "exchanges": [ { "uid": "s02_e20_c07_u015", "answer": "see it coming",
-      "options": ["see it coming", "get it going", "keep it moving", "hear it ringing"] } ] },
+{
+  "expression": "see it coming",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to realize in advance that something is going to happen",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u015",
+      "answer": "see it coming",
+      "options": [
+        "see it coming",
+        "get it going",
+        "keep it moving",
+        "hear it ringing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wander", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to drift away from the subject you should be focusing on",
-    "exchanges": [ { "uid": "s02_e20_c07_u041", "answer": "wanders",
-      "options": ["wanders", "wonders", "wavers", "withers"] } ] },
+{
+  "expression": "wander",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to drift away from the subject you should be focusing on",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u041",
+      "answer": "wanders",
+      "options": [
+        "wanders",
+        "wonders",
+        "wavers",
+        "withers"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sidestep", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to avoid dealing with a problem or difficulty",
-    "exchanges": [ { "uid": "s02_e20_c05_u021", "answer": "sidestepped",
-      "options": ["sidestepped", "sidelined", "sidetracked", "sideswiped"] } ] },
+{
+  "expression": "sidestep",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to avoid dealing with a problem or difficulty",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c05_u021",
+      "answer": "sidestepped",
+      "options": [
+        "sidestepped",
+        "sidelined",
+        "sidetracked",
+        "sideswiped"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flip for it", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to toss a coin to decide something",
-    "exchanges": [ { "uid": "s02_e20_c05_u020", "answer": "flipped for it",
-      "options": ["flipped for it", "fell for it", "paid for it", "ran for it"] } ] },
+{
+  "expression": "flip for it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to toss a coin to decide something",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c05_u020",
+      "answer": "flipped for it",
+      "options": [
+        "flipped for it",
+        "fell for it",
+        "paid for it",
+        "ran for it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "nerves of steel", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "the ability to stay calm in a frightening or stressful situation",
-    "exchanges": [ { "uid": "s02_e20_c07_u020", "answer": "nerves of steel",
-      "options": ["nerves of steel", "heart of gold", "feet of clay", "ring of fire"] } ] },
+{
+  "expression": "nerves of steel",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the ability to stay calm in a frightening or stressful situation",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u020",
+      "answer": "nerves of steel",
+      "options": [
+        "nerves of steel",
+        "heart of gold",
+        "feet of clay",
+        "ring of fire"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ultimately", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "in the end, after everything else has happened",
-    "exchanges": [ { "uid": "s02_e20_c07_u033", "answer": "ultimately",
-      "options": ["ultimately", "utterly", "unanimously", "urgently"] } ] },
+{
+  "expression": "ultimately",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "in the end, after everything else has happened",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u033",
+      "answer": "ultimately",
+      "options": [
+        "ultimately",
+        "utterly",
+        "unanimously",
+        "urgently"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vernacular", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "the everyday language spoken by a particular group of people",
-    "exchanges": [ { "uid": "s02_e20_c09_u023", "answer": "vernacular", "cueUid": "s02_e20_c09_u019", "responseUid": "s02_e20_c09_u025",
-      "options": ["vernacular", "vestibule", "ventriloquism", "veranda"] } ] },
+{
+  "expression": "vernacular",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "the everyday language spoken by a particular group of people",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c09_u023",
+      "answer": "vernacular",
+      "cueUid": "s02_e20_c09_u019",
+      "responseUid": "s02_e20_c09_u025",
+      "options": [
+        "vernacular",
+        "vestibule",
+        "ventriloquism",
+        "veranda"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wedgie", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a prank of pulling someone's underwear up hard from behind",
-    "exchanges": [ { "uid": "s02_e20_c04_u011", "answer": "wedgie",
-      "options": ["wedgie", "wedding", "widget", "wedge"] } ] }
+{
+  "expression": "wedgie",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a prank of pulling someone's underwear up hard from behind",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c04_u011",
+      "answer": "wedgie",
+      "options": [
+        "wedgie",
+        "wedding",
+        "widget",
+        "wedge"
+      ]
+    }
+  ]
+}
 ]

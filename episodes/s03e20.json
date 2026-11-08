@@ -1,126 +1,512 @@
 [
-  { "expression": "have no idea", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to not know something at all",
-    "exchanges": [ { "uid": "s03_e20_c01_u005", "answer": "have no idea",
-      "options": ["have no idea", "make no sense", "take no chance", "see no way"] } ] },
+{
+  "expression": "have no idea",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to not know something at all",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c01_u005",
+      "answer": "have no idea",
+      "options": [
+        "have no idea",
+        "make no sense",
+        "take no chance",
+        "see no way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone to stop asking or to drop the idea",
-    "exchanges": [ { "uid": "s03_e20_c02_u023", "answer": "forget it",
-      "options": ["forget it", "watch it", "hold it", "beat it"] } ] },
+{
+  "expression": "forget it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop asking or to drop the idea",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c02_u023",
+      "answer": "forget it",
+      "options": [
+        "forget it",
+        "watch it",
+        "hold it",
+        "beat it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "used to add a new topic or something you just remembered",
-    "exchanges": [ { "uid": "s03_e20_c13_u003", "answer": "By the way", "responseUid": "s03_e20_c13_u006",
-      "options": ["By the way", "On the way", "In the end", "At the time"] } ] },
+{
+  "expression": "by the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to add a new topic or something you just remembered",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c13_u003",
+      "answer": "By the way",
+      "responseUid": "s03_e20_c13_u006",
+      "options": [
+        "By the way",
+        "On the way",
+        "In the end",
+        "At the time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a bunch of", "type": "phrase", "level": "elementary", "pos": "expression",
-    "meaning": "a large number of things",
-    "exchanges": [ { "uid": "s03_e20_c03_u009", "answer": "a bunch of", "cueUid": "s03_e20_c03_u007",
-      "options": ["a bunch of", "a piece of", "a pair of", "a slice of"] } ] },
+{
+  "expression": "a bunch of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a large number of things",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c03_u009",
+      "answer": "a bunch of",
+      "cueUid": "s03_e20_c03_u007",
+      "options": [
+        "a bunch of",
+        "a piece of",
+        "a pair of",
+        "a slice of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass away", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to die, said as a gentler way of putting it",
-    "exchanges": [ { "uid": "s03_e20_c01_u009", "answer": "passed away", "cueUid": null,
-      "options": ["passed away", "passed out", "passed by", "passed up"] } ] },
+{
+  "expression": "pass away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to die, said as a gentler way of putting it",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c01_u009",
+      "answer": "passed away",
+      "cueUid": null,
+      "options": [
+        "passed away",
+        "passed out",
+        "passed by",
+        "passed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to finish work for the day",
-    "exchanges": [ { "uid": "s03_e20_c07_u020", "answer": "getting off", "responseUid": "s03_e20_c07_u022",
-      "options": ["getting off", "getting by", "getting in", "getting over"] } ] },
+{
+  "expression": "get off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finish work for the day",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c07_u020",
+      "answer": "getting off",
+      "responseUid": "s03_e20_c07_u022",
+      "options": [
+        "getting off",
+        "getting by",
+        "getting in",
+        "getting over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have in mind", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be thinking of or intending a particular thing",
-    "exchanges": [ { "uid": "s03_e20_c07_u043", "answer": "had in mind", "responseUid": null,
-      "options": ["had in mind", "kept in touch", "took in hand", "put in place"] } ] },
+{
+  "expression": "have in mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be thinking of or intending a particular thing",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c07_u043",
+      "answer": "had in mind",
+      "responseUid": null,
+      "options": [
+        "had in mind",
+        "kept in touch",
+        "took in hand",
+        "put in place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't help it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be unable to stop yourself from doing something",
-    "exchanges": [ { "uid": "s03_e20_c08_u020", "answer": "can't help it",
-      "options": ["can't help it", "can't make it", "can't take it", "can't buy it"] } ] },
+{
+  "expression": "can't help it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be unable to stop yourself from doing something",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c08_u020",
+      "answer": "can't help it",
+      "options": [
+        "can't help it",
+        "can't make it",
+        "can't take it",
+        "can't buy it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "set up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to arrange a date for someone with a person they have not met",
-    "exchanges": [ { "uid": "s03_e20_c10_u011", "answer": "setting me up",
-      "options": ["setting me up", "letting me down", "picking me up", "putting me down"] } ] },
+{
+  "expression": "set up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange a date for someone with a person they have not met",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c10_u011",
+      "answer": "setting me up",
+      "options": [
+        "setting me up",
+        "letting me down",
+        "picking me up",
+        "putting me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a big deal", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to treat something as more important or serious than it is",
-    "exchanges": [ { "uid": "s03_e20_c12_u007", "answer": "make a big deal", "responseUid": "s03_e20_c12_u009",
-      "options": ["make a big deal", "take a big step", "have a bad day", "give a big hand"] } ] },
+{
+  "expression": "make a big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to treat something as more important or serious than it is",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c12_u007",
+      "answer": "make a big deal",
+      "responseUid": "s03_e20_c12_u009",
+      "options": [
+        "make a big deal",
+        "take a big step",
+        "have a bad day",
+        "give a big hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "look forward to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to feel pleased and excited about something that is going to happen",
-    "exchanges": [ { "uid": "s03_e20_c14_u012", "answer": "looking forward to",
-      "options": ["looking forward to", "looking out for", "looking up to", "looking back on"] } ] },
+{
+  "expression": "look forward to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel pleased and excited about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c14_u012",
+      "answer": "looking forward to",
+      "options": [
+        "looking forward to",
+        "looking out for",
+        "looking up to",
+        "looking back on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shaken up", "type": "phrase", "level": "high", "pos": "adjective",
-    "meaning": "upset and shocked by something that has happened",
-    "exchanges": [ { "uid": "s03_e20_c01_u011", "answer": "shaken up",
-      "options": ["shaken up", "cheered up", "dressed up", "lined up"] } ] },
+{
+  "expression": "shaken up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "upset and shocked by something that has happened",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c01_u011",
+      "answer": "shaken up",
+      "options": [
+        "shaken up",
+        "cheered up",
+        "dressed up",
+        "lined up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cranky", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "bad-tempered and easily annoyed",
-    "exchanges": [ { "uid": "s03_e20_c01_u014", "answer": "cranky",
-      "options": ["cranky", "crispy", "creamy", "chunky"] } ] },
+{
+  "expression": "cranky",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "bad-tempered and easily annoyed",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c01_u014",
+      "answer": "cranky",
+      "options": [
+        "cranky",
+        "crispy",
+        "creamy",
+        "chunky"
+      ]
+    }
+  ]
+},
 
-  { "expression": "goofy", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "silly in a harmless, amusing way",
-    "exchanges": [ { "uid": "s03_e20_c02_u020", "answer": "goofy",
-      "options": ["goofy", "greedy", "guilty", "gutsy"] } ] },
+{
+  "expression": "goofy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "silly in a harmless, amusing way",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c02_u020",
+      "answer": "goofy",
+      "options": [
+        "goofy",
+        "greedy",
+        "guilty",
+        "gutsy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crisp", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "pleasantly cool, dry, and fresh, used of weather",
-    "exchanges": [ { "uid": "s03_e20_c05_u025", "answer": "crisp", "responseUid": "s03_e20_c05_u027",
-      "options": ["crisp", "crude", "cramped", "crooked"] } ] },
+{
+  "expression": "crisp",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "pleasantly cool, dry, and fresh, used of weather",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c05_u025",
+      "answer": "crisp",
+      "responseUid": "s03_e20_c05_u027",
+      "options": [
+        "crisp",
+        "crude",
+        "cramped",
+        "crooked"
+      ]
+    }
+  ]
+},
 
-  { "expression": "since when", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to ask, often with surprise or doubt, when something started being true",
-    "exchanges": [ { "uid": "s03_e20_c07_u007", "answer": "since when",
-      "options": ["since when", "from where", "until then", "by whom"] } ] },
+{
+  "expression": "since when",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask, often with surprise or doubt, when something started being true",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c07_u007",
+      "answer": "since when",
+      "options": [
+        "since when",
+        "from where",
+        "until then",
+        "by whom"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flip out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to suddenly become extremely angry or lose control",
-    "exchanges": [ { "uid": "s03_e20_c10_u004", "answer": "flipped out",
-      "options": ["flipped out", "backed out", "checked out", "passed out"] } ] },
+{
+  "expression": "flip out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly become extremely angry or lose control",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c10_u004",
+      "answer": "flipped out",
+      "options": [
+        "flipped out",
+        "backed out",
+        "checked out",
+        "passed out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pathetic", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "sad and hopeless in a way that makes others feel pity or scorn",
-    "exchanges": [ { "uid": "s03_e20_c14_u018", "answer": "pathetic", "cueUid": "s03_e20_c14_u015",
-      "options": ["pathetic", "poetic", "prophetic", "patriotic"] } ] },
+{
+  "expression": "pathetic",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "sad and hopeless in a way that makes others feel pity or scorn",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c14_u018",
+      "answer": "pathetic",
+      "cueUid": "s03_e20_c14_u015",
+      "options": [
+        "pathetic",
+        "poetic",
+        "prophetic",
+        "patriotic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "surreal", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "so strange that it feels like a dream",
-    "exchanges": [ { "uid": "s03_e20_c03_u029", "answer": "surreal",
-      "options": ["surreal", "sincere", "serene", "sterile"] } ] },
+{
+  "expression": "surreal",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "so strange that it feels like a dream",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c03_u029",
+      "answer": "surreal",
+      "options": [
+        "surreal",
+        "sincere",
+        "serene",
+        "sterile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "happen to be", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to be something by chance, used to stress a fact the listener may not expect",
-    "exchanges": [ { "uid": "s03_e20_c07_u006", "answer": "happens to be",
-      "options": ["happens to be", "comes to be", "stands to be", "gets to be"] } ] },
+{
+  "expression": "happen to be",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be something by chance, used to stress a fact the listener may not expect",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c07_u006",
+      "answer": "happens to be",
+      "options": [
+        "happens to be",
+        "comes to be",
+        "stands to be",
+        "gets to be"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get caught up in", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to be so involved in or carried away by something that you stop thinking clearly",
-    "exchanges": [ { "uid": "s03_e20_c12_u009", "answer": "caught up in",
-      "options": ["caught up in", "fed up with", "tied up with", "mixed up in"] } ] },
+{
+  "expression": "get caught up in",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be so involved in or carried away by something that you stop thinking clearly",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c12_u009",
+      "answer": "caught up in",
+      "options": [
+        "caught up in",
+        "fed up with",
+        "tied up with",
+        "mixed up in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "compulsion", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a strong urge to do something that you cannot control",
-    "exchanges": [ { "uid": "s03_e20_c08_u020", "answer": "compulsion",
-      "options": ["compulsion", "conclusion", "commotion", "collision"] } ] },
+{
+  "expression": "compulsion",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a strong urge to do something that you cannot control",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c08_u020",
+      "answer": "compulsion",
+      "options": [
+        "compulsion",
+        "conclusion",
+        "commotion",
+        "collision"
+      ]
+    }
+  ]
+},
 
-  { "expression": "understudy", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "an actor who learns another actor's part so as to replace them if needed",
-    "exchanges": [ { "uid": "s03_e20_c04_u007", "answer": "understudy",
-      "options": ["understudy", "undertaker", "underdog", "underwriter"] } ] },
+{
+  "expression": "understudy",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an actor who learns another actor's part so as to replace them if needed",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c04_u007",
+      "answer": "understudy",
+      "options": [
+        "understudy",
+        "undertaker",
+        "underdog",
+        "underwriter"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dud", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a person or thing that fails to be interesting or successful",
-    "exchanges": [ { "uid": "s03_e20_c05_u027", "answer": "dud", "cueUid": "s03_e20_c05_u025", "responseUid": null,
-      "options": ["dud", "dope", "dork", "dime"] } ] },
+{
+  "expression": "dud",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a person or thing that fails to be interesting or successful",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c05_u027",
+      "answer": "dud",
+      "cueUid": "s03_e20_c05_u025",
+      "responseUid": null,
+      "options": [
+        "dud",
+        "dope",
+        "dork",
+        "dime"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bite me", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "a rude, defiant reply meaning that you do not care what the other person thinks",
-    "exchanges": [ { "uid": "s03_e20_c08_u023", "answer": "Bite me", "responseUid": null,
-      "options": ["Bite me", "Shoot me", "Hold me", "Hear me"] } ] }
+{
+  "expression": "bite me",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a rude, defiant reply meaning that you do not care what the other person thinks",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c08_u023",
+      "answer": "Bite me",
+      "responseUid": null,
+      "options": [
+        "Bite me",
+        "Shoot me",
+        "Hold me",
+        "Hear me"
+      ]
+    }
+  ]
+}
 ]

@@ -1,126 +1,511 @@
 [
-  { "expression": "run after", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to chase someone by running behind them",
-    "exchanges": [ { "uid": "s03_e07_c14_u039", "answer": "run after", "cueUid": "s03_e07_c14_u037",
-      "options": ["run after", "look after", "take after", "ask after"] } ] },
+{
+  "expression": "run after",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to chase someone by running behind them",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c14_u039",
+      "answer": "run after",
+      "cueUid": "s03_e07_c14_u037",
+      "options": [
+        "run after",
+        "look after",
+        "take after",
+        "ask after"
+      ]
+    }
+  ]
+},
 
-  { "expression": "guess what", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to introduce surprising or exciting news",
-    "exchanges": [ { "uid": "s03_e07_c09_u005", "answer": "Guess what", "cueUid": "s03_e07_c09_u003",
-      "options": ["Guess what", "Look out", "Say when", "Never mind"] } ] },
+{
+  "expression": "guess what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to introduce surprising or exciting news",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c09_u005",
+      "answer": "Guess what",
+      "cueUid": "s03_e07_c09_u003",
+      "options": [
+        "Guess what",
+        "Look out",
+        "Say when",
+        "Never mind"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to have a friendly relationship with someone",
-    "exchanges": [ { "uid": "s03_e07_c10_u016", "answer": "get along",
-      "options": ["get along", "grow up", "look back", "show up"] } ] },
+{
+  "expression": "get along",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c10_u016",
+      "answer": "get along",
+      "options": [
+        "get along",
+        "grow up",
+        "look back",
+        "show up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cheap", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "unwilling to spend money, especially on other people",
-    "exchanges": [ { "uid": "s03_e07_c08_u031", "answer": "cheap", "cueUid": "s03_e07_c08_u028",
-      "options": ["cheap", "broke", "lazy", "dumb"] } ] },
+{
+  "expression": "cheap",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unwilling to spend money, especially on other people",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c08_u031",
+      "answer": "cheap",
+      "cueUid": "s03_e07_c08_u028",
+      "options": [
+        "cheap",
+        "broke",
+        "lazy",
+        "dumb"
+      ]
+    }
+  ]
+},
 
-  { "expression": "nickname", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "an informal name used instead of someone's real name",
-    "exchanges": [ { "uid": "s03_e07_c03_u008", "answer": "nickname",
-      "options": ["nickname", "surname", "password", "headline"] } ] },
+{
+  "expression": "nickname",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an informal name used instead of someone's real name",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c03_u008",
+      "answer": "nickname",
+      "options": [
+        "nickname",
+        "surname",
+        "password",
+        "headline"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give something back", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to do something helpful for a group or community that has helped you",
-    "exchanges": [ { "uid": "s03_e07_c03_u026", "answer": "give something back", "cueUid": "s03_e07_c03_u024",
-      "options": ["give something back", "take something out", "put something off", "hand something in"] } ] },
+{
+  "expression": "give something back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something helpful for a group or community that has helped you",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c03_u026",
+      "answer": "give something back",
+      "cueUid": "s03_e07_c03_u024",
+      "options": [
+        "give something back",
+        "take something out",
+        "put something off",
+        "hand something in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you bet", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "an emphatic way of saying yes or certainly",
-    "exchanges": [ { "uid": "s03_e07_c09_u008", "answer": "You bet",
-      "options": ["You bet", "So what", "Not yet", "No way"] } ] },
+{
+  "expression": "you bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an emphatic way of saying yes or certainly",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c09_u008",
+      "answer": "You bet",
+      "options": [
+        "You bet",
+        "So what",
+        "Not yet",
+        "No way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "leave it alone", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to stop interfering with or bringing up a matter",
-    "exchanges": [ { "uid": "s03_e07_c10_u002", "answer": "leave it alone",
-      "options": ["leave it alone", "let it out", "put it off", "keep it up"] } ] },
+{
+  "expression": "leave it alone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to stop interfering with or bringing up a matter",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c10_u002",
+      "answer": "leave it alone",
+      "options": [
+        "leave it alone",
+        "let it out",
+        "put it off",
+        "keep it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hopeless", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "with no chance of success or improvement",
-    "exchanges": [ { "uid": "s03_e07_c14_u010", "answer": "hopeless", "responseUid": "s03_e07_c14_u012",
-      "options": ["hopeless", "harmless", "helpful", "homeless"] } ] },
+{
+  "expression": "hopeless",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "with no chance of success or improvement",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c14_u010",
+      "answer": "hopeless",
+      "responseUid": "s03_e07_c14_u012",
+      "options": [
+        "hopeless",
+        "harmless",
+        "helpful",
+        "homeless"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tip", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to give extra money to a waiter or other service worker for their service",
-    "exchanges": [ { "uid": "s03_e07_c08_u011", "answer": "tipped",
-      "options": ["tipped", "taxed", "wasted", "charged"] } ] },
+{
+  "expression": "tip",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give extra money to a waiter or other service worker for their service",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c08_u011",
+      "answer": "tipped",
+      "options": [
+        "tipped",
+        "taxed",
+        "wasted",
+        "charged"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get into", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be accepted as a student at a school or university",
-    "exchanges": [ { "uid": "s03_e07_c14_u015", "answer": "get into",
-      "options": ["get into", "go over", "look up", "hand out"] } ] },
+{
+  "expression": "get into",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be accepted as a student at a school or university",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c14_u015",
+      "answer": "get into",
+      "options": [
+        "get into",
+        "go over",
+        "look up",
+        "hand out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "squint", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to look at something with your eyes partly closed",
-    "exchanges": [ { "uid": "s03_e07_c01_u003", "answer": "squint",
-      "options": ["squint", "blink", "frown", "yawn"] } ] },
+{
+  "expression": "squint",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to look at something with your eyes partly closed",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c01_u003",
+      "answer": "squint",
+      "options": [
+        "squint",
+        "blink",
+        "frown",
+        "yawn"
+      ]
+    }
+  ]
+},
 
-  { "expression": "extinct", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "no longer existing as a living species",
-    "exchanges": [ { "uid": "s03_e07_c01_u004", "answer": "extinct",
-      "options": ["extinct", "antique", "exhausted", "decayed"] } ] },
+{
+  "expression": "extinct",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "no longer existing as a living species",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c01_u004",
+      "answer": "extinct",
+      "options": [
+        "extinct",
+        "antique",
+        "exhausted",
+        "decayed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "refer to", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to call someone by a particular name or title",
-    "exchanges": [ { "uid": "s03_e07_c03_u007", "answer": "refers to",
-      "options": ["refers to", "speaks to", "points at", "stands for"] } ] },
+{
+  "expression": "refer to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to call someone by a particular name or title",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c03_u007",
+      "answer": "refers to",
+      "options": [
+        "refers to",
+        "speaks to",
+        "points at",
+        "stands for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "betray", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to be disloyal to someone who trusts you",
-    "exchanges": [ { "uid": "s03_e07_c04_u002", "answer": "betraying",
-      "options": ["betraying", "blaming", "bribing", "boring"] } ] },
+{
+  "expression": "betray",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be disloyal to someone who trusts you",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c04_u002",
+      "answer": "betraying",
+      "options": [
+        "betraying",
+        "blaming",
+        "bribing",
+        "boring"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put 'em up", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "raise your fists and get ready to fight",
-    "exchanges": [ { "uid": "s03_e07_c06_u020", "answer": "put 'em up", "cueUid": null,
-      "options": ["put 'em up", "take 'em off", "hold 'em back", "knock 'em down"] } ] },
+{
+  "expression": "put 'em up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "raise your fists and get ready to fight",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c06_u020",
+      "answer": "put 'em up",
+      "cueUid": null,
+      "options": [
+        "put 'em up",
+        "take 'em off",
+        "hold 'em back",
+        "knock 'em down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "regular", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a customer who comes to the same shop or restaurant very often",
-    "exchanges": [ { "uid": "s03_e07_c08_u014", "answer": "regular", "responseUid": "s03_e07_c08_u016",
-      "options": ["regular", "waiter", "stranger", "manager"] } ] },
+{
+  "expression": "regular",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a customer who comes to the same shop or restaurant very often",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c08_u014",
+      "answer": "regular",
+      "responseUid": "s03_e07_c08_u016",
+      "options": [
+        "regular",
+        "waiter",
+        "stranger",
+        "manager"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bug", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to keep bothering someone by repeatedly raising the same subject",
-    "exchanges": [ { "uid": "s03_e07_c08_u016", "answer": "bugged", "cueUid": "s03_e07_c08_u013",
-      "options": ["bugged", "tipped", "hugged", "dumped"] } ] },
+{
+  "expression": "bug",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep bothering someone by repeatedly raising the same subject",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c08_u016",
+      "answer": "bugged",
+      "cueUid": "s03_e07_c08_u013",
+      "options": [
+        "bugged",
+        "tipped",
+        "hugged",
+        "dumped"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get stuck with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to be left with something unwanted that you cannot get rid of",
-    "exchanges": [ { "uid": "s03_e07_c16_u003", "answer": "got stuck with",
-      "options": ["got stuck with", "got even with", "got away with", "got along with"] } ] },
+{
+  "expression": "get stuck with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be left with something unwanted that you cannot get rid of",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c16_u003",
+      "answer": "got stuck with",
+      "options": [
+        "got stuck with",
+        "got even with",
+        "got away with",
+        "got along with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "appalled", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "deeply shocked and disgusted by something",
-    "exchanges": [ { "uid": "s03_e07_c02_u013", "answer": "appalled",
-      "options": ["appalled", "delighted", "relieved", "grateful"] } ] },
+{
+  "expression": "appalled",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "deeply shocked and disgusted by something",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c02_u013",
+      "answer": "appalled",
+      "options": [
+        "appalled",
+        "delighted",
+        "relieved",
+        "grateful"
+      ]
+    }
+  ]
+},
 
-  { "expression": "compulsively", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "in a way driven by an urge that you cannot control",
-    "exchanges": [ { "uid": "s03_e07_c06_u036", "answer": "compulsively", "responseUid": null,
-      "options": ["compulsively", "carelessly", "occasionally", "deliberately"] } ] },
+{
+  "expression": "compulsively",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "in a way driven by an urge that you cannot control",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c06_u036",
+      "answer": "compulsively",
+      "responseUid": null,
+      "options": [
+        "compulsively",
+        "carelessly",
+        "occasionally",
+        "deliberately"
+      ]
+    }
+  ]
+},
 
-  { "expression": "self-involved", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "concerned only with yourself and not noticing what is happening to other people",
-    "exchanges": [ { "uid": "s03_e07_c11_u019", "answer": "self-involved",
-      "options": ["self-involved", "self-employed", "self-assured", "self-taught"] } ] },
+{
+  "expression": "self-involved",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "concerned only with yourself and not noticing what is happening to other people",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c11_u019",
+      "answer": "self-involved",
+      "options": [
+        "self-involved",
+        "self-employed",
+        "self-assured",
+        "self-taught"
+      ]
+    }
+  ]
+},
 
-  { "expression": "screw over", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to treat someone very unfairly or cheat them, especially for your own benefit",
-    "exchanges": [ { "uid": "s03_e07_c13_u004", "answer": "screwed him over",
-      "options": ["screwed him over", "talked him down", "let him off", "showed him up"] } ] },
+{
+  "expression": "screw over",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to treat someone very unfairly or cheat them, especially for your own benefit",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c13_u004",
+      "answer": "screwed him over",
+      "options": [
+        "screwed him over",
+        "talked him down",
+        "let him off",
+        "showed him up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be the bigger man", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to behave more maturely than the other person in a conflict and set your pride aside",
-    "exchanges": [ { "uid": "s03_e07_c10_u013", "answer": "the bigger man", "responseUid": "s03_e07_c10_u015",
-      "options": ["the bigger man", "the better half", "the last straw", "the odd one"] } ] },
+{
+  "expression": "be the bigger man",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to behave more maturely than the other person in a conflict and set your pride aside",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c10_u013",
+      "answer": "the bigger man",
+      "responseUid": "s03_e07_c10_u015",
+      "options": [
+        "the bigger man",
+        "the better half",
+        "the last straw",
+        "the odd one"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bad boy", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "an impressive or powerful machine or object, said admiringly",
-    "exchanges": [ { "uid": "s03_e07_c04_u005", "answer": "bad boy",
-      "options": ["bad boy", "big guy", "old man", "fat cat"] } ] }
+{
+  "expression": "bad boy",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an impressive or powerful machine or object, said admiringly",
+  "exchanges": [
+    {
+      "uid": "s03_e07_c04_u005",
+      "answer": "bad boy",
+      "options": [
+        "bad boy",
+        "big guy",
+        "old man",
+        "fat cat"
+      ]
+    }
+  ]
+}
 ]

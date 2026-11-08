@@ -1,131 +1,529 @@
 [
-  { "expression": "way to go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to congratulate someone on doing something well",
-    "exchanges": [ { "uid": "s01_e14_c02_u014", "answer": "Way to go", "responseUid": null,
-      "options": ["Way to go", "Off you go", "Let it go", "Here we go"] } ] },
+{
+  "expression": "way to go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to congratulate someone on doing something well",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c02_u014",
+      "answer": "Way to go",
+      "responseUid": null,
+      "options": [
+        "Way to go",
+        "Off you go",
+        "Let it go",
+        "Here we go"
+      ]
+    }
+  ]
+},
 
-  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "used to introduce a new topic or an extra remark",
-    "exchanges": [ { "uid": "s01_e14_c06_u003", "answer": "By the way", "responseUid": "s01_e14_c06_u005",
-      "options": ["By the way", "On the way", "In the way", "All the way"] } ] },
+{
+  "expression": "by the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to introduce a new topic or an extra remark",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c06_u003",
+      "answer": "By the way",
+      "responseUid": "s01_e14_c06_u005",
+      "options": [
+        "By the way",
+        "On the way",
+        "In the way",
+        "All the way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show approval of what someone has done, here sarcastically",
-    "exchanges": [ { "uid": "s01_e14_c06_u002", "answer": "Good for you",
-      "options": ["Good for you", "Nice to you", "Well on you", "Fine by you"] } ] },
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show approval of what someone has done, here sarcastically",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c06_u002",
+      "answer": "Good for you",
+      "options": [
+        "Good for you",
+        "Nice to you",
+        "Well on you",
+        "Fine by you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be right back", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to return very soon",
-    "exchanges": [ { "uid": "s01_e14_c08_u014", "answer": "right back", "responseUid": "s01_e14_c08_u016",
-      "options": ["right back", "right away", "right off", "right along"] } ] },
+{
+  "expression": "be right back",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to return very soon",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c08_u014",
+      "answer": "right back",
+      "responseUid": "s01_e14_c08_u016",
+      "options": [
+        "right back",
+        "right away",
+        "right off",
+        "right along"
+      ]
+    }
+  ]
+},
 
-  { "expression": "creepy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "making you feel uneasy or frightened in an unpleasant way",
-    "exchanges": [ { "uid": "s01_e14_c05_u001", "answer": "creepy",
-      "options": ["creepy", "cranky", "clumsy", "cheesy"] } ] },
+{
+  "expression": "creepy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel uneasy or frightened in an unpleasant way",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c05_u001",
+      "answer": "creepy",
+      "options": [
+        "creepy",
+        "cranky",
+        "clumsy",
+        "cheesy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jerk", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a rude or unpleasant person",
-    "exchanges": [ { "uid": "s01_e14_c05_u005", "answer": "jerks",
-      "options": ["jerks", "quirks", "clerks", "sparks"] } ] },
+{
+  "expression": "jerk",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a rude or unpleasant person",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c05_u005",
+      "answer": "jerks",
+      "options": [
+        "jerks",
+        "quirks",
+        "clerks",
+        "sparks"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be on me", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when you will pay for something for other people",
-    "exchanges": [ { "uid": "s01_e14_c06_u017", "answer": "on me",
-      "options": ["on me", "at me", "by me", "to me"] } ] },
+{
+  "expression": "be on me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you will pay for something for other people",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c06_u017",
+      "answer": "on me",
+      "options": [
+        "on me",
+        "at me",
+        "by me",
+        "to me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to vomit",
-    "exchanges": [ { "uid": "s01_e14_c06_u018", "answer": "throws up", "responseUid": "s01_e14_c06_u022",
-      "options": ["throws up", "gives up", "shows up", "gets up"] } ] },
+{
+  "expression": "throw up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to vomit",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c06_u018",
+      "answer": "throws up",
+      "responseUid": "s01_e14_c06_u022",
+      "options": [
+        "throws up",
+        "gives up",
+        "shows up",
+        "gets up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the first place", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "at all, or from the very beginning; used to say a situation would not have started",
-    "exchanges": [ { "uid": "s01_e14_c10_u004", "answer": "in the first place",
-      "options": ["in the first place", "at the first time", "on the first spot", "for the first case"] } ] },
+{
+  "expression": "in the first place",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at all, or from the very beginning; used to say a situation would not have started",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c10_u004",
+      "answer": "in the first place",
+      "options": [
+        "in the first place",
+        "at the first time",
+        "on the first spot",
+        "for the first case"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for a living", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "as a job, in order to earn money",
-    "exchanges": [ { "uid": "s01_e14_c12_u001", "answer": "for a living",
-      "options": ["for a living", "for a life", "for a lifetime", "for a while"] } ] },
+{
+  "expression": "for a living",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "as a job, in order to earn money",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c12_u001",
+      "answer": "for a living",
+      "options": [
+        "for a living",
+        "for a life",
+        "for a lifetime",
+        "for a while"
+      ]
+    }
+  ]
+},
 
-  { "expression": "frightening", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "making you feel afraid",
-    "exchanges": [ { "uid": "s01_e14_c02_u005", "answer": "frightening",
-      "options": ["frightening", "fascinating", "flattering", "fattening"] } ] },
+{
+  "expression": "frightening",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel afraid",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c02_u005",
+      "answer": "frightening",
+      "options": [
+        "frightening",
+        "fascinating",
+        "flattering",
+        "fattening"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pathetic", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "so weak or sad that it is pitiful",
-    "exchanges": [ { "uid": "s01_e14_c02_u012", "answer": "Pathetic",
-      "options": ["Pathetic", "Patriotic", "Prophetic", "Poetic"] } ] },
+{
+  "expression": "pathetic",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "so weak or sad that it is pitiful",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c02_u012",
+      "answer": "Pathetic",
+      "options": [
+        "Pathetic",
+        "Patriotic",
+        "Prophetic",
+        "Poetic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crappy", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "very bad or unpleasant",
-    "exchanges": [ { "uid": "s01_e14_c06_u022", "answer": "crappy", "cueUid": "s01_e14_c06_u018",
-      "options": ["crappy", "crispy", "cranky", "crunchy"] } ] },
+{
+  "expression": "crappy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very bad or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c06_u022",
+      "answer": "crappy",
+      "cueUid": "s01_e14_c06_u018",
+      "options": [
+        "crappy",
+        "crispy",
+        "cranky",
+        "crunchy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "overpriced", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "costing more than it is worth",
-    "exchanges": [ { "uid": "s01_e14_c06_u028", "answer": "overpriced", "responseUid": "s01_e14_c06_u030",
-      "options": ["overpriced", "overdue", "oversized", "overworked"] } ] },
+{
+  "expression": "overpriced",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "costing more than it is worth",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c06_u028",
+      "answer": "overpriced",
+      "responseUid": "s01_e14_c06_u030",
+      "options": [
+        "overpriced",
+        "overdue",
+        "oversized",
+        "overworked"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jet lag", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "tiredness and confusion after a long flight across time zones",
-    "exchanges": [ { "uid": "s01_e14_c09_u001", "answer": "jet lag",
-      "options": ["jet lag", "jet set", "time lag", "air sick"] } ] },
+{
+  "expression": "jet lag",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "tiredness and confusion after a long flight across time zones",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c09_u001",
+      "answer": "jet lag",
+      "options": [
+        "jet lag",
+        "jet set",
+        "time lag",
+        "air sick"
+      ]
+    }
+  ]
+},
 
-  { "expression": "major", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "the main subject a student studies at college",
-    "exchanges": [ { "uid": "s01_e14_c12_u002", "answer": "major",
-      "options": ["major", "mayor", "manor", "margin"] } ] },
+{
+  "expression": "major",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the main subject a student studies at college",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c12_u002",
+      "answer": "major",
+      "options": [
+        "major",
+        "mayor",
+        "manor",
+        "margin"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of control", "type": "phrase", "level": "high", "pos": "adjective",
-    "meaning": "no longer able to be managed or stopped",
-    "exchanges": [ { "uid": "s01_e14_c13_u004", "answer": "out of control",
-      "options": ["out of control", "out of order", "out of place", "out of reach"] } ] },
+{
+  "expression": "out of control",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "no longer able to be managed or stopped",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c13_u004",
+      "answer": "out of control",
+      "options": [
+        "out of control",
+        "out of order",
+        "out of place",
+        "out of reach"
+      ]
+    }
+  ]
+},
 
-  { "expression": "screw up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to ruin something by making a bad mistake",
-    "exchanges": [ { "uid": "s01_e14_c15_u004", "answer": "screwed up",
-      "options": ["screwed up", "screwed in", "sewed up", "chewed up"] } ] },
+{
+  "expression": "screw up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ruin something by making a bad mistake",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c15_u004",
+      "answer": "screwed up",
+      "options": [
+        "screwed up",
+        "screwed in",
+        "sewed up",
+        "chewed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get back in the game", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to start dating or competing again after a long break",
-    "exchanges": [ { "uid": "s01_e14_c01_u009", "answer": "back in the game", "cueUid": "s01_e14_c01_u002",
-      "options": ["back in the game", "back in the line", "back on the stage", "back at the desk"] } ] },
+{
+  "expression": "get back in the game",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to start dating or competing again after a long break",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c01_u009",
+      "answer": "back in the game",
+      "cueUid": "s01_e14_c01_u002",
+      "options": [
+        "back in the game",
+        "back in the line",
+        "back on the stage",
+        "back at the desk"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bail on", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to abandon someone by not showing up for a plan you agreed to",
-    "exchanges": [ { "uid": "s01_e14_c02_u010", "answer": "bail on",
-      "options": ["bail on", "bail in", "fall on", "sit on"] } ] },
+{
+  "expression": "bail on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to abandon someone by not showing up for a plan you agreed to",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c02_u010",
+      "answer": "bail on",
+      "options": [
+        "bail on",
+        "bail in",
+        "fall on",
+        "sit on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "voluntarily", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "by one's own free choice, not because of force or necessity",
-    "exchanges": [ { "uid": "s01_e14_c05_u010", "answer": "voluntarily",
-      "options": ["voluntarily", "vigorously", "violently", "vocally"] } ] },
+{
+  "expression": "voluntarily",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "by one's own free choice, not because of force or necessity",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c05_u010",
+      "answer": "voluntarily",
+      "options": [
+        "voluntarily",
+        "vigorously",
+        "violently",
+        "vocally"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put a label on", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to give a relationship or situation an official name or category",
-    "exchanges": [ { "uid": "s01_e14_c09_u006", "answer": "put a label on",
-      "options": ["put a label on", "get a grip on", "take a stand on", "make a point on"] } ] },
+{
+  "expression": "put a label on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to give a relationship or situation an official name or category",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c09_u006",
+      "answer": "put a label on",
+      "options": [
+        "put a label on",
+        "get a grip on",
+        "take a stand on",
+        "make a point on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "seek out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to deliberately look for and find someone",
-    "exchanges": [ { "uid": "s01_e14_c14_u013", "answer": "seek me out",
-      "options": ["seek me out", "seek me in", "sort me out", "see me off"] } ] },
+{
+  "expression": "seek out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to deliberately look for and find someone",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c14_u013",
+      "answer": "seek me out",
+      "options": [
+        "seek me out",
+        "seek me in",
+        "sort me out",
+        "see me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "matchmaker", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a person who arranges romantic matches between other people",
-    "exchanges": [ { "uid": "s01_e14_c11_u007", "answer": "matchmaker", "cueUid": "s01_e14_c11_u005",
-      "options": ["matchmaker", "bookmaker", "dressmaker", "watchmaker"] } ] },
+{
+  "expression": "matchmaker",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who arranges romantic matches between other people",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c11_u007",
+      "answer": "matchmaker",
+      "cueUid": "s01_e14_c11_u005",
+      "options": [
+        "matchmaker",
+        "bookmaker",
+        "dressmaker",
+        "watchmaker"
+      ]
+    }
+  ]
+},
 
-  { "expression": "half-charred", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "partly burned black by fire",
-    "exchanges": [ { "uid": "s01_e14_c13_u002", "answer": "half-charred",
-      "options": ["half-charred", "half-baked", "half-hearted", "half-timbered"] } ] },
+{
+  "expression": "half-charred",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "partly burned black by fire",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c13_u002",
+      "answer": "half-charred",
+      "options": [
+        "half-charred",
+        "half-baked",
+        "half-hearted",
+        "half-timbered"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wolverine", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a fierce, bad-tempered wild animal, used here as an insult",
-    "exchanges": [ { "uid": "s01_e14_c15_u001", "answer": "wolverine",
-      "options": ["wolverine", "porcupine", "tangerine", "submarine"] } ] }
+{
+  "expression": "wolverine",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a fierce, bad-tempered wild animal, used here as an insult",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c15_u001",
+      "answer": "wolverine",
+      "options": [
+        "wolverine",
+        "porcupine",
+        "tangerine",
+        "submarine"
+      ]
+    }
+  ]
+}
 ]

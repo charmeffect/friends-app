@@ -1,127 +1,506 @@
 [
-  { "expression": "gross", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "disgusting or very unpleasant",
-    "exchanges": [ { "uid": "s02_e16_c01_u008", "answer": "gross",
-      "options": ["gross", "cheap", "loud", "fake"] } ] },
+{
+  "expression": "gross",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "disgusting or very unpleasant",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c01_u008",
+      "answer": "gross",
+      "options": [
+        "gross",
+        "cheap",
+        "loud",
+        "fake"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unclog", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to remove whatever is blocking a pipe or drain",
-    "exchanges": [ { "uid": "s02_e16_c01_u009", "answer": "unclog",
-      "options": ["unclog", "unfold", "unwrap", "unlock"] } ] },
+{
+  "expression": "unclog",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to remove whatever is blocking a pipe or drain",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c01_u009",
+      "answer": "unclog",
+      "options": [
+        "unclog",
+        "unfold",
+        "unwrap",
+        "unlock"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's the occasion", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "asked when someone is dressed up or celebrating, to find out the reason",
-    "exchanges": [ { "uid": "s02_e16_c02_u005", "answer": "What's the occasion", "cueUid": null,
-      "options": ["What's the occasion", "What's the matter", "What's the catch", "What's the point"] } ] },
+{
+  "expression": "what's the occasion",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when someone is dressed up or celebrating, to find out the reason",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c02_u005",
+      "answer": "What's the occasion",
+      "cueUid": null,
+      "options": [
+        "What's the occasion",
+        "What's the matter",
+        "What's the catch",
+        "What's the point"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stroke", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a sudden serious illness in which blood flow to the brain is blocked or a vessel bursts",
-    "exchanges": [ { "uid": "s02_e16_c02_u027", "answer": "stroke",
-      "options": ["stroke", "sprain", "bruise", "rash"] } ] },
+{
+  "expression": "stroke",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a sudden serious illness in which blood flow to the brain is blocked or a vessel bursts",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c02_u027",
+      "answer": "stroke",
+      "options": [
+        "stroke",
+        "sprain",
+        "bruise",
+        "rash"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vicariously", "type": "word", "level": "expert", "pos": "adverb",
-    "meaning": "experiencing something through another person's life rather than doing it yourself",
-    "exchanges": [ { "uid": "s02_e16_c06_u005", "answer": "vicariously",
-      "options": ["vicariously", "voraciously", "viciously", "virtually"] } ] },
+{
+  "expression": "vicariously",
+  "type": "word",
+  "level": "expert",
+  "pos": "adverb",
+  "meaning": "experiencing something through another person's life rather than doing it yourself",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c06_u005",
+      "answer": "vicariously",
+      "options": [
+        "vicariously",
+        "voraciously",
+        "viciously",
+        "virtually"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mid-life crisis", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "a period of worry and reckless behaviour in middle age caused by the feeling that life is passing",
-    "exchanges": [ { "uid": "s02_e16_c06_u007", "answer": "mid-life crisis",
-      "options": ["mid-life crisis", "long-term plan", "high-end taste", "full-time job"] } ] },
+{
+  "expression": "mid-life crisis",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a period of worry and reckless behaviour in middle age caused by the feeling that life is passing",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c06_u007",
+      "answer": "mid-life crisis",
+      "options": [
+        "mid-life crisis",
+        "long-term plan",
+        "high-end taste",
+        "full-time job"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to stop worrying or talking about something",
-    "exchanges": [ { "uid": "s02_e16_c06_u008", "answer": "let it go",
-      "options": ["let it go", "put it on", "take it in", "set it off"] } ] },
+{
+  "expression": "let it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to stop worrying or talking about something",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c06_u008",
+      "answer": "let it go",
+      "options": [
+        "let it go",
+        "put it on",
+        "take it in",
+        "set it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go through", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to experience a difficult or unpleasant period",
-    "exchanges": [ { "uid": "s02_e16_c06_u009", "answer": "going through",
-      "options": ["going through", "coming across", "putting off", "taking on"] } ] },
+{
+  "expression": "go through",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to experience a difficult or unpleasant period",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c06_u009",
+      "answer": "going through",
+      "options": [
+        "going through",
+        "coming across",
+        "putting off",
+        "taking on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "heinie", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a playful word for a person's buttocks",
-    "exchanges": [ { "uid": "s02_e16_c07_u020", "answer": "heinie",
-      "cueUid": "s02_e16_c07_u018", "responseUid": null,
-      "options": ["heinie", "hickey", "hoagie", "hubby"] } ] },
+{
+  "expression": "hiney",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a playful, childish word for a person's buttocks",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c07_u020",
+      "answer": "heinie",
+      "cueUid": "s02_e16_c07_u018",
+      "responseUid": null,
+      "options": [
+        "heinie",
+        "hickey",
+        "hoagie",
+        "hubby"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang in there", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "keep going and do not give up during a difficult time",
-    "exchanges": [ { "uid": "s02_e16_c08_u010", "answer": "hang in there",
-      "options": ["hang in there", "hold on there", "stay up there", "get out there"] } ] },
+{
+  "expression": "hang in there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "keep going and do not give up during a difficult time",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c08_u010",
+      "answer": "hang in there",
+      "options": [
+        "hang in there",
+        "hold on there",
+        "stay up there",
+        "get out there"
+      ]
+    }
+  ]
+},
 
-  { "expression": "trade in", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to give something old as part payment when getting a newer one",
-    "exchanges": [ { "uid": "s02_e16_c08_u021", "answer": "trading me in",
-      "options": ["trading me in", "handing me out", "giving me up", "taking me off"] } ] },
+{
+  "expression": "trade in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to give something old as part payment when getting a newer one",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c08_u021",
+      "answer": "trading me in",
+      "options": [
+        "trading me in",
+        "handing me out",
+        "giving me up",
+        "taking me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to look at something closely because it interests you",
-    "exchanges": [ { "uid": "s02_e16_c09_u003", "answer": "checking out",
-      "options": ["checking out", "putting off", "giving up", "turning in"] } ] },
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c09_u003",
+      "answer": "checking out",
+      "options": [
+        "checking out",
+        "putting off",
+        "giving up",
+        "turning in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "it wouldn't kill you", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said with annoyance to mean that doing something would be no trouble at all for someone",
-    "exchanges": [ { "uid": "s02_e16_c09_u005", "answer": "wouldn't kill you",
-      "options": ["wouldn't kill you", "couldn't stop you", "wouldn't catch you", "shouldn't find you"] } ] },
+{
+  "expression": "it wouldn't kill you",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said with annoyance to mean that doing something would be no trouble at all for someone",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c09_u005",
+      "answer": "wouldn't kill you",
+      "options": [
+        "wouldn't kill you",
+        "couldn't stop you",
+        "wouldn't catch you",
+        "shouldn't find you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "once in a while", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "occasionally, not very often",
-    "exchanges": [ { "uid": "s02_e16_c09_u005", "answer": "once in a while",
-      "options": ["once in a while", "all at a time", "one of a kind", "much in a way"] } ] },
+{
+  "expression": "once in a while",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "occasionally, not very often",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c09_u005",
+      "answer": "once in a while",
+      "options": [
+        "once in a while",
+        "all at a time",
+        "one of a kind",
+        "much in a way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bent out of shape", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "very upset or angry about something",
-    "exchanges": [ { "uid": "s02_e16_c09_u010", "answer": "bent out of shape",
-      "options": ["bent out of shape", "blown out of mind", "thrown out of line", "worn out of place"] } ] },
+{
+  "expression": "bent out of shape",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "very upset or angry about something",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c09_u010",
+      "answer": "bent out of shape",
+      "options": [
+        "bent out of shape",
+        "blown out of mind",
+        "thrown out of line",
+        "worn out of place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you don't say", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "a sarcastic reply meaning that what was just said is obvious",
-    "exchanges": [ { "uid": "s02_e16_c12_u013", "answer": "You don't say", "responseUid": null,
-      "options": ["You don't say", "You can't tell", "You won't know", "You never ask"] } ] },
+{
+  "expression": "you don't say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a sarcastic reply meaning that what was just said is obvious",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c12_u013",
+      "answer": "You don't say",
+      "responseUid": null,
+      "options": [
+        "You don't say",
+        "You can't tell",
+        "You won't know",
+        "You never ask"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let's face it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used before admitting an unpleasant truth that cannot be denied",
-    "exchanges": [ { "uid": "s02_e16_c13_u014", "answer": "let's face it",
-      "options": ["let's face it", "let's make it", "let's call it", "let's take it"] } ] },
+{
+  "expression": "let's face it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used before admitting an unpleasant truth that cannot be denied",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c13_u014",
+      "answer": "let's face it",
+      "options": [
+        "let's face it",
+        "let's make it",
+        "let's call it",
+        "let's take it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "high and dry", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "left without help or support in a difficult situation",
-    "exchanges": [ { "uid": "s02_e16_c13_u020", "answer": "high and dry",
-      "options": ["high and dry", "safe and sound", "sick and tired", "short and sweet"] } ] },
+{
+  "expression": "high and dry",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "left without help or support in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c13_u020",
+      "answer": "high and dry",
+      "options": [
+        "high and dry",
+        "safe and sound",
+        "sick and tired",
+        "short and sweet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to accept a challenge or a bet",
-    "exchanges": [ { "uid": "s02_e16_c13_u026", "answer": "you're on",
-      "options": ["you're on", "you're up", "you're in", "you're off"] } ] },
+{
+  "expression": "you're on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept a challenge or a bet",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c13_u026",
+      "answer": "you're on",
+      "options": [
+        "you're on",
+        "you're up",
+        "you're in",
+        "you're off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tasteful", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "attractive and showing good judgement about style, not flashy",
-    "exchanges": [ { "uid": "s02_e16_c14_u010", "answer": "tasteful",
-      "options": ["tasteful", "tasty", "tactful", "thankful"] } ] },
+{
+  "expression": "tasteful",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "attractive and showing good judgement about style, not flashy",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c14_u010",
+      "answer": "tasteful",
+      "options": [
+        "tasteful",
+        "tasty",
+        "tactful",
+        "thankful"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for your information", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said, often with annoyance, to correct someone with a fact they did not know",
-    "exchanges": [ { "uid": "s02_e16_c14_u018", "answer": "For your information",
-      "options": ["For your information", "For my protection", "For his attention", "For their collection"] } ] },
+{
+  "expression": "for your information",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, often with annoyance, to correct someone with a fact they did not know",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c14_u018",
+      "answer": "For your information",
+      "options": [
+        "For your information",
+        "For my protection",
+        "For his attention",
+        "For their collection"
+      ]
+    }
+  ]
+},
 
-  { "expression": "load of crap", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "complete nonsense",
-    "exchanges": [ { "uid": "s02_e16_c14_u019", "answer": "load of crap",
-      "options": ["load of crap", "pile of junk", "bag of tricks", "piece of cake"] } ] },
+{
+  "expression": "load of crap",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "complete nonsense",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c14_u019",
+      "answer": "load of crap",
+      "options": [
+        "load of crap",
+        "pile of junk",
+        "bag of tricks",
+        "piece of cake"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to help someone with a task",
-    "exchanges": [ { "uid": "s02_e16_c16_u010", "answer": "give you a hand",
-      "options": ["give you a hand", "take you a seat", "make you a deal", "show you a way"] } ] },
+{
+  "expression": "give someone a hand",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to help someone with a task",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c16_u010",
+      "answer": "give you a hand",
+      "options": [
+        "give you a hand",
+        "take you a seat",
+        "make you a deal",
+        "show you a way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "this is it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when an important or final moment has arrived",
-    "exchanges": [ { "uid": "s02_e16_c16_u013", "answer": "this is it", "cueUid": "s02_e16_c16_u011",
-      "options": ["this is it", "that is all", "here it is", "there we are"] } ] },
+{
+  "expression": "this is it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when an important or final moment has arrived",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c16_u013",
+      "answer": "this is it",
+      "cueUid": "s02_e16_c16_u011",
+      "options": [
+        "this is it",
+        "that is all",
+        "here it is",
+        "there we are"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when saying goodbye to wish someone well",
-    "exchanges": [ { "uid": "s02_e16_c16_u017", "answer": "take care",
-      "options": ["take care", "make sure", "hold still", "stay put"] } ] }
+{
+  "expression": "take care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when saying goodbye to wish someone well",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c16_u017",
+      "answer": "take care",
+      "options": [
+        "take care",
+        "make sure",
+        "hold still",
+        "stay put"
+      ]
+    }
+  ]
+}
 ]

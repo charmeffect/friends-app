@@ -1,127 +1,509 @@
 [
-  { "expression": "move in", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to start living in a new home",
-    "exchanges": [ { "uid": "s10_e06_c04_u003", "answer": "move in",
-      "options": ["move in", "pass out", "sign up", "show off"] } ] },
+{
+  "expression": "move in",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to start living in a new home",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c04_u003",
+      "answer": "move in",
+      "options": [
+        "move in",
+        "pass out",
+        "sign up",
+        "show off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's up", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "a casual greeting asking what is happening",
-    "exchanges": [ { "uid": "s10_e06_c08_u002", "answer": "What's up",
-      "options": ["What's up", "Who's there", "Where's that", "How's that"] } ] },
+{
+  "expression": "what's up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual greeting asking what is happening",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c08_u002",
+      "answer": "What's up",
+      "options": [
+        "What's up",
+        "Who's there",
+        "Where's that",
+        "How's that"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I knew it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when something you suspected turns out to be true",
-    "exchanges": [ { "uid": "s10_e06_c15_u007", "answer": "I knew it", "responseUid": null,
-      "options": ["I knew it", "I lost it", "I made it", "I bought it"] } ] },
+{
+  "expression": "I knew it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when something you suspected turns out to be true",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c15_u007",
+      "answer": "I knew it",
+      "responseUid": null,
+      "options": [
+        "I knew it",
+        "I lost it",
+        "I made it",
+        "I bought it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stunning", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "extremely attractive or beautiful",
-    "exchanges": [ { "uid": "s10_e06_c06_u003", "answer": "stunning",
-      "options": ["stunning", "stubborn", "stingy", "stale"] } ] },
+{
+  "expression": "stunning",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely attractive or beautiful",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c06_u003",
+      "answer": "stunning",
+      "options": [
+        "stunning",
+        "stubborn",
+        "stingy",
+        "stale"
+      ]
+    }
+  ]
+},
 
-  { "expression": "haunted", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "visited or possessed by a ghost",
-    "exchanges": [ { "uid": "s10_e06_c13_u008", "answer": "haunted",
-      "options": ["haunted", "hunted", "hosted", "heated"] } ] },
+{
+  "expression": "haunted",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "visited or possessed by a ghost",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c13_u008",
+      "answer": "haunted",
+      "options": [
+        "haunted",
+        "hunted",
+        "hosted",
+        "heated"
+      ]
+    }
+  ]
+},
 
-  { "expression": "might as well", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to suggest doing something because there is no better option",
-    "exchanges": [ { "uid": "s10_e06_c04_u006", "answer": "might as well",
-      "options": ["might as well", "may as much", "could as soon", "would as long"] } ] },
+{
+  "expression": "might as well",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to suggest doing something because there is no better option",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c04_u006",
+      "answer": "might as well",
+      "options": [
+        "might as well",
+        "may as much",
+        "could as soon",
+        "would as long"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invent something, such as a rule or a story, that is not true",
-    "exchanges": [ { "uid": "s10_e06_c09_u021", "answer": "made it up",
-      "options": ["made it up", "took it off", "gave it up", "put it down"] } ] },
+{
+  "expression": "make up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invent something, such as a rule or a story, that is not true",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c09_u021",
+      "answer": "made it up",
+      "options": [
+        "made it up",
+        "took it off",
+        "gave it up",
+        "put it down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be such a baby", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to act in a childish or cowardly way",
-    "exchanges": [ { "uid": "s10_e06_c18_u005", "answer": "such a baby", "responseUid": null,
-      "options": ["such a baby", "such a hero", "such a genius", "such a stranger"] } ] },
+{
+  "expression": "be such a baby",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to act in a childish or cowardly way",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c18_u005",
+      "answer": "such a baby",
+      "responseUid": null,
+      "options": [
+        "such a baby",
+        "such a hero",
+        "such a genius",
+        "such a stranger"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flip a coin", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to toss a coin in the air and let the side it lands on decide something",
-    "exchanges": [ { "uid": "s10_e06_c07_u017", "answer": "flip a coin",
-      "options": ["flip a coin", "fold a napkin", "draw a map", "toss a salad"] } ] },
+{
+  "expression": "flip a coin",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to toss a coin in the air and let the side it lands on decide something",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c07_u017",
+      "answer": "flip a coin",
+      "options": [
+        "flip a coin",
+        "fold a napkin",
+        "draw a map",
+        "toss a salad"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's not to like", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to say that something has nothing bad about it",
-    "exchanges": [ { "uid": "s10_e06_c04_u014", "answer": "What's not to like",
-      "options": ["What's not to like", "What's not to say", "Who's not to blame", "Where's not to go"] } ] },
+{
+  "expression": "what's not to like",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something has nothing bad about it",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c04_u014",
+      "answer": "What's not to like",
+      "options": [
+        "What's not to like",
+        "What's not to say",
+        "Who's not to blame",
+        "Where's not to go"
+      ]
+    }
+  ]
+},
 
-  { "expression": "right for the part", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "suitable to play a particular role in a show or advertisement",
-    "exchanges": [
-      { "uid": "s10_e06_c02_u009", "answer": "right for the part",
-        "options": ["right for the part", "late for the show", "out of the loop", "up for the trip"] },
-      { "uid": "s10_e06_c05_u004", "answer": "right for the part",
-        "options": ["right for the part", "late for the show", "out of the loop", "up for the trip"] } ] },
+{
+  "expression": "right for the part",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "suitable to play a particular role in a show or advertisement",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c02_u009",
+      "answer": "right for the part",
+      "options": [
+        "right for the part",
+        "late for the show",
+        "out of the loop",
+        "up for the trip"
+      ]
+    },
+    {
+      "uid": "s10_e06_c05_u004",
+      "answer": "right for the part",
+      "options": [
+        "right for the part",
+        "late for the show",
+        "out of the loop",
+        "up for the trip"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep score", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to keep track of what has happened, as if counting points in a game",
-    "exchanges": [ { "uid": "s10_e06_c03_u005", "answer": "keeping score",
-      "options": ["keeping score", "keeping house", "running late", "making waves"] } ] },
+{
+  "expression": "keep score",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep track of what has happened, as if counting points in a game",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c03_u005",
+      "answer": "keeping score",
+      "options": [
+        "keeping score",
+        "keeping house",
+        "running late",
+        "making waves"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fair and square", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "honestly and completely according to the rules",
-    "exchanges": [ { "uid": "s10_e06_c07_u019", "answer": "fair and square", "responseUid": null,
-      "options": ["fair and square", "safe and sound", "short and sweet", "sick and tired"] } ] },
+{
+  "expression": "fair and square",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "honestly and completely according to the rules",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c07_u019",
+      "answer": "fair and square",
+      "responseUid": null,
+      "options": [
+        "fair and square",
+        "safe and sound",
+        "short and sweet",
+        "sick and tired"
+      ]
+    }
+  ]
+},
 
-  { "expression": "think through", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to consider something carefully before deciding",
-    "exchanges": [ { "uid": "s10_e06_c04_u018", "answer": "think this through", "responseUid": null,
-      "options": ["think this through", "pass this on", "turn this off", "hold this up"] } ] },
+{
+  "expression": "think through",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to consider something carefully before deciding",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c04_u018",
+      "answer": "think this through",
+      "responseUid": null,
+      "options": [
+        "think this through",
+        "pass this on",
+        "turn this off",
+        "hold this up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get old", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to become boring or annoying after happening many times",
-    "exchanges": [ { "uid": "s10_e06_c18_u003", "answer": "get old",
-      "options": ["get old", "get lost", "get real", "get even"] } ] },
+{
+  "expression": "get old",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become boring or annoying after happening many times",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c18_u003",
+      "answer": "get old",
+      "options": [
+        "get old",
+        "get lost",
+        "get real",
+        "get even"
+      ]
+    }
+  ]
+},
 
-  { "expression": "too little, too late", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when an effort to fix a problem is not enough and comes after it could help",
-    "exchanges": [ { "uid": "s10_e06_c17_u007", "answer": "Too little, too late",
-      "options": ["Too little, too late", "First come, first served", "Easy come, easy go", "Too hot to handle"] } ] },
+{
+  "expression": "too little, too late",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when an effort to fix a problem is not enough and comes after it could help",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c17_u007",
+      "answer": "Too little, too late",
+      "options": [
+        "Too little, too late",
+        "First come, first served",
+        "Easy come, easy go",
+        "Too hot to handle"
+      ]
+    }
+  ]
+},
 
-  { "expression": "see other people", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to date other people, used to say that a romantic relationship is over",
-    "exchanges": [ { "uid": "s10_e06_c17_u022", "answer": "seeing other people", "responseUid": null,
-      "options": ["seeing other people", "meeting new friends", "making new plans", "taking separate cars"] } ] },
+{
+  "expression": "see other people",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to date other people, used to say that a romantic relationship is over",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c17_u022",
+      "answer": "seeing other people",
+      "responseUid": null,
+      "options": [
+        "seeing other people",
+        "meeting new friends",
+        "making new plans",
+        "taking separate cars"
+      ]
+    }
+  ]
+},
 
-  { "expression": "butter up", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to flatter or be very nice to someone before asking for something or giving bad news",
-    "exchanges": [ { "uid": "s10_e06_c03_u017", "answer": "butter him up", "responseUid": null,
-      "options": ["butter him up", "bring him down", "cheer him on", "bail him out"] } ] },
+{
+  "expression": "butter up",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to flatter or be very nice to someone before asking for something or giving bad news",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c03_u017",
+      "answer": "butter him up",
+      "responseUid": null,
+      "options": [
+        "butter him up",
+        "bring him down",
+        "cheer him on",
+        "bail him out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stuffy", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "formal, old-fashioned, and rather boring",
-    "exchanges": [ { "uid": "s10_e06_c02_u011", "answer": "stuffy",
-      "options": ["stuffy", "sporty", "flaky", "bubbly"] } ] },
+{
+  "expression": "stuffy",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "formal, old-fashioned, and rather boring",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c02_u011",
+      "answer": "stuffy",
+      "options": [
+        "stuffy",
+        "sporty",
+        "flaky",
+        "bubbly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "excavate", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to dig in the ground carefully to find buried objects such as fossils",
-    "exchanges": [ { "uid": "s10_e06_c06_u020", "answer": "excavated",
-      "options": ["excavated", "evacuated", "exaggerated", "exterminated"] } ] },
+{
+  "expression": "excavate",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to dig in the ground carefully to find buried objects such as fossils",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c06_u020",
+      "answer": "excavated",
+      "options": [
+        "excavated",
+        "evacuated",
+        "exaggerated",
+        "exterminated"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of bounds", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "beyond what is acceptable or proper in a situation",
-    "exchanges": [ { "uid": "s10_e06_c17_u015", "answer": "out of bounds",
-      "options": ["out of bounds", "out of breath", "out of stock", "out of print"] } ] },
+{
+  "expression": "out of bounds",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "beyond what is acceptable or proper in a situation",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c17_u015",
+      "answer": "out of bounds",
+      "options": [
+        "out of bounds",
+        "out of breath",
+        "out of stock",
+        "out of print"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pick your battles", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to argue only about the things that really matter and let small things go",
-    "exchanges": [ { "uid": "s10_e06_c07_u003", "answer": "pick your battles",
-      "options": ["pick your battles", "mind your manners", "hold your horses", "count your change"] } ] },
+{
+  "expression": "pick your battles",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to argue only about the things that really matter and let small things go",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c07_u003",
+      "answer": "pick your battles",
+      "options": [
+        "pick your battles",
+        "mind your manners",
+        "hold your horses",
+        "count your change"
+      ]
+    }
+  ]
+},
 
-  { "expression": "chameleon", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a person who can easily change their behavior or appearance to suit different situations",
-    "exchanges": [
-      { "uid": "s10_e06_c02_u010", "answer": "chameleon",
-        "options": ["chameleon", "chimpanzee", "cauliflower", "centipede"] },
-      { "uid": "s10_e06_c10_u012", "answer": "chameleon", "responseUid": null,
-        "options": ["chameleon", "chimpanzee", "cauliflower", "centipede"] } ] },
+{
+  "expression": "chameleon",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who can easily change their behavior or appearance to suit different situations",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c02_u010",
+      "answer": "chameleon",
+      "options": [
+        "chameleon",
+        "chimpanzee",
+        "cauliflower",
+        "centipede"
+      ]
+    },
+    {
+      "uid": "s10_e06_c10_u012",
+      "answer": "chameleon",
+      "responseUid": null,
+      "options": [
+        "chameleon",
+        "chimpanzee",
+        "cauliflower",
+        "centipede"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stipulation", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a condition that must be accepted as part of an agreement",
-    "exchanges": [ { "uid": "s10_e06_c12_u006", "answer": "stipulation", "cueUid": "s10_e06_c12_u004",
-      "options": ["stipulation", "stimulation", "speculation", "simulation"] } ] }
+{
+  "expression": "stipulation",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a condition that must be accepted as part of an agreement",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c12_u006",
+      "answer": "stipulation",
+      "cueUid": "s10_e06_c12_u004",
+      "options": [
+        "stipulation",
+        "stimulation",
+        "speculation",
+        "simulation"
+      ]
+    }
+  ]
+}
 ]

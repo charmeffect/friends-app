@@ -363,7 +363,7 @@
 {
   "expression": "maternity",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "relating to pregnancy or to women who are about to have a baby",
   "exchanges": [
@@ -413,7 +413,7 @@
 {
   "expression": "in a good place",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "feeling emotionally stable and content with your life",
   "exchanges": [
@@ -433,7 +433,7 @@
 {
   "expression": "put someone on the map",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to make someone or something famous or well known",
   "exchanges": [
@@ -453,7 +453,7 @@
 {
   "expression": "smoldering",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "adjective",
   "meaning": "showing strong, barely hidden passion or sexual attraction",
   "exchanges": [
@@ -473,7 +473,7 @@
 {
   "expression": "sliver",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "a very small, thin piece cut from something",
   "exchanges": [

@@ -1,129 +1,514 @@
 [
-  { "expression": "back and forth", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "repeatedly from one place to another and back again",
-    "exchanges": [ { "uid": "s06_e01_c12_u015", "answer": "back and forth",
-      "options": ["back and forth", "now and then", "more or less", "on and off"] } ] },
+{
+  "expression": "back and forth",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "repeatedly from one place to another and back again",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c12_u015",
+      "answer": "back and forth",
+      "options": [
+        "back and forth",
+        "now and then",
+        "more or less",
+        "on and off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "do someone a favor", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to do something helpful for someone because they ask you to",
-    "exchanges": [ { "uid": "s06_e01_c07_u011", "answer": "do me a favor",
-      "options": ["do me a favor", "make me a promise", "show me a sign", "tell me a secret"] } ] },
+{
+  "expression": "do someone a favor",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to do something helpful for someone because they ask you to",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c07_u011",
+      "answer": "do me a favor",
+      "options": [
+        "do me a favor",
+        "make me a promise",
+        "show me a sign",
+        "tell me a secret"
+      ]
+    }
+  ]
+},
 
-  { "expression": "all the way", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "the whole distance, without stopping",
-    "exchanges": [ { "uid": "s06_e01_c03_u008", "answer": "all the way",
-      "options": ["all the way", "all the time", "all at once", "all in all"] } ] },
+{
+  "expression": "all the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "the whole distance, without stopping",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u008",
+      "answer": "all the way",
+      "options": [
+        "all the way",
+        "all the time",
+        "all at once",
+        "all in all"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tell me about it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
-    "exchanges": [ { "uid": "s06_e01_c02_u013", "answer": "Tell me about it", "responseUid": null,
-      "options": ["Tell me about it", "Say it to me", "Ask me about it", "Talk to me now"] } ] },
+{
+  "expression": "tell me about it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c02_u013",
+      "answer": "Tell me about it",
+      "responseUid": null,
+      "options": [
+        "Tell me about it",
+        "Say it to me",
+        "Ask me about it",
+        "Talk to me now"
+      ]
+    }
+  ]
+},
 
-  { "expression": "insane", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "extremely foolish or crazy",
-    "exchanges": [ { "uid": "s06_e01_c01_u028", "answer": "insane",
-      "options": ["insane", "intense", "immense", "insecure"] } ] },
+{
+  "expression": "insane",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely foolish or crazy",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c01_u028",
+      "answer": "insane",
+      "options": [
+        "insane",
+        "intense",
+        "immense",
+        "insecure"
+      ]
+    }
+  ]
+},
 
-  { "expression": "depressed", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "very sad and without hope or energy",
-    "exchanges": [ { "uid": "s06_e01_c03_u004", "answer": "depressed",
-      "options": ["depressed", "impressed", "obsessed", "embarrassed"] } ] },
+{
+  "expression": "depressed",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very sad and without hope or energy",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u004",
+      "answer": "depressed",
+      "options": [
+        "depressed",
+        "impressed",
+        "obsessed",
+        "embarrassed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unlikely", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "not probable; not expected to happen",
-    "exchanges": [ { "uid": "s06_e01_c04_u019", "answer": "unlikely",
-      "options": ["unlikely", "unlucky", "unclear", "unfair"] } ] },
+{
+  "expression": "unlikely",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "not probable; not expected to happen",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c04_u019",
+      "answer": "unlikely",
+      "options": [
+        "unlikely",
+        "unlucky",
+        "unclear",
+        "unfair"
+      ]
+    }
+  ]
+},
 
-  { "expression": "greedy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "wanting more of something than you need or than is fair",
-    "exchanges": [ { "uid": "s06_e01_c05_u004", "answer": "greedy",
-      "cueUid": "s06_e01_c05_u002", "responseUid": "s06_e01_c05_u006",
-      "options": ["greedy", "grumpy", "gloomy", "guilty"] } ] },
+{
+  "expression": "greedy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "wanting more of something than you need or than is fair",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c05_u004",
+      "answer": "greedy",
+      "cueUid": "s06_e01_c05_u002",
+      "responseUid": "s06_e01_c05_u006",
+      "options": [
+        "greedy",
+        "grumpy",
+        "gloomy",
+        "guilty"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break someone's heart", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to make someone very sad, especially by ending a relationship with them",
-    "exchanges": [ { "uid": "s06_e01_c03_u032", "answer": "break his heart", "cueUid": null,
-      "options": ["break his heart", "blow his mind", "catch his eye", "hold his breath"] } ] },
+{
+  "expression": "break someone's heart",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone very sad, especially by ending a relationship with them",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u032",
+      "answer": "break his heart",
+      "cueUid": null,
+      "options": [
+        "break his heart",
+        "blow his mind",
+        "catch his eye",
+        "hold his breath"
+      ]
+    }
+  ]
+},
 
-  { "expression": "relieved", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "feeling happy because a worry has gone away",
-    "exchanges": [ { "uid": "s06_e01_c03_u030", "answer": "relieved",
-      "cueUid": "s06_e01_c03_u028", "responseUid": null,
-      "options": ["relieved", "released", "relied", "revealed"] } ] },
+{
+  "expression": "relieved",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "feeling happy because a worry has gone away",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u030",
+      "answer": "relieved",
+      "cueUid": "s06_e01_c03_u028",
+      "responseUid": null,
+      "options": [
+        "relieved",
+        "released",
+        "relied",
+        "revealed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blur", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a period of time or an event that you cannot remember clearly",
-    "exchanges": [ { "uid": "s06_e01_c02_u008", "answer": "blur", "cueUid": "s06_e01_c02_u005",
-      "options": ["blur", "blow", "bluff", "blink"] } ] },
+{
+  "expression": "blur",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a period of time or an event that you cannot remember clearly",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c02_u008",
+      "answer": "blur",
+      "cueUid": "s06_e01_c02_u005",
+      "options": [
+        "blur",
+        "blow",
+        "bluff",
+        "blink"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wake-up call", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "an event that makes you realize you need to change something",
-    "exchanges": [ { "uid": "s06_e01_c03_u027", "answer": "wake-up call",
-      "options": ["wake-up call", "close call", "phone call", "curtain call"] } ] },
+{
+  "expression": "wake-up call",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an event that makes you realize you need to change something",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u027",
+      "answer": "wake-up call",
+      "options": [
+        "wake-up call",
+        "close call",
+        "phone call",
+        "curtain call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "talk someone into", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to persuade someone to do something they were not planning to do",
-    "exchanges": [ { "uid": "s06_e01_c07_u005", "answer": "talk you into",
-      "options": ["talk you into", "let you off", "set you up", "get you through"] } ] },
+{
+  "expression": "talk someone into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to do something they were not planning to do",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c07_u005",
+      "answer": "talk you into",
+      "options": [
+        "talk you into",
+        "let you off",
+        "set you up",
+        "get you through"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do something good for someone to compensate for a wrong you did to them",
-    "exchanges": [ { "uid": "s06_e01_c11_u007", "answer": "make it up to",
-      "options": ["make it up to", "take it out on", "get it over with", "put it down to"] } ] },
+{
+  "expression": "make it up to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something good for someone to compensate for a wrong you did to them",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c11_u007",
+      "answer": "make it up to",
+      "options": [
+        "make it up to",
+        "take it out on",
+        "get it over with",
+        "put it down to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hangover", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "the headache and sickness you feel the day after drinking too much alcohol",
-    "exchanges": [ { "uid": "s06_e01_c10_u009", "answer": "hangover",
-      "options": ["hangover", "leftover", "takeover", "makeover"] } ] },
+{
+  "expression": "hangover",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the headache and sickness you feel the day after drinking too much alcohol",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c10_u009",
+      "answer": "hangover",
+      "options": [
+        "hangover",
+        "leftover",
+        "takeover",
+        "makeover"
+      ]
+    }
+  ]
+},
 
-  { "expression": "leave it up to", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to let someone or something else make the decision",
-    "exchanges": [ { "uid": "s06_e01_c04_u006", "answer": "leave it up to",
-      "options": ["leave it up to", "take it out on", "bring it back to", "put it down to"] } ] },
+{
+  "expression": "leave it up to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to let someone or something else make the decision",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c04_u006",
+      "answer": "leave it up to",
+      "options": [
+        "leave it up to",
+        "take it out on",
+        "bring it back to",
+        "put it down to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "difference of opinion", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "a disagreement between people about something",
-    "exchanges": [ { "uid": "s06_e01_c10_u008", "answer": "difference of opinion", "cueUid": "s06_e01_c10_u005",
-      "options": ["difference of opinion", "matter of fact", "point of view", "state of mind"] } ] },
+{
+  "expression": "difference of opinion",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a disagreement between people about something",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c10_u008",
+      "answer": "difference of opinion",
+      "cueUid": "s06_e01_c10_u005",
+      "options": [
+        "difference of opinion",
+        "matter of fact",
+        "point of view",
+        "state of mind"
+      ]
+    }
+  ]
+},
 
-  { "expression": "under the impression", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "believing something, usually something that turns out to be untrue",
-    "exchanges": [ { "uid": "s06_e01_c07_u010", "answer": "under the impression",
-      "options": ["under the impression", "on the condition", "in the position", "at the conclusion"] } ] },
+{
+  "expression": "under the impression",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "believing something, usually something that turns out to be untrue",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c07_u010",
+      "answer": "under the impression",
+      "options": [
+        "under the impression",
+        "on the condition",
+        "in the position",
+        "at the conclusion"
+      ]
+    }
+  ]
+},
 
-  { "expression": "clear-cut", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "definite and easy to see or understand, leaving no doubt",
-    "exchanges": [ { "uid": "s06_e01_c04_u024", "answer": "clear-cut", "responseUid": null,
-      "options": ["clear-cut", "well-off", "worn-out", "laid-back"] } ] },
+{
+  "expression": "clear-cut",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "definite and easy to see or understand, leaving no doubt",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c04_u024",
+      "answer": "clear-cut",
+      "responseUid": null,
+      "options": [
+        "clear-cut",
+        "well-off",
+        "worn-out",
+        "laid-back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the ball is in your court", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "it is now your turn to act or make a decision",
-    "exchanges": [ { "uid": "s06_e01_c11_u005", "answer": "in your court",
-      "options": ["in your court", "on your side", "at your door", "up your sleeve"] } ] },
+{
+  "expression": "the ball is in your court",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "it is now your turn to act or make a decision",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c11_u005",
+      "answer": "in your court",
+      "options": [
+        "in your court",
+        "on your side",
+        "at your door",
+        "up your sleeve"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grant", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to agree to give someone what they ask for",
-    "exchanges": [ { "uid": "s06_e01_c07_u013", "answer": "grant", "responseUid": null,
-      "options": ["grant", "greet", "grab", "guard"] } ] },
+{
+  "expression": "grant",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to agree to give someone what they ask for",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c07_u013",
+      "answer": "grant",
+      "responseUid": null,
+      "options": [
+        "grant",
+        "greet",
+        "grab",
+        "guard"
+      ]
+    }
+  ]
+},
 
-  { "expression": "strive", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to try very hard to achieve something",
-    "exchanges": [ { "uid": "s06_e01_c11_u009", "answer": "strive",
-      "options": ["strive", "strike", "stroll", "stretch"] } ] },
+{
+  "expression": "strive",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try very hard to achieve something",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c11_u009",
+      "answer": "strive",
+      "options": [
+        "strive",
+        "strike",
+        "stroll",
+        "stretch"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the joke's on you", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said when someone who was mocking others ends up looking foolish themselves",
-    "exchanges": [ { "uid": "s06_e01_c03_u065", "answer": "the joke's on you",
-      "options": ["the joke's on you", "the pleasure's all mine", "the choice is yours", "the fault is mine"] } ] },
+{
+  "expression": "the joke's on you",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said when someone who was mocking others ends up looking foolish themselves",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u065",
+      "answer": "the joke's on you",
+      "options": [
+        "the joke's on you",
+        "the pleasure's all mine",
+        "the choice is yours",
+        "the fault is mine"
+      ]
+    }
+  ]
+},
 
-  { "expression": "annulment", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "an official declaration that a marriage was never legally valid",
-    "exchanges": [ { "uid": "s06_e01_c13_u012", "answer": "annulment",
-      "cueUid": "s06_e01_c13_u010", "responseUid": "s06_e01_c13_u014",
-      "options": ["annulment", "amendment", "allotment", "enrollment"] } ] },
+{
+  "expression": "annulment",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an official declaration that a marriage was never legally valid",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c13_u012",
+      "answer": "annulment",
+      "cueUid": "s06_e01_c13_u010",
+      "responseUid": "s06_e01_c13_u014",
+      "options": [
+        "annulment",
+        "amendment",
+        "allotment",
+        "enrollment"
+      ]
+    }
+  ]
+},
 
-  { "expression": "christen", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to use something for the first time, as a way of celebrating it",
-    "exchanges": [ { "uid": "s06_e01_c12_u026", "answer": "christen", "cueUid": "s06_e01_c12_u024",
-      "options": ["christen", "cherish", "chasten", "charter"] } ] }
+{
+  "expression": "christen",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to use something for the first time, as a way of celebrating it",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c12_u026",
+      "answer": "christen",
+      "cueUid": "s06_e01_c12_u024",
+      "options": [
+        "christen",
+        "cherish",
+        "chasten",
+        "charter"
+      ]
+    }
+  ]
+}
 ]

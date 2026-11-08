@@ -1,127 +1,502 @@
 [
-  { "expression": "host", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to have people as guests at a meal or party in your home",
-    "exchanges": [ { "uid": "s10_e08_c01_u005", "answer": "host",
-      "options": ["host", "teach", "sell", "paint"] } ] },
+{
+  "expression": "host",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have people as guests at a meal or party in your home",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u005",
+      "answer": "host",
+      "options": [
+        "host",
+        "teach",
+        "sell",
+        "paint"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put words in someone's mouth", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to claim that someone said or thinks something that they did not",
-    "exchanges": [ { "uid": "s10_e08_c01_u012", "answer": "putting words",
-      "options": ["putting words", "keeping words", "taking words", "making words"],
-      "responseUid": null } ] },
+{
+  "expression": "put words in someone's mouth",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to claim that someone said or thinks something that they did not",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u012",
+      "answer": "putting words",
+      "options": [
+        "putting words",
+        "keeping words",
+        "taking words",
+        "making words"
+      ],
+      "responseUid": null
+    }
+  ]
+},
 
-  { "expression": "give yourself a break", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to allow yourself to rest instead of working hard",
-    "exchanges": [ { "uid": "s10_e08_c01_u017", "answer": "break",
-      "options": ["break", "fight", "test", "scare"] } ] },
+{
+  "expression": "give yourself a break",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to allow yourself to rest instead of working hard",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u017",
+      "answer": "break",
+      "options": [
+        "break",
+        "fight",
+        "test",
+        "scare"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lose one's touch", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to stop being as good at something as you used to be",
-    "exchanges": [ { "uid": "s10_e08_c01_u019", "answer": "losing her touch",
-      "options": ["losing her touch", "losing her keys", "losing her temper", "losing her balance"] } ] },
+{
+  "expression": "lose one's touch",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop being as good at something as you used to be",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u019",
+      "answer": "losing her touch",
+      "options": [
+        "losing her touch",
+        "losing her keys",
+        "losing her temper",
+        "losing her balance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "way off", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "completely wrong or mistaken",
-    "exchanges": [ { "uid": "s10_e08_c01_u020", "answer": "way off",
-      "options": ["way off", "way out", "way over", "way down"] } ] },
+{
+  "expression": "way off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "completely wrong or mistaken",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u020",
+      "answer": "way off",
+      "options": [
+        "way off",
+        "way out",
+        "way over",
+        "way down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stay out of this", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to tell someone not to get involved in a matter that does not concern them",
-    "exchanges": [ { "uid": "s10_e08_c01_u024", "answer": "stay out of",
-      "options": ["stay out of", "keep up with", "stay on top of", "come out of"] } ] },
+{
+  "expression": "stay out of this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone not to get involved in a matter that does not concern them",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u024",
+      "answer": "stay out of",
+      "options": [
+        "stay out of",
+        "keep up with",
+        "stay on top of",
+        "come out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to go and buy or collect something, often on the way somewhere",
-    "exchanges": [ { "uid": "s10_e08_c02_u004", "answer": "pick them up",
-      "options": ["pick them up", "give them up", "take them in", "put them up"] } ] },
+{
+  "expression": "pick up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go and buy or collect something, often on the way somewhere",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c02_u004",
+      "answer": "pick them up",
+      "options": [
+        "pick them up",
+        "give them up",
+        "take them in",
+        "put them up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in your face", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to mock someone you have beaten or proved wrong",
-    "exchanges": [ { "uid": "s10_e08_c02_u010", "answer": "In your face",
-      "options": ["In your face", "In your dreams", "On your feet", "Out of your mind"] } ] },
+{
+  "expression": "in your face",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to mock someone you have beaten or proved wrong",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c02_u010",
+      "answer": "In your face",
+      "options": [
+        "In your face",
+        "In your dreams",
+        "On your feet",
+        "Out of your mind"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pit against", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to make one person or thing compete against another",
-    "exchanges": [ { "uid": "s10_e08_c02_u020", "answer": "pitting",
-      "options": ["pitting", "pairing", "holding", "turning"] } ] },
+{
+  "expression": "pit against",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make one person or thing compete against another",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c02_u020",
+      "answer": "pitting",
+      "options": [
+        "pitting",
+        "pairing",
+        "holding",
+        "turning"
+      ]
+    }
+  ]
+},
 
-  { "expression": "occur to", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to suddenly come into someone's mind as a thought",
-    "exchanges": [ { "uid": "s10_e08_c03_u004", "answer": "occurred to",
-      "options": ["occurred to", "belonged to", "referred to", "pointed to"] } ] },
+{
+  "expression": "occur to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly come into someone's mind as a thought",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c03_u004",
+      "answer": "occurred to",
+      "options": [
+        "occurred to",
+        "belonged to",
+        "referred to",
+        "pointed to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the first place", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "at all, or from the very beginning; used to say a situation would not have started",
-    "exchanges": [ { "uid": "s10_e08_c03_u034", "answer": "in the first place",
-      "options": ["in the first place", "at the last minute", "on the other hand", "in the long run"] } ] },
+{
+  "expression": "in the first place",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at all, or from the very beginning; used to say a situation would not have started",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c03_u034",
+      "answer": "in the first place",
+      "options": [
+        "in the first place",
+        "at the last minute",
+        "on the other hand",
+        "in the long run"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s10_e08_c04_u003", "answer": "freaking me out",
-      "options": ["freaking me out", "cheering me up", "calming me down", "showing me off"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c04_u003",
+      "answer": "freaking me out",
+      "options": [
+        "freaking me out",
+        "cheering me up",
+        "calming me down",
+        "showing me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blow wide open", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "of a competition, to suddenly have no clear favourite so that anyone could win",
-    "exchanges": [ { "uid": "s10_e08_c04_u004", "answer": "blew wide open",
-      "options": ["blew wide open", "broke down early", "came to light", "fell flat"] } ] },
+{
+  "expression": "blow wide open",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "of a competition, to suddenly have no clear favourite so that anyone could win",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c04_u004",
+      "answer": "blew wide open",
+      "options": [
+        "blew wide open",
+        "broke down early",
+        "came to light",
+        "fell flat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what it takes", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "the effort or qualities needed to achieve something",
-    "exchanges": [ { "uid": "s10_e08_c04_u008", "answer": "what it takes",
-      "options": ["what it takes", "what it means", "what it costs", "where it goes"] } ] },
+{
+  "expression": "what it takes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the effort or qualities needed to achieve something",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c04_u008",
+      "answer": "what it takes",
+      "options": [
+        "what it takes",
+        "what it means",
+        "what it costs",
+        "where it goes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "calm down", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to stop feeling angry, excited, or nervous",
-    "exchanges": [ { "uid": "s10_e08_c04_u009", "answer": "calm down",
-      "options": ["calm down", "sit up", "show off", "back down"] } ] },
+{
+  "expression": "calm down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop feeling angry, excited, or nervous",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c04_u009",
+      "answer": "calm down",
+      "options": [
+        "calm down",
+        "sit up",
+        "show off",
+        "back down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hold a candle to", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to be anywhere near as good as someone or something else",
-    "exchanges": [ { "uid": "s10_e08_c04_u010", "answer": "holds a candle to",
-      "options": ["holds a candle to", "holds a grudge against", "keeps an eye on", "takes a shine to"] } ] },
+{
+  "expression": "hold a candle to",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to be anywhere near as good as someone or something else",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c04_u010",
+      "answer": "holds a candle to",
+      "options": [
+        "holds a candle to",
+        "holds a grudge against",
+        "keeps an eye on",
+        "takes a shine to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "washed out", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "looking pale and lacking colour",
-    "exchanges": [ { "uid": "s10_e08_c04_u018", "answer": "washed out",
-      "options": ["washed out", "dressed up", "stressed out", "locked out"] } ] },
+{
+  "expression": "washed out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "looking pale and lacking colour",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c04_u018",
+      "answer": "washed out",
+      "options": [
+        "washed out",
+        "dressed up",
+        "stressed out",
+        "locked out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "inexcusable", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "too bad to be forgiven or justified",
-    "exchanges": [ { "uid": "s10_e08_c07_u029", "answer": "inexcusable",
-      "options": ["inexcusable", "inexpensive", "invisible", "inflatable"] } ] },
+{
+  "expression": "inexcusable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "too bad to be forgiven or justified",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c07_u029",
+      "answer": "inexcusable",
+      "options": [
+        "inexcusable",
+        "inexpensive",
+        "invisible",
+        "inflatable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "figure out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to understand or solve something after thinking about it",
-    "exchanges": [ { "uid": "s10_e08_c07_u035", "answer": "figure it out",
-      "options": ["figure it out", "work it off", "make it up", "give it up"] } ] },
+{
+  "expression": "figure out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand or solve something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c07_u035",
+      "answer": "figure it out",
+      "options": [
+        "figure it out",
+        "work it off",
+        "make it up",
+        "give it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be in for", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to be about to experience something, usually something unpleasant",
-    "exchanges": [ { "uid": "s10_e08_c08_u005", "answer": "in for",
-      "options": ["in for", "up for", "out for", "off for"] } ] },
+{
+  "expression": "be in for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be about to experience something, usually something unpleasant",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u005",
+      "answer": "in for",
+      "options": [
+        "in for",
+        "up for",
+        "out for",
+        "off for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "act casual", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to behave normally so that nobody suspects anything is wrong",
-    "exchanges": [ { "uid": "s10_e08_c08_u012", "answer": "act casual",
-      "options": ["act casual", "act tough", "act fast", "act sick"] } ] },
+{
+  "expression": "act casual",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to behave normally so that nobody suspects anything is wrong",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u012",
+      "answer": "act casual",
+      "options": [
+        "act casual",
+        "act tough",
+        "act fast",
+        "act sick"
+      ]
+    }
+  ]
+},
 
-  { "expression": "soggy", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "unpleasantly wet and soft",
-    "exchanges": [ { "uid": "s10_e08_c08_u030", "answer": "soggy",
-      "options": ["soggy", "crispy", "fluffy", "spicy"] } ] },
+{
+  "expression": "soggy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unpleasantly wet and soft",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u030",
+      "answer": "soggy",
+      "options": [
+        "soggy",
+        "crispy",
+        "fluffy",
+        "spicy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break down", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop working because of a mechanical failure",
-    "exchanges": [ { "uid": "s10_e08_c08_u034", "answer": "broke down",
-      "options": ["broke down", "broke up", "took off", "ran out"] } ] },
+{
+  "expression": "break down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop working because of a mechanical failure",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u034",
+      "answer": "broke down",
+      "options": [
+        "broke down",
+        "broke up",
+        "took off",
+        "ran out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "starving", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "very hungry",
-    "exchanges": [ { "uid": "s10_e08_c08_u042", "answer": "starving",
-      "options": ["starving", "winning", "laughing", "singing"] } ] },
+{
+  "expression": "starving",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very hungry",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u042",
+      "answer": "starving",
+      "options": [
+        "starving",
+        "winning",
+        "laughing",
+        "singing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wedged", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "stuck tightly in a narrow space so that you cannot move",
-    "exchanges": [ { "uid": "s10_e08_c08_u101", "answer": "wedged",
-      "options": ["wedged", "tucked", "settled", "dressed"] } ] }
+{
+  "expression": "wedged",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "stuck tightly in a narrow space so that you cannot move",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u101",
+      "answer": "wedged",
+      "options": [
+        "wedged",
+        "tucked",
+        "settled",
+        "dressed"
+      ]
+    }
+  ]
+}
 ]

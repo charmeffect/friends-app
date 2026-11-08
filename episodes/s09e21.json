@@ -1,129 +1,514 @@
 [
-  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something important or worth worrying about",
-    "exchanges": [ { "uid": "s09_e21_c01_u012", "answer": "no big deal",
-      "options": ["no big deal", "no laughing matter", "no small feat", "no easy task"] } ] },
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c01_u012",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no laughing matter",
+        "no small feat",
+        "no easy task"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have in common", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to share the same interests or qualities as someone",
-    "exchanges": [
-      { "uid": "s09_e21_c01_u008", "answer": "in common",
-        "options": ["in common", "in charge", "in person", "in return"] },
-      { "uid": "s09_e21_c12_u017", "answer": "in common",
-        "options": ["in common", "in charge", "in person", "in return"] } ] },
+{
+  "expression": "have in common",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to share the same interests or qualities as someone",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c01_u008",
+      "answer": "in common",
+      "options": [
+        "in common",
+        "in charge",
+        "in person",
+        "in return"
+      ]
+    },
+    {
+      "uid": "s09_e21_c12_u017",
+      "answer": "in common",
+      "options": [
+        "in common",
+        "in charge",
+        "in person",
+        "in return"
+      ]
+    }
+  ]
+},
 
-  { "expression": "think less of", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to respect someone less than before because of something they did",
-    "exchanges": [ { "uid": "s09_e21_c01_u021", "answer": "think less of", "responseUid": null,
-      "options": ["think less of", "get rid of", "run out of", "take hold of"] } ] },
+{
+  "expression": "think less of",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to respect someone less than before because of something they did",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c01_u021",
+      "answer": "think less of",
+      "responseUid": null,
+      "options": [
+        "think less of",
+        "get rid of",
+        "run out of",
+        "take hold of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go around", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to keep doing something, often in a careless way, with many people or in many places",
-    "exchanges": [ { "uid": "s09_e21_c01_u021", "answer": "go around", "responseUid": null,
-      "options": ["go around", "come along", "get over", "run into"] } ] },
+{
+  "expression": "go around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep doing something, often in a careless way, with many people or in many places",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c01_u021",
+      "answer": "go around",
+      "responseUid": null,
+      "options": [
+        "go around",
+        "come along",
+        "get over",
+        "run into"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I know the type", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to show you are familiar with that kind of person",
-    "exchanges": [ { "uid": "s09_e21_c01_u024", "answer": "know the type",
-      "options": ["know the type", "know the way", "miss the point", "see the light"] } ] },
+{
+  "expression": "I know the type",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show you are familiar with that kind of person",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c01_u024",
+      "answer": "know the type",
+      "options": [
+        "know the type",
+        "know the way",
+        "miss the point",
+        "see the light"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grab a bite", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to have a quick, simple meal",
-    "exchanges": [ { "uid": "s09_e21_c01_u025", "answer": "grab a bite",
-      "options": ["grab a bite", "catch a break", "take a nap", "hit the road"] } ] },
+{
+  "expression": "grab a bite",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a quick, simple meal",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c01_u025",
+      "answer": "grab a bite",
+      "options": [
+        "grab a bite",
+        "catch a break",
+        "take a nap",
+        "hit the road"
+      ]
+    }
+  ]
+},
 
-  { "expression": "disapprove of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to think that something is bad or wrong",
-    "exchanges": [ { "uid": "s09_e21_c02_u011", "answer": "disapproves of",
-      "options": ["disapproves of", "depends on", "takes part in", "looks after"] } ] },
+{
+  "expression": "disapprove of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to think that something is bad or wrong",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c02_u011",
+      "answer": "disapproves of",
+      "options": [
+        "disapproves of",
+        "depends on",
+        "takes part in",
+        "looks after"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put someone out of business", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make a person or company lose so much trade that they have to stop working",
-    "exchanges": [ { "uid": "s09_e21_c02_u016", "answer": "out of business",
-      "options": ["out of business", "out of order", "out of reach", "out of control"] } ] },
+{
+  "expression": "put someone out of business",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make a person or company lose so much trade that they have to stop working",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c02_u016",
+      "answer": "out of business",
+      "options": [
+        "out of business",
+        "out of order",
+        "out of reach",
+        "out of control"
+      ]
+    }
+  ]
+},
 
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s09_e21_c03_u007", "answer": "find out",
-      "options": ["find out", "give up", "put off", "turn down"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c03_u007",
+      "answer": "find out",
+      "options": [
+        "find out",
+        "give up",
+        "put off",
+        "turn down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in my defense", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "said before giving a reason that partly excuses what you did",
-    "exchanges": [ { "uid": "s09_e21_c03_u012", "answer": "in my defense",
-      "options": ["in my defense", "at my expense", "by my side", "on my mind"] } ] },
+{
+  "expression": "in my defense",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said before giving a reason that partly excuses what you did",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c03_u012",
+      "answer": "in my defense",
+      "options": [
+        "in my defense",
+        "at my expense",
+        "by my side",
+        "on my mind"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hectic", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "very busy and full of activity",
-    "exchanges": [ { "uid": "s09_e21_c04_u008", "answer": "hectic",
-      "options": ["hectic", "hollow", "humble", "fragile"] } ] },
+{
+  "expression": "hectic",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very busy and full of activity",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c04_u008",
+      "answer": "hectic",
+      "options": [
+        "hectic",
+        "hollow",
+        "humble",
+        "fragile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't wait", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to be very excited about something that is going to happen",
-    "exchanges": [ { "uid": "s09_e21_c04_u009", "answer": "can't wait",
-      "options": ["can't wait", "can't stand", "don't care", "won't bother"] } ] },
+{
+  "expression": "can't wait",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be very excited about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c04_u009",
+      "answer": "can't wait",
+      "options": [
+        "can't wait",
+        "can't stand",
+        "don't care",
+        "won't bother"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let me stop you right there", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said to interrupt someone because you disagree or think they have made a mistake",
-    "exchanges": [ { "uid": "s09_e21_c04_u018", "answer": "stop you right there",
-      "options": ["stop you right there", "get back to you", "walk you through", "fill you in"] } ] },
+{
+  "expression": "let me stop you right there",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to interrupt someone because you disagree or think they have made a mistake",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c04_u018",
+      "answer": "stop you right there",
+      "options": [
+        "stop you right there",
+        "get back to you",
+        "walk you through",
+        "fill you in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fill in for", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to do someone's job temporarily while they are away",
-    "exchanges": [ { "uid": "s09_e21_c05_u013", "answer": "fill in for",
-      "options": ["fill in for", "stand up for", "look out for", "make up for"] } ] },
+{
+  "expression": "fill in for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do someone's job temporarily while they are away",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c05_u013",
+      "answer": "fill in for",
+      "options": [
+        "fill in for",
+        "stand up for",
+        "look out for",
+        "make up for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a stink", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to complain loudly and make a fuss about something",
-    "exchanges": [ { "uid": "s09_e21_c05_u015", "answer": "big stink",
-      "options": ["big stink", "big shot", "big break", "big catch"] } ] },
+{
+  "expression": "make a stink",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to complain loudly and make a fuss about something",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c05_u015",
+      "answer": "big stink",
+      "options": [
+        "big stink",
+        "big shot",
+        "big break",
+        "big catch"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the mood for", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "feeling like having or doing something",
-    "exchanges": [ { "uid": "s09_e21_c06_u027", "answer": "in the mood for",
-      "options": ["in the mood for", "in the middle of", "at the end of", "in the habit of"] } ] },
+{
+  "expression": "in the mood for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "feeling like having or doing something",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c06_u027",
+      "answer": "in the mood for",
+      "options": [
+        "in the mood for",
+        "in the middle of",
+        "at the end of",
+        "in the habit of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cranky", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "bad-tempered and easily annoyed",
-    "exchanges": [ { "uid": "s09_e21_c07_u015", "answer": "cranky",
-      "options": ["cranky", "clumsy", "chubby", "clever"] } ] },
+{
+  "expression": "cranky",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "bad-tempered and easily annoyed",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c07_u015",
+      "answer": "cranky",
+      "options": [
+        "cranky",
+        "clumsy",
+        "chubby",
+        "clever"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ad-lib", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to say things that were not planned or written in the script",
-    "exchanges": [ { "uid": "s09_e21_c09_u014", "answer": "ad-libbing",
-      "options": ["ad-libbing", "eavesdropping", "sightseeing", "babysitting"] } ] },
+{
+  "expression": "ad-lib",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to say things that were not planned or written in the script",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c09_u014",
+      "answer": "ad-libbing",
+      "options": [
+        "ad-libbing",
+        "eavesdropping",
+        "sightseeing",
+        "babysitting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "high maintenance", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "needing a lot of attention and effort from other people to stay happy",
-    "exchanges": [ { "uid": "s09_e21_c11_u007", "answer": "high maintenance",
-      "options": ["high maintenance", "full time", "last minute", "second hand"] } ] },
+{
+  "expression": "high maintenance",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "needing a lot of attention and effort from other people to stay happy",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c11_u007",
+      "answer": "high maintenance",
+      "options": [
+        "high maintenance",
+        "full time",
+        "last minute",
+        "second hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "punch a clock", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to work an ordinary job with fixed hours for an employer",
-    "exchanges": [ { "uid": "s09_e21_c11_u017", "answer": "punching a clock",
-      "options": ["punching a clock", "breaking a leg", "hitting the road", "pulling a prank"] } ] },
+{
+  "expression": "punch a clock",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to work an ordinary job with fixed hours for an employer",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c11_u017",
+      "answer": "punching a clock",
+      "options": [
+        "punching a clock",
+        "breaking a leg",
+        "hitting the road",
+        "pulling a prank"
+      ]
+    }
+  ]
+},
 
-  { "expression": "memorize", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to learn something so well that you can repeat it exactly",
-    "exchanges": [ { "uid": "s09_e21_c12_u007", "answer": "memorized",
-      "options": ["memorized", "misplaced", "mortgaged", "manufactured"] } ] },
+{
+  "expression": "memorize",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to learn something so well that you can repeat it exactly",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c12_u007",
+      "answer": "memorized",
+      "options": [
+        "memorized",
+        "misplaced",
+        "mortgaged",
+        "manufactured"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a chance", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to let someone show what they are like before you judge them",
-    "exchanges": [ { "uid": "s09_e21_c12_u018", "answer": "chance",
-      "options": ["chance", "ride", "tour", "speech"] } ] },
+{
+  "expression": "give someone a chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to let someone show what they are like before you judge them",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c12_u018",
+      "answer": "chance",
+      "options": [
+        "chance",
+        "ride",
+        "tour",
+        "speech"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hook someone up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to get something useful for someone, often through your connections or as a favor",
-    "exchanges": [ { "uid": "s09_e21_c12_u028", "answer": "hooked me up",
-      "options": ["hooked me up", "set me off", "held me back", "let me down"] } ] },
+{
+  "expression": "hook someone up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get something useful for someone, often through your connections or as a favor",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c12_u028",
+      "answer": "hooked me up",
+      "options": [
+        "hooked me up",
+        "set me off",
+        "held me back",
+        "let me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it work", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to succeed in a difficult situation by finding a way to deal with problems",
-    "exchanges": [ { "uid": "s09_e21_c12_u030", "answer": "made it work", "responseUid": null,
-      "options": ["made it work", "took it back", "let it go", "gave it up"] } ] },
+{
+  "expression": "make it work",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to succeed in a difficult situation by finding a way to deal with problems",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c12_u030",
+      "answer": "made it work",
+      "responseUid": null,
+      "options": [
+        "made it work",
+        "took it back",
+        "let it go",
+        "gave it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "figure out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to understand or solve something after thinking about it",
-    "exchanges": [ { "uid": "s09_e21_c13_u016", "answer": "figure this out",
-      "options": ["figure this out", "put this off", "turn this down", "hand this in"] } ] }
+{
+  "expression": "figure out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand or solve something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c13_u016",
+      "answer": "figure this out",
+      "options": [
+        "figure this out",
+        "put this off",
+        "turn this down",
+        "hand this in"
+      ]
+    }
+  ]
+}
 ]

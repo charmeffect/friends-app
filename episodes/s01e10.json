@@ -403,7 +403,7 @@
 {
   "expression": "phenomenal",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "extraordinarily good or impressive",
   "exchanges": [
@@ -424,7 +424,7 @@
 {
   "expression": "vividly",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adverb",
   "meaning": "in a very clear and detailed way, so that it is hard to forget",
   "exchanges": [
@@ -465,7 +465,7 @@
 {
   "expression": "smidge",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "a very small amount",
   "exchanges": [
@@ -485,7 +485,7 @@
 {
   "expression": "phone it in",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to do something with the least possible effort, without really caring",
   "exchanges": [

@@ -1,124 +1,491 @@
 [
-  { "expression": "take a break", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to stop an activity for a short time to rest",
-    "exchanges": [ { "uid": "s10_e16_c03_u004", "answer": "taking a break",
-      "options": ["taking a break", "making a break", "doing a break", "giving a break"] } ] },
+{
+  "expression": "take a break",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop an activity for a short time to rest",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c03_u004",
+      "answer": "taking a break",
+      "options": [
+        "taking a break",
+        "making a break",
+        "doing a break",
+        "giving a break"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to go and buy or collect something, often on the way somewhere",
-    "exchanges": [ { "uid": "s10_e16_c04_u027", "answer": "pick up",
-      "options": ["pick up", "make up", "fill in", "hold off"] } ] },
+{
+  "expression": "pick up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go and buy or collect something, often on the way somewhere",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c04_u027",
+      "answer": "pick up",
+      "options": [
+        "pick up",
+        "make up",
+        "fill in",
+        "hold off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to accept a challenge or a bet",
-    "exchanges": [ { "uid": "s10_e16_c01_u002", "answer": "you're on",
-      "options": ["you're on", "you're off", "you're over", "you're through"] } ] },
+{
+  "expression": "you're on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept a challenge or a bet",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c01_u002",
+      "answer": "you're on",
+      "options": [
+        "you're on",
+        "you're off",
+        "you're over",
+        "you're through"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get settled", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to become comfortable and organized in a new home or situation",
-    "exchanges": [ { "uid": "s10_e16_c02_u015", "answer": "get settled",
-      "options": ["get settled", "get stuck", "get lost", "get started"] } ] },
+{
+  "expression": "get settled",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become comfortable and organized in a new home or situation",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c02_u015",
+      "answer": "get settled",
+      "options": [
+        "get settled",
+        "get stuck",
+        "get lost",
+        "get started"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in charge of", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "responsible for and in control of something",
-    "exchanges": [ { "uid": "s10_e16_c03_u007", "answer": "in charge of",
-      "options": ["in charge of", "in front of", "in favor of", "in need of"] } ] },
+{
+  "expression": "in charge of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "responsible for and in control of something",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c03_u007",
+      "answer": "in charge of",
+      "options": [
+        "in charge of",
+        "in front of",
+        "in favor of",
+        "in need of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in a row", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "one after another without a break",
-    "exchanges": [ { "uid": "s10_e16_c04_u025", "answer": "in a row",
-      "options": ["in a row", "in a hurry", "in a sense", "in a moment"] } ] },
+{
+  "expression": "in a row",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "one after another without a break",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c04_u025",
+      "answer": "in a row",
+      "options": [
+        "in a row",
+        "in a hurry",
+        "in a sense",
+        "in a moment"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tell me about it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
-    "exchanges": [ { "uid": "s10_e16_c12_u003", "answer": "Tell me about it",
-      "options": ["Tell me about it", "Don't mention it", "Get over it", "Think about it"] } ] },
+{
+  "expression": "tell me about it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c12_u003",
+      "answer": "Tell me about it",
+      "options": [
+        "Tell me about it",
+        "Don't mention it",
+        "Get over it",
+        "Think about it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "head out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to leave a place to go somewhere else",
-    "exchanges": [ { "uid": "s10_e16_c12_u005", "answer": "head out",
-      "options": ["head out", "freak out", "hang out", "break out"] } ] },
+{
+  "expression": "head out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place to go somewhere else",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c12_u005",
+      "answer": "head out",
+      "options": [
+        "head out",
+        "freak out",
+        "hang out",
+        "break out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in labor", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "going through the process of giving birth",
-    "exchanges": [ { "uid": "s10_e16_c12_u032", "answer": "in labor",
-      "options": ["in labor", "in charge", "in debt", "in love"] } ] },
+{
+  "expression": "in labor",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "going through the process of giving birth",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c12_u032",
+      "answer": "in labor",
+      "options": [
+        "in labor",
+        "in charge",
+        "in debt",
+        "in love"
+      ]
+    }
+  ]
+},
 
-  { "expression": "carry-on", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a small bag that you are allowed to take with you into the cabin of a plane",
-    "exchanges": [ { "uid": "s10_e16_c01_u014", "answer": "carry-ons",
-      "options": ["carry-ons", "drop-offs", "take-outs", "pull-ups"] } ] },
+{
+  "expression": "carry-on",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a small bag that you are allowed to take with you into the cabin of a plane",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c01_u014",
+      "answer": "carry-ons",
+      "options": [
+        "carry-ons",
+        "drop-offs",
+        "take-outs",
+        "pull-ups"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lease", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a legal agreement that lets someone rent a home or property for a period of time",
-    "exchanges": [ { "uid": "s10_e16_c02_u023", "answer": "lease",
-      "options": ["lease", "fence", "ledge", "lane"] } ] },
+{
+  "expression": "lease",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a legal agreement that lets someone rent a home or property for a period of time",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c02_u023",
+      "answer": "lease",
+      "options": [
+        "lease",
+        "fence",
+        "ledge",
+        "lane"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bum out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone feel sad or disappointed",
-    "exchanges": [
-      { "uid": "s10_e16_c03_u013", "answer": "bums me out",
-        "options": ["bums me out", "cheers me up", "backs me up", "sums me up"] },
-      { "uid": "s10_e16_c12_u002", "answer": "bummed out",
-        "options": ["bummed out", "cheered up", "backed up", "dressed up"] } ] },
+{
+  "expression": "bum out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone feel sad or disappointed",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c03_u013",
+      "answer": "bums me out",
+      "options": [
+        "bums me out",
+        "cheers me up",
+        "backs me up",
+        "sums me up"
+      ]
+    },
+    {
+      "uid": "s10_e16_c12_u002",
+      "answer": "bummed out",
+      "options": [
+        "bummed out",
+        "cheered up",
+        "backed up",
+        "dressed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "set off", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone suddenly start crying or become upset",
-    "exchanges": [ { "uid": "s10_e16_c04_u013", "answer": "set her off",
-      "options": ["set her off", "put her on", "take her in", "bring her over"] } ] },
+{
+  "expression": "set off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone suddenly start crying or become upset",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c04_u013",
+      "answer": "set her off",
+      "options": [
+        "set her off",
+        "put her on",
+        "take her in",
+        "bring her over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I've been better", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "a mild way of saying that you are not feeling well or happy",
-    "exchanges": [ { "uid": "s10_e16_c04_u029", "answer": "been better",
-      "options": ["been better", "been told", "been warned", "been asked"] } ] },
+{
+  "expression": "I've been better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a mild way of saying that you are not feeling well or happy",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c04_u029",
+      "answer": "been better",
+      "options": [
+        "been better",
+        "been told",
+        "been warned",
+        "been asked"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gesture", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an action done to show your feelings, such as kindness or thanks",
-    "exchanges": [ { "uid": "s10_e16_c05_u005", "answer": "gesture",
-      "options": ["gesture", "gossip", "grudge", "garbage"] } ] },
+{
+  "expression": "gesture",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an action done to show your feelings, such as kindness or thanks",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c05_u005",
+      "answer": "gesture",
+      "options": [
+        "gesture",
+        "gossip",
+        "grudge",
+        "garbage"
+      ]
+    }
+  ]
+},
 
-  { "expression": "act out", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to behave badly as a way of expressing hidden feelings",
-    "exchanges": [ { "uid": "s10_e16_c06_u026", "answer": "act out",
-      "options": ["act out", "stand out", "work out", "pass out"] } ] },
+{
+  "expression": "act out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to behave badly as a way of expressing hidden feelings",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c06_u026",
+      "answer": "act out",
+      "options": [
+        "act out",
+        "stand out",
+        "work out",
+        "pass out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give it your best shot", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to try as hard as you can; here, to do your strongest attempt at something",
-    "exchanges": [ { "uid": "s10_e16_c14_u005", "answer": "best shot",
-      "options": ["best shot", "last word", "full name", "right hand"] } ] },
+{
+  "expression": "give it your best shot",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to try as hard as you can; here, to do your strongest attempt at something",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c14_u005",
+      "answer": "best shot",
+      "options": [
+        "best shot",
+        "last word",
+        "full name",
+        "right hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mark-up", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the amount by which a seller raises the price of a product above what it cost them",
-    "exchanges": [ { "uid": "s10_e16_c02_u019", "answer": "mark-ups",
-      "options": ["mark-ups", "write-offs", "set-ups", "break-ins"] } ] },
+{
+  "expression": "mark-up",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the amount by which a seller raises the price of a product above what it cost them",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c02_u019",
+      "answer": "mark-ups",
+      "options": [
+        "mark-ups",
+        "write-offs",
+        "set-ups",
+        "break-ins"
+      ]
+    }
+  ]
+},
 
-  { "expression": "well played", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said to admit that someone has made a clever move or comeback against you",
-    "exchanges": [ { "uid": "s10_e16_c06_u010", "answer": "Well played",
-      "options": ["Well played", "Well fed", "Well read", "Well paid"] } ] },
+{
+  "expression": "well played",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to admit that someone has made a clever move or comeback against you",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c06_u010",
+      "answer": "Well played",
+      "options": [
+        "Well played",
+        "Well fed",
+        "Well read",
+        "Well paid"
+      ]
+    }
+  ]
+},
 
-  { "expression": "implicit", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "understood without being said directly",
-    "exchanges": [ { "uid": "s10_e16_c11_u002", "answer": "implicit",
-      "options": ["implicit", "imported", "immortal", "imprinted"] } ] },
+{
+  "expression": "implicit",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "understood without being said directly",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c11_u002",
+      "answer": "implicit",
+      "options": [
+        "implicit",
+        "imported",
+        "immortal",
+        "imprinted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flimsy", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "thin and weak, so that it breaks easily",
-    "exchanges": [ { "uid": "s10_e16_c08_u014", "answer": "flimsy",
-      "options": ["flimsy", "crispy", "frosty", "salty"] } ] },
+{
+  "expression": "flimsy",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "thin and weak, so that it breaks easily",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c08_u014",
+      "answer": "flimsy",
+      "options": [
+        "flimsy",
+        "crispy",
+        "frosty",
+        "salty"
+      ]
+    }
+  ]
+},
 
-  { "expression": "statute of limitations", "type": "phrase", "level": "expert", "pos": "noun",
-    "meaning": "a law that sets the time limit after which a person can no longer be charged for a crime",
-    "exchanges": [ { "uid": "s10_e16_c04_u032", "answer": "Statute of Limitations",
-      "options": ["Statute of Limitations", "Bill of Rights", "Terms of Service", "Code of Conduct"] } ] },
+{
+  "expression": "statute of limitations",
+  "type": "phrase",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a law that sets the time limit after which a person can no longer be charged for a crime",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c04_u032",
+      "answer": "Statute of Limitations",
+      "options": [
+        "Statute of Limitations",
+        "Bill of Rights",
+        "Terms of Service",
+        "Code of Conduct"
+      ]
+    }
+  ]
+},
 
-  { "expression": "humdinger", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "something remarkable, exciting, or extraordinary",
-    "exchanges": [ { "uid": "s10_e16_c11_u008", "answer": "humdinger",
-      "options": ["humdinger", "hairdresser", "handshake", "hamburger"] } ] },
+{
+  "expression": "humdinger",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "something remarkable, exciting, or extraordinary",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c11_u008",
+      "answer": "humdinger",
+      "options": [
+        "humdinger",
+        "hairdresser",
+        "handshake",
+        "hamburger"
+      ]
+    }
+  ]
+},
 
-  { "expression": "yahoo", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a rude, noisy, or foolish person",
-    "exchanges": [ { "uid": "s10_e16_c03_u007", "answer": "yahoos",
-      "options": ["yahoos", "bagels", "yachts", "sweaters"] } ] }
+{
+  "expression": "yahoo",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a rude, noisy, or foolish person",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c03_u007",
+      "answer": "yahoos",
+      "options": [
+        "yahoos",
+        "bagels",
+        "yachts",
+        "sweaters"
+      ]
+    }
+  ]
+}
 ]

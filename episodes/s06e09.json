@@ -1,135 +1,532 @@
 [
-  { "expression": "fall in love", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to start to love someone romantically",
-    "exchanges": [ { "uid": "s06_e09_c01_u022", "answer": "fall in love",
-      "options": ["fall in love", "fall in line", "fall in place", "fall in debt"] } ] },
+{
+  "expression": "fall in love",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to start to love someone romantically",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c01_u022",
+      "answer": "fall in love",
+      "options": [
+        "fall in love",
+        "fall in line",
+        "fall in place",
+        "fall in debt"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to visit a place briefly, often without planning it",
-    "exchanges": [ { "uid": "s06_e09_c03_u026", "answer": "stop by",
-      "options": ["stop by", "drop off", "pass out", "show off"] } ] },
+{
+  "expression": "stop by",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit a place briefly, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u026",
+      "answer": "stop by",
+      "options": [
+        "stop by",
+        "drop off",
+        "pass out",
+        "show off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hurry up", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "to move or act more quickly",
-    "exchanges": [ { "uid": "s06_e09_c06_u005", "answer": "hurry up",
-      "options": ["hurry up", "sit down", "cheer up", "wake up"] } ] },
+{
+  "expression": "hurry up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to move or act more quickly",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c06_u005",
+      "answer": "hurry up",
+      "options": [
+        "hurry up",
+        "sit down",
+        "cheer up",
+        "wake up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of nowhere", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "suddenly and unexpectedly, without any warning",
-    "exchanges": [ { "uid": "s06_e09_c01_u013", "answer": "out of nowhere",
-      "options": ["out of nowhere", "out of order", "out of reach", "out of place"] } ] },
+{
+  "expression": "out of nowhere",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "suddenly and unexpectedly, without any warning",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c01_u013",
+      "answer": "out of nowhere",
+      "options": [
+        "out of nowhere",
+        "out of order",
+        "out of reach",
+        "out of place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to finally be in a situation or place, often without planning it",
-    "exchanges": [
-      { "uid": "s06_e09_c02_u027", "answer": "end up",
-        "options": ["end up", "pick up", "set off", "turn up"] },
-      { "uid": "s06_e09_c04_u008", "answer": "end up",
-        "options": ["end up", "give up", "take up", "pick up"] } ] },
+{
+  "expression": "end up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally be in a situation or place, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c02_u027",
+      "answer": "end up",
+      "options": [
+        "end up",
+        "pick up",
+        "set off",
+        "turn up"
+      ]
+    },
+    {
+      "uid": "s06_e09_c04_u008",
+      "answer": "end up",
+      "options": [
+        "end up",
+        "give up",
+        "take up",
+        "pick up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mess up", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to spoil or ruin something",
-    "exchanges": [
-      { "uid": "s06_e09_c03_u088", "answer": "messed up",
-        "options": ["messed up", "showed up", "cheered up", "dressed up"] },
-      { "uid": "s06_e09_c07_u002", "answer": "messed up",
-        "options": ["messed up", "made up", "served up", "picked up"] } ] },
+{
+  "expression": "mess up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spoil or ruin something",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u088",
+      "answer": "messed up",
+      "options": [
+        "messed up",
+        "showed up",
+        "cheered up",
+        "dressed up"
+      ]
+    },
+    {
+      "uid": "s06_e09_c07_u002",
+      "answer": "messed up",
+      "options": [
+        "messed up",
+        "made up",
+        "served up",
+        "picked up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to laugh at or joke about someone in an unkind way",
-    "exchanges": [ { "uid": "s06_e09_c07_u004", "answer": "make fun of", "responseUid": null,
-      "options": ["make fun of", "take care of", "make use of", "take note of"] } ] },
+{
+  "expression": "make fun of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to laugh at or joke about someone in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u004",
+      "answer": "make fun of",
+      "responseUid": null,
+      "options": [
+        "make fun of",
+        "take care of",
+        "make use of",
+        "take note of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have faith in", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to trust that someone will be able to do something well",
-    "exchanges": [ { "uid": "s06_e09_c03_u012", "answer": "have faith in",
-      "options": ["have faith in", "make fun of", "lose track of", "take care of"] } ] },
+{
+  "expression": "have faith in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to trust that someone will be able to do something well",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u012",
+      "answer": "have faith in",
+      "options": [
+        "have faith in",
+        "make fun of",
+        "lose track of",
+        "take care of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blame something on", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to say that someone else is responsible for something bad",
-    "exchanges": [ { "uid": "s06_e09_c05_u003", "answer": "blamed it on",
-      "options": ["blamed it on", "based it on", "spent it on", "tried it on"] } ] },
+{
+  "expression": "blame something on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to say that someone else is responsible for something bad",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c05_u003",
+      "answer": "blamed it on",
+      "options": [
+        "blamed it on",
+        "based it on",
+        "spent it on",
+        "tried it on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's not to like", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to say that something has nothing bad about it",
-    "exchanges": [ { "uid": "s06_e09_c07_u068", "answer": "not to like",
-      "options": ["not to like", "not to see", "not to say", "not to know"] } ] },
+{
+  "expression": "what's not to like",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something has nothing bad about it",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u068",
+      "answer": "not to like",
+      "options": [
+        "not to like",
+        "not to see",
+        "not to say",
+        "not to know"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sarcastic", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "saying the opposite of what you mean in order to mock someone",
-    "exchanges": [ { "uid": "s06_e09_c02_u008", "answer": "sarcastic",
-      "options": ["sarcastic", "punctual", "generous", "modest"] } ] },
+{
+  "expression": "sarcastic",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "saying the opposite of what you mean in order to mock someone",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c02_u008",
+      "answer": "sarcastic",
+      "options": [
+        "sarcastic",
+        "punctual",
+        "generous",
+        "modest"
+      ]
+    }
+  ]
+},
 
-  { "expression": "win someone over", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to persuade someone to like or support you",
-    "exchanges": [ { "uid": "s06_e09_c01_u024", "answer": "won you over",
-      "options": ["won you over", "let you down", "kept you up", "put you off"] } ] },
+{
+  "expression": "win someone over",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to like or support you",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c01_u024",
+      "answer": "won you over",
+      "options": [
+        "won you over",
+        "let you down",
+        "kept you up",
+        "put you off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "from scratch", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "from the very beginning, using basic ingredients or materials rather than ready-made ones",
-    "exchanges": [ { "uid": "s06_e09_c03_u072", "answer": "from scratch",
-      "options": ["from scratch", "from behind", "from below", "from afar"] } ] },
+{
+  "expression": "from scratch",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "from the very beginning, using basic ingredients or materials rather than ready-made ones",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u072",
+      "answer": "from scratch",
+      "options": [
+        "from scratch",
+        "from behind",
+        "from below",
+        "from afar"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stoned", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "under the influence of marijuana or another drug",
-    "exchanges": [ { "uid": "s06_e09_c03_u108", "answer": "stoned",
-      "options": ["stoned", "punctual", "modest", "generous"] } ] },
+{
+  "expression": "stoned",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "under the influence of marijuana or another drug",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u108",
+      "answer": "stoned",
+      "options": [
+        "stoned",
+        "punctual",
+        "modest",
+        "generous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pop into one's head", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to come into someone's mind suddenly, without being planned",
-    "exchanges": [ { "uid": "s06_e09_c04_u006", "answer": "popped into my head",
-      "options": ["popped into my head", "slipped my mind", "got on my nerves", "went over my head"] } ] },
+{
+  "expression": "pop into one's head",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to come into someone's mind suddenly, without being planned",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c04_u006",
+      "answer": "popped into my head",
+      "options": [
+        "popped into my head",
+        "slipped my mind",
+        "got on my nerves",
+        "went over my head"
+      ]
+    }
+  ]
+},
 
-  { "expression": "trick someone into", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make someone do something by deceiving them",
-    "exchanges": [
-      { "uid": "s06_e09_c05_u008", "answer": "tricked me into",
-        "options": ["tricked me into", "helped me with", "warned me about", "cured me of"] },
-      { "uid": "s06_e09_c07_u112", "answer": "got tricked into",
-        "options": ["got tricked into", "got bored with", "got used to", "got rid of"] } ] },
+{
+  "expression": "trick someone into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone do something by deceiving them",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c05_u008",
+      "answer": "tricked me into",
+      "options": [
+        "tricked me into",
+        "helped me with",
+        "warned me about",
+        "cured me of"
+      ]
+    },
+    {
+      "uid": "s06_e09_c07_u112",
+      "answer": "got tricked into",
+      "options": [
+        "got tricked into",
+        "got bored with",
+        "got used to",
+        "got rid of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't blame a guy for trying", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to excuse yourself after an attempt that did not succeed",
-    "exchanges": [ { "uid": "s06_e09_c07_u024", "answer": "blame a guy",
-      "options": ["blame a guy", "fool a guy", "pay a guy", "hire a guy"] } ] },
+{
+  "expression": "can't blame a guy for trying",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to excuse yourself after an attempt that did not succeed",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u024",
+      "answer": "blame a guy",
+      "options": [
+        "blame a guy",
+        "fool a guy",
+        "pay a guy",
+        "hire a guy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stick by", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to stay loyal to and support someone during difficult times",
-    "exchanges": [ { "uid": "s06_e09_c07_u113", "answer": "stuck by",
-      "options": ["stuck by", "laughed at", "lied to", "run from"] } ] },
+{
+  "expression": "stick by",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stay loyal to and support someone during difficult times",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u113",
+      "answer": "stuck by",
+      "options": [
+        "stuck by",
+        "laughed at",
+        "lied to",
+        "run from"
+      ]
+    }
+  ]
+},
 
-  { "expression": "aloof", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "cool and distant, not showing friendliness or interest",
-    "exchanges": [ { "uid": "s06_e09_c01_u019", "answer": "aloof",
-      "options": ["aloof", "humble", "punctual", "generous"] } ] },
+{
+  "expression": "aloof",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "cool and distant, not showing friendliness or interest",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c01_u019",
+      "answer": "aloof",
+      "options": [
+        "aloof",
+        "humble",
+        "punctual",
+        "generous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let alone", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "used after a statement to show that a second thing is even less likely",
-    "exchanges": [ { "uid": "s06_e09_c04_u008", "answer": "let alone",
-      "options": ["let alone", "as well", "so that", "even though"] } ] },
+{
+  "expression": "let alone",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used after a statement to show that a second thing is even less likely",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c04_u008",
+      "answer": "let alone",
+      "options": [
+        "let alone",
+        "as well",
+        "so that",
+        "even though"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be upon us", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to be about to happen or arrive very soon",
-    "exchanges": [ { "uid": "s06_e09_c07_u014", "answer": "upon us",
-      "options": ["upon us", "beneath us", "without us", "inside us"] } ] },
+{
+  "expression": "be upon us",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be about to happen or arrive very soon",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u014",
+      "answer": "upon us",
+      "options": [
+        "upon us",
+        "beneath us",
+        "without us",
+        "inside us"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take on", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to accept responsibility for someone or something",
-    "exchanges": [ { "uid": "s06_e09_c07_u113", "answer": "taken on",
-      "options": ["taken on", "given up", "turned down", "let down"] } ] },
+{
+  "expression": "take on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to accept responsibility for someone or something",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u113",
+      "answer": "taken on",
+      "options": [
+        "taken on",
+        "given up",
+        "turned down",
+        "let down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "if it's any consolation", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said before mentioning something that may make a person feel slightly better about a disappointment",
-    "exchanges": [ { "uid": "s06_e09_c07_u072", "answer": "consolation",
-      "options": ["consolation", "coincidence", "exaggeration", "celebration"] } ] },
+{
+  "expression": "if it's any consolation",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said before mentioning something that may make a person feel slightly better about a disappointment",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u072",
+      "answer": "consolation",
+      "options": [
+        "consolation",
+        "coincidence",
+        "exaggeration",
+        "celebration"
+      ]
+    }
+  ]
+},
 
-  { "expression": "floor", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to surprise or affect someone so strongly that they do not know how to react",
-    "exchanges": [ { "uid": "s06_e09_c07_u081", "answer": "floored",
-      "options": ["floored", "bored", "fooled", "annoyed"] } ] },
+{
+  "expression": "floor",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to surprise or affect someone so strongly that they do not know how to react",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u081",
+      "answer": "floored",
+      "options": [
+        "floored",
+        "bored",
+        "fooled",
+        "annoyed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tattletale", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a person, especially a child, who tells others about someone's bad behavior",
-    "exchanges": [ { "uid": "s06_e09_c07_u089", "answer": "tattletale",
-      "options": ["tattletale", "daydreamer", "bookworm", "heartbreaker"] } ] }
+{
+  "expression": "tattletale",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a person, especially a child, who tells others about someone's bad behavior",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u089",
+      "answer": "tattletale",
+      "options": [
+        "tattletale",
+        "daydreamer",
+        "bookworm",
+        "heartbreaker"
+      ]
+    }
+  ]
+}
 ]

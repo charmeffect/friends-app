@@ -1,132 +1,523 @@
 [
-  { "expression": "calm down", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to stop feeling angry, excited, or nervous",
-    "exchanges": [ { "uid": "s01_e21_c01_u003", "answer": "calm down",
-      "options": ["calm down", "sit down", "step down", "turn down"] } ] },
+{
+  "expression": "calm down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop feeling angry, excited, or nervous",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c01_u003",
+      "answer": "calm down",
+      "options": [
+        "calm down",
+        "sit down",
+        "step down",
+        "turn down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get started", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to begin doing something",
-    "exchanges": [ { "uid": "s01_e21_c05_u015", "answer": "get started",
-      "options": ["get started", "get dressed", "get lost", "get even"] } ] },
+{
+  "expression": "get started",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to begin doing something",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c05_u015",
+      "answer": "get started",
+      "options": [
+        "get started",
+        "get dressed",
+        "get lost",
+        "get even"
+      ]
+    }
+  ]
+},
 
-  { "expression": "not too bad", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "a casual reply to 'how are you' meaning you are doing fairly well",
-    "exchanges": [ { "uid": "s01_e21_c12_u004", "answer": "not too bad",
-      "options": ["not too bad", "not so fast", "not for long", "not at all"] } ] },
+{
+  "expression": "not too bad",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual reply to 'how are you' meaning you are doing fairly well",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c12_u004",
+      "answer": "not too bad",
+      "options": [
+        "not too bad",
+        "not so fast",
+        "not for long",
+        "not at all"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to stop having something, often as a sacrifice",
-    "exchanges": [ { "uid": "s01_e21_c06_u010", "answer": "give him up", "responseUid": null,
-      "options": ["give him up", "give him in", "put him up", "take him up"] } ] },
+{
+  "expression": "give up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop having something, often as a sacrifice",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c06_u010",
+      "answer": "give him up",
+      "responseUid": null,
+      "options": [
+        "give him up",
+        "give him in",
+        "put him up",
+        "take him up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "geek", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
-    "exchanges": [ { "uid": "s01_e21_c01_u006", "answer": "geek",
-      "options": ["geek", "jerk", "hunk", "wimp"] } ] },
+{
+  "expression": "geek",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c01_u006",
+      "answer": "geek",
+      "options": [
+        "geek",
+        "jerk",
+        "hunk",
+        "wimp"
+      ]
+    }
+  ]
+},
 
-  { "expression": "phase", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a temporary stage in someone's development or behaviour that will pass",
-    "exchanges": [
-      { "uid": "s01_e21_c01_u012", "answer": "phase",
-        "options": ["phase", "trend", "rumor", "flaw"] },
-      { "uid": "s01_e21_c06_u006", "answer": "phase",
-        "options": ["phase", "trend", "rumor", "flaw"] } ] },
+{
+  "expression": "phase",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a temporary stage in someone's development or behaviour that will pass",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c01_u012",
+      "answer": "phase",
+      "options": [
+        "phase",
+        "trend",
+        "rumor",
+        "flaw"
+      ]
+    },
+    {
+      "uid": "s01_e21_c06_u006",
+      "answer": "phase",
+      "options": [
+        "phase",
+        "trend",
+        "rumor",
+        "flaw"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go over", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to check or examine something carefully",
-    "exchanges": [ { "uid": "s01_e21_c02_u001", "answer": "going over",
-      "options": ["going over", "getting over", "going off", "giving over"] } ] },
+{
+  "expression": "go over",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to check or examine something carefully",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c02_u001",
+      "answer": "going over",
+      "options": [
+        "going over",
+        "getting over",
+        "going off",
+        "giving over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lying around", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "left somewhere carelessly instead of being put away",
-    "exchanges": [ { "uid": "s01_e21_c05_u012", "answer": "lying around",
-      "options": ["lying around", "hanging out", "sitting up", "standing by"] } ] },
+{
+  "expression": "lying around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "left somewhere carelessly instead of being put away",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c05_u012",
+      "answer": "lying around",
+      "options": [
+        "lying around",
+        "hanging out",
+        "sitting up",
+        "standing by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wait up", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to stay awake waiting for someone to come home",
-    "exchanges": [ { "uid": "s01_e21_c08_u006", "answer": "wait up",
-      "options": ["wait up", "wait in", "hold up", "wake up"] } ] },
+{
+  "expression": "wait up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stay awake waiting for someone to come home",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c08_u006",
+      "answer": "wait up",
+      "options": [
+        "wait up",
+        "wait in",
+        "hold up",
+        "wake up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to be very bad or disappointing",
-    "exchanges": [ { "uid": "s01_e21_c07_u001", "answer": "sucks",
-      "options": ["sucks", "rocks", "rules", "works"] } ] },
+{
+  "expression": "suck",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very bad or disappointing",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c07_u001",
+      "answer": "sucks",
+      "options": [
+        "sucks",
+        "rocks",
+        "rules",
+        "works"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reckless", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "doing things without caring about the risks or consequences",
-    "exchanges": [ { "uid": "s01_e21_c01_u004", "answer": "reckless",
-      "options": ["reckless", "restless", "flawless", "spotless"] } ] },
+{
+  "expression": "reckless",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "doing things without caring about the risks or consequences",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c01_u004",
+      "answer": "reckless",
+      "options": [
+        "reckless",
+        "restless",
+        "flawless",
+        "spotless"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ring a bell", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to sound familiar or remind you of something you have heard before",
-    "exchanges": [ { "uid": "s01_e21_c03_u008", "answer": "ring a bell",
-      "options": ["ring a bell", "hit a nerve", "make a point", "take a hint"] } ] },
+{
+  "expression": "ring a bell",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to sound familiar or remind you of something you have heard before",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c03_u008",
+      "answer": "ring a bell",
+      "options": [
+        "ring a bell",
+        "hit a nerve",
+        "make a point",
+        "take a hint"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lose it", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to lose control of your emotions or start behaving irrationally",
-    "exchanges": [ { "uid": "s01_e21_c04_u008", "answer": "losing it",
-      "options": ["losing it", "making it", "faking it", "taking it"] } ] },
+{
+  "expression": "lose it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to lose control of your emotions or start behaving irrationally",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c04_u008",
+      "answer": "losing it",
+      "options": [
+        "losing it",
+        "making it",
+        "faking it",
+        "taking it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "before you know it", "type": "colloquial", "level": "high", "pos": "adverb",
-    "meaning": "very soon, sooner than you expect",
-    "exchanges": [ { "uid": "s01_e21_c07_u003", "answer": "before you know it",
-      "options": ["before you know it", "while you're at it", "if you ask me", "for what it's worth"] } ] },
+{
+  "expression": "before you know it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "very soon, sooner than you expect",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c07_u003",
+      "answer": "before you know it",
+      "options": [
+        "before you know it",
+        "while you're at it",
+        "if you ask me",
+        "for what it's worth"
+      ]
+    }
+  ]
+},
 
-  { "expression": "catch on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to finally understand or realize what is happening",
-    "exchanges": [ { "uid": "s01_e21_c08_u004", "answer": "caught on",
-      "options": ["caught on", "gave in", "held up", "ran off"] } ] },
+{
+  "expression": "catch on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to finally understand or realize what is happening",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c08_u004",
+      "answer": "caught on",
+      "options": [
+        "caught on",
+        "gave in",
+        "held up",
+        "ran off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "living the dream", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "enjoying the exciting life you always wanted, often said ironically",
-    "exchanges": [ { "uid": "s01_e21_c08_u006", "answer": "living the dream",
-      "options": ["living the dream", "calling the shots", "taking the lead", "making the cut"] } ] },
+{
+  "expression": "living the dream",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "enjoying the exciting life you always wanted, often said ironically",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c08_u006",
+      "answer": "living the dream",
+      "options": [
+        "living the dream",
+        "calling the shots",
+        "taking the lead",
+        "making the cut"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crash a party", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to go to a party or event without being invited",
-    "exchanges": [
-      { "uid": "s01_e21_c11_u003", "answer": "crashed",
-        "options": ["crashed", "smashed", "crushed", "clashed"] },
-      { "uid": "s01_e21_c12_u011", "answer": "crash",
-        "options": ["crash", "smash", "crush", "clash"] } ] },
+{
+  "expression": "crash a party",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to go to a party or event without being invited",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c11_u003",
+      "answer": "crashed",
+      "options": [
+        "crashed",
+        "smashed",
+        "crushed",
+        "clashed"
+      ]
+    },
+    {
+      "uid": "s01_e21_c12_u011",
+      "answer": "crash",
+      "options": [
+        "crash",
+        "smash",
+        "crush",
+        "clash"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn in", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to report someone to the police or other authorities",
-    "exchanges": [ { "uid": "s01_e21_c12_u007", "answer": "turned you in",
-      "options": ["turned you in", "turned you down", "turned you off", "turned you out"] } ] },
+{
+  "expression": "turn in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to report someone to the police or other authorities",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c12_u007",
+      "answer": "turned you in",
+      "options": [
+        "turned you in",
+        "turned you down",
+        "turned you off",
+        "turned you out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "uncoordinated", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "not able to move your body smoothly or gracefully",
-    "exchanges": [ { "uid": "s01_e21_c05_u019", "answer": "uncoordinated",
-      "options": ["uncoordinated", "unsophisticated", "uninhibited", "unappreciated"] } ] },
+{
+  "expression": "uncoordinated",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not able to move your body smoothly or gracefully",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c05_u019",
+      "answer": "uncoordinated",
+      "options": [
+        "uncoordinated",
+        "unsophisticated",
+        "uninhibited",
+        "unappreciated"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pipe dream", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "a hope or plan that is very unlikely ever to happen",
-    "exchanges": [ { "uid": "s01_e21_c07_u008", "answer": "pipe dream",
-      "options": ["pipe dream", "wild card", "long haul", "safe bet"] } ] },
+{
+  "expression": "pipe dream",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a hope or plan that is very unlikely ever to happen",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c07_u008",
+      "answer": "pipe dream",
+      "options": [
+        "pipe dream",
+        "wild card",
+        "long haul",
+        "safe bet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "docile", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "quiet, calm and easy to control",
-    "exchanges": [ { "uid": "s01_e21_c10_u005", "answer": "docile",
-      "options": ["docile", "fragile", "agile", "sterile"] } ] },
+{
+  "expression": "docile",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "quiet, calm and easy to control",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c10_u005",
+      "answer": "docile",
+      "options": [
+        "docile",
+        "fragile",
+        "agile",
+        "sterile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "all well and good", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "acceptable as far as it goes, but with a drawback about to be mentioned",
-    "exchanges": [ { "uid": "s01_e21_c10_u018", "answer": "all well and good", "responseUid": null,
-      "options": ["all well and good", "all said and done", "all bright and early", "all here and there"] } ] },
+{
+  "expression": "all well and good",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "acceptable as far as it goes, but with a drawback about to be mentioned",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c10_u018",
+      "answer": "all well and good",
+      "responseUid": null,
+      "options": [
+        "all well and good",
+        "all said and done",
+        "all bright and early",
+        "all here and there"
+      ]
+    }
+  ]
+},
 
-  { "expression": "per se", "type": "phrase", "level": "expert", "pos": "adverb",
-    "meaning": "in the strict sense of the word; by itself",
-    "exchanges": [ { "uid": "s01_e21_c10_u002", "answer": "per se",
-      "options": ["per se", "ad hoc", "vice versa", "et cetera"] } ] },
+{
+  "expression": "per se",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "in the strict sense of the word; by itself",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c10_u002",
+      "answer": "per se",
+      "options": [
+        "per se",
+        "ad hoc",
+        "vice versa",
+        "et cetera"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take the brunt", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to suffer the worst part of something bad",
-    "exchanges": [ { "uid": "s01_e21_c09_u002", "answer": "taking the brunt",
-      "options": ["taking the brunt", "taking the lead", "taking the stage", "taking the cake"] } ] },
+{
+  "expression": "take the brunt",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to suffer the worst part of something bad",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c09_u002",
+      "answer": "taking the brunt",
+      "options": [
+        "taking the brunt",
+        "taking the lead",
+        "taking the stage",
+        "taking the cake"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vigilante justice", "type": "phrase", "level": "expert", "pos": "noun",
-    "meaning": "punishment carried out by ordinary people instead of by the police or courts",
-    "exchanges": [ { "uid": "s01_e21_c07_u015", "answer": "vigilante justice",
-      "options": ["vigilante justice", "criminal justice", "social justice", "supreme justice"] } ] }
+{
+  "expression": "vigilante justice",
+  "type": "phrase",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "punishment carried out by ordinary people instead of by the police or courts",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c07_u015",
+      "answer": "vigilante justice",
+      "options": [
+        "vigilante justice",
+        "criminal justice",
+        "social justice",
+        "supreme justice"
+      ]
+    }
+  ]
+}
 ]

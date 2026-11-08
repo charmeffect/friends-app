@@ -114,7 +114,7 @@
 {
   "expression": "hence",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adverb",
   "meaning": "for this reason; as a result",
   "exchanges": [
@@ -277,7 +277,7 @@
 {
   "expression": "pelt",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "the skin of an animal with the fur still on it",
   "exchanges": [
@@ -297,7 +297,7 @@
 {
   "expression": "quirky",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "unusual in an appealing or amusing way",
   "exchanges": [
@@ -379,7 +379,7 @@
 {
   "expression": "out of line",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "behaving in a way that is not acceptable or goes too far",
   "exchanges": [

@@ -1,134 +1,532 @@
 [
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to give someone help, especially in a difficult situation",
-    "exchanges": [ { "uid": "s06_e02_c05_u011", "answer": "help me out",
-      "options": ["help me out", "let me down", "set me up", "pick me up"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c05_u011",
+      "answer": "help me out",
+      "options": [
+        "help me out",
+        "let me down",
+        "set me up",
+        "pick me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to happen or develop successfully",
-    "exchanges": [ { "uid": "s06_e02_c11_u005", "answer": "work out",
-      "options": ["work out", "wear off", "run out", "show up"] } ] },
+{
+  "expression": "work out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to happen or develop successfully",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c11_u005",
+      "answer": "work out",
+      "options": [
+        "work out",
+        "wear off",
+        "run out",
+        "show up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pretty much", "type": "colloquial", "level": "elementary", "pos": "adverb",
-    "meaning": "almost completely; more or less",
-    "exchanges": [ { "uid": "s06_e02_c02_u009", "answer": "Pretty much",
-      "options": ["Pretty much", "Fairly well", "Quite often", "Rather less"] } ] },
+{
+  "expression": "pretty much",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "almost completely; more or less",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u009",
+      "answer": "Pretty much",
+      "options": [
+        "Pretty much",
+        "Fairly well",
+        "Quite often",
+        "Rather less"
+      ]
+    }
+  ]
+},
 
-  { "expression": "when it comes to", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "regarding a particular subject or matter",
-    "exchanges": [ { "uid": "s06_e02_c02_u004", "answer": "When it comes to",
-      "options": ["When it comes to", "As it goes for", "If it turns to", "While it gets to"] } ] },
+{
+  "expression": "when it comes to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "regarding a particular subject or matter",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u004",
+      "answer": "When it comes to",
+      "options": [
+        "When it comes to",
+        "As it goes for",
+        "If it turns to",
+        "While it gets to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to be very bad or disappointing",
-    "exchanges": [ { "uid": "s06_e02_c02_u019", "answer": "sucks",
-      "options": ["sucks", "rocks", "rules", "counts"] } ] },
+{
+  "expression": "suck",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very bad or disappointing",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u019",
+      "answer": "sucks",
+      "options": [
+        "sucks",
+        "rocks",
+        "rules",
+        "counts"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make progress", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to get closer to finishing or achieving something",
-    "exchanges": [ { "uid": "s06_e02_c04_u012", "answer": "making progress", "cueUid": null,
-      "options": ["making progress", "taking charge", "losing ground", "keeping score"] } ] },
+{
+  "expression": "make progress",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to get closer to finishing or achieving something",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c04_u012",
+      "answer": "making progress",
+      "cueUid": null,
+      "options": [
+        "making progress",
+        "taking charge",
+        "losing ground",
+        "keeping score"
+      ]
+    }
+  ]
+},
 
-  { "expression": "creepy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "making you feel uneasy or frightened in an unpleasant way",
-    "exchanges": [ { "uid": "s06_e02_c05_u018", "answer": "creepy",
-      "options": ["creepy", "crispy", "cranky", "chubby"] } ] },
+{
+  "expression": "creepy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel uneasy or frightened in an unpleasant way",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c05_u018",
+      "answer": "creepy",
+      "options": [
+        "creepy",
+        "crispy",
+        "cranky",
+        "chubby"
+      ]
+    }
+  ]
+},
 
-  { "expression": "misunderstanding", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a situation in which someone understands something wrongly",
-    "exchanges": [ { "uid": "s06_e02_c06_u017", "answer": "misunderstanding", "responseUid": "s06_e02_c06_u019",
-      "options": ["misunderstanding", "misbehavior", "misfortune", "mispronunciation"] } ] },
+{
+  "expression": "misunderstanding",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a situation in which someone understands something wrongly",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c06_u017",
+      "answer": "misunderstanding",
+      "responseUid": "s06_e02_c06_u019",
+      "options": [
+        "misunderstanding",
+        "misbehavior",
+        "misfortune",
+        "mispronunciation"
+      ]
+    }
+  ]
+},
 
-  { "expression": "yummy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "tasting very good",
-    "exchanges": [ { "uid": "s06_e02_c06_u029", "answer": "yummy", "responseUid": null,
-      "options": ["yummy", "cozy", "noisy", "dusty"] } ] },
+{
+  "expression": "yummy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "tasting very good",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c06_u029",
+      "answer": "yummy",
+      "responseUid": null,
+      "options": [
+        "yummy",
+        "cozy",
+        "noisy",
+        "dusty"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lose one's nerve", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to suddenly become too afraid to do something you had planned to do",
-    "exchanges": [ { "uid": "s06_e02_c02_u006", "answer": "lose my nerve",
-      "options": ["lose my nerve", "hold my breath", "raise my voice", "miss my cue"] } ] },
+{
+  "expression": "lose one's nerve",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly become too afraid to do something you had planned to do",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u006",
+      "answer": "lose my nerve",
+      "options": [
+        "lose my nerve",
+        "hold my breath",
+        "raise my voice",
+        "miss my cue"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get it over with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
-    "exchanges": [
-      { "uid": "s06_e02_c02_u007", "answer": "get it over with",
-        "options": ["get it over with", "put it up for", "take it out on", "let it go by"] },
-      { "uid": "s06_e02_c04_u005", "answer": "get it over with",
-        "options": ["get it over with", "put it up for", "take it out on", "let it go by"] } ] },
+{
+  "expression": "get it over with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u007",
+      "answer": "get it over with",
+      "options": [
+        "get it over with",
+        "put it up for",
+        "take it out on",
+        "let it go by"
+      ]
+    },
+    {
+      "uid": "s06_e02_c04_u005",
+      "answer": "get it over with",
+      "options": [
+        "get it over with",
+        "put it up for",
+        "take it out on",
+        "let it go by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "order someone around", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to keep telling someone what to do in a bossy way",
-    "exchanges": [ { "uid": "s06_e02_c02_u008", "answer": "order me around",
-      "options": ["order me around", "show me around", "push me aside", "talk me through"] } ] },
+{
+  "expression": "order someone around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep telling someone what to do in a bossy way",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u008",
+      "answer": "order me around",
+      "options": [
+        "order me around",
+        "show me around",
+        "push me aside",
+        "talk me through"
+      ]
+    }
+  ]
+},
 
-  { "expression": "who am I kidding", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when you admit that what you were saying or pretending is not true",
-    "exchanges": [ { "uid": "s06_e02_c02_u021", "answer": "who am I kidding", "responseUid": null,
-      "options": ["who am I kidding", "where am I going", "when am I leaving", "how am I doing"] } ] },
+{
+  "expression": "who am I kidding",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you admit that what you were saying or pretending is not true",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u021",
+      "answer": "who am I kidding",
+      "responseUid": null,
+      "options": [
+        "who am I kidding",
+        "where am I going",
+        "when am I leaving",
+        "how am I doing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lay off", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to stop teasing, criticizing, or bothering someone",
-    "exchanges": [ { "uid": "s06_e02_c03_u022", "answer": "lay off",
-      "options": ["lay off", "log on", "set up", "hold out"] } ] },
+{
+  "expression": "lay off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop teasing, criticizing, or bothering someone",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c03_u022",
+      "answer": "lay off",
+      "options": [
+        "lay off",
+        "log on",
+        "set up",
+        "hold out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "altar", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "the table at the front of a church where a wedding ceremony takes place",
-    "exchanges": [ { "uid": "s06_e02_c08_u008", "answer": "altar",
-      "options": ["altar", "aisle", "pulpit", "podium"] } ] },
+{
+  "expression": "altar",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the table at the front of a church where a wedding ceremony takes place",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c08_u008",
+      "answer": "altar",
+      "options": [
+        "altar",
+        "aisle",
+        "pulpit",
+        "podium"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cry one's eyes out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to cry a great deal and for a long time",
-    "exchanges": [ { "uid": "s06_e02_c07_u014", "answer": "cry my eyes out",
-      "cueUid": "s06_e02_c07_u012", "responseUid": "s06_e02_c07_u015",
-      "options": ["cry my eyes out", "laugh my head off", "eat my heart out", "talk my ears off"] } ] },
+{
+  "expression": "cry one's eyes out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to cry a great deal and for a long time",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c07_u014",
+      "answer": "cry my eyes out",
+      "cueUid": "s06_e02_c07_u012",
+      "responseUid": "s06_e02_c07_u015",
+      "options": [
+        "cry my eyes out",
+        "laugh my head off",
+        "eat my heart out",
+        "talk my ears off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "end of an era", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "the point at which an important period of time comes to a close",
-    "exchanges": [
-      { "uid": "s06_e02_c09_u013", "answer": "end of an era",
-        "options": ["end of an era", "eye of a storm", "tip of an iceberg", "hand of a god"] },
-      { "uid": "s06_e02_c09_u032", "answer": "end of an era",
-        "options": ["end of an era", "eye of a storm", "tip of an iceberg", "hand of a god"] } ] },
+{
+  "expression": "end of an era",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the point at which an important period of time comes to a close",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c09_u013",
+      "answer": "end of an era",
+      "options": [
+        "end of an era",
+        "eye of a storm",
+        "tip of an iceberg",
+        "hand of a god"
+      ]
+    },
+    {
+      "uid": "s06_e02_c09_u032",
+      "answer": "end of an era",
+      "options": [
+        "end of an era",
+        "eye of a storm",
+        "tip of an iceberg",
+        "hand of a god"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go through with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to do something you planned even though it is difficult or questionable",
-    "exchanges": [ { "uid": "s06_e02_c09_u022", "answer": "going through with it",
-      "options": ["going through with it", "getting away with it", "putting up with it", "making do with it"] } ] },
+{
+  "expression": "go through with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something you planned even though it is difficult or questionable",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c09_u022",
+      "answer": "going through with it",
+      "options": [
+        "going through with it",
+        "getting away with it",
+        "putting up with it",
+        "making do with it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "impulsively", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "suddenly and without thinking carefully about the results",
-    "exchanges": [ { "uid": "s06_e02_c09_u025", "answer": "impulsively", "cueUid": "s06_e02_c09_u023",
-      "options": ["impulsively", "inevitably", "implicitly", "indefinitely"] } ] },
+{
+  "expression": "impulsively",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "suddenly and without thinking carefully about the results",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c09_u025",
+      "answer": "impulsively",
+      "cueUid": "s06_e02_c09_u023",
+      "options": [
+        "impulsively",
+        "inevitably",
+        "implicitly",
+        "indefinitely"
+      ]
+    }
+  ]
+},
 
-  { "expression": "custody", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the legal right to care for a child after the parents separate",
-    "exchanges": [ { "uid": "s06_e02_c11_u009", "answer": "custody", "cueUid": "s06_e02_c11_u007",
-      "options": ["custody", "amnesty", "charity", "immunity"] } ] },
+{
+  "expression": "custody",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the legal right to care for a child after the parents separate",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c11_u009",
+      "answer": "custody",
+      "cueUid": "s06_e02_c11_u007",
+      "options": [
+        "custody",
+        "amnesty",
+        "charity",
+        "immunity"
+      ]
+    }
+  ]
+},
 
-  { "expression": "of sound mind", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "mentally healthy and able to think and decide clearly",
-    "exchanges": [ { "uid": "s06_e02_c08_u016", "answer": "sound mind",
-      "cueUid": "s06_e02_c08_u014", "responseUid": "s06_e02_c08_u018",
-      "options": ["sound mind", "clear head", "right spirit", "good sense"] } ] },
+{
+  "expression": "of sound mind",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "mentally healthy and able to think and decide clearly",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c08_u016",
+      "answer": "sound mind",
+      "cueUid": "s06_e02_c08_u014",
+      "responseUid": "s06_e02_c08_u018",
+      "options": [
+        "sound mind",
+        "clear head",
+        "right spirit",
+        "good sense"
+      ]
+    }
+  ]
+},
 
-  { "expression": "could do a lot worse", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said to tell someone that a choice or partner is better than they think",
-    "exchanges": [ { "uid": "s06_e02_c05_u014", "answer": "a lot worse than",
-      "options": ["a lot worse than", "a lot faster than", "a lot less than", "a lot louder than"] } ] },
+{
+  "expression": "could do a lot worse",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to tell someone that a choice or partner is better than they think",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c05_u014",
+      "answer": "a lot worse than",
+      "options": [
+        "a lot worse than",
+        "a lot faster than",
+        "a lot less than",
+        "a lot louder than"
+      ]
+    }
+  ]
+},
 
-  { "expression": "filthy rich", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "extremely wealthy",
-    "exchanges": [ { "uid": "s06_e02_c11_u005", "answer": "filthy rich",
-      "options": ["filthy rich", "dead tired", "stone cold", "wide awake"] } ] },
+{
+  "expression": "filthy rich",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "extremely wealthy",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c11_u005",
+      "answer": "filthy rich",
+      "options": [
+        "filthy rich",
+        "dead tired",
+        "stone cold",
+        "wide awake"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have words", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to have an angry argument with someone",
-    "exchanges": [ { "uid": "s06_e02_c11_u011", "answer": "have words", "responseUid": null,
-      "options": ["have words", "make faces", "take turns", "pull strings"] } ] },
+{
+  "expression": "have words",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to have an angry argument with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c11_u011",
+      "answer": "have words",
+      "responseUid": null,
+      "options": [
+        "have words",
+        "make faces",
+        "take turns",
+        "pull strings"
+      ]
+    }
+  ]
+},
 
-  { "expression": "annulment", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a legal declaration that a marriage was never valid",
-    "exchanges": [ { "uid": "s06_e02_c08_u013", "answer": "annulment",
-      "options": ["annulment", "adjournment", "amendment", "allotment"] } ] }
+{
+  "expression": "annulment",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a legal declaration that a marriage was never valid",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c08_u013",
+      "answer": "annulment",
+      "options": [
+        "annulment",
+        "adjournment",
+        "amendment",
+        "allotment"
+      ]
+    }
+  ]
+}
 ]

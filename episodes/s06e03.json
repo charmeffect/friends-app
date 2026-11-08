@@ -1,121 +1,489 @@
 [
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to give someone help, especially in a difficult situation",
-    "exchanges": [ { "uid": "s06_e03_c06_u005", "answer": "help you out",
-      "options": ["help you out", "let you down", "put you off", "turn you in"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c06_u005",
+      "answer": "help you out",
+      "options": [
+        "help you out",
+        "let you down",
+        "put you off",
+        "turn you in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s06_e03_c07_u013", "answer": "come up with", "cueUid": "s06_e03_c07_u010",
-      "options": ["come up with", "get away with", "break up with", "catch up with"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c07_u013",
+      "answer": "come up with",
+      "cueUid": "s06_e03_c07_u010",
+      "options": [
+        "come up with",
+        "get away with",
+        "break up with",
+        "catch up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "move in with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start living in the same home as someone",
-    "exchanges": [ { "uid": "s06_e03_c01_u010", "answer": "move in with", "cueUid": "s06_e03_c01_u008",
-      "options": ["move in with", "break up with", "get on with", "catch up with"] } ] },
+{
+  "expression": "move in with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start living in the same home as someone",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c01_u010",
+      "answer": "move in with",
+      "cueUid": "s06_e03_c01_u008",
+      "options": [
+        "move in with",
+        "break up with",
+        "get on with",
+        "catch up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "whatever you say", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to pretend to agree while showing that you do not really believe the other person",
-    "exchanges": [ { "uid": "s06_e03_c02_u020", "answer": "whatever you say",
-      "options": ["whatever you say", "wherever you go", "however you feel", "whoever you are"] } ] },
+{
+  "expression": "whatever you say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to pretend to agree while showing that you do not really believe the other person",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c02_u020",
+      "answer": "whatever you say",
+      "options": [
+        "whatever you say",
+        "wherever you go",
+        "however you feel",
+        "whoever you are"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reject", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to refuse to accept or agree to an idea or offer",
-    "exchanges": [ { "uid": "s06_e03_c03_u010", "answer": "reject",
-      "options": ["reject", "respect", "repeat", "recall"] } ] },
+{
+  "expression": "reject",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to refuse to accept or agree to an idea or offer",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c03_u010",
+      "answer": "reject",
+      "options": [
+        "reject",
+        "respect",
+        "repeat",
+        "recall"
+      ]
+    }
+  ]
+},
 
-  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to finally be in a situation or place, often without planning it",
-    "exchanges": [ { "uid": "s06_e03_c06_u011", "answer": "ended up", "responseUid": null,
-      "options": ["ended up", "gave up", "made up", "set up"] } ] },
+{
+  "expression": "end up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally be in a situation or place, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c06_u011",
+      "answer": "ended up",
+      "responseUid": null,
+      "options": [
+        "ended up",
+        "gave up",
+        "made up",
+        "set up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to cancel a planned event",
-    "exchanges": [ { "uid": "s06_e03_c08_u005", "answer": "call off",
-      "options": ["call off", "hand in", "log on", "take after"] } ] },
+{
+  "expression": "call off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to cancel a planned event",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c08_u005",
+      "answer": "call off",
+      "options": [
+        "call off",
+        "hand in",
+        "log on",
+        "take after"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the bright side", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "used to introduce the good part of a situation that is mostly bad",
-    "exchanges": [ { "uid": "s06_e03_c11_u011", "answer": "on the bright side",
-      "options": ["on the bright side", "in the first place", "out of the blue", "on the front line"] } ] },
+{
+  "expression": "on the bright side",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the good part of a situation that is mostly bad",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c11_u011",
+      "answer": "on the bright side",
+      "options": [
+        "on the bright side",
+        "in the first place",
+        "out of the blue",
+        "on the front line"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's the rush", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to ask why someone is doing something so quickly",
-    "exchanges": [ { "uid": "s06_e03_c12_u002", "answer": "what's the rush",
-      "options": ["what's the rush", "what's the score", "what's the damage", "what's the weather"] } ] },
+{
+  "expression": "what's the rush",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask why someone is doing something so quickly",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c12_u002",
+      "answer": "what's the rush",
+      "options": [
+        "what's the rush",
+        "what's the score",
+        "what's the damage",
+        "what's the weather"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come to mind", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to appear in your thoughts suddenly or without effort",
-    "exchanges": [ { "uid": "s06_e03_c14_u006", "answer": "comes to mind",
-      "options": ["comes to mind", "takes to heart", "goes to waste", "falls to pieces"] } ] },
+{
+  "expression": "come to mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to appear in your thoughts suddenly or without effort",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c14_u006",
+      "answer": "comes to mind",
+      "options": [
+        "comes to mind",
+        "takes to heart",
+        "goes to waste",
+        "falls to pieces"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mock", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to laugh at someone or something in an unkind way",
-    "exchanges": [ { "uid": "s06_e03_c03_u017", "answer": "mocking", "responseUid": null,
-      "options": ["mocking", "marking", "mixing", "minding"] } ] },
+{
+  "expression": "mock",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to laugh at someone or something in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c03_u017",
+      "answer": "mocking",
+      "responseUid": null,
+      "options": [
+        "mocking",
+        "marking",
+        "mixing",
+        "minding"
+      ]
+    }
+  ]
+},
 
-  { "expression": "change of pace", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "a pleasant change from what you usually do or experience",
-    "exchanges": [ { "uid": "s06_e03_c04_u006", "answer": "change of pace", "responseUid": null,
-      "options": ["change of pace", "piece of cake", "point of view", "matter of fact"] } ] },
+{
+  "expression": "change of pace",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a pleasant change from what you usually do or experience",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c04_u006",
+      "answer": "change of pace",
+      "responseUid": null,
+      "options": [
+        "change of pace",
+        "piece of cake",
+        "point of view",
+        "matter of fact"
+      ]
+    }
+  ]
+},
 
-  { "expression": "swamped", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "having too much work or too many things to deal with",
-    "exchanges": [ { "uid": "s06_e03_c05_u003", "answer": "swamped",
-      "options": ["swamped", "soaked", "spoiled", "stuffed"] } ] },
+{
+  "expression": "swamped",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having too much work or too many things to deal with",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c05_u003",
+      "answer": "swamped",
+      "options": [
+        "swamped",
+        "soaked",
+        "spoiled",
+        "stuffed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stare into space", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to look straight ahead at nothing while thinking or daydreaming",
-    "exchanges": [ { "uid": "s06_e03_c05_u004", "answer": "staring into space",
-      "options": ["staring into space", "falling into place", "getting into shape", "breaking into pieces"] } ] },
+{
+  "expression": "stare into space",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to look straight ahead at nothing while thinking or daydreaming",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c05_u004",
+      "answer": "staring into space",
+      "options": [
+        "staring into space",
+        "falling into place",
+        "getting into shape",
+        "breaking into pieces"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stay put", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to remain where you are and not move somewhere else",
-    "exchanges": [ { "uid": "s06_e03_c11_u003", "answer": "staying put",
-      "options": ["staying put", "staying out", "going under", "moving on"] } ] },
+{
+  "expression": "stay put",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to remain where you are and not move somewhere else",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c11_u003",
+      "answer": "staying put",
+      "options": [
+        "staying put",
+        "staying out",
+        "going under",
+        "moving on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no turning back", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to say that once something is done, you cannot change your mind or undo it",
-    "exchanges": [ { "uid": "s06_e03_c13_u012", "answer": "no turning back", "cueUid": "s06_e03_c13_u010",
-      "options": ["no turning back", "no hard feelings", "no strings attached", "no harm done"] } ] },
+{
+  "expression": "no turning back",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that once something is done, you cannot change your mind or undo it",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c13_u012",
+      "answer": "no turning back",
+      "cueUid": "s06_e03_c13_u010",
+      "options": [
+        "no turning back",
+        "no hard feelings",
+        "no strings attached",
+        "no harm done"
+      ]
+    }
+  ]
+},
 
-  { "expression": "narrow down", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to reduce the number of possibilities to a few",
-    "exchanges": [ { "uid": "s06_e03_c14_u004", "answer": "narrowed it down",
-      "options": ["narrowed it down", "handed it over", "turned it down", "put it off"] } ] },
+{
+  "expression": "narrow down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to reduce the number of possibilities to a few",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c14_u004",
+      "answer": "narrowed it down",
+      "options": [
+        "narrowed it down",
+        "handed it over",
+        "turned it down",
+        "put it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sublet", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to rent a place that you are renting yourself to another person",
-    "exchanges": [ { "uid": "s06_e03_c05_u014", "answer": "sublet",
-      "options": ["sublet", "subside", "submit", "subtract"] } ] },
+{
+  "expression": "sublet",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to rent a place that you are renting yourself to another person",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c05_u014",
+      "answer": "sublet",
+      "options": [
+        "sublet",
+        "subside",
+        "submit",
+        "subtract"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ambiance", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the character and atmosphere of a place",
-    "exchanges": [ { "uid": "s06_e03_c07_u027", "answer": "ambiance", "responseUid": null,
-      "options": ["ambiance", "ambition", "ambulance", "abundance"] } ] },
+{
+  "expression": "ambiance",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the character and atmosphere of a place",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c07_u027",
+      "answer": "ambiance",
+      "responseUid": null,
+      "options": [
+        "ambiance",
+        "ambition",
+        "ambulance",
+        "abundance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blurt out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to say something suddenly and without thinking first",
-    "exchanges": [ { "uid": "s06_e03_c08_u004", "answer": "blurtin' stuff out",
-      "options": ["blurtin' stuff out", "puttin' stuff off", "handin' stuff in", "pullin' stuff out"] } ] },
+{
+  "expression": "blurt out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to say something suddenly and without thinking first",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c08_u004",
+      "answer": "blurtin' stuff out",
+      "options": [
+        "blurtin' stuff out",
+        "puttin' stuff off",
+        "handin' stuff in",
+        "pullin' stuff out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a soft spot for", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to feel a special fondness for someone or something",
-    "exchanges": [ { "uid": "s06_e03_c10_u007", "answer": "soft spot",
-      "options": ["soft spot", "blind spot", "sore point", "tight spot"] } ] },
+{
+  "expression": "have a soft spot for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to feel a special fondness for someone or something",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c10_u007",
+      "answer": "soft spot",
+      "options": [
+        "soft spot",
+        "blind spot",
+        "sore point",
+        "tight spot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get lucky", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to have a sexual encounter with someone",
-    "exchanges": [ { "uid": "s06_e03_c11_u024", "answer": "gettin' lucky",
-      "options": ["gettin' lucky", "gettin' fired", "gettin' even", "gettin' paid"] } ] },
+{
+  "expression": "get lucky",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to have a sexual encounter with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c11_u024",
+      "answer": "gettin' lucky",
+      "options": [
+        "gettin' lucky",
+        "gettin' fired",
+        "gettin' even",
+        "gettin' paid"
+      ]
+    }
+  ]
+},
 
-  { "expression": "binding", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "legally or officially requiring someone to do what has been agreed",
-    "exchanges": [ { "uid": "s06_e03_c10_u016", "answer": "binding", "responseUid": null,
-      "options": ["binding", "bending", "blinding", "boring"] } ] },
+{
+  "expression": "binding",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "legally or officially requiring someone to do what has been agreed",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c10_u016",
+      "answer": "binding",
+      "responseUid": null,
+      "options": [
+        "binding",
+        "bending",
+        "blinding",
+        "boring"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blowout", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a big, loud argument or fight",
-    "exchanges": [ { "uid": "s06_e03_c09_u006", "answer": "blowout",
-      "options": ["blowout", "blackout", "breakout", "checkout"] } ] }
+{
+  "expression": "blowout",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a big, loud argument or fight",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c09_u006",
+      "answer": "blowout",
+      "options": [
+        "blowout",
+        "blackout",
+        "breakout",
+        "checkout"
+      ]
+    }
+  ]
+}
 ]

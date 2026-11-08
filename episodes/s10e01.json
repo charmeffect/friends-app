@@ -43,7 +43,7 @@
 {
   "expression": "eavesdrop",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to secretly listen to other people's conversation",
   "exchanges": [
@@ -103,7 +103,7 @@
 {
   "expression": "have had it with",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "to be so annoyed with someone or something that you cannot tolerate it any more",
   "exchanges": [
@@ -143,7 +143,7 @@
 {
   "expression": "pain in the ass",
   "type": "colloquial",
-  "level": "middle",
+  "level": "high",
   "pos": "noun",
   "meaning": "a very annoying person or thing",
   "exchanges": [
@@ -163,7 +163,7 @@
 {
   "expression": "enunciate",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to pronounce words very clearly and carefully",
   "exchanges": [
@@ -493,7 +493,7 @@
 {
   "expression": "frayed",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "adjective",
   "meaning": "worn at the edges so that loose threads or strands stick out",
   "exchanges": [

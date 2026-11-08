@@ -1,136 +1,544 @@
 [
-  { "expression": "hang on", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "wait a moment",
-    "exchanges": [
-      { "uid": "s04_e01_c09_u009", "answer": "Hang on",
-        "options": ["Hang on", "Keep on", "Hold off", "Carry on"] },
-      { "uid": "s04_e01_c09_u017", "answer": "hang on", "cueUid": "s04_e01_c09_u015", "responseUid": null,
-        "options": ["hang on", "keep up", "hold off", "come by"] } ] },
+{
+  "expression": "hang on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c09_u009",
+      "answer": "Hang on",
+      "options": [
+        "Hang on",
+        "Keep on",
+        "Hold off",
+        "Carry on"
+      ]
+    },
+    {
+      "uid": "s04_e01_c09_u017",
+      "answer": "hang on",
+      "cueUid": "s04_e01_c09_u015",
+      "responseUid": null,
+      "options": [
+        "hang on",
+        "keep up",
+        "hold off",
+        "come by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to stop worrying or talking about something",
-    "exchanges": [ { "uid": "s04_e01_c08_u007", "answer": "let it go",
-      "options": ["let it go", "take it in", "put it on", "set it off"] } ] },
+{
+  "expression": "let it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to stop worrying or talking about something",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c08_u007",
+      "answer": "let it go",
+      "options": [
+        "let it go",
+        "take it in",
+        "put it on",
+        "set it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get to know", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time with someone so that you learn what they are like",
-    "exchanges": [ { "uid": "s04_e01_c02_u012", "answer": "get to know",
-      "options": ["get to know", "put to bed", "set to rest", "bring to light"] } ] },
+{
+  "expression": "get to know",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time with someone so that you learn what they are like",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c02_u012",
+      "answer": "get to know",
+      "options": [
+        "get to know",
+        "put to bed",
+        "set to rest",
+        "bring to light"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to leave suddenly and secretly, abandoning your family or responsibilities",
-    "exchanges": [ { "uid": "s04_e01_c02_u011", "answer": "run off",
-      "options": ["run off", "set in", "put up", "got by"] } ] },
+{
+  "expression": "run off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave suddenly and secretly, abandoning your family or responsibilities",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c02_u011",
+      "answer": "run off",
+      "options": [
+        "run off",
+        "set in",
+        "put up",
+        "got by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gross", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "disgusting or very unpleasant",
-    "exchanges": [ { "uid": "s04_e01_c06_u020", "answer": "Gross",
-      "options": ["Gross", "Plain", "Fancy", "Crisp"] } ] },
+{
+  "expression": "gross",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "disgusting or very unpleasant",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c06_u020",
+      "answer": "Gross",
+      "options": [
+        "Gross",
+        "Plain",
+        "Fancy",
+        "Crisp"
+      ]
+    }
+  ]
+},
 
-  { "expression": "privacy", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "the state of being alone and not watched by other people",
-    "exchanges": [ { "uid": "s04_e01_c06_u024", "answer": "privacy", "responseUid": null,
-      "options": ["privacy", "priority", "property", "poverty"] } ] },
+{
+  "expression": "privacy",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the state of being alone and not watched by other people",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c06_u024",
+      "answer": "privacy",
+      "responseUid": null,
+      "options": [
+        "privacy",
+        "priority",
+        "property",
+        "poverty"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [
-      { "uid": "s04_e01_c10_u032", "answer": "freak you out", "responseUid": null,
-        "options": ["freak you out", "back you off", "show you up", "calm you down"] },
-      { "uid": "s04_e01_c11_u022", "answer": "freak me out", "responseUid": null,
-        "options": ["freak me out", "back me off", "show me up", "calm me down"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c10_u032",
+      "answer": "freak you out",
+      "responseUid": null,
+      "options": [
+        "freak you out",
+        "back you off",
+        "show you up",
+        "calm you down"
+      ]
+    },
+    {
+      "uid": "s04_e01_c11_u022",
+      "answer": "freak me out",
+      "responseUid": null,
+      "options": [
+        "freak me out",
+        "back me off",
+        "show me up",
+        "calm me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have in common", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to share the same interests or qualities as someone",
-    "exchanges": [ { "uid": "s04_e01_c11_u011", "answer": "in common", "cueUid": "s04_e01_c11_u009",
-      "options": ["in common", "at stake", "on hold", "in charge"] } ] },
+{
+  "expression": "have in common",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to share the same interests or qualities as someone",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c11_u011",
+      "answer": "in common",
+      "cueUid": "s04_e01_c11_u009",
+      "options": [
+        "in common",
+        "at stake",
+        "on hold",
+        "in charge"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get back together", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start a relationship or partnership again after it has ended",
-    "exchanges": [
-      { "uid": "s04_e01_c04_u008", "answer": "getting back together",
-        "options": ["getting back together", "looking back over", "lying back down", "holding back off"] },
-      { "uid": "s04_e01_c12_u021", "answer": "getting back together",
-        "options": ["getting back together", "looking back over", "lying back down", "holding back off"] } ] },
+{
+  "expression": "get back together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start a relationship or partnership again after it has ended",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c04_u008",
+      "answer": "getting back together",
+      "options": [
+        "getting back together",
+        "looking back over",
+        "lying back down",
+        "holding back off"
+      ]
+    },
+    {
+      "uid": "s04_e01_c12_u021",
+      "answer": "getting back together",
+      "options": [
+        "getting back together",
+        "looking back over",
+        "lying back down",
+        "holding back off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "regret", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to feel sorry about something you did and wish you had not done it",
-    "exchanges": [ { "uid": "s04_e01_c11_u003", "answer": "regret",
-      "options": ["regret", "reject", "repeat", "resume"] } ] },
+{
+  "expression": "regret",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel sorry about something you did and wish you had not done it",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c11_u003",
+      "answer": "regret",
+      "options": [
+        "regret",
+        "reject",
+        "repeat",
+        "resume"
+      ]
+    }
+  ]
+},
 
-  { "expression": "walk out on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to suddenly leave your partner or family and end the relationship",
-    "exchanges": [ { "uid": "s04_e01_c02_u013", "answer": "walked out on",
-      "options": ["walked out on", "ran into", "looked up to", "got along with"] } ] },
+{
+  "expression": "walk out on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly leave your partner or family and end the relationship",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c02_u013",
+      "answer": "walked out on",
+      "options": [
+        "walked out on",
+        "ran into",
+        "looked up to",
+        "got along with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "thorough", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "careful and complete, paying attention to every detail",
-    "exchanges": [ { "uid": "s04_e01_c05_u006", "answer": "thorough",
-      "options": ["thorough", "tedious", "thrifty", "timid"] } ] },
+{
+  "expression": "thorough",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "careful and complete, paying attention to every detail",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c05_u006",
+      "answer": "thorough",
+      "options": [
+        "thorough",
+        "tedious",
+        "thrifty",
+        "timid"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unfaithful", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "having a sexual relationship with someone other than your partner",
-    "exchanges": [ { "uid": "s04_e01_c08_u002", "answer": "unfaithful",
-      "options": ["unfaithful", "unfriendly", "unfortunate", "unfamiliar"] } ] },
+{
+  "expression": "unfaithful",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having a sexual relationship with someone other than your partner",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c08_u002",
+      "answer": "unfaithful",
+      "options": [
+        "unfaithful",
+        "unfriendly",
+        "unfortunate",
+        "unfamiliar"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass out", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to suddenly become unconscious; to faint",
-    "exchanges": [ { "uid": "s04_e01_c10_u028", "answer": "pass out",
-      "cueUid": "s04_e01_c10_u026", "responseUid": "s04_e01_c10_u030",
-      "options": ["pass out", "put off", "set up", "get by"] } ] },
+{
+  "expression": "pass out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly become unconscious; to faint",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c10_u028",
+      "answer": "pass out",
+      "cueUid": "s04_e01_c10_u026",
+      "responseUid": "s04_e01_c10_u030",
+      "options": [
+        "pass out",
+        "put off",
+        "set up",
+        "get by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "step up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to take action and accept responsibility when something needs to be done",
-    "exchanges": [ { "uid": "s04_e01_c10_u030", "answer": "stepped up", "cueUid": "s04_e01_c10_u028",
-      "options": ["stepped up", "backed down", "ran off", "gave in"] } ] },
+{
+  "expression": "step up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take action and accept responsibility when something needs to be done",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c10_u030",
+      "answer": "stepped up",
+      "cueUid": "s04_e01_c10_u028",
+      "options": [
+        "stepped up",
+        "backed down",
+        "ran off",
+        "gave in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "look someone up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to find and visit or contact someone you have not seen for a long time",
-    "exchanges": [ { "uid": "s04_e01_c11_u005", "answer": "look you up", "responseUid": "s04_e01_c11_u007",
-      "options": ["look you up", "take you in", "put you off", "call you out"] } ] },
+{
+  "expression": "look someone up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to find and visit or contact someone you have not seen for a long time",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c11_u005",
+      "answer": "look you up",
+      "responseUid": "s04_e01_c11_u007",
+      "options": [
+        "look you up",
+        "take you in",
+        "put you off",
+        "call you out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for the record", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when you want to state something officially or make a fact clear to everyone",
-    "exchanges": [ { "uid": "s04_e01_c12_u014", "answer": "for the record", "cueUid": "s04_e01_c12_u010",
-      "options": ["for the record", "on the house", "in the end", "by the book"] } ] },
+{
+  "expression": "for the record",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you want to state something officially or make a fact clear to everyone",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c12_u014",
+      "answer": "for the record",
+      "cueUid": "s04_e01_c12_u010",
+      "options": [
+        "for the record",
+        "on the house",
+        "in the end",
+        "by the book"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come in handy", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to turn out to be useful at some point",
-    "exchanges": [ { "uid": "s04_e01_c12_u023", "answer": "come in handy", "responseUid": "s04_e01_c12_u025",
-      "options": ["come in handy", "fall in place", "go in style", "get in shape"] } ] },
+{
+  "expression": "come in handy",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to turn out to be useful at some point",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c12_u023",
+      "answer": "come in handy",
+      "responseUid": "s04_e01_c12_u025",
+      "options": [
+        "come in handy",
+        "fall in place",
+        "go in style",
+        "get in shape"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get cracking", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to start working on something right away",
-    "exchanges": [ { "uid": "s04_e01_c04_u009", "answer": "get cracking",
-      "options": ["get cracking", "get kicking", "get smashing", "get bursting"] } ] },
+{
+  "expression": "get cracking",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to start working on something right away",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c04_u009",
+      "answer": "get cracking",
+      "options": [
+        "get cracking",
+        "get kicking",
+        "get smashing",
+        "get bursting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gist", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the main point or general meaning of something, without the details",
-    "exchanges": [ { "uid": "s04_e01_c09_u015", "answer": "gist", "responseUid": "s04_e01_c09_u017",
-      "options": ["gist", "gust", "jest", "grit"] } ] },
+{
+  "expression": "gist",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the main point or general meaning of something, without the details",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c09_u015",
+      "answer": "gist",
+      "responseUid": "s04_e01_c09_u017",
+      "options": [
+        "gist",
+        "gust",
+        "jest",
+        "grit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "eat someone alive", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to trouble someone so much that they cannot stop thinking about it",
-    "exchanges": [ { "uid": "s04_e01_c10_u019", "answer": "eating me alive",
-      "options": ["eating me alive", "putting me down", "turning me around", "sending me away"] } ] },
+{
+  "expression": "eat someone alive",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to trouble someone so much that they cannot stop thinking about it",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c10_u019",
+      "answer": "eating me alive",
+      "options": [
+        "eating me alive",
+        "putting me down",
+        "turning me around",
+        "sending me away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "own up to", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to admit that you did something wrong",
-    "exchanges": [ { "uid": "s04_e01_c12_u004", "answer": "owned up to",
-      "options": ["owned up to", "made up for", "got on with", "ran off with"] } ] },
+{
+  "expression": "own up to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to admit that you did something wrong",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c12_u004",
+      "answer": "owned up to",
+      "options": [
+        "owned up to",
+        "made up for",
+        "got on with",
+        "ran off with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ramble on", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to talk or write at great length in a confused or boring way",
-    "exchanges": [ { "uid": "s04_e01_c12_u020", "answer": "rambled on",
-      "options": ["rambled on", "carried out", "wandered off", "sped up"] } ] },
+{
+  "expression": "ramble on",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to talk or write at great length in a confused or boring way",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c12_u020",
+      "answer": "rambled on",
+      "options": [
+        "rambled on",
+        "carried out",
+        "wandered off",
+        "sped up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lie one's ass off", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to tell big lies constantly and without shame",
-    "exchanges": [ { "uid": "s04_e01_c02_u003", "answer": "lying their asses off",
-      "options": ["lying their asses off", "laughing their heads off", "running their mouths off", "kicking their feet up"] } ] },
+{
+  "expression": "lie one's ass off",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to tell big lies constantly and without shame",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c02_u003",
+      "answer": "lying their asses off",
+      "options": [
+        "lying their asses off",
+        "laughing their heads off",
+        "running their mouths off",
+        "kicking their feet up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "five o'clock shadow", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "the dark stubble that shows on a man's face late in the day after a morning shave",
-    "exchanges": [ { "uid": "s04_e01_c04_u004", "answer": "shadow",
-      "options": ["shadow", "shade", "glow", "stripe"] } ] }
+{
+  "expression": "five o'clock shadow",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "the dark stubble that shows on a man's face late in the day after a morning shave",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c04_u004",
+      "answer": "shadow",
+      "options": [
+        "shadow",
+        "shade",
+        "glow",
+        "stripe"
+      ]
+    }
+  ]
+}
 ]

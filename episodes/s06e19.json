@@ -1,118 +1,463 @@
 [
-  { "expression": "take out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to withdraw money from a bank account or cash machine",
-    "exchanges": [ { "uid": "s06_e19_c01_u011", "answer": "take out",
-      "options": ["take out", "make up", "pay off", "turn in"] } ] },
+{
+  "expression": "take out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to withdraw money from a bank account or cash machine",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c01_u011",
+      "answer": "take out",
+      "options": [
+        "take out",
+        "make up",
+        "pay off",
+        "turn in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay attention", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to listen to or watch something carefully",
-    "exchanges": [ { "uid": "s06_e19_c02_u010", "answer": "paying attention",
-      "options": ["paying attention", "making sense", "taking turns", "giving way"] } ] },
+{
+  "expression": "pay attention",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to listen to or watch something carefully",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c02_u010",
+      "answer": "paying attention",
+      "options": [
+        "paying attention",
+        "making sense",
+        "taking turns",
+        "giving way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to meet someone by chance",
-    "exchanges": [ { "uid": "s06_e19_c02_u026", "answer": "run into",
-      "options": ["run into", "get over", "fall for", "look after"] } ] },
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c02_u026",
+      "answer": "run into",
+      "options": [
+        "run into",
+        "get over",
+        "fall for",
+        "look after"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start talking about a subject",
-    "exchanges": [ { "uid": "s06_e19_c01_u007", "answer": "brought it up",
-      "options": ["brought it up", "put it off", "gave it away", "turned it down"] } ] },
+{
+  "expression": "bring up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start talking about a subject",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c01_u007",
+      "answer": "brought it up",
+      "options": [
+        "brought it up",
+        "put it off",
+        "gave it away",
+        "turned it down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "none of my business", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something I have the right to be involved in or ask about",
-    "exchanges": [ { "uid": "s06_e19_c02_u024", "answer": "none of my business",
-      "options": ["none of my business", "out of my league", "all in my head", "off the record"] } ] },
+{
+  "expression": "none of my business",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something I have the right to be involved in or ask about",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c02_u024",
+      "answer": "none of my business",
+      "options": [
+        "none of my business",
+        "out of my league",
+        "all in my head",
+        "off the record"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be up to someone", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be someone's decision or responsibility",
-    "exchanges": [ { "uid": "s06_e19_c09_u010", "answer": "up to you",
-      "options": ["up to you", "in for you", "off to you", "out for you"] } ] },
+{
+  "expression": "be up to someone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be someone's decision or responsibility",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c09_u010",
+      "answer": "up to you",
+      "options": [
+        "up to you",
+        "in for you",
+        "off to you",
+        "out for you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be cool with", "type": "colloquial", "level": "middle", "pos": "adjective",
-    "meaning": "to be happy to accept something and not bothered by it",
-    "exchanges": [ { "uid": "s06_e19_c09_u028", "answer": "be cool with",
-      "options": ["be cool with", "be strict with", "be finished with", "be harsh with"] } ] },
+{
+  "expression": "be cool with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "to be happy to accept something and not bothered by it",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c09_u028",
+      "answer": "be cool with",
+      "options": [
+        "be cool with",
+        "be strict with",
+        "be finished with",
+        "be harsh with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no offense", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said before a remark to show you do not mean to insult the listener",
-    "exchanges": [ { "uid": "s06_e19_c11_u054", "answer": "no offense",
-      "options": ["no offense", "no wonder", "no doubt", "no kidding"] } ] },
+{
+  "expression": "no offense",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before a remark to show you do not mean to insult the listener",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c11_u054",
+      "answer": "no offense",
+      "options": [
+        "no offense",
+        "no wonder",
+        "no doubt",
+        "no kidding"
+      ]
+    }
+  ]
+},
 
-  { "expression": "misunderstanding", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a situation in which someone understands something wrongly",
-    "exchanges": [ { "uid": "s06_e19_c08_u006", "answer": "misunderstanding",
-      "options": ["misunderstanding", "celebration", "investment", "competition"] } ] },
+{
+  "expression": "misunderstanding",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a situation in which someone understands something wrongly",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c08_u006",
+      "answer": "misunderstanding",
+      "options": [
+        "misunderstanding",
+        "celebration",
+        "investment",
+        "competition"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to delay something until a later time",
-    "exchanges": [ { "uid": "s06_e19_c11_u011", "answer": "put off",
-      "options": ["put off", "give up", "turn in", "cut out"] } ] },
+{
+  "expression": "put off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to delay something until a later time",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c11_u011",
+      "answer": "put off",
+      "options": [
+        "put off",
+        "give up",
+        "turn in",
+        "cut out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mumble", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to speak quietly and unclearly so that the words are hard to hear",
-    "exchanges": [ { "uid": "s06_e19_c02_u009", "answer": "mumbles",
+{
+  "expression": "mumble",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to speak quietly and unclearly so that the words are hard to hear",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c02_u009",
+      "answer": "mumbles",
       "responseUid": "s06_e19_c02_u011",
-      "options": ["mumbles", "sneezes", "brags", "snores"] } ] },
+      "options": [
+        "mumbles",
+        "sneezes",
+        "brags",
+        "snores"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a break", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to stop criticizing or being so hard on someone",
-    "exchanges": [ { "uid": "s06_e19_c02_u045", "answer": "give him a break",
-      "options": ["give him a break", "cut him a check", "throw him a party", "pay him a visit"] } ] },
+{
+  "expression": "give someone a break",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to stop criticizing or being so hard on someone",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c02_u045",
+      "answer": "give him a break",
+      "options": [
+        "give him a break",
+        "cut him a check",
+        "throw him a party",
+        "pay him a visit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a hard time", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to tease or criticize someone, often in a playful way",
-    "exchanges": [ { "uid": "s06_e19_c02_u048", "answer": "a hard time",
-      "options": ["a hard time", "a fair shot", "a head start", "a second chance"] } ] },
+{
+  "expression": "give someone a hard time",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to tease or criticize someone, often in a playful way",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c02_u048",
+      "answer": "a hard time",
+      "options": [
+        "a hard time",
+        "a fair shot",
+        "a head start",
+        "a second chance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "distract", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to take someone's attention away from what they are thinking about or doing",
-    "exchanges": [ { "uid": "s06_e19_c06_u005", "answer": "distract",
-      "options": ["distract", "dismiss", "deliver", "decorate"] } ] },
+{
+  "expression": "distract",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take someone's attention away from what they are thinking about or doing",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c06_u005",
+      "answer": "distract",
+      "options": [
+        "distract",
+        "dismiss",
+        "deliver",
+        "decorate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do something good for someone to compensate for a wrong you did to them",
-    "exchanges": [ { "uid": "s06_e19_c09_u005", "answer": "make it up",
-      "options": ["make it up", "take it out", "put it off", "give it back"] } ] },
+{
+  "expression": "make it up to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something good for someone to compensate for a wrong you did to them",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c09_u005",
+      "answer": "make it up",
+      "options": [
+        "make it up",
+        "take it out",
+        "put it off",
+        "give it back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blow off steam", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to release stress or strong feelings by doing something active or fun",
-    "exchanges": [ { "uid": "s06_e19_c10_u004", "answer": "blow off steam",
+{
+  "expression": "blow off steam",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to release stress or strong feelings by doing something active or fun",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c10_u004",
+      "answer": "blow off steam",
       "cueUid": "s06_e19_c10_u002",
-      "options": ["blow off steam", "break the ice", "hit the road", "call it quits"] } ] },
+      "options": [
+        "blow off steam",
+        "break the ice",
+        "hit the road",
+        "call it quits"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a hint", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to understand something that is suggested indirectly, such as that you are not wanted",
-    "exchanges": [ { "uid": "s06_e19_c11_u019", "answer": "take a hint",
-      "options": ["take a hint", "make a scene", "keep a secret", "hold a grudge"] } ] },
+{
+  "expression": "take a hint",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to understand something that is suggested indirectly, such as that you are not wanted",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c11_u019",
+      "answer": "take a hint",
+      "options": [
+        "take a hint",
+        "make a scene",
+        "keep a secret",
+        "hold a grudge"
+      ]
+    }
+  ]
+},
 
-  { "expression": "custody", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the legal right to care for a child after the parents separate",
-    "exchanges": [ { "uid": "s06_e19_c04_u013", "answer": "custody",
-      "options": ["custody", "credit", "tuition", "permission"] } ] },
+{
+  "expression": "custody",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the legal right to care for a child after the parents separate",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c04_u013",
+      "answer": "custody",
+      "options": [
+        "custody",
+        "credit",
+        "tuition",
+        "permission"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grow on", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to become gradually more liked by someone over time",
-    "exchanges": [ { "uid": "s06_e19_c07_u007", "answer": "grows on you",
-      "options": ["grows on you", "runs by you", "falls for you", "goes off you"] } ] },
+{
+  "expression": "grow on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become gradually more liked by someone over time",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c07_u007",
+      "answer": "grows on you",
+      "options": [
+        "grows on you",
+        "runs by you",
+        "falls for you",
+        "goes off you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call it even", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to agree that neither person owes the other anything anymore",
-    "exchanges": [ { "uid": "s06_e19_c09_u015", "answer": "Call it even",
-      "options": ["Call it even", "Make it quick", "Keep it simple", "Play it safe"] } ] },
+{
+  "expression": "call it even",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to agree that neither person owes the other anything anymore",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c09_u015",
+      "answer": "Call it even",
+      "options": [
+        "Call it even",
+        "Make it quick",
+        "Keep it simple",
+        "Play it safe"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blindsided", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "surprised by something unexpected, often in an unpleasant way",
-    "exchanges": [ { "uid": "s06_e19_c11_u015", "answer": "blind sided",
-      "options": ["blind sided", "short changed", "jet lagged", "well rested"] } ] },
+{
+  "expression": "blindsided",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "surprised by something unexpected, often in an unpleasant way",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c11_u015",
+      "answer": "blind sided",
+      "options": [
+        "blind sided",
+        "short changed",
+        "jet lagged",
+        "well rested"
+      ]
+    }
+  ]
+},
 
-  { "expression": "do justice to", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to show something in a way that reflects how good it really is",
-    "exchanges": [ { "uid": "s06_e19_c11_u030", "answer": "do justice to",
-      "options": ["do justice to", "take offense to", "lay claim to", "give rise to"] } ] },
+{
+  "expression": "do justice to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to show something in a way that reflects how good it really is",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c11_u030",
+      "answer": "do justice to",
+      "options": [
+        "do justice to",
+        "take offense to",
+        "lay claim to",
+        "give rise to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "traipse", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to walk somewhere casually or carelessly, especially where you are not expected",
-    "exchanges": [ { "uid": "s06_e19_c08_u026", "answer": "traipsing",
-      "options": ["traipsing", "sneezing", "bargaining", "shivering"] } ] }
+{
+  "expression": "traipse",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to walk somewhere casually or carelessly, especially where you are not expected",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c08_u026",
+      "answer": "traipsing",
+      "options": [
+        "traipsing",
+        "sneezing",
+        "bargaining",
+        "shivering"
+      ]
+    }
+  ]
+}
 ]

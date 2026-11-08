@@ -62,7 +62,7 @@
 {
   "expression": "beat",
   "type": "word",
-  "level": "middle",
+  "level": "high",
   "pos": "adjective",
   "meaning": "extremely tired",
   "exchanges": [
@@ -444,7 +444,7 @@
 {
   "expression": "stand one's ground",
   "type": "phrase",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to refuse to move or back down when challenged",
   "exchanges": [
@@ -464,7 +464,7 @@
 {
   "expression": "heavy",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "adjective",
   "meaning": "serious and emotionally intense, said as a reaction to surprising news",
   "exchanges": [

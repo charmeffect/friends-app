@@ -1,130 +1,515 @@
 [
-  { "expression": "deal with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to take action to solve a problem or handle a person",
-    "exchanges": [ { "uid": "s02_e07_c09_u036", "answer": "deal with",
-      "options": ["deal with", "stand by", "look at", "play for"] } ] },
+{
+  "expression": "deal with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to take action to solve a problem or handle a person",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c09_u036",
+      "answer": "deal with",
+      "options": [
+        "deal with",
+        "stand by",
+        "look at",
+        "play for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "way to go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to congratulate someone on doing something well",
-    "exchanges": [ { "uid": "s02_e07_c10_u009", "answer": "way to go",
-      "options": ["way to go", "time to shine", "good to know", "nice to meet"] } ] },
+{
+  "expression": "way to go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to congratulate someone on doing something well",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c10_u009",
+      "answer": "way to go",
+      "options": [
+        "way to go",
+        "time to shine",
+        "good to know",
+        "nice to meet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go through", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to experience a difficult or unpleasant period",
-    "exchanges": [ { "uid": "s02_e07_c07_u010", "answer": "been through",
-      "options": ["been through", "gone against", "come across", "stood by"] } ] },
+{
+  "expression": "go through",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to experience a difficult or unpleasant period",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c07_u010",
+      "answer": "been through",
+      "options": [
+        "been through",
+        "gone against",
+        "come across",
+        "stood by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "call back", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to phone someone again later, usually after an interrupted call",
-    "exchanges": [ { "uid": "s02_e07_c07_u020", "answer": "call you back",
-      "options": ["call you back", "put you through", "cut you off", "hold you up"] } ] },
+{
+  "expression": "call back",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to phone someone again later, usually after an interrupted call",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c07_u020",
+      "answer": "call you back",
+      "options": [
+        "call you back",
+        "put you through",
+        "cut you off",
+        "hold you up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put on weight", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to become heavier or fatter",
-    "exchanges": [ { "uid": "s02_e07_c01_u005", "answer": "put on", "responseUid": "s02_e07_c01_u007",
-      "options": ["put on", "give up", "turn down", "set out"] } ] },
+{
+  "expression": "put on weight",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become heavier or fatter",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c01_u005",
+      "answer": "put on",
+      "responseUid": "s02_e07_c01_u007",
+      "options": [
+        "put on",
+        "give up",
+        "turn down",
+        "set out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get in the way", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to block or interfere with something you want to do",
-    "exchanges": [
-      { "uid": "s02_e07_c01_u009", "answer": "in the way",
-        "options": ["in the way", "on the edge", "at the end", "by the side"] },
-      { "uid": "s02_e07_c11_u015", "answer": "in the way",
-        "options": ["in the way", "on the move", "at the back", "to the top"] } ] },
+{
+  "expression": "get in the way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to block or interfere with something you want to do",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c01_u009",
+      "answer": "in the way",
+      "options": [
+        "in the way",
+        "on the edge",
+        "at the end",
+        "by the side"
+      ]
+    },
+    {
+      "uid": "s02_e07_c11_u015",
+      "answer": "in the way",
+      "options": [
+        "in the way",
+        "on the move",
+        "at the back",
+        "to the top"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be a pal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when asking a friend to do you a small favor",
-    "exchanges": [ { "uid": "s02_e07_c04_u016", "answer": "be a pal",
-      "options": ["be a pal", "do a job", "say a word", "take a seat"] } ] },
+{
+  "expression": "be a pal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when asking a friend to do you a small favor",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u016",
+      "answer": "be a pal",
+      "options": [
+        "be a pal",
+        "do a job",
+        "say a word",
+        "take a seat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "set up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to arrange a date for someone with a person they have not met",
-    "exchanges": [ { "uid": "s02_e07_c04_u020", "answer": "settin' me up",
-      "options": ["settin' me up", "lettin' me down", "pickin' me up", "puttin' me off"] } ] },
+{
+  "expression": "set up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange a date for someone with a person they have not met",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u020",
+      "answer": "settin' me up",
+      "options": [
+        "settin' me up",
+        "lettin' me down",
+        "pickin' me up",
+        "puttin' me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come by", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make a short visit to a place",
-    "exchanges": [ { "uid": "s02_e07_c04_u027", "answer": "come by",
-      "options": ["come by", "go off", "turn in", "run out"] } ] },
+{
+  "expression": "come by",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a short visit to a place",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u027",
+      "answer": "come by",
+      "options": [
+        "come by",
+        "go off",
+        "turn in",
+        "run out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [ { "uid": "s02_e07_c07_u009", "answer": "get over",
-      "options": ["get over", "put up", "take after", "look into"] } ] },
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c07_u009",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "put up",
+        "take after",
+        "look into"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a phone call by putting the phone down",
-    "exchanges": [ { "uid": "s02_e07_c09_u015", "answer": "hang up",
-      "options": ["hang up", "hold up", "set up", "look up"] } ] },
+{
+  "expression": "hang up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a phone call by putting the phone down",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c09_u015",
+      "answer": "hang up",
+      "options": [
+        "hang up",
+        "hold up",
+        "set up",
+        "look up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have feelings for", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be romantically attracted to someone",
-    "exchanges": [ { "uid": "s02_e07_c11_u007", "answer": "had feelings for", "responseUid": "s02_e07_c11_u009",
-      "options": ["had feelings for", "made plans for", "took credit for", "paid attention to"] } ] },
+{
+  "expression": "have feelings for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be romantically attracted to someone",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c11_u007",
+      "answer": "had feelings for",
+      "responseUid": "s02_e07_c11_u009",
+      "options": [
+        "had feelings for",
+        "made plans for",
+        "took credit for",
+        "paid attention to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "literally", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "used to stress that something really happened exactly as described",
-    "exchanges": [ { "uid": "s02_e07_c01_u004", "answer": "literally",
-      "options": ["literally", "legally", "logically", "luckily"] } ] },
+{
+  "expression": "literally",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to stress that something really happened exactly as described",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c01_u004",
+      "answer": "literally",
+      "options": [
+        "literally",
+        "legally",
+        "logically",
+        "luckily"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take it slow", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to let a relationship develop gradually without rushing",
-    "exchanges": [ { "uid": "s02_e07_c04_u008", "answer": "taking it slow",
-      "options": ["taking it slow", "calling it quits", "making it up", "giving it back"] } ] },
+{
+  "expression": "take it slow",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to let a relationship develop gradually without rushing",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u008",
+      "answer": "taking it slow",
+      "options": [
+        "taking it slow",
+        "calling it quits",
+        "making it up",
+        "giving it back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "he wishes", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to mean someone would like that to be true, but it is not",
-    "exchanges": [ { "uid": "s02_e07_c05_u015", "answer": "he wishes",
-      "options": ["he wishes", "he guesses", "he knows", "he thinks"] } ] },
+{
+  "expression": "he wishes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to mean someone would like that to be true, but it is not",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c05_u015",
+      "answer": "he wishes",
+      "options": [
+        "he wishes",
+        "he guesses",
+        "he knows",
+        "he thinks"
+      ]
+    }
+  ]
+},
 
-  { "expression": "whatever it takes", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "anything that is necessary to achieve a goal",
-    "exchanges": [ { "uid": "s02_e07_c07_u012", "answer": "whatever it takes",
-      "options": ["whatever it takes", "whenever it comes", "however it goes", "wherever it leads"] } ] },
+{
+  "expression": "whatever it takes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "anything that is necessary to achieve a goal",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c07_u012",
+      "answer": "whatever it takes",
+      "options": [
+        "whatever it takes",
+        "whenever it comes",
+        "however it goes",
+        "wherever it leads"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let me get this straight", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said before repeating something to make sure you have understood it correctly",
-    "exchanges": [ { "uid": "s02_e07_c10_u017", "answer": "get this straight",
-      "options": ["get this straight", "put this down", "take this back", "turn this around"] } ] },
+{
+  "expression": "let me get this straight",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before repeating something to make sure you have understood it correctly",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c10_u017",
+      "answer": "get this straight",
+      "options": [
+        "get this straight",
+        "put this down",
+        "take this back",
+        "turn this around"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the zone", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "fully focused and performing at your best",
-    "exchanges": [ { "uid": "s02_e07_c12_u003", "answer": "in the zone",
-      "options": ["in the zone", "on the fence", "off the hook", "over the hill"] } ] },
+{
+  "expression": "in the zone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "fully focused and performing at your best",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c12_u003",
+      "answer": "in the zone",
+      "options": [
+        "in the zone",
+        "on the fence",
+        "off the hook",
+        "over the hill"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a shoulder to cry on", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "someone who listens and comforts you when you are upset",
-    "exchanges": [ { "uid": "s02_e07_c12_u012", "answer": "shoulder to cry on",
-      "options": ["shoulder to cry on", "lap to sit on", "back to lean on", "hand to count on"] } ] },
+{
+  "expression": "a shoulder to cry on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "someone who listens and comforts you when you are upset",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c12_u012",
+      "answer": "shoulder to cry on",
+      "options": [
+        "shoulder to cry on",
+        "lap to sit on",
+        "back to lean on",
+        "hand to count on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in dire need of", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "urgently needing something",
-    "exchanges": [ { "uid": "s02_e07_c01_u008", "answer": "in dire need",
-      "options": ["in dire need", "at full speed", "on good terms", "by any means"] } ] },
+{
+  "expression": "in dire need of",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "urgently needing something",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c01_u008",
+      "answer": "in dire need",
+      "options": [
+        "in dire need",
+        "at full speed",
+        "on good terms",
+        "by any means"
+      ]
+    }
+  ]
+},
 
-  { "expression": "opt for", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to choose one thing instead of another",
-    "exchanges": [ { "uid": "s02_e07_c04_u022", "answer": "opt for",
-      "options": ["opt for", "stand by", "turn down", "look into"] } ] },
+{
+  "expression": "opt for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to choose one thing instead of another",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u022",
+      "answer": "opt for",
+      "options": [
+        "opt for",
+        "stand by",
+        "turn down",
+        "look into"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for all I care", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said to show that you do not care at all what happens",
-    "exchanges": [ { "uid": "s02_e07_c04_u024", "answer": "for all I care",
-      "options": ["for all I care", "for what it's worth", "by all means", "at any rate"] } ] },
+{
+  "expression": "for all I care",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to show that you do not care at all what happens",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u024",
+      "answer": "for all I care",
+      "options": [
+        "for all I care",
+        "for what it's worth",
+        "by all means",
+        "at any rate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "closure", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the feeling that a painful experience is finally finished and you can move on",
-    "exchanges": [ { "uid": "s02_e07_c07_u023", "answer": "closure",
-      "cueUid": "s02_e07_c07_u021", "responseUid": null,
-      "options": ["closure", "exposure", "pressure", "leisure"] } ] },
+{
+  "expression": "closure",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the feeling that a painful experience is finally finished and you can move on",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c07_u023",
+      "answer": "closure",
+      "cueUid": "s02_e07_c07_u021",
+      "responseUid": null,
+      "options": [
+        "closure",
+        "exposure",
+        "pressure",
+        "leisure"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the ship has sailed", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "it is too late; the chance has already passed",
-    "exchanges": [ { "uid": "s02_e07_c11_u017", "answer": "ship has sailed",
-      "options": ["ship has sailed", "tide has turned", "wind has shifted", "sun has set"] } ] },
+{
+  "expression": "the ship has sailed",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "it is too late; the chance has already passed",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c11_u017",
+      "answer": "ship has sailed",
+      "options": [
+        "ship has sailed",
+        "tide has turned",
+        "wind has shifted",
+        "sun has set"
+      ]
+    }
+  ]
+},
 
-  { "expression": "zilch", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "nothing at all",
-    "exchanges": [ { "uid": "s02_e07_c04_u006", "answer": "Zilch",
-      "options": ["Zilch", "Jinx", "Whoa", "Dang"] } ] }
+{
+  "expression": "zilch",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "nothing at all",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u006",
+      "answer": "Zilch",
+      "options": [
+        "Zilch",
+        "Jinx",
+        "Whoa",
+        "Dang"
+      ]
+    }
+  ]
+}
 ]

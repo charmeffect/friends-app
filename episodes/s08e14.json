@@ -344,7 +344,7 @@
 {
   "expression": "intriguing",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "very interesting because it is unusual or mysterious",
   "exchanges": [
@@ -364,7 +364,7 @@
 {
   "expression": "self-conscious",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "nervously aware of how you look or act in front of others",
   "exchanges": [
@@ -444,7 +444,7 @@
 {
   "expression": "have your cake and eat it too",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "expression",
   "meaning": "to enjoy the benefits of two things that normally cannot both be had at once",
   "exchanges": [
@@ -464,7 +464,7 @@
 {
   "expression": "harbor",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to keep a feeling or thought secretly in your mind for a long time",
   "exchanges": [

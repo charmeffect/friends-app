@@ -224,7 +224,7 @@
 {
   "expression": "mellow",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "calm, relaxed, and not wild or loud",
   "exchanges": [
@@ -305,7 +305,7 @@
 {
   "expression": "a tad",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "adverb",
   "meaning": "slightly; a little bit",
   "exchanges": [
@@ -425,7 +425,7 @@
 {
   "expression": "false labor",
   "type": "phrase",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "pains late in pregnancy that feel like childbirth starting but are not",
   "exchanges": [
@@ -455,7 +455,7 @@
 {
   "expression": "nightstand",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "noun",
   "meaning": "a small table placed next to a bed",
   "exchanges": [
@@ -515,9 +515,9 @@
 },
 
 {
-  "expression": "let down",
+  "expression": "let someone down",
   "type": "phrase",
-  "level": "high",
+  "level": "middle",
   "pos": "verb",
   "meaning": "to disappoint someone by failing to do what they expected of you",
   "exchanges": [
@@ -537,7 +537,7 @@
 {
   "expression": "wuss",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "a weak, cowardly person",
   "exchanges": [

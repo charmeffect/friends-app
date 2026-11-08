@@ -1,133 +1,526 @@
 [
-  { "expression": "be up to", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to be doing or planning (what are you up to = what are you doing)",
-    "exchanges": [ { "uid": "s05_e04_c02_u005", "answer": "up to",
-      "options": ["up to", "in for", "out of", "on about"] } ] },
+{
+  "expression": "be up to",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be doing or planning (what are you up to = what are you doing)",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c02_u005",
+      "answer": "up to",
+      "options": [
+        "up to",
+        "in for",
+        "out of",
+        "on about"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a nap", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to sleep for a short time during the day",
-    "exchanges": [ { "uid": "s05_e04_c01_u005", "answer": "taking a nap",
-      "options": ["taking a nap", "having a bath", "making a call", "doing a dance"] } ] },
+{
+  "expression": "take a nap",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to sleep for a short time during the day",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c01_u005",
+      "answer": "taking a nap",
+      "options": [
+        "taking a nap",
+        "having a bath",
+        "making a call",
+        "doing a dance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the other day", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "a few days ago",
-    "exchanges": [ { "uid": "s05_e04_c08_u007", "answer": "the other day", "cueUid": "s05_e04_c08_u004",
-      "options": ["the other day", "the next week", "the same time", "the last night"] } ] },
+{
+  "expression": "the other day",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "a few days ago",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c08_u007",
+      "answer": "the other day",
+      "cueUid": "s05_e04_c08_u004",
+      "options": [
+        "the other day",
+        "the next week",
+        "the same time",
+        "the last night"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good deed", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a kind or helpful act done for someone else",
-    "exchanges": [
-      { "uid": "s05_e04_c09_u003", "answer": "good deed",
-        "options": ["good deed", "kind word", "fair play", "big favor"] },
-      { "uid": "s05_e04_c11_u007", "answer": "good deed",
-        "options": ["good deed", "kind word", "fair play", "big favor"] } ] },
+{
+  "expression": "good deed",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a kind or helpful act done for someone else",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c09_u003",
+      "answer": "good deed",
+      "options": [
+        "good deed",
+        "kind word",
+        "fair play",
+        "big favor"
+      ]
+    },
+    {
+      "uid": "s05_e04_c11_u007",
+      "answer": "good deed",
+      "options": [
+        "good deed",
+        "kind word",
+        "fair play",
+        "big favor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "selfish", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "caring only about yourself and not about other people",
-    "exchanges": [ { "uid": "s05_e04_c05_u003", "answer": "selfish",
-      "options": ["selfish", "stylish", "sluggish", "sheepish"] } ] },
+{
+  "expression": "selfish",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "caring only about yourself and not about other people",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c05_u003",
+      "answer": "selfish",
+      "options": [
+        "selfish",
+        "stylish",
+        "sluggish",
+        "sheepish"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to vomit",
-    "exchanges": [ { "uid": "s05_e04_c08_u008", "answer": "throwing up",
-      "options": ["throwing up", "giving up", "throwing away", "picking up"] } ] },
+{
+  "expression": "throw up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to vomit",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c08_u008",
+      "answer": "throwing up",
+      "options": [
+        "throwing up",
+        "giving up",
+        "throwing away",
+        "picking up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give birth", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to have a baby",
-    "exchanges": [ { "uid": "s05_e04_c05_u004", "answer": "gave birth",
-      "options": ["gave birth", "gave way", "gave rise", "gave in"] } ] },
+{
+  "expression": "give birth",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a baby",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c05_u004",
+      "answer": "gave birth",
+      "options": [
+        "gave birth",
+        "gave way",
+        "gave rise",
+        "gave in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you can't be serious", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show you think someone's idea is ridiculous and hope they are joking",
-    "exchanges": [ { "uid": "s05_e04_c10_u003", "answer": "be serious",
-      "options": ["be serious", "be certain", "be careful", "be honest"] } ] },
+{
+  "expression": "you can't be serious",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you think someone's idea is ridiculous and hope they are joking",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c10_u003",
+      "answer": "be serious",
+      "options": [
+        "be serious",
+        "be certain",
+        "be careful",
+        "be honest"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get in touch with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to contact someone by phone, letter or in person",
-    "exchanges": [ { "uid": "s05_e04_c01_u017", "answer": "get in touch with", "cueUid": "s05_e04_c01_u015",
-      "options": ["get in touch with", "get on board with", "get in line with", "get on top of"] } ] },
+{
+  "expression": "get in touch with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to contact someone by phone, letter or in person",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c01_u017",
+      "answer": "get in touch with",
+      "cueUid": "s05_e04_c01_u015",
+      "options": [
+        "get in touch with",
+        "get on board with",
+        "get in line with",
+        "get on top of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be out of someone's hair", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to leave so that you stop bothering someone",
-    "exchanges": [ { "uid": "s05_e04_c01_u010", "answer": "out of your hair",
-      "options": ["out of your hair", "off of your back", "out of your mind", "up to your neck"] } ] },
+{
+  "expression": "be out of someone's hair",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to leave so that you stop bothering someone",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c01_u010",
+      "answer": "out of your hair",
+      "options": [
+        "out of your hair",
+        "off of your back",
+        "out of your mind",
+        "up to your neck"
+      ]
+    }
+  ]
+},
 
-  { "expression": "suck up to", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to flatter and please someone in authority so that they will favour you",
-    "exchanges": [ { "uid": "s05_e04_c01_u019", "answer": "suck up to",
-      "options": ["suck up to", "stand up to", "look up to", "live up to"] } ] },
+{
+  "expression": "suck up to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flatter and please someone in authority so that they will favour you",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c01_u019",
+      "answer": "suck up to",
+      "options": [
+        "suck up to",
+        "stand up to",
+        "look up to",
+        "live up to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "selfless", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "caring about other people's needs more than your own",
-    "exchanges": [ { "uid": "s05_e04_c02_u023", "answer": "selfless",
-      "options": ["selfless", "helpless", "restless", "careless"] } ] },
+{
+  "expression": "selfless",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "caring about other people's needs more than your own",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c02_u023",
+      "answer": "selfless",
+      "options": [
+        "selfless",
+        "helpless",
+        "restless",
+        "careless"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what it takes", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "the effort or qualities needed to achieve something",
-    "exchanges": [ { "uid": "s05_e04_c02_u036", "answer": "what it takes",
-      "options": ["what it takes", "how it goes", "where it ends", "when it counts"] } ] },
+{
+  "expression": "what it takes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the effort or qualities needed to achieve something",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c02_u036",
+      "answer": "what it takes",
+      "options": [
+        "what it takes",
+        "how it goes",
+        "where it ends",
+        "when it counts"
+      ]
+    }
+  ]
+},
 
-  { "expression": "humiliating", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "making you feel ashamed and foolish in front of other people",
-    "exchanges": [ { "uid": "s05_e04_c06_u014", "answer": "humiliating",
-      "options": ["humiliating", "hesitating", "fascinating", "illuminating"] } ] },
+{
+  "expression": "humiliating",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "making you feel ashamed and foolish in front of other people",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c06_u014",
+      "answer": "humiliating",
+      "options": [
+        "humiliating",
+        "hesitating",
+        "fascinating",
+        "illuminating"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bottom line", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "the most important fact or conclusion",
-    "exchanges": [ { "uid": "s05_e04_c13_u014", "answer": "bottom line", "cueUid": "s05_e04_c13_u011",
-      "options": ["bottom line", "top shelf", "front page", "back door"] } ] },
+{
+  "expression": "bottom line",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the most important fact or conclusion",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c13_u014",
+      "answer": "bottom line",
+      "cueUid": "s05_e04_c13_u011",
+      "options": [
+        "bottom line",
+        "top shelf",
+        "front page",
+        "back door"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get carried away", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to become so excited or emotional that you lose control of what you do",
-    "exchanges": [ { "uid": "s05_e04_c12_u002", "answer": "carried away",
-      "options": ["carried away", "worn out", "turned down", "blown off"] } ] },
+{
+  "expression": "get carried away",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to become so excited or emotional that you lose control of what you do",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c12_u002",
+      "answer": "carried away",
+      "options": [
+        "carried away",
+        "worn out",
+        "turned down",
+        "blown off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have one's eye on", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to want a particular thing and plan to get it",
-    "exchanges": [ { "uid": "s05_e04_c11_u011", "answer": "had my eye on",
-      "options": ["had my eye on", "lost my grip on", "took my time on", "put my foot on"] } ] },
+{
+  "expression": "have one's eye on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to want a particular thing and plan to get it",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c11_u011",
+      "answer": "had my eye on",
+      "options": [
+        "had my eye on",
+        "lost my grip on",
+        "took my time on",
+        "put my foot on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "exposure", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the attention and publicity you get from being seen by many people, for example on TV",
-    "exchanges": [ { "uid": "s05_e04_c02_u008", "answer": "exposure",
-      "options": ["exposure", "expansion", "expertise", "exception"] } ] },
+{
+  "expression": "exposure",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the attention and publicity you get from being seen by many people, for example on TV",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c02_u008",
+      "answer": "exposure",
+      "options": [
+        "exposure",
+        "expansion",
+        "expertise",
+        "exception"
+      ]
+    }
+  ]
+},
 
-  { "expression": "burst someone's bubble", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to spoil someone's happy belief by telling them the truth",
-    "exchanges": [ { "uid": "s05_e04_c02_u029", "answer": "burst that bubble",
-      "options": ["burst that bubble", "pop that balloon", "break that spell", "blow that whistle"] } ] },
+{
+  "expression": "burst someone's bubble",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to spoil someone's happy belief by telling them the truth",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c02_u029",
+      "answer": "burst that bubble",
+      "options": [
+        "burst that bubble",
+        "pop that balloon",
+        "break that spell",
+        "blow that whistle"
+      ]
+    }
+  ]
+},
 
-  { "expression": "harass", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to keep bothering or pestering someone in an unwelcome way",
-    "exchanges": [ { "uid": "s05_e04_c02_u035", "answer": "harassing",
-      "options": ["harassing", "embracing", "embarrassing", "harvesting"] } ] },
+{
+  "expression": "harass",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep bothering or pestering someone in an unwelcome way",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c02_u035",
+      "answer": "harassing",
+      "options": [
+        "harassing",
+        "embracing",
+        "embarrassing",
+        "harvesting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "patch things up", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to repair a relationship after a disagreement",
-    "exchanges": [ { "uid": "s05_e04_c03_u023", "answer": "patch things up",
-      "options": ["patch things up", "wrap things up", "mix things up", "shake things up"] } ] },
+{
+  "expression": "patch things up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to repair a relationship after a disagreement",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c03_u023",
+      "answer": "patch things up",
+      "options": [
+        "patch things up",
+        "wrap things up",
+        "mix things up",
+        "shake things up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pledge", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a promise to give money, especially to a charity or a fundraising event",
-    "exchanges": [
-      { "uid": "s05_e04_c04_u005", "answer": "pledges",
-        "options": ["pledges", "receipts", "invoices", "tickets"] },
-      { "uid": "s05_e04_c11_u005", "answer": "pledge",
-        "options": ["pledge", "refund", "toast", "bet"] } ] },
+{
+  "expression": "pledge",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a promise to give money, especially to a charity or a fundraising event",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c04_u005",
+      "answer": "pledges",
+      "options": [
+        "pledges",
+        "receipts",
+        "invoices",
+        "tickets"
+      ]
+    },
+    {
+      "uid": "s05_e04_c11_u005",
+      "answer": "pledge",
+      "options": [
+        "pledge",
+        "refund",
+        "toast",
+        "bet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rain check", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "a polite way of declining an invitation while suggesting you will accept it another time",
-    "exchanges": [ { "uid": "s05_e04_c13_u005", "answer": "rain check",
-      "options": ["rain check", "snow day", "quick break", "wild guess"] } ] },
+{
+  "expression": "rain check",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a polite way of declining an invitation while suggesting you will accept it another time",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c13_u005",
+      "answer": "rain check",
+      "options": [
+        "rain check",
+        "snow day",
+        "quick break",
+        "wild guess"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cut someone out of your life", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to stop seeing or having any contact with someone",
-    "exchanges": [ { "uid": "s05_e04_c07_u014", "answer": "cut her out of",
-      "cueUid": "s05_e04_c07_u011", "responseUid": "s05_e04_c07_u016",
-      "options": ["cut her out of", "put her up to", "let her in on", "set her up with"] } ] },
+{
+  "expression": "cut someone out of your life",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to stop seeing or having any contact with someone",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c07_u014",
+      "answer": "cut her out of",
+      "cueUid": "s05_e04_c07_u011",
+      "responseUid": "s05_e04_c07_u016",
+      "options": [
+        "cut her out of",
+        "put her up to",
+        "let her in on",
+        "set her up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jackass", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a stupid or annoying person, used as a rude insult",
-    "exchanges": [ { "uid": "s05_e04_c05_u002", "answer": "jackass",
-      "options": ["jackass", "wiseguy", "copycat", "hothead"] } ] }
+{
+  "expression": "jackass",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a stupid or annoying person, used as a rude insult",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c05_u002",
+      "answer": "jackass",
+      "options": [
+        "jackass",
+        "wiseguy",
+        "copycat",
+        "hothead"
+      ]
+    }
+  ]
+}
 ]

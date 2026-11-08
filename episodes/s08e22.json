@@ -1,124 +1,493 @@
 [
-  { "expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to make someone look at something interesting you are showing them",
-    "exchanges": [ { "uid": "s08_e22_c01_u003", "answer": "check it out",
-      "options": ["check it out", "look it up", "try it on", "work it out"] } ] },
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c01_u003",
+      "answer": "check it out",
+      "options": [
+        "check it out",
+        "look it up",
+        "try it on",
+        "work it out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone to stop asking or to drop the idea",
-    "exchanges": [ { "uid": "s08_e22_c11_u020", "answer": "Forget it",
-      "options": ["Forget it", "Bring it", "Watch it", "Try it"] } ] },
+{
+  "expression": "forget it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop asking or to drop the idea",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c11_u020",
+      "answer": "Forget it",
+      "options": [
+        "Forget it",
+        "Bring it",
+        "Watch it",
+        "Try it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "due date", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "the day on which a pregnant woman's baby is expected to be born",
-    "exchanges": [ { "uid": "s08_e22_c01_u013", "answer": "due date",
-      "options": ["due date", "pay date", "start date", "last date"] } ] },
+{
+  "expression": "due date",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the day on which a pregnant woman's baby is expected to be born",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c01_u013",
+      "answer": "due date",
+      "options": [
+        "due date",
+        "pay date",
+        "start date",
+        "last date"
+      ]
+    }
+  ]
+},
 
-  { "expression": "miserable", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "very unhappy or uncomfortable",
-    "exchanges": [ { "uid": "s08_e22_c02_u005", "answer": "miserable",
-      "options": ["miserable", "memorable", "admirable", "manageable"] } ] },
+{
+  "expression": "miserable",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very unhappy or uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c02_u005",
+      "answer": "miserable",
+      "options": [
+        "miserable",
+        "memorable",
+        "admirable",
+        "manageable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "means a lot", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show you are very grateful for what someone did or said",
-    "exchanges": [ { "uid": "s08_e22_c03_u033", "answer": "means a lot",
-      "options": ["means a lot", "costs a lot", "takes a lot", "weighs a lot"] } ] },
+{
+  "expression": "means a lot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are very grateful for what someone did or said",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c03_u033",
+      "answer": "means a lot",
+      "options": [
+        "means a lot",
+        "costs a lot",
+        "takes a lot",
+        "weighs a lot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to accept a challenge or a bet",
-    "exchanges": [
-      { "uid": "s08_e22_c03_u043", "answer": "You're on",
-        "options": ["You're on", "You're up", "You're off", "You're over"] },
-      { "uid": "s08_e22_c05_u007", "answer": "You're on",
-        "options": ["You're on", "You're up", "You're off", "You're over"] } ] },
+{
+  "expression": "you're on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept a challenge or a bet",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c03_u043",
+      "answer": "You're on",
+      "options": [
+        "You're on",
+        "You're up",
+        "You're off",
+        "You're over"
+      ]
+    },
+    {
+      "uid": "s08_e22_c05_u007",
+      "answer": "You're on",
+      "options": [
+        "You're on",
+        "You're up",
+        "You're off",
+        "You're over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "irritating", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "making you feel annoyed or impatient",
-    "exchanges": [ { "uid": "s08_e22_c07_u008", "answer": "irritating", "cueUid": "s08_e22_c07_u006",
-      "options": ["irritating", "inviting", "imitating", "interesting"] } ] },
+{
+  "expression": "irritating",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel annoyed or impatient",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c07_u008",
+      "answer": "irritating",
+      "cueUid": "s08_e22_c07_u006",
+      "options": [
+        "irritating",
+        "inviting",
+        "imitating",
+        "interesting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said sarcastically to show that something is not important",
-    "exchanges": [ { "uid": "s08_e22_c10_u026", "answer": "Big deal",
-      "options": ["Big deal", "Bad luck", "Nice try", "No way"] } ] },
+{
+  "expression": "big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically to show that something is not important",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c10_u026",
+      "answer": "Big deal",
+      "options": [
+        "Big deal",
+        "Bad luck",
+        "Nice try",
+        "No way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "maternity leave", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "paid or unpaid time off work that a woman takes when she has a baby",
-    "exchanges": [ { "uid": "s08_e22_c03_u005", "answer": "maternity leave",
-      "options": ["maternity leave", "maternity ward", "annual review", "night shift"] } ] },
+{
+  "expression": "maternity leave",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "paid or unpaid time off work that a woman takes when she has a baby",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c03_u005",
+      "answer": "maternity leave",
+      "options": [
+        "maternity leave",
+        "maternity ward",
+        "annual review",
+        "night shift"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you snooze you lose", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "if you are slow or not paying attention, you will miss your chance",
-    "exchanges": [ { "uid": "s08_e22_c03_u019", "answer": "You snooze you lose", "responseUid": null,
-      "options": ["You snooze you lose", "Easy come easy go", "No pain no gain", "Better late than never"] } ] },
+{
+  "expression": "you snooze you lose",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "if you are slow or not paying attention, you will miss your chance",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c03_u019",
+      "answer": "You snooze you lose",
+      "responseUid": null,
+      "options": [
+        "You snooze you lose",
+        "Easy come easy go",
+        "No pain no gain",
+        "Better late than never"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crouch down", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to bend your knees and lower your body closer to the ground",
-    "exchanges": [ { "uid": "s08_e22_c04_u005", "answer": "crouching down",
-      "options": ["crouching down", "sitting back", "leaning out", "stepping in"] } ] },
+{
+  "expression": "crouch down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to bend your knees and lower your body closer to the ground",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c04_u005",
+      "answer": "crouching down",
+      "options": [
+        "crouching down",
+        "sitting back",
+        "leaning out",
+        "stepping in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be with someone on something", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to agree with someone's opinion about a particular matter",
-    "exchanges": [ { "uid": "s08_e22_c05_u023", "answer": "with her",
-      "options": ["with her", "by her", "off her", "into her"] } ] },
+{
+  "expression": "be with someone on something",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to agree with someone's opinion about a particular matter",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c05_u023",
+      "answer": "with her",
+      "options": [
+        "with her",
+        "by her",
+        "off her",
+        "into her"
+      ]
+    }
+  ]
+},
 
-  { "expression": "top notch", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "of the highest quality; excellent",
-    "exchanges": [ { "uid": "s08_e22_c08_u002", "answer": "Top notch",
-      "options": ["Top notch", "Low key", "Half baked", "Second hand"] } ] },
+{
+  "expression": "top notch",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "of the highest quality; excellent",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c08_u002",
+      "answer": "Top notch",
+      "options": [
+        "Top notch",
+        "Low key",
+        "Half baked",
+        "Second hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can of worms", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "a situation that will cause many new problems once you start dealing with it",
-    "exchanges": [ { "uid": "s08_e22_c09_u008", "answer": "can of worms",
-      "options": ["can of worms", "bag of tricks", "piece of cake", "pack of lies"] } ] },
+{
+  "expression": "can of worms",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a situation that will cause many new problems once you start dealing with it",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c09_u008",
+      "answer": "can of worms",
+      "options": [
+        "can of worms",
+        "bag of tricks",
+        "piece of cake",
+        "pack of lies"
+      ]
+    }
+  ]
+},
 
-  { "expression": "money well spent", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said, here sarcastically, about money that was worth spending because it brought good results",
-    "exchanges": [ { "uid": "s08_e22_c10_u023", "answer": "money well spent",
-      "options": ["money well spent", "a dream come true", "a done deal", "a close call"] } ] },
+{
+  "expression": "money well spent",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, here sarcastically, about money that was worth spending because it brought good results",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c10_u023",
+      "answer": "money well spent",
+      "options": [
+        "money well spent",
+        "a dream come true",
+        "a done deal",
+        "a close call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "my water broke", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said by a pregnant woman when the fluid around the baby comes out, showing that labor has started",
-    "exchanges": [ { "uid": "s08_e22_c11_u026", "answer": "water just broke",
-      "options": ["water just broke", "back just cracked", "phone just died", "card just expired"] } ] },
+{
+  "expression": "my water broke",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said by a pregnant woman when the fluid around the baby comes out, showing that labor has started",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c11_u026",
+      "answer": "water just broke",
+      "options": [
+        "water just broke",
+        "back just cracked",
+        "phone just died",
+        "card just expired"
+      ]
+    }
+  ]
+},
 
-  { "expression": "buzz", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "excited talk and interest among people about something new, such as a film",
-    "exchanges": [ { "uid": "s08_e22_c01_u007", "answer": "buzz",
-      "options": ["buzz", "debt", "rust", "fog"] } ] },
+{
+  "expression": "buzz",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "excited talk and interest among people about something new, such as a film",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c01_u007",
+      "answer": "buzz",
+      "options": [
+        "buzz",
+        "debt",
+        "rust",
+        "fog"
+      ]
+    }
+  ]
+},
 
-  { "expression": "console", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to comfort someone who is sad or disappointed",
-    "exchanges": [ { "uid": "s08_e22_c03_u031", "answer": "consoled",
-      "options": ["consoled", "consulted", "controlled", "conceded"] } ] },
+{
+  "expression": "console",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to comfort someone who is sad or disappointed",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c03_u031",
+      "answer": "consoled",
+      "options": [
+        "consoled",
+        "consulted",
+        "controlled",
+        "conceded"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it interesting", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to add a bet to something so that the outcome matters more",
-    "exchanges": [ { "uid": "s08_e22_c03_u042", "answer": "make it interesting",
-      "options": ["make it interesting", "make it official", "keep it simple", "call it even"] } ] },
+{
+  "expression": "make it interesting",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to add a bet to something so that the outcome matters more",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c03_u042",
+      "answer": "make it interesting",
+      "options": [
+        "make it interesting",
+        "make it official",
+        "keep it simple",
+        "call it even"
+      ]
+    }
+  ]
+},
 
-  { "expression": "short with", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "speaking to someone in a rude, impatient way",
-    "exchanges": [ { "uid": "s08_e22_c07_u011", "answer": "short with",
-      "options": ["short with", "close to", "fond of", "proud of"] } ] },
+{
+  "expression": "short with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "speaking to someone in a rude, impatient way",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c07_u011",
+      "answer": "short with",
+      "options": [
+        "short with",
+        "close to",
+        "fond of",
+        "proud of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a tad", "type": "colloquial", "level": "college", "pos": "adverb",
-    "meaning": "slightly; a little bit",
-    "exchanges": [ { "uid": "s08_e22_c07_u025", "answer": "a tad",
-      "options": ["a tad", "a ton", "a few", "a pile"] } ] },
+{
+  "expression": "a tad",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "slightly; a little bit",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c07_u025",
+      "answer": "a tad",
+      "options": [
+        "a tad",
+        "a ton",
+        "a few",
+        "a pile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "double or nothing", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "a bet in which you either double what you have won or lose it all",
-    "exchanges": [ { "uid": "s08_e22_c05_u006", "answer": "Double or nothing",
-      "options": ["Double or nothing", "All or nothing", "Now or never", "Sooner or later"] } ] },
+{
+  "expression": "double or nothing",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a bet in which you either double what you have won or lose it all",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c05_u006",
+      "answer": "Double or nothing",
+      "options": [
+        "Double or nothing",
+        "All or nothing",
+        "Now or never",
+        "Sooner or later"
+      ]
+    }
+  ]
+},
 
-  { "expression": "induce labor", "type": "phrase", "level": "expert", "pos": "verb",
-    "meaning": "to make the process of giving birth start, usually with medicine or other methods",
-    "exchanges": [ { "uid": "s08_e22_c09_u006", "answer": "induce labor",
-      "options": ["induce labor", "delay labor", "avoid labor", "reduce labor"] } ] },
+{
+  "expression": "induce labor",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make the process of giving birth start, usually with medicine or other methods",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c09_u006",
+      "answer": "induce labor",
+      "options": [
+        "induce labor",
+        "delay labor",
+        "avoid labor",
+        "reduce labor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep under one's hat", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to keep something secret and not tell other people about it",
-    "exchanges": [ { "uid": "s08_e22_c10_u020", "answer": "under our hats",
-      "options": ["under our hats", "off our chests", "on our toes", "over our heads"] } ] }
+{
+  "expression": "keep under one's hat",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to keep something secret and not tell other people about it",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c10_u020",
+      "answer": "under our hats",
+      "options": [
+        "under our hats",
+        "off our chests",
+        "on our toes",
+        "over our heads"
+      ]
+    }
+  ]
+}
 ]

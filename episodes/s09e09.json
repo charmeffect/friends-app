@@ -1,121 +1,483 @@
 [
-  { "expression": "look forward to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to feel pleased and excited about something that is going to happen",
-    "exchanges": [ { "uid": "s09_e09_c01_u017", "answer": "looking forward to",
-      "options": ["looking forward to", "coming down to", "getting around to", "holding out for"] } ] },
+{
+  "expression": "look forward to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel pleased and excited about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c01_u017",
+      "answer": "looking forward to",
+      "options": [
+        "looking forward to",
+        "coming down to",
+        "getting around to",
+        "holding out for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "long-distance relationship", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a romantic relationship between two people who live far apart and rarely see each other",
-    "exchanges": [ { "uid": "s09_e09_c01_u018", "answer": "long-distance relationship",
-      "options": ["long-distance relationship", "last-minute decision", "part-time job", "open-door policy"] } ] },
+{
+  "expression": "long-distance relationship",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a romantic relationship between two people who live far apart and rarely see each other",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c01_u018",
+      "answer": "long-distance relationship",
+      "options": [
+        "long-distance relationship",
+        "last-minute decision",
+        "part-time job",
+        "open-door policy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "clean up good", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to look very attractive when dressed up and well groomed",
-    "exchanges": [ { "uid": "s09_e09_c02_u003", "answer": "clean up",
-      "options": ["clean up", "dress down", "wash out", "break up"] } ] },
+{
+  "expression": "clean up good",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to look very attractive when dressed up and well groomed",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c02_u003",
+      "answer": "clean up",
+      "options": [
+        "clean up",
+        "dress down",
+        "wash out",
+        "break up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s09_e09_c02_u010", "answer": "hung out",
-      "options": ["hung out", "gave in", "ran off", "set up"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c02_u010",
+      "answer": "hung out",
+      "options": [
+        "hung out",
+        "gave in",
+        "ran off",
+        "set up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get to know", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time with someone so that you learn what they are like",
-    "exchanges": [ { "uid": "s09_e09_c02_u011", "answer": "get to know",
-      "options": ["get to know", "get rid of", "get ahead of", "get back at"] } ] },
+{
+  "expression": "get to know",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time with someone so that you learn what they are like",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c02_u011",
+      "answer": "get to know",
+      "options": [
+        "get to know",
+        "get rid of",
+        "get ahead of",
+        "get back at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "awkward", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "uncomfortable, embarrassing, or clumsy",
-    "exchanges": [ { "uid": "s09_e09_c02_u012", "answer": "awkward",
-      "options": ["awkward", "generous", "delicious", "obvious"] } ] },
+{
+  "expression": "awkward",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "uncomfortable, embarrassing, or clumsy",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c02_u012",
+      "answer": "awkward",
+      "options": [
+        "awkward",
+        "generous",
+        "delicious",
+        "obvious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have in common", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to share the same interests or qualities as someone",
-    "exchanges": [ { "uid": "s09_e09_c02_u013", "answer": "in common",
-      "options": ["in common", "in charge", "in public", "in advance"] } ] },
+{
+  "expression": "have in common",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to share the same interests or qualities as someone",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c02_u013",
+      "answer": "in common",
+      "options": [
+        "in common",
+        "in charge",
+        "in public",
+        "in advance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forever ago", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "a very long time ago",
-    "exchanges": [ { "uid": "s09_e09_c03_u002", "answer": "forever ago",
-      "options": ["forever ago", "never again", "ever since", "far away"] } ] },
+{
+  "expression": "forever ago",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a very long time ago",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c03_u002",
+      "answer": "forever ago",
+      "options": [
+        "forever ago",
+        "never again",
+        "ever since",
+        "far away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "affair", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a secret sexual relationship with someone who is not your husband or wife",
-    "exchanges": [ { "uid": "s09_e09_c04_u003", "answer": "affair",
-      "options": ["affair", "attitude", "allergy", "audience"] } ] },
+{
+  "expression": "affair",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a secret sexual relationship with someone who is not your husband or wife",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c04_u003",
+      "answer": "affair",
+      "options": [
+        "affair",
+        "attitude",
+        "allergy",
+        "audience"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hear me out", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "listen to everything I want to say before you react or decide",
-    "exchanges": [ { "uid": "s09_e09_c04_u006", "answer": "Hear me out",
-      "options": ["Hear me out", "Count me in", "Hold me back", "Help me up"] } ] },
+{
+  "expression": "hear me out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "listen to everything I want to say before you react or decide",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c04_u006",
+      "answer": "Hear me out",
+      "options": [
+        "Hear me out",
+        "Count me in",
+        "Hold me back",
+        "Help me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "personal space", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "the area immediately around a person that they feel others should not come into",
-    "exchanges": [ { "uid": "s09_e09_c06_u001", "answer": "personal space",
-      "options": ["personal space", "public transport", "spare time", "fine print"] } ] },
+{
+  "expression": "personal space",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the area immediately around a person that they feel others should not come into",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u001",
+      "answer": "personal space",
+      "options": [
+        "personal space",
+        "public transport",
+        "spare time",
+        "fine print"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something important or worth worrying about",
-    "exchanges": [ { "uid": "s09_e09_c06_u006", "answer": "no big deal",
-      "options": ["no big deal", "no laughing matter", "no fair", "no wonder"] } ] },
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u006",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no laughing matter",
+        "no fair",
+        "no wonder"
+      ]
+    }
+  ]
+},
 
-  { "expression": "impulse", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a sudden strong wish to do something without thinking about it first",
-    "exchanges": [ { "uid": "s09_e09_c06_u018", "answer": "impulse",
-      "options": ["impulse", "insult", "interview", "estimate"] } ] },
+{
+  "expression": "impulse",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a sudden strong wish to do something without thinking about it first",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u018",
+      "answer": "impulse",
+      "options": [
+        "impulse",
+        "insult",
+        "interview",
+        "estimate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "works for me", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show that you agree to or are happy with a plan or suggestion",
-    "exchanges": [ { "uid": "s09_e09_c06_u025", "answer": "works for me",
-      "options": ["works for me", "goes for you", "stands for it", "counts on me"] } ] },
+{
+  "expression": "works for me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that you agree to or are happy with a plan or suggestion",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u025",
+      "answer": "works for me",
+      "options": [
+        "works for me",
+        "goes for you",
+        "stands for it",
+        "counts on me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "whiny", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "complaining in an annoying, high-pitched, childish voice",
-    "exchanges": [ { "uid": "s09_e09_c06_u028", "answer": "whiny",
-      "options": ["whiny", "shiny", "brave", "tidy"] } ] },
+{
+  "expression": "whiny",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "complaining in an annoying, high-pitched, childish voice",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u028",
+      "answer": "whiny",
+      "options": [
+        "whiny",
+        "shiny",
+        "brave",
+        "tidy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop thinking about something that is over and start something new",
-    "exchanges": [ { "uid": "s09_e09_c06_u031", "answer": "move on", "responseUid": "s09_e09_c06_u033",
-      "options": ["move on", "show off", "go back", "give up"] } ] },
+{
+  "expression": "move on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop thinking about something that is over and start something new",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u031",
+      "answer": "move on",
+      "responseUid": "s09_e09_c06_u033",
+      "options": [
+        "move on",
+        "show off",
+        "go back",
+        "give up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dead on", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "exactly right or accurate",
-    "exchanges": [ { "uid": "s09_e09_c06_u036", "answer": "Dead on", "responseUid": null,
-      "options": ["Dead on", "Fed up", "Worn out", "Mixed up"] } ] },
+{
+  "expression": "dead on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "exactly right or accurate",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u036",
+      "answer": "Dead on",
+      "responseUid": null,
+      "options": [
+        "Dead on",
+        "Fed up",
+        "Worn out",
+        "Mixed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "time difference", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "the difference in clock time between two places in different time zones",
-    "exchanges": [ { "uid": "s09_e09_c07_u002", "answer": "time difference",
-      "options": ["time difference", "price difference", "weather report", "traffic jam"] } ] },
+{
+  "expression": "time difference",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the difference in clock time between two places in different time zones",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c07_u002",
+      "answer": "time difference",
+      "options": [
+        "time difference",
+        "price difference",
+        "weather report",
+        "traffic jam"
+      ]
+    }
+  ]
+},
 
-  { "expression": "how dare you", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show you are angry and shocked at what someone has done or said",
-    "exchanges": [ { "uid": "s09_e09_c07_u007", "answer": "How dare you",
-      "options": ["How dare you", "How nice of", "Never mind", "Here we go"] } ] },
+{
+  "expression": "how dare you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are angry and shocked at what someone has done or said",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c07_u007",
+      "answer": "How dare you",
+      "options": [
+        "How dare you",
+        "How nice of",
+        "Never mind",
+        "Here we go"
+      ]
+    }
+  ]
+},
 
-  { "expression": "honest mistake", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "an error made by accident, without any intention to cause harm or deceive",
-    "exchanges": [ { "uid": "s09_e09_c07_u020", "answer": "honest mistake",
-      "options": ["honest mistake", "open secret", "happy ending", "rare talent"] } ] },
+{
+  "expression": "honest mistake",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an error made by accident, without any intention to cause harm or deceive",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c07_u020",
+      "answer": "honest mistake",
+      "options": [
+        "honest mistake",
+        "open secret",
+        "happy ending",
+        "rare talent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fermentation", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "the chemical process in which yeast turns sugar into alcohol, as in making beer or wine",
-    "exchanges": [ { "uid": "s09_e09_c08_u001", "answer": "fermentation",
-      "options": ["fermentation", "pollution", "evaporation", "navigation"] } ] },
+{
+  "expression": "fermentation",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the chemical process in which yeast turns sugar into alcohol, as in making beer or wine",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c08_u001",
+      "answer": "fermentation",
+      "options": [
+        "fermentation",
+        "pollution",
+        "evaporation",
+        "navigation"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do something good for someone to compensate for a wrong you did to them",
-    "exchanges": [ { "uid": "s09_e09_c09_u007", "answer": "make it up to",
-      "options": ["make it up to", "get it over with", "put it down to", "take it out on"] } ] },
+{
+  "expression": "make it up to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something good for someone to compensate for a wrong you did to them",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c09_u007",
+      "answer": "make it up to",
+      "options": [
+        "make it up to",
+        "get it over with",
+        "put it down to",
+        "take it out on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sweats", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "loose, comfortable cotton clothes such as sweatpants and a sweatshirt",
-    "exchanges": [ { "uid": "s09_e09_c09_u016", "answer": "sweats",
-      "options": ["sweats", "tuxedos", "sunglasses", "lipstick"] } ] },
+{
+  "expression": "sweats",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "loose, comfortable cotton clothes such as sweatpants and a sweatshirt",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c09_u016",
+      "answer": "sweats",
+      "options": [
+        "sweats",
+        "tuxedos",
+        "sunglasses",
+        "lipstick"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be right back", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to return very soon",
-    "exchanges": [ { "uid": "s09_e09_c10_u004", "answer": "be right back",
-      "options": ["be right back", "be fast asleep", "be far behind", "be well known"] } ] }
+{
+  "expression": "be right back",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to return very soon",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c10_u004",
+      "answer": "be right back",
+      "options": [
+        "be right back",
+        "be fast asleep",
+        "be far behind",
+        "be well known"
+      ]
+    }
+  ]
+}
 ]

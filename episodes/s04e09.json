@@ -44,7 +44,7 @@
 {
   "expression": "come up with",
   "type": "phrase",
-  "level": "elementary",
+  "level": "middle",
   "pos": "verb",
   "meaning": "to think of an idea or plan",
   "exchanges": [
@@ -369,7 +369,7 @@
 {
   "expression": "beat",
   "type": "word",
-  "level": "middle",
+  "level": "high",
   "pos": "adjective",
   "meaning": "extremely tired",
   "exchanges": [
@@ -489,7 +489,7 @@
 {
   "expression": "lay into",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to criticize or attack someone or something harshly",
   "exchanges": [
@@ -509,7 +509,7 @@
 {
   "expression": "snowball",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to grow bigger or more serious at a fast, increasing rate",
   "exchanges": [

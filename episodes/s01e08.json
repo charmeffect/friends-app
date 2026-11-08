@@ -1,129 +1,513 @@
 [
-  { "expression": "what's up", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "a casual greeting asking what is happening",
-    "exchanges": [ { "uid": "s01_e08_c02_u026", "answer": "what's up", "responseUid": null,
-      "options": ["what's up", "who's there", "how's that", "where's it"] } ] },
+{
+  "expression": "what's up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual greeting asking what is happening",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c02_u026",
+      "answer": "what's up",
+      "responseUid": null,
+      "options": [
+        "what's up",
+        "who's there",
+        "how's that",
+        "where's it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "me neither", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to agree with a negative statement someone has just made",
-    "exchanges": [ { "uid": "s01_e08_c02_u009", "answer": "me neither",
-      "options": ["me neither", "me too", "not yet", "so what"] } ] },
+{
+  "expression": "me neither",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree with a negative statement someone has just made",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c02_u009",
+      "answer": "me neither",
+      "options": [
+        "me neither",
+        "me too",
+        "not yet",
+        "so what"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go with", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to choose one option among several",
-    "exchanges": [
-      { "uid": "s01_e08_c08_u005", "answer": "go with",
-        "options": ["go with", "put on", "get by", "take off"] },
-      { "uid": "s01_e08_c08_u015", "answer": "go with",
-        "options": ["go with", "look at", "hand in", "turn up"] } ] },
+{
+  "expression": "go with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose one option among several",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c08_u005",
+      "answer": "go with",
+      "options": [
+        "go with",
+        "put on",
+        "get by",
+        "take off"
+      ]
+    },
+    {
+      "uid": "s01_e08_c08_u015",
+      "answer": "go with",
+      "options": [
+        "go with",
+        "look at",
+        "hand in",
+        "turn up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "used to add a new point or change the subject",
-    "exchanges": [ { "uid": "s01_e08_c13_u012", "answer": "By the way",
-      "options": ["By the way", "In the end", "On the side", "At the time"] } ] },
+{
+  "expression": "by the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to add a new point or change the subject",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c13_u012",
+      "answer": "By the way",
+      "options": [
+        "By the way",
+        "In the end",
+        "On the side",
+        "At the time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gross", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "disgusting or very unpleasant",
-    "exchanges": [ { "uid": "s01_e08_c03_u016", "answer": "gross",
-      "options": ["gross", "plain", "fancy", "crisp"] } ] },
+{
+  "expression": "gross",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "disgusting or very unpleasant",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c03_u016",
+      "answer": "gross",
+      "options": [
+        "gross",
+        "plain",
+        "fancy",
+        "crisp"
+      ]
+    }
+  ]
+},
 
-  { "expression": "weird", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "strange and hard to explain",
-    "exchanges": [ { "uid": "s01_e08_c04_u010", "answer": "weird",
-      "options": ["weird", "loud", "quick", "cheap"] } ] },
+{
+  "expression": "weird",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "strange and hard to explain",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c04_u010",
+      "answer": "weird",
+      "options": [
+        "weird",
+        "loud",
+        "quick",
+        "cheap"
+      ]
+    }
+  ]
+},
 
-  { "expression": "that sucks", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show sympathy that something bad happened",
-    "exchanges": [ { "uid": "s01_e08_c04_u008", "answer": "that sucks",
-      "options": ["that sucks", "that counts", "that works", "that rocks"] } ] },
+{
+  "expression": "that sucks",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show sympathy that something bad happened",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c04_u008",
+      "answer": "that sucks",
+      "options": [
+        "that sucks",
+        "that counts",
+        "that works",
+        "that rocks"
+      ]
+    }
+  ]
+},
 
-  { "expression": "now and then", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "occasionally; sometimes but not often",
-    "exchanges": [ { "uid": "s01_e08_c04_u014", "answer": "now and then",
-      "options": ["now and then", "up and down", "back and forth", "in and out"] } ] },
+{
+  "expression": "now and then",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "occasionally; sometimes but not often",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c04_u014",
+      "answer": "now and then",
+      "options": [
+        "now and then",
+        "up and down",
+        "back and forth",
+        "in and out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "predictable", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "behaving in a way that everyone can expect in advance",
-    "exchanges": [ { "uid": "s01_e08_c06_u009", "answer": "predictable",
-      "options": ["predictable", "profitable", "presentable", "portable"] } ] },
+{
+  "expression": "predictable",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "behaving in a way that everyone can expect in advance",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c06_u009",
+      "answer": "predictable",
+      "options": [
+        "predictable",
+        "profitable",
+        "presentable",
+        "portable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drive someone crazy", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to annoy someone very much over a long time",
-    "exchanges": [ { "uid": "s01_e08_c11_u043", "answer": "drove you crazy",
-      "options": ["drove you crazy", "made you proud", "kept you busy", "left you cold"] } ] },
+{
+  "expression": "drive someone crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to annoy someone very much over a long time",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u043",
+      "answer": "drove you crazy",
+      "options": [
+        "drove you crazy",
+        "made you proud",
+        "kept you busy",
+        "left you cold"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grown-up", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "an adult, used especially when speaking to or about children",
-    "exchanges": [ { "uid": "s01_e08_c12_u004", "answer": "grown-ups",
-      "options": ["grown-ups", "drop-outs", "stand-ins", "has-beens"] } ] },
+{
+  "expression": "grown-up",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an adult, used especially when speaking to or about children",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c12_u004",
+      "answer": "grown-ups",
+      "options": [
+        "grown-ups",
+        "drop-outs",
+        "stand-ins",
+        "has-beens"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it quick", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "do something fast without wasting time",
-    "exchanges": [ { "uid": "s01_e08_c02_u025", "answer": "make it quick",
-      "options": ["make it quick", "take it easy", "keep it down", "give it back"] } ] },
+{
+  "expression": "make it quick",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "do something fast without wasting time",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c02_u025",
+      "answer": "make it quick",
+      "options": [
+        "make it quick",
+        "take it easy",
+        "keep it down",
+        "give it back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "casket", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a box in which a dead body is buried",
-    "exchanges": [ { "uid": "s01_e08_c05_u001", "answer": "casket",
-      "options": ["casket", "chapel", "cabinet", "curtain"] } ] },
+{
+  "expression": "casket",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a box in which a dead body is buried",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c05_u001",
+      "answer": "casket",
+      "options": [
+        "casket",
+        "chapel",
+        "cabinet",
+        "curtain"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of someone's league", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "too attractive or impressive for someone to have a chance with",
-    "exchanges": [ { "uid": "s01_e08_c07_u014", "answer": "out of your league",
-      "options": ["out of your league", "off of your list", "out of your hands", "on top of things"] } ] },
+{
+  "expression": "out of someone's league",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "too attractive or impressive for someone to have a chance with",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c07_u014",
+      "answer": "out of your league",
+      "options": [
+        "out of your league",
+        "off of your list",
+        "out of your hands",
+        "on top of things"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reception", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a social gathering with food and drink held after a ceremony",
-    "exchanges": [ { "uid": "s01_e08_c10_u008", "answer": "reception",
-      "options": ["reception", "audition", "interview", "convention"] } ] },
+{
+  "expression": "reception",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a social gathering with food and drink held after a ceremony",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c10_u008",
+      "answer": "reception",
+      "options": [
+        "reception",
+        "audition",
+        "interview",
+        "convention"
+      ]
+    }
+  ]
+},
 
-  { "expression": "all over again", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "from the beginning, one more time",
-    "exchanges": [ { "uid": "s01_e08_c11_u041", "answer": "all over again",
-      "options": ["all over again", "all in all", "all the more", "all too well"] } ] },
+{
+  "expression": "all over again",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "from the beginning, one more time",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u041",
+      "answer": "all over again",
+      "options": [
+        "all over again",
+        "all in all",
+        "all the more",
+        "all too well"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get at", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to try to say or suggest something indirectly",
-    "exchanges": [ { "uid": "s01_e08_c11_u044", "answer": "getting at",
-      "options": ["getting at", "putting on", "taking in", "going off"] } ] },
+{
+  "expression": "get at",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try to say or suggest something indirectly",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u044",
+      "answer": "getting at",
+      "options": [
+        "getting at",
+        "putting on",
+        "taking in",
+        "going off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "got me", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "I have no idea",
-    "exchanges": [ { "uid": "s01_e08_c12_u006", "answer": "Got me",
-      "options": ["Got me", "Try me", "Bite me", "Watch me"] } ] },
+{
+  "expression": "got me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I have no idea",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c12_u006",
+      "answer": "Got me",
+      "options": [
+        "Got me",
+        "Try me",
+        "Bite me",
+        "Watch me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fascinating", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "extremely interesting, here said sarcastically",
-    "exchanges": [ { "uid": "s01_e08_c02_u013", "answer": "fascinating",
-      "options": ["fascinating", "forgiving", "fattening", "fleeting"] } ] },
+{
+  "expression": "fascinating",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely interesting, here said sarcastically",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c02_u013",
+      "answer": "fascinating",
+      "options": [
+        "fascinating",
+        "forgiving",
+        "fattening",
+        "fleeting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a day of it", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to spend the whole day enjoying an activity or outing",
-    "exchanges": [ { "uid": "s01_e08_c06_u007", "answer": "a day of it",
-      "options": ["a day of it", "a hand in it", "a word on it", "a lot to it"] } ] },
+{
+  "expression": "make a day of it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to spend the whole day enjoying an activity or outing",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c06_u007",
+      "answer": "a day of it",
+      "options": [
+        "a day of it",
+        "a hand in it",
+        "a word on it",
+        "a lot to it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "find one's bearings", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to work out where you are or what you should do",
-    "exchanges": [ { "uid": "s01_e08_c09_u004", "answer": "find my bearings",
-      "options": ["find my bearings", "keep my temper", "hold my tongue", "mind my manners"] } ] },
+{
+  "expression": "find one's bearings",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to work out where you are or what you should do",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c09_u004",
+      "answer": "find my bearings",
+      "options": [
+        "find my bearings",
+        "keep my temper",
+        "hold my tongue",
+        "mind my manners"
+      ]
+    }
+  ]
+},
 
-  { "expression": "better left unsaid", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "it is wiser not to say something, even if it is true",
-    "exchanges": [ { "uid": "s01_e08_c11_u046", "answer": "better left unsaid",
-      "options": ["better left unsaid", "better off dead", "better than nothing", "better late than never"] } ] },
+{
+  "expression": "better left unsaid",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "it is wiser not to say something, even if it is true",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u046",
+      "answer": "better left unsaid",
+      "options": [
+        "better left unsaid",
+        "better off dead",
+        "better than nothing",
+        "better late than never"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to die, used as a gentle way of saying it",
-    "exchanges": [ { "uid": "s01_e08_c03_u030", "answer": "passed", "responseUid": "s01_e08_c03_u032",
-      "options": ["passed", "landed", "spoken", "risen"] } ] },
+{
+  "expression": "pass",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to die, used as a gentle way of saying it",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c03_u030",
+      "answer": "passed",
+      "responseUid": "s01_e08_c03_u032",
+      "options": [
+        "passed",
+        "landed",
+        "spoken",
+        "risen"
+      ]
+    }
+  ]
+},
 
-  { "expression": "believe you me", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "used to insist strongly that what you are saying is true",
-    "exchanges": [ { "uid": "s01_e08_c07_u015", "answer": "Believe you me",
-      "options": ["Believe you me", "Tell you what", "Hear you out", "Mind you though"] } ] },
+{
+  "expression": "believe you me",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "used to insist strongly that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c07_u015",
+      "answer": "Believe you me",
+      "options": [
+        "Believe you me",
+        "Tell you what",
+        "Hear you out",
+        "Mind you though"
+      ]
+    }
+  ]
+},
 
-  { "expression": "life-affirming", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "making you feel positive and hopeful about life",
-    "exchanges": [ { "uid": "s01_e08_c11_u040", "answer": "life-affirming",
-      "options": ["life-affirming", "self-serving", "time-consuming", "mind-numbing"] } ] }
+{
+  "expression": "life-affirming",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "making you feel positive and hopeful about life",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u040",
+      "answer": "life-affirming",
+      "options": [
+        "life-affirming",
+        "self-serving",
+        "time-consuming",
+        "mind-numbing"
+      ]
+    }
+  ]
+}
 ]

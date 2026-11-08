@@ -1,126 +1,504 @@
 [
-  { "expression": "no way", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to say that something is impossible or will definitely not happen",
-    "exchanges": [ { "uid": "s05_e24_c04_u005", "answer": "no way",
-      "options": ["no way", "no end", "no place", "no point"] } ] },
+{
+  "expression": "no way",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something is impossible or will definitely not happen",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c04_u005",
+      "answer": "no way",
+      "options": [
+        "no way",
+        "no end",
+        "no place",
+        "no point"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get out of here", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "to leave a place, usually quickly because you are upset or in a hurry",
-    "exchanges": [ { "uid": "s05_e24_c05_u002", "answer": "Get out of here",
-      "options": ["Get out of here", "Come over here", "Sit down right here", "Put that down here"] } ] },
+{
+  "expression": "get out of here",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave a place, usually quickly because you are upset or in a hurry",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c05_u002",
+      "answer": "Get out of here",
+      "options": [
+        "Get out of here",
+        "Come over here",
+        "Sit down right here",
+        "Put that down here"
+      ]
+    }
+  ]
+},
 
-  { "expression": "how you doin'", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "a casual spoken way of asking 'how are you?', often used as a flirtatious greeting",
-    "exchanges": [ { "uid": "s05_e24_c03_u006", "answer": "How you doin'",
-      "options": ["How you doin'", "What you sayin'", "Where you goin'", "Who you callin'"] } ] },
+{
+  "expression": "how you doin'",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual spoken way of asking 'how are you?', often used as a flirtatious greeting",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c03_u006",
+      "answer": "How you doin'",
+      "options": [
+        "How you doin'",
+        "What you sayin'",
+        "Where you goin'",
+        "Who you callin'"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be mad at", "type": "phrase", "level": "elementary", "pos": "expression",
-    "meaning": "to be angry with someone",
-    "exchanges": [ { "uid": "s05_e24_c05_u005", "answer": "mad at",
-      "options": ["mad at", "far from", "late for", "safe with"] } ] },
+{
+  "expression": "be mad at",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be angry with someone",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c05_u005",
+      "answer": "mad at",
+      "options": [
+        "mad at",
+        "far from",
+        "late for",
+        "safe with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "that'll work", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to accept that something is good enough for the purpose",
-    "exchanges": [ { "uid": "s05_e24_c13_u008", "answer": "That'll work",
-      "options": ["That'll work", "That'll hurt", "That'll wait", "That'll change"] } ] },
+{
+  "expression": "that'll work",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept that something is good enough for the purpose",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c13_u008",
+      "answer": "That'll work",
+      "options": [
+        "That'll work",
+        "That'll hurt",
+        "That'll wait",
+        "That'll change"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get back to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to return to an activity you were doing before being interrupted",
-    "exchanges": [ { "uid": "s05_e24_c06_u011", "answer": "get back to",
-      "options": ["get back to", "look up to", "run out of", "put up with"] } ] },
+{
+  "expression": "get back to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return to an activity you were doing before being interrupted",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c06_u011",
+      "answer": "get back to",
+      "options": [
+        "get back to",
+        "look up to",
+        "run out of",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "love of your life", "type": "colloquial", "level": "middle", "pos": "noun",
-    "meaning": "the person someone loves more than anyone else",
-    "exchanges": [ { "uid": "s05_e24_c02_u007", "answer": "love of your life",
-      "options": ["love of your life", "man of the house", "talk of the town", "light of your day"] } ] },
+{
+  "expression": "love of your life",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the person someone loves more than anyone else",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c02_u007",
+      "answer": "love of your life",
+      "options": [
+        "love of your life",
+        "man of the house",
+        "talk of the town",
+        "light of your day"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mean nothing to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be unimportant to someone",
-    "exchanges": [ { "uid": "s05_e24_c02_u006", "answer": "means nothing to",
-      "options": ["means nothing to", "says little about", "does everything for", "owes something to"] } ] },
+{
+  "expression": "mean nothing to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be unimportant to someone",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c02_u006",
+      "answer": "means nothing to",
+      "options": [
+        "means nothing to",
+        "says little about",
+        "does everything for",
+        "owes something to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "chop off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to cut something off with a heavy blow",
-    "exchanges": [ { "uid": "s05_e24_c14_u015", "answer": "chop off",
-      "options": ["chop off", "wrap up", "pull in", "shake out"] } ] },
+{
+  "expression": "chop off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to cut something off with a heavy blow",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c14_u015",
+      "answer": "chop off",
+      "options": [
+        "chop off",
+        "wrap up",
+        "pull in",
+        "shake out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "efficient", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "working well and quickly without wasting time or effort",
-    "exchanges": [ { "uid": "s05_e24_c13_u004", "answer": "efficient",
-      "options": ["efficient", "deficient", "sufficient", "ancient"] } ] },
+{
+  "expression": "efficient",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "working well and quickly without wasting time or effort",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c13_u004",
+      "answer": "efficient",
+      "options": [
+        "efficient",
+        "deficient",
+        "sufficient",
+        "ancient"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cooperate", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to work together with someone willingly to achieve something",
-    "exchanges": [ { "uid": "s05_e24_c11_u012", "answer": "cooperate", "cueUid": "s05_e24_c11_u009",
-      "options": ["cooperate", "celebrate", "evaporate", "decorate"] } ] },
+{
+  "expression": "cooperate",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to work together with someone willingly to achieve something",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c11_u012",
+      "answer": "cooperate",
+      "cueUid": "s05_e24_c11_u009",
+      "options": [
+        "cooperate",
+        "celebrate",
+        "evaporate",
+        "decorate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cross the line", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to move past a boundary into a new or riskier stage of a relationship or behavior",
-    "exchanges": [ { "uid": "s05_e24_c01_u016", "answer": "crossed a line",
-      "options": ["crossed a line", "drawn a blank", "turned a page", "missed a beat"] } ] },
+{
+  "expression": "cross the line",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to move past a boundary into a new or riskier stage of a relationship or behavior",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c01_u016",
+      "answer": "crossed a line",
+      "options": [
+        "crossed a line",
+        "drawn a blank",
+        "turned a page",
+        "missed a beat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay out", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "(of a machine or scheme) to give money as winnings",
-    "exchanges": [ { "uid": "s05_e24_c01_u026", "answer": "paid out",
-      "options": ["paid out", "held up", "run down", "gone off"] } ] },
+{
+  "expression": "pay out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "(of a machine or scheme) to give money as winnings",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c01_u026",
+      "answer": "paid out",
+      "options": [
+        "paid out",
+        "held up",
+        "run down",
+        "gone off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gold mine", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "something that produces a lot of money or value",
-    "exchanges": [ { "uid": "s05_e24_c01_u050", "answer": "gold mine",
-      "options": ["gold mine", "dead end", "long shot", "free ride"] } ] },
+{
+  "expression": "gold mine",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something that produces a lot of money or value",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c01_u050",
+      "answer": "gold mine",
+      "options": [
+        "gold mine",
+        "dead end",
+        "long shot",
+        "free ride"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on fire", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "performing extremely well and succeeding at everything",
-    "exchanges": [ { "uid": "s05_e24_c02_u002", "answer": "on fire",
-      "options": ["on fire", "in line", "at bay", "off track"] } ] },
+{
+  "expression": "on fire",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "performing extremely well and succeeding at everything",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c02_u002",
+      "answer": "on fire",
+      "options": [
+        "on fire",
+        "in line",
+        "at bay",
+        "off track"
+      ]
+    }
+  ]
+},
 
-  { "expression": "overcharge", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to make someone pay too much for something",
-    "exchanges": [ { "uid": "s05_e24_c04_u013", "answer": "overcharge",
-      "options": ["overcharge", "overlook", "overhear", "overrule"] } ] },
+{
+  "expression": "overcharge",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone pay too much for something",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c04_u013",
+      "answer": "overcharge",
+      "options": [
+        "overcharge",
+        "overlook",
+        "overhear",
+        "overrule"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'll tell you what", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to introduce a suggestion or offer",
-    "exchanges": [ { "uid": "s05_e24_c08_u029", "answer": "I tell you what",
-      "options": ["I tell you what", "I show you how", "I ask you why", "I give you that"] } ] },
+{
+  "expression": "I'll tell you what",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to introduce a suggestion or offer",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c08_u029",
+      "answer": "I tell you what",
+      "options": [
+        "I tell you what",
+        "I show you how",
+        "I ask you why",
+        "I give you that"
+      ]
+    }
+  ]
+},
 
-  { "expression": "your call", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "it is your decision to make",
-    "exchanges": [ { "uid": "s05_e24_c09_u017", "answer": "your call",
-      "options": ["your call", "your fault", "your loss", "your word"] } ] },
+{
+  "expression": "your call",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "it is your decision to make",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c09_u017",
+      "answer": "your call",
+      "options": [
+        "your call",
+        "your fault",
+        "your loss",
+        "your word"
+      ]
+    }
+  ]
+},
 
-  { "expression": "one step ahead", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "slightly in advance of someone, so that they cannot beat you",
-    "exchanges": [ { "uid": "s05_e24_c10_u007", "answer": "one step ahead", "cueUid": "s05_e24_c10_u005",
-      "options": ["one step ahead", "one foot behind", "one hand short", "one mile away"] } ] },
+{
+  "expression": "one step ahead",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "slightly in advance of someone, so that they cannot beat you",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c10_u007",
+      "answer": "one step ahead",
+      "cueUid": "s05_e24_c10_u005",
+      "options": [
+        "one step ahead",
+        "one foot behind",
+        "one hand short",
+        "one mile away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get a room", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said jokingly to a couple who are showing too much affection in public",
-    "exchanges": [ { "uid": "s05_e24_c05_u007", "answer": "get a room",
-      "options": ["get a room", "take a bow", "make a call", "have a seat"] } ] },
+{
+  "expression": "get a room",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said jokingly to a couple who are showing too much affection in public",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c05_u007",
+      "answer": "get a room",
+      "options": [
+        "get a room",
+        "take a bow",
+        "make a call",
+        "have a seat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "impartial", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "not favouring either side in a dispute; fair",
-    "exchanges": [ { "uid": "s05_e24_c14_u012", "answer": "impartial",
-      "options": ["impartial", "immortal", "imperial", "impatient"] } ] },
+{
+  "expression": "impartial",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not favouring either side in a dispute; fair",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c14_u012",
+      "answer": "impartial",
+      "options": [
+        "impartial",
+        "immortal",
+        "imperial",
+        "impatient"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a hike", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "a rude way of telling someone to go away",
-    "exchanges": [ { "uid": "s05_e24_c12_u004", "answer": "Take a hike",
-      "options": ["Take a hike", "Have a ball", "Make a wish", "Give a hand"] } ] },
+{
+  "expression": "take a hike",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a rude way of telling someone to go away",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c12_u004",
+      "answer": "Take a hike",
+      "options": [
+        "Take a hike",
+        "Have a ball",
+        "Make a wish",
+        "Give a hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit me", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "in blackjack, a request to the dealer for another card",
-    "exchanges": [ { "uid": "s05_e24_c07_u004", "answer": "Hit me",
-      "options": ["Hit me", "Call me", "Beat me", "Show me"] } ] },
+{
+  "expression": "hit me",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "in blackjack, a request to the dealer for another card",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c07_u004",
+      "answer": "Hit me",
+      "options": [
+        "Hit me",
+        "Call me",
+        "Beat me",
+        "Show me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "swoop in", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to move in quickly and suddenly to take an opportunity",
-    "exchanges": [ { "uid": "s05_e24_c01_u028", "answer": "swoop in", "responseUid": "s05_e24_c01_u031",
-      "options": ["swoop in", "drift by", "creep out", "march off"] } ] },
+{
+  "expression": "swoop in",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to move in quickly and suddenly to take an opportunity",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c01_u028",
+      "answer": "swoop in",
+      "responseUid": "s05_e24_c01_u031",
+      "options": [
+        "swoop in",
+        "drift by",
+        "creep out",
+        "march off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hell hole", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "an extremely unpleasant place",
-    "exchanges": [ { "uid": "s05_e24_c12_u015", "answer": "hell hole",
-      "options": ["hell hole", "dead zone", "fire pit", "mud bath"] } ] }
+{
+  "expression": "hell hole",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an extremely unpleasant place",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c12_u015",
+      "answer": "hell hole",
+      "options": [
+        "hell hole",
+        "dead zone",
+        "fire pit",
+        "mud bath"
+      ]
+    }
+  ]
+}
 ]

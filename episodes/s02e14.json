@@ -1,132 +1,524 @@
 [
-  { "expression": "pay back", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to return money that you borrowed from someone",
-    "exchanges": [
-      { "uid": "s02_e14_c01_u008", "answer": "payin' you back",
-        "options": ["payin' you back", "lettin' you down", "holdin' you up", "puttin' you off"] },
-      { "uid": "s02_e14_c10_u002", "answer": "pay me back",
-        "options": ["pay me back", "let me down", "hold me up", "put me off"] } ] },
+{
+  "expression": "pay back",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to return money that you borrowed from someone",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c01_u008",
+      "answer": "payin' you back",
+      "options": [
+        "payin' you back",
+        "lettin' you down",
+        "holdin' you up",
+        "puttin' you off"
+      ]
+    },
+    {
+      "uid": "s02_e14_c10_u002",
+      "answer": "pay me back",
+      "options": [
+        "pay me back",
+        "let me down",
+        "hold me up",
+        "put me off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you got it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to agree to do what someone has just asked or suggested",
-    "exchanges": [ { "uid": "s02_e14_c02_u009", "answer": "You got it",
-      "options": ["You got it", "You made it", "You took it", "You had it"] } ] },
+{
+  "expression": "you got it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree to do what someone has just asked or suggested",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c02_u009",
+      "answer": "You got it",
+      "options": [
+        "You got it",
+        "You made it",
+        "You took it",
+        "You had it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when saying goodbye to wish someone well",
-    "exchanges": [ { "uid": "s02_e14_c06_u009", "answer": "Take care",
-      "options": ["Take care", "Make sure", "Hold tight", "Keep up"] } ] },
+{
+  "expression": "take care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when saying goodbye to wish someone well",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c06_u009",
+      "answer": "Take care",
+      "options": [
+        "Take care",
+        "Make sure",
+        "Hold tight",
+        "Keep up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "right away", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "immediately, without any delay",
-    "exchanges": [ { "uid": "s02_e14_c03_u017", "answer": "right away",
-      "options": ["right away", "all along", "far ahead", "just now"] } ] },
+{
+  "expression": "right away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "immediately, without any delay",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c03_u017",
+      "answer": "right away",
+      "options": [
+        "right away",
+        "all along",
+        "far ahead",
+        "just now"
+      ]
+    }
+  ]
+},
 
-  { "expression": "special occasion", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "an important event or celebration that does not happen often",
-    "exchanges": [ { "uid": "s02_e14_c01_u017", "answer": "special occasion",
-      "options": ["special occasion", "normal weekday", "quick break", "common habit"] } ] },
+{
+  "expression": "special occasion",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an important event or celebration that does not happen often",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c01_u017",
+      "answer": "special occasion",
+      "options": [
+        "special occasion",
+        "normal weekday",
+        "quick break",
+        "common habit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good to go", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "ready to start or to leave, with nothing more needed",
-    "exchanges": [ { "uid": "s02_e14_c01_u018", "answer": "good to go",
-      "options": ["good to go", "fit to fly", "set to stay", "hard to get"] } ] },
+{
+  "expression": "good to go",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "ready to start or to leave, with nothing more needed",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c01_u018",
+      "answer": "good to go",
+      "options": [
+        "good to go",
+        "fit to fly",
+        "set to stay",
+        "hard to get"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in person", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "by being physically present yourself, rather than on paper or by phone",
-    "exchanges": [ { "uid": "s02_e14_c02_u006", "answer": "in person",
-      "options": ["in person", "on time", "by hand", "at once"] } ] },
+{
+  "expression": "in person",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "by being physically present yourself, rather than on paper or by phone",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c02_u006",
+      "answer": "in person",
+      "options": [
+        "in person",
+        "on time",
+        "by hand",
+        "at once"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang in there", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "keep going and do not give up during a difficult time",
-    "exchanges": [ { "uid": "s02_e14_c03_u007", "answer": "Hang in there",
-      "options": ["Hang in there", "Run over there", "Sit down there", "Look up there"] } ] },
+{
+  "expression": "hang in there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "keep going and do not give up during a difficult time",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c03_u007",
+      "answer": "Hang in there",
+      "options": [
+        "Hang in there",
+        "Run over there",
+        "Sit down there",
+        "Look up there"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lend", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to give someone money or a thing for a time, expecting to get it back",
-    "exchanges": [
-      { "uid": "s02_e14_c03_u016", "answer": "lend",
-        "options": ["lend", "owe", "earn", "spend"] },
-      { "uid": "s02_e14_c08_u009", "answer": "lend",
-        "options": ["lend", "owe", "charge", "spend"] } ] },
+{
+  "expression": "lend",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give someone money or a thing for a time, expecting to get it back",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c03_u016",
+      "answer": "lend",
+      "options": [
+        "lend",
+        "owe",
+        "earn",
+        "spend"
+      ]
+    },
+    {
+      "uid": "s02_e14_c08_u009",
+      "answer": "lend",
+      "options": [
+        "lend",
+        "owe",
+        "charge",
+        "spend"
+      ]
+    }
+  ]
+},
 
-  { "expression": "split up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a marriage or romantic relationship",
-    "exchanges": [ { "uid": "s02_e14_c04_u013", "answer": "splitting up",
-      "options": ["splitting up", "showing off", "running out", "settling down"] } ] },
+{
+  "expression": "split up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a marriage or romantic relationship",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c04_u013",
+      "answer": "splitting up",
+      "options": [
+        "splitting up",
+        "showing off",
+        "running out",
+        "settling down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to laugh at or joke about someone in an unkind way",
-    "exchanges": [ { "uid": "s02_e14_c07_u005", "answer": "made fun of",
-      "options": ["made fun of", "took care of", "got rid of", "kept track of"] } ] },
+{
+  "expression": "make fun of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to laugh at or joke about someone in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c07_u005",
+      "answer": "made fun of",
+      "options": [
+        "made fun of",
+        "took care of",
+        "got rid of",
+        "kept track of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "might as well", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to suggest doing something because there is no better option",
-    "exchanges": [ { "uid": "s02_e14_c03_u018", "answer": "might as well",
-      "options": ["might as well", "may as much", "can as far", "will as long"] } ] },
+{
+  "expression": "might as well",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to suggest doing something because there is no better option",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c03_u018",
+      "answer": "might as well",
+      "options": [
+        "might as well",
+        "may as much",
+        "can as far",
+        "will as long"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flashy", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "bright, expensive-looking and designed to attract attention",
-    "exchanges": [ { "uid": "s02_e14_c03_u021", "answer": "flashy", "responseUid": "s02_e14_c03_u023",
-      "options": ["flashy", "fluffy", "flimsy", "filthy"] } ] },
+{
+  "expression": "flashy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "bright, expensive-looking and designed to attract attention",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c03_u021",
+      "answer": "flashy",
+      "responseUid": "s02_e14_c03_u023",
+      "options": [
+        "flashy",
+        "fluffy",
+        "flimsy",
+        "filthy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "God forbid", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to stress that you hope something will never happen, often sarcastically",
-    "exchanges": [ { "uid": "s02_e14_c04_u010", "answer": "God forbid",
-      "options": ["God forbid", "Lord willing", "Heaven sent", "Devil knows"] } ] },
+{
+  "expression": "God forbid",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to stress that you hope something will never happen, often sarcastically",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c04_u010",
+      "answer": "God forbid",
+      "options": [
+        "God forbid",
+        "Lord willing",
+        "Heaven sent",
+        "Devil knows"
+      ]
+    }
+  ]
+},
 
-  { "expression": "budge", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to move even slightly, usually said of someone who refuses to",
-    "exchanges": [ { "uid": "s02_e14_c06_u004", "answer": "budge", "responseUid": null,
-      "options": ["budge", "bother", "bounce", "bloom"] } ] },
+{
+  "expression": "budge",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to move even slightly, usually said of someone who refuses to",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c06_u004",
+      "answer": "budge",
+      "responseUid": null,
+      "options": [
+        "budge",
+        "bother",
+        "bounce",
+        "bloom"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crack up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone laugh a lot",
-    "exchanges": [ { "uid": "s02_e14_c08_u007", "answer": "cracks you up",
-      "options": ["cracks you up", "lets you down", "puts you off", "ties you up"] } ] },
+{
+  "expression": "crack up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone laugh a lot",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c08_u007",
+      "answer": "cracks you up",
+      "options": [
+        "cracks you up",
+        "lets you down",
+        "puts you off",
+        "ties you up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "to begin with", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "from the very start, before anything else happened",
-    "exchanges": [ { "uid": "s02_e14_c09_u004", "answer": "to begin with",
-      "options": ["to begin with", "to come by", "to end up", "to go on"] } ] },
+{
+  "expression": "to begin with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "from the very start, before anything else happened",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c09_u004",
+      "answer": "to begin with",
+      "options": [
+        "to begin with",
+        "to come by",
+        "to end up",
+        "to go on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get out", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when you are surprised and do not quite believe a compliment or news",
-    "exchanges": [ { "uid": "s02_e14_c09_u012", "answer": "Get out",
-      "options": ["Get out", "Hang up", "Sit down", "Look back"] } ] },
+{
+  "expression": "get out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you are surprised and do not quite believe a compliment or news",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c09_u012",
+      "answer": "Get out",
+      "options": [
+        "Get out",
+        "Hang up",
+        "Sit down",
+        "Look back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "harsh", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "unpleasantly severe or unfair",
-    "exchanges": [ { "uid": "s02_e14_c10_u065", "answer": "harsh",
-      "options": ["harsh", "hush", "hoarse", "husky"] } ] },
+{
+  "expression": "harsh",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unpleasantly severe or unfair",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c10_u065",
+      "answer": "harsh",
+      "options": [
+        "harsh",
+        "hush",
+        "hoarse",
+        "husky"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make rent", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to have enough money to pay the rent for your home",
-    "exchanges": [ { "uid": "s02_e14_c03_u015", "answer": "make rent",
-      "options": ["make rent", "do time", "take stock", "lose face"] } ] },
+{
+  "expression": "make rent",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have enough money to pay the rent for your home",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c03_u015",
+      "answer": "make rent",
+      "options": [
+        "make rent",
+        "do time",
+        "take stock",
+        "lose face"
+      ]
+    }
+  ]
+},
 
-  { "expression": "eyesore", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "something very ugly that spoils the look of everything around it",
-    "exchanges": [ { "uid": "s02_e14_c05_u009", "answer": "eyesore",
-      "options": ["eyesore", "eyelid", "eyewitness", "eyeliner"] } ] },
+{
+  "expression": "eyesore",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something very ugly that spoils the look of everything around it",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c05_u009",
+      "answer": "eyesore",
+      "options": [
+        "eyesore",
+        "eyelid",
+        "eyewitness",
+        "eyeliner"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sporting", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "wearing or showing off something noticeable",
-    "exchanges": [ { "uid": "s02_e14_c05_u011", "answer": "sporting", "responseUid": "s02_e14_c05_u013",
-      "options": ["sporting", "spotting", "sorting", "spouting"] } ] },
+{
+  "expression": "sporting",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "wearing or showing off something noticeable",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c05_u011",
+      "answer": "sporting",
+      "responseUid": "s02_e14_c05_u013",
+      "options": [
+        "sporting",
+        "spotting",
+        "sorting",
+        "spouting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dip into", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to spend part of the money you have been saving",
-    "exchanges": [ { "uid": "s02_e14_c08_u018", "answer": "dips into",
-      "options": ["dips into", "runs after", "looks over", "pulls through"] } ] },
+{
+  "expression": "dip into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to spend part of the money you have been saving",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c08_u018",
+      "answer": "dips into",
+      "options": [
+        "dips into",
+        "runs after",
+        "looks over",
+        "pulls through"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a chill pill", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "calm down and stop getting upset",
-    "exchanges": [ { "uid": "s02_e14_c10_u052", "answer": "take a chill pill",
-      "options": ["take a chill pill", "take a rain check", "take a deep step", "take a long shot"] } ] },
+{
+  "expression": "take a chill pill",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "calm down and stop getting upset",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c10_u052",
+      "answer": "take a chill pill",
+      "options": [
+        "take a chill pill",
+        "take a rain check",
+        "take a deep step",
+        "take a long shot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no slouch", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "quite good at something, better than people might expect",
-    "exchanges": [ { "uid": "s02_e14_c11_u005", "answer": "no slouch",
-      "options": ["no slouch", "no match", "no doubt", "no deal"] } ] }
+{
+  "expression": "no slouch",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "quite good at something, better than people might expect",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c11_u005",
+      "answer": "no slouch",
+      "options": [
+        "no slouch",
+        "no match",
+        "no doubt",
+        "no deal"
+      ]
+    }
+  ]
+}
 ]

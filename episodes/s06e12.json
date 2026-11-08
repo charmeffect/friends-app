@@ -1,51 +1,525 @@
 [
-  {"expression": "hard-hitting", "type": "word", "level": "expert", "pos": "adjective", "meaning": "direct, tough, and honest in dealing with serious subjects", "exchanges": [{"uid": "s06_e12_c01_u004", "answer": "hard-hitting", "options": ["hard-hitting", "heart-warming", "mind-numbing", "well-meaning"]}]},
+{
+  "expression": "hard-hitting",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "direct, tough, and honest in dealing with serious subjects",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c01_u004",
+      "answer": "hard-hitting",
+      "options": [
+        "hard-hitting",
+        "heart-warming",
+        "mind-numbing",
+        "well-meaning"
+      ]
+    }
+  ]
+},
 
-  {"expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression", "meaning": "said to make someone look at something interesting you are showing them", "exchanges": [{"uid": "s06_e12_c01_u006", "answer": "check it out", "options": ["check it out", "pick it up", "turn it down", "put it off"]}]},
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c01_u006",
+      "answer": "check it out",
+      "options": [
+        "check it out",
+        "pick it up",
+        "turn it down",
+        "put it off"
+      ]
+    }
+  ]
+},
 
-  {"expression": "tight", "type": "word", "level": "high", "pos": "adjective", "meaning": "having very little money available to spend", "exchanges": [{"uid": "s06_e12_c02_u011", "answer": "tight", "options": ["tight", "bright", "sweet", "fancy"]}]},
+{
+  "expression": "tight",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having very little money available to spend",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c02_u011",
+      "answer": "tight",
+      "options": [
+        "tight",
+        "bright",
+        "sweet",
+        "fancy"
+      ]
+    }
+  ]
+},
 
-  {"expression": "not so much", "type": "colloquial", "level": "middle", "pos": "expression", "meaning": "a humorous, understated way of saying no", "exchanges": [{"uid": "s06_e12_c02_u017", "answer": "Not so much", "responseUid": null, "options": ["Not so much", "All of a sudden", "Just in time", "Over and over"]}]},
+{
+  "expression": "not so much",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a humorous, understated way of saying no",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c02_u017",
+      "answer": "Not so much",
+      "responseUid": null,
+      "options": [
+        "Not so much",
+        "All of a sudden",
+        "Just in time",
+        "Over and over"
+      ]
+    }
+  ]
+},
 
-  {"expression": "come in handy", "type": "colloquial", "level": "high", "pos": "verb", "meaning": "to turn out to be useful at some point", "exchanges": [{"uid": "s06_e12_c03_u013", "answer": "come in handy", "options": ["come in handy", "go out cold", "turn up late", "fall in line"]}]},
+{
+  "expression": "come in handy",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to turn out to be useful at some point",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c03_u013",
+      "answer": "come in handy",
+      "options": [
+        "come in handy",
+        "go out cold",
+        "turn up late",
+        "fall in line"
+      ]
+    }
+  ]
+},
 
-  {"expression": "cut down on", "type": "phrase", "level": "middle", "pos": "verb", "meaning": "to reduce the amount of something you use, do, or buy", "exchanges": [{"uid": "s06_e12_c04_u022", "answer": "cut down on", "options": ["cut down on", "run out of", "look up to", "put up with"]}]},
+{
+  "expression": "cut down on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to reduce the amount of something you use, do, or buy",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c04_u022",
+      "answer": "cut down on",
+      "options": [
+        "cut down on",
+        "run out of",
+        "look up to",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  {"expression": "wait on", "type": "phrase", "level": "middle", "pos": "verb", "meaning": "to serve food and drinks to people, for example in a restaurant", "exchanges": [{"uid": "s06_e12_c04_u024", "answer": "wait on", "options": ["wait on", "rely on", "pick on", "count on"]}]},
+{
+  "expression": "wait on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to serve food and drinks to people, for example in a restaurant",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c04_u024",
+      "answer": "wait on",
+      "options": [
+        "wait on",
+        "rely on",
+        "pick on",
+        "count on"
+      ]
+    }
+  ]
+},
 
-  {"expression": "back out of", "type": "phrase", "level": "high", "pos": "verb", "meaning": "to withdraw from something you had agreed to or started", "exchanges": [{"uid": "s06_e12_c05_u002", "answer": "back out of", "options": ["back out of", "fall out of", "grow out of", "run out of"]}]},
+{
+  "expression": "back out of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to withdraw from something you had agreed to or started",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c05_u002",
+      "answer": "back out of",
+      "options": [
+        "back out of",
+        "fall out of",
+        "grow out of",
+        "run out of"
+      ]
+    }
+  ]
+},
 
-  {"expression": "easy-going", "type": "word", "level": "middle", "pos": "adjective", "meaning": "relaxed and not easily upset or worried", "exchanges": [{"uid": "s06_e12_c12_u014", "answer": "easy-going", "options": ["easy-going", "short-sighted", "long-winded", "old-fashioned"]}]},
+{
+  "expression": "easy-going",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "relaxed and not easily upset or worried",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c12_u014",
+      "answer": "easy-going",
+      "options": [
+        "easy-going",
+        "short-sighted",
+        "long-winded",
+        "old-fashioned"
+      ]
+    }
+  ]
+},
 
-  {"expression": "walk all over", "type": "colloquial", "level": "college", "pos": "verb", "meaning": "to treat someone badly by taking advantage of the fact that they never refuse or complain", "exchanges": [{"uid": "s06_e12_c06_u013", "answer": "walk all over", "options": ["walk all over", "look all around", "talk all about", "run all through"]}]},
+{
+  "expression": "walk all over",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to treat someone badly by taking advantage of the fact that they never refuse or complain",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c06_u013",
+      "answer": "walk all over",
+      "options": [
+        "walk all over",
+        "look all around",
+        "talk all about",
+        "run all through"
+      ]
+    }
+  ]
+},
 
-  {"expression": "crack up", "type": "colloquial", "level": "high", "pos": "verb", "meaning": "to make someone laugh a lot", "exchanges": [{"uid": "s06_e12_c07_u004", "answer": "cracks me up", "options": ["cracks me up", "calms me down", "fills me in", "holds me up"]}]},
+{
+  "expression": "crack up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone laugh a lot",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c07_u004",
+      "answer": "cracks me up",
+      "options": [
+        "cracks me up",
+        "calms me down",
+        "fills me in",
+        "holds me up"
+      ]
+    }
+  ]
+},
 
-  {"expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb", "meaning": "to spend time relaxing somewhere or with someone", "exchanges": [{"uid": "s06_e12_c08_u005", "answer": "hanging out", "options": ["hanging out", "giving up", "falling down", "moving in"]}]},
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c08_u005",
+      "answer": "hanging out",
+      "options": [
+        "hanging out",
+        "giving up",
+        "falling down",
+        "moving in"
+      ]
+    }
+  ]
+},
 
-  {"expression": "go a long way", "type": "colloquial", "level": "high", "pos": "expression", "meaning": "to be very helpful or effective in achieving something", "exchanges": [{"uid": "s06_e12_c08_u012", "answer": "goes a long way", "options": ["goes a long way", "takes a short cut", "makes a fresh start", "gets a raw deal"]}]},
+{
+  "expression": "go a long way",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be very helpful or effective in achieving something",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c08_u012",
+      "answer": "goes a long way",
+      "options": [
+        "goes a long way",
+        "takes a short cut",
+        "makes a fresh start",
+        "gets a raw deal"
+      ]
+    }
+  ]
+},
 
-  {"expression": "high maintenance", "type": "colloquial", "level": "high", "pos": "adjective", "meaning": "needing a lot of attention and effort from other people to stay happy", "exchanges": [{"uid": "s06_e12_c09_u004", "answer": "high maintenance", "cueUid": "s06_e12_c09_u002", "options": ["high maintenance", "low budget", "hard working", "well rounded"]}]},
+{
+  "expression": "high maintenance",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "needing a lot of attention and effort from other people to stay happy",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c09_u004",
+      "answer": "high maintenance",
+      "cueUid": "s06_e12_c09_u002",
+      "options": [
+        "high maintenance",
+        "low budget",
+        "hard working",
+        "well rounded"
+      ]
+    }
+  ]
+},
 
-  {"expression": "flaky", "type": "word", "level": "college", "pos": "adjective", "meaning": "unreliable and likely to forget things or change plans", "exchanges": [{"uid": "s06_e12_c09_u005", "answer": "flaky", "responseUid": null, "options": ["flaky", "sneaky", "cranky", "nosy"]}]},
+{
+  "expression": "flaky",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unreliable and likely to forget things or change plans",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c09_u005",
+      "answer": "flaky",
+      "responseUid": null,
+      "options": [
+        "flaky",
+        "sneaky",
+        "cranky",
+        "nosy"
+      ]
+    }
+  ]
+},
 
-  {"expression": "pushover", "type": "word", "level": "high", "pos": "noun", "meaning": "a person who is easily persuaded and never says no to others", "exchanges": [{"uid": "s06_e12_c09_u011", "answer": "pushover", "options": ["pushover", "takeover", "hangover", "leftover"]}, {"uid": "s06_e12_c12_u033", "answer": "pushover", "options": ["pushover", "takeover", "hangover", "leftover"]}]},
+{
+  "expression": "pushover",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who is easily persuaded and never says no to others",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c09_u011",
+      "answer": "pushover",
+      "options": [
+        "pushover",
+        "takeover",
+        "hangover",
+        "leftover"
+      ]
+    },
+    {
+      "uid": "s06_e12_c12_u033",
+      "answer": "pushover",
+      "options": [
+        "pushover",
+        "takeover",
+        "hangover",
+        "leftover"
+      ]
+    }
+  ]
+},
 
-  {"expression": "listen up", "type": "colloquial", "level": "middle", "pos": "verb", "meaning": "used to tell a group of people to pay attention to what you are about to say", "exchanges": [{"uid": "s06_e12_c10_u014", "answer": "listen up", "options": ["listen up", "cheer up", "grow up", "give up"]}]},
+{
+  "expression": "listen up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "used to tell a group of people to pay attention to what you are about to say",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c10_u014",
+      "answer": "listen up",
+      "options": [
+        "listen up",
+        "cheer up",
+        "grow up",
+        "give up"
+      ]
+    }
+  ]
+},
 
-  {"expression": "sway", "type": "word", "level": "college", "pos": "verb", "meaning": "to influence someone's opinion or decision", "exchanges": [{"uid": "s06_e12_c11_u018", "answer": "sway", "options": ["sway", "sweep", "stir", "stray"]}]},
+{
+  "expression": "sway",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to influence someone's opinion or decision",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c11_u018",
+      "answer": "sway",
+      "options": [
+        "sway",
+        "sweep",
+        "stir",
+        "stray"
+      ]
+    }
+  ]
+},
 
-  {"expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb", "meaning": "to think of an idea or plan", "exchanges": [{"uid": "s06_e12_c11_u019", "answer": "came up with", "options": ["came up with", "ran out of", "got rid of", "put up with"]}, {"uid": "s06_e12_c12_u009", "answer": "came up with", "options": ["came up with", "ran out of", "got rid of", "put up with"]}]},
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c11_u019",
+      "answer": "came up with",
+      "options": [
+        "came up with",
+        "ran out of",
+        "got rid of",
+        "put up with"
+      ]
+    },
+    {
+      "uid": "s06_e12_c12_u009",
+      "answer": "came up with",
+      "options": [
+        "came up with",
+        "ran out of",
+        "got rid of",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  {"expression": "snap at", "type": "colloquial", "level": "high", "pos": "verb", "meaning": "to speak to someone suddenly in a sharp, angry way", "exchanges": [{"uid": "s06_e12_c11_u025", "answer": "snap at", "options": ["snap at", "aim at", "knock at", "nod at"]}]},
+{
+  "expression": "snap at",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to speak to someone suddenly in a sharp, angry way",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c11_u025",
+      "answer": "snap at",
+      "options": [
+        "snap at",
+        "aim at",
+        "knock at",
+        "nod at"
+      ]
+    }
+  ]
+},
 
-  {"expression": "inflict", "type": "word", "level": "college", "pos": "verb", "meaning": "to cause someone to suffer something unpleasant such as pain", "exchanges": [{"uid": "s06_e12_c11_u033", "answer": "inflicting", "options": ["inflicting", "infecting", "indulging", "inviting"]}]},
+{
+  "expression": "inflict",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to cause someone to suffer something unpleasant such as pain",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c11_u033",
+      "answer": "inflicting",
+      "options": [
+        "inflicting",
+        "infecting",
+        "indulging",
+        "inviting"
+      ]
+    }
+  ]
+},
 
-  {"expression": "self-sufficient", "type": "word", "level": "college", "pos": "adjective", "meaning": "able to take care of yourself without help from others", "exchanges": [{"uid": "s06_e12_c12_u006", "answer": "self-sufficient", "options": ["self-sufficient", "self-centered", "self-conscious", "self-pitying"]}]},
+{
+  "expression": "self-sufficient",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "able to take care of yourself without help from others",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c12_u006",
+      "answer": "self-sufficient",
+      "options": [
+        "self-sufficient",
+        "self-centered",
+        "self-conscious",
+        "self-pitying"
+      ]
+    }
+  ]
+},
 
-  {"expression": "errand", "type": "word", "level": "middle", "pos": "noun", "meaning": "a short trip to do a small task, such as buying or delivering something", "exchanges": [{"uid": "s06_e12_c12_u025", "answer": "errand", "options": ["errand", "vow", "rumor", "refund"]}]},
+{
+  "expression": "errand",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a short trip to do a small task, such as buying or delivering something",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c12_u025",
+      "answer": "errand",
+      "options": [
+        "errand",
+        "vow",
+        "rumor",
+        "refund"
+      ]
+    }
+  ]
+},
 
-  {"expression": "in charge", "type": "phrase", "level": "middle", "pos": "expression", "meaning": "having control of or responsibility for a group or activity", "exchanges": [{"uid": "s06_e12_c12_u024", "answer": "in charge", "responseUid": "s06_e12_c12_u026", "options": ["in charge", "at risk", "on hold", "in debt"]}]},
+{
+  "expression": "in charge",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "having control of or responsibility for a group or activity",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c12_u024",
+      "answer": "in charge",
+      "responseUid": "s06_e12_c12_u026",
+      "options": [
+        "in charge",
+        "at risk",
+        "on hold",
+        "in debt"
+      ]
+    }
+  ]
+},
 
-  {"expression": "straighten out", "type": "phrase", "level": "high", "pos": "verb", "meaning": "to resolve a problem, disagreement, or confusion", "exchanges": [{"uid": "s06_e12_c12_u031", "answer": "straightened out", "options": ["straightened out", "burned out", "left out", "worn out"]}]}
+{
+  "expression": "straighten out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to resolve a problem, disagreement, or confusion",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c12_u031",
+      "answer": "straightened out",
+      "options": [
+        "straightened out",
+        "burned out",
+        "left out",
+        "worn out"
+      ]
+    }
+  ]
+}
 ]

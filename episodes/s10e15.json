@@ -1,122 +1,482 @@
 [
-  { "expression": "back and forth", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "repeatedly from one place to another and back again",
-    "exchanges": [ { "uid": "s10_e15_c01_u009", "answer": "back and forth",
-      "options": ["back and forth", "up and down", "in and out", "over and under"] } ] },
+{
+  "expression": "back and forth",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "repeatedly from one place to another and back again",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c01_u009",
+      "answer": "back and forth",
+      "options": [
+        "back and forth",
+        "up and down",
+        "in and out",
+        "over and under"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get used to", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to become familiar with something so that it no longer seems strange",
-    "exchanges": [ { "uid": "s10_e15_c02_u017", "answer": "get used to",
-      "options": ["get used to", "get rid of", "get away with", "get out of"] } ] },
+{
+  "expression": "get used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become familiar with something so that it no longer seems strange",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c02_u017",
+      "answer": "get used to",
+      "options": [
+        "get used to",
+        "get rid of",
+        "get away with",
+        "get out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s10_e15_c08_u015", "answer": "come up with",
-      "options": ["come up with", "put up with", "get away with", "catch up on"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c08_u015",
+      "answer": "come up with",
+      "options": [
+        "come up with",
+        "put up with",
+        "get away with",
+        "catch up on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "work it out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to solve a problem or settle a disagreement with someone",
-    "exchanges": [ { "uid": "s10_e15_c01_u011", "answer": "work it out",
-      "options": ["work it out", "leave it out", "call it off", "give it up"] } ] },
+{
+  "expression": "work it out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to solve a problem or settle a disagreement with someone",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c01_u011",
+      "answer": "work it out",
+      "options": [
+        "work it out",
+        "leave it out",
+        "call it off",
+        "give it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "small world", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when you unexpectedly discover a connection between you and someone else",
-    "exchanges": [ { "uid": "s10_e15_c08_u001", "answer": "small world",
-      "options": ["small world", "long story", "close call", "fine mess"] } ] },
+{
+  "expression": "small world",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you unexpectedly discover a connection between you and someone else",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c08_u001",
+      "answer": "small world",
+      "options": [
+        "small world",
+        "long story",
+        "close call",
+        "fine mess"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass away", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to die, said as a gentler way of putting it",
-    "exchanges": [ { "uid": "s10_e15_c10_u001", "answer": "passed away",
-      "options": ["passed away", "passed out", "moved away", "stepped down"] } ] },
+{
+  "expression": "pass away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to die, said as a gentler way of putting it",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c10_u001",
+      "answer": "passed away",
+      "options": [
+        "passed away",
+        "passed out",
+        "moved away",
+        "stepped down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no hard feelings", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "no anger or resentment about what happened",
-    "exchanges": [ { "uid": "s10_e15_c10_u005", "answer": "no hard feelings",
-      "options": ["no hard feelings", "no big plans", "no easy answers", "no fresh ideas"] } ] },
+{
+  "expression": "no hard feelings",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "no anger or resentment about what happened",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c10_u005",
+      "answer": "no hard feelings",
+      "options": [
+        "no hard feelings",
+        "no big plans",
+        "no easy answers",
+        "no fresh ideas"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of nowhere", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "suddenly and unexpectedly, without any warning",
-    "exchanges": [ { "uid": "s10_e15_c05_u008", "answer": "out of nowhere",
-      "options": ["out of nowhere", "out of order", "out of breath", "out of place"] } ] },
+{
+  "expression": "out of nowhere",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "suddenly and unexpectedly, without any warning",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c05_u008",
+      "answer": "out of nowhere",
+      "options": [
+        "out of nowhere",
+        "out of order",
+        "out of breath",
+        "out of place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "persuade", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to make someone agree to do something by giving them good reasons",
-    "exchanges": [ { "uid": "s10_e15_c09_u006", "answer": "persuade",
-      "options": ["persuade", "pretend", "pursue", "prevent"] } ] },
+{
+  "expression": "persuade",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone agree to do something by giving them good reasons",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c09_u006",
+      "answer": "persuade",
+      "options": [
+        "persuade",
+        "pretend",
+        "pursue",
+        "prevent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on board", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "in agreement with a plan or idea and willing to support it",
-    "exchanges": [ { "uid": "s10_e15_c01_u023", "answer": "on board",
-      "options": ["on board", "in charge", "on hold", "at ease"] } ] },
+{
+  "expression": "on board",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in agreement with a plan or idea and willing to support it",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c01_u023",
+      "answer": "on board",
+      "options": [
+        "on board",
+        "in charge",
+        "on hold",
+        "at ease"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit it off", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to like each other and become friendly as soon as you meet",
-    "exchanges": [ { "uid": "s10_e15_c01_u038", "answer": "hit it off",
-      "options": ["hit it off", "cut it out", "set it off", "put it on"] } ] },
+{
+  "expression": "hit it off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to like each other and become friendly as soon as you meet",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c01_u038",
+      "answer": "hit it off",
+      "options": [
+        "hit it off",
+        "cut it out",
+        "set it off",
+        "put it on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flip out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to suddenly become extremely angry or lose control",
-    "exchanges": [ { "uid": "s10_e15_c02_u015", "answer": "flipping out",
-      "options": ["flipping out", "chilling out", "checking out", "handing out"] } ] },
+{
+  "expression": "flip out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly become extremely angry or lose control",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c02_u015",
+      "answer": "flipping out",
+      "options": [
+        "flipping out",
+        "chilling out",
+        "checking out",
+        "handing out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let's face it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used before admitting an unpleasant truth that cannot be denied",
-    "exchanges": [ { "uid": "s10_e15_c03_u010", "answer": "let's face it",
-      "options": ["let's face it", "let's skip it", "let's drop it", "let's split it"] } ] },
+{
+  "expression": "let's face it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used before admitting an unpleasant truth that cannot be denied",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c03_u010",
+      "answer": "let's face it",
+      "options": [
+        "let's face it",
+        "let's skip it",
+        "let's drop it",
+        "let's split it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drop the ball", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make a careless mistake and fail to do something you were responsible for",
-    "exchanges": [ { "uid": "s10_e15_c04_u017", "answer": "dropped the ball",
+{
+  "expression": "drop the ball",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make a careless mistake and fail to do something you were responsible for",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c04_u017",
+      "answer": "dropped the ball",
       "responseUid": "s10_e15_c04_u019",
-      "options": ["dropped the ball", "hit the road", "broke the ice", "paid the bill"] } ] },
+      "options": [
+        "dropped the ball",
+        "hit the road",
+        "broke the ice",
+        "paid the bill"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go way back", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to have known each other for a very long time",
-    "exchanges": [ { "uid": "s10_e15_c08_u004", "answer": "go way back",
-      "options": ["go way back", "go too far", "get way ahead", "come right back"] } ] },
+{
+  "expression": "go way back",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have known each other for a very long time",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c08_u004",
+      "answer": "go way back",
+      "options": [
+        "go way back",
+        "go too far",
+        "get way ahead",
+        "come right back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hear me out", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "listen to everything I want to say before you react or decide",
-    "exchanges": [ { "uid": "s10_e15_c09_u004", "answer": "hear me out",
-      "options": ["hear me out", "hand me down", "help me up", "check me out"] } ] },
+{
+  "expression": "hear me out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "listen to everything I want to say before you react or decide",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c09_u004",
+      "answer": "hear me out",
+      "options": [
+        "hear me out",
+        "hand me down",
+        "help me up",
+        "check me out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the fence", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "unable to decide between two choices",
-    "exchanges": [ { "uid": "s10_e15_c08_u009", "answer": "on the fence",
-      "options": ["on the fence", "in the loop", "on the ball", "on the rocks"] } ] },
+{
+  "expression": "on the fence",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "unable to decide between two choices",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c08_u009",
+      "answer": "on the fence",
+      "options": [
+        "on the fence",
+        "in the loop",
+        "on the ball",
+        "on the rocks"
+      ]
+    }
+  ]
+},
 
-  { "expression": "push someone over the edge", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to make someone who is already under stress finally lose control",
-    "exchanges": [ { "uid": "s10_e15_c02_u015", "answer": "over the edge",
-      "options": ["over the edge", "under the weather", "off the hook", "out of line"] } ] },
+{
+  "expression": "push someone over the edge",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make someone who is already under stress finally lose control",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c02_u015",
+      "answer": "over the edge",
+      "options": [
+        "over the edge",
+        "under the weather",
+        "off the hook",
+        "out of line"
+      ]
+    }
+  ]
+},
 
-  { "expression": "coincidental", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "happening by chance at the same time in a way that seems surprising",
-    "exchanges": [ { "uid": "s10_e15_c04_u015", "answer": "coincidental",
-      "options": ["coincidental", "confidential", "conditional", "controversial"] } ] },
+{
+  "expression": "coincidental",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "happening by chance at the same time in a way that seems surprising",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c04_u015",
+      "answer": "coincidental",
+      "options": [
+        "coincidental",
+        "confidential",
+        "conditional",
+        "controversial"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bidding war", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "a competition in which buyers keep offering higher prices for the same thing",
-    "exchanges": [ { "uid": "s10_e15_c08_u004", "answer": "bidding war",
-      "options": ["bidding war", "pillow fight", "price tag", "food fight"] } ] },
+{
+  "expression": "bidding war",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a competition in which buyers keep offering higher prices for the same thing",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c08_u004",
+      "answer": "bidding war",
+      "options": [
+        "bidding war",
+        "pillow fight",
+        "price tag",
+        "food fight"
+      ]
+    }
+  ]
+},
 
-  { "expression": "distasteful", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "unpleasant or offensive, especially in a way that seems rude",
-    "exchanges": [ { "uid": "s10_e15_c08_u014", "answer": "distasteful",
-      "options": ["distasteful", "disposable", "disobedient", "displaced"] } ] },
+{
+  "expression": "distasteful",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unpleasant or offensive, especially in a way that seems rude",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c08_u014",
+      "answer": "distasteful",
+      "options": [
+        "distasteful",
+        "disposable",
+        "disobedient",
+        "displaced"
+      ]
+    }
+  ]
+},
 
-  { "expression": "moment of weakness", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "a brief time when you give in to something you would normally resist",
-    "exchanges": [ { "uid": "s10_e15_c11_u019", "answer": "moment of weakness",
-      "options": ["moment of weakness", "sign of respect", "point of view", "word of advice"] } ] },
+{
+  "expression": "moment of weakness",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a brief time when you give in to something you would normally resist",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c11_u019",
+      "answer": "moment of weakness",
+      "options": [
+        "moment of weakness",
+        "sign of respect",
+        "point of view",
+        "word of advice"
+      ]
+    }
+  ]
+},
 
-  { "expression": "escrow", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "an arrangement in which money or property is held by a third party until a sale is completed",
-    "exchanges": [ { "uid": "s10_e15_c02_u002", "answer": "escrow",
-      "options": ["escrow", "probate", "tenure", "custody"] } ] },
+{
+  "expression": "escrow",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an arrangement in which money or property is held by a third party until a sale is completed",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c02_u002",
+      "answer": "escrow",
+      "options": [
+        "escrow",
+        "probate",
+        "tenure",
+        "custody"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make an honest man out of someone", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to finally marry a man, especially after a long relationship",
-    "exchanges": [ { "uid": "s10_e15_c08_u004", "answer": "made an honest man",
-      "options": ["made an honest man", "made a laughing stock", "made a fresh start", "made a big mess"] } ] }
+{
+  "expression": "make an honest man out of someone",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to finally marry a man, especially after a long relationship",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c08_u004",
+      "answer": "made an honest man",
+      "options": [
+        "made an honest man",
+        "made a laughing stock",
+        "made a fresh start",
+        "made a big mess"
+      ]
+    }
+  ]
+}
 ]

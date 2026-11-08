@@ -365,7 +365,7 @@
 {
   "expression": "as opposed to",
   "type": "phrase",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "rather than; used to contrast one thing with another",
   "exchanges": [
@@ -405,7 +405,7 @@
 {
   "expression": "in a nutshell",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "said before giving a very short summary",
   "exchanges": [

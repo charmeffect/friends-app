@@ -1,78 +1,505 @@
 [
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s09_e23_c04_u016", "answer": "hang out", "options": ["hang out", "hold on", "make up", "pass out"] } ] },
-  { "expression": "for a sec", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "for a second; for a very short time",
-    "exchanges": [ { "uid": "s09_e23_c06_u020", "answer": "for a sec", "cueUid": "s09_e23_c06_u018", "options": ["for a sec", "for a change", "for a living", "for a ride"] } ] },
-  { "expression": "yeah right", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said sarcastically to show you do not believe what someone just said",
-    "exchanges": [ { "uid": "s09_e23_c06_u015", "answer": "Yeah, right", "options": ["Yeah, right", "No, thanks", "Me, too", "Oh, well"] } ] },
-  { "expression": "autograph", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a famous person's signature, written for a fan",
-    "exchanges": [ { "uid": "s09_e23_c01_u025", "answer": "autograph", "options": ["autograph", "autopsy", "paragraph", "biography"] } ] },
-  { "expression": "propose", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to ask someone to marry you",
-    "exchanges": [ { "uid": "s09_e23_c03_u009", "answer": "propose", "responseUid": "s09_e23_c03_u011", "options": ["propose", "suppose", "oppose", "compose"] } ] },
-  { "expression": "spit it out", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to tell someone to say what they want to say quickly, without hesitating",
-    "exchanges": [ { "uid": "s09_e23_c12_u006", "answer": "Spit it out", "options": ["Spit it out", "Hand it over", "Pass it on", "Turn it up"] } ] },
-  { "expression": "hit the beach", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to go to the beach",
-    "exchanges": [ { "uid": "s09_e23_c04_u025", "answer": "hit the beach", "options": ["hit the beach", "hit the roof", "hit the jackpot", "hit the books"] } ] },
-  { "expression": "grab a bite", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to have a quick, simple meal",
-    "exchanges": [ { "uid": "s09_e23_c11_u021", "answer": "grab a bite", "options": ["grab a bite", "grab a nap", "grab a pen", "grab a clue"] } ] },
-  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to leave a place suddenly or quickly",
-    "exchanges": [ { "uid": "s09_e23_c12_u036", "answer": "take off", "options": ["take off", "take over", "take up", "take in"] } ] },
-  { "expression": "honest mistake", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "an error made by accident, without any intention to cause harm or deceive",
-    "exchanges": [ { "uid": "s09_e23_c02_u010", "answer": "honest mistake", "options": ["honest mistake", "lucky guess", "bad habit", "fair trade"] } ] },
-  { "expression": "blast from the past", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "someone or something from your past that you suddenly remember or meet again",
-    "exchanges": [ { "uid": "s09_e23_c02_u009", "answer": "blast from the past", "options": ["blast from the past", "shot in the dark", "piece of cake", "fish out of water"] } ] },
-  { "expression": "step up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to take action and accept responsibility when something needs to be done",
-    "exchanges": [ { "uid": "s09_e23_c08_u002", "answer": "step up", "options": ["step up", "step down", "step out", "step off"] } ] },
-  { "expression": "stand in the way", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to prevent something from happening",
-    "exchanges": [ { "uid": "s09_e23_c08_u007", "answer": "stand in the way", "options": ["stand in the way", "get in the mood", "stay in the loop", "fall in the trap"] } ] },
-  { "expression": "bottom line", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "the most important fact or conclusion",
-    "exchanges": [ { "uid": "s09_e23_c06_u034", "answer": "bottom line", "responseUid": null, "options": ["bottom line", "front row", "back door", "top floor"] } ] },
-  { "expression": "humidity", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "the amount of water vapour in the air, which makes it feel damp",
-    "exchanges": [ { "uid": "s09_e23_c06_u006", "answer": "humidity", "options": ["humidity", "humility", "hostility", "gravity"] } ] },
-  { "expression": "make the best of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to accept a bad situation and try to get as much good out of it as you can",
-    "exchanges": [ { "uid": "s09_e23_c10_u028", "answer": "make the best of", "options": ["make the best of", "make fun of", "make a fool of", "make a habit of"] } ] },
-  { "expression": "pull some strings", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to use your influence or personal connections secretly to get something done",
-    "exchanges": [ { "uid": "s09_e23_c01_u006", "answer": "pull some strings", "options": ["pull some strings", "pick some fights", "tie some knots", "break some hearts"] } ] },
-  { "expression": "hung up on", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "unable to stop thinking or worrying about something",
-    "exchanges": [
-      { "uid": "s09_e23_c03_u001", "answer": "hung up on", "options": ["hung up on", "signed up for", "called up by", "held up by"] },
-      { "uid": "s09_e23_c05_u009", "answer": "hung up on", "options": ["hung up on", "signed up for", "called up by", "held up by"] } ] },
-  { "expression": "keynote", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the main speech at a conference, usually given by an important speaker",
-    "exchanges": [
-      { "uid": "s09_e23_c01_u023", "answer": "keynote", "options": ["keynote", "footnote", "keystone", "landmark"] },
-      { "uid": "s09_e23_c07_u038", "answer": "keynote", "options": ["keynote", "footnote", "keystone", "landmark"] } ] },
-  { "expression": "read too much into", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to believe that something has more meaning or importance than it really has",
-    "exchanges": [ { "uid": "s09_e23_c03_u002", "answer": "read too much into", "options": ["read too much into", "put too much into", "get too much into", "take too much into"] } ] },
-  { "expression": "meddle", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to become involved in something that is not your concern",
-    "exchanges": [ { "uid": "s09_e23_c08_u011", "answer": "meddle", "options": ["meddle", "peddle", "settle", "muddle"] } ] },
-  { "expression": "shortcomings", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "faults or weaknesses that make something less effective or less good",
-    "exchanges": [ { "uid": "s09_e23_c07_u046", "answer": "shortcomings", "cueUid": "s09_e23_c07_u044", "options": ["shortcomings", "shortcuts", "shortages", "shortlists"] } ] },
-  { "expression": "pasty", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "pale and unhealthy-looking, as if rarely out in the sun",
-    "exchanges": [ { "uid": "s09_e23_c01_u018", "answer": "pasty", "options": ["pasty", "hasty", "tasty", "wordy"] } ] },
-  { "expression": "outbid", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to offer more money than someone else for something, especially at an auction",
-    "exchanges": [ { "uid": "s09_e23_c07_u015", "answer": "outbid", "options": ["outbid", "outrun", "outgrow", "outlive"] } ] }
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c04_u016",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "hold on",
+        "make up",
+        "pass out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for a sec",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "for a second; for a very short time",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c06_u020",
+      "answer": "for a sec",
+      "cueUid": "s09_e23_c06_u018",
+      "options": [
+        "for a sec",
+        "for a change",
+        "for a living",
+        "for a ride"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "yeah right",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically to show you do not believe what someone just said",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c06_u015",
+      "answer": "Yeah, right",
+      "options": [
+        "Yeah, right",
+        "No, thanks",
+        "Me, too",
+        "Oh, well"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "autograph",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a famous person's signature, written for a fan",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c01_u025",
+      "answer": "autograph",
+      "options": [
+        "autograph",
+        "autopsy",
+        "paragraph",
+        "biography"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "propose",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to ask someone to marry you",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c03_u009",
+      "answer": "propose",
+      "responseUid": "s09_e23_c03_u011",
+      "options": [
+        "propose",
+        "suppose",
+        "oppose",
+        "compose"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spit it out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone to say what they want to say quickly, without hesitating",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c12_u006",
+      "answer": "Spit it out",
+      "options": [
+        "Spit it out",
+        "Hand it over",
+        "Pass it on",
+        "Turn it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hit the beach",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go to the beach",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c04_u025",
+      "answer": "hit the beach",
+      "options": [
+        "hit the beach",
+        "hit the roof",
+        "hit the jackpot",
+        "hit the books"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "grab a bite",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a quick, simple meal",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c11_u021",
+      "answer": "grab a bite",
+      "options": [
+        "grab a bite",
+        "grab a nap",
+        "grab a pen",
+        "grab a clue"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c12_u036",
+      "answer": "take off",
+      "options": [
+        "take off",
+        "take over",
+        "take up",
+        "take in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "honest mistake",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an error made by accident, without any intention to cause harm or deceive",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c02_u010",
+      "answer": "honest mistake",
+      "options": [
+        "honest mistake",
+        "lucky guess",
+        "bad habit",
+        "fair trade"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blast from the past",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "someone or something from your past that you suddenly remember or meet again",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c02_u009",
+      "answer": "blast from the past",
+      "options": [
+        "blast from the past",
+        "shot in the dark",
+        "piece of cake",
+        "fish out of water"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "step up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take action and accept responsibility when something needs to be done",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c08_u002",
+      "answer": "step up",
+      "options": [
+        "step up",
+        "step down",
+        "step out",
+        "step off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stand in the way",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to prevent something from happening",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c08_u007",
+      "answer": "stand in the way",
+      "options": [
+        "stand in the way",
+        "get in the mood",
+        "stay in the loop",
+        "fall in the trap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bottom line",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the most important fact or conclusion",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c06_u034",
+      "answer": "bottom line",
+      "responseUid": null,
+      "options": [
+        "bottom line",
+        "front row",
+        "back door",
+        "top floor"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "humidity",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the amount of water vapour in the air, which makes it feel damp",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c06_u006",
+      "answer": "humidity",
+      "options": [
+        "humidity",
+        "humility",
+        "hostility",
+        "gravity"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make the best of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to accept a bad situation and try to get as much good out of it as you can",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c10_u028",
+      "answer": "make the best of",
+      "options": [
+        "make the best of",
+        "make fun of",
+        "make a fool of",
+        "make a habit of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pull some strings",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to use your influence or personal connections secretly to get something done",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c01_u006",
+      "answer": "pull some strings",
+      "options": [
+        "pull some strings",
+        "pick some fights",
+        "tie some knots",
+        "break some hearts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hung up on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unable to stop thinking or worrying about something",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c03_u001",
+      "answer": "hung up on",
+      "options": [
+        "hung up on",
+        "signed up for",
+        "called up by",
+        "held up by"
+      ]
+    },
+    {
+      "uid": "s09_e23_c05_u009",
+      "answer": "hung up on",
+      "options": [
+        "hung up on",
+        "signed up for",
+        "called up by",
+        "held up by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keynote",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the main speech at a conference, usually given by an important speaker",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c01_u023",
+      "answer": "keynote",
+      "options": [
+        "keynote",
+        "footnote",
+        "keystone",
+        "landmark"
+      ]
+    },
+    {
+      "uid": "s09_e23_c07_u038",
+      "answer": "keynote",
+      "options": [
+        "keynote",
+        "footnote",
+        "keystone",
+        "landmark"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "read too much into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to believe that something has more meaning or importance than it really has",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c03_u002",
+      "answer": "read too much into",
+      "options": [
+        "read too much into",
+        "put too much into",
+        "get too much into",
+        "take too much into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "meddle",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to become involved in something that is not your concern",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c08_u011",
+      "answer": "meddle",
+      "options": [
+        "meddle",
+        "peddle",
+        "settle",
+        "muddle"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shortcomings",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "faults or weaknesses that make something less effective or less good",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c07_u046",
+      "answer": "shortcomings",
+      "cueUid": "s09_e23_c07_u044",
+      "options": [
+        "shortcomings",
+        "shortcuts",
+        "shortages",
+        "shortlists"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pasty",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "pale and unhealthy-looking, as if rarely out in the sun",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c01_u018",
+      "answer": "pasty",
+      "options": [
+        "pasty",
+        "hasty",
+        "tasty",
+        "wordy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "outbid",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to offer more money than someone else for something, especially at an auction",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c07_u015",
+      "answer": "outbid",
+      "options": [
+        "outbid",
+        "outrun",
+        "outgrow",
+        "outlive"
+      ]
+    }
+  ]
+}
 ]

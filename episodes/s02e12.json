@@ -1,138 +1,550 @@
 [
-  { "expression": "remind someone of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make someone think of a person or thing that is similar",
-    "exchanges": [ { "uid": "s02_e12_c01_u005", "answer": "reminds me of",
-      "options": ["reminds me of", "informs me of", "accuses me of", "relieves me of"] } ] },
+{
+  "expression": "remind someone of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone think of a person or thing that is similar",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c01_u005",
+      "answer": "reminds me of",
+      "options": [
+        "reminds me of",
+        "informs me of",
+        "accuses me of",
+        "relieves me of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to make someone look at something interesting you are showing them",
-    "exchanges": [
-      { "uid": "s02_e12_c02_u003", "answer": "check it out", "responseUid": "s02_e12_c02_u005",
-        "options": ["check it out", "hold it up", "take it in", "put it on"] },
-      { "uid": "s02_e12_c11_u002", "answer": "Check it out",
-        "options": ["Check it out", "Hold it up", "Take it in", "Put it on"] } ] },
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c02_u003",
+      "answer": "check it out",
+      "responseUid": "s02_e12_c02_u005",
+      "options": [
+        "check it out",
+        "hold it up",
+        "take it in",
+        "put it on"
+      ]
+    },
+    {
+      "uid": "s02_e12_c11_u002",
+      "answer": "Check it out",
+      "options": [
+        "Check it out",
+        "Hold it up",
+        "Take it in",
+        "Put it on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stay in", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to stay at home instead of going out",
-    "exchanges": [ { "uid": "s02_e12_c03_u003", "answer": "stay in", "responseUid": null,
-      "options": ["stay in", "eat out", "sleep over", "drop by"] } ] },
+{
+  "expression": "stay in",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stay at home instead of going out",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c03_u003",
+      "answer": "stay in",
+      "responseUid": null,
+      "options": [
+        "stay in",
+        "eat out",
+        "sleep over",
+        "drop by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get fired", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to lose your job because your employer dismisses you",
-    "exchanges": [ { "uid": "s02_e12_c05_u016", "answer": "got fired",
-      "options": ["got fired", "got married", "got promoted", "got engaged"] } ] },
+{
+  "expression": "get fired",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to lose your job because your employer dismisses you",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c05_u016",
+      "answer": "got fired",
+      "options": [
+        "got fired",
+        "got married",
+        "got promoted",
+        "got engaged"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no longer", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "not anymore; used to say that a situation has ended",
-    "exchanges": [ { "uid": "s02_e12_c01_u009", "answer": "no longer",
-      "options": ["no longer", "at last", "so far", "all along"] } ] },
+{
+  "expression": "no longer",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "not anymore; used to say that a situation has ended",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c01_u009",
+      "answer": "no longer",
+      "options": [
+        "no longer",
+        "at last",
+        "so far",
+        "all along"
+      ]
+    }
+  ]
+},
 
-  { "expression": "figure", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to think or decide that something is a reasonable thing to do",
-    "exchanges": [ { "uid": "s02_e12_c02_u014", "answer": "figured",
-      "options": ["figured", "fixed", "faced", "fled"] } ] },
+{
+  "expression": "figure",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think or decide that something is a reasonable thing to do",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c02_u014",
+      "answer": "figured",
+      "options": [
+        "figured",
+        "fixed",
+        "faced",
+        "fled"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pretend", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to behave as if something is true when it is not",
-    "exchanges": [
-      { "uid": "s02_e12_c02_u017", "answer": "pretend",
-        "options": ["pretend", "promise", "predict", "prefer"] },
-      { "uid": "s02_e12_c12_u019", "answer": "pretend",
-        "options": ["pretend", "promise", "predict", "prefer"] } ] },
+{
+  "expression": "pretend",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to behave as if something is true when it is not",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c02_u017",
+      "answer": "pretend",
+      "options": [
+        "pretend",
+        "promise",
+        "predict",
+        "prefer"
+      ]
+    },
+    {
+      "uid": "s02_e12_c12_u019",
+      "answer": "pretend",
+      "options": [
+        "pretend",
+        "promise",
+        "predict",
+        "prefer"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'm afraid", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "a polite way of introducing bad news or an unwelcome answer",
-    "exchanges": [
-      { "uid": "s02_e12_c04_u004", "answer": "I'm afraid",
-        "options": ["I'm afraid", "I'm alone", "I'm awake", "I'm ashamed"] },
-      { "uid": "s02_e12_c12_u033", "answer": "I'm afraid",
-        "options": ["I'm afraid", "I'm alone", "I'm awake", "I'm ashamed"] } ] },
+{
+  "expression": "I'm afraid",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite way of introducing bad news or an unwelcome answer",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c04_u004",
+      "answer": "I'm afraid",
+      "options": [
+        "I'm afraid",
+        "I'm alone",
+        "I'm awake",
+        "I'm ashamed"
+      ]
+    },
+    {
+      "uid": "s02_e12_c12_u033",
+      "answer": "I'm afraid",
+      "options": [
+        "I'm afraid",
+        "I'm alone",
+        "I'm awake",
+        "I'm ashamed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "otherwise", "type": "word", "level": "middle", "pos": "adverb",
-    "meaning": "if not; used to say what would happen if the previous thing were not true",
-    "exchanges": [ { "uid": "s02_e12_c06_u009", "answer": "otherwise",
-      "options": ["otherwise", "meanwhile", "likewise", "somehow"] } ] },
+{
+  "expression": "otherwise",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "if not; used to say what would happen if the previous thing were not true",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c06_u009",
+      "answer": "otherwise",
+      "options": [
+        "otherwise",
+        "meanwhile",
+        "likewise",
+        "somehow"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the thing is", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to introduce the main point or a problem you want to explain",
-    "exchanges": [ { "uid": "s02_e12_c09_u013", "answer": "The thing is",
-      "options": ["The thing is", "The rest is", "The place is", "The game is"] } ] },
+{
+  "expression": "the thing is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the main point or a problem you want to explain",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c09_u013",
+      "answer": "The thing is",
+      "options": [
+        "The thing is",
+        "The rest is",
+        "The place is",
+        "The game is"
+      ]
+    }
+  ]
+},
 
-  { "expression": "complaint", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a statement that something is wrong or unsatisfactory",
-    "exchanges": [ { "uid": "s02_e12_c13_u003", "answer": "complaints",
-      "options": ["complaints", "compliments", "contracts", "coupons"] } ] },
+{
+  "expression": "complaint",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a statement that something is wrong or unsatisfactory",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c13_u003",
+      "answer": "complaints",
+      "options": [
+        "complaints",
+        "compliments",
+        "contracts",
+        "coupons"
+      ]
+    }
+  ]
+},
 
-  { "expression": "backup plan", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "an alternative plan to use if the first one fails",
-    "exchanges": [ { "uid": "s02_e12_c03_u008", "answer": "backup plan",
-      "options": ["backup plan", "shopping list", "spare key", "night shift"] } ] },
+{
+  "expression": "backup plan",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an alternative plan to use if the first one fails",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c03_u008",
+      "answer": "backup plan",
+      "options": [
+        "backup plan",
+        "shopping list",
+        "spare key",
+        "night shift"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stalker", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a person who obsessively follows or watches someone, especially a celebrity",
-    "exchanges": [
-      { "uid": "s02_e12_c02_u010", "answer": "stalker", "responseUid": null,
-        "options": ["stalker", "sponsor", "slacker", "stroller"] },
-      { "uid": "s02_e12_c05_u005", "answer": "stalker", "cueUid": null,
-        "options": ["stalker", "sponsor", "slacker", "stroller"] } ] },
+{
+  "expression": "stalker",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who obsessively follows or watches someone, especially a celebrity",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c02_u010",
+      "answer": "stalker",
+      "responseUid": null,
+      "options": [
+        "stalker",
+        "sponsor",
+        "slacker",
+        "stroller"
+      ]
+    },
+    {
+      "uid": "s02_e12_c05_u005",
+      "answer": "stalker",
+      "cueUid": null,
+      "options": [
+        "stalker",
+        "sponsor",
+        "slacker",
+        "stroller"
+      ]
+    }
+  ]
+},
 
-  { "expression": "capable of", "type": "phrase", "level": "high", "pos": "adjective",
-    "meaning": "having the ability or qualities needed to do or feel something",
-    "exchanges": [ { "uid": "s02_e12_c02_u015", "answer": "capable of",
-      "options": ["capable of", "jealous of", "proud of", "guilty of"] } ] },
+{
+  "expression": "capable of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having the ability or qualities needed to do or feel something",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c02_u015",
+      "answer": "capable of",
+      "options": [
+        "capable of",
+        "jealous of",
+        "proud of",
+        "guilty of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "picture", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to imagine someone or something in your mind",
-    "exchanges": [ { "uid": "s02_e12_c05_u015", "answer": "picture",
-      "options": ["picture", "pinch", "punish", "pamper"] } ] },
+{
+  "expression": "picture",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to imagine someone or something in your mind",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c05_u015",
+      "answer": "picture",
+      "options": [
+        "picture",
+        "pinch",
+        "punish",
+        "pamper"
+      ]
+    }
+  ]
+},
 
-  { "expression": "explain yourself", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to give reasons for your behaviour or decisions",
-    "exchanges": [ { "uid": "s02_e12_c08_u004", "answer": "explain yourself",
-      "options": ["explain yourself", "enjoy yourself", "behave yourself", "help yourself"] } ] },
+{
+  "expression": "explain yourself",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to give reasons for your behaviour or decisions",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c08_u004",
+      "answer": "explain yourself",
+      "options": [
+        "explain yourself",
+        "enjoy yourself",
+        "behave yourself",
+        "help yourself"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cover-up", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an attempt to hide the truth about something wrong that has happened",
-    "exchanges": [ { "uid": "s02_e12_c10_u008", "answer": "cover-up",
-      "options": ["cover-up", "make-up", "warm-up", "pile-up"] } ] },
+{
+  "expression": "cover-up",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an attempt to hide the truth about something wrong that has happened",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c10_u008",
+      "answer": "cover-up",
+      "options": [
+        "cover-up",
+        "make-up",
+        "warm-up",
+        "pile-up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "track down", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to find someone or something after a long search",
-    "exchanges": [ { "uid": "s02_e12_c14_u002", "answer": "tracked down",
-      "options": ["tracked down", "turned down", "backed down", "wrote down"] } ] },
+{
+  "expression": "track down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to find someone or something after a long search",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c14_u002",
+      "answer": "tracked down",
+      "options": [
+        "tracked down",
+        "turned down",
+        "backed down",
+        "wrote down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "there goes", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when something is suddenly lost, ruined, or taken away",
-    "exchanges": [ { "uid": "s02_e12_c12_u004", "answer": "there goes", "responseUid": null,
-      "options": ["there goes", "here comes", "so does", "that makes"] } ] },
+{
+  "expression": "there goes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something is suddenly lost, ruined, or taken away",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c12_u004",
+      "answer": "there goes",
+      "responseUid": null,
+      "options": [
+        "there goes",
+        "here comes",
+        "so does",
+        "that makes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kid yourself", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to refuse to admit the truth about yourself or your situation",
-    "exchanges": [ { "uid": "s02_e12_c14_u012", "answer": "kidding themselves", "cueUid": "s02_e12_c14_u009", "responseUid": null,
-      "options": ["kidding themselves", "helping themselves", "enjoying themselves", "introducing themselves"] } ] },
+{
+  "expression": "kid yourself",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to refuse to admit the truth about yourself or your situation",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c14_u012",
+      "answer": "kidding themselves",
+      "cueUid": "s02_e12_c14_u009",
+      "responseUid": null,
+      "options": [
+        "kidding themselves",
+        "helping themselves",
+        "enjoying themselves",
+        "introducing themselves"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fitting", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "suitable or appropriate for the occasion",
-    "exchanges": [ { "uid": "s02_e12_c04_u008", "answer": "fitting",
-      "options": ["fitting", "fading", "failing", "fleeting"] } ] },
+{
+  "expression": "fitting",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "suitable or appropriate for the occasion",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c04_u008",
+      "answer": "fitting",
+      "options": [
+        "fitting",
+        "fading",
+        "failing",
+        "fleeting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "inside job", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "a crime committed by someone who works for the place that was robbed",
-    "exchanges": [ { "uid": "s02_e12_c10_u004", "answer": "inside job",
-      "options": ["inside job", "side effect", "night shift", "safety net"] } ] },
+{
+  "expression": "inside job",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a crime committed by someone who works for the place that was robbed",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c10_u004",
+      "answer": "inside job",
+      "options": [
+        "inside job",
+        "side effect",
+        "night shift",
+        "safety net"
+      ]
+    }
+  ]
+},
 
-  { "expression": "word on the street", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "what people are saying; the current rumour or gossip",
-    "exchanges": [ { "uid": "s02_e12_c10_u014", "answer": "Word on the street", "responseUid": "s02_e12_c10_u016",
-      "options": ["Word on the street", "Sign on the door", "Light at the end", "Fish in the sea"] } ] },
+{
+  "expression": "word on the street",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "what people are saying; the current rumour or gossip",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c10_u014",
+      "answer": "Word on the street",
+      "responseUid": "s02_e12_c10_u016",
+      "options": [
+        "Word on the street",
+        "Sign on the door",
+        "Light at the end",
+        "Fish in the sea"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wack job", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a crazy or mentally unstable person",
-    "exchanges": [ { "uid": "s02_e12_c05_u010", "answer": "wack job", "responseUid": "s02_e12_c05_u012",
-      "options": ["wack job", "nose job", "day job", "paint job"] } ] },
+{
+  "expression": "wack job",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a crazy or mentally unstable person",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c05_u010",
+      "answer": "wack job",
+      "responseUid": "s02_e12_c05_u012",
+      "options": [
+        "wack job",
+        "nose job",
+        "day job",
+        "paint job"
+      ]
+    }
+  ]
+},
 
-  { "expression": "devil may care", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "carefree and not worried about consequences",
-    "exchanges": [ { "uid": "s02_e12_c06_u004", "answer": "devil may care",
-      "options": ["devil may care", "heaven can wait", "time will tell", "money can't buy"] } ] }
+{
+  "expression": "devil may care",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "carefree and not worried about consequences",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c06_u004",
+      "answer": "devil may care",
+      "options": [
+        "devil may care",
+        "heaven can wait",
+        "time will tell",
+        "money can't buy"
+      ]
+    }
+  ]
+}
 ]

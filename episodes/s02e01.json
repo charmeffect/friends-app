@@ -1,132 +1,532 @@
 [
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s02_e01_c04_u020", "answer": "find out", "cueUid": "s02_e01_c04_u018",
-      "options": ["find out", "put off", "hand in", "take over"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c04_u020",
+      "answer": "find out",
+      "cueUid": "s02_e01_c04_u018",
+      "options": [
+        "find out",
+        "put off",
+        "hand in",
+        "take over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get out of here", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "to leave a place, usually quickly because you are upset or in a hurry",
-    "exchanges": [ { "uid": "s02_e01_c05_u029", "answer": "get out of here",
-      "options": ["get out of here", "put up with this", "keep out of it", "run away from it"] } ] },
+{
+  "expression": "get out of here",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave a place, usually quickly because you are upset or in a hurry",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c05_u029",
+      "answer": "get out of here",
+      "options": [
+        "get out of here",
+        "put up with this",
+        "keep out of it",
+        "run away from it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to meet someone by chance",
-    "exchanges": [ { "uid": "s02_e01_c07_u004", "answer": "ran into",
-      "options": ["ran into", "turned down", "set up", "took off"] } ] },
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c07_u004",
+      "answer": "ran into",
+      "options": [
+        "ran into",
+        "turned down",
+        "set up",
+        "took off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go for it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to take the chance and try to get what you want, especially with a romantic interest",
-    "exchanges": [
-      { "uid": "s02_e01_c03_u003", "answer": "go for it",
-        "options": ["go for it", "sleep on it", "own up to it", "sit it out"] },
-      { "uid": "s02_e01_c04_u014", "answer": "gone for it",
-        "options": ["gone for it", "slept on it", "owned up to it", "sat it out"] } ] },
+{
+  "expression": "go for it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to take the chance and try to get what you want, especially with a romantic interest",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c03_u003",
+      "answer": "go for it",
+      "options": [
+        "go for it",
+        "sleep on it",
+        "own up to it",
+        "sit it out"
+      ]
+    },
+    {
+      "uid": "s02_e01_c04_u014",
+      "answer": "gone for it",
+      "options": [
+        "gone for it",
+        "slept on it",
+        "owned up to it",
+        "sat it out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "thanks to", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "because of someone or something; used to say who made something possible",
-    "exchanges": [ { "uid": "s02_e01_c03_u008", "answer": "thanks to",
-      "options": ["thanks to", "apart from", "ahead of", "in spite of"] } ] },
+{
+  "expression": "thanks to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "because of someone or something; used to say who made something possible",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c03_u008",
+      "answer": "thanks to",
+      "options": [
+        "thanks to",
+        "apart from",
+        "ahead of",
+        "in spite of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in charge of", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "responsible for and in control of something",
-    "exchanges": [ { "uid": "s02_e01_c03_u030", "answer": "in charge of",
-      "options": ["in charge of", "in front of", "in spite of", "in need of"] } ] },
+{
+  "expression": "in charge of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "responsible for and in control of something",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c03_u030",
+      "answer": "in charge of",
+      "options": [
+        "in charge of",
+        "in front of",
+        "in spite of",
+        "in need of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop thinking about something that is over and start something new",
-    "exchanges": [ { "uid": "s02_e01_c04_u010", "answer": "move on",
-      "options": ["move on", "hang on", "show up", "look out"] } ] },
+{
+  "expression": "move on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop thinking about something that is over and start something new",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c04_u010",
+      "answer": "move on",
+      "options": [
+        "move on",
+        "hang on",
+        "show up",
+        "look out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take back", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to return something to the place it came from, such as a shop or counter",
-    "exchanges": [ { "uid": "s02_e01_c04_u018", "answer": "take that back", "responseUid": "s02_e01_c04_u020",
-      "options": ["take that back", "put that off", "give that up", "pick that up"] } ] },
+{
+  "expression": "take back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return something to the place it came from, such as a shop or counter",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c04_u018",
+      "answer": "take that back",
+      "responseUid": "s02_e01_c04_u020",
+      "options": [
+        "take that back",
+        "put that off",
+        "give that up",
+        "pick that up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "disconnected", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "cut off from a phone call so that you can no longer hear the other person",
-    "exchanges": [ { "uid": "s02_e01_c05_u026", "answer": "disconnected", "cueUid": "s02_e01_c05_u024",
-      "options": ["disconnected", "distracted", "discouraged", "dismissed"] } ] },
+{
+  "expression": "disconnected",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "cut off from a phone call so that you can no longer hear the other person",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c05_u026",
+      "answer": "disconnected",
+      "cueUid": "s02_e01_c05_u024",
+      "options": [
+        "disconnected",
+        "distracted",
+        "discouraged",
+        "dismissed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "could be worse", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to comfort someone: the situation is not as bad as it might have been",
-    "exchanges": [ { "uid": "s02_e01_c11_u005", "answer": "could be worse",
-      "options": ["could be worse", "might be late", "would be nice", "must be done"] } ] },
+{
+  "expression": "could be worse",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to comfort someone: the situation is not as bad as it might have been",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c11_u005",
+      "answer": "could be worse",
+      "options": [
+        "could be worse",
+        "might be late",
+        "would be nice",
+        "must be done"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bossy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "always telling other people what to do",
-    "exchanges": [ { "uid": "s02_e01_c07_u026", "answer": "bossy",
-      "options": ["bossy", "moody", "messy", "nosy"] } ] },
+{
+  "expression": "bossy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "always telling other people what to do",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c07_u026",
+      "answer": "bossy",
+      "options": [
+        "bossy",
+        "moody",
+        "messy",
+        "nosy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "whatsoever", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "at all; used after a negative to make it stronger",
-    "exchanges": [ { "uid": "s02_e01_c04_u021", "answer": "whatsoever", "responseUid": "s02_e01_c04_u023",
-      "options": ["whatsoever", "altogether", "elsewhere", "likewise"] } ] },
+{
+  "expression": "whatsoever",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "at all; used after a negative to make it stronger",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c04_u021",
+      "answer": "whatsoever",
+      "responseUid": "s02_e01_c04_u023",
+      "options": [
+        "whatsoever",
+        "altogether",
+        "elsewhere",
+        "likewise"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give away", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to reveal something that was supposed to stay secret, such as the ending of a story",
-    "exchanges": [ { "uid": "s02_e01_c03_u027", "answer": "gave away",
-      "options": ["gave away", "turned down", "passed out", "set off"] } ] },
+{
+  "expression": "give away",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to reveal something that was supposed to stay secret, such as the ending of a story",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c03_u027",
+      "answer": "gave away",
+      "options": [
+        "gave away",
+        "turned down",
+        "passed out",
+        "set off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "owe someone one", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to be in someone's debt because they did you a favor you should return later",
-    "exchanges": [ { "uid": "s02_e01_c04_u015", "answer": "owe me one",
-      "options": ["owe me one", "tell me one", "hand me one", "save me one"] } ] },
+{
+  "expression": "owe someone one",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be in someone's debt because they did you a favor you should return later",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c04_u015",
+      "answer": "owe me one",
+      "options": [
+        "owe me one",
+        "tell me one",
+        "hand me one",
+        "save me one"
+      ]
+    }
+  ]
+},
 
-  { "expression": "control freak", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "a person who wants to control everything and everyone around them",
-    "exchanges": [ { "uid": "s02_e01_c05_u010", "answer": "control freak", "cueUid": "s02_e01_c05_u007",
-      "options": ["control freak", "party animal", "couch potato", "drama queen"] } ] },
+{
+  "expression": "control freak",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who wants to control everything and everyone around them",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c05_u010",
+      "answer": "control freak",
+      "cueUid": "s02_e01_c05_u007",
+      "options": [
+        "control freak",
+        "party animal",
+        "couch potato",
+        "drama queen"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fall for", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to be tricked by something or someone",
-    "exchanges": [ { "uid": "s02_e01_c06_u006", "answer": "fallin' for",
-      "options": ["fallin' for", "askin' for", "payin' for", "waitin' for"] } ] },
+{
+  "expression": "fall for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be tricked by something or someone",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c06_u006",
+      "answer": "fallin' for",
+      "options": [
+        "fallin' for",
+        "askin' for",
+        "payin' for",
+        "waitin' for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit on", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
-    "exchanges": [ { "uid": "s02_e01_c07_u007", "answer": "hit on",
-      "options": ["hit on", "ran into", "sat on", "gave in"] } ] },
+{
+  "expression": "hit on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c07_u007",
+      "answer": "hit on",
+      "options": [
+        "hit on",
+        "ran into",
+        "sat on",
+        "gave in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take advantage of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to treat someone unfairly for your own benefit, here in a physical, inappropriate way",
-    "exchanges": [ { "uid": "s02_e01_c10_u023", "answer": "took advantage of", "responseUid": "s02_e01_c10_u025",
-      "options": ["took advantage of", "took notice of", "took charge of", "took pity on"] } ] },
+{
+  "expression": "take advantage of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make use of a chance or of someone, often unfairly, for your own benefit",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c10_u023",
+      "answer": "took advantage of",
+      "responseUid": "s02_e01_c10_u025",
+      "options": [
+        "took advantage of",
+        "took notice of",
+        "took charge of",
+        "took pity on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "too soon to tell", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "not enough time has passed to know how something will turn out",
-    "exchanges": [ { "uid": "s02_e01_c10_u003", "answer": "too soon to tell",
-      "options": ["too soon to tell", "too late to call", "too far to see", "too good to miss"] } ] },
+{
+  "expression": "too soon to tell",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "not enough time has passed to know how something will turn out",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c10_u003",
+      "answer": "too soon to tell",
+      "options": [
+        "too soon to tell",
+        "too late to call",
+        "too far to see",
+        "too good to miss"
+      ]
+    }
+  ]
+},
 
-  { "expression": "silver lining", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "the one good thing you can find in a bad situation",
-    "exchanges": [ { "uid": "s02_e01_c04_u021", "answer": "silver lining", "responseUid": "s02_e01_c04_u023",
-      "options": ["silver lining", "golden rule", "big picture", "fine print"] } ] },
+{
+  "expression": "silver lining",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the one good thing you can find in a bad situation",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c04_u021",
+      "answer": "silver lining",
+      "responseUid": "s02_e01_c04_u023",
+      "options": [
+        "silver lining",
+        "golden rule",
+        "big picture",
+        "fine print"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spare someone's feelings", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to avoid saying something that would hurt or upset someone",
-    "exchanges": [ { "uid": "s02_e01_c05_u012", "answer": "spare your feelings", "responseUid": null,
-      "options": ["spare your feelings", "share your feelings", "hide your feelings", "fake your feelings"] } ] },
+{
+  "expression": "spare someone's feelings",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to avoid saying something that would hurt or upset someone",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c05_u012",
+      "answer": "spare your feelings",
+      "responseUid": null,
+      "options": [
+        "spare your feelings",
+        "share your feelings",
+        "hide your feelings",
+        "fake your feelings"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vulnerable", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "easily hurt emotionally and in need of protection",
-    "exchanges": [ { "uid": "s02_e01_c10_u013", "answer": "vulnerable", "cueUid": "s02_e01_c10_u011",
-      "options": ["vulnerable", "versatile", "venerable", "voluntary"] } ] },
+{
+  "expression": "vulnerable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "easily hurt emotionally and in need of protection",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c10_u013",
+      "answer": "vulnerable",
+      "cueUid": "s02_e01_c10_u011",
+      "options": [
+        "vulnerable",
+        "versatile",
+        "venerable",
+        "voluntary"
+      ]
+    }
+  ]
+},
 
-  { "expression": "slowpoke", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a person who moves or acts too slowly",
-    "exchanges": [ { "uid": "s02_e01_c03_u012", "answer": "slowpokes",
-      "options": ["slowpokes", "hotshots", "copycats", "daredevils"] } ] },
+{
+  "expression": "slowpoke",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who moves or acts too slowly",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c03_u012",
+      "answer": "slowpokes",
+      "options": [
+        "slowpokes",
+        "hotshots",
+        "copycats",
+        "daredevils"
+      ]
+    }
+  ]
+},
 
-  { "expression": "palpable", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "so strong or obvious that it can almost be physically felt",
-    "exchanges": [ { "uid": "s02_e01_c07_u022", "answer": "palpable",
-      "options": ["palpable", "plausible", "portable", "parallel"] } ] },
+{
+  "expression": "palpable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "so strong or obvious that it can almost be physically felt",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c07_u022",
+      "answer": "palpable",
+      "options": [
+        "palpable",
+        "plausible",
+        "portable",
+        "parallel"
+      ]
+    }
+  ]
+},
 
-  { "expression": "inseam", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "the seam of a trouser leg running from the crotch to the hem, or its measured length",
-    "exchanges": [
-      { "uid": "s02_e01_c09_u004", "answer": "inseam", "responseUid": null,
-        "options": ["inseam", "insole", "inlay", "intake"] },
-      { "uid": "s02_e01_c10_u026", "answer": "inseam", "responseUid": "s02_e01_c10_u028",
-        "options": ["inseam", "insole", "inlay", "intake"] } ] }
+{
+  "expression": "inseam",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "the seam of a trouser leg running from the crotch to the hem, or its measured length",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c09_u004",
+      "answer": "inseam",
+      "responseUid": null,
+      "options": [
+        "inseam",
+        "insole",
+        "inlay",
+        "intake"
+      ]
+    },
+    {
+      "uid": "s02_e01_c10_u026",
+      "answer": "inseam",
+      "responseUid": "s02_e01_c10_u028",
+      "options": [
+        "inseam",
+        "insole",
+        "inlay",
+        "intake"
+      ]
+    }
+  ]
+}
 ]

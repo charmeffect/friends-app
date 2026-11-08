@@ -1,126 +1,502 @@
 [
-  { "expression": "turn thirty", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to reach the age of thirty",
-    "exchanges": [ { "uid": "s07_e14_c13_u021", "answer": "turning thirty",
-      "options": ["turning thirty", "making thirty", "taking thirty", "going thirty"] } ] },
+{
+  "expression": "turn thirty",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to reach the age of thirty",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c13_u021",
+      "answer": "turning thirty",
+      "options": [
+        "turning thirty",
+        "making thirty",
+        "taking thirty",
+        "going thirty"
+      ]
+    }
+  ]
+},
 
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s07_e14_c11_u004", "answer": "found out",
-      "options": ["found out", "made out", "gave out", "held out"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c11_u004",
+      "answer": "found out",
+      "options": [
+        "found out",
+        "made out",
+        "gave out",
+        "held out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hop in", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to get into a car or other vehicle quickly",
-    "exchanges": [ { "uid": "s07_e14_c03_u016", "answer": "Hop in",
-      "options": ["Hop in", "Hang up", "Hold out", "Hand over"] } ] },
+{
+  "expression": "hop in",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to get into a car or other vehicle quickly",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c03_u016",
+      "answer": "Hop in",
+      "options": [
+        "Hop in",
+        "Hang up",
+        "Hold out",
+        "Hand over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sit around", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to spend time sitting and doing nothing useful",
-    "exchanges": [ { "uid": "s07_e14_c04_u002", "answer": "sit around",
-      "options": ["sit around", "sit through", "sign off", "settle up"] } ] },
+{
+  "expression": "sit around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spend time sitting and doing nothing useful",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c04_u002",
+      "answer": "sit around",
+      "options": [
+        "sit around",
+        "sit through",
+        "sign off",
+        "settle up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "any minute", "type": "colloquial", "level": "middle", "pos": "adverb",
-    "meaning": "very soon, at any moment",
-    "exchanges": [ { "uid": "s07_e14_c04_u012", "answer": "any minute",
-      "options": ["any minute", "any more", "any good", "any place"] } ] },
+{
+  "expression": "any minute",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very soon, at any moment",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c04_u012",
+      "answer": "any minute",
+      "options": [
+        "any minute",
+        "any more",
+        "any good",
+        "any place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "accomplish", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to succeed in doing or achieving something after effort",
-    "exchanges": [ { "uid": "s07_e14_c02_u004", "answer": "accomplished",
-      "options": ["accomplished", "accompanied", "accused", "addressed"] } ] },
+{
+  "expression": "accomplish",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to succeed in doing or achieving something after effort",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c02_u004",
+      "answer": "accomplished",
+      "options": [
+        "accomplished",
+        "accompanied",
+        "accused",
+        "addressed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cross off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to remove an item from a list by drawing a line through it",
-    "exchanges": [ { "uid": "s07_e14_c11_u017", "answer": "cross off",
-      "options": ["cross off", "show off", "break off", "tip off"] } ] },
+{
+  "expression": "cross off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove an item from a list by drawing a line through it",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c11_u017",
+      "answer": "cross off",
+      "options": [
+        "cross off",
+        "show off",
+        "break off",
+        "tip off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ground rules", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "basic rules agreed on before an activity about how people should behave",
-    "exchanges": [ { "uid": "s07_e14_c01_u009", "answer": "ground rules",
-      "options": ["ground rules", "ground floors", "fast tracks", "back roads"] } ] },
+{
+  "expression": "ground rules",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "basic rules agreed on before an activity about how people should behave",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c01_u009",
+      "answer": "ground rules",
+      "options": [
+        "ground rules",
+        "ground floors",
+        "fast tracks",
+        "back roads"
+      ]
+    }
+  ]
+},
 
-  { "expression": "overreact", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to respond to something much more strongly than is reasonable",
-    "exchanges": [ { "uid": "s07_e14_c01_u026", "answer": "overreacting",
-      "options": ["overreacting", "overpaying", "oversleeping", "overheating"] } ] },
+{
+  "expression": "overreact",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to respond to something much more strongly than is reasonable",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c01_u026",
+      "answer": "overreacting",
+      "options": [
+        "overreacting",
+        "overpaying",
+        "oversleeping",
+        "overheating"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shallow", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "not interested in serious ideas or deep feelings",
-    "exchanges": [ { "uid": "s07_e14_c03_u014", "answer": "shallow",
-      "options": ["shallow", "hollow", "narrow", "mellow"] } ] },
+{
+  "expression": "shallow",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not interested in serious ideas or deep feelings",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c03_u014",
+      "answer": "shallow",
+      "options": [
+        "shallow",
+        "hollow",
+        "narrow",
+        "mellow"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get in line", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to tell someone that other people already want the same thing first",
-    "exchanges": [ { "uid": "s07_e14_c03_u015", "answer": "get in line",
-      "options": ["get in line", "get in shape", "get some rest", "get a grip"] } ] },
+{
+  "expression": "get in line",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to tell someone that other people already want the same thing first",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c03_u015",
+      "answer": "get in line",
+      "options": [
+        "get in line",
+        "get in shape",
+        "get some rest",
+        "get a grip"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let's face it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used before admitting an unpleasant truth that cannot be denied",
-    "exchanges": [ { "uid": "s07_e14_c04_u007", "answer": "let's face it",
-      "options": ["let's face it", "let's call it", "let's get it", "let's skip it"] } ] },
+{
+  "expression": "let's face it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used before admitting an unpleasant truth that cannot be denied",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c04_u007",
+      "answer": "let's face it",
+      "options": [
+        "let's face it",
+        "let's call it",
+        "let's get it",
+        "let's skip it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "liven up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make something more lively, exciting, or fun",
-    "exchanges": [ { "uid": "s07_e14_c07_u022", "answer": "liven up",
-      "options": ["liven up", "look up", "pass up", "put up"] } ] },
+{
+  "expression": "liven up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make something more lively, exciting, or fun",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c07_u022",
+      "answer": "liven up",
+      "options": [
+        "liven up",
+        "look up",
+        "pass up",
+        "put up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "over the hill", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "old and past the best part of your life",
-    "exchanges": [ { "uid": "s07_e14_c08_u012", "answer": "over the hill",
-      "options": ["over the hill", "out of the woods", "off the hook", "on the rocks"] } ] },
+{
+  "expression": "over the hill",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "old and past the best part of your life",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c08_u012",
+      "answer": "over the hill",
+      "options": [
+        "over the hill",
+        "out of the woods",
+        "off the hook",
+        "on the rocks"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bum out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone feel sad or disappointed",
-    "exchanges": [ { "uid": "s07_e14_c09_u003", "answer": "bumming out",
-      "options": ["bumming out", "making out", "working out", "burning out"] } ] },
+{
+  "expression": "bum out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone feel sad or disappointed",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c09_u003",
+      "answer": "bumming out",
+      "options": [
+        "bumming out",
+        "making out",
+        "working out",
+        "burning out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep your hands off", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to stop yourself from touching someone or something",
-    "exchanges": [ { "uid": "s07_e14_c10_u018", "answer": "keep your hands off",
-      "options": ["keep your hands off", "keep your mouth shut", "keep your head down", "keep your chin up"] } ] },
+{
+  "expression": "keep your hands off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to stop yourself from touching someone or something",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c10_u018",
+      "answer": "keep your hands off",
+      "options": [
+        "keep your hands off",
+        "keep your mouth shut",
+        "keep your head down",
+        "keep your chin up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "see where someone is going", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to understand what someone is about to say before they finish",
-    "exchanges": [ { "uid": "s07_e14_c13_u019", "answer": "see where you're going",
-      "options": ["see where you're going", "see what you're wearing", "know where you're living", "feel how you're aging"] } ] },
+{
+  "expression": "see where someone is going",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to understand what someone is about to say before they finish",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c13_u019",
+      "answer": "see where you're going",
+      "options": [
+        "see where you're going",
+        "see what you're wearing",
+        "know where you're living",
+        "feel how you're aging"
+      ]
+    }
+  ]
+},
 
-  { "expression": "patch things up", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to repair a relationship after a disagreement",
-    "exchanges": [ { "uid": "s07_e14_c02_u010", "answer": "patch things up",
-      "options": ["patch things up", "mix things up", "stir things up", "shake things up"] } ] },
+{
+  "expression": "patch things up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to repair a relationship after a disagreement",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c02_u010",
+      "answer": "patch things up",
+      "options": [
+        "patch things up",
+        "mix things up",
+        "stir things up",
+        "shake things up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "godsend", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "something unexpected that is very helpful exactly when you need it",
-    "exchanges": [ { "uid": "s07_e14_c02_u010", "answer": "Godsend",
-      "options": ["Godsend", "landmark", "handout", "setback"] } ] },
+{
+  "expression": "godsend",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something unexpected that is very helpful exactly when you need it",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c02_u010",
+      "answer": "Godsend",
+      "options": [
+        "Godsend",
+        "landmark",
+        "handout",
+        "setback"
+      ]
+    }
+  ]
+},
 
-  { "expression": "enthusiast", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a person who is very interested in a particular activity or subject",
-    "exchanges": [ { "uid": "s07_e14_c03_u010", "answer": "enthusiast",
-      "options": ["enthusiast", "enforcer", "executive", "exhibit"] } ] },
+{
+  "expression": "enthusiast",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who is very interested in a particular activity or subject",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c03_u010",
+      "answer": "enthusiast",
+      "options": [
+        "enthusiast",
+        "enforcer",
+        "executive",
+        "exhibit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for what it's worth", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "used to offer an opinion or feeling while admitting it may not change anything",
-    "exchanges": [ { "uid": "s07_e14_c04_u007", "answer": "for what it's worth",
-      "options": ["for what it's worth", "for all I care", "for better or worse", "for crying out loud"] } ] },
+{
+  "expression": "for what it's worth",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to offer an opinion or feeling while admitting it may not change anything",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c04_u007",
+      "answer": "for what it's worth",
+      "options": [
+        "for what it's worth",
+        "for all I care",
+        "for better or worse",
+        "for crying out loud"
+      ]
+    }
+  ]
+},
 
-  { "expression": "least of all", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "especially not the person or thing mentioned",
-    "exchanges": [ { "uid": "s07_e14_c04_u008", "answer": "Least of all",
-      "options": ["Least of all", "Most of all", "First of all", "After all"] } ] },
+{
+  "expression": "least of all",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "especially not the person or thing mentioned",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c04_u008",
+      "answer": "Least of all",
+      "options": [
+        "Least of all",
+        "Most of all",
+        "First of all",
+        "After all"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hog", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to keep something all to yourself instead of sharing it",
-    "exchanges": [ { "uid": "s07_e14_c09_u015", "answer": "hoggin'",
-      "options": ["hoggin'", "huggin'", "fakin'", "pushin'"] } ] },
+{
+  "expression": "hog",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep something all to yourself instead of sharing it",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c09_u015",
+      "answer": "hoggin'",
+      "options": [
+        "hoggin'",
+        "huggin'",
+        "fakin'",
+        "pushin'"
+      ]
+    }
+  ]
+},
 
-  { "expression": "haul ass", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to move or go very fast",
-    "exchanges": [ { "uid": "s07_e14_c05_u009", "answer": "Haul ass", "responseUid": null,
-      "options": ["Haul ass", "Hold still", "Make way", "Take five"] } ] },
+{
+  "expression": "haul ass",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to move or go very fast",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c05_u009",
+      "answer": "Haul ass",
+      "responseUid": null,
+      "options": [
+        "Haul ass",
+        "Hold still",
+        "Make way",
+        "Take five"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hammered", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "very drunk",
-    "exchanges": [ { "uid": "s07_e14_c10_u023", "answer": "hammered",
-      "options": ["hammered", "hampered", "handled", "hardened"] } ] }
+{
+  "expression": "hammered",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "very drunk",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c10_u023",
+      "answer": "hammered",
+      "options": [
+        "hammered",
+        "hampered",
+        "handled",
+        "hardened"
+      ]
+    }
+  ]
+}
 ]

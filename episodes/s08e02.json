@@ -1,490 +1,514 @@
 [
-  {
-    "expression": "do someone a favor",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to do something helpful for someone because they ask you to",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c02_u012",
-        "answer": "do you a favor",
-        "options": [
-          "do you a favor",
-          "make you a deal",
-          "tell you a secret",
-          "show you a trick"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "cheer up",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to make someone feel happier",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c04_u007",
-        "answer": "cheer Monica up",
-        "options": [
-          "cheer Monica up",
-          "fill Monica in",
-          "put Monica off",
-          "show Monica around"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "lie down",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to move into a position in which your body is flat, usually to rest",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c11_u026",
-        "answer": "lie down",
-        "options": [
-          "lie down",
-          "sit up",
-          "hang on",
-          "run out"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "long time no see",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "used as a greeting when you meet someone you have not seen for a long time",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c12_u003",
-        "answer": "long time no see",
-        "options": [
-          "long time no see",
-          "long story short",
-          "no time to lose",
-          "first come first served"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "look forward to",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to feel pleased and excited about something that is going to happen",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c01_u009",
-        "answer": "look forward to",
-        "options": [
-          "look forward to",
-          "look down on",
-          "look out for",
-          "look up to"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "freak out",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c05_u011",
-        "cueUid": "s08_e02_c05_u009",
-        "answer": "freaked me out",
-        "options": [
-          "freaked me out",
-          "calmed me down",
-          "cheered me up",
-          "helped me out"
-        ]
-      },
-      {
-        "uid": "s08_e02_c08_u002",
-        "answer": "freaked you out",
-        "options": [
-          "freaked you out",
-          "calmed you down",
-          "cheered you up",
-          "helped you out"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "let someone down",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to disappoint someone by failing to do what they expected of you",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c04_u014",
-        "answer": "letting her down",
-        "options": [
-          "letting her down",
-          "putting her off",
-          "getting her back",
-          "setting her up"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "in charge of",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "responsible for and in control of something",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c04_u023",
-        "responseUid": null,
-        "answer": "in charge of",
-        "options": [
-          "in charge of",
-          "in front of",
-          "in spite of",
-          "in need of"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "have a clue",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "to have any idea or understanding of something (usually used in the negative)",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c03_u031",
-        "answer": "have a clue",
-        "options": [
-          "have a clue",
-          "get a grip",
-          "take a hint",
-          "make a move"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "want nothing to do with",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to refuse to have any contact or involvement with someone or something",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c03_u045",
-        "answer": "nothing to do with",
-        "options": [
-          "nothing to do with",
-          "nothing to say to",
-          "nothing to go on",
-          "nothing to live for"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "right back at you",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "used to return a compliment or remark to the person who just said it",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c12_u006",
-        "answer": "right back at ya",
-        "options": [
-          "right back at ya",
-          "right up your alley",
-          "right on time",
-          "right this way"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "I'll tell you what",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "used to introduce a suggestion or offer",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c01_u017",
-        "answer": "I'll tell you what",
-        "options": [
-          "I'll tell you what",
-          "I'll show you how",
-          "I'll ask you why",
-          "I'll see you then"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "disposable",
-    "type": "word",
-    "level": "high",
-    "pos": "adjective",
-    "meaning": "designed to be thrown away after being used once or for a short time",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c01_u015",
-        "answer": "disposable",
-        "options": [
-          "disposable",
-          "durable",
-          "flexible",
-          "reliable"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "screw up",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to ruin something by making a bad mistake",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c04_u009",
-        "answer": "screwed this up",
-        "options": [
-          "screwed this up",
-          "sewed this up",
-          "chewed this up",
-          "screwed this in"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "get it over with",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c05_u014",
-        "answer": "get it over with",
-        "options": [
-          "get it over with",
-          "put it up with",
-          "take it out on",
-          "make it up for"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "track down",
-    "type": "phrase",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to find someone or something after a long search",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c03_u046",
-        "answer": "track him down",
-        "options": [
-          "track him down",
-          "turn him down",
-          "back him down",
-          "write him down"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "up for it",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "feeling willing or having enough energy to do something",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c11_u015",
-        "answer": "up for it",
-        "options": [
-          "up for it",
-          "in on it",
-          "on to it",
-          "off with it"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "see it coming",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "to realize in advance that something is going to happen",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c11_u040",
-        "answer": "see that coming",
-        "options": [
-          "see that coming",
-          "get that done",
-          "hear that right",
-          "take that back"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "rip off the Band-Aid",
-    "type": "colloquial",
-    "level": "college",
-    "pos": "expression",
-    "meaning": "to do something painful or unpleasant quickly so that it is over fast",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c08_u006",
-        "responseUid": null,
-        "answer": "rip the Band-Aid off",
-        "options": [
-          "rip the Band-Aid off",
-          "put the Band-Aid on",
-          "keep the Band-Aid on",
-          "wash the Band-Aid off"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "magnetism",
-    "type": "word",
-    "level": "college",
-    "pos": "noun",
-    "meaning": "a strong personal quality that attracts other people",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c03_u029",
-        "answer": "magnetism",
-        "options": [
-          "magnetism",
-          "metabolism",
-          "mechanism",
-          "momentum"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "call it even",
-    "type": "colloquial",
-    "level": "college",
-    "pos": "expression",
-    "meaning": "to agree that neither person owes the other anything anymore",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c11_u045",
-        "answer": "call it even",
-        "options": [
-          "call it even",
-          "make it quick",
-          "keep it real",
-          "take it easy"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "built into",
-    "type": "phrase",
-    "level": "college",
-    "pos": "verb",
-    "meaning": "included as a fixed part of something, such as a price or system",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c02_u004",
-        "answer": "built into",
-        "options": [
-          "built into",
-          "cut from",
-          "kept off",
-          "left over"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "dare",
-    "type": "word",
-    "level": "college",
-    "pos": "noun",
-    "meaning": "a challenge to do something risky or embarrassing to prove that you are brave",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c10_u007",
-        "answer": "dare",
-        "options": [
-          "dare",
-          "debt",
-          "drill",
-          "draft"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "play the fool",
-    "type": "colloquial",
-    "level": "expert",
-    "pos": "verb",
-    "meaning": "to behave in a silly way, sometimes on purpose, so that people think you are not clever",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c08_u004",
-        "answer": "play the fool",
-        "options": [
-          "play the fool",
-          "pay the bill",
-          "break the ice",
-          "hold the door"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "have another think coming",
-    "type": "colloquial",
-    "level": "expert",
-    "pos": "expression",
-    "meaning": "used to say that someone is wrong and will have to change their opinion or plan",
-    "exchanges": [
-      {
-        "uid": "s08_e02_c11_u049",
-        "answer": "another think coming",
-        "options": [
-          "another think coming",
-          "another bag missing",
-          "a bigger bill",
-          "a nice room"
-        ]
-      }
-    ]
-  }
+{
+  "expression": "do someone a favor",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to do something helpful for someone because they ask you to",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c02_u012",
+      "answer": "do you a favor",
+      "options": [
+        "do you a favor",
+        "make you a deal",
+        "tell you a secret",
+        "show you a trick"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cheer up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel happier",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c04_u007",
+      "answer": "cheer Monica up",
+      "options": [
+        "cheer Monica up",
+        "fill Monica in",
+        "put Monica off",
+        "show Monica around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lie down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to move into a position in which your body is flat, usually to rest",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c11_u026",
+      "answer": "lie down",
+      "options": [
+        "lie down",
+        "sit up",
+        "hang on",
+        "run out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "long time no see",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used as a greeting when you meet someone you have not seen for a long time",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c12_u003",
+      "answer": "long time no see",
+      "options": [
+        "long time no see",
+        "long story short",
+        "no time to lose",
+        "first come first served"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look forward to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel pleased and excited about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u009",
+      "answer": "look forward to",
+      "options": [
+        "look forward to",
+        "look down on",
+        "look out for",
+        "look up to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c05_u011",
+      "cueUid": "s08_e02_c05_u009",
+      "answer": "freaked me out",
+      "options": [
+        "freaked me out",
+        "calmed me down",
+        "cheered me up",
+        "helped me out"
+      ]
+    },
+    {
+      "uid": "s08_e02_c08_u002",
+      "answer": "freaked you out",
+      "options": [
+        "freaked you out",
+        "calmed you down",
+        "cheered you up",
+        "helped you out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let someone down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to disappoint someone by failing to do what they expected of you",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c04_u014",
+      "answer": "letting her down",
+      "options": [
+        "letting her down",
+        "putting her off",
+        "getting her back",
+        "setting her up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in charge of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "responsible for and in control of something",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c04_u023",
+      "responseUid": null,
+      "answer": "in charge of",
+      "options": [
+        "in charge of",
+        "in front of",
+        "in spite of",
+        "in need of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a clue",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have any idea or understanding of something (usually used in the negative)",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c03_u031",
+      "answer": "have a clue",
+      "options": [
+        "have a clue",
+        "get a grip",
+        "take a hint",
+        "make a move"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "want nothing to do with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to refuse to have any contact or involvement with someone or something",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c03_u045",
+      "answer": "nothing to do with",
+      "options": [
+        "nothing to do with",
+        "nothing to say to",
+        "nothing to go on",
+        "nothing to live for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "right back at you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to return a compliment or remark to the person who just said it",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c12_u006",
+      "answer": "right back at ya",
+      "options": [
+        "right back at ya",
+        "right up your alley",
+        "right on time",
+        "right this way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'll tell you what",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to introduce a suggestion or offer",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u017",
+      "answer": "I'll tell you what",
+      "options": [
+        "I'll tell you what",
+        "I'll show you how",
+        "I'll ask you why",
+        "I'll see you then"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "disposable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "designed to be thrown away after being used once or for a short time",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u015",
+      "answer": "disposable",
+      "options": [
+        "disposable",
+        "durable",
+        "flexible",
+        "reliable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "screw up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ruin something by making a bad mistake",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c04_u009",
+      "answer": "screwed this up",
+      "options": [
+        "screwed this up",
+        "sewed this up",
+        "chewed this up",
+        "screwed this in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get it over with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c05_u014",
+      "answer": "get it over with",
+      "options": [
+        "get it over with",
+        "put it up with",
+        "take it out on",
+        "make it up for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "track down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to find someone or something after a long search",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c03_u046",
+      "answer": "track him down",
+      "options": [
+        "track him down",
+        "turn him down",
+        "back him down",
+        "write him down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up for it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "feeling willing or having enough energy to do something",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c11_u015",
+      "answer": "up for it",
+      "options": [
+        "up for it",
+        "in on it",
+        "on to it",
+        "off with it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see it coming",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to realize in advance that something is going to happen",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c11_u040",
+      "answer": "see that coming",
+      "options": [
+        "see that coming",
+        "get that done",
+        "hear that right",
+        "take that back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rip off the Band-Aid",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to do something painful or unpleasant quickly so that it is over fast",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c08_u006",
+      "responseUid": null,
+      "answer": "rip the Band-Aid off",
+      "options": [
+        "rip the Band-Aid off",
+        "put the Band-Aid on",
+        "keep the Band-Aid on",
+        "wash the Band-Aid off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "magnetism",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a strong personal quality that attracts other people",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c03_u029",
+      "answer": "magnetism",
+      "options": [
+        "magnetism",
+        "metabolism",
+        "mechanism",
+        "momentum"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "call it even",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to agree that neither person owes the other anything anymore",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c11_u045",
+      "answer": "call it even",
+      "options": [
+        "call it even",
+        "make it quick",
+        "keep it real",
+        "take it easy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "built into",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "included as a fixed part of something, such as a price or system",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c02_u004",
+      "answer": "built into",
+      "options": [
+        "built into",
+        "cut from",
+        "kept off",
+        "left over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dare",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a challenge to do something risky or embarrassing to prove that you are brave",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c10_u007",
+      "answer": "dare",
+      "options": [
+        "dare",
+        "debt",
+        "drill",
+        "draft"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "play the fool",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to behave in a silly way, sometimes on purpose, so that people think you are not clever",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c08_u004",
+      "answer": "play the fool",
+      "options": [
+        "play the fool",
+        "pay the bill",
+        "break the ice",
+        "hold the door"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have another think coming",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "used to say that someone is wrong and will have to change their opinion or plan",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c11_u049",
+      "answer": "another think coming",
+      "options": [
+        "another think coming",
+        "another bag missing",
+        "a bigger bill",
+        "a nice room"
+      ]
+    }
+  ]
+}
 ]

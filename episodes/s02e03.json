@@ -1,126 +1,504 @@
 [
-  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "used to add a new topic or something you just remembered",
-    "exchanges": [ { "uid": "s02_e03_c06_u006", "answer": "by the way",
-      "options": ["by the way", "on the spot", "in the end", "for a while"] } ] },
+{
+  "expression": "by the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to add a new topic or something you just remembered",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c06_u006",
+      "answer": "by the way",
+      "options": [
+        "by the way",
+        "on the spot",
+        "in the end",
+        "for a while"
+      ]
+    }
+  ]
+},
 
-  { "expression": "there you go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show that someone has finally got it right or done the sensible thing",
-    "exchanges": [ { "uid": "s02_e03_c05_u007", "answer": "there you go",
-      "options": ["there you go", "here we are", "off you go", "so it goes"] } ] },
+{
+  "expression": "there you go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that someone has finally got it right or done the sensible thing",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c05_u007",
+      "answer": "there you go",
+      "options": [
+        "there you go",
+        "here we are",
+        "off you go",
+        "so it goes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to give someone help, especially in a difficult situation",
-    "exchanges": [ { "uid": "s02_e03_c08_u022", "answer": "help you out",
-      "options": ["help you out", "let you down", "hold you back", "turn you in"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to give someone help, especially in a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u022",
+      "answer": "help you out",
+      "options": [
+        "help you out",
+        "let you down",
+        "hold you back",
+        "turn you in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to stop worrying or talking about something",
-    "exchanges": [ { "uid": "s02_e03_c09_u004", "answer": "let it go",
-      "options": ["let it go", "take it in", "put it on", "set it off"] } ] },
+{
+  "expression": "let it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to stop worrying or talking about something",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c09_u004",
+      "answer": "let it go",
+      "options": [
+        "let it go",
+        "take it in",
+        "put it on",
+        "set it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep it down", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be quieter so as not to disturb others",
-    "exchanges": [ { "uid": "s02_e03_c01_u023", "answer": "keep it down",
-      "options": ["keep it down", "put it off", "turn it up", "take it back"] } ] },
+{
+  "expression": "keep it down",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be quieter so as not to disturb others",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c01_u023",
+      "answer": "keep it down",
+      "options": [
+        "keep it down",
+        "put it off",
+        "turn it up",
+        "take it back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [ { "uid": "s02_e03_c08_u019", "answer": "dumped",
-      "options": ["dumped", "hugged", "begged", "dared"] } ] },
+{
+  "expression": "dump",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u019",
+      "answer": "dumped",
+      "options": [
+        "dumped",
+        "hugged",
+        "begged",
+        "dared"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you bet", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "an emphatic way of saying yes or certainly",
-    "exchanges": [ { "uid": "s02_e03_c05_u005", "answer": "You bet",
-      "options": ["You bet", "You win", "Not yet", "Go figure"] } ] },
+{
+  "expression": "you bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an emphatic way of saying yes or certainly",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c05_u005",
+      "answer": "You bet",
+      "options": [
+        "You bet",
+        "You win",
+        "Not yet",
+        "Go figure"
+      ]
+    }
+  ]
+},
 
-  { "expression": "knock it off", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "stop doing that (said when someone is being annoying)",
-    "exchanges": [ { "uid": "s02_e03_c08_u013", "answer": "knock it off",
-      "options": ["knock it off", "call it off", "put it off", "take it off"] } ] },
+{
+  "expression": "knock it off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "stop doing that (said when someone is being annoying)",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u013",
+      "answer": "knock it off",
+      "options": [
+        "knock it off",
+        "call it off",
+        "put it off",
+        "take it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a clue", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have any idea or understanding of something (usually used in the negative)",
-    "exchanges": [ { "uid": "s02_e03_c11_u020", "answer": "have a clue",
-      "options": ["have a clue", "get a grip", "take a hint", "make a move"] } ] },
+{
+  "expression": "have a clue",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have any idea or understanding of something (usually used in the negative)",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c11_u020",
+      "answer": "have a clue",
+      "options": [
+        "have a clue",
+        "get a grip",
+        "take a hint",
+        "make a move"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [ { "uid": "s02_e03_c11_u013", "answer": "get over",
-      "options": ["get over", "go after", "put off", "turn down"] } ] },
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c11_u013",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "go after",
+        "put off",
+        "turn down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you wish", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to tell someone that what they just said is not true and will not happen",
-    "exchanges": [ { "uid": "s02_e03_c08_u042", "answer": "You wish",
-      "options": ["You wish", "You rock", "Good call", "Hang on"] } ] },
+{
+  "expression": "you wish",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that what they just said is not true and will not happen",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u042",
+      "answer": "You wish",
+      "options": [
+        "You wish",
+        "You rock",
+        "Good call",
+        "Hang on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "picky", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "too careful about choosing only what you like, so that you reject most things",
-    "exchanges": [ { "uid": "s02_e03_c01_u026", "answer": "picky", "cueUid": "s02_e03_c01_u016",
-      "options": ["picky", "clumsy", "greedy", "lazy"] } ] },
+{
+  "expression": "picky",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "too careful about choosing only what you like, so that you reject most things",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c01_u026",
+      "answer": "picky",
+      "cueUid": "s02_e03_c01_u016",
+      "options": [
+        "picky",
+        "clumsy",
+        "greedy",
+        "lazy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "don't get me started", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to warn that you have strong opinions on a topic and could talk about it for a long time",
-    "exchanges": [ { "uid": "s02_e03_c02_u020", "answer": "get me started",
-      "options": ["get me started", "let me finish", "keep me posted", "make me laugh"] } ] },
+{
+  "expression": "don't get me started",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to warn that you have strong opinions on a topic and could talk about it for a long time",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c02_u020",
+      "answer": "get me started",
+      "options": [
+        "get me started",
+        "let me finish",
+        "keep me posted",
+        "make me laugh"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pissed", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "very angry",
-    "exchanges": [ { "uid": "s02_e03_c02_u023", "answer": "pissed", "responseUid": null,
-      "options": ["pissed", "bored", "thrilled", "stuck"] } ] },
+{
+  "expression": "pissed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very angry",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c02_u023",
+      "answer": "pissed",
+      "responseUid": null,
+      "options": [
+        "pissed",
+        "bored",
+        "thrilled",
+        "stuck"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crack up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone laugh a lot",
-    "exchanges": [ { "uid": "s02_e03_c08_u004", "answer": "crack me up",
-      "options": ["crack me up", "put me down", "cheer me on", "wear me out"] } ] },
+{
+  "expression": "crack up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone laugh a lot",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u004",
+      "answer": "crack me up",
+      "options": [
+        "crack me up",
+        "put me down",
+        "cheer me on",
+        "wear me out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dork", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a socially awkward person with unfashionable interests",
-    "exchanges": [ { "uid": "s02_e03_c08_u012", "answer": "dorks",
-      "options": ["dorks", "jocks", "brats", "snobs"] } ] },
+{
+  "expression": "dork",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a socially awkward person with unfashionable interests",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u012",
+      "answer": "dorks",
+      "options": [
+        "dorks",
+        "jocks",
+        "brats",
+        "snobs"
+      ]
+    }
+  ]
+},
 
-  { "expression": "arrogant", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "behaving as if you are more important or always more right than other people",
-    "exchanges": [ { "uid": "s02_e03_c10_u005", "answer": "arrogant",
-      "options": ["arrogant", "reluctant", "pleasant", "distant"] } ] },
+{
+  "expression": "arrogant",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "behaving as if you are more important or always more right than other people",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c10_u005",
+      "answer": "arrogant",
+      "options": [
+        "arrogant",
+        "reluctant",
+        "pleasant",
+        "distant"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hold off on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to delay doing something",
-    "exchanges": [ { "uid": "s02_e03_c11_u031", "answer": "holding off on", "responseUid": null,
-      "options": ["holding off on", "catching up on", "looking down on", "running out of"] } ] },
+{
+  "expression": "hold off on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to delay doing something",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c11_u031",
+      "answer": "holding off on",
+      "responseUid": null,
+      "options": [
+        "holding off on",
+        "catching up on",
+        "looking down on",
+        "running out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "superficial", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "based only on appearance, without any depth or real substance",
-    "exchanges": [ { "uid": "s02_e03_c01_u007", "answer": "superficial",
-      "options": ["superficial", "sufficient", "supernatural", "suspicious"] } ] },
+{
+  "expression": "superficial",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "based only on appearance, without any depth or real substance",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c01_u007",
+      "answer": "superficial",
+      "options": [
+        "superficial",
+        "sufficient",
+        "supernatural",
+        "suspicious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "scoff", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to laugh at something in a way that shows you think it is stupid",
-    "exchanges": [ { "uid": "s02_e03_c02_u010", "answer": "scoff",
-      "options": ["scoff", "brag", "sulk", "gloat"] } ] },
+{
+  "expression": "scoff",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to laugh at something in a way that shows you think it is stupid",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c02_u010",
+      "answer": "scoff",
+      "options": [
+        "scoff",
+        "brag",
+        "sulk",
+        "gloat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cave", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to stop resisting and give in to pressure",
-    "exchanges": [ { "uid": "s02_e03_c10_u007", "answer": "caved",
-      "options": ["caved", "bluffed", "cheated", "quit"] } ] },
+{
+  "expression": "cave",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to stop resisting and give in to pressure",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c10_u007",
+      "answer": "caved",
+      "options": [
+        "caved",
+        "bluffed",
+        "cheated",
+        "quit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "safety net", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "something you can rely on if everything else fails",
-    "exchanges": [ { "uid": "s02_e03_c11_u010", "answer": "safety net",
-      "options": ["safety net", "home base", "dead end", "blind spot"] } ] },
+{
+  "expression": "safety net",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something you can rely on if everything else fails",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c11_u010",
+      "answer": "safety net",
+      "options": [
+        "safety net",
+        "home base",
+        "dead end",
+        "blind spot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "obsessive", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "unable to stop thinking about or doing something, to an unreasonable degree",
-    "exchanges": [ { "uid": "s02_e03_c07_u006", "answer": "obsessive",
-      "options": ["obsessive", "defensive", "impulsive", "passive"] } ] },
+{
+  "expression": "obsessive",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unable to stop thinking about or doing something, to an unreasonable degree",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c07_u006",
+      "answer": "obsessive",
+      "options": [
+        "obsessive",
+        "defensive",
+        "impulsive",
+        "passive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sully", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to damage the purity or good reputation of something",
-    "exchanges": [ { "uid": "s02_e03_c04_u003", "answer": "sullies",
-      "options": ["sullies", "mimics", "rescues", "surveys"] } ] },
+{
+  "expression": "sully",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to damage the purity or good reputation of something",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c04_u003",
+      "answer": "sullies",
+      "options": [
+        "sullies",
+        "mimics",
+        "rescues",
+        "surveys"
+      ]
+    }
+  ]
+},
 
-  { "expression": "if you will", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "said after an unusual or fanciful way of describing something, to acknowledge it is a bit of a stretch",
-    "exchanges": [ { "uid": "s02_e03_c10_u002", "answer": "if you will",
-      "options": ["if you will", "as you were", "so you say", "by all means"] } ] }
+{
+  "expression": "if you will",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said after an unusual or fanciful way of describing something, to acknowledge it is a bit of a stretch",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c10_u002",
+      "answer": "if you will",
+      "options": [
+        "if you will",
+        "as you were",
+        "so you say",
+        "by all means"
+      ]
+    }
+  ]
+}
 ]

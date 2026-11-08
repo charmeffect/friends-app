@@ -1,127 +1,507 @@
 [
-  { "expression": "nice try", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when someone's attempt or excuse has failed, often mockingly",
-    "exchanges": [ { "uid": "s08_e10_c01_u018", "answer": "Nice try", "responseUid": null,
-      "options": ["Nice try", "Good luck", "Well done", "Too bad"] } ] },
+{
+  "expression": "nice try",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when someone's attempt or excuse has failed, often mockingly",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c01_u018",
+      "answer": "Nice try",
+      "responseUid": null,
+      "options": [
+        "Nice try",
+        "Good luck",
+        "Well done",
+        "Too bad"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to have a friendly relationship with someone",
-    "exchanges": [ { "uid": "s08_e10_c03_u024", "answer": "get along",
-      "options": ["get along", "go ahead", "keep up", "look out"] } ] },
+{
+  "expression": "get along",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c03_u024",
+      "answer": "get along",
+      "options": [
+        "get along",
+        "go ahead",
+        "keep up",
+        "look out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "try on", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to put on a piece of clothing to see whether it fits or looks good",
-    "exchanges": [ { "uid": "s08_e10_c05_u014", "answer": "try the outfit on", "responseUid": "s08_e10_c05_u016",
-      "options": ["try the outfit on", "put the outfit off", "take the outfit in", "turn the outfit up"] } ] },
+{
+  "expression": "try on",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to put on a piece of clothing to see whether it fits or looks good",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c05_u014",
+      "answer": "try the outfit on",
+      "responseUid": "s08_e10_c05_u016",
+      "options": [
+        "try the outfit on",
+        "put the outfit off",
+        "take the outfit in",
+        "turn the outfit up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a point", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have said something that is a fair and valid argument",
-    "exchanges": [ { "uid": "s08_e10_c01_u009", "answer": "had a point", "responseUid": null,
-      "options": ["had a point", "had a clue", "had a line", "had a turn"] } ] },
+{
+  "expression": "have a point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have said something that is a fair and valid argument",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c01_u009",
+      "answer": "had a point",
+      "responseUid": null,
+      "options": [
+        "had a point",
+        "had a clue",
+        "had a line",
+        "had a turn"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sold out", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "having no tickets or goods left because they have all been sold",
-    "exchanges": [ { "uid": "s08_e10_c02_u034", "answer": "sold out",
-      "options": ["sold out", "worn out", "left out", "checked out"] } ] },
+{
+  "expression": "sold out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "having no tickets or goods left because they have all been sold",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c02_u034",
+      "answer": "sold out",
+      "options": [
+        "sold out",
+        "worn out",
+        "left out",
+        "checked out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to laugh at or joke about someone in an unkind way",
-    "exchanges": [ { "uid": "s08_e10_c03_u026", "answer": "made fun of",
-      "options": ["made fun of", "made up for", "made use of", "made way for"] } ] },
+{
+  "expression": "make fun of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to laugh at or joke about someone in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c03_u026",
+      "answer": "made fun of",
+      "options": [
+        "made fun of",
+        "made up for",
+        "made use of",
+        "made way for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hop on", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to quickly climb onto something, such as a bike or someone's back",
-    "exchanges": [ { "uid": "s08_e10_c08_u014", "answer": "Hop on",
-      "options": ["Hop on", "Hang up", "Hold out", "Hand over"] } ] },
+{
+  "expression": "hop on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to quickly climb onto something, such as a bike or someone's back",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c08_u014",
+      "answer": "Hop on",
+      "options": [
+        "Hop on",
+        "Hang up",
+        "Hold out",
+        "Hand over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reschedule", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to arrange for a meeting or event to happen at a different time",
-    "exchanges": [ { "uid": "s08_e10_c10_u016", "answer": "reschedule",
-      "options": ["reschedule", "rehearse", "recover", "reverse"] } ] },
+{
+  "expression": "reschedule",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange for a meeting or event to happen at a different time",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c10_u016",
+      "answer": "reschedule",
+      "options": [
+        "reschedule",
+        "rehearse",
+        "recover",
+        "reverse"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in luck", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "fortunate; getting something good by chance",
-    "exchanges": [ { "uid": "s08_e10_c10_u024", "answer": "in luck",
-      "options": ["in luck", "at ease", "on time", "in charge"] } ] },
+{
+  "expression": "in luck",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "fortunate; getting something good by chance",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c10_u024",
+      "answer": "in luck",
+      "options": [
+        "in luck",
+        "at ease",
+        "on time",
+        "in charge"
+      ]
+    }
+  ]
+},
 
-  { "expression": "scared to death", "type": "colloquial", "level": "middle", "pos": "adjective",
-    "meaning": "extremely frightened or worried",
-    "exchanges": [ { "uid": "s08_e10_c12_u018", "answer": "scared to death",
-      "options": ["scared to death", "bored to tears", "tickled pink", "worn to pieces"] } ] },
+{
+  "expression": "scared to death",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely frightened or worried",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c12_u018",
+      "answer": "scared to death",
+      "options": [
+        "scared to death",
+        "bored to tears",
+        "tickled pink",
+        "worn to pieces"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't stand", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to strongly dislike someone or something",
-    "exchanges": [ { "uid": "s08_e10_c12_u024", "answer": "stand",
-      "options": ["stand", "sit", "hold", "lift"] } ] },
+{
+  "expression": "can't stand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to strongly dislike someone or something",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c12_u024",
+      "answer": "stand",
+      "options": [
+        "stand",
+        "sit",
+        "hold",
+        "lift"
+      ]
+    }
+  ]
+},
 
-  { "expression": "smooth things over", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to end a disagreement and make a situation calm and friendly again",
-    "exchanges": [ { "uid": "s08_e10_c03_u027", "answer": "smooth things over",
-      "options": ["smooth things over", "shake things up", "stir things up", "play things down"] } ] },
+{
+  "expression": "smooth things over",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to end a disagreement and make a situation calm and friendly again",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c03_u027",
+      "answer": "smooth things over",
+      "options": [
+        "smooth things over",
+        "shake things up",
+        "stir things up",
+        "play things down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get down to business", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to start doing the thing you are really there to do",
-    "exchanges": [ { "uid": "s08_e10_c04_u009", "answer": "down to business",
-      "options": ["down to business", "out of hand", "on my nerves", "off the hook"] } ] },
+{
+  "expression": "get down to business",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to start doing the thing you are really there to do",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c04_u009",
+      "answer": "down to business",
+      "options": [
+        "down to business",
+        "out of hand",
+        "on my nerves",
+        "off the hook"
+      ]
+    }
+  ]
+},
 
-  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "giving encouragement and help to someone",
-    "exchanges": [ { "uid": "s08_e10_c06_u003", "answer": "supportive",
-      "options": ["supportive", "sensitive", "selective", "secretive"] } ] },
+{
+  "expression": "supportive",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "giving encouragement and help to someone",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c06_u003",
+      "answer": "supportive",
+      "options": [
+        "supportive",
+        "sensitive",
+        "selective",
+        "secretive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get a say", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to be allowed to give an opinion that influences a decision",
-    "exchanges": [ { "uid": "s08_e10_c09_u014", "answer": "get a say",
-      "options": ["get a say", "have a go", "take a shot", "make a call"] } ] },
+{
+  "expression": "get a say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be allowed to give an opinion that influences a decision",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c09_u014",
+      "answer": "get a say",
+      "options": [
+        "get a say",
+        "have a go",
+        "take a shot",
+        "make a call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come out", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to tell people openly that you are gay",
-    "exchanges": [ { "uid": "s08_e10_c07_u014", "answer": "coming out",
-      "options": ["coming out", "going off", "getting by", "showing off"] } ] },
+{
+  "expression": "come out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to tell people openly that you are gay",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c07_u014",
+      "answer": "coming out",
+      "options": [
+        "coming out",
+        "going off",
+        "getting by",
+        "showing off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "high hopes", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "strong expectations that something will be successful",
-    "exchanges": [ { "uid": "s08_e10_c12_u004", "answer": "high hopes",
-      "options": ["high hopes", "hard feelings", "big doubts", "cold feet"] } ] },
+{
+  "expression": "high hopes",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "strong expectations that something will be successful",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c12_u004",
+      "answer": "high hopes",
+      "options": [
+        "high hopes",
+        "hard feelings",
+        "big doubts",
+        "cold feet"
+      ]
+    }
+  ]
+},
 
+{
+  "expression": "unsettling",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "making you feel anxious, worried, or uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c08_u012",
+      "answer": "unsettling",
+      "options": [
+        "unsettling",
+        "unwilling",
+        "unfolding",
+        "unfitting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unsettling", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "making you feel anxious, worried, or uncomfortable",
-    "exchanges": [ { "uid": "s08_e10_c08_u012", "answer": "unsettling",
-      "options": ["unsettling", "unwilling", "unfolding", "unfitting"] } ] },
+{
+  "expression": "turn someone on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make someone sexually excited",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c08_u016",
+      "answer": "turned on",
+      "responseUid": null,
+      "options": [
+        "turned on",
+        "let down",
+        "put off",
+        "set up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn someone on", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to make someone sexually excited",
-    "exchanges": [ { "uid": "s08_e10_c08_u016", "answer": "turned on", "responseUid": null,
-      "options": ["turned on", "let down", "put off", "set up"] } ] },
+{
+  "expression": "gather",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to conclude something from what you have seen or heard",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c10_u011",
+      "answer": "gather",
+      "responseUid": "s08_e10_c10_u013",
+      "options": [
+        "gather",
+        "wander",
+        "bother",
+        "suffer"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gather", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to conclude something from what you have seen or heard",
-    "exchanges": [ { "uid": "s08_e10_c10_u011", "answer": "gather", "responseUid": "s08_e10_c10_u013",
-      "options": ["gather", "wander", "bother", "suffer"] } ] },
+{
+  "expression": "contraceptive",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a drug or device used to prevent a woman from becoming pregnant",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c09_u022",
+      "answer": "Contraceptives",
+      "options": [
+        "Contraceptives",
+        "Antibiotics",
+        "Supplements",
+        "Vaccines"
+      ]
+    }
+  ]
+},
 
-  { "expression": "contraceptive", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a drug or device used to prevent a woman from becoming pregnant",
-    "exchanges": [ { "uid": "s08_e10_c09_u022", "answer": "Contraceptives",
-      "options": ["Contraceptives", "Antibiotics", "Supplements", "Vaccines"] } ] },
+{
+  "expression": "in a pickle",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "in a difficult or awkward situation",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c10_u018",
+      "answer": "pickle",
+      "options": [
+        "pickle",
+        "puddle",
+        "pocket",
+        "picnic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in a pickle", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "in a difficult or awkward situation",
-    "exchanges": [ { "uid": "s08_e10_c10_u018", "answer": "pickle",
-      "options": ["pickle", "puddle", "pocket", "picnic"] } ] },
+{
+  "expression": "knocked up",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "pregnant",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c09_u021",
+      "answer": "knocked up",
+      "options": [
+        "knocked up",
+        "cheered up",
+        "shook up",
+        "dug up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "knocked up", "type": "colloquial", "level": "expert", "pos": "adjective",
-    "meaning": "pregnant",
-    "exchanges": [ { "uid": "s08_e10_c09_u021", "answer": "knocked up",
-      "options": ["knocked up", "cheered up", "shook up", "dug up"] } ] },
+{
+  "expression": "scuffed",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "marked or scraped on the surface from being worn or rubbed",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c03_u017",
+      "answer": "scuffed",
+      "options": [
+        "scuffed",
+        "stuffed",
+        "shuffled",
+        "scolded"
+      ]
+    }
+  ]
+},
 
-  { "expression": "scuffed", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "marked or scraped on the surface from being worn or rubbed",
-    "exchanges": [ { "uid": "s08_e10_c03_u017", "answer": "scuffed",
-      "options": ["scuffed", "stuffed", "shuffled", "scolded"] } ] },
-
-  { "expression": "scatterbrain", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a person who is forgetful and disorganized",
-    "exchanges": [ { "uid": "s08_e10_c07_u022", "answer": "scatterbrain", "responseUid": null,
-      "options": ["scatterbrain", "heartthrob", "daredevil", "busybody"] } ] }
+{
+  "expression": "scatterbrain",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a person who is forgetful and disorganized",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c07_u022",
+      "answer": "scatterbrain",
+      "responseUid": null,
+      "options": [
+        "scatterbrain",
+        "heartthrob",
+        "daredevil",
+        "busybody"
+      ]
+    }
+  ]
+}
 ]

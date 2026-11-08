@@ -104,7 +104,7 @@
 {
   "expression": "all jokes aside",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "said to show that you are now going to talk seriously",
   "exchanges": [
@@ -165,7 +165,7 @@
 {
   "expression": "bid on",
   "type": "phrase",
-  "level": "middle",
+  "level": "high",
   "pos": "verb",
   "meaning": "to offer a price for something, especially at an auction",
   "exchanges": [
@@ -427,7 +427,7 @@
 {
   "expression": "keep tabs on",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to watch someone or something carefully to know what they are doing",
   "exchanges": [

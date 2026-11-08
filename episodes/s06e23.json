@@ -1,131 +1,513 @@
 [
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s06_e23_c01_u004", "answer": "find out",
-      "options": ["find out", "run out", "work out", "drop out"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c01_u004",
+      "answer": "find out",
+      "options": [
+        "find out",
+        "run out",
+        "work out",
+        "drop out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for real", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "seriously, not just for practice or fun",
-    "exchanges": [ { "uid": "s06_e23_c15_u004", "answer": "for real",
-      "options": ["for real", "for free", "for once", "for rent"] } ] },
+{
+  "expression": "for real",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "seriously, not just for practice or fun",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c15_u004",
+      "answer": "for real",
+      "options": [
+        "for real",
+        "for free",
+        "for once",
+        "for rent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pick out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to choose or remove something from a group",
-    "exchanges": [
-      { "uid": "s06_e23_c01_u002", "answer": "pick out",
-        "options": ["pick out", "hand out", "point out", "rule out"] },
-      { "uid": "s06_e23_c16_u008", "answer": "pick out",
-        "options": ["pick out", "hand out", "point out", "rule out"] } ] },
+{
+  "expression": "pick out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose or remove something from a group",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c01_u002",
+      "answer": "pick out",
+      "options": [
+        "pick out",
+        "hand out",
+        "point out",
+        "rule out"
+      ]
+    },
+    {
+      "uid": "s06_e23_c16_u008",
+      "answer": "pick out",
+      "options": [
+        "pick out",
+        "hand out",
+        "point out",
+        "rule out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to look at something closely because it interests you",
-    "exchanges": [ { "uid": "s06_e23_c15_u005", "answer": "check out",
-      "options": ["check out", "get over", "give up", "make up"] } ] },
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c15_u005",
+      "answer": "check out",
+      "options": [
+        "check out",
+        "get over",
+        "give up",
+        "make up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stick with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to keep choosing or using something instead of changing to something else",
-    "exchanges": [ { "uid": "s06_e23_c04_u006", "answer": "stick with",
-      "options": ["stick with", "run into", "go over", "get off"] } ] },
+{
+  "expression": "stick with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep choosing or using something instead of changing to something else",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c04_u006",
+      "answer": "stick with",
+      "options": [
+        "stick with",
+        "run into",
+        "go over",
+        "get off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't complain", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when asked how you are, meaning things are fine",
-    "exchanges": [ { "uid": "s06_e23_c02_u015", "answer": "Can't complain",
+{
+  "expression": "can't complain",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when asked how you are, meaning things are fine",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c02_u015",
+      "answer": "Can't complain",
       "responseUid": null,
-      "options": ["Can't complain", "Can't decide", "Can't remember", "Can't stop"] } ] },
+      "options": [
+        "Can't complain",
+        "Can't decide",
+        "Can't remember",
+        "Can't stop"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cover up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to hide a feeling or a problem so that other people do not notice it",
-    "exchanges": [ { "uid": "s06_e23_c02_u041", "answer": "cover it up",
-      "options": ["cover it up", "look it up", "turn it up", "wash it up"] } ] },
+{
+  "expression": "cover up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to hide a feeling or a problem so that other people do not notice it",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c02_u041",
+      "answer": "cover it up",
+      "options": [
+        "cover it up",
+        "look it up",
+        "turn it up",
+        "wash it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "brother-in-law", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "the brother of your husband or wife, or the husband of your sister",
-    "exchanges": [ { "uid": "s06_e23_c15_u009", "answer": "brothers-in-law",
-      "options": ["brothers-in-law", "stepbrothers", "roommates", "cousins"] } ] },
+{
+  "expression": "brother-in-law",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the brother of your husband or wife, or the husband of your sister",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c15_u009",
+      "answer": "brothers-in-law",
+      "options": [
+        "brothers-in-law",
+        "stepbrothers",
+        "roommates",
+        "cousins"
+      ]
+    }
+  ]
+},
 
-  { "expression": "walk in on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to enter a room and unexpectedly find people doing something private",
-    "exchanges": [ { "uid": "s06_e23_c01_u006", "answer": "walked in on",
-      "options": ["walked in on", "ran out on", "got back at", "looked down on"] } ] },
+{
+  "expression": "walk in on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enter a room and unexpectedly find people doing something private",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c01_u006",
+      "answer": "walked in on",
+      "options": [
+        "walked in on",
+        "ran out on",
+        "got back at",
+        "looked down on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to bring a good result after time, effort, or money has been spent",
-    "exchanges": [ { "uid": "s06_e23_c01_u007", "answer": "pays off",
-      "options": ["pays off", "shows off", "wears off", "drops off"] } ] },
+{
+  "expression": "pay off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to bring a good result after time, effort, or money has been spent",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c01_u007",
+      "answer": "pays off",
+      "options": [
+        "pays off",
+        "shows off",
+        "wears off",
+        "drops off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "goose bumps", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "small raised spots on your skin caused by cold, fear, or strong excitement",
-    "exchanges": [ { "uid": "s06_e23_c09_u011", "answer": "goose bumps",
-      "options": ["goose bumps", "hiccups", "freckles", "dimples"] } ] },
+{
+  "expression": "goose bumps",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "small raised spots on your skin caused by cold, fear, or strong excitement",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c09_u011",
+      "answer": "goose bumps",
+      "options": [
+        "goose bumps",
+        "hiccups",
+        "freckles",
+        "dimples"
+      ]
+    }
+  ]
+},
 
-  { "expression": "talk someone into", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to persuade someone to do something they were not planning to do",
-    "exchanges": [ { "uid": "s06_e23_c13_u003", "answer": "talk me into",
-      "options": ["talk me into", "run me over", "tell me off", "pick me up"] } ] },
+{
+  "expression": "talk someone into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to do something they were not planning to do",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c13_u003",
+      "answer": "talk me into",
+      "options": [
+        "talk me into",
+        "run me over",
+        "tell me off",
+        "pick me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mix-up", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a mistake in which one thing or arrangement is confused with another",
-    "exchanges": [ { "uid": "s06_e23_c14_u014", "answer": "mix-up",
-      "options": ["mix-up", "make-up", "pick-up", "check-up"] } ] },
+{
+  "expression": "mix-up",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a mistake in which one thing or arrangement is confused with another",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c14_u014",
+      "answer": "mix-up",
+      "options": [
+        "mix-up",
+        "make-up",
+        "pick-up",
+        "check-up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have your heart set on", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to want something very much and be hoping to get it",
-    "exchanges": [ { "uid": "s06_e23_c14_u017", "answer": "heart was set on",
-      "options": ["heart was set on", "heart was hung on", "heart was put off", "heart was let down"] } ] },
+{
+  "expression": "have your heart set on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to want something very much and be hoping to get it",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c14_u017",
+      "answer": "heart was set on",
+      "options": [
+        "heart was set on",
+        "heart was hung on",
+        "heart was put off",
+        "heart was let down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "water under the bridge", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "a past problem or disagreement that is no longer important",
-    "exchanges": [ { "uid": "s06_e23_c15_u012", "answer": "water under the bridge",
-      "options": ["water under the bridge", "salt in the wound", "a dark horse", "the last straw"] } ] },
+{
+  "expression": "water under the bridge",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a past problem or disagreement that is no longer important",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c15_u012",
+      "answer": "water under the bridge",
+      "options": [
+        "water under the bridge",
+        "salt in the wound",
+        "a dark horse",
+        "the last straw"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blow someone off", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to cancel plans with someone or ignore them without giving a good reason",
-    "exchanges": [
-      { "uid": "s06_e23_c02_u029", "answer": "blowing us off",
-        "options": ["blowing us off", "cheering us up", "showing us around", "taking us in"] },
-      { "uid": "s06_e23_c05_u002", "answer": "blew us off",
-        "options": ["blew us off", "cheered us up", "showed us around", "took us in"] },
-      { "uid": "s06_e23_c10_u003", "answer": "blew us off",
-        "options": ["blew us off", "cheered us up", "showed us around", "took us in"] } ] },
+{
+  "expression": "blow someone off",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to cancel plans with someone or ignore them without giving a good reason",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c02_u029",
+      "answer": "blowing us off",
+      "options": [
+        "blowing us off",
+        "cheering us up",
+        "showing us around",
+        "taking us in"
+      ]
+    },
+    {
+      "uid": "s06_e23_c05_u002",
+      "answer": "blew us off",
+      "options": [
+        "blew us off",
+        "cheered us up",
+        "showed us around",
+        "took us in"
+      ]
+    },
+    {
+      "uid": "s06_e23_c10_u003",
+      "answer": "blew us off",
+      "options": [
+        "blew us off",
+        "cheered us up",
+        "showed us around",
+        "took us in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "haggle", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to argue about a price until both sides agree",
-    "exchanges": [ { "uid": "s06_e23_c04_u007", "answer": "haggle",
-      "options": ["haggle", "juggle", "gamble", "hassle"] } ] },
+{
+  "expression": "haggle",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to argue about a price until both sides agree",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c04_u007",
+      "answer": "haggle",
+      "options": [
+        "haggle",
+        "juggle",
+        "gamble",
+        "hassle"
+      ]
+    }
+  ]
+},
 
-  { "expression": "patch things up", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to repair a relationship after a disagreement",
-    "exchanges": [ { "uid": "s06_e23_c05_u008", "answer": "patch things up",
-      "options": ["patch things up", "shake things up", "mix things up", "wrap things up"] } ] },
+{
+  "expression": "patch things up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to repair a relationship after a disagreement",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c05_u008",
+      "answer": "patch things up",
+      "options": [
+        "patch things up",
+        "shake things up",
+        "mix things up",
+        "wrap things up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unleash", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to suddenly release a strong force or feeling that was held back",
-    "exchanges": [ { "uid": "s06_e23_c06_u004", "answer": "unleash",
-      "options": ["unleash", "unwind", "undermine", "unsettle"] } ] },
+{
+  "expression": "unleash",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to suddenly release a strong force or feeling that was held back",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c06_u004",
+      "answer": "unleash",
+      "options": [
+        "unleash",
+        "unwind",
+        "undermine",
+        "unsettle"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stifle", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to stop someone from expressing their feelings or developing freely",
-    "exchanges": [ { "uid": "s06_e23_c11_u013", "answer": "stifle",
+{
+  "expression": "stifle",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to stop someone from expressing their feelings or developing freely",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c11_u013",
+      "answer": "stifle",
       "responseUid": null,
-      "options": ["stifle", "flatter", "tickle", "pamper"] } ] },
+      "options": [
+        "stifle",
+        "flatter",
+        "tickle",
+        "pamper"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a tad", "type": "colloquial", "level": "college", "pos": "adverb",
-    "meaning": "slightly; a little bit",
-    "exchanges": [ { "uid": "s06_e23_c07_u003", "answer": "A tad",
-      "options": ["A tad", "A tab", "A tip", "A toe"] } ] },
+{
+  "expression": "a tad",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "slightly; a little bit",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c07_u003",
+      "answer": "A tad",
+      "options": [
+        "A tad",
+        "A tab",
+        "A tip",
+        "A toe"
+      ]
+    }
+  ]
+},
 
-  { "expression": "still waters run deep", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "a quiet person may have strong feelings or deep thoughts that they do not show",
-    "exchanges": [ { "uid": "s06_e23_c03_u007", "answer": "still waters run deep",
-      "options": ["still waters run deep", "calm seas run high", "quiet rivers flow fast", "deep wells run dry"] } ] },
+{
+  "expression": "still waters run deep",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a quiet person may have strong feelings or deep thoughts that they do not show",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c03_u007",
+      "answer": "still waters run deep",
+      "options": [
+        "still waters run deep",
+        "calm seas run high",
+        "quiet rivers flow fast",
+        "deep wells run dry"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mooch off", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to keep getting things from someone without paying or giving anything back",
-    "exchanges": [ { "uid": "s06_e23_c05_u007", "answer": "mooching off",
-      "options": ["mooching off", "showing off", "backing off", "checking off"] } ] },
+{
+  "expression": "mooch off",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to keep getting things from someone without paying or giving anything back",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c05_u007",
+      "answer": "mooching off",
+      "options": [
+        "mooching off",
+        "showing off",
+        "backing off",
+        "checking off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freeze out", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to deliberately ignore someone and leave them out as a punishment",
-    "exchanges": [ { "uid": "s06_e23_c10_u009", "answer": "Freeze him out",
-      "options": ["Freeze him out", "Melt him down", "Burn him up", "Cool him off"] } ] }
+{
+  "expression": "freeze out",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to deliberately ignore someone and leave them out as a punishment",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c10_u009",
+      "answer": "Freeze him out",
+      "options": [
+        "Freeze him out",
+        "Melt him down",
+        "Burn him up",
+        "Cool him off"
+      ]
+    }
+  ]
+}
 ]

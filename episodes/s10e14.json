@@ -41,7 +41,7 @@
 
 {
   "expression": "in the middle of",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "middle",
   "pos": "expression",
   "meaning": "busy doing something that has not been finished yet",
@@ -172,7 +172,7 @@
 {
   "expression": "prude",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "a person who is easily embarrassed or shocked by talk about private, intimate matters",
   "exchanges": [

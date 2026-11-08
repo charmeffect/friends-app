@@ -342,7 +342,7 @@
 {
   "expression": "no strings attached",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "given or offered without any conditions or expectations in return",
   "exchanges": [
@@ -362,7 +362,7 @@
 {
   "expression": "resentful",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "feeling bitter or angry because you think something is unfair",
   "exchanges": [
@@ -382,7 +382,7 @@
 {
   "expression": "steal someone's thunder",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "verb",
   "meaning": "to take the attention or praise that someone else expected to get",
   "exchanges": [

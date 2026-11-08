@@ -373,7 +373,7 @@
 {
   "expression": "relocate",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to move someone to a new place to live and work, often by an employer",
   "exchanges": [
@@ -473,7 +473,7 @@
 {
   "expression": "botched",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "adjective",
   "meaning": "done badly or clumsily so that it goes wrong",
   "exchanges": [

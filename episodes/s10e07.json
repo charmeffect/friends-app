@@ -1,126 +1,505 @@
 [
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s10_e07_c01_u011", "answer": "came up with",
-      "options": ["came up with", "came down with", "got away with", "put up with"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c01_u011",
+      "answer": "came up with",
+      "options": [
+        "came up with",
+        "came down with",
+        "got away with",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show you are pleased about or approve of what someone has done",
-    "exchanges": [ { "uid": "s10_e07_c14_u010", "answer": "Good for you",
-      "options": ["Good for you", "Shame on you", "Up to you", "After you"] } ] },
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are pleased about or approve of what someone has done",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c14_u010",
+      "answer": "Good for you",
+      "options": [
+        "Good for you",
+        "Shame on you",
+        "Up to you",
+        "After you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get used to", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to become familiar with something so that it no longer seems strange",
-    "exchanges": [ { "uid": "s10_e07_c14_u010", "answer": "getting used to",
-      "options": ["getting used to", "getting through to", "getting back to", "getting around to"] } ] },
+{
+  "expression": "get used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become familiar with something so that it no longer seems strange",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c14_u010",
+      "answer": "getting used to",
+      "options": [
+        "getting used to",
+        "getting through to",
+        "getting back to",
+        "getting around to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s10_e07_c04_u024", "answer": "freak out",
-      "options": ["freak out", "show off", "back off", "work out"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c04_u024",
+      "answer": "freak out",
+      "options": [
+        "freak out",
+        "show off",
+        "back off",
+        "work out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come by", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make a short visit to a place",
-    "exchanges": [ { "uid": "s10_e07_c02_u005", "answer": "coming by",
-      "options": ["coming by", "coming off", "going by", "coming out"] } ] },
+{
+  "expression": "come by",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a short visit to a place",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c02_u005",
+      "answer": "coming by",
+      "options": [
+        "coming by",
+        "coming off",
+        "going by",
+        "coming out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "all of a sudden", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "suddenly and unexpectedly",
-    "exchanges": [ { "uid": "s10_e07_c04_u016", "answer": "all of a sudden",
-      "options": ["all of a sudden", "out of the question", "once in a while", "by and large"] } ] },
+{
+  "expression": "all of a sudden",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "suddenly and unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c04_u016",
+      "answer": "all of a sudden",
+      "options": [
+        "all of a sudden",
+        "out of the question",
+        "once in a while",
+        "by and large"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to laugh at or joke about someone in an unkind way",
-    "exchanges": [ { "uid": "s10_e07_c04_u018", "answer": "make fun of",
-      "options": ["make fun of", "make sense of", "make use of", "make room for"] } ] },
+{
+  "expression": "make fun of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to laugh at or joke about someone in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c04_u018",
+      "answer": "make fun of",
+      "options": [
+        "make fun of",
+        "make sense of",
+        "make use of",
+        "make room for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start talking about a subject",
-    "exchanges": [ { "uid": "s10_e07_c08_u025", "answer": "brought it up", "cueUid": "s10_e07_c08_u023",
-      "options": ["brought it up", "brought it about", "let it slide", "took it out"] } ] },
+{
+  "expression": "bring up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start talking about a subject",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c08_u025",
+      "answer": "brought it up",
+      "cueUid": "s10_e07_c08_u023",
+      "options": [
+        "brought it up",
+        "brought it about",
+        "let it slide",
+        "took it out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "save up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to keep money so that you can pay for something later",
-    "exchanges": [ { "uid": "s10_e07_c12_u015", "answer": "save up",
-      "options": ["save up", "sell out", "give in", "show up"] } ] },
+{
+  "expression": "save up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep money so that you can pay for something later",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c12_u015",
+      "answer": "save up",
+      "options": [
+        "save up",
+        "sell out",
+        "give in",
+        "show up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a commitment", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to promise seriously to stay loyal to someone or to do something",
-    "exchanges": [ { "uid": "s10_e07_c05_u012", "answer": "making a commitment",
-      "options": ["making a commitment", "making a complaint", "making an exception", "making a scene"] } ] },
+{
+  "expression": "make a commitment",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to promise seriously to stay loyal to someone or to do something",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c05_u012",
+      "answer": "making a commitment",
+      "options": [
+        "making a commitment",
+        "making a complaint",
+        "making an exception",
+        "making a scene"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pricey", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "costing a lot of money",
-    "exchanges": [ { "uid": "s10_e07_c01_u009", "answer": "pricey",
-      "options": ["pricey", "picky", "prickly", "pushy"] } ] },
+{
+  "expression": "pricey",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "costing a lot of money",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c01_u009",
+      "answer": "pricey",
+      "options": [
+        "pricey",
+        "picky",
+        "prickly",
+        "pushy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gesture", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an action done to show your feelings, such as kindness or thanks",
-    "exchanges": [ { "uid": "s10_e07_c01_u019", "answer": "gesture",
-      "options": ["gesture", "accident", "rumor", "excuse"] } ] },
+{
+  "expression": "gesture",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an action done to show your feelings, such as kindness or thanks",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c01_u019",
+      "answer": "gesture",
+      "options": [
+        "gesture",
+        "accident",
+        "rumor",
+        "excuse"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no way around it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "there is no way to avoid a difficult situation or fact",
-    "exchanges": [ { "uid": "s10_e07_c01_u012", "answer": "no way around it",
-      "options": ["no way around it", "no harm in it", "no rush for it", "no end to it"] } ] },
+{
+  "expression": "no way around it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "there is no way to avoid a difficult situation or fact",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c01_u012",
+      "answer": "no way around it",
+      "options": [
+        "no way around it",
+        "no harm in it",
+        "no rush for it",
+        "no end to it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sizeable", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "fairly large in amount or size",
-    "exchanges": [ { "uid": "s10_e07_c03_u002", "answer": "sizeable",
-      "options": ["sizeable", "sloppy", "fragile", "tender"] } ] },
+{
+  "expression": "sizeable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "fairly large in amount or size",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c03_u002",
+      "answer": "sizeable",
+      "options": [
+        "sizeable",
+        "sloppy",
+        "fragile",
+        "tender"
+      ]
+    }
+  ]
+},
 
-  { "expression": "give someone a hard time", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to tease or criticize someone, often in a playful way",
-    "exchanges": [ { "uid": "s10_e07_c11_u008", "answer": "hard time", "responseUid": null,
-      "options": ["hard time", "good time", "free hand", "fair shot"] } ] },
+{
+  "expression": "give someone a hard time",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to tease or criticize someone, often in a playful way",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c11_u008",
+      "answer": "hard time",
+      "responseUid": null,
+      "options": [
+        "hard time",
+        "good time",
+        "free hand",
+        "fair shot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put one's foot down", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to firmly refuse to allow something or insist on a decision",
-    "exchanges": [ { "uid": "s10_e07_c12_u007", "answer": "putting my foot down",
-      "options": ["putting my foot down", "pulling my weight", "keeping my head down", "lending my ear"] } ] },
+{
+  "expression": "put one's foot down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to firmly refuse to allow something or insist on a decision",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c12_u007",
+      "answer": "putting my foot down",
+      "options": [
+        "putting my foot down",
+        "pulling my weight",
+        "keeping my head down",
+        "lending my ear"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flirt", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to behave toward someone in a playful way that shows you are romantically interested",
-    "exchanges": [ { "uid": "s10_e07_c07_u002", "answer": "flirting",
-      "options": ["flirting", "fleeing", "fainting", "fasting"] } ] },
+{
+  "expression": "flirt",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to behave toward someone in a playful way that shows you are romantically interested",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c07_u002",
+      "answer": "flirting",
+      "options": [
+        "flirting",
+        "fleeing",
+        "fainting",
+        "fasting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "figure of speech", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "a phrase that is not meant to be understood literally",
-    "exchanges": [ { "uid": "s10_e07_c08_u007", "answer": "figure of speech",
-      "options": ["figure of speech", "matter of fact", "point of view", "state of mind"] } ] },
+{
+  "expression": "figure of speech",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a phrase that is not meant to be understood literally",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c08_u007",
+      "answer": "figure of speech",
+      "options": [
+        "figure of speech",
+        "matter of fact",
+        "point of view",
+        "state of mind"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have it both ways", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to get the advantages of two choices that cannot go together",
-    "exchanges": [ { "uid": "s10_e07_c02_u007", "answer": "have it both ways", "cueUid": "s10_e07_c02_u005",
-      "options": ["have it both ways", "call it a day", "make it quick", "take it lightly"] } ] },
+{
+  "expression": "have it both ways",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to get the advantages of two choices that cannot go together",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c02_u007",
+      "answer": "have it both ways",
+      "cueUid": "s10_e07_c02_u005",
+      "options": [
+        "have it both ways",
+        "call it a day",
+        "make it quick",
+        "take it lightly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on behalf of", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "as the representative of someone, or for their benefit",
-    "exchanges": [ { "uid": "s10_e07_c03_u013", "answer": "on behalf of",
-      "options": ["on behalf of", "in spite of", "on top of", "by way of"] } ] },
+{
+  "expression": "on behalf of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "as the representative of someone, or for their benefit",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c03_u013",
+      "answer": "on behalf of",
+      "options": [
+        "on behalf of",
+        "in spite of",
+        "on top of",
+        "by way of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "traumatic", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "extremely upsetting in a way that causes lasting fear or distress",
-    "exchanges": [ { "uid": "s10_e07_c04_u014", "answer": "traumatic", "cueUid": "s10_e07_c04_u012",
-      "options": ["traumatic", "therapeutic", "diplomatic", "hypothetical"] } ] },
+{
+  "expression": "traumatic",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "extremely upsetting in a way that causes lasting fear or distress",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c04_u014",
+      "answer": "traumatic",
+      "cueUid": "s10_e07_c04_u012",
+      "options": [
+        "traumatic",
+        "therapeutic",
+        "diplomatic",
+        "hypothetical"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tainted", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "spoiled or made less pure by something bad or immoral",
-    "exchanges": [ { "uid": "s10_e07_c11_u006", "answer": "tainted",
-      "options": ["tainted", "painted", "talented", "tailored"] } ] },
+{
+  "expression": "tainted",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "spoiled or made less pure by something bad or immoral",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c11_u006",
+      "answer": "tainted",
+      "options": [
+        "tainted",
+        "painted",
+        "talented",
+        "tailored"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wholesome", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "morally good and suitable for families and children",
-    "exchanges": [ { "uid": "s10_e07_c08_u009", "answer": "wholesome",
-      "options": ["wholesome", "handsome", "troublesome", "lonesome"] } ] },
+{
+  "expression": "wholesome",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "morally good and suitable for families and children",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c08_u009",
+      "answer": "wholesome",
+      "options": [
+        "wholesome",
+        "handsome",
+        "troublesome",
+        "lonesome"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spruce up", "type": "phrase", "level": "expert", "pos": "verb",
-    "meaning": "to make a place look neater, cleaner, or more attractive",
-    "exchanges": [ { "uid": "s10_e07_c05_u014", "answer": "spruce that place up",
-      "options": ["spruce that place up", "pass that place by", "hand that place over", "ship that place off"] } ] },
+{
+  "expression": "spruce up",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make a place look neater, cleaner, or more attractive",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c05_u014",
+      "answer": "spruce that place up",
+      "options": [
+        "spruce that place up",
+        "pass that place by",
+        "hand that place over",
+        "ship that place off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "insinuation", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "an indirect suggestion that someone has done something wrong",
-    "exchanges": [ { "uid": "s10_e07_c02_u017", "answer": "insinuation",
-      "options": ["insinuation", "invitation", "installation", "inspiration"] } ] }
+{
+  "expression": "insinuation",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an indirect suggestion that someone has done something wrong",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c02_u017",
+      "answer": "insinuation",
+      "options": [
+        "insinuation",
+        "invitation",
+        "installation",
+        "inspiration"
+      ]
+    }
+  ]
+}
 ]

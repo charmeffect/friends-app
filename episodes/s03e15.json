@@ -1,126 +1,505 @@
 [
-  { "expression": "hold on", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "wait a moment",
-    "exchanges": [ { "uid": "s03_e15_c01_u018", "cueUid": "s03_e15_c01_u016", "answer": "Hold on",
-      "options": ["Hold on", "Hold off", "Keep on", "Carry on"] } ] },
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c01_u018",
+      "cueUid": "s03_e15_c01_u016",
+      "answer": "Hold on",
+      "options": [
+        "Hold on",
+        "Hold off",
+        "Keep on",
+        "Carry on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s03_e15_c05_u006", "answer": "hang out",
-      "options": ["hang out", "hang up", "hold out", "help out"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u006",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "hang up",
+        "hold out",
+        "help out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to have a friendly relationship with someone",
-    "exchanges": [ { "uid": "s03_e15_c04_u006", "answer": "getting along",
-      "options": ["getting along", "getting away", "going around", "giving away"] } ] },
+{
+  "expression": "get along",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c04_u006",
+      "answer": "getting along",
+      "options": [
+        "getting along",
+        "getting away",
+        "going around",
+        "giving away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get going", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to leave or start moving, usually because it is time to go",
-    "exchanges": [ { "uid": "s03_e15_c05_u002", "answer": "get going",
-      "options": ["get going", "get lost", "get even", "get ahead"] } ] },
+{
+  "expression": "get going",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave or start moving, usually because it is time to go",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u002",
+      "answer": "get going",
+      "options": [
+        "get going",
+        "get lost",
+        "get even",
+        "get ahead"
+      ]
+    }
+  ]
+},
 
-  { "expression": "owe", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to need to give something to someone because they gave you something or you took it from them",
-    "exchanges": [ { "uid": "s03_e15_c01_u003", "answer": "owe",
-      "options": ["owe", "lend", "earn", "save"] } ] },
+{
+  "expression": "owe",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to need to give something to someone because they gave you something or you took it from them",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c01_u003",
+      "answer": "owe",
+      "options": [
+        "owe",
+        "lend",
+        "earn",
+        "save"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have a strong, often secret, romantic attraction to someone",
-    "exchanges": [ { "uid": "s03_e15_c02_u006", "answer": "got a crush on",
-      "options": ["got a crush on", "got a grip on", "got a shot at", "got a lead on"] } ] },
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c02_u006",
+      "answer": "got a crush on",
+      "options": [
+        "got a crush on",
+        "got a grip on",
+        "got a shot at",
+        "got a lead on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get in the way", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to block or interfere with something you want to do",
-    "exchanges": [ { "uid": "s03_e15_c04_u006", "answer": "getting in the way",
-      "options": ["getting in the way", "going off the rails", "falling off the map", "running out the door"] } ] },
+{
+  "expression": "get in the way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to block or interfere with something you want to do",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c04_u006",
+      "answer": "getting in the way",
+      "options": [
+        "getting in the way",
+        "going off the rails",
+        "falling off the map",
+        "running out the door"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start talking about a subject",
-    "exchanges": [ { "uid": "s03_e15_c05_u007", "answer": "brought up",
-      "options": ["brought up", "brought in", "picked up", "held up"] } ] },
+{
+  "expression": "bring up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start talking about a subject",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u007",
+      "answer": "brought up",
+      "options": [
+        "brought up",
+        "brought in",
+        "picked up",
+        "held up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "just in case", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "as a precaution, in case something is needed later",
-    "exchanges": [ { "uid": "s03_e15_c05_u016", "cueUid": "s03_e15_c05_u014", "answer": "just in case",
-      "options": ["just in case", "just in time", "just as well", "just by chance"] } ] },
+{
+  "expression": "just in case",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "as a precaution, in case something is needed later",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u016",
+      "cueUid": "s03_e15_c05_u014",
+      "answer": "just in case",
+      "options": [
+        "just in case",
+        "just in time",
+        "just as well",
+        "just by chance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good call", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to tell someone that their decision or suggestion was a good one",
-    "exchanges": [ { "uid": "s03_e15_c05_u018", "answer": "Good call",
-      "options": ["Good call", "Good luck", "Good grief", "Good night"] } ] },
+{
+  "expression": "good call",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that their decision or suggestion was a good one",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u018",
+      "answer": "Good call",
+      "options": [
+        "Good call",
+        "Good luck",
+        "Good grief",
+        "Good night"
+      ]
+    }
+  ]
+},
 
-  { "expression": "deadline", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "the time by which a piece of work must be finished",
-    "exchanges": [ { "uid": "s03_e15_c06_u028", "answer": "deadline",
-      "options": ["deadline", "headline", "lifeline", "sideline"] } ] },
+{
+  "expression": "deadline",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the time by which a piece of work must be finished",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c06_u028",
+      "answer": "deadline",
+      "options": [
+        "deadline",
+        "headline",
+        "lifeline",
+        "sideline"
+      ]
+    }
+  ]
+},
 
-  { "expression": "over and over", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "many times; repeatedly",
-    "exchanges": [ { "uid": "s03_e15_c07_u021", "answer": "over and over",
-      "options": ["over and over", "up and down", "now and then", "in and out"] } ] },
+{
+  "expression": "over and over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "many times; repeatedly",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c07_u021",
+      "answer": "over and over",
+      "options": [
+        "over and over",
+        "up and down",
+        "now and then",
+        "in and out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gawk at", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to stare at someone or something in a rude or stupid way",
-    "exchanges": [ { "uid": "s03_e15_c01_u029", "answer": "gawk at",
-      "options": ["gawk at", "bark at", "scoff at", "frown at"] } ] },
+{
+  "expression": "gawk at",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to stare at someone or something in a rude or stupid way",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c01_u029",
+      "answer": "gawk at",
+      "options": [
+        "gawk at",
+        "bark at",
+        "scoff at",
+        "frown at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have second thoughts", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start doubting a decision you have already made",
-    "exchanges": [ { "uid": "s03_e15_c02_u005", "answer": "having second thoughts",
-      "options": ["having second thoughts", "taking first steps", "making final calls", "drawing early conclusions"] } ] },
+{
+  "expression": "have second thoughts",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doubting a decision you have already made",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c02_u005",
+      "answer": "having second thoughts",
+      "options": [
+        "having second thoughts",
+        "taking first steps",
+        "making final calls",
+        "drawing early conclusions"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cancel on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to call off a planned meeting with someone, often at short notice",
-    "exchanges": [ { "uid": "s03_e15_c04_u012", "answer": "cancel on",
-      "options": ["cancel on", "count on", "dwell on", "touch on"] } ] },
+{
+  "expression": "cancel on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to call off a planned meeting with someone, often at short notice",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c04_u012",
+      "answer": "cancel on",
+      "options": [
+        "cancel on",
+        "count on",
+        "dwell on",
+        "touch on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "split off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to separate from a group and go a different way",
-    "exchanges": [ { "uid": "s03_e15_c04_u025", "answer": "split off",
-      "options": ["split off", "show off", "sign off", "sell off"] } ] },
+{
+  "expression": "split off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to separate from a group and go a different way",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c04_u025",
+      "answer": "split off",
+      "options": [
+        "split off",
+        "show off",
+        "sign off",
+        "sell off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ground rules", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "basic rules agreed on before an activity about how people should behave",
-    "exchanges": [ { "uid": "s03_e15_c05_u016", "cueUid": "s03_e15_c05_u014", "answer": "ground rules",
-      "options": ["ground rules", "floor plans", "home truths", "field notes"] } ] },
+{
+  "expression": "ground rules",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "basic rules agreed on before an activity about how people should behave",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u016",
+      "cueUid": "s03_e15_c05_u014",
+      "answer": "ground rules",
+      "options": [
+        "ground rules",
+        "floor plans",
+        "home truths",
+        "field notes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cool off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to become calmer after being angry or upset",
-    "exchanges": [ { "uid": "s03_e15_c07_u024", "answer": "cool off",
-      "options": ["cool off", "call off", "cut off", "count off"] } ] },
+{
+  "expression": "cool off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become calmer after being angry or upset",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c07_u024",
+      "answer": "cool off",
+      "options": [
+        "cool off",
+        "call off",
+        "cut off",
+        "count off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "big time", "type": "colloquial", "level": "high", "pos": "adverb",
-    "meaning": "very much; to a great degree",
-    "exchanges": [ { "uid": "s03_e15_c07_u016", "answer": "big time",
-      "options": ["big time", "long time", "full time", "high time"] } ] },
+{
+  "expression": "big time",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "very much; to a great degree",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c07_u016",
+      "answer": "big time",
+      "options": [
+        "big time",
+        "long time",
+        "full time",
+        "high time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dashing", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "attractive in a confident, stylish, and energetic way",
-    "exchanges": [ { "uid": "s03_e15_c01_u020", "answer": "dashing",
-      "options": ["dashing", "daunting", "drastic", "dreary"] } ] },
+{
+  "expression": "dashing",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "attractive in a confident, stylish, and energetic way",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c01_u020",
+      "answer": "dashing",
+      "options": [
+        "dashing",
+        "daunting",
+        "drastic",
+        "dreary"
+      ]
+    }
+  ]
+},
 
-  { "expression": "extent", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the full size, amount, or limit of something",
-    "exchanges": [ { "uid": "s03_e15_c04_u013", "answer": "extent",
-      "options": ["extent", "expanse", "excerpt", "exponent"] } ] },
+{
+  "expression": "extent",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the full size, amount, or limit of something",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c04_u013",
+      "answer": "extent",
+      "options": [
+        "extent",
+        "expanse",
+        "excerpt",
+        "exponent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vividly", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "in a way that is very clear and detailed in the mind",
-    "exchanges": [ { "uid": "s03_e15_c05_u008", "answer": "Vividly",
-      "options": ["Vividly", "Visibly", "Virtually", "Validly"] } ] },
+{
+  "expression": "vividly",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "in a way that is very clear and detailed in the mind",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u008",
+      "answer": "Vividly",
+      "options": [
+        "Vividly",
+        "Visibly",
+        "Virtually",
+        "Validly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "present itself", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "of a situation or opportunity, to arise or happen",
-    "exchanges": [ { "uid": "s03_e15_c05_u011", "answer": "presented itself",
-      "options": ["presented itself", "asserted itself", "excused itself", "corrected itself"] } ] },
+{
+  "expression": "present itself",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "of a situation or opportunity, to arise or happen",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u011",
+      "answer": "presented itself",
+      "options": [
+        "presented itself",
+        "asserted itself",
+        "excused itself",
+        "corrected itself"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flip for it", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to toss a coin to decide something",
-    "exchanges": [ { "uid": "s03_e15_c05_u020", "answer": "flip for it",
-      "options": ["flip for it", "fall for it", "run for it", "pay for it"] } ] },
+{
+  "expression": "flip for it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to toss a coin to decide something",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u020",
+      "answer": "flip for it",
+      "options": [
+        "flip for it",
+        "fall for it",
+        "run for it",
+        "pay for it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rock on", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "a casual, enthusiastic way of saying goodbye or showing approval",
-    "exchanges": [ { "uid": "s03_e15_c02_u017", "responseUid": null, "answer": "rock on",
-      "options": ["rock on", "roll in", "move out", "ring up"] } ] }
+{
+  "expression": "rock on",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "a casual, enthusiastic way of saying goodbye or showing approval",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c02_u017",
+      "responseUid": null,
+      "answer": "rock on",
+      "options": [
+        "rock on",
+        "roll in",
+        "move out",
+        "ring up"
+      ]
+    }
+  ]
+}
 ]

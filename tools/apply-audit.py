@@ -8,6 +8,7 @@ root = os.path.join(os.path.dirname(__file__), '..', 'episodes')
 files = sorted(glob.glob(os.path.join(root, '*.json')))
 eps = {f: json.load(open(f)) for f in files}
 LEVELS = {'elementary','middle','high','college','expert'}; TYPES = {'word','phrase','colloquial'}
+POS = {'noun','verb','adjective','adverb','expression'}
 norm = lambda s: ' '.join(s.lower().split())
 applied = 0; skipped = []
 for rf in sys.argv[1:]:
@@ -16,6 +17,7 @@ for rf in sys.argv[1:]:
         key = norm(c['expression']); upd = {k: c[k] for k in ('level','type','pos','meaning') if k in c}
         if 'level' in upd and upd['level'] not in LEVELS: skipped.append((c, 'bad level')); continue
         if 'type' in upd and upd['type'] not in TYPES: skipped.append((c, 'bad type')); continue
+        if 'pos' in upd and upd['pos'] not in POS: upd['pos'] = 'expression'
         hit = 0
         for f, items in eps.items():
             for it in items:

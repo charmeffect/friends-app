@@ -1,133 +1,526 @@
 [
-  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to date someone; to spend time with someone romantically",
-    "exchanges": [ { "uid": "s01_e06_c02_u026", "answer": "go out with",
-      "options": ["go out with", "get on with", "put up with", "run off with"] } ] },
+{
+  "expression": "go out with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to date someone; to spend time with someone romantically",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c02_u026",
+      "answer": "go out with",
+      "options": [
+        "go out with",
+        "get on with",
+        "put up with",
+        "run off with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show you are pleased about or approve of what someone has done",
-    "exchanges": [ { "uid": "s01_e06_c03_u038", "answer": "Good for you",
-      "options": ["Good for you", "Nice of you", "Fine by you", "Well done you"] } ] },
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are pleased about or approve of what someone has done",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c03_u038",
+      "answer": "Good for you",
+      "options": [
+        "Good for you",
+        "Nice of you",
+        "Fine by you",
+        "Well done you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get fired", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to lose your job because your employer dismisses you",
-    "exchanges": [ { "uid": "s01_e06_c08_u009", "answer": "fired",
-      "cueUid": "s01_e06_c08_u006", "responseUid": "s01_e06_c08_u011",
-      "options": ["fired", "hired", "tired", "retired"] } ] },
+{
+  "expression": "get fired",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to lose your job because your employer dismisses you",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c08_u009",
+      "answer": "fired",
+      "cueUid": "s01_e06_c08_u006",
+      "responseUid": "s01_e06_c08_u011",
+      "options": [
+        "fired",
+        "hired",
+        "tired",
+        "retired"
+      ]
+    }
+  ]
+},
 
-  { "expression": "change your mind", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to decide something different from what you decided before",
-    "exchanges": [ { "uid": "s01_e06_c07_u034", "answer": "change your mind",
-      "options": ["change your mind", "make your mind", "turn your head", "lose your heart"] } ] },
+{
+  "expression": "change your mind",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to decide something different from what you decided before",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c07_u034",
+      "answer": "change your mind",
+      "options": [
+        "change your mind",
+        "make your mind",
+        "turn your head",
+        "lose your heart"
+      ]
+    }
+  ]
+},
 
-  { "expression": "back someone up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to support someone by agreeing with what they say",
-    "exchanges": [ { "uid": "s01_e06_c02_u013", "answer": "back me up",
-      "options": ["back me up", "hold me down", "pick me up", "let me down"] } ] },
+{
+  "expression": "back someone up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to support someone by agreeing with what they say",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c02_u013",
+      "answer": "back me up",
+      "options": [
+        "back me up",
+        "hold me down",
+        "pick me up",
+        "let me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in a million years", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used after 'never' to say that something is completely impossible",
-    "exchanges": [ { "uid": "s01_e06_c02_u014", "answer": "in a million years",
-      "options": ["in a million years", "for a thousand days", "at a hundred times", "on a dozen nights"] } ] },
+{
+  "expression": "in a million years",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used after 'never' to say that something is completely impossible",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c02_u014",
+      "answer": "in a million years",
+      "options": [
+        "in a million years",
+        "for a thousand days",
+        "at a hundred times",
+        "on a dozen nights"
+      ]
+    }
+  ]
+},
 
-  { "expression": "more or less", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "approximately; mostly but not completely",
-    "exchanges": [ { "uid": "s01_e06_c03_u010", "answer": "more or less",
-      "options": ["more or less", "now or never", "sooner or later", "all or nothing"] } ] },
+{
+  "expression": "more or less",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "approximately; mostly but not completely",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c03_u010",
+      "answer": "more or less",
+      "options": [
+        "more or less",
+        "now or never",
+        "sooner or later",
+        "all or nothing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "deserve", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to have earned something because of what you have done",
-    "exchanges": [ { "uid": "s01_e06_c04_u043", "answer": "deserve",
-      "options": ["deserve", "desert", "reserve", "preserve"] } ] },
+{
+  "expression": "deserve",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have earned something because of what you have done",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c04_u043",
+      "answer": "deserve",
+      "options": [
+        "deserve",
+        "desert",
+        "reserve",
+        "preserve"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spend the night", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stay at someone's home overnight, often as a romantic partner",
-    "exchanges": [ { "uid": "s01_e06_c05_u015", "answer": "spent the night",
-      "options": ["spent the night", "took the night", "made the night", "held the night"] } ] },
+{
+  "expression": "spend the night",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay at someone's home overnight, often as a romantic partner",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c05_u015",
+      "answer": "spent the night",
+      "options": [
+        "spent the night",
+        "took the night",
+        "made the night",
+        "held the night"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hard to tell", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "difficult to know or judge for certain",
-    "exchanges": [ { "uid": "s01_e06_c08_u018", "answer": "Hard to tell",
-      "options": ["Hard to tell", "Easy to say", "Nice to know", "Quick to see"] } ] },
+{
+  "expression": "hard to tell",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "difficult to know or judge for certain",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c08_u018",
+      "answer": "Hard to tell",
+      "options": [
+        "Hard to tell",
+        "Easy to say",
+        "Nice to know",
+        "Quick to see"
+      ]
+    }
+  ]
+},
 
-  { "expression": "worth it", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "good enough to justify the trouble or cost involved",
-    "exchanges": [ { "uid": "s01_e06_c05_u019", "answer": "worth it",
-      "options": ["worth it", "up to it", "into it", "over it"] } ] },
+{
+  "expression": "worth it",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "good enough to justify the trouble or cost involved",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c05_u019",
+      "answer": "worth it",
+      "options": [
+        "worth it",
+        "up to it",
+        "into it",
+        "over it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of someone's league", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "too attractive or impressive for someone to have a chance with",
-    "exchanges": [ { "uid": "s01_e06_c02_u013", "answer": "out of my league",
-      "options": ["out of my league", "over my head", "off my chart", "under my radar"] } ] },
+{
+  "expression": "out of someone's league",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "too attractive or impressive for someone to have a chance with",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c02_u013",
+      "answer": "out of my league",
+      "options": [
+        "out of my league",
+        "over my head",
+        "off my chart",
+        "under my radar"
+      ]
+    }
+  ]
+},
 
-  { "expression": "just barely", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "only just; almost not succeeding",
-    "exchanges": [ { "uid": "s01_e06_c03_u008", "answer": "just barely",
-      "options": ["just barely", "quite nearly", "very closely", "fairly almost"] } ] },
+{
+  "expression": "just barely",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "only just; almost not succeeding",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c03_u008",
+      "answer": "just barely",
+      "options": [
+        "just barely",
+        "quite nearly",
+        "very closely",
+        "fairly almost"
+      ]
+    }
+  ]
+},
 
-  { "expression": "twisted", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "strange and morally wrong; perverted",
-    "exchanges": [ { "uid": "s01_e06_c03_u032", "answer": "twisted",
-      "options": ["twisted", "tangled", "twirled", "tucked"] } ] },
+{
+  "expression": "twisted",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "strange and morally wrong; perverted",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c03_u032",
+      "answer": "twisted",
+      "options": [
+        "twisted",
+        "tangled",
+        "twirled",
+        "tucked"
+      ]
+    }
+  ]
+},
 
-  { "expression": "coaster", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a small mat you put under a glass to protect the table",
-    "exchanges": [ { "uid": "s01_e06_c04_u025", "answer": "coaster",
-      "options": ["coaster", "toaster", "roaster", "poster"] } ] },
+{
+  "expression": "coaster",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a small mat you put under a glass to protect the table",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c04_u025",
+      "answer": "coaster",
+      "options": [
+        "coaster",
+        "toaster",
+        "roaster",
+        "poster"
+      ]
+    }
+  ]
+},
 
-  { "expression": "big break", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "a sudden lucky opportunity that leads to success, especially in a career",
-    "exchanges": [ { "uid": "s01_e06_c04_u044", "answer": "big break",
-      "options": ["big break", "long shot", "hard sell", "high note"] } ] },
+{
+  "expression": "big break",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a sudden lucky opportunity that leads to success, especially in a career",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c04_u044",
+      "answer": "big break",
+      "options": [
+        "big break",
+        "long shot",
+        "hard sell",
+        "high note"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kill for", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to want something so much that you would do almost anything to get it",
-    "exchanges": [ { "uid": "s01_e06_c07_u019", "answer": "kill for",
-      "options": ["kill for", "die of", "fall into", "run from"] } ] },
+{
+  "expression": "kill for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to want something so much that you would do almost anything to get it",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c07_u019",
+      "answer": "kill for",
+      "options": [
+        "kill for",
+        "die of",
+        "fall into",
+        "run from"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blow it", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to waste a good opportunity by failing or making a mistake",
-    "exchanges": [ { "uid": "s01_e06_c08_u015", "answer": "blow it",
-      "options": ["blow it", "throw it", "grow it", "show it"] } ] },
+{
+  "expression": "blow it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to waste a good opportunity by failing or making a mistake",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c08_u015",
+      "answer": "blow it",
+      "options": [
+        "blow it",
+        "throw it",
+        "grow it",
+        "show it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for the hell of it", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "for no particular reason, just for fun",
-    "exchanges": [ { "uid": "s01_e06_c03_u009", "answer": "the hell of it",
-      "options": ["the hell of it", "the top of it", "the heart of it", "the end of it"] } ] },
+{
+  "expression": "for the hell of it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "for no particular reason, just for fun",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c03_u009",
+      "answer": "the hell of it",
+      "options": [
+        "the hell of it",
+        "the top of it",
+        "the heart of it",
+        "the end of it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "monogamy", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the practice of having only one romantic or sexual partner at a time",
-    "exchanges": [ { "uid": "s01_e06_c03_u040", "answer": "monogamy",
-      "options": ["monogamy", "monopoly", "monotony", "monologue"] } ] },
+{
+  "expression": "monogamy",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the practice of having only one romantic or sexual partner at a time",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c03_u040",
+      "answer": "monogamy",
+      "options": [
+        "monogamy",
+        "monopoly",
+        "monotony",
+        "monologue"
+      ]
+    }
+  ]
+},
 
-  { "expression": "resentment", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a feeling of anger because you have been treated unfairly",
-    "exchanges": [ { "uid": "s01_e06_c05_u018", "answer": "resentment", "responseUid": null,
-      "options": ["resentment", "resemblance", "requirement", "retirement"] } ] },
+{
+  "expression": "resentment",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a feeling of anger because you have been treated unfairly",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c05_u018",
+      "answer": "resentment",
+      "responseUid": null,
+      "options": [
+        "resentment",
+        "resemblance",
+        "requirement",
+        "retirement"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lose", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to get rid of or take off something (used as an informal command)",
-    "exchanges": [
-      { "uid": "s01_e06_c06_u003", "answer": "Lose",
-        "options": ["Lose", "Miss", "Fail", "Spoil"] },
-      { "uid": "s01_e06_c07_u025", "answer": "Lose",
-        "options": ["Lose", "Miss", "Fail", "Spoil"] } ] },
+{
+  "expression": "lose",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to get rid of or take off something (used as an informal command)",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c06_u003",
+      "answer": "Lose",
+      "options": [
+        "Lose",
+        "Miss",
+        "Fail",
+        "Spoil"
+      ]
+    },
+    {
+      "uid": "s01_e06_c07_u025",
+      "answer": "Lose",
+      "options": [
+        "Lose",
+        "Miss",
+        "Fail",
+        "Spoil"
+      ]
+    }
+  ]
+},
 
-  { "expression": "obligated", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "feeling you have a duty to do something for someone",
-    "exchanges": [ { "uid": "s01_e06_c07_u028", "answer": "obligated",
-      "options": ["obligated", "obliterated", "obstructed", "observed"] } ] },
+{
+  "expression": "obligated",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "feeling you have a duty to do something for someone",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c07_u028",
+      "answer": "obligated",
+      "options": [
+        "obligated",
+        "obliterated",
+        "obstructed",
+        "observed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kook", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a person who behaves in a strange, eccentric way",
-    "exchanges": [
-      { "uid": "s01_e06_c04_u018", "answer": "kook",
-        "options": ["kook", "snob", "bore", "prude"] },
-      { "uid": "s01_e06_c08_u028", "answer": "kook", "responseUid": null,
-        "options": ["kook", "snob", "bore", "prude"] } ] },
+{
+  "expression": "kook",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a person who behaves in a strange, eccentric way",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c04_u018",
+      "answer": "kook",
+      "options": [
+        "kook",
+        "snob",
+        "bore",
+        "prude"
+      ]
+    },
+    {
+      "uid": "s01_e06_c08_u028",
+      "answer": "kook",
+      "responseUid": null,
+      "options": [
+        "kook",
+        "snob",
+        "bore",
+        "prude"
+      ]
+    }
+  ]
+},
 
-  { "expression": "haphazard", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "done without any plan or order; random",
-    "exchanges": [ { "uid": "s01_e06_c08_u026", "answer": "haphazard", "cueUid": "s01_e06_c08_u024",
-      "options": ["haphazard", "hazardous", "half-hearted", "hapless"] } ] }
+{
+  "expression": "haphazard",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "done without any plan or order; random",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c08_u026",
+      "answer": "haphazard",
+      "cueUid": "s01_e06_c08_u024",
+      "options": [
+        "haphazard",
+        "hazardous",
+        "half-hearted",
+        "hapless"
+      ]
+    }
+  ]
+}
 ]

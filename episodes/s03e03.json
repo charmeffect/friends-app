@@ -1,127 +1,505 @@
 [
-  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to stop having something, often as a sacrifice",
-    "exchanges": [ { "uid": "s03_e03_c08_u030", "answer": "give up",
-      "options": ["give up", "take in", "put off", "set down"] } ] },
+{
+  "expression": "give up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop having something, often as a sacrifice",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c08_u030",
+      "answer": "give up",
+      "options": [
+        "give up",
+        "take in",
+        "put off",
+        "set down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go through", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to experience a difficult or unpleasant period",
-    "exchanges": [ { "uid": "s03_e03_c03_u014", "answer": "went through",
-      "options": ["went through", "got along", "came across", "took over"] } ] },
+{
+  "expression": "go through",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to experience a difficult or unpleasant period",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c03_u014",
+      "answer": "went through",
+      "options": [
+        "went through",
+        "got along",
+        "came across",
+        "took over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s03_e03_c05_u030", "answer": "came up with",
-      "options": ["came up with", "got away with", "ran out of", "fell back on"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c05_u030",
+      "answer": "came up with",
+      "options": [
+        "came up with",
+        "got away with",
+        "ran out of",
+        "fell back on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "why; used to ask the reason for something in casual speech",
-    "exchanges": [ { "uid": "s03_e03_c02_u016", "answer": "how come",
-      "options": ["how come", "what for", "so what", "since when"] } ] },
+{
+  "expression": "how come",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "why; used to ask the reason for something in casual speech",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c02_u016",
+      "answer": "how come",
+      "options": [
+        "how come",
+        "what for",
+        "so what",
+        "since when"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sick and tired of", "type": "colloquial", "level": "middle", "pos": "adjective",
-    "meaning": "extremely annoyed by something that has gone on too long",
-    "exchanges": [ { "uid": "s03_e03_c02_u018", "answer": "sick and tired",
-      "options": ["sick and tired", "safe and sound", "short and sweet", "wild and free"] } ] },
+{
+  "expression": "sick and tired of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely annoyed by something that has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c02_u018",
+      "answer": "sick and tired",
+      "options": [
+        "sick and tired",
+        "safe and sound",
+        "short and sweet",
+        "wild and free"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have a strong, often secret, romantic attraction to someone",
-    "exchanges": [ { "uid": "s03_e03_c05_u011", "answer": "crush",
-      "options": ["crush", "grip", "grudge", "hunch"] } ] },
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c05_u011",
+      "answer": "crush",
+      "options": [
+        "crush",
+        "grip",
+        "grudge",
+        "hunch"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in person", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "by being physically present yourself, rather than on paper or by phone",
-    "exchanges": [ { "uid": "s03_e03_c12_u002", "answer": "in person",
-      "options": ["in person", "by hand", "on foot", "at once"] } ] },
+{
+  "expression": "in person",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "by being physically present yourself, rather than on paper or by phone",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c12_u002",
+      "answer": "in person",
+      "options": [
+        "in person",
+        "by hand",
+        "on foot",
+        "at once"
+      ]
+    }
+  ]
+},
 
-  { "expression": "familiar with", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "knowing about something well enough to recognize it",
-    "exchanges": [ { "uid": "s03_e03_c12_u010", "answer": "familiar with", "responseUid": null,
-      "options": ["familiar with", "similar to", "typical of", "capable of"] } ] },
+{
+  "expression": "familiar with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "knowing about something well enough to recognize it",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c12_u010",
+      "answer": "familiar with",
+      "responseUid": null,
+      "options": [
+        "familiar with",
+        "similar to",
+        "typical of",
+        "capable of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shoot", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "go ahead and ask or say what you want to say",
-    "exchanges": [ { "uid": "s03_e03_c04_u049", "answer": "Shoot",
-      "options": ["Shoot", "Jump", "Spin", "Fetch"] } ] },
+{
+  "expression": "shoot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "go ahead and ask or say what you want to say",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c04_u049",
+      "answer": "Shoot",
+      "options": [
+        "Shoot",
+        "Jump",
+        "Spin",
+        "Fetch"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spy on", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to secretly watch what someone is doing",
-    "exchanges": [ { "uid": "s03_e03_c10_u008", "answer": "spied on",
-      "options": ["spied on", "relied on", "looked on", "moved on"] } ] },
+{
+  "expression": "spy on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to secretly watch what someone is doing",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c10_u008",
+      "answer": "spied on",
+      "options": [
+        "spied on",
+        "relied on",
+        "looked on",
+        "moved on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sell out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to betray someone who trusted you in order to get something for yourself",
-    "exchanges": [ { "uid": "s03_e03_c02_u012", "answer": "sold me out",
-      "options": ["sold me out", "put me up", "let me off", "took me in"] } ] },
+{
+  "expression": "sell out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to betray someone who trusted you in order to get something for yourself",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c02_u012",
+      "answer": "sold me out",
+      "options": [
+        "sold me out",
+        "put me up",
+        "let me off",
+        "took me in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "buy", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to believe a story or excuse that may not be true",
-    "exchanges": [ { "uid": "s03_e03_c02_u013", "answer": "buy",
-      "options": ["buy", "sell", "hold", "fix"] } ] },
+{
+  "expression": "buy",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to believe a story or excuse that may not be true",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c02_u013",
+      "answer": "buy",
+      "options": [
+        "buy",
+        "sell",
+        "hold",
+        "fix"
+      ]
+    }
+  ]
+},
 
-  { "expression": "batch", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an amount of food or goods produced at one time",
-    "exchanges": [
-      { "uid": "s03_e03_c02_u019", "answer": "batch", "responseUid": null,
-        "options": ["batch", "patch", "hatch", "notch"] },
-      { "uid": "s03_e03_c05_u021", "answer": "batch",
-        "options": ["batch", "patch", "hatch", "notch"] } ] },
+{
+  "expression": "batch",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an amount of food or goods produced at one time",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c02_u019",
+      "answer": "batch",
+      "responseUid": null,
+      "options": [
+        "batch",
+        "patch",
+        "hatch",
+        "notch"
+      ]
+    },
+    {
+      "uid": "s03_e03_c05_u021",
+      "answer": "batch",
+      "options": [
+        "batch",
+        "patch",
+        "hatch",
+        "notch"
+      ]
+    }
+  ]
+},
 
-  { "expression": "catch on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to finally understand or realize what is happening",
-    "exchanges": [ { "uid": "s03_e03_c04_u026", "answer": "catch on",
-      "options": ["catch on", "turn on", "pass on", "log on"] } ] },
+{
+  "expression": "catch on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to finally understand or realize what is happening",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c04_u026",
+      "answer": "catch on",
+      "options": [
+        "catch on",
+        "turn on",
+        "pass on",
+        "log on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be all for", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to fully support or approve of something",
-    "exchanges": [ { "uid": "s03_e03_c04_u030", "answer": "all for",
-      "options": ["all for", "up to", "out of", "down on"] } ] },
+{
+  "expression": "be all for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to fully support or approve of something",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c04_u030",
+      "answer": "all for",
+      "options": [
+        "all for",
+        "up to",
+        "out of",
+        "down on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drift off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to gradually fall asleep",
-    "exchanges": [ { "uid": "s03_e03_c04_u045", "answer": "drift off",
-      "options": ["drift off", "cool off", "wear off", "set off"] } ] },
+{
+  "expression": "drift off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to gradually fall asleep",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c04_u045",
+      "answer": "drift off",
+      "options": [
+        "drift off",
+        "cool off",
+        "wear off",
+        "set off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be hard on", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to treat or criticize someone severely",
-    "exchanges": [ { "uid": "s03_e03_c03_u016", "answer": "hard on", "cueUid": "s03_e03_c03_u014",
-      "options": ["hard on", "fond of", "keen on", "shy with"] } ] },
+{
+  "expression": "be hard on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to treat or criticize someone severely",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c03_u016",
+      "answer": "hard on",
+      "cueUid": "s03_e03_c03_u014",
+      "options": [
+        "hard on",
+        "fond of",
+        "keen on",
+        "shy with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get carried away", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to become so excited or emotional that you lose control of what you do",
-    "exchanges": [ { "uid": "s03_e03_c05_u010", "answer": "carried away",
-      "options": ["carried away", "taken aback", "held back", "worn down"] } ] },
+{
+  "expression": "get carried away",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to become so excited or emotional that you lose control of what you do",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c05_u010",
+      "answer": "carried away",
+      "options": [
+        "carried away",
+        "taken aback",
+        "held back",
+        "worn down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "restraining order", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "a court order that forbids a person from approaching or contacting someone",
-    "exchanges": [
-      { "uid": "s03_e03_c05_u008", "answer": "restraining order",
-        "options": ["restraining order", "parking ticket", "standing offer", "closing statement"] },
-      { "uid": "s03_e03_c08_u034", "answer": "restraining order",
-        "options": ["restraining order", "parking ticket", "standing offer", "closing statement"] } ] },
+{
+  "expression": "restraining order",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a court order that forbids a person from approaching or contacting someone",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c05_u008",
+      "answer": "restraining order",
+      "options": [
+        "restraining order",
+        "parking ticket",
+        "standing offer",
+        "closing statement"
+      ]
+    },
+    {
+      "uid": "s03_e03_c08_u034",
+      "answer": "restraining order",
+      "options": [
+        "restraining order",
+        "parking ticket",
+        "standing offer",
+        "closing statement"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break even", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to earn just enough money to cover your costs, with no profit or loss",
-    "exchanges": [ { "uid": "s03_e03_c05_u024", "answer": "break even",
-      "options": ["break even", "come clean", "play safe", "stand firm"] } ] },
+{
+  "expression": "break even",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to earn just enough money to cover your costs, with no profit or loss",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c05_u024",
+      "answer": "break even",
+      "options": [
+        "break even",
+        "come clean",
+        "play safe",
+        "stand firm"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hung up on", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "unable to stop thinking or worrying about something",
-    "exchanges": [ { "uid": "s03_e03_c10_u007", "answer": "hung up on",
-      "options": ["hung up on", "fed up with", "let down by", "cut off from"] } ] },
+{
+  "expression": "hung up on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unable to stop thinking or worrying about something",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c10_u007",
+      "answer": "hung up on",
+      "options": [
+        "hung up on",
+        "fed up with",
+        "let down by",
+        "cut off from"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take someone's word", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to believe what someone says without checking whether it is true",
-    "exchanges": [ { "uid": "s03_e03_c08_u032", "answer": "taking the word",
-      "options": ["taking the word", "making the call", "holding the hand", "keeping the pace"] } ] },
+{
+  "expression": "take someone's word",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to believe what someone says without checking whether it is true",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c08_u032",
+      "answer": "taking the word",
+      "options": [
+        "taking the word",
+        "making the call",
+        "holding the hand",
+        "keeping the pace"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cold turkey", "type": "colloquial", "level": "expert", "pos": "adverb",
-    "meaning": "stopping a habit or addiction suddenly and completely rather than gradually",
-    "exchanges": [ { "uid": "s03_e03_c10_u011", "answer": "cold turkey",
-      "options": ["cold turkey", "hot potato", "dead duck", "lame duck"] } ] },
+{
+  "expression": "cold turkey",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "stopping a habit or addiction suddenly and completely rather than gradually",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c10_u011",
+      "answer": "cold turkey",
+      "options": [
+        "cold turkey",
+        "hot potato",
+        "dead duck",
+        "lame duck"
+      ]
+    }
+  ]
+},
 
-  { "expression": "buck naked", "type": "colloquial", "level": "expert", "pos": "adjective",
-    "meaning": "completely naked",
-    "exchanges": [ { "uid": "s03_e03_c05_u019", "answer": "buck naked", "cueUid": "s03_e03_c05_u017",
-      "options": ["buck naked", "stark raving", "dead tired", "bone dry"] } ] }
+{
+  "expression": "buck naked",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "completely naked",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c05_u019",
+      "answer": "buck naked",
+      "cueUid": "s03_e03_c05_u017",
+      "options": [
+        "buck naked",
+        "stark raving",
+        "dead tired",
+        "bone dry"
+      ]
+    }
+  ]
+}
 ]

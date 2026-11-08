@@ -1,126 +1,502 @@
 [
-  { "expression": "wish me luck", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said before trying something difficult, asking others to hope you succeed",
-    "exchanges": [ { "uid": "s09_e19_c03_u008", "answer": "wish me luck",
-      "options": ["wish me luck", "give me time", "show me love", "tell me more"] } ] },
+{
+  "expression": "wish me luck",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said before trying something difficult, asking others to hope you succeed",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c03_u008",
+      "answer": "wish me luck",
+      "options": [
+        "wish me luck",
+        "give me time",
+        "show me love",
+        "tell me more"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s09_e19_c13_u002", "answer": "hang out", "responseUid": null,
-      "options": ["hang out", "pass out", "back out", "break out"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c13_u002",
+      "answer": "hang out",
+      "responseUid": null,
+      "options": [
+        "hang out",
+        "pass out",
+        "back out",
+        "break out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "don't worry about it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone that something is not a problem",
-    "exchanges": [ { "uid": "s09_e19_c02_u022", "answer": "don't worry about it",
-      "options": ["don't worry about it", "don't count on it", "don't bring it up", "don't fall for it"] } ] },
+{
+  "expression": "don't worry about it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone that something is not a problem",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u022",
+      "answer": "don't worry about it",
+      "options": [
+        "don't worry about it",
+        "don't count on it",
+        "don't bring it up",
+        "don't fall for it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pack your bags", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to put your things in a suitcase because you are leaving for a trip",
-    "exchanges": [ { "uid": "s09_e19_c02_u010", "answer": "Pack your bags",
-      "options": ["Pack your bags", "Fold your arms", "Mind your step", "Hold your tongue"] } ] },
+{
+  "expression": "pack your bags",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to put your things in a suitcase because you are leaving for a trip",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u010",
+      "answer": "Pack your bags",
+      "options": [
+        "Pack your bags",
+        "Fold your arms",
+        "Mind your step",
+        "Hold your tongue"
+      ]
+    }
+  ]
+},
 
-  { "expression": "classy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "stylish, elegant, and of high quality",
-    "exchanges": [ { "uid": "s09_e19_c05_u010", "answer": "classy",
-      "options": ["classy", "clumsy", "cranky", "chilly"] } ] },
+{
+  "expression": "classy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "stylish, elegant, and of high quality",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u010",
+      "answer": "classy",
+      "options": [
+        "classy",
+        "clumsy",
+        "cranky",
+        "chilly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rip someone off", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to charge someone far too much money for something",
-    "exchanges": [ { "uid": "s09_e19_c05_u033", "answer": "ripping us off",
-      "options": ["ripping us off", "cheering us up", "showing us around", "calling us back"] } ] },
+{
+  "expression": "rip someone off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to charge someone far too much money for something",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u033",
+      "answer": "ripping us off",
+      "options": [
+        "ripping us off",
+        "cheering us up",
+        "showing us around",
+        "calling us back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "like crazy", "type": "colloquial", "level": "middle", "pos": "adverb",
-    "meaning": "very much, very fast, or with great intensity",
-    "exchanges": [ { "uid": "s09_e19_c09_u037", "answer": "like crazy",
-      "options": ["like crazy", "for nothing", "at random", "by chance"] } ] },
+{
+  "expression": "like crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very much, very fast, or with great intensity",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c09_u037",
+      "answer": "like crazy",
+      "options": [
+        "like crazy",
+        "for nothing",
+        "at random",
+        "by chance"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a big deal", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to treat something as more important or serious than it is",
-    "exchanges": [ { "uid": "s09_e19_c11_u013", "answer": "made a big deal",
-      "options": ["made a big deal", "took a long time", "had a good laugh", "kept a low profile"] } ] },
+{
+  "expression": "make a big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to treat something as more important or serious than it is",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c11_u013",
+      "answer": "made a big deal",
+      "options": [
+        "made a big deal",
+        "took a long time",
+        "had a good laugh",
+        "kept a low profile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reschedule", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to arrange for a meeting or event to happen at a different time",
-    "exchanges": [ { "uid": "s09_e19_c02_u018", "answer": "reschedule",
-      "options": ["reschedule", "rebuild", "recycle", "rehearse"] } ] },
+{
+  "expression": "reschedule",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange for a meeting or event to happen at a different time",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u018",
+      "answer": "reschedule",
+      "options": [
+        "reschedule",
+        "rebuild",
+        "recycle",
+        "rehearse"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand in the way", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to prevent something from happening",
-    "exchanges": [ { "uid": "s09_e19_c01_u002", "answer": "stand in the way",
-      "options": ["stand in the way", "stand on the line", "keep in the dark", "fall by the wayside"] } ] },
+{
+  "expression": "stand in the way",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to prevent something from happening",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c01_u002",
+      "answer": "stand in the way",
+      "options": [
+        "stand in the way",
+        "stand on the line",
+        "keep in the dark",
+        "fall by the wayside"
+      ]
+    }
+  ]
+},
 
-  { "expression": "worked up", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "upset, angry, or very excited about something",
-    "exchanges": [ { "uid": "s09_e19_c01_u004", "answer": "worked up",
-      "options": ["worked up", "shown up", "dried up", "given up"] } ] },
+{
+  "expression": "worked up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "upset, angry, or very excited about something",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c01_u004",
+      "answer": "worked up",
+      "options": [
+        "worked up",
+        "shown up",
+        "dried up",
+        "given up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "booked solid", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "having every reservation or appointment already taken",
-    "exchanges": [ { "uid": "s09_e19_c02_u007", "answer": "booked solid",
-      "options": ["booked solid", "packed away", "sold short", "locked down"] } ] },
+{
+  "expression": "booked solid",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having every reservation or appointment already taken",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u007",
+      "answer": "booked solid",
+      "options": [
+        "booked solid",
+        "packed away",
+        "sold short",
+        "locked down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "refundable", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "able to have the money you paid given back to you",
-    "exchanges": [ { "uid": "s09_e19_c05_u024", "answer": "refundable",
-      "options": ["refundable", "replaceable", "reliable", "renewable"] } ] },
+{
+  "expression": "refundable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "able to have the money you paid given back to you",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u024",
+      "answer": "refundable",
+      "options": [
+        "refundable",
+        "replaceable",
+        "reliable",
+        "renewable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "live on the edge", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to take risks instead of playing it safe",
-    "exchanges": [ { "uid": "s09_e19_c02_u024", "answer": "live on the edge",
-      "options": ["live on the edge", "live off the land", "sit on the fence", "fall off the wagon"] } ] },
+{
+  "expression": "live on the edge",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take risks instead of playing it safe",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u024",
+      "answer": "live on the edge",
+      "options": [
+        "live on the edge",
+        "live off the land",
+        "sit on the fence",
+        "fall off the wagon"
+      ]
+    }
+  ]
+},
 
-  { "expression": "your call", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "it is your decision to make",
-    "exchanges": [ { "uid": "s09_e19_c03_u030", "answer": "your call",
-      "options": ["your call", "your fault", "your turn", "your loss"] } ] },
+{
+  "expression": "your call",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "it is your decision to make",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c03_u030",
+      "answer": "your call",
+      "options": [
+        "your call",
+        "your fault",
+        "your turn",
+        "your loss"
+      ]
+    }
+  ]
+},
 
-  { "expression": "load up on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to take or collect a large amount of something",
-    "exchanges": [ { "uid": "s09_e19_c05_u034", "answer": "load up on",
-      "options": ["load up on", "look out for", "run out of", "give up on"] } ] },
+{
+  "expression": "load up on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take or collect a large amount of something",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u034",
+      "answer": "load up on",
+      "options": [
+        "load up on",
+        "look out for",
+        "run out of",
+        "give up on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "complimentary", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "given free of charge, especially by a hotel or business",
-    "exchanges": [ { "uid": "s09_e19_c08_u001", "answer": "complimentary",
-      "options": ["complimentary", "complementary", "competitive", "compulsory"] } ] },
+{
+  "expression": "complimentary",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "given free of charge, especially by a hotel or business",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c08_u001",
+      "answer": "complimentary",
+      "options": [
+        "complimentary",
+        "complementary",
+        "competitive",
+        "compulsory"
+      ]
+    }
+  ]
+},
 
-  { "expression": "revoke", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to officially cancel a licence, permission, or right",
-    "exchanges": [ { "uid": "s09_e19_c02_u008", "answer": "revoked",
-      "options": ["revoked", "renewed", "reviewed", "received"] } ] },
+{
+  "expression": "revoke",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to officially cancel a licence, permission, or right",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u008",
+      "answer": "revoked",
+      "options": [
+        "revoked",
+        "renewed",
+        "reviewed",
+        "received"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make an exception", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to allow something that is not normally allowed, in one particular case",
-    "exchanges": [ { "uid": "s09_e19_c02_u018", "answer": "make an exception",
-      "options": ["make an exception", "break a promise", "keep a secret", "raise an objection"] } ] },
+{
+  "expression": "make an exception",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to allow something that is not normally allowed, in one particular case",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u018",
+      "answer": "make an exception",
+      "options": [
+        "make an exception",
+        "break a promise",
+        "keep a secret",
+        "raise an objection"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in good standing", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "officially recognized and with no penalties or problems against you",
-    "exchanges": [ { "uid": "s09_e19_c02_u020", "answer": "in good standing",
-      "options": ["in good standing", "in plain sight", "on short notice", "at full speed"] } ] },
+{
+  "expression": "in good standing",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "officially recognized and with no penalties or problems against you",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c02_u020",
+      "answer": "in good standing",
+      "options": [
+        "in good standing",
+        "in plain sight",
+        "on short notice",
+        "at full speed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wound up", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "overexcited, nervous, and unable to relax",
-    "exchanges": [ { "uid": "s09_e19_c05_u017", "answer": "wound up",
-      "options": ["wound up", "washed up", "held up", "signed up"] } ] },
+{
+  "expression": "wound up",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "overexcited, nervous, and unable to relax",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u017",
+      "answer": "wound up",
+      "options": [
+        "wound up",
+        "washed up",
+        "held up",
+        "signed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "upscale", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "expensive, stylish, and aimed at wealthy customers",
-    "exchanges": [ { "uid": "s09_e19_c09_u021", "answer": "upscale",
-      "options": ["upscale", "upbeat", "upright", "upstate"] } ] },
+{
+  "expression": "upscale",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "expensive, stylish, and aimed at wealthy customers",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c09_u021",
+      "answer": "upscale",
+      "options": [
+        "upscale",
+        "upbeat",
+        "upright",
+        "upstate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lash out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to suddenly attack or criticize someone angrily",
-    "exchanges": [ { "uid": "s09_e19_c11_u014", "answer": "lashed out",
-      "options": ["lashed out", "backed out", "stepped out", "dropped out"] } ] },
+{
+  "expression": "lash out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to suddenly attack or criticize someone angrily",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c11_u014",
+      "answer": "lashed out",
+      "options": [
+        "lashed out",
+        "backed out",
+        "stepped out",
+        "dropped out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mood-killer", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "something that spoils a pleasant or romantic atmosphere",
-    "exchanges": [ { "uid": "s09_e19_c04_u004", "answer": "mood-killer",
-      "options": ["mood-killer", "crowd-pleaser", "show-stopper", "page-turner"] } ] },
+{
+  "expression": "mood-killer",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something that spoils a pleasant or romantic atmosphere",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c04_u004",
+      "answer": "mood-killer",
+      "options": [
+        "mood-killer",
+        "crowd-pleaser",
+        "show-stopper",
+        "page-turner"
+      ]
+    }
+  ]
+},
 
-  { "expression": "incessant", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "continuing without stopping, in an annoying way",
-    "exchanges": [ { "uid": "s09_e19_c11_u012", "answer": "incessant",
-      "options": ["incessant", "innocent", "indecent", "inactive"] } ] }
+{
+  "expression": "incessant",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "continuing without stopping, in an annoying way",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c11_u012",
+      "answer": "incessant",
+      "options": [
+        "incessant",
+        "innocent",
+        "indecent",
+        "inactive"
+      ]
+    }
+  ]
+}
 ]

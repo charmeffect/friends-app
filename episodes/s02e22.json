@@ -1,129 +1,513 @@
 [
-  { "expression": "call back", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to phone someone again later, usually after an interrupted call",
-    "exchanges": [ { "uid": "s02_e22_c02_u007", "answer": "called her back",
-      "options": ["called her back", "turned her down", "let her in", "put her off"] } ] },
+{
+  "expression": "call back",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to phone someone again later, usually after an interrupted call",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c02_u007",
+      "answer": "called her back",
+      "options": [
+        "called her back",
+        "turned her down",
+        "let her in",
+        "put her off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "at least", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "used to point out the minimum you are asking for or the one good thing in a situation",
-    "exchanges": [ { "uid": "s02_e22_c04_u003", "answer": "at least",
-      "options": ["at least", "at most", "at once", "at last"] } ] },
+{
+  "expression": "at least",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to point out the minimum you are asking for or the one good thing in a situation",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c04_u003",
+      "answer": "at least",
+      "options": [
+        "at least",
+        "at most",
+        "at once",
+        "at last"
+      ]
+    }
+  ]
+},
 
-  { "expression": "who cares", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show that something does not matter to you",
-    "exchanges": [ { "uid": "s02_e22_c04_u029", "answer": "who cares",
-      "options": ["who cares", "who knows", "who says", "who else"] } ] },
+{
+  "expression": "who cares",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that something does not matter to you",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c04_u029",
+      "answer": "who cares",
+      "options": [
+        "who cares",
+        "who knows",
+        "who says",
+        "who else"
+      ]
+    }
+  ]
+},
 
-  { "expression": "write down", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to put something on paper so you remember it",
-    "exchanges": [ { "uid": "s02_e22_c05_u012", "answer": "write down",
-      "options": ["write down", "hand in", "put off", "take out"] } ] },
+{
+  "expression": "write down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to put something on paper so you remember it",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u012",
+      "answer": "write down",
+      "options": [
+        "write down",
+        "hand in",
+        "put off",
+        "take out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in charge of", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "responsible for and in control of something",
-    "exchanges": [ { "uid": "s02_e22_c01_u006", "answer": "in charge of",
-      "options": ["in charge of", "in front of", "in spite of", "in need of"] } ] },
+{
+  "expression": "in charge of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "responsible for and in control of something",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c01_u006",
+      "answer": "in charge of",
+      "options": [
+        "in charge of",
+        "in front of",
+        "in spite of",
+        "in need of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drop by", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make a short, casual visit to someone",
-    "exchanges": [ { "uid": "s02_e22_c03_u008", "answer": "drop by",
-      "options": ["drop by", "put off", "take in", "run out"] } ] },
+{
+  "expression": "drop by",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a short, casual visit to someone",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c03_u008",
+      "answer": "drop by",
+      "options": [
+        "drop by",
+        "put off",
+        "take in",
+        "run out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass along", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to give a message or information to someone else",
-    "exchanges": [ { "uid": "s02_e22_c03_u009", "answer": "pass along",
-      "options": ["pass along", "look over", "put away", "turn down"] } ] },
+{
+  "expression": "pass along",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give a message or information to someone else",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c03_u009",
+      "answer": "pass along",
+      "options": [
+        "pass along",
+        "look over",
+        "put away",
+        "turn down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's the deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "asked to find out what is going on or how something works",
-    "exchanges": [ { "uid": "s02_e22_c03_u012", "answer": "what's the deal",
-      "options": ["what's the deal", "where's the point", "who's the boss", "how's the plan"] } ] },
+{
+  "expression": "what's the deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked to find out what is going on or how something works",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c03_u012",
+      "answer": "what's the deal",
+      "options": [
+        "what's the deal",
+        "where's the point",
+        "who's the boss",
+        "how's the plan"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make an appointment", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to arrange a fixed time to meet a doctor or other professional",
-    "exchanges": [ { "uid": "s02_e22_c05_u077", "answer": "make an appointment",
-      "options": ["make an appointment", "take an appointment", "do an appointment", "hold an appointment"] } ] },
+{
+  "expression": "make an appointment",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange a fixed time to meet a doctor or other professional",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u077",
+      "answer": "make an appointment",
+      "options": [
+        "make an appointment",
+        "take an appointment",
+        "do an appointment",
+        "hold an appointment"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come true", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to actually happen, as a wish or dream does",
-    "exchanges": [ { "uid": "s02_e22_c08_u007", "answer": "come true", "responseUid": null,
-      "options": ["come true", "grow old", "run dry", "stay put"] } ] },
+{
+  "expression": "come true",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to actually happen, as a wish or dream does",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c08_u007",
+      "answer": "come true",
+      "responseUid": null,
+      "options": [
+        "come true",
+        "grow old",
+        "run dry",
+        "stay put"
+      ]
+    }
+  ]
+},
 
-  { "expression": "infection", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "an illness caused by germs entering the body",
-    "exchanges": [ { "uid": "s02_e22_c08_u004", "answer": "infection",
-      "options": ["infection", "injection", "inflation", "intention"] } ] },
+{
+  "expression": "infection",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an illness caused by germs entering the body",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c08_u004",
+      "answer": "infection",
+      "options": [
+        "infection",
+        "injection",
+        "inflation",
+        "intention"
+      ]
+    }
+  ]
+},
 
-  { "expression": "from hell", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used after a noun to say it was the worst possible example of its kind",
-    "exchanges": [ { "uid": "s02_e22_c02_u013", "answer": "from hell", "responseUid": "s02_e22_c02_u015",
-      "options": ["from hell", "from heaven", "from scratch", "from nowhere"] } ] },
+{
+  "expression": "from hell",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used after a noun to say it was the worst possible example of its kind",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c02_u013",
+      "answer": "from hell",
+      "responseUid": "s02_e22_c02_u015",
+      "options": [
+        "from hell",
+        "from heaven",
+        "from scratch",
+        "from nowhere"
+      ]
+    }
+  ]
+},
 
-  { "expression": "scholarship", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "money given to a student to pay for their studies",
-    "exchanges": [ { "uid": "s02_e22_c02_u014", "answer": "scholarship",
-      "options": ["scholarship", "fellowship", "membership", "partnership"] } ] },
+{
+  "expression": "scholarship",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "money given to a student to pay for their studies",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c02_u014",
+      "answer": "scholarship",
+      "options": [
+        "scholarship",
+        "fellowship",
+        "membership",
+        "partnership"
+      ]
+    }
+  ]
+},
 
-  { "expression": "festive", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "cheerful and decorated in a way suited to a celebration",
-    "exchanges": [ { "uid": "s02_e22_c03_u026", "answer": "festive",
-      "options": ["festive", "fertile", "feverish", "furtive"] } ] },
+{
+  "expression": "festive",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "cheerful and decorated in a way suited to a celebration",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c03_u026",
+      "answer": "festive",
+      "options": [
+        "festive",
+        "fertile",
+        "feverish",
+        "furtive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stay clear of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to deliberately avoid something or someone",
-    "exchanges": [
-      { "uid": "s02_e22_c05_u011", "answer": "stay clear of",
-        "options": ["stay clear of", "stay ahead of", "stay short of", "stay fond of"] },
-      { "uid": "s02_e22_c05_u033", "answer": "Stay clear of",
-        "options": ["Stay clear of", "Stay ahead of", "Stay short of", "Stay fond of"] } ] },
+{
+  "expression": "stay clear of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to deliberately avoid something or someone",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u011",
+      "answer": "stay clear of",
+      "options": [
+        "stay clear of",
+        "stay ahead of",
+        "stay short of",
+        "stay fond of"
+      ]
+    },
+    {
+      "uid": "s02_e22_c05_u033",
+      "answer": "Stay clear of",
+      "options": [
+        "Stay clear of",
+        "Stay ahead of",
+        "Stay short of",
+        "Stay fond of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be a pain", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to be annoying or demanding about something",
-    "exchanges": [ { "uid": "s02_e22_c05_u016", "answer": "be a pain",
-      "options": ["be a pain", "be a joke", "be a mess", "be a hit"] } ] },
+{
+  "expression": "be a pain",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be annoying or demanding about something",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u016",
+      "answer": "be a pain",
+      "options": [
+        "be a pain",
+        "be a joke",
+        "be a mess",
+        "be a hit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit the road", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to leave or start a journey",
-    "exchanges": [ { "uid": "s02_e22_c07_u003", "answer": "hit the road",
-      "options": ["hit the road", "hit the floor", "hit the wall", "hit the spot"] } ] },
+{
+  "expression": "hit the road",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave or start a journey",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c07_u003",
+      "answer": "hit the road",
+      "options": [
+        "hit the road",
+        "hit the floor",
+        "hit the wall",
+        "hit the spot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bright side", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "the good or hopeful aspect of a bad situation",
-    "exchanges": [ { "uid": "s02_e22_c04_u033", "answer": "bright side",
-      "options": ["bright side", "dark side", "flip side", "far side"] } ] },
+{
+  "expression": "bright side",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the good or hopeful aspect of a bad situation",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c04_u033",
+      "answer": "bright side",
+      "options": [
+        "bright side",
+        "dark side",
+        "flip side",
+        "far side"
+      ]
+    }
+  ]
+},
 
-  { "expression": "testament to", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "clear proof of how strong or true something is",
-    "exchanges": [ { "uid": "s02_e22_c02_u015", "answer": "testament to",
-      "options": ["testament to", "monument for", "tribute at", "verdict on"] } ] },
+{
+  "expression": "testament to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "clear proof of how strong or true something is",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c02_u015",
+      "answer": "testament to",
+      "options": [
+        "testament to",
+        "monument for",
+        "tribute at",
+        "verdict on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "commencement", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a graduation ceremony at a school or college",
-    "exchanges": [ { "uid": "s02_e22_c02_u017", "answer": "commencement",
-      "options": ["commencement", "commitment", "commandment", "compliment"] } ] },
+{
+  "expression": "commencement",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a graduation ceremony at a school or college",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c02_u017",
+      "answer": "commencement",
+      "options": [
+        "commencement",
+        "commitment",
+        "commandment",
+        "compliment"
+      ]
+    }
+  ]
+},
 
-  { "expression": "staging area", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "a place where people or things are gathered before moving on to the main event",
-    "exchanges": [ { "uid": "s02_e22_c07_u018", "answer": "staging area",
-      "options": ["staging area", "landing area", "grazing area", "mining area"] } ] },
+{
+  "expression": "staging area",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a place where people or things are gathered before moving on to the main event",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c07_u018",
+      "answer": "staging area",
+      "options": [
+        "staging area",
+        "landing area",
+        "grazing area",
+        "mining area"
+      ]
+    }
+  ]
+},
 
-  { "expression": "like a chimney", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "used with 'smoke' to say someone smokes a great deal",
-    "exchanges": [ { "uid": "s02_e22_c05_u055", "answer": "like a chimney",
-      "options": ["like a chimney", "like a furnace", "like a fireplace", "like a factory"] } ] },
+{
+  "expression": "like a chimney",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used with 'smoke' to say someone smokes a great deal",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u055",
+      "answer": "like a chimney",
+      "options": [
+        "like a chimney",
+        "like a furnace",
+        "like a fireplace",
+        "like a factory"
+      ]
+    }
+  ]
+},
 
-  { "expression": "when all is said and done", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "after everything has been considered; in the end",
-    "exchanges": [ { "uid": "s02_e22_c05_u084", "answer": "said and done",
-      "options": ["said and done", "cut and dried", "up and running", "over and out"] } ] },
+{
+  "expression": "when all is said and done",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "after everything has been considered; in the end",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u084",
+      "answer": "said and done",
+      "options": [
+        "said and done",
+        "cut and dried",
+        "up and running",
+        "over and out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "goon", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a stupid or clumsy person, used as a mild insult",
-    "exchanges": [ { "uid": "s02_e22_c03_u033", "answer": "goon",
-      "options": ["goon", "gloom", "groom", "goal"] } ] },
+{
+  "expression": "goon",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a stupid or clumsy person, used as a mild insult",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c03_u033",
+      "answer": "goon",
+      "options": [
+        "goon",
+        "gloom",
+        "groom",
+        "goal"
+      ]
+    }
+  ]
+},
 
-  { "expression": "regimented", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "strictly organized and controlled",
-    "exchanges": [ { "uid": "s02_e22_c06_u004", "answer": "regimented",
-      "options": ["regimented", "reimbursed", "replenished", "resurrected"] } ] }
+{
+  "expression": "regimented",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "strictly organized and controlled",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c06_u004",
+      "answer": "regimented",
+      "options": [
+        "regimented",
+        "reimbursed",
+        "replenished",
+        "resurrected"
+      ]
+    }
+  ]
+}
 ]

@@ -1,129 +1,521 @@
 [
-  { "expression": "there you go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show that someone has finally got it right or done the sensible thing",
-    "exchanges": [ { "uid": "s01_e22_c02_u038", "answer": "There you go", "responseUid": null,
-      "options": ["There you go", "Here it is", "Off we go", "Up you get"] } ] },
+{
+  "expression": "there you go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that someone has finally got it right or done the sensible thing",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c02_u038",
+      "answer": "There you go",
+      "responseUid": null,
+      "options": [
+        "There you go",
+        "Here it is",
+        "Off we go",
+        "Up you get"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone to stop asking or to drop the idea",
-    "exchanges": [ { "uid": "s01_e22_c08_u003", "answer": "forget it",
-      "options": ["forget it", "make it", "catch it", "bring it"] } ] },
+{
+  "expression": "forget it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop asking or to drop the idea",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u003",
+      "answer": "forget it",
+      "options": [
+        "forget it",
+        "make it",
+        "catch it",
+        "bring it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to stop worrying or talking about something",
-    "exchanges": [ { "uid": "s01_e22_c05_u001", "answer": "let it go",
-      "options": ["let it go", "take it in", "put it on", "set it off"] } ] },
+{
+  "expression": "let it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to stop worrying or talking about something",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c05_u001",
+      "answer": "let it go",
+      "options": [
+        "let it go",
+        "take it in",
+        "put it on",
+        "set it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stay over", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend the night at someone else's home",
-    "exchanges": [ { "uid": "s01_e22_c06_u010", "answer": "stay over", "cueUid": "s01_e22_c06_u004",
-      "options": ["stay over", "drop out", "head back", "move on"] } ] },
+{
+  "expression": "stay over",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend the night at someone else's home",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c06_u010",
+      "answer": "stay over",
+      "cueUid": "s01_e22_c06_u004",
+      "options": [
+        "stay over",
+        "drop out",
+        "head back",
+        "move on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to visit a place briefly, often without planning it",
-    "exchanges": [ { "uid": "s01_e22_c08_u030", "answer": "stopped by",
-      "options": ["stopped by", "stood up", "stepped down", "stayed off"] } ] },
+{
+  "expression": "stop by",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit a place briefly, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u030",
+      "answer": "stopped by",
+      "options": [
+        "stopped by",
+        "stood up",
+        "stepped down",
+        "stayed off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "as long as", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "provided that; on the condition that",
-    "exchanges": [ { "uid": "s01_e22_c06_u036", "answer": "as long as",
-      "options": ["as long as", "as soon as", "as far as", "as well as"] } ] },
+{
+  "expression": "as long as",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "provided that; on the condition that",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c06_u036",
+      "answer": "as long as",
+      "options": [
+        "as long as",
+        "as soon as",
+        "as far as",
+        "as well as"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hand out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to give something to each person in a group",
-    "exchanges": [ { "uid": "s01_e22_c08_u009", "answer": "handed out", "cueUid": "s01_e22_c08_u007",
-      "options": ["handed out", "handed in", "handed down", "held out"] } ] },
+{
+  "expression": "hand out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give something to each person in a group",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u009",
+      "answer": "handed out",
+      "cueUid": "s01_e22_c08_u007",
+      "options": [
+        "handed out",
+        "handed in",
+        "handed down",
+        "held out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to laugh at or joke about someone in an unkind way",
-    "exchanges": [ { "uid": "s01_e22_c09_u002", "answer": "made fun of", "responseUid": "s01_e22_c09_u004",
-      "options": ["made fun of", "made up for", "made use of", "made way for"] } ] },
+{
+  "expression": "make fun of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to laugh at or joke about someone in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c09_u002",
+      "answer": "made fun of",
+      "responseUid": "s01_e22_c09_u004",
+      "options": [
+        "made fun of",
+        "made up for",
+        "made use of",
+        "made way for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drop it", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "stop talking about the subject",
-    "exchanges": [ { "uid": "s01_e22_c08_u034", "answer": "drop it", "cueUid": "s01_e22_c08_u031",
-      "options": ["drop it", "cut it", "call it", "beat it"] } ] },
+{
+  "expression": "drop it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "stop talking about the subject",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u034",
+      "answer": "drop it",
+      "cueUid": "s01_e22_c08_u031",
+      "options": [
+        "drop it",
+        "cut it",
+        "call it",
+        "beat it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "throw away", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to get rid of something because you no longer want it",
-    "exchanges": [ { "uid": "s01_e22_c10_u017", "answer": "throw this away",
-      "options": ["throw this away", "take this back", "put this up", "set this off"] } ] },
+{
+  "expression": "throw away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to get rid of something because you no longer want it",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c10_u017",
+      "answer": "throw this away",
+      "options": [
+        "throw this away",
+        "take this back",
+        "put this up",
+        "set this off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in between", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "in the middle of two things or two extremes",
-    "exchanges": [ { "uid": "s01_e22_c06_u015", "answer": "in between", "responseUid": "s01_e22_c06_u018",
-      "options": ["in between", "on hold", "at large", "up front"] } ] },
+{
+  "expression": "in between",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in the middle of two things or two extremes",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c06_u015",
+      "answer": "in between",
+      "responseUid": "s01_e22_c06_u018",
+      "options": [
+        "in between",
+        "on hold",
+        "at large",
+        "up front"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in charge", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "having control of or responsibility for a group or activity",
-    "exchanges": [ { "uid": "s01_e22_c08_u045", "answer": "in charge",
-      "options": ["in charge", "on hold", "at stake", "in line"] } ] },
+{
+  "expression": "in charge",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "having control of or responsibility for a group or activity",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u045",
+      "answer": "in charge",
+      "options": [
+        "in charge",
+        "on hold",
+        "at stake",
+        "in line"
+      ]
+    }
+  ]
+},
 
-  { "expression": "geek", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
-    "exchanges": [ { "uid": "s01_e22_c08_u052", "answer": "geek", "cueUid": "s01_e22_c08_u046", "responseUid": null,
-      "options": ["geek", "hunk", "punk", "brat"] } ] },
+{
+  "expression": "geek",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u052",
+      "answer": "geek",
+      "cueUid": "s01_e22_c08_u046",
+      "responseUid": null,
+      "options": [
+        "geek",
+        "hunk",
+        "punk",
+        "brat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of control", "type": "phrase", "level": "high", "pos": "adjective",
-    "meaning": "no longer able to be managed or stopped",
-    "exchanges": [ { "uid": "s01_e22_c04_u001", "answer": "out of control",
-      "options": ["out of control", "out of order", "out of touch", "out of place"] } ] },
+{
+  "expression": "out of control",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "no longer able to be managed or stopped",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c04_u001",
+      "answer": "out of control",
+      "options": [
+        "out of control",
+        "out of order",
+        "out of touch",
+        "out of place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "extinct", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "no longer existing as a living species",
-    "exchanges": [ { "uid": "s01_e22_c02_u021", "answer": "extinct",
-      "options": ["extinct", "exotic", "intact", "immune"] } ] },
+{
+  "expression": "extinct",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "no longer existing as a living species",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c02_u021",
+      "answer": "extinct",
+      "options": [
+        "extinct",
+        "exotic",
+        "intact",
+        "immune"
+      ]
+    }
+  ]
+},
 
-  { "expression": "know your way around", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to be familiar with something and skilled at handling it",
-    "exchanges": [ { "uid": "s01_e22_c01_u017", "answer": "know your way around",
-      "options": ["know your way around", "find your way out", "make your way through", "go your own way"] } ] },
+{
+  "expression": "know your way around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be familiar with something and skilled at handling it",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c01_u017",
+      "answer": "know your way around",
+      "options": [
+        "know your way around",
+        "find your way out",
+        "make your way through",
+        "go your own way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go into labor", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to begin the process of giving birth",
-    "exchanges": [ { "uid": "s01_e22_c02_u022", "answer": "goes into labor",
-      "options": ["goes into labor", "comes into play", "runs into trouble", "gets into shape"] } ] },
+{
+  "expression": "go into labor",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to begin the process of giving birth",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c02_u022",
+      "answer": "goes into labor",
+      "options": [
+        "goes into labor",
+        "comes into play",
+        "runs into trouble",
+        "gets into shape"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass for", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to be accepted as something you are not, such as a different age",
-    "exchanges": [ { "uid": "s01_e22_c02_u035", "answer": "pass for", "cueUid": "s01_e22_c02_u033",
-      "options": ["pass for", "fall for", "stand for", "make for"] } ] },
+{
+  "expression": "pass for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be accepted as something you are not, such as a different age",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c02_u035",
+      "answer": "pass for",
+      "cueUid": "s01_e22_c02_u033",
+      "options": [
+        "pass for",
+        "fall for",
+        "stand for",
+        "make for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "true story", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to insist that something surprising really did happen",
-    "exchanges": [ { "uid": "s01_e22_c10_u010", "answer": "True story",
-      "options": ["True story", "Real talk", "Fair point", "Big news"] } ] },
+{
+  "expression": "true story",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to insist that something surprising really did happen",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c10_u010",
+      "answer": "True story",
+      "options": [
+        "True story",
+        "Real talk",
+        "Fair point",
+        "Big news"
+      ]
+    }
+  ]
+},
 
-  { "expression": "save it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "stop talking, because nobody wants to hear it right now",
-    "exchanges": [
-      { "uid": "s01_e22_c13_u004", "answer": "save it",
-        "options": ["save it", "lose it", "watch it", "make it"] },
-      { "uid": "s01_e22_c13_u013", "answer": "Save it",
-        "options": ["Save it", "Lose it", "Watch it", "Make it"] } ] },
+{
+  "expression": "save it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "stop talking, because nobody wants to hear it right now",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c13_u004",
+      "answer": "save it",
+      "options": [
+        "save it",
+        "lose it",
+        "watch it",
+        "make it"
+      ]
+    },
+    {
+      "uid": "s01_e22_c13_u013",
+      "answer": "Save it",
+      "options": [
+        "Save it",
+        "Lose it",
+        "Watch it",
+        "Make it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "inadequate", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "not good enough or not able to do what is needed",
-    "exchanges": [ { "uid": "s01_e22_c01_u016", "answer": "inadequate",
-      "options": ["inadequate", "inaccurate", "indifferent", "indecisive"] } ] },
+{
+  "expression": "inadequate",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not good enough or not able to do what is needed",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c01_u016",
+      "answer": "inadequate",
+      "options": [
+        "inadequate",
+        "inaccurate",
+        "indifferent",
+        "indecisive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in reference to", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "concerning or about a particular matter",
-    "exchanges": [ { "uid": "s01_e22_c03_u007", "answer": "in reference to", "responseUid": "s01_e22_c03_u009",
-      "options": ["in reference to", "in contrast to", "in advance of", "on behalf of"] } ] },
+{
+  "expression": "in reference to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "concerning or about a particular matter",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c03_u007",
+      "answer": "in reference to",
+      "responseUid": "s01_e22_c03_u009",
+      "options": [
+        "in reference to",
+        "in contrast to",
+        "in advance of",
+        "on behalf of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "felon", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a person who has committed a serious crime",
-    "exchanges": [ { "uid": "s01_e22_c07_u005", "answer": "felon",
-      "options": ["felon", "tenant", "vendor", "patron"] } ] },
+{
+  "expression": "felon",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who has committed a serious crime",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c07_u005",
+      "answer": "felon",
+      "options": [
+        "felon",
+        "tenant",
+        "vendor",
+        "patron"
+      ]
+    }
+  ]
+},
 
-  { "expression": "saucy", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "slightly rude or sexually suggestive in a playful way",
-    "exchanges": [ { "uid": "s01_e22_c08_u004", "answer": "saucy",
-      "options": ["saucy", "salty", "sturdy", "sulky"] } ] },
+{
+  "expression": "saucy",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "slightly rude or sexually suggestive in a playful way",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u004",
+      "answer": "saucy",
+      "options": [
+        "saucy",
+        "salty",
+        "sturdy",
+        "sulky"
+      ]
+    }
+  ]
+},
 
-  { "expression": "extravaganza", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a big, elaborate and showy event or display",
-    "exchanges": [ { "uid": "s01_e22_c08_u044", "answer": "extravaganza",
-      "options": ["extravaganza", "phenomenon", "masquerade", "expedition"] } ] }
+{
+  "expression": "extravaganza",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a big, elaborate and showy event or display",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c08_u044",
+      "answer": "extravaganza",
+      "options": [
+        "extravaganza",
+        "phenomenon",
+        "masquerade",
+        "expedition"
+      ]
+    }
+  ]
+}
 ]

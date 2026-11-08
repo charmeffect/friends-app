@@ -1,126 +1,503 @@
 [
-  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to assist someone with work or a task",
-    "exchanges": [ { "uid": "s07_e15_c01_u047", "answer": "help me out",
-      "options": ["help me out", "cheer me up", "help me up", "count me out"] } ] },
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to assist someone with work or a task",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c01_u047",
+      "answer": "help me out",
+      "options": [
+        "help me out",
+        "cheer me up",
+        "help me up",
+        "count me out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to visit a place briefly, often without planning it",
-    "exchanges": [ { "uid": "s07_e15_c12_u027", "answer": "stopping by",
-      "options": ["stopping by", "standing by", "stopping off", "passing out"] } ] },
+{
+  "expression": "stop by",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit a place briefly, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c12_u027",
+      "answer": "stopping by",
+      "options": [
+        "stopping by",
+        "standing by",
+        "stopping off",
+        "passing out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "nice try", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when someone's attempt or excuse has failed, often mockingly",
-    "exchanges": [ { "uid": "s07_e15_c02_u022", "answer": "Nice try",
-      "options": ["Nice try", "Good call", "Fair enough", "Well done"] } ] },
+{
+  "expression": "nice try",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when someone's attempt or excuse has failed, often mockingly",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c02_u022",
+      "answer": "Nice try",
+      "options": [
+        "Nice try",
+        "Good call",
+        "Fair enough",
+        "Well done"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lost and found", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a place where lost items are kept until their owners come to collect them",
-    "exchanges": [ { "uid": "s07_e15_c02_u011", "answer": "lost and found",
-      "options": ["lost and found", "bread and butter", "odds and ends", "rest and relaxation"] } ] },
+{
+  "expression": "lost and found",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a place where lost items are kept until their owners come to collect them",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c02_u011",
+      "answer": "lost and found",
+      "options": [
+        "lost and found",
+        "bread and butter",
+        "odds and ends",
+        "rest and relaxation"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fairy tale", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a magical story with a happy ending, or a situation that seems as perfect as one",
-    "exchanges": [ { "uid": "s07_e15_c02_u013", "answer": "fairy tale",
-      "options": ["fairy tale", "ghost story", "love letter", "tall order"] } ] },
+{
+  "expression": "fairy tale",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a magical story with a happy ending, or a situation that seems as perfect as one",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c02_u013",
+      "answer": "fairy tale",
+      "options": [
+        "fairy tale",
+        "ghost story",
+        "love letter",
+        "tall order"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get together", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to meet someone socially",
-    "exchanges": [ { "uid": "s07_e15_c02_u018", "answer": "getting together",
-      "options": ["getting together", "breaking up", "moving on", "making up"] } ] },
+{
+  "expression": "get together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to meet someone socially",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c02_u018",
+      "answer": "getting together",
+      "options": [
+        "getting together",
+        "breaking up",
+        "moving on",
+        "making up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have in common", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to share the same interests or qualities as someone",
-    "exchanges": [ { "uid": "s07_e15_c04_u002", "answer": "in common",
-      "options": ["in common", "in charge", "in return", "in debt"] } ] },
+{
+  "expression": "have in common",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to share the same interests or qualities as someone",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c04_u002",
+      "answer": "in common",
+      "options": [
+        "in common",
+        "in charge",
+        "in return",
+        "in debt"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grab a bite", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to have a quick, simple meal",
-    "exchanges": [ { "uid": "s07_e15_c07_u025", "answer": "grab a bite",
-      "options": ["grab a bite", "catch a break", "take a hint", "hit the road"] } ] },
+{
+  "expression": "grab a bite",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a quick, simple meal",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c07_u025",
+      "answer": "grab a bite",
+      "options": [
+        "grab a bite",
+        "catch a break",
+        "take a hint",
+        "hit the road"
+      ]
+    }
+  ]
+},
 
-  { "expression": "appropriate", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "suitable or right for a particular situation or occasion",
-    "exchanges": [ { "uid": "s07_e15_c09_u014", "answer": "appropriate",
-      "options": ["appropriate", "affordable", "available", "accurate"] } ] },
+{
+  "expression": "appropriate",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "suitable or right for a particular situation or occasion",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c09_u014",
+      "answer": "appropriate",
+      "options": [
+        "appropriate",
+        "affordable",
+        "available",
+        "accurate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crazy about", "type": "colloquial", "level": "middle", "pos": "adjective",
-    "meaning": "very much in love with someone or very enthusiastic about something",
-    "exchanges": [ { "uid": "s07_e15_c12_u037", "answer": "crazy about",
-      "options": ["crazy about", "afraid of", "worried about", "proud of"] } ] },
+{
+  "expression": "crazy about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very much in love with someone or very enthusiastic about something",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c12_u037",
+      "answer": "crazy about",
+      "options": [
+        "crazy about",
+        "afraid of",
+        "worried about",
+        "proud of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kill off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to remove a character from a story by making them die",
-    "exchanges": [ { "uid": "s07_e15_c01_u029", "answer": "killing off",
-      "options": ["killing off", "bringing back", "calling off", "writing in"] } ] },
+{
+  "expression": "kill off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to remove a character from a story by making them die",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c01_u029",
+      "answer": "killing off",
+      "options": [
+        "killing off",
+        "bringing back",
+        "calling off",
+        "writing in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fill someone's shoes", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do a job or role as well as the person who did it before you",
-    "exchanges": [ { "uid": "s07_e15_c01_u046", "answer": "fill her shoes",
-      "options": ["fill her shoes", "pull her weight", "break her heart", "steal her thunder"] } ] },
+{
+  "expression": "fill someone's shoes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do a job or role as well as the person who did it before you",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c01_u046",
+      "answer": "fill her shoes",
+      "options": [
+        "fill her shoes",
+        "pull her weight",
+        "break her heart",
+        "steal her thunder"
+      ]
+    }
+  ]
+},
 
-  { "expression": "subtle", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "not obvious or strong; delicate and understated",
-    "exchanges": [ { "uid": "s07_e15_c02_u009", "answer": "subtle",
-      "options": ["subtle", "single", "sober", "stable"] } ] },
+{
+  "expression": "subtle",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not obvious or strong; delicate and understated",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c02_u009",
+      "answer": "subtle",
+      "options": [
+        "subtle",
+        "single",
+        "sober",
+        "stable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cocky", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "too confident about yourself in an annoying way",
-    "exchanges": [ { "uid": "s07_e15_c02_u028", "answer": "cocky", "responseUid": null,
-      "options": ["cocky", "clumsy", "chilly", "cranky"] } ] },
+{
+  "expression": "cocky",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "too confident about yourself in an annoying way",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c02_u028",
+      "answer": "cocky",
+      "responseUid": null,
+      "options": [
+        "cocky",
+        "clumsy",
+        "chilly",
+        "cranky"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you lost me", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when you have stopped understanding what someone is explaining",
-    "exchanges": [ { "uid": "s07_e15_c07_u011", "answer": "you lost me",
-      "options": ["you lost me", "you got me", "you owe me", "you beat me"] } ] },
+{
+  "expression": "you lost me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you have stopped understanding what someone is explaining",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c07_u011",
+      "answer": "you lost me",
+      "options": [
+        "you lost me",
+        "you got me",
+        "you owe me",
+        "you beat me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "devastated", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "extremely shocked and upset",
-    "exchanges": [ { "uid": "s07_e15_c08_u008", "answer": "devastated",
-      "options": ["devastated", "delighted", "distracted", "dedicated"] } ] },
+{
+  "expression": "devastated",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely shocked and upset",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c08_u008",
+      "answer": "devastated",
+      "options": [
+        "devastated",
+        "delighted",
+        "distracted",
+        "dedicated"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shake things up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make big changes to a situation so it becomes more exciting or different",
-    "exchanges": [ { "uid": "s07_e15_c10_u007", "answer": "shake things up",
-      "options": ["shake things up", "wrap things up", "keep things quiet", "let things slide"] } ] },
+{
+  "expression": "shake things up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make big changes to a situation so it becomes more exciting or different",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c10_u007",
+      "answer": "shake things up",
+      "options": [
+        "shake things up",
+        "wrap things up",
+        "keep things quiet",
+        "let things slide"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I owe you one", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to thank someone for a favor, promising to return it one day",
-    "exchanges": [ { "uid": "s07_e15_c11_u030", "answer": "owe you one", "responseUid": "s07_e15_c11_u032",
-      "options": ["owe you one", "call you back", "miss you more", "let you down"] } ] },
+{
+  "expression": "I owe you one",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to thank someone for a favor, promising to return it one day",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c11_u030",
+      "answer": "owe you one",
+      "responseUid": "s07_e15_c11_u032",
+      "options": [
+        "owe you one",
+        "call you back",
+        "miss you more",
+        "let you down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "controversial", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "causing a lot of disagreement because people have strong opposing opinions about it",
-    "exchanges": [ { "uid": "s07_e15_c01_u031", "answer": "controversial",
-      "options": ["controversial", "conventional", "confidential", "complimentary"] } ] },
+{
+  "expression": "controversial",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "causing a lot of disagreement because people have strong opposing opinions about it",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c01_u031",
+      "answer": "controversial",
+      "options": [
+        "controversial",
+        "conventional",
+        "confidential",
+        "complimentary"
+      ]
+    }
+  ]
+},
 
-  { "expression": "damning", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "strongly suggesting that someone is guilty of something",
-    "exchanges": [ { "uid": "s07_e15_c07_u020", "answer": "damning",
-      "options": ["damning", "dazzling", "daunting", "dashing"] } ] },
+{
+  "expression": "damning",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "strongly suggesting that someone is guilty of something",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c07_u020",
+      "answer": "damning",
+      "options": [
+        "damning",
+        "dazzling",
+        "daunting",
+        "dashing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "partial to", "type": "phrase", "level": "college", "pos": "adjective",
-    "meaning": "having a particular liking for something",
-    "exchanges": [ { "uid": "s07_e15_c08_u002", "answer": "partial to",
-      "options": ["partial to", "opposed to", "allergic to", "immune to"] } ] },
+{
+  "expression": "partial to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "having a particular liking for something",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c08_u002",
+      "answer": "partial to",
+      "options": [
+        "partial to",
+        "opposed to",
+        "allergic to",
+        "immune to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "write someone out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to remove a character from a TV show or story by changing the script",
-    "exchanges": [ { "uid": "s07_e15_c08_u005", "answer": "writing me out",
-      "options": ["writing me out", "filling me in", "signing me up", "taking me back"] } ] },
+{
+  "expression": "write someone out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to remove a character from a TV show or story by changing the script",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c08_u005",
+      "answer": "writing me out",
+      "options": [
+        "writing me out",
+        "filling me in",
+        "signing me up",
+        "taking me back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "heritage", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the traditions, culture, and history that come from your family's background",
-    "exchanges": [ { "uid": "s07_e15_c09_u004", "answer": "heritage",
-      "options": ["heritage", "hairstyle", "handwriting", "hardware"] } ] },
+{
+  "expression": "heritage",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the traditions, culture, and history that come from your family's background",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c09_u004",
+      "answer": "heritage",
+      "options": [
+        "heritage",
+        "hairstyle",
+        "handwriting",
+        "hardware"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the Q.T.", "type": "colloquial", "level": "expert", "pos": "adverb",
-    "meaning": "secretly or quietly, without other people knowing",
-    "exchanges": [ { "uid": "s07_e15_c01_u017", "answer": "on the Q.T.",
-      "options": ["on the Q.T.", "on the rocks", "on the fence", "on the house"] } ] },
+{
+  "expression": "on the Q.T.",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adverb",
+  "meaning": "secretly or quietly, without other people knowing",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c01_u017",
+      "answer": "on the Q.T.",
+      "options": [
+        "on the Q.T.",
+        "on the rocks",
+        "on the fence",
+        "on the house"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sing a different tune", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to have a different opinion or attitude because the situation now affects you",
-    "exchanges": [ { "uid": "s07_e15_c04_u005", "answer": "singing another tune",
-      "options": ["singing another tune", "playing another game", "telling another story", "taking another turn"] } ] }
+{
+  "expression": "sing a different tune",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to have a different opinion or attitude because the situation now affects you",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c04_u005",
+      "answer": "singing another tune",
+      "options": [
+        "singing another tune",
+        "playing another game",
+        "telling another story",
+        "taking another turn"
+      ]
+    }
+  ]
+}
 ]

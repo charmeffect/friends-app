@@ -1,126 +1,505 @@
 [
-  { "expression": "get used to", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to become familiar with something so that it no longer seems strange",
-    "exchanges": [ { "uid": "s02_e10_c02_u044", "answer": "get used to",
-      "options": ["get used to", "get on to", "get down to", "get back to"] } ] },
+{
+  "expression": "get used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become familiar with something so that it no longer seems strange",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c02_u044",
+      "answer": "get used to",
+      "options": [
+        "get used to",
+        "get on to",
+        "get down to",
+        "get back to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when saying goodbye to wish someone well",
-    "exchanges": [ { "uid": "s02_e10_c08_u030", "answer": "Take care", "cueUid": "s02_e10_c08_u028",
-      "options": ["Take care", "Take time", "Take turns", "Take place"] } ] },
+{
+  "expression": "take care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when saying goodbye to wish someone well",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u030",
+      "answer": "Take care",
+      "cueUid": "s02_e10_c08_u028",
+      "options": [
+        "Take care",
+        "Take time",
+        "Take turns",
+        "Take place"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good for you", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to show you are pleased about or approve of what someone has done",
-    "exchanges": [ { "uid": "s02_e10_c08_u043", "answer": "Good for you",
-      "options": ["Good for you", "Good to you", "Good at you", "Good with you"] } ] },
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are pleased about or approve of what someone has done",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u043",
+      "answer": "Good for you",
+      "options": [
+        "Good for you",
+        "Good to you",
+        "Good at you",
+        "Good with you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lousy", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "very bad or unwell",
-    "exchanges": [ { "uid": "s02_e10_c01_u025", "answer": "lousy",
-      "options": ["lousy", "bossy", "fussy", "classy"] } ] },
+{
+  "expression": "lousy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very bad or unwell",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u025",
+      "answer": "lousy",
+      "options": [
+        "lousy",
+        "bossy",
+        "fussy",
+        "classy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "none of my business", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something I have the right to be involved in or ask about",
-    "exchanges": [ { "uid": "s02_e10_c02_u013", "answer": "none of my business",
-      "options": ["none of my business", "out of my hands", "off of my mind", "one of my issues"] } ] },
+{
+  "expression": "none of my business",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something I have the right to be involved in or ask about",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c02_u013",
+      "answer": "none of my business",
+      "options": [
+        "none of my business",
+        "out of my hands",
+        "off of my mind",
+        "one of my issues"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to finish work for the day",
-    "exchanges": [ { "uid": "s02_e10_c02_u032", "answer": "get off",
-      "options": ["get off", "get over", "get by", "get along"] } ] },
+{
+  "expression": "get off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finish work for the day",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c02_u032",
+      "answer": "get off",
+      "options": [
+        "get off",
+        "get over",
+        "get by",
+        "get along"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [ { "uid": "s02_e10_c04_u021", "answer": "break up with",
-      "options": ["break up with", "break out with", "break in with", "break down with"] } ] },
+{
+  "expression": "break up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c04_u021",
+      "answer": "break up with",
+      "options": [
+        "break up with",
+        "break out with",
+        "break in with",
+        "break down with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "remind someone of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make someone think of a person or thing that is similar",
-    "exchanges": [ { "uid": "s02_e10_c04_u031", "answer": "remind you of",
-      "options": ["remind you of", "remember you of", "recall you of", "review you of"] } ] },
+{
+  "expression": "remind someone of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone think of a person or thing that is similar",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c04_u031",
+      "answer": "remind you of",
+      "options": [
+        "remind you of",
+        "remember you of",
+        "recall you of",
+        "review you of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what's with", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "asked to find out the reason for something strange or unexpected",
-    "exchanges": [ { "uid": "s02_e10_c08_u013", "answer": "What's with",
-      "options": ["What's with", "Where's with", "How's with", "Who's with"] } ] },
+{
+  "expression": "what's with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked to find out the reason for something strange or unexpected",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u013",
+      "answer": "What's with",
+      "options": [
+        "What's with",
+        "Where's with",
+        "How's with",
+        "Who's with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "catch up with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to reach someone who is ahead of you; to meet and talk later",
-    "exchanges": [ { "uid": "s02_e10_c08_u044", "answer": "caught up with",
-      "options": ["caught up with", "came up with", "put up with", "made up with"] } ] },
+{
+  "expression": "catch up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to reach someone who is ahead of you; to meet and talk later",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u044",
+      "answer": "caught up with",
+      "options": [
+        "caught up with",
+        "came up with",
+        "put up with",
+        "made up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "toy with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to tease someone by not telling them the truth directly",
-    "exchanges": [ { "uid": "s02_e10_c01_u007", "answer": "toy with", "cueUid": "s02_e10_c01_u005",
-      "options": ["toy with", "toy at", "toy on", "toy over"] } ] },
+{
+  "expression": "toy with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to tease someone by not telling them the truth directly",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u007",
+      "answer": "toy with",
+      "cueUid": "s02_e10_c01_u005",
+      "options": [
+        "toy with",
+        "toy at",
+        "toy on",
+        "toy over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "psyched", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "very excited and enthusiastic about something",
-    "exchanges": [ { "uid": "s02_e10_c01_u011", "answer": "psyched",
-      "options": ["psyched", "spooked", "swamped", "stumped"] } ] },
+{
+  "expression": "psyched",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very excited and enthusiastic about something",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u011",
+      "answer": "psyched",
+      "options": [
+        "psyched",
+        "spooked",
+        "swamped",
+        "stumped"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you and me both", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to agree that you feel exactly the same way",
-    "exchanges": [ { "uid": "s02_e10_c01_u012", "answer": "You and me both",
-      "options": ["You and me both", "You and I too", "Me and you all", "Both of us too"] } ] },
+{
+  "expression": "you and me both",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to agree that you feel exactly the same way",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u012",
+      "answer": "You and me both",
+      "options": [
+        "You and me both",
+        "You and I too",
+        "Me and you all",
+        "Both of us too"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wasted", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "extremely drunk",
-    "exchanges": [ { "uid": "s02_e10_c01_u040", "answer": "wasted",
-      "options": ["wasted", "wanted", "washed", "waited"] } ] },
+{
+  "expression": "wasted",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely drunk",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u040",
+      "answer": "wasted",
+      "options": [
+        "wasted",
+        "wanted",
+        "washed",
+        "waited"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come on to", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to show someone that you are sexually interested in them",
-    "exchanges": [ { "uid": "s02_e10_c03_u010", "answer": "coming on to",
-      "options": ["coming on to", "catching on to", "going in for", "coming down on"] } ] },
+{
+  "expression": "come on to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show someone that you are sexually interested in them",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c03_u010",
+      "answer": "coming on to",
+      "options": [
+        "coming on to",
+        "catching on to",
+        "going in for",
+        "coming down on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for your information", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said, often with annoyance, to introduce a fact the other person did not know",
-    "exchanges": [ { "uid": "s02_e10_c07_u014", "answer": "For your information",
-      "options": ["For your information", "For your attention", "For your interest", "For your reference"] } ] },
+{
+  "expression": "for your information",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, often with annoyance, to introduce a fact the other person did not know",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c07_u014",
+      "answer": "For your information",
+      "options": [
+        "For your information",
+        "For your attention",
+        "For your interest",
+        "For your reference"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become successful in your career",
-    "exchanges": [ { "uid": "s02_e10_c05_u019", "answer": "make it",
-      "options": ["make it", "take it", "fake it", "shake it"] } ] },
+{
+  "expression": "make it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become successful in your career",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c05_u019",
+      "answer": "make it",
+      "options": [
+        "make it",
+        "take it",
+        "fake it",
+        "shake it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sober", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "not drunk; not drinking alcohol",
-    "exchanges": [ { "uid": "s02_e10_c08_u015", "answer": "sober",
-      "options": ["sober", "somber", "sturdy", "subtle"] } ] },
+{
+  "expression": "sober",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not drunk; not drinking alcohol",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u015",
+      "answer": "sober",
+      "options": [
+        "sober",
+        "somber",
+        "sturdy",
+        "subtle"
+      ]
+    }
+  ]
+},
 
-  { "expression": "avert", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to turn your eyes or attention away from something",
-    "exchanges": [ { "uid": "s02_e10_c01_u021", "answer": "avert",
-      "options": ["avert", "assert", "exert", "insert"] } ] },
+{
+  "expression": "avert",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to turn your eyes or attention away from something",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u021",
+      "answer": "avert",
+      "options": [
+        "avert",
+        "assert",
+        "exert",
+        "insert"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ecstatic", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "extremely happy and excited",
-    "exchanges": [ { "uid": "s02_e10_c03_u005", "answer": "ecstatic", "responseUid": "s02_e10_c03_u007",
-      "options": ["ecstatic", "erratic", "emphatic", "elastic"] } ] },
+{
+  "expression": "ecstatic",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "extremely happy and excited",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c03_u005",
+      "answer": "ecstatic",
+      "responseUid": "s02_e10_c03_u007",
+      "options": [
+        "ecstatic",
+        "erratic",
+        "emphatic",
+        "elastic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep someone at bay", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to stop someone from coming close or affecting you",
-    "exchanges": [ { "uid": "s02_e10_c04_u059", "answer": "keeping her at bay",
-      "options": ["keeping her at bay", "keeping her at hand", "keeping her at ease", "keeping her at large"] } ] },
+{
+  "expression": "keep someone at bay",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to stop someone from coming close or affecting you",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c04_u059",
+      "answer": "keeping her at bay",
+      "options": [
+        "keeping her at bay",
+        "keeping her at hand",
+        "keeping her at ease",
+        "keeping her at large"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the rocks", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "served with ice cubes",
-    "exchanges": [ { "uid": "s02_e10_c06_u007", "answer": "on the rocks", "responseUid": null,
-      "options": ["on the rocks", "in the rocks", "over the rocks", "with the rocks"] } ] },
+{
+  "expression": "on the rocks",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "served with ice cubes",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c06_u007",
+      "answer": "on the rocks",
+      "responseUid": null,
+      "options": [
+        "on the rocks",
+        "in the rocks",
+        "over the rocks",
+        "with the rocks"
+      ]
+    }
+  ]
+},
 
-  { "expression": "goober", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a silly or foolish person",
-    "exchanges": [ { "uid": "s02_e10_c04_u071", "answer": "goober",
-      "options": ["goober", "gopher", "gutter", "gizmo"] } ] },
+{
+  "expression": "goober",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a silly or foolish person",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c04_u071",
+      "answer": "goober",
+      "options": [
+        "goober",
+        "gopher",
+        "gutter",
+        "gizmo"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fall off the wagon", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to start drinking alcohol again after having stopped",
-    "exchanges": [ { "uid": "s02_e10_c08_u021", "answer": "fell off the wagon",
-      "options": ["fell off the wagon", "fell off the truck", "fell off the horse", "fell off the bus"] } ] },
+{
+  "expression": "fall off the wagon",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to start drinking alcohol again after having stopped",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u021",
+      "answer": "fell off the wagon",
+      "options": [
+        "fell off the wagon",
+        "fell off the truck",
+        "fell off the horse",
+        "fell off the bus"
+      ]
+    }
+  ]
+},
 
-  { "expression": "codependent", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "relying too much on a partner who has problems, in an unhealthy way",
-    "exchanges": [ { "uid": "s02_e10_c08_u026", "answer": "codependent",
-      "options": ["codependent", "coexistent", "coincident", "consistent"] } ] }
+{
+  "expression": "codependent",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "relying too much on a partner who has problems, in an unhealthy way",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u026",
+      "answer": "codependent",
+      "options": [
+        "codependent",
+        "coexistent",
+        "coincident",
+        "consistent"
+      ]
+    }
+  ]
+}
 ]

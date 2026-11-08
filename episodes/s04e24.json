@@ -1,131 +1,527 @@
 [
-  { "expression": "take your time", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to tell someone there is no need to hurry",
-    "exchanges": [ { "uid": "s04_e24_c19_u004", "answer": "take your time", "cueUid": "s04_e24_c19_u002",
-      "options": ["take your time", "hold your breath", "mind your step", "watch your mouth"] } ] },
+{
+  "expression": "take your time",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell someone there is no need to hurry",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c19_u004",
+      "answer": "take your time",
+      "cueUid": "s04_e24_c19_u002",
+      "options": [
+        "take your time",
+        "hold your breath",
+        "mind your step",
+        "watch your mouth"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get to know", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time with someone so that you learn what they are like",
-    "exchanges": [ { "uid": "s04_e24_c07_u018", "answer": "get to know",
-      "options": ["get to know", "come to see", "have to find", "go to meet"] } ] },
+{
+  "expression": "get to know",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time with someone so that you learn what they are like",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c07_u018",
+      "answer": "get to know",
+      "options": [
+        "get to know",
+        "come to see",
+        "have to find",
+        "go to meet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s04_e24_c20_u034", "answer": "hanging out",
-      "options": ["hanging out", "moving out", "checking in", "running late"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c20_u034",
+      "answer": "hanging out",
+      "options": [
+        "hanging out",
+        "moving out",
+        "checking in",
+        "running late"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to have a friendly relationship with someone",
-    "exchanges": [ { "uid": "s04_e24_c17_u018", "answer": "gets along",
-      "options": ["gets along", "gives up", "goes away", "grows up"] } ] },
+{
+  "expression": "get along",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c17_u018",
+      "answer": "gets along",
+      "options": [
+        "gets along",
+        "gives up",
+        "goes away",
+        "grows up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to laugh at or joke about someone in an unkind way",
-    "exchanges": [ { "uid": "s04_e24_c01_u011", "answer": "make fun of",
-      "options": ["make fun of", "take care of", "get rid of", "keep track of"] } ] },
+{
+  "expression": "make fun of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to laugh at or joke about someone in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c01_u011",
+      "answer": "make fun of",
+      "options": [
+        "make fun of",
+        "take care of",
+        "get rid of",
+        "keep track of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "homesick", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "sad because you are away from home and miss your family and familiar things",
-    "exchanges": [ { "uid": "s04_e24_c03_u006", "answer": "homesick",
-      "options": ["homesick", "seasick", "airsick", "lovesick"] } ] },
+{
+  "expression": "homesick",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "sad because you are away from home and miss your family and familiar things",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c03_u006",
+      "answer": "homesick",
+      "options": [
+        "homesick",
+        "seasick",
+        "airsick",
+        "lovesick"
+      ]
+    }
+  ]
+},
 
-  { "expression": "drive someone crazy", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to annoy someone very much over a long time",
-    "exchanges": [ { "uid": "s04_e24_c08_u006", "answer": "driving me crazy",
-      "options": ["driving me crazy", "making me proud", "letting me down", "keeping me busy"] } ] },
+{
+  "expression": "drive someone crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to annoy someone very much over a long time",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c08_u006",
+      "answer": "driving me crazy",
+      "options": [
+        "driving me crazy",
+        "making me proud",
+        "letting me down",
+        "keeping me busy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "under control", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "being managed successfully so that nothing goes wrong",
-    "exchanges": [ { "uid": "s04_e24_c17_u016", "answer": "under control",
-      "options": ["under control", "on purpose", "out of stock", "at large"] } ] },
+{
+  "expression": "under control",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "being managed successfully so that nothing goes wrong",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c17_u016",
+      "answer": "under control",
+      "options": [
+        "under control",
+        "on purpose",
+        "out of stock",
+        "at large"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [ { "uid": "s04_e24_c19_u076", "answer": "get over",
-      "options": ["get over", "put off", "turn down", "give away"] } ] },
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c19_u076",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "put off",
+        "turn down",
+        "give away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spoil", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to ruin something or make it much worse",
-    "exchanges": [ { "uid": "s04_e24_c19_u002", "answer": "spoiled",
-      "options": ["spoiled", "spilled", "spotted", "spared"] } ] },
+{
+  "expression": "spoil",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to ruin something or make it much worse",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c19_u002",
+      "answer": "spoiled",
+      "options": [
+        "spoiled",
+        "spilled",
+        "spotted",
+        "spared"
+      ]
+    }
+  ]
+},
 
-  { "expression": "step aside", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to move out of the way so that others can pass or be served",
-    "exchanges": [ { "uid": "s04_e24_c09_u009", "answer": "step aside",
-      "options": ["step aside", "speak up", "sit tight", "hold still"] } ] },
+{
+  "expression": "step aside",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to move out of the way so that others can pass or be served",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c09_u009",
+      "answer": "step aside",
+      "options": [
+        "step aside",
+        "speak up",
+        "sit tight",
+        "hold still"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take advantage of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to treat someone unfairly for your own benefit",
-    "exchanges": [ { "uid": "s04_e24_c03_u015", "answer": "takes advantage of",
-      "options": ["takes advantage of", "gets rid of", "keeps track of", "runs out of"] } ] },
+{
+  "expression": "take advantage of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make use of a chance or of someone, often unfairly, for your own benefit",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c03_u015",
+      "answer": "takes advantage of",
+      "options": [
+        "takes advantage of",
+        "gets rid of",
+        "keeps track of",
+        "runs out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a piece of my mind", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "an angry, honest telling-off that you give someone who has upset you",
-    "exchanges": [ { "uid": "s04_e24_c03_u013", "answer": "piece of my mind",
-      "options": ["piece of my mind", "part of my heart", "bit of my time", "word of my own"] } ] },
+{
+  "expression": "a piece of my mind",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "an angry, honest telling-off that you give someone who has upset you",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c03_u013",
+      "answer": "piece of my mind",
+      "options": [
+        "piece of my mind",
+        "part of my heart",
+        "bit of my time",
+        "word of my own"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wear down", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make someone give in by pressuring them persistently",
-    "exchanges": [ { "uid": "s04_e24_c07_u008", "answer": "wore her down",
-      "options": ["wore her down", "took her out", "let her off", "put her up"] } ] },
+{
+  "expression": "wear down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone give in by pressuring them persistently",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c07_u008",
+      "answer": "wore her down",
+      "options": [
+        "wore her down",
+        "took her out",
+        "let her off",
+        "put her up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cut off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to end a phone call or conversation with someone abruptly",
-    "exchanges": [ { "uid": "s04_e24_c07_u013", "answer": "cut you off",
-      "options": ["cut you off", "call you back", "put you down", "let you in"] } ] },
+{
+  "expression": "cut off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to end a phone call or conversation with someone abruptly",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c07_u013",
+      "answer": "cut you off",
+      "options": [
+        "cut you off",
+        "call you back",
+        "put you down",
+        "let you in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no way in hell", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "an emphatic way of saying something will absolutely never happen",
-    "exchanges": [ { "uid": "s04_e24_c08_u011", "answer": "no way in hell", "cueUid": null,
-      "options": ["no way in hell", "no place on earth", "no time at all", "no doubt in mind"] } ] },
+{
+  "expression": "no way in hell",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "an emphatic way of saying something will absolutely never happen",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c08_u011",
+      "answer": "no way in hell",
+      "cueUid": null,
+      "options": [
+        "no way in hell",
+        "no place on earth",
+        "no time at all",
+        "no doubt in mind"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hook up with", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to start a romantic or sexual relationship with someone",
-    "exchanges": [ { "uid": "s04_e24_c18_u013", "answer": "hooked up with",
-      "options": ["hooked up with", "caught up with", "put up with", "kept up with"] } ] },
+{
+  "expression": "hook up with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start a romantic or sexual relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c18_u013",
+      "answer": "hooked up with",
+      "options": [
+        "hooked up with",
+        "caught up with",
+        "put up with",
+        "kept up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "clear your head", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to get away from a situation so you can think calmly again",
-    "exchanges": [ { "uid": "s04_e24_c24_u020", "answer": "clear your head", "cueUid": "s04_e24_c24_u018",
-      "options": ["clear your head", "hold your tongue", "lose your temper", "mind your manners"] } ] },
+{
+  "expression": "clear your head",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get away from a situation so you can think calmly again",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c24_u020",
+      "answer": "clear your head",
+      "cueUid": "s04_e24_c24_u018",
+      "options": [
+        "clear your head",
+        "hold your tongue",
+        "lose your temper",
+        "mind your manners"
+      ]
+    }
+  ]
+},
 
-  { "expression": "divulge", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to reveal information that was meant to be kept private",
-    "exchanges": [ { "uid": "s04_e24_c01_u013", "answer": "divulge",
-      "options": ["divulge", "deduce", "dispute", "devise"] } ] },
+{
+  "expression": "divulge",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to reveal information that was meant to be kept private",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c01_u013",
+      "answer": "divulge",
+      "options": [
+        "divulge",
+        "deduce",
+        "dispute",
+        "devise"
+      ]
+    }
+  ]
+},
 
-  { "expression": "self-absorbed", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "interested only in yourself and paying no attention to others",
-    "exchanges": [ { "uid": "s04_e24_c02_u010", "answer": "self-absorbed",
-      "options": ["self-absorbed", "self-employed", "self-taught", "self-made"] } ] },
+{
+  "expression": "self-absorbed",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "interested only in yourself and paying no attention to others",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c02_u010",
+      "answer": "self-absorbed",
+      "options": [
+        "self-absorbed",
+        "self-employed",
+        "self-taught",
+        "self-made"
+      ]
+    }
+  ]
+},
 
-  { "expression": "snooty", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "behaving as if you are better than other people",
-    "exchanges": [ { "uid": "s04_e24_c01_u014", "answer": "snooty", "responseUid": "s04_e24_c01_u016",
-      "options": ["snooty", "sneaky", "snappy", "sleepy"] } ] },
+{
+  "expression": "snooty",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "behaving as if you are better than other people",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c01_u014",
+      "answer": "snooty",
+      "responseUid": "s04_e24_c01_u016",
+      "options": [
+        "snooty",
+        "sneaky",
+        "snappy",
+        "sleepy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "interchangeable", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "able to be swapped for one another without any difference",
-    "exchanges": [ { "uid": "s04_e24_c19_u013", "answer": "interchangeable",
-      "options": ["interchangeable", "intercontinental", "interactive", "intermediate"] } ] },
+{
+  "expression": "interchangeable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "able to be swapped for one another without any difference",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c19_u013",
+      "answer": "interchangeable",
+      "options": [
+        "interchangeable",
+        "intercontinental",
+        "interactive",
+        "intermediate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "utterly", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "completely or totally, used for emphasis",
-    "exchanges": [ { "uid": "s04_e24_c22_u011", "answer": "utterly",
-      "options": ["utterly", "ultimately", "usually", "urgently"] } ] },
+{
+  "expression": "utterly",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "completely or totally, used for emphasis",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c22_u011",
+      "answer": "utterly",
+      "options": [
+        "utterly",
+        "ultimately",
+        "usually",
+        "urgently"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hammered", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "very drunk",
-    "exchanges": [ { "uid": "s04_e24_c08_u015", "answer": "hammered", "cueUid": "s04_e24_c08_u009",
-      "options": ["hammered", "drilled", "bolted", "sanded"] } ] },
+{
+  "expression": "hammered",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "very drunk",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c08_u015",
+      "answer": "hammered",
+      "cueUid": "s04_e24_c08_u009",
+      "options": [
+        "hammered",
+        "drilled",
+        "bolted",
+        "sanded"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the third degree", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "long, intense questioning that makes someone feel like a suspect",
-    "exchanges": [ { "uid": "s04_e24_c15_u013", "answer": "the third degree", "responseUid": null,
-      "options": ["the third degree", "the second opinion", "the first impression", "the fourth dimension"] } ] },
+{
+  "expression": "the third degree",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "long, intense questioning that makes someone feel like a suspect",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c15_u013",
+      "answer": "the third degree",
+      "responseUid": null,
+      "options": [
+        "the third degree",
+        "the second opinion",
+        "the first impression",
+        "the fourth dimension"
+      ]
+    }
+  ]
+},
 
-  { "expression": "same difference", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "said to dismiss a distinction as unimportant because both things amount to the same",
-    "exchanges": [ { "uid": "s04_e24_c24_u015", "answer": "same difference",
-      "options": ["same difference", "small world", "close call", "fat chance"] } ] }
+{
+  "expression": "same difference",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to dismiss a distinction as unimportant because both things amount to the same",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c24_u015",
+      "answer": "same difference",
+      "options": [
+        "same difference",
+        "small world",
+        "close call",
+        "fat chance"
+      ]
+    }
+  ]
+}
 ]

@@ -326,7 +326,7 @@
 {
   "expression": "prototype",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "noun",
   "meaning": "the first model of something, made before the final version",
   "exchanges": [
@@ -376,7 +376,7 @@
 {
   "expression": "seize",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to take an opportunity eagerly before it is lost",
   "exchanges": [
@@ -396,7 +396,7 @@
 {
   "expression": "close call",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "noun",
   "meaning": "a situation in which something bad almost happened but was just avoided",
   "exchanges": [
@@ -477,7 +477,7 @@
 {
   "expression": "a drop in the bucket",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "a very small amount compared with what is needed or what has been done",
   "exchanges": [

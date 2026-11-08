@@ -1,116 +1,461 @@
 [
-  { "expression": "be allowed to", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to have permission to do something",
-    "exchanges": [ { "uid": "s07_e21_c03_u024", "answer": "allowed to",
-      "options": ["allowed to", "used to", "bound to", "due to"] } ] },
+{
+  "expression": "be allowed to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have permission to do something",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u024",
+      "answer": "allowed to",
+      "options": [
+        "allowed to",
+        "used to",
+        "bound to",
+        "due to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be up to", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to be doing or planning (what are you up to = what are you doing)",
-    "exchanges": [ { "uid": "s07_e21_c04_u006", "answer": "up to",
-      "options": ["up to", "on with", "out for", "in for"] } ] },
+{
+  "expression": "be up to",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be doing or planning (what are you up to = what are you doing)",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u006",
+      "answer": "up to",
+      "options": [
+        "up to",
+        "on with",
+        "out for",
+        "in for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s07_e21_c05_u004", "answer": "hanging out",
-      "options": ["hanging out", "hanging up", "giving out", "freaking out"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u004",
+      "answer": "hanging out",
+      "options": [
+        "hanging out",
+        "hanging up",
+        "giving out",
+        "freaking out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get it", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "to understand what someone means",
-    "exchanges": [ { "uid": "s07_e21_c05_u042", "answer": "get it",
-      "options": ["get it", "make it", "take it", "fake it"] } ] },
+{
+  "expression": "get it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand what someone means",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u042",
+      "answer": "get it",
+      "options": [
+        "get it",
+        "make it",
+        "take it",
+        "fake it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vows", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "the serious promises a couple make to each other at their wedding",
-    "exchanges": [ { "uid": "s07_e21_c03_u005", "answer": "vows",
-      "options": ["vows", "veils", "rings", "cakes"] } ] },
+{
+  "expression": "vows",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the serious promises a couple make to each other at their wedding",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u005",
+      "answer": "vows",
+      "options": [
+        "vows",
+        "veils",
+        "rings",
+        "cakes"
+      ]
+    }
+  ]
+},
 
-  { "expression": "when it comes to", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "regarding a particular subject or matter",
-    "exchanges": [ { "uid": "s07_e21_c01_u006", "answer": "when it comes to",
-      "options": ["when it comes to", "as it turns to", "if it goes to", "once it gets to"] } ] },
+{
+  "expression": "when it comes to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "regarding a particular subject or matter",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c01_u006",
+      "answer": "when it comes to",
+      "options": [
+        "when it comes to",
+        "as it turns to",
+        "if it goes to",
+        "once it gets to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "back then", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "at that time in the past",
-    "exchanges": [ { "uid": "s07_e21_c03_u025", "answer": "back then",
-      "options": ["back then", "back home", "back off", "back up"] } ] },
+{
+  "expression": "back then",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at that time in the past",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u025",
+      "answer": "back then",
+      "options": [
+        "back then",
+        "back home",
+        "back off",
+        "back up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "look back", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to think about something that happened in the past",
-    "exchanges": [ { "uid": "s07_e21_c03_u036", "answer": "look back",
-      "options": ["look back", "look up", "look out", "look down"] } ] },
+{
+  "expression": "look back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think about something that happened in the past",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u036",
+      "answer": "look back",
+      "options": [
+        "look back",
+        "look up",
+        "look out",
+        "look down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "upside down", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "with the top part at the bottom and the bottom part at the top",
-    "exchanges": [ { "uid": "s07_e21_c03_u030", "answer": "upside down",
-      "options": ["upside down", "inside out", "front to back", "round and round"] } ] },
+{
+  "expression": "upside down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "with the top part at the bottom and the bottom part at the top",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u030",
+      "answer": "upside down",
+      "options": [
+        "upside down",
+        "inside out",
+        "front to back",
+        "round and round"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kick out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to force someone to leave a place where they were living or staying",
-    "exchanges": [ { "uid": "s07_e21_c04_u007", "answer": "kicked us out",
-      "options": ["kicked us out", "backed us up", "checked us in", "picked us up"] } ] },
+{
+  "expression": "kick out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to force someone to leave a place where they were living or staying",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u007",
+      "answer": "kicked us out",
+      "options": [
+        "kicked us out",
+        "backed us up",
+        "checked us in",
+        "picked us up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hide something from someone", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to keep something secret from someone",
-    "exchanges": [ { "uid": "s07_e21_c04_u017", "answer": "hid it from us",
-      "options": ["hid it from us", "took it from us", "sent it to us", "gave it to us"] } ] },
+{
+  "expression": "hide something from someone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep something secret from someone",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u017",
+      "answer": "hid it from us",
+      "options": [
+        "hid it from us",
+        "took it from us",
+        "sent it to us",
+        "gave it to us"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grown-up", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "an adult, used especially when speaking to or about children",
-    "exchanges": [ { "uid": "s07_e21_c05_u013", "answer": "grown-ups",
-      "options": ["grown-ups", "pick-ups", "break-ups", "hold-ups"] } ] },
+{
+  "expression": "grown-up",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an adult, used especially when speaking to or about children",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u013",
+      "answer": "grown-ups",
+      "options": [
+        "grown-ups",
+        "pick-ups",
+        "break-ups",
+        "hold-ups"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hilarious", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "extremely funny",
-    "exchanges": [ { "uid": "s07_e21_c05_u044", "answer": "hilarious",
-      "options": ["hilarious", "hideous", "harmonious", "hazardous"] } ] },
+{
+  "expression": "hilarious",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely funny",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u044",
+      "answer": "hilarious",
+      "options": [
+        "hilarious",
+        "hideous",
+        "harmonious",
+        "hazardous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "happen to", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "used to ask politely whether something is the case by chance",
-    "exchanges": [ { "uid": "s07_e21_c01_u009", "answer": "happen to",
-      "options": ["happen to", "tend to", "used to", "fail to"] } ] },
+{
+  "expression": "happen to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "used to ask politely whether something is the case by chance",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c01_u009",
+      "answer": "happen to",
+      "options": [
+        "happen to",
+        "tend to",
+        "used to",
+        "fail to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no such", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "not any of the kind just mentioned",
-    "exchanges": [ { "uid": "s07_e21_c02_u004", "answer": "no such",
-      "options": ["no such", "so few", "too many", "no less"] } ] },
+{
+  "expression": "no such",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "not any of the kind just mentioned",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c02_u004",
+      "answer": "no such",
+      "options": [
+        "no such",
+        "so few",
+        "too many",
+        "no less"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a part of me", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to say that you partly feel or believe something",
-    "exchanges": [ { "uid": "s07_e21_c03_u019", "answer": "a part of me",
-      "options": ["a part of me", "a matter of time", "a piece of cake", "a sense of humor"] } ] },
+{
+  "expression": "a part of me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that you partly feel or believe something",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u019",
+      "answer": "a part of me",
+      "options": [
+        "a part of me",
+        "a matter of time",
+        "a piece of cake",
+        "a sense of humor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "coming along", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to be making progress or developing",
-    "exchanges": [ { "uid": "s07_e21_c04_u009", "answer": "coming along",
-      "options": ["coming along", "going under", "getting over", "turning up"] } ] },
+{
+  "expression": "coming along",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be making progress or developing",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u009",
+      "answer": "coming along",
+      "options": [
+        "coming along",
+        "going under",
+        "getting over",
+        "turning up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let's just say", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to hint at something without saying it directly",
-    "exchanges": [ { "uid": "s07_e21_c04_u010", "answer": "let's just say",
-      "options": ["let's just say", "let's go ahead", "let's get going", "let's move on"] } ] },
+{
+  "expression": "let's just say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to hint at something without saying it directly",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u010",
+      "answer": "let's just say",
+      "options": [
+        "let's just say",
+        "let's go ahead",
+        "let's get going",
+        "let's move on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "end in", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to have something as the final result",
-    "exchanges": [ { "uid": "s07_e21_c04_u012", "answer": "end in",
-      "options": ["end in", "run into", "fall for", "turn out"] } ] },
+{
+  "expression": "end in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have something as the final result",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u012",
+      "answer": "end in",
+      "options": [
+        "end in",
+        "run into",
+        "fall for",
+        "turn out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "got me", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "I have no idea",
-    "exchanges": [ { "uid": "s07_e21_c05_u015", "answer": "Got me",
-      "options": ["Got me", "Get out", "Got it", "Bring it"] } ] },
+{
+  "expression": "got me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I have no idea",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u015",
+      "answer": "Got me",
+      "options": [
+        "Got me",
+        "Get out",
+        "Got it",
+        "Bring it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "look at someone go", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said with admiration or surprise when someone does something quickly or energetically",
-    "exchanges": [ { "uid": "s07_e21_c01_u011", "answer": "Look at her go",
-      "options": ["Look at her go", "Watch her stop", "See her come", "Look at her wait"] } ] },
+{
+  "expression": "look at someone go",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said with admiration or surprise when someone does something quickly or energetically",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c01_u011",
+      "answer": "Look at her go",
+      "options": [
+        "Look at her go",
+        "Watch her stop",
+        "See her come",
+        "Look at her wait"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fundamentally", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "in a basic and essential way",
-    "exchanges": [ { "uid": "s07_e21_c03_u049", "answer": "fundamentally",
-      "options": ["fundamentally", "occasionally", "temporarily", "accidentally"] } ] },
+{
+  "expression": "fundamentally",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "in a basic and essential way",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u049",
+      "answer": "fundamentally",
+      "options": [
+        "fundamentally",
+        "occasionally",
+        "temporarily",
+        "accidentally"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the Mrs.", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a humorous or informal way of referring to someone's wife",
-    "exchanges": [ { "uid": "s07_e21_c04_u014", "answer": "the Mrs.",
-      "options": ["the Mrs.", "the Ms.", "the Miss", "the Mr."] } ] }
+{
+  "expression": "the Mrs.",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a humorous or informal way of referring to someone's wife",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u014",
+      "answer": "the Mrs.",
+      "options": [
+        "the Mrs.",
+        "the Ms.",
+        "the Miss",
+        "the Mr."
+      ]
+    }
+  ]
+}
 ]

@@ -1,131 +1,518 @@
 [
-  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone to stop asking or to drop the idea",
-    "exchanges": [ { "uid": "s05_e03_c09_u010", "answer": "Forget it",
-      "options": ["Forget it", "Bring it", "Watch it", "Hold it"] } ] },
+{
+  "expression": "forget it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop asking or to drop the idea",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c09_u010",
+      "answer": "Forget it",
+      "options": [
+        "Forget it",
+        "Bring it",
+        "Watch it",
+        "Hold it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to date someone; to spend time with someone romantically",
-    "exchanges": [ { "uid": "s05_e03_c15_u005", "answer": "go out with", "cueUid": "s05_e03_c15_u002",
-      "options": ["go out with", "get on with", "keep up with", "fall in with"] } ] },
+{
+  "expression": "go out with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to date someone; to spend time with someone romantically",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c15_u005",
+      "answer": "go out with",
+      "cueUid": "s05_e03_c15_u002",
+      "options": [
+        "go out with",
+        "get on with",
+        "keep up with",
+        "fall in with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "used to add a new topic or something you just remembered",
-    "exchanges": [ { "uid": "s05_e03_c11_u030", "answer": "by the way",
-      "options": ["by the way", "on the way", "in the way", "all the way"] } ] },
+{
+  "expression": "by the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to add a new topic or something you just remembered",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c11_u030",
+      "answer": "by the way",
+      "options": [
+        "by the way",
+        "on the way",
+        "in the way",
+        "all the way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [ { "uid": "s05_e03_c03_u008", "answer": "get over",
-      "options": ["get over", "take after", "run into", "put off"] } ] },
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c03_u008",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "take after",
+        "run into",
+        "put off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invite someone on a date",
-    "exchanges": [ { "uid": "s05_e03_c04_u005", "answer": "asked them out",
-      "options": ["asked them out", "let them down", "told them off", "showed them up"] } ] },
+{
+  "expression": "ask out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone on a date",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c04_u005",
+      "answer": "asked them out",
+      "options": [
+        "asked them out",
+        "let them down",
+        "told them off",
+        "showed them up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "any minute now", "type": "colloquial", "level": "middle", "pos": "adverb",
-    "meaning": "very soon, at any moment",
-    "exchanges": [ { "uid": "s05_e03_c11_u015", "answer": "any minute now",
-      "options": ["any minute now", "every other day", "once in a while", "all night long"] } ] },
+{
+  "expression": "any minute now",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very soon, at any moment",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c11_u015",
+      "answer": "any minute now",
+      "options": [
+        "any minute now",
+        "every other day",
+        "once in a while",
+        "all night long"
+      ]
+    }
+  ]
+},
 
-  { "expression": "look forward to", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to feel pleased and excited about something that is going to happen",
-    "exchanges": [ { "uid": "s05_e03_c11_u024", "answer": "looking forward to",
-      "options": ["looking forward to", "making fun of", "catching up on", "looking down on"] } ] },
+{
+  "expression": "look forward to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel pleased and excited about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c11_u024",
+      "answer": "looking forward to",
+      "options": [
+        "looking forward to",
+        "making fun of",
+        "catching up on",
+        "looking down on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'm afraid", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "a polite way of introducing bad news or an unwelcome answer",
-    "exchanges": [ { "uid": "s05_e03_c07_u002", "answer": "I'm afraid",
-      "options": ["I'm afraid", "I'm aware", "I'm asking", "I'm proud"] } ] },
+{
+  "expression": "I'm afraid",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite way of introducing bad news or an unwelcome answer",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c07_u002",
+      "answer": "I'm afraid",
+      "options": [
+        "I'm afraid",
+        "I'm aware",
+        "I'm asking",
+        "I'm proud"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the meantime", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "until something else happens; during the time in between",
-    "exchanges": [ { "uid": "s05_e03_c02_u023", "answer": "in the meantime",
-      "options": ["in the meantime", "on the contrary", "in the long run", "by the book"] } ] },
+{
+  "expression": "in the meantime",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "until something else happens; during the time in between",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c02_u023",
+      "answer": "in the meantime",
+      "options": [
+        "in the meantime",
+        "on the contrary",
+        "in the long run",
+        "by the book"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bummed", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "disappointed and unhappy",
-    "exchanges": [ { "uid": "s05_e03_c04_u007", "answer": "bummed",
-      "options": ["bummed", "thrilled", "stunned", "wasted"] } ] },
+{
+  "expression": "bummed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "disappointed and unhappy",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c04_u007",
+      "answer": "bummed",
+      "options": [
+        "bummed",
+        "thrilled",
+        "stunned",
+        "wasted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get out of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to avoid doing something you are supposed to do",
-    "exchanges": [ { "uid": "s05_e03_c05_u005", "answer": "get out of",
-      "options": ["get out of", "run out of", "look up to", "make fun of"] } ] },
+{
+  "expression": "get out of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to avoid doing something you are supposed to do",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c05_u005",
+      "answer": "get out of",
+      "options": [
+        "get out of",
+        "run out of",
+        "look up to",
+        "make fun of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in good hands", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "being looked after by someone skilled and trustworthy",
-    "exchanges": [ { "uid": "s05_e03_c02_u023", "answer": "in good hands",
-      "options": ["in good hands", "on good terms", "in good faith", "at good speed"] } ] },
+{
+  "expression": "in good hands",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "being looked after by someone skilled and trustworthy",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c02_u023",
+      "answer": "in good hands",
+      "options": [
+        "in good hands",
+        "on good terms",
+        "in good faith",
+        "at good speed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "to be fair", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "said before adding a point that is fair to the person being criticized",
-    "exchanges": [ { "uid": "s05_e03_c04_u021", "answer": "To be fair",
-      "options": ["To be fair", "To be free", "To be late", "To be ready"] } ] },
+{
+  "expression": "to be fair",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before adding a point that is fair to the person being criticized",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c04_u021",
+      "answer": "To be fair",
+      "options": [
+        "To be fair",
+        "To be free",
+        "To be late",
+        "To be ready"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a handful", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "someone or something that is hard to control or look after",
-    "exchanges": [ { "uid": "s05_e03_c09_u005", "answer": "a handful",
-      "options": ["a handful", "a mouthful", "an armful", "a fistful"] } ] },
+{
+  "expression": "a handful",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "someone or something that is hard to control or look after",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c09_u005",
+      "answer": "a handful",
+      "options": [
+        "a handful",
+        "a mouthful",
+        "an armful",
+        "a fistful"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fair enough", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to accept that what someone has said is reasonable",
-    "exchanges": [ { "uid": "s05_e03_c12_u009", "answer": "fair enough", "responseUid": null,
-      "options": ["fair enough", "sure enough", "soon enough", "close enough"] } ] },
+{
+  "expression": "fair enough",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to accept that what someone has said is reasonable",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c12_u009",
+      "answer": "fair enough",
+      "responseUid": null,
+      "options": [
+        "fair enough",
+        "sure enough",
+        "soon enough",
+        "close enough"
+      ]
+    }
+  ]
+},
 
-  { "expression": "not an option", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "something that cannot be chosen or allowed to happen",
-    "exchanges": [ { "uid": "s05_e03_c10_u007", "answer": "not an option",
-      "options": ["not an option", "not a chance", "not an issue", "not a problem"] } ] },
+{
+  "expression": "not an option",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "something that cannot be chosen or allowed to happen",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c10_u007",
+      "answer": "not an option",
+      "options": [
+        "not an option",
+        "not a chance",
+        "not an issue",
+        "not a problem"
+      ]
+    }
+  ]
+},
 
-  { "expression": "settle for", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to accept something less than what you really wanted",
-    "exchanges": [ { "uid": "s05_e03_c16_u011", "answer": "settle for",
-      "cueUid": "s05_e03_c16_u008", "responseUid": null,
-      "options": ["settle for", "stand for", "care for", "fall for"] } ] },
+{
+  "expression": "settle for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to accept something less than what you really wanted",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c16_u011",
+      "answer": "settle for",
+      "cueUid": "s05_e03_c16_u008",
+      "responseUid": null,
+      "options": [
+        "settle for",
+        "stand for",
+        "care for",
+        "fall for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "flashback", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a sudden vivid memory of something that happened in the past",
-    "exchanges": [ { "uid": "s05_e03_c13_u042", "answer": "flashback",
-      "options": ["flashback", "feedback", "setback", "drawback"] } ] },
+{
+  "expression": "flashback",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a sudden vivid memory of something that happened in the past",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c13_u042",
+      "answer": "flashback",
+      "options": [
+        "flashback",
+        "feedback",
+        "setback",
+        "drawback"
+      ]
+    }
+  ]
+},
 
-  { "expression": "feel out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to find out cautiously what someone is like or how they will react before acting",
-    "exchanges": [ { "uid": "s05_e03_c09_u009", "answer": "feel him out",
-      "options": ["feel him out", "let him down", "talk him up", "put him off"] } ] },
+{
+  "expression": "feel out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to find out cautiously what someone is like or how they will react before acting",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c09_u009",
+      "answer": "feel him out",
+      "options": [
+        "feel him out",
+        "let him down",
+        "talk him up",
+        "put him off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "long shot", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "an attempt that has very little chance of succeeding",
-    "exchanges": [ { "uid": "s05_e03_c16_u008", "answer": "long shot",
-      "options": ["long shot", "big deal", "close call", "last straw"] } ] },
+{
+  "expression": "long shot",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an attempt that has very little chance of succeeding",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c16_u008",
+      "answer": "long shot",
+      "options": [
+        "long shot",
+        "big deal",
+        "close call",
+        "last straw"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sympathy pains", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "physical pain a person feels because someone close to them is in pain, such as a partner in labor",
-    "exchanges": [
-      { "uid": "s05_e03_c02_u019", "answer": "sympathy pains",
-        "options": ["sympathy pains", "growing pains", "phantom pains", "hunger pains"] },
-      { "uid": "s05_e03_c04_u011", "answer": "sympathy pains",
-        "options": ["sympathy pains", "growing pains", "phantom pains", "hunger pains"] } ] },
+{
+  "expression": "sympathy pains",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "physical pain a person feels because someone close to them is in pain, such as a partner in labor",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c02_u019",
+      "answer": "sympathy pains",
+      "options": [
+        "sympathy pains",
+        "growing pains",
+        "phantom pains",
+        "hunger pains"
+      ]
+    },
+    {
+      "uid": "s05_e03_c04_u011",
+      "answer": "sympathy pains",
+      "options": [
+        "sympathy pains",
+        "growing pains",
+        "phantom pains",
+        "hunger pains"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put oneself through school", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to pay for your own education, usually by working while you study",
-    "exchanges": [ { "uid": "s05_e03_c11_u027", "answer": "put myself through",
-      "cueUid": "s05_e03_c11_u025", "responseUid": "s05_e03_c11_u029",
-      "options": ["put myself through", "let myself down", "see myself out", "cut myself off"] } ] },
+{
+  "expression": "put oneself through school",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to pay for your own education, usually by working while you study",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c11_u027",
+      "answer": "put myself through",
+      "cueUid": "s05_e03_c11_u025",
+      "responseUid": "s05_e03_c11_u029",
+      "options": [
+        "put myself through",
+        "let myself down",
+        "see myself out",
+        "cut myself off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on a clock", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "having only a limited amount of time to get something done",
-    "exchanges": [ { "uid": "s05_e03_c11_u004", "answer": "on a clock", "responseUid": null,
-      "options": ["on a clock", "on a roll", "in a rut", "at a loss"] } ] },
+{
+  "expression": "on a clock",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "having only a limited amount of time to get something done",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c11_u004",
+      "answer": "on a clock",
+      "responseUid": null,
+      "options": [
+        "on a clock",
+        "on a roll",
+        "in a rut",
+        "at a loss"
+      ]
+    }
+  ]
+},
 
-  { "expression": "specify", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to state something clearly and in detail",
-    "exchanges": [ { "uid": "s05_e03_c06_u005", "answer": "specified",
-      "options": ["specified", "simplified", "certified", "justified"] } ] },
+{
+  "expression": "specify",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to state something clearly and in detail",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c06_u005",
+      "answer": "specified",
+      "options": [
+        "specified",
+        "simplified",
+        "certified",
+        "justified"
+      ]
+    }
+  ]
+},
 
-  { "expression": "steal someone's thunder", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to take the attention or praise that someone else expected to get",
-    "exchanges": [ { "uid": "s05_e03_c04_u011", "answer": "steal my thunder",
-      "options": ["steal my thunder", "burn my bridges", "bite my tongue", "hold my horses"] } ] }
+{
+  "expression": "steal someone's thunder",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to take the attention or praise that someone else expected to get",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c04_u011",
+      "answer": "steal my thunder",
+      "options": [
+        "steal my thunder",
+        "burn my bridges",
+        "bite my tongue",
+        "hold my horses"
+      ]
+    }
+  ]
+}
 ]

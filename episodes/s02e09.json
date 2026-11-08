@@ -1,140 +1,559 @@
 [
-  { "expression": "by the way", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "used to add a new topic or something you just remembered",
-    "exchanges": [
-      { "uid": "s02_e09_c04_u017", "answer": "by the way",
-        "options": ["by the way", "on the way", "in the end", "at the time"] },
-      { "uid": "s02_e09_c07_u006", "answer": "By the way",
-        "options": ["By the way", "On the way", "In the end", "At the time"] } ] },
+{
+  "expression": "by the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to add a new topic or something you just remembered",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c04_u017",
+      "answer": "by the way",
+      "options": [
+        "by the way",
+        "on the way",
+        "in the end",
+        "at the time"
+      ]
+    },
+    {
+      "uid": "s02_e09_c07_u006",
+      "answer": "By the way",
+      "options": [
+        "By the way",
+        "On the way",
+        "In the end",
+        "At the time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn down", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to reduce the level of heat, sound, or light on a device",
-    "exchanges": [
-      { "uid": "s02_e09_c07_u005", "answer": "turn the heat down",
-        "options": ["turn the heat down", "put the heat off", "take the heat up", "set the heat in"] },
-      { "uid": "s02_e09_c11_u003", "answer": "turn the heat down",
-        "options": ["turn the heat down", "put the heat off", "take the heat up", "set the heat in"] } ] },
+{
+  "expression": "turn down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to reduce the level of heat, sound, or light on a device",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c07_u005",
+      "answer": "turn the heat down",
+      "options": [
+        "turn the heat down",
+        "put the heat off",
+        "take the heat up",
+        "set the heat in"
+      ]
+    },
+    {
+      "uid": "s02_e09_c11_u003",
+      "answer": "turn the heat down",
+      "options": [
+        "turn the heat down",
+        "put the heat off",
+        "take the heat up",
+        "set the heat in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "never mind", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "forget what I just said; it is not important anymore",
-    "exchanges": [ { "uid": "s02_e09_c10_u019", "answer": "never mind", "responseUid": null,
-      "options": ["never mind", "no matter", "not yet", "so long"] } ] },
+{
+  "expression": "never mind",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "forget what I just said; it is not important anymore",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c10_u019",
+      "answer": "never mind",
+      "responseUid": null,
+      "options": [
+        "never mind",
+        "no matter",
+        "not yet",
+        "so long"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wish me luck", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said before trying something difficult, asking others to hope you succeed",
-    "exchanges": [ { "uid": "s02_e09_c05_u014", "answer": "Wish me luck", "responseUid": null,
-      "options": ["Wish me luck", "Give me time", "Tell me more", "Leave me be"] } ] },
+{
+  "expression": "wish me luck",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said before trying something difficult, asking others to hope you succeed",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c05_u014",
+      "answer": "Wish me luck",
+      "responseUid": null,
+      "options": [
+        "Wish me luck",
+        "Give me time",
+        "Tell me more",
+        "Leave me be"
+      ]
+    }
+  ]
+},
 
-  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "why; used to ask the reason for something in casual speech",
-    "exchanges": [ { "uid": "s02_e09_c03_u007", "answer": "how come",
-      "options": ["how come", "so what", "which way", "what else"] } ] },
+{
+  "expression": "how come",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "why; used to ask the reason for something in casual speech",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c03_u007",
+      "answer": "how come",
+      "options": [
+        "how come",
+        "so what",
+        "which way",
+        "what else"
+      ]
+    }
+  ]
+},
 
-  { "expression": "from now on", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "starting at this moment and continuing into the future",
-    "exchanges": [ { "uid": "s02_e09_c02_u008", "answer": "from now on",
-      "options": ["from now on", "by and by", "in the end", "for a while"] } ] },
+{
+  "expression": "from now on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "starting at this moment and continuing into the future",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c02_u008",
+      "answer": "from now on",
+      "options": [
+        "from now on",
+        "by and by",
+        "in the end",
+        "for a while"
+      ]
+    }
+  ]
+},
 
-  { "expression": "buck", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a dollar",
-    "exchanges": [ { "uid": "s02_e09_c09_u014", "answer": "bucks",
-      "options": ["bucks", "pennies", "tokens", "coins"] } ] },
+{
+  "expression": "buck",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a dollar",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c09_u014",
+      "answer": "bucks",
+      "options": [
+        "bucks",
+        "pennies",
+        "tokens",
+        "coins"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hop in", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to get into a car or other vehicle quickly",
-    "exchanges": [ { "uid": "s02_e09_c06_u003", "answer": "hop in",
-      "options": ["hop in", "back up", "pull over", "turn in"] } ] },
+{
+  "expression": "hop in",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to get into a car or other vehicle quickly",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c06_u003",
+      "answer": "hop in",
+      "options": [
+        "hop in",
+        "back up",
+        "pull over",
+        "turn in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gorgeous", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "very beautiful or attractive",
-    "exchanges": [ { "uid": "s02_e09_c02_u019", "answer": "gorgeous",
-      "options": ["gorgeous", "gracious", "gigantic", "gloomy"] } ] },
+{
+  "expression": "gorgeous",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very beautiful or attractive",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c02_u019",
+      "answer": "gorgeous",
+      "options": [
+        "gorgeous",
+        "gracious",
+        "gigantic",
+        "gloomy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "last but not least", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to introduce the final item in a list, saying it is just as important",
-    "exchanges": [ { "uid": "s02_e09_c12_u013", "answer": "last but not least",
-      "options": ["last but not least", "once and for all", "first and foremost", "sooner or later"] } ] },
+{
+  "expression": "last but not least",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the final item in a list, saying it is just as important",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c12_u013",
+      "answer": "last but not least",
+      "options": [
+        "last but not least",
+        "once and for all",
+        "first and foremost",
+        "sooner or later"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a big step", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to do something important that moves you forward, even if it is hard",
-    "exchanges": [ { "uid": "s02_e09_c10_u013", "answer": "took a big step", "responseUid": "s02_e09_c10_u015",
-      "options": ["took a big step", "got a big break", "hit a big wall", "made a big deal"] } ] },
+{
+  "expression": "take a big step",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something important that moves you forward, even if it is hard",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c10_u013",
+      "answer": "took a big step",
+      "responseUid": "s02_e09_c10_u015",
+      "options": [
+        "took a big step",
+        "got a big break",
+        "hit a big wall",
+        "made a big deal"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run out on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to leave someone who depends on you, suddenly abandoning them",
-    "exchanges": [
-      { "uid": "s02_e09_c02_u030", "answer": "ran out on",
-        "options": ["ran out on", "got back at", "put up with", "came down on"] },
-      { "uid": "s02_e09_c10_u012", "answer": "ran out on",
-        "options": ["ran out on", "got back at", "put up with", "came down on"] } ] },
+{
+  "expression": "run out on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave someone who depends on you, suddenly abandoning them",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c02_u030",
+      "answer": "ran out on",
+      "options": [
+        "ran out on",
+        "got back at",
+        "put up with",
+        "came down on"
+      ]
+    },
+    {
+      "uid": "s02_e09_c10_u012",
+      "answer": "ran out on",
+      "options": [
+        "ran out on",
+        "got back at",
+        "put up with",
+        "came down on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "all ears", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "listening with full attention and eager to hear more",
-    "exchanges": [ { "uid": "s02_e09_c02_u040", "answer": "all ears", "cueUid": "s02_e09_c02_u038", "responseUid": null,
-      "options": ["all ears", "all set", "all in", "all out"] } ] },
+{
+  "expression": "all ears",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "listening with full attention and eager to hear more",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c02_u040",
+      "answer": "all ears",
+      "cueUid": "s02_e09_c02_u038",
+      "responseUid": null,
+      "options": [
+        "all ears",
+        "all set",
+        "all in",
+        "all out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go along with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to accept and support a plan or decision even if you are not sure about it",
-    "exchanges": [ { "uid": "s02_e09_c03_u017", "answer": "go along with", "cueUid": "s02_e09_c03_u015",
-      "options": ["go along with", "get away with", "put up with", "come up with"] } ] },
+{
+  "expression": "go along with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to accept and support a plan or decision even if you are not sure about it",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c03_u017",
+      "answer": "go along with",
+      "cueUid": "s02_e09_c03_u015",
+      "options": [
+        "go along with",
+        "get away with",
+        "put up with",
+        "come up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "worship", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to show deep religious respect and love for someone or something",
-    "exchanges": [ { "uid": "s02_e09_c03_u020", "answer": "worship", "responseUid": "s02_e09_c03_u023",
-      "options": ["worship", "welcome", "warn", "watch"] } ] },
+{
+  "expression": "worship",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show deep religious respect and love for someone or something",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c03_u020",
+      "answer": "worship",
+      "responseUid": "s02_e09_c03_u023",
+      "options": [
+        "worship",
+        "welcome",
+        "warn",
+        "watch"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cheat sheet", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a small note with key facts you keep handy to remind yourself",
-    "exchanges": [ { "uid": "s02_e09_c06_u018", "answer": "cheat sheet",
-      "options": ["cheat sheet", "price tag", "name card", "guest list"] } ] },
+{
+  "expression": "cheat sheet",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a small note with key facts you keep handy to remind yourself",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c06_u018",
+      "answer": "cheat sheet",
+      "options": [
+        "cheat sheet",
+        "price tag",
+        "name card",
+        "guest list"
+      ]
+    }
+  ]
+},
 
-  { "expression": "blackmail", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to force someone to give you something by threatening to harm them or withhold help",
-    "exchanges": [ { "uid": "s02_e09_c07_u019", "answer": "blackmailed",
-      "options": ["blackmailed", "blindfolded", "brainwashed", "bankrupted"] } ] },
+{
+  "expression": "blackmail",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to force someone to give you something by threatening to harm them or withhold help",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c07_u019",
+      "answer": "blackmailed",
+      "options": [
+        "blackmailed",
+        "blindfolded",
+        "brainwashed",
+        "bankrupted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no can do", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "a casual way of saying that you cannot or will not do something",
-    "exchanges": [ { "uid": "s02_e09_c09_u017", "answer": "No can do", "responseUid": "s02_e09_c09_u020",
-      "options": ["No can do", "No way out", "Not so fast", "No hard feelings"] } ] },
+{
+  "expression": "no can do",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a casual way of saying that you cannot or will not do something",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c09_u017",
+      "answer": "No can do",
+      "responseUid": "s02_e09_c09_u020",
+      "options": [
+        "No can do",
+        "No way out",
+        "Not so fast",
+        "No hard feelings"
+      ]
+    }
+  ]
+},
 
-  { "expression": "better off", "type": "phrase", "level": "high", "pos": "adjective",
-    "meaning": "in a better situation than you would be otherwise",
-    "exchanges": [ { "uid": "s02_e09_c05_u007", "answer": "better off",
-      "options": ["better off", "hard up", "far gone", "well done"] } ] },
+{
+  "expression": "better off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "in a better situation than you would be otherwise",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c05_u007",
+      "answer": "better off",
+      "options": [
+        "better off",
+        "hard up",
+        "far gone",
+        "well done"
+      ]
+    }
+  ]
+},
 
-  { "expression": "degrading", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "making someone feel humiliated and stripped of dignity",
-    "exchanges": [ { "uid": "s02_e09_c02_u007", "answer": "degrading",
-      "options": ["degrading", "demanding", "deserving", "decaying"] } ] },
+{
+  "expression": "degrading",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "making someone feel humiliated and stripped of dignity",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c02_u007",
+      "answer": "degrading",
+      "options": [
+        "degrading",
+        "demanding",
+        "deserving",
+        "decaying"
+      ]
+    }
+  ]
+},
 
-  { "expression": "seize the day", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to act boldly and take an opportunity now instead of waiting",
-    "exchanges": [ { "uid": "s02_e09_c04_u023", "answer": "seize the day",
-      "options": ["seize the day", "hit the road", "break the ice", "hold the fort"] } ] },
+{
+  "expression": "seize the day",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to act boldly and take an opportunity now instead of waiting",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c04_u023",
+      "answer": "seize the day",
+      "options": [
+        "seize the day",
+        "hit the road",
+        "break the ice",
+        "hold the fort"
+      ]
+    }
+  ]
+},
 
-  { "expression": "do the math", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "work out the obvious conclusion from the facts yourself",
-    "exchanges": [ { "uid": "s02_e09_c05_u006", "answer": "do the math",
-      "options": ["do the math", "pay the price", "set the pace", "hold the line"] } ] },
+{
+  "expression": "do the math",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "work out the obvious conclusion from the facts yourself",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c05_u006",
+      "answer": "do the math",
+      "options": [
+        "do the math",
+        "pay the price",
+        "set the pace",
+        "hold the line"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cave", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to stop resisting and give in to pressure",
-    "exchanges": [ { "uid": "s02_e09_c09_u012", "answer": "cave",
-      "options": ["cave", "bluff", "cry", "sweat"] } ] },
+{
+  "expression": "cave",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to stop resisting and give in to pressure",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c09_u012",
+      "answer": "cave",
+      "options": [
+        "cave",
+        "bluff",
+        "cry",
+        "sweat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "super", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the superintendent who looks after repairs in an apartment building",
-    "exchanges": [ { "uid": "s02_e09_c07_u013", "answer": "super",
-      "options": ["super", "mayor", "sheriff", "dean"] } ] },
+{
+  "expression": "super",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the superintendent who looks after repairs in an apartment building",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c07_u013",
+      "answer": "super",
+      "options": [
+        "super",
+        "mayor",
+        "sheriff",
+        "dean"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dirtbag", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a very unpleasant, dishonest, or worthless person",
-    "exchanges": [ { "uid": "s02_e09_c10_u012", "answer": "dirtbag",
-      "options": ["dirtbag", "windbag", "fleabag", "sandbag"] } ] },
+{
+  "expression": "dirtbag",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a very unpleasant, dishonest, or worthless person",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c10_u012",
+      "answer": "dirtbag",
+      "options": [
+        "dirtbag",
+        "windbag",
+        "fleabag",
+        "sandbag"
+      ]
+    }
+  ]
+},
 
-  { "expression": "knock up", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to make a woman pregnant, usually unintentionally",
-    "exchanges": [ { "uid": "s02_e09_c05_u007", "answer": "knocked up",
-      "options": ["knocked up", "cheered up", "shook up", "dug up"] } ] }
+{
+  "expression": "knock up",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to make a woman pregnant, usually unintentionally",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c05_u007",
+      "answer": "knocked up",
+      "options": [
+        "knocked up",
+        "cheered up",
+        "shook up",
+        "dug up"
+      ]
+    }
+  ]
+}
 ]

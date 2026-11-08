@@ -1,126 +1,507 @@
 [
-  { "expression": "take a nap", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to sleep for a short time during the day",
-    "exchanges": [ { "uid": "s03_e08_c08_u022", "answer": "taking a nap",
-      "options": ["taking a nap", "making a stop", "having a go", "giving a hand"] } ] },
+{
+  "expression": "take a nap",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to sleep for a short time during the day",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c08_u022",
+      "answer": "taking a nap",
+      "options": [
+        "taking a nap",
+        "making a stop",
+        "having a go",
+        "giving a hand"
+      ]
+    }
+  ]
+},
 
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s03_e08_c08_u026", "answer": "find out",
-      "options": ["find out", "look up", "turn in", "hold off"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c08_u026",
+      "answer": "find out",
+      "options": [
+        "find out",
+        "look up",
+        "turn in",
+        "hold off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go ahead", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to give someone permission to do what they asked",
-    "exchanges": [ { "uid": "s03_e08_c06_u008", "answer": "go ahead",
-      "options": ["go ahead", "come over", "stand by", "get up"] } ] },
+{
+  "expression": "go ahead",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to give someone permission to do what they asked",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c06_u008",
+      "answer": "go ahead",
+      "options": [
+        "go ahead",
+        "come over",
+        "stand by",
+        "get up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mess up", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to spoil or ruin something",
-    "exchanges": [ { "uid": "s03_e08_c03_u004", "answer": "messed up",
-      "options": ["messed up", "backed up", "picked up", "showed up"] } ] },
+{
+  "expression": "mess up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spoil or ruin something",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c03_u004",
+      "answer": "messed up",
+      "options": [
+        "messed up",
+        "backed up",
+        "picked up",
+        "showed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "victim", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a person who is harmed or killed by something",
-    "exchanges": [ { "uid": "s03_e08_c02_u006", "answer": "victim",
-      "options": ["victim", "witness", "partner", "patient"] } ] },
+{
+  "expression": "victim",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is harmed or killed by something",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c02_u006",
+      "answer": "victim",
+      "options": [
+        "victim",
+        "witness",
+        "partner",
+        "patient"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put down", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to place someone or something you are holding onto the floor or another surface",
-    "exchanges": [ { "uid": "s03_e08_c04_u006", "answer": "put him down",
-      "options": ["put him down", "take him up", "set him off", "let him in"] } ] },
+{
+  "expression": "put down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to place someone or something you are holding onto the floor or another surface",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c04_u006",
+      "answer": "put him down",
+      "options": [
+        "put him down",
+        "take him up",
+        "set him off",
+        "let him in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "genius", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "an extremely clever person",
-    "exchanges": [ { "uid": "s03_e08_c04_u025", "answer": "genius",
-      "options": ["genius", "coward", "stranger", "witness"] } ] },
+{
+  "expression": "genius",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an extremely clever person",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c04_u025",
+      "answer": "genius",
+      "options": [
+        "genius",
+        "coward",
+        "stranger",
+        "witness"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no offense", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said before a remark to show you do not mean to insult the listener",
-    "exchanges": [ { "uid": "s03_e08_c10_u003", "answer": "no offense",
-      "options": ["no offense", "no kidding", "no wonder", "no problem"] } ] },
+{
+  "expression": "no offense",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before a remark to show you do not mean to insult the listener",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c10_u003",
+      "answer": "no offense",
+      "options": [
+        "no offense",
+        "no kidding",
+        "no wonder",
+        "no problem"
+      ]
+    }
+  ]
+},
 
-  { "expression": "for no reason", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "without any purpose or explanation",
-    "exchanges": [ { "uid": "s03_e08_c09_u002", "answer": "for no reason",
-      "options": ["for no reason", "by no means", "in no time", "at no cost"] } ] },
+{
+  "expression": "for no reason",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "without any purpose or explanation",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c09_u002",
+      "answer": "for no reason",
+      "options": [
+        "for no reason",
+        "by no means",
+        "in no time",
+        "at no cost"
+      ]
+    }
+  ]
+},
 
-  { "expression": "leave out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to not include something that should be there",
-    "exchanges": [ { "uid": "s03_e08_c10_u014", "answer": "leaving out",
-      "options": ["leaving out", "letting in", "looking up", "lying down"] } ] },
+{
+  "expression": "leave out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to not include something that should be there",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c10_u014",
+      "answer": "leaving out",
+      "options": [
+        "leaving out",
+        "letting in",
+        "looking up",
+        "lying down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "coincidence", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "two things happening at the same time by chance, not because one caused the other",
-    "exchanges": [ { "uid": "s03_e08_c01_u019", "answer": "coincidence",
-      "options": ["coincidence", "conspiracy", "consequence", "confession"] } ] },
+{
+  "expression": "coincidence",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "two things happening at the same time by chance, not because one caused the other",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c01_u019",
+      "answer": "coincidence",
+      "options": [
+        "coincidence",
+        "conspiracy",
+        "consequence",
+        "confession"
+      ]
+    }
+  ]
+},
 
-  { "expression": "extinct", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "no longer existing as a living species",
-    "exchanges": [ { "uid": "s03_e08_c03_u015", "answer": "extinct", "cueUid": "s03_e08_c03_u013",
-      "options": ["extinct", "extreme", "exotic", "explicit"] } ] },
+{
+  "expression": "extinct",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "no longer existing as a living species",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c03_u015",
+      "answer": "extinct",
+      "cueUid": "s03_e08_c03_u013",
+      "options": [
+        "extinct",
+        "extreme",
+        "exotic",
+        "explicit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "distraction", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "something that takes a person's attention away from what is happening",
-    "exchanges": [ { "uid": "s03_e08_c04_u015", "answer": "distraction", "responseUid": "s03_e08_c04_u019",
-      "options": ["distraction", "destination", "description", "discussion"] } ] },
+{
+  "expression": "distraction",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something that takes a person's attention away from what is happening",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c04_u015",
+      "answer": "distraction",
+      "responseUid": "s03_e08_c04_u019",
+      "options": [
+        "distraction",
+        "destination",
+        "description",
+        "discussion"
+      ]
+    }
+  ]
+},
 
-  { "expression": "we'll see about that", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to show you doubt what someone has just claimed or promised",
-    "exchanges": [ { "uid": "s03_e08_c06_u007", "answer": "we'll see about that",
-      "options": ["we'll see about that", "I'll think about it", "we'll get to it", "I'll look into that"] } ] },
+{
+  "expression": "we'll see about that",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show you doubt what someone has just claimed or promised",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c06_u007",
+      "answer": "we'll see about that",
+      "options": [
+        "we'll see about that",
+        "I'll think about it",
+        "we'll get to it",
+        "I'll look into that"
+      ]
+    }
+  ]
+},
 
-  { "expression": "awfully", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "very or extremely",
-    "exchanges": [ { "uid": "s03_e08_c08_u019", "answer": "awfully", "cueUid": "s03_e08_c08_u016",
-      "options": ["awfully", "barely", "hardly", "roughly"] } ] },
+{
+  "expression": "awfully",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "very or extremely",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c08_u019",
+      "answer": "awfully",
+      "cueUid": "s03_e08_c08_u016",
+      "options": [
+        "awfully",
+        "barely",
+        "hardly",
+        "roughly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand in the way", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to prevent something from happening",
-    "exchanges": [ { "uid": "s03_e08_c09_u018", "answer": "stood in the way",
-      "options": ["stood in the way", "kept to the side", "went by the book", "came to the point"] } ] },
+{
+  "expression": "stand in the way",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to prevent something from happening",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c09_u018",
+      "answer": "stood in the way",
+      "options": [
+        "stood in the way",
+        "kept to the side",
+        "went by the book",
+        "came to the point"
+      ]
+    }
+  ]
+},
 
-  { "expression": "keep to yourself", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to not tell anyone about something you know",
-    "exchanges": [ { "uid": "s03_e08_c02_u014", "answer": "keep this to yourself",
-      "options": ["keep this to yourself", "hold this for yourself", "take this by yourself", "leave this with yourself"] } ] },
+{
+  "expression": "keep to yourself",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to not tell anyone about something you know",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c02_u014",
+      "answer": "keep this to yourself",
+      "options": [
+        "keep this to yourself",
+        "hold this for yourself",
+        "take this by yourself",
+        "leave this with yourself"
+      ]
+    }
+  ]
+},
 
-  { "expression": "wreck", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to damage something so badly that it is ruined",
-    "exchanges": [ { "uid": "s03_e08_c10_u017", "answer": "wrecked",
-      "options": ["wrecked", "wedged", "wrapped", "wrung"] } ] },
+{
+  "expression": "wreck",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to damage something so badly that it is ruined",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c10_u017",
+      "answer": "wrecked",
+      "options": [
+        "wrecked",
+        "wedged",
+        "wrapped",
+        "wrung"
+      ]
+    }
+  ]
+},
 
-  { "expression": "leave it at that", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to stop doing or discussing something and not go any further",
-    "exchanges": [ { "uid": "s03_e08_c03_u006", "answer": "leave it at that",
-      "options": ["leave it at that", "take it from there", "get it over with", "give it a shot"] } ] },
+{
+  "expression": "leave it at that",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to stop doing or discussing something and not go any further",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c03_u006",
+      "answer": "leave it at that",
+      "options": [
+        "leave it at that",
+        "take it from there",
+        "get it over with",
+        "give it a shot"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rat out", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to tell someone in authority about another person's wrongdoing",
-    "exchanges": [ { "uid": "s03_e08_c06_u016", "answer": "rat me out",
-      "options": ["rat me out", "sell me off", "call me up", "let me down"] } ] },
+{
+  "expression": "rat out",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to tell someone in authority about another person's wrongdoing",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c06_u016",
+      "answer": "rat me out",
+      "options": [
+        "rat me out",
+        "sell me off",
+        "call me up",
+        "let me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "serve someone right", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said when something bad happens to a person who deserves it",
-    "exchanges": [ { "uid": "s03_e08_c09_u011", "answer": "serves me right",
-      "options": ["serves me right", "does me good", "gets me wrong", "makes me well"] } ] },
+{
+  "expression": "serve someone right",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something bad happens to a person who deserves it",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c09_u011",
+      "answer": "serves me right",
+      "options": [
+        "serves me right",
+        "does me good",
+        "gets me wrong",
+        "makes me well"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bow out", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to withdraw from a situation or competition voluntarily",
-    "exchanges": [ { "uid": "s03_e08_c09_u016", "answer": "bow out",
-      "options": ["bow out", "buy in", "blow up", "bear down"] } ] },
+{
+  "expression": "bow out",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to withdraw from a situation or competition voluntarily",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c09_u016",
+      "answer": "bow out",
+      "options": [
+        "bow out",
+        "buy in",
+        "blow up",
+        "bear down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang in the balance", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to be in an uncertain state where the outcome could go either way",
-    "exchanges": [ { "uid": "s03_e08_c12_u003", "answer": "hangs in the balance",
-      "options": ["hangs in the balance", "gets off the ground", "falls into place", "runs in the family"] } ] },
+{
+  "expression": "hang in the balance",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be in an uncertain state where the outcome could go either way",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c12_u003",
+      "answer": "hangs in the balance",
+      "options": [
+        "hangs in the balance",
+        "gets off the ground",
+        "falls into place",
+        "runs in the family"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bloodbath", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "an event in which many people are violently killed or hurt, often used as an exaggeration",
-    "exchanges": [ { "uid": "s03_e08_c04_u031", "answer": "bloodbath", "cueUid": "s03_e08_c04_u026", "responseUid": null,
-      "options": ["bloodbath", "landslide", "meltdown", "stampede"] } ] },
+{
+  "expression": "bloodbath",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an event in which many people are violently killed or hurt, often used as an exaggeration",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c04_u031",
+      "answer": "bloodbath",
+      "cueUid": "s03_e08_c04_u026",
+      "responseUid": null,
+      "options": [
+        "bloodbath",
+        "landslide",
+        "meltdown",
+        "stampede"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fashion", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to make something by shaping or putting materials together",
-    "exchanges": [ { "uid": "s03_e08_c09_u006", "answer": "fashioning", "cueUid": "s03_e08_c09_u004",
-      "options": ["fashioning", "furnishing", "fastening", "flourishing"] } ] }
+{
+  "expression": "fashion",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make something by shaping or putting materials together",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c09_u006",
+      "answer": "fashioning",
+      "cueUid": "s03_e08_c09_u004",
+      "options": [
+        "fashioning",
+        "furnishing",
+        "fastening",
+        "flourishing"
+      ]
+    }
+  ]
+}
 ]

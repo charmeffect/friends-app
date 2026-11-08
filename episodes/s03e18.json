@@ -1,133 +1,509 @@
 [
-  { "expression": "right away", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "immediately, without any delay",
-    "exchanges": [ { "uid": "s03_e18_c02_u043", "answer": "right away",
-      "options": ["right away", "all along", "far away", "right here"] } ] },
+{
+  "expression": "right away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "immediately, without any delay",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c02_u043",
+      "answer": "right away",
+      "options": [
+        "right away",
+        "all along",
+        "far away",
+        "right here"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang on", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "wait a moment",
-    "exchanges": [ { "uid": "s03_e18_c10_u008", "answer": "Hang on",
-      "options": ["Hang on", "Come on", "Go on", "Keep on"] } ] },
+{
+  "expression": "hang on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c10_u008",
+      "answer": "Hang on",
+      "options": [
+        "Hang on",
+        "Come on",
+        "Go on",
+        "Keep on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "care about", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to feel that someone is important to you and matters to you",
-    "exchanges": [ { "uid": "s03_e18_c07_u007", "answer": "care about",
-      "options": ["care about", "run into", "put off", "turn down"] } ] },
+{
+  "expression": "care about",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to feel that someone is important to you and matters to you",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c07_u007",
+      "answer": "care about",
+      "options": [
+        "care about",
+        "run into",
+        "put off",
+        "turn down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out loud", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "in a voice that others can hear, not silently",
-    "exchanges": [ { "uid": "s03_e18_c05_u008", "answer": "out loud",
-      "options": ["out loud", "in time", "at once", "by heart"] } ] },
+{
+  "expression": "out loud",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "in a voice that others can hear, not silently",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c05_u008",
+      "answer": "out loud",
+      "options": [
+        "out loud",
+        "in time",
+        "at once",
+        "by heart"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sick of", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "annoyed and bored by something that has gone on too long",
-    "exchanges": [ { "uid": "s03_e18_c01_u016", "answer": "sick of",
-      "options": ["sick of", "keen on", "mad at", "proud of"] } ] },
+{
+  "expression": "sick of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "annoyed and bored by something that has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c01_u016",
+      "answer": "sick of",
+      "options": [
+        "sick of",
+        "keen on",
+        "mad at",
+        "proud of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lock out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop someone from entering a place by locking the door",
-    "exchanges": [ { "uid": "s03_e18_c02_u011", "answer": "locked me out",
-      "options": ["locked me out", "kicked me off", "shut me up", "let me down"] } ] },
+{
+  "expression": "lock out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop someone from entering a place by locking the door",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c02_u011",
+      "answer": "locked me out",
+      "options": [
+        "locked me out",
+        "kicked me off",
+        "shut me up",
+        "let me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "set up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to arrange a date for someone with a person they have not met",
-    "exchanges": [ { "uid": "s03_e18_c04_u002", "answer": "set me up",
-      "options": ["set me up", "put me up", "pick me up", "let me down"] } ] },
+{
+  "expression": "set up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange a date for someone with a person they have not met",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c04_u002",
+      "answer": "set me up",
+      "options": [
+        "set me up",
+        "put me up",
+        "pick me up",
+        "let me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "when it comes to", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "regarding a particular subject or matter",
-    "exchanges": [ { "uid": "s03_e18_c02_u050", "answer": "when it comes to",
-      "options": ["when it comes to", "as it goes for", "if it gets to", "once it turns to"],
-      "responseUid": null } ] },
+{
+  "expression": "when it comes to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "regarding a particular subject or matter",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c02_u050",
+      "answer": "when it comes to",
+      "options": [
+        "when it comes to",
+        "as it goes for",
+        "if it gets to",
+        "once it turns to"
+      ],
+      "responseUid": null
+    }
+  ]
+},
 
-  { "expression": "get the point", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to understand the main idea someone is trying to make",
-    "exchanges": [ { "uid": "s03_e18_c06_u005", "answer": "get your point",
-      "options": ["get your point", "take your word", "make your case", "hold your line"],
-      "responseUid": null } ] },
+{
+  "expression": "get the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to understand the main idea someone is trying to make",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c06_u005",
+      "answer": "get your point",
+      "options": [
+        "get your point",
+        "take your word",
+        "make your case",
+        "hold your line"
+      ],
+      "responseUid": null
+    }
+  ]
+},
 
-  { "expression": "call off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to cancel a planned event",
-    "exchanges": [ { "uid": "s03_e18_c11_u008", "answer": "called it off",
-      "options": ["called it off", "set it up", "took it in", "made it up"] } ] },
+{
+  "expression": "call off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to cancel a planned event",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c11_u008",
+      "answer": "called it off",
+      "options": [
+        "called it off",
+        "set it up",
+        "took it in",
+        "made it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "immature", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "behaving in a childish way, not like a grown adult",
-    "exchanges": [ { "uid": "s03_e18_c02_u015", "answer": "immature",
-      "options": ["immature", "immoral", "immense", "immobile"] } ] },
+{
+  "expression": "immature",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "behaving in a childish way, not like a grown adult",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c02_u015",
+      "answer": "immature",
+      "options": [
+        "immature",
+        "immoral",
+        "immense",
+        "immobile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "straight", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "continuously, without a break",
-    "exchanges": [ { "uid": "s03_e18_c01_u018", "answer": "straight",
-      "options": ["straight", "ahead", "along", "across"],
-      "responseUid": "s03_e18_c01_u021" } ] },
+{
+  "expression": "straight",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "continuously, without a break",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c01_u018",
+      "answer": "straight",
+      "options": [
+        "straight",
+        "ahead",
+        "along",
+        "across"
+      ],
+      "responseUid": "s03_e18_c01_u021"
+    }
+  ]
+},
 
-  { "expression": "talk someone out of", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to persuade someone not to do something",
-    "exchanges": [ { "uid": "s03_e18_c05_u010", "answer": "talk him out of",
-      "options": ["talk him out of", "get him back to", "keep him off of", "turn him on to"] } ] },
+{
+  "expression": "talk someone out of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone not to do something",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c05_u010",
+      "answer": "talk him out of",
+      "options": [
+        "talk him out of",
+        "get him back to",
+        "keep him off of",
+        "turn him on to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "do anything for", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "to make someone feel attracted or excited (usually in the negative)",
-    "exchanges": [ { "uid": "s03_e18_c06_u003", "answer": "do anything for",
-      "options": ["do anything for", "say anything to", "make anything of", "give anything to"] } ] },
+{
+  "expression": "do anything for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to make someone feel attracted or excited (usually in the negative)",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c06_u003",
+      "answer": "do anything for",
+      "options": [
+        "do anything for",
+        "say anything to",
+        "make anything of",
+        "give anything to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "offensive", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "rude or insulting in a way that upsets people",
-    "exchanges": [ { "uid": "s03_e18_c06_u031", "answer": "offensive",
-      "options": ["offensive", "defensive", "extensive", "attentive"] } ] },
+{
+  "expression": "offensive",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "rude or insulting in a way that upsets people",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c06_u031",
+      "answer": "offensive",
+      "options": [
+        "offensive",
+        "defensive",
+        "extensive",
+        "attentive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rush into", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start doing something too quickly, without thinking carefully",
-    "exchanges": [ { "uid": "s03_e18_c07_u002", "answer": "rush into",
-      "options": ["rush into", "break into", "bump into", "run across"] } ] },
+{
+  "expression": "rush into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doing something too quickly, without thinking carefully",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c07_u002",
+      "answer": "rush into",
+      "options": [
+        "rush into",
+        "break into",
+        "bump into",
+        "run across"
+      ]
+    }
+  ]
+},
 
-  { "expression": "all for the best", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to suggest that a bad event will turn out to have a good result",
-    "exchanges": [ { "uid": "s03_e18_c11_u011", "answer": "all for the best",
-      "options": ["all for the best", "all in the past", "all up to you", "all on the house"],
-      "responseUid": null } ] },
+{
+  "expression": "all for the best",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to suggest that a bad event will turn out to have a good result",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c11_u011",
+      "answer": "all for the best",
+      "options": [
+        "all for the best",
+        "all in the past",
+        "all up to you",
+        "all on the house"
+      ],
+      "responseUid": null
+    }
+  ]
+},
 
-  { "expression": "go through with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to do something you planned even though it is difficult or questionable",
-    "exchanges": [ { "uid": "s03_e18_c15_u005", "answer": "go through with",
-      "options": ["go through with", "get away with", "come up with", "put up with"],
-      "cueUid": "s03_e18_c15_u002" } ] },
+{
+  "expression": "go through with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something you planned even though it is difficult or questionable",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c15_u005",
+      "answer": "go through with",
+      "options": [
+        "go through with",
+        "get away with",
+        "come up with",
+        "put up with"
+      ],
+      "cueUid": "s03_e18_c15_u002"
+    }
+  ]
+},
 
-  { "expression": "vandalism", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the crime of deliberately damaging public or private property",
-    "exchanges": [ { "uid": "s03_e18_c02_u013", "answer": "vandalism",
-      "options": ["vandalism", "terrorism", "journalism", "tourism"] } ] },
+{
+  "expression": "vandalism",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the crime of deliberately damaging public or private property",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c02_u013",
+      "answer": "vandalism",
+      "options": [
+        "vandalism",
+        "terrorism",
+        "journalism",
+        "tourism"
+      ]
+    }
+  ]
+},
 
-  { "expression": "eligible", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "desirable as a marriage or dating partner, usually because single and successful",
-    "exchanges": [ { "uid": "s03_e18_c04_u003", "answer": "eligible",
-      "options": ["eligible", "edible", "legible", "visible"] } ] },
+{
+  "expression": "eligible",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "desirable as a marriage or dating partner, usually because single and successful",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c04_u003",
+      "answer": "eligible",
+      "options": [
+        "eligible",
+        "edible",
+        "legible",
+        "visible"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in disarray", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "in a messy, untidy, or disorganized state",
-    "exchanges": [ { "uid": "s03_e18_c04_u010", "answer": "in disarray",
-      "options": ["in disarray", "on display", "at ease", "under way"] } ] },
+{
+  "expression": "in disarray",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "in a messy, untidy, or disorganized state",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c04_u010",
+      "answer": "in disarray",
+      "options": [
+        "in disarray",
+        "on display",
+        "at ease",
+        "under way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "storm out", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to leave a place suddenly and angrily",
-    "exchanges": [ { "uid": "s03_e18_c11_u022", "answer": "storm out",
-      "options": ["storm out", "hang out", "wear out", "pass out"],
-      "cueUid": "s03_e18_c11_u020", "responseUid": null } ] },
+{
+  "expression": "storm out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly and angrily",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c11_u022",
+      "answer": "storm out",
+      "options": [
+        "storm out",
+        "hang out",
+        "wear out",
+        "pass out"
+      ],
+      "cueUid": "s03_e18_c11_u020",
+      "responseUid": null
+    }
+  ]
+},
 
-  { "expression": "call it even", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to agree that neither person owes the other anything anymore",
-    "exchanges": [ { "uid": "s03_e18_c10_u021", "answer": "call it even",
-      "options": ["call it even", "make it quick", "keep it real", "take it easy"],
-      "responseUid": null } ] },
+{
+  "expression": "call it even",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to agree that neither person owes the other anything anymore",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c10_u021",
+      "answer": "call it even",
+      "options": [
+        "call it even",
+        "make it quick",
+        "keep it real",
+        "take it easy"
+      ],
+      "responseUid": null
+    }
+  ]
+},
 
-  { "expression": "loon", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "a crazy or foolish person",
-    "exchanges": [ { "uid": "s03_e18_c10_u016", "answer": "loon",
-      "options": ["loon", "loaf", "lark", "lump"] } ] },
+{
+  "expression": "loon",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a crazy or foolish person",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c10_u016",
+      "answer": "loon",
+      "options": [
+        "loon",
+        "loaf",
+        "lark",
+        "lump"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dig", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to like or appreciate something very much (slang)",
-    "exchanges": [ { "uid": "s03_e18_c07_u006", "answer": "dig",
-      "options": ["dig", "nail", "bust", "ditch"] } ] }
+{
+  "expression": "dig",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to like or appreciate something very much (slang)",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c07_u006",
+      "answer": "dig",
+      "options": [
+        "dig",
+        "nail",
+        "bust",
+        "ditch"
+      ]
+    }
+  ]
+}
 ]

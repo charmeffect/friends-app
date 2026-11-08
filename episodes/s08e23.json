@@ -1,127 +1,504 @@
 [
-  { "expression": "you made it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to greet someone who has managed to arrive",
-    "exchanges": [ { "uid": "s08_e23_c01_u006", "answer": "made it", "responseUid": "s08_e23_c01_u008",
-      "options": ["made it", "lost it", "took it", "kept it"] } ] },
+{
+  "expression": "you made it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to greet someone who has managed to arrive",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c01_u006",
+      "answer": "made it",
+      "responseUid": "s08_e23_c01_u008",
+      "options": [
+        "made it",
+        "lost it",
+        "took it",
+        "kept it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "off to a great start", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "having begun something very well",
-    "exchanges": [ { "uid": "s08_e23_c01_u004", "answer": "off to",
-      "options": ["off to", "up to", "out of", "down to"] } ] },
+{
+  "expression": "off to a great start",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "having begun something very well",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c01_u004",
+      "answer": "off to",
+      "options": [
+        "off to",
+        "up to",
+        "out of",
+        "down to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "test run", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "a practice attempt made before doing something for real",
-    "exchanges": [ { "uid": "s08_e23_c01_u011", "answer": "test runs",
-      "options": ["test runs", "home runs", "dry spells", "long shots"] } ] },
+{
+  "expression": "test run",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a practice attempt made before doing something for real",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c01_u011",
+      "answer": "test runs",
+      "options": [
+        "test runs",
+        "home runs",
+        "dry spells",
+        "long shots"
+      ]
+    }
+  ]
+},
 
-  { "expression": "care for", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to like something, usually used in the negative to say politely that you dislike it",
-    "exchanges": [ { "uid": "s08_e23_c01_u030", "answer": "care for",
-      "options": ["care for", "ask for", "wait for", "pay for"] } ] },
+{
+  "expression": "care for",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to like something, usually used in the negative to say politely that you dislike it",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c01_u030",
+      "answer": "care for",
+      "options": [
+        "care for",
+        "ask for",
+        "wait for",
+        "pay for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "it can't hurt", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to suggest that doing something will not cause any problem and might help",
-    "exchanges": [ { "uid": "s08_e23_c01_u034", "answer": "hurt", "responseUid": null,
-      "options": ["hurt", "pay", "last", "matter"] } ] },
+{
+  "expression": "it can't hurt",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to suggest that doing something will not cause any problem and might help",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c01_u034",
+      "answer": "hurt",
+      "responseUid": null,
+      "options": [
+        "hurt",
+        "pay",
+        "last",
+        "matter"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dilated", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "made wider or more open than normal, as the cervix does during labor",
-    "exchanges": [ { "uid": "s08_e23_c02_u002", "answer": "dilated",
-      "options": ["dilated", "inflated", "isolated", "elevated"] } ] },
+{
+  "expression": "dilated",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "made wider or more open than normal, as the cervix does during labor",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c02_u002",
+      "answer": "dilated",
+      "options": [
+        "dilated",
+        "inflated",
+        "isolated",
+        "elevated"
+      ]
+    }
+  ]
+},
 
-  { "expression": "time to kill", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "free time with nothing in particular to do while you wait for something",
-    "exchanges": [
-      { "uid": "s08_e23_c02_u006", "answer": "kill",
-        "options": ["kill", "lose", "save", "make"] },
-      { "uid": "s08_e23_c08_u023", "answer": "kill",
-        "options": ["kill", "lose", "save", "make"] } ] },
+{
+  "expression": "time to kill",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "free time with nothing in particular to do while you wait for something",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c02_u006",
+      "answer": "kill",
+      "options": [
+        "kill",
+        "lose",
+        "save",
+        "make"
+      ]
+    },
+    {
+      "uid": "s08_e23_c08_u023",
+      "answer": "kill",
+      "options": [
+        "kill",
+        "lose",
+        "save",
+        "make"
+      ]
+    }
+  ]
+},
 
-  { "expression": "holler", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to shout or call out to someone, here meaning to ask for help",
-    "exchanges": [ { "uid": "s08_e23_c02_u025", "answer": "holler",
-      "options": ["holler", "wander", "settle", "borrow"] } ] },
+{
+  "expression": "holler",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to shout or call out to someone, here meaning to ask for help",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c02_u025",
+      "answer": "holler",
+      "options": [
+        "holler",
+        "wander",
+        "settle",
+        "borrow"
+      ]
+    }
+  ]
+},
 
-  { "expression": "we're all in this together", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to mean that everyone is sharing the same situation and should support each other",
-    "exchanges": [ { "uid": "s08_e23_c02_u030", "answer": "in this together",
-      "options": ["in this together", "out of luck", "up for grabs", "on thin ice"] } ] },
+{
+  "expression": "we're all in this together",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to mean that everyone is sharing the same situation and should support each other",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c02_u030",
+      "answer": "in this together",
+      "options": [
+        "in this together",
+        "out of luck",
+        "up for grabs",
+        "on thin ice"
+      ]
+    }
+  ]
+},
 
-  { "expression": "snooze fest", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "something extremely boring",
-    "exchanges": [ { "uid": "s08_e23_c03_u002", "answer": "snooze fest",
-      "options": ["snooze fest", "love fest", "food fight", "gold mine"] } ] },
+{
+  "expression": "snooze fest",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something extremely boring",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c03_u002",
+      "answer": "snooze fest",
+      "options": [
+        "snooze fest",
+        "love fest",
+        "food fight",
+        "gold mine"
+      ]
+    }
+  ]
+},
 
-  { "expression": "screw with", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to tease or trick someone in order to confuse or upset them for fun",
-    "exchanges": [ { "uid": "s08_e23_c03_u015", "answer": "screwing with",
-      "options": ["screwing with", "looking after", "waiting for", "pointing at"] } ] },
+{
+  "expression": "screw with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to tease or trick someone in order to confuse or upset them for fun",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c03_u015",
+      "answer": "screwing with",
+      "options": [
+        "screwing with",
+        "looking after",
+        "waiting for",
+        "pointing at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "back off", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to stop threatening or bothering someone and move away",
-    "exchanges": [ { "uid": "s08_e23_c03_u017", "answer": "back off",
-      "options": ["back off", "sign up", "sit up", "fill in"] } ] },
+{
+  "expression": "back off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop threatening or bothering someone and move away",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c03_u017",
+      "answer": "back off",
+      "options": [
+        "back off",
+        "sign up",
+        "sit up",
+        "fill in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hear me out", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "listen to everything I want to say before you react or decide",
-    "exchanges": [ { "uid": "s08_e23_c05_u011", "answer": "hear me out",
-      "options": ["hear me out", "wear me out", "point me out", "sort me out"] } ] },
+{
+  "expression": "hear me out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "listen to everything I want to say before you react or decide",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c05_u011",
+      "answer": "hear me out",
+      "options": [
+        "hear me out",
+        "wear me out",
+        "point me out",
+        "sort me out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "we've been through this", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when a subject has already been discussed and you do not want to discuss it again",
-    "exchanges": [ { "uid": "s08_e23_c05_u012", "answer": "been through",
-      "options": ["been through", "taken off", "given up", "looked up"] } ] },
+{
+  "expression": "we've been through this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a subject has already been discussed and you do not want to discuss it again",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c05_u012",
+      "answer": "been through",
+      "options": [
+        "been through",
+        "taken off",
+        "given up",
+        "looked up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "deal with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to take action to solve a problem or handle a person",
-    "exchanges": [
-      { "uid": "s08_e23_c05_u014", "answer": "deal with",
-        "options": ["deal with", "run for", "sign for", "vote for"] },
-      { "uid": "s08_e23_c06_u006", "answer": "deal with",
-        "options": ["deal with", "run for", "sign for", "vote for"] } ] },
+{
+  "expression": "deal with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to take action to solve a problem or handle a person",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c05_u014",
+      "answer": "deal with",
+      "options": [
+        "deal with",
+        "run for",
+        "sign for",
+        "vote for"
+      ]
+    },
+    {
+      "uid": "s08_e23_c06_u006",
+      "answer": "deal with",
+      "options": [
+        "deal with",
+        "run for",
+        "sign for",
+        "vote for"
+      ]
+    }
+  ]
+},
 
-  { "expression": "turn someone down", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to refuse or reject someone, especially someone who asks you out",
-    "exchanges": [ { "uid": "s08_e23_c06_u010", "answer": "turned me down",
-      "options": ["turned me down", "wore me out", "cheered me up", "looked me up"] } ] },
+{
+  "expression": "turn someone down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to refuse or reject someone, especially someone who asks you out",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c06_u010",
+      "answer": "turned me down",
+      "options": [
+        "turned me down",
+        "wore me out",
+        "cheered me up",
+        "looked me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bum out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone feel sad or disappointed",
-    "exchanges": [ { "uid": "s08_e23_c06_u010", "answer": "bummed you guys out",
-      "options": ["bummed you guys out", "picked you guys up", "checked you guys out", "filled you guys in"] } ] },
+{
+  "expression": "bum out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone feel sad or disappointed",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c06_u010",
+      "answer": "bummed you guys out",
+      "options": [
+        "bummed you guys out",
+        "picked you guys up",
+        "checked you guys out",
+        "filled you guys in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pet name", "type": "phrase", "level": "high", "pos": "noun",
-    "meaning": "an affectionate nickname that people use for someone they love",
-    "exchanges": [ { "uid": "s08_e23_c07_u007", "answer": "pet names",
-      "options": ["pet names", "house rules", "day jobs", "love songs"] } ] },
+{
+  "expression": "pet name",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an affectionate nickname that people use for someone they love",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c07_u007",
+      "answer": "pet names",
+      "options": [
+        "pet names",
+        "house rules",
+        "day jobs",
+        "love songs"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hold on", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "wait a moment",
-    "exchanges": [ { "uid": "s08_e23_c08_u016", "answer": "hold on",
-      "options": ["hold on", "keep on", "hold off", "carry on"] } ] },
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c08_u016",
+      "answer": "hold on",
+      "options": [
+        "hold on",
+        "keep on",
+        "hold off",
+        "carry on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "long story", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to avoid explaining something complicated right now",
-    "exchanges": [ { "uid": "s08_e23_c09_u017", "answer": "long story",
-      "options": ["long story", "small world", "good point", "fair question"] } ] },
+{
+  "expression": "long story",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to avoid explaining something complicated right now",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c09_u017",
+      "answer": "long story",
+      "options": [
+        "long story",
+        "small world",
+        "good point",
+        "fair question"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay attention", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to listen to or watch something carefully",
-    "exchanges": [ { "uid": "s08_e23_c09_u020", "answer": "paying attention",
-      "options": ["paying attention", "taking notes", "making sense", "giving way"] } ] },
+{
+  "expression": "pay attention",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to listen to or watch something carefully",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c09_u020",
+      "answer": "paying attention",
+      "options": [
+        "paying attention",
+        "taking notes",
+        "making sense",
+        "giving way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I take it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "I assume or understand from what has been said",
-    "exchanges": [ { "uid": "s08_e23_c09_u021", "answer": "I take it",
-      "options": ["I take it", "I owe it", "I keep it", "I miss it"] } ] },
+{
+  "expression": "I take it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I assume or understand from what has been said",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c09_u021",
+      "answer": "I take it",
+      "options": [
+        "I take it",
+        "I owe it",
+        "I keep it",
+        "I miss it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "my type", "type": "colloquial", "level": "middle", "pos": "noun",
-    "meaning": "the kind of person someone usually finds attractive",
-    "exchanges": [ { "uid": "s08_e23_c13_u005", "answer": "my type",
-      "options": ["my type", "my turn", "my fault", "my call"] } ] },
+{
+  "expression": "my type",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the kind of person someone usually finds attractive",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c13_u005",
+      "answer": "my type",
+      "options": [
+        "my type",
+        "my turn",
+        "my fault",
+        "my call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stinker", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "an unpleasant or badly behaved person",
-    "exchanges": [ { "uid": "s08_e23_c13_u009", "answer": "stinkers", "responseUid": null,
-      "options": ["stinkers", "stickers", "sinkers", "lockers"] } ] }
+{
+  "expression": "stinker",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an unpleasant or badly behaved person",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c13_u009",
+      "answer": "stinkers",
+      "responseUid": null,
+      "options": [
+        "stinkers",
+        "stickers",
+        "sinkers",
+        "lockers"
+      ]
+    }
+  ]
+}
 ]

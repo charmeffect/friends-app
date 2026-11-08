@@ -302,9 +302,9 @@
 {
   "expression": "take advantage of",
   "type": "phrase",
-  "level": "high",
+  "level": "middle",
   "pos": "verb",
-  "meaning": "to treat someone unfairly for your own benefit",
+  "meaning": "to make use of a chance or of someone, often unfairly, for your own benefit",
   "exchanges": [
     {
       "uid": "s10_e13_c06_u035",
@@ -403,7 +403,7 @@
 {
   "expression": "overlap",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to happen partly at the same time as something else",
   "exchanges": [

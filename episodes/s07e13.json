@@ -1,132 +1,525 @@
 [
-  { "expression": "what's the big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "asks why someone thinks something is so important or upsetting",
-    "exchanges": [ { "uid": "s07_e13_c01_u015", "answer": "big deal", "responseUid": null,
-      "options": ["big deal", "big shot", "long shot", "close call"] } ] },
+{
+  "expression": "what's the big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asks why someone thinks something is so important or upsetting",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c01_u015",
+      "answer": "big deal",
+      "responseUid": null,
+      "options": [
+        "big deal",
+        "big shot",
+        "long shot",
+        "close call"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stick together", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stay loyal to and support each other as a group",
-    "exchanges": [ { "uid": "s07_e13_c01_u019", "answer": "stick together", "responseUid": null,
-      "options": ["stick together", "break apart", "stand aside", "fall behind"] } ] },
+{
+  "expression": "stick together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay loyal to and support each other as a group",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c01_u019",
+      "answer": "stick together",
+      "responseUid": null,
+      "options": [
+        "stick together",
+        "break apart",
+        "stand aside",
+        "fall behind"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to look at something closely because it interests you",
-    "exchanges": [
-      { "uid": "s07_e13_c02_u006", "answer": "checking out",
-        "options": ["checking out", "cashing in", "handing over", "backing up"] },
-      { "uid": "s07_e13_c07_u018", "answer": "check this out",
-        "options": ["check this out", "hand this over", "give this up", "turn this down"] } ] },
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c02_u006",
+      "answer": "checking out",
+      "options": [
+        "checking out",
+        "cashing in",
+        "handing over",
+        "backing up"
+      ]
+    },
+    {
+      "uid": "s07_e13_c07_u018",
+      "answer": "check this out",
+      "options": [
+        "check this out",
+        "hand this over",
+        "give this up",
+        "turn this down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop thinking about something that is over and start something new",
-    "exchanges": [ { "uid": "s07_e13_c03_u006", "answer": "move on",
-      "options": ["move on", "hold on", "give in", "come off"] } ] },
+{
+  "expression": "move on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop thinking about something that is over and start something new",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c03_u006",
+      "answer": "move on",
+      "options": [
+        "move on",
+        "hold on",
+        "give in",
+        "come off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shrine", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a place kept exactly as it was in order to honor someone",
-    "exchanges": [ { "uid": "s07_e13_c04_u003", "answer": "shrine",
-      "options": ["shrine", "fortress", "warehouse", "landfill"] } ] },
+{
+  "expression": "shrine",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a place kept exactly as it was in order to honor someone",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c04_u003",
+      "answer": "shrine",
+      "options": [
+        "shrine",
+        "fortress",
+        "warehouse",
+        "landfill"
+      ]
+    }
+  ]
+},
 
-  { "expression": "barren", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "unable to have children",
-    "exchanges": [ { "uid": "s07_e13_c04_u008", "answer": "barren",
-      "options": ["barren", "hostile", "frugal", "fragile"] } ] },
+{
+  "expression": "barren",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unable to have children",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c04_u008",
+      "answer": "barren",
+      "options": [
+        "barren",
+        "hostile",
+        "frugal",
+        "fragile"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no offense", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said before a remark to show you do not mean to insult the listener",
-    "exchanges": [ { "uid": "s07_e13_c05_u011", "answer": "no offense",
-      "options": ["no offense", "no kidding", "no wonder", "no sweat"] } ] },
+{
+  "expression": "no offense",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before a remark to show you do not mean to insult the listener",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c05_u011",
+      "answer": "no offense",
+      "options": [
+        "no offense",
+        "no kidding",
+        "no wonder",
+        "no sweat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dead-end", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "describes a job with no chance of progress or promotion",
-    "exchanges": [ { "uid": "s07_e13_c09_u006", "answer": "dead-end",
-      "options": ["dead-end", "high-end", "top-notch", "cutting-edge"] } ] },
+{
+  "expression": "dead-end",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "describes a job with no chance of progress or promotion",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c09_u006",
+      "answer": "dead-end",
+      "options": [
+        "dead-end",
+        "high-end",
+        "top-notch",
+        "cutting-edge"
+      ]
+    }
+  ]
+},
 
-  { "expression": "push back", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to move an appointment or event to a later time",
-    "exchanges": [ { "uid": "s07_e13_c09_u004", "answer": "push it back",
-      "options": ["push it back", "pull it off", "put it on", "turn it down"] } ] },
+{
+  "expression": "push back",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to move an appointment or event to a later time",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c09_u004",
+      "answer": "push it back",
+      "options": [
+        "push it back",
+        "pull it off",
+        "put it on",
+        "turn it down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a phone call by putting the phone down",
-    "exchanges": [
-      { "uid": "s07_e13_c09_u003", "answer": "hang up",
-        "options": ["hang up", "come over", "check in", "log on"] },
-      { "uid": "s07_e13_c13_u014", "answer": "hang up",
-        "options": ["hang up", "hook up", "look up", "show up"] },
-      { "uid": "s07_e13_c16_u013", "answer": "hung up",
-        "options": ["hung up", "shown up", "looked up", "hooked up"] } ] },
+{
+  "expression": "hang up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a phone call by putting the phone down",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c09_u003",
+      "answer": "hang up",
+      "options": [
+        "hang up",
+        "come over",
+        "check in",
+        "log on"
+      ]
+    },
+    {
+      "uid": "s07_e13_c13_u014",
+      "answer": "hang up",
+      "options": [
+        "hang up",
+        "hook up",
+        "look up",
+        "show up"
+      ]
+    },
+    {
+      "uid": "s07_e13_c16_u013",
+      "answer": "hung up",
+      "options": [
+        "hung up",
+        "shown up",
+        "looked up",
+        "hooked up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in one's prime", "type": "phrase", "level": "college", "pos": "expression",
-    "meaning": "at the time of life when someone or something is strongest and most successful",
-    "exchanges": [ { "uid": "s07_e13_c10_u015", "answer": "in her prime",
-      "options": ["in her prime", "in her sleep", "on her side", "by her side"] } ] },
+{
+  "expression": "in one's prime",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "at the time of life when someone or something is strongest and most successful",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c10_u015",
+      "answer": "in her prime",
+      "options": [
+        "in her prime",
+        "in her sleep",
+        "on her side",
+        "by her side"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on purpose", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "intentionally, not by accident",
-    "exchanges": [ { "uid": "s07_e13_c11_u002", "answer": "on purpose",
-      "options": ["on purpose", "on time", "in person", "by heart"] } ] },
+{
+  "expression": "on purpose",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "intentionally, not by accident",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c11_u002",
+      "answer": "on purpose",
+      "options": [
+        "on purpose",
+        "on time",
+        "in person",
+        "by heart"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pass off as", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to falsely present something as being something else",
-    "exchanges": [ { "uid": "s07_e13_c11_u009", "answer": "pass off as",
-      "options": ["pass off as", "give up as", "take in as", "show up as"] } ] },
+{
+  "expression": "pass off as",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to falsely present something as being something else",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c11_u009",
+      "answer": "pass off as",
+      "options": [
+        "pass off as",
+        "give up as",
+        "take in as",
+        "show up as"
+      ]
+    }
+  ]
+},
 
-  { "expression": "psyched", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "very excited and enthusiastic about something",
-    "exchanges": [ { "uid": "s07_e13_c12_u002", "answer": "psyched",
-      "options": ["psyched", "sleepy", "hungry", "nervous"] } ] },
+{
+  "expression": "psyched",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very excited and enthusiastic about something",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c12_u002",
+      "answer": "psyched",
+      "options": [
+        "psyched",
+        "sleepy",
+        "hungry",
+        "nervous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stick around", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to stay in a place rather than leaving",
-    "exchanges": [ { "uid": "s07_e13_c13_u006", "answer": "sticking around",
-      "options": ["sticking around", "showing off", "running away", "cheering up"] } ] },
+{
+  "expression": "stick around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stay in a place rather than leaving",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c13_u006",
+      "answer": "sticking around",
+      "options": [
+        "sticking around",
+        "showing off",
+        "running away",
+        "cheering up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "whip up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make food or a meal quickly",
-    "exchanges": [ { "uid": "s07_e13_c14_u004", "answer": "whipped us up",
-      "options": ["whipped us up", "turned us down", "let us down", "cheered us up"] } ] },
+{
+  "expression": "whip up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make food or a meal quickly",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c14_u004",
+      "answer": "whipped us up",
+      "options": [
+        "whipped us up",
+        "turned us down",
+        "let us down",
+        "cheered us up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'm afraid so", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to say yes when the answer is unwelcome or disappointing",
-    "exchanges": [ { "uid": "s07_e13_c14_u023", "answer": "I'm afraid so",
-      "options": ["I'm afraid so", "I'm glad to", "I'm on it", "I'm all set"] } ] },
+{
+  "expression": "I'm afraid so",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say yes when the answer is unwelcome or disappointing",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c14_u023",
+      "answer": "I'm afraid so",
+      "options": [
+        "I'm afraid so",
+        "I'm glad to",
+        "I'm on it",
+        "I'm all set"
+      ]
+    }
+  ]
+},
 
-  { "expression": "screw it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when you suddenly decide to stop worrying and just do something",
-    "exchanges": [ { "uid": "s07_e13_c14_u029", "answer": "Screw it", "responseUid": null,
-      "options": ["Screw it", "Beat it", "Step it", "Bring it"] } ] },
+{
+  "expression": "screw it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you suddenly decide to stop worrying and just do something",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c14_u029",
+      "answer": "Screw it",
+      "responseUid": null,
+      "options": [
+        "Screw it",
+        "Beat it",
+        "Step it",
+        "Bring it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "obsolete", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "no longer useful because something newer and better exists",
-    "exchanges": [ { "uid": "s07_e13_c15_u007", "answer": "obsolete",
-      "options": ["obsolete", "affordable", "popular", "attractive"] } ] },
+{
+  "expression": "obsolete",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "no longer useful because something newer and better exists",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c15_u007",
+      "answer": "obsolete",
+      "options": [
+        "obsolete",
+        "affordable",
+        "popular",
+        "attractive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "nice try", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said when someone's attempt or excuse has failed, often mockingly",
-    "exchanges": [ { "uid": "s07_e13_c15_u027", "answer": "Nice try",
-      "options": ["Nice try", "Good luck", "Well done", "Big deal"] } ] },
+{
+  "expression": "nice try",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when someone's attempt or excuse has failed, often mockingly",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c15_u027",
+      "answer": "Nice try",
+      "options": [
+        "Nice try",
+        "Good luck",
+        "Well done",
+        "Big deal"
+      ]
+    }
+  ]
+},
 
-  { "expression": "goose bumps", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "small raised spots on your skin caused by cold, fear, or strong excitement",
-    "exchanges": [ { "uid": "s07_e13_c16_u027", "answer": "goose bumps", "responseUid": "s07_e13_c16_u029",
-      "options": ["goose bumps", "sore muscles", "chicken wings", "swollen ankles"] } ] },
+{
+  "expression": "goose bumps",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "small raised spots on your skin caused by cold, fear, or strong excitement",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c16_u027",
+      "answer": "goose bumps",
+      "responseUid": "s07_e13_c16_u029",
+      "options": [
+        "goose bumps",
+        "sore muscles",
+        "chicken wings",
+        "swollen ankles"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to do something good for someone to compensate for a wrong you did to them",
-    "exchanges": [ { "uid": "s07_e13_c17_u008", "answer": "make it up to",
-      "options": ["make it up to", "take it out on", "put it down to", "give it back to"] } ] },
+{
+  "expression": "make it up to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something good for someone to compensate for a wrong you did to them",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c17_u008",
+      "answer": "make it up to",
+      "options": [
+        "make it up to",
+        "take it out on",
+        "put it down to",
+        "give it back to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to remove or sell something you no longer want",
-    "exchanges": [
-      { "uid": "s07_e13_c17_u013", "answer": "getting rid of",
-        "options": ["getting rid of", "making fun of", "running out of", "keeping track of"] },
-      { "uid": "s07_e13_c18_u010", "answer": "get rid of",
-        "options": ["get rid of", "make fun of", "run out of", "get out of"] } ] },
+{
+  "expression": "get rid of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove or sell something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c17_u013",
+      "answer": "getting rid of",
+      "options": [
+        "getting rid of",
+        "making fun of",
+        "running out of",
+        "keeping track of"
+      ]
+    },
+    {
+      "uid": "s07_e13_c18_u010",
+      "answer": "get rid of",
+      "options": [
+        "get rid of",
+        "make fun of",
+        "run out of",
+        "get out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take it for a spin", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to go for a short drive in a car, especially to try it out",
-    "exchanges": [ { "uid": "s07_e13_c17_u016", "answer": "for a spin",
-      "options": ["for a spin", "at its word", "by surprise", "for granted"] } ] }
+{
+  "expression": "take it for a spin",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to go for a short drive in a car, especially to try it out",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c17_u016",
+      "answer": "for a spin",
+      "options": [
+        "for a spin",
+        "at its word",
+        "by surprise",
+        "for granted"
+      ]
+    }
+  ]
+}
 ]

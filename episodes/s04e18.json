@@ -1,130 +1,517 @@
 [
-  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to spend time relaxing somewhere or with someone",
-    "exchanges": [ { "uid": "s04_e18_c03_u009", "answer": "hanging out",
-      "options": ["hanging out", "giving up", "going over", "showing off"] } ] },
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c03_u009",
+      "answer": "hanging out",
+      "options": [
+        "hanging out",
+        "giving up",
+        "going over",
+        "showing off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get along", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to have a friendly relationship with someone",
-    "exchanges": [ { "uid": "s04_e18_c02_u024", "answer": "getting along",
-      "options": ["getting along", "giving up", "growing apart", "standing by"] } ] },
+{
+  "expression": "get along",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c02_u024",
+      "answer": "getting along",
+      "options": [
+        "getting along",
+        "giving up",
+        "growing apart",
+        "standing by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "never mind", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "forget what I just said; it is not important anymore",
-    "exchanges": [ { "uid": "s04_e18_c05_u020", "answer": "nevermind",
-      "options": ["nevermind", "meanwhile", "otherwise", "somehow"] } ] },
+{
+  "expression": "never mind",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "forget what I just said; it is not important anymore",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c05_u020",
+      "answer": "nevermind",
+      "options": [
+        "nevermind",
+        "meanwhile",
+        "otherwise",
+        "somehow"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of town", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "away from the place where you live, usually on a trip",
-    "exchanges": [ { "uid": "s04_e18_c06_u027", "answer": "out of town", "responseUid": "s04_e18_c06_u029",
-      "options": ["out of town", "off the hook", "in the dark", "on the go"] } ] },
+{
+  "expression": "out of town",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "away from the place where you live, usually on a trip",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c06_u027",
+      "answer": "out of town",
+      "responseUid": "s04_e18_c06_u029",
+      "options": [
+        "out of town",
+        "off the hook",
+        "in the dark",
+        "on the go"
+      ]
+    }
+  ]
+},
 
-  { "expression": "show around", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to take someone on a tour of a place so they can see it",
-    "exchanges": [
-      { "uid": "s04_e18_c02_u017", "answer": "show you around",
-        "options": ["show you around", "take you over", "put you through", "see you off"] },
-      { "uid": "s04_e18_c08_u004", "answer": "show you around",
-        "options": ["show you around", "take you up", "see you off", "put you down"] } ] },
+{
+  "expression": "show around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take someone on a tour of a place so they can see it",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c02_u017",
+      "answer": "show you around",
+      "options": [
+        "show you around",
+        "take you over",
+        "put you through",
+        "see you off"
+      ]
+    },
+    {
+      "uid": "s04_e18_c08_u004",
+      "answer": "show you around",
+      "options": [
+        "show you around",
+        "take you up",
+        "see you off",
+        "put you down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crazy about", "type": "colloquial", "level": "middle", "pos": "adjective",
-    "meaning": "very much in love with someone or very enthusiastic about something",
-    "exchanges": [ { "uid": "s04_e18_c05_u007", "answer": "crazy about",
-      "options": ["crazy about", "angry with", "sorry for", "tired of"] } ] },
+{
+  "expression": "crazy about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very much in love with someone or very enthusiastic about something",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c05_u007",
+      "answer": "crazy about",
+      "options": [
+        "crazy about",
+        "angry with",
+        "sorry for",
+        "tired of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invent something, such as a rule or a story, that is not true",
-    "exchanges": [ { "uid": "s04_e18_c05_u024", "answer": "make up",
-      "options": ["make up", "put up", "take in", "give out"] } ] },
+{
+  "expression": "make up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invent something, such as a rule or a story, that is not true",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c05_u024",
+      "answer": "make up",
+      "options": [
+        "make up",
+        "put up",
+        "take in",
+        "give out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bring up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start talking about a subject",
-    "exchanges": [ { "uid": "s04_e18_c05_u029", "answer": "bring this up",
-      "options": ["bring this up", "turn this down", "put this off", "take this out"] } ] },
+{
+  "expression": "bring up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start talking about a subject",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c05_u029",
+      "answer": "bring this up",
+      "options": [
+        "bring this up",
+        "turn this down",
+        "put this off",
+        "take this out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dig in", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to start eating, especially eagerly",
-    "exchanges": [ { "uid": "s04_e18_c06_u003", "answer": "dig in",
-      "options": ["dig in", "cut in", "drop in", "fill in"] } ] },
+{
+  "expression": "dig in",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start eating, especially eagerly",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c06_u003",
+      "answer": "dig in",
+      "options": [
+        "dig in",
+        "cut in",
+        "drop in",
+        "fill in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s04_e18_c11_u018", "answer": "freaked out", "cueUid": "s04_e18_c11_u015",
-      "options": ["freaked out", "backed off", "calmed down", "showed off"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c11_u018",
+      "answer": "freaked out",
+      "cueUid": "s04_e18_c11_u015",
+      "options": [
+        "freaked out",
+        "backed off",
+        "calmed down",
+        "showed off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "starving", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "very hungry",
-    "exchanges": [ { "uid": "s04_e18_c09_u013", "answer": "starving",
-      "options": ["starving", "stunning", "sweating", "stalling"] } ] },
+{
+  "expression": "starving",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very hungry",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c09_u013",
+      "answer": "starving",
+      "options": [
+        "starving",
+        "stunning",
+        "sweating",
+        "stalling"
+      ]
+    }
+  ]
+},
 
-  { "expression": "don't get me started", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said to warn that you have strong opinions on a topic and could talk about it for a long time",
-    "exchanges": [ { "uid": "s04_e18_c01_u015", "answer": "Don't get me started",
-      "options": ["Don't get me started", "Don't let me finish", "Don't keep me waiting", "Don't make me guess"] } ] },
+{
+  "expression": "don't get me started",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to warn that you have strong opinions on a topic and could talk about it for a long time",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c01_u015",
+      "answer": "Don't get me started",
+      "options": [
+        "Don't get me started",
+        "Don't let me finish",
+        "Don't keep me waiting",
+        "Don't make me guess"
+      ]
+    }
+  ]
+},
 
-  { "expression": "creep out", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone feel uneasy or scared",
-    "exchanges": [ { "uid": "s04_e18_c04_u003", "answer": "creeps me out",
-      "options": ["creeps me out", "cheers me up", "sees me off", "shows me up"] } ] },
+{
+  "expression": "creep out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone feel uneasy or scared",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c04_u003",
+      "answer": "creeps me out",
+      "options": [
+        "creeps me out",
+        "cheers me up",
+        "sees me off",
+        "shows me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crabby", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "bad-tempered and easily annoyed",
-    "exchanges": [ { "uid": "s04_e18_c04_u010", "answer": "crabby", "responseUid": null,
-      "options": ["crabby", "chubby", "cheesy", "classy"] } ] },
+{
+  "expression": "crabby",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "bad-tempered and easily annoyed",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c04_u010",
+      "answer": "crabby",
+      "responseUid": null,
+      "options": [
+        "crabby",
+        "chubby",
+        "cheesy",
+        "classy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "compromise", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an agreement in which each side gives up part of what it wants",
-    "exchanges": [ { "uid": "s04_e18_c05_u027", "answer": "compromise",
-      "options": ["compromise", "commitment", "comparison", "competition"] } ] },
+{
+  "expression": "compromise",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an agreement in which each side gives up part of what it wants",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c05_u027",
+      "answer": "compromise",
+      "options": [
+        "compromise",
+        "commitment",
+        "comparison",
+        "competition"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit it off", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to like each other and become friendly as soon as you meet",
-    "exchanges": [ { "uid": "s04_e18_c07_u016", "answer": "hit it off",
-      "options": ["hit it off", "call it off", "pull it off", "put it off"] } ] },
+{
+  "expression": "hit it off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to like each other and become friendly as soon as you meet",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c07_u016",
+      "answer": "hit it off",
+      "options": [
+        "hit it off",
+        "call it off",
+        "pull it off",
+        "put it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "say no more", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "I understand what you mean, so you do not need to explain any further",
-    "exchanges": [ { "uid": "s04_e18_c08_u019", "answer": "say no more",
-      "options": ["say no more", "tell no lie", "ask no less", "wait no longer"] } ] },
+{
+  "expression": "say no more",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I understand what you mean, so you do not need to explain any further",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c08_u019",
+      "answer": "say no more",
+      "options": [
+        "say no more",
+        "tell no lie",
+        "ask no less",
+        "wait no longer"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go through with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to do something you planned even though it is difficult or questionable",
-    "exchanges": [ { "uid": "s04_e18_c12_u006", "answer": "going through with",
-      "options": ["going through with", "getting away with", "putting up with", "coming up with"] } ] },
+{
+  "expression": "go through with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something you planned even though it is difficult or questionable",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c12_u006",
+      "answer": "going through with",
+      "options": [
+        "going through with",
+        "getting away with",
+        "putting up with",
+        "coming up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hold back", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to prevent someone from doing or achieving what they want",
-    "exchanges": [ { "uid": "s04_e18_c12_u007", "answer": "holding me back",
-      "options": ["holding me back", "pulling me over", "picking me up", "turning me down"] } ] },
+{
+  "expression": "hold back",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to prevent someone from doing or achieving what they want",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c12_u007",
+      "answer": "holding me back",
+      "options": [
+        "holding me back",
+        "pulling me over",
+        "picking me up",
+        "turning me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sophisticated", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "having a lot of experience of the world and knowledge of culture and style",
-    "exchanges": [ { "uid": "s04_e18_c03_u010", "answer": "sophisticated",
-      "options": ["sophisticated", "superstitious", "suspicious", "spontaneous"] } ] },
+{
+  "expression": "sophisticated",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having a lot of experience of the world and knowledge of culture and style",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c03_u010",
+      "answer": "sophisticated",
+      "options": [
+        "sophisticated",
+        "superstitious",
+        "suspicious",
+        "spontaneous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bond", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to develop a close, friendly relationship with someone",
-    "exchanges": [ { "uid": "s04_e18_c02_u022", "answer": "bonding", "cueUid": "s04_e18_c02_u019",
-      "options": ["bonding", "bickering", "bragging", "bluffing"] } ] },
+{
+  "expression": "bond",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to develop a close, friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c02_u022",
+      "answer": "bonding",
+      "cueUid": "s04_e18_c02_u019",
+      "options": [
+        "bonding",
+        "bickering",
+        "bragging",
+        "bluffing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "occur to", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to suddenly come into someone's mind as a thought",
-    "exchanges": [ { "uid": "s04_e18_c07_u008", "answer": "occur to",
-      "options": ["occur to", "happen to", "appeal to", "belong to"] } ] },
+{
+  "expression": "occur to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly come into someone's mind as a thought",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c07_u008",
+      "answer": "occur to",
+      "options": [
+        "occur to",
+        "happen to",
+        "appeal to",
+        "belong to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "paranoid", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "unreasonably suspicious and afraid that others want to harm you",
-    "exchanges": [ { "uid": "s04_e18_c07_u011", "answer": "paranoid",
-      "options": ["paranoid", "pathetic", "passionate", "persistent"] } ] },
+{
+  "expression": "paranoid",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unreasonably suspicious and afraid that others want to harm you",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c07_u011",
+      "answer": "paranoid",
+      "options": [
+        "paranoid",
+        "pathetic",
+        "passionate",
+        "persistent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "babe magnet", "type": "colloquial", "level": "expert", "pos": "noun",
-    "meaning": "a place or thing that attracts attractive women",
-    "exchanges": [ { "uid": "s04_e18_c08_u005", "answer": "babe magnet",
-      "options": ["babe magnet", "chick flick", "couch potato", "night owl"] } ] },
+{
+  "expression": "babe magnet",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a place or thing that attracts attractive women",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c08_u005",
+      "answer": "babe magnet",
+      "options": [
+        "babe magnet",
+        "chick flick",
+        "couch potato",
+        "night owl"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hug it out", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to end a disagreement or an emotional moment by hugging each other",
-    "exchanges": [ { "uid": "s04_e18_c12_u013", "answer": "hug it out",
-      "cueUid": "s04_e18_c12_u010", "responseUid": "s04_e18_c12_u014",
-      "options": ["hug it out", "rub it in", "sleep it off", "call it off"] } ] }
+{
+  "expression": "hug it out",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to end a disagreement or an emotional moment by hugging each other",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c12_u013",
+      "answer": "hug it out",
+      "cueUid": "s04_e18_c12_u010",
+      "responseUid": "s04_e18_c12_u014",
+      "options": [
+        "hug it out",
+        "rub it in",
+        "sleep it off",
+        "call it off"
+      ]
+    }
+  ]
+}
 ]

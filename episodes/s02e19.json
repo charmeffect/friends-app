@@ -1,138 +1,549 @@
 [
-  { "expression": "take it easy", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "calm down and relax",
-    "exchanges": [ { "uid": "s02_e19_c09_u010", "answer": "take it easy",
-      "options": ["take it easy", "make it quick", "keep it up", "put it down"] } ] },
+{
+  "expression": "take it easy",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "calm down and relax",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c09_u010",
+      "answer": "take it easy",
+      "options": [
+        "take it easy",
+        "make it quick",
+        "keep it up",
+        "put it down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "to go", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "ordered to be taken away rather than eaten or drunk in the cafe",
-    "exchanges": [ { "uid": "s02_e19_c07_u002", "answer": "to go",
-      "options": ["to go", "to sit", "to hold", "to share"] } ] },
+{
+  "expression": "to go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "ordered to be taken away rather than eaten or drunk in the cafe",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c07_u002",
+      "answer": "to go",
+      "options": [
+        "to go",
+        "to sit",
+        "to hold",
+        "to share"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to make someone look at something interesting you are showing them",
-    "exchanges": [
-      { "uid": "s02_e19_c09_u002", "answer": "check it out",
-        "options": ["check it out", "hand it over", "turn it off", "put it back"] },
-      { "uid": "s02_e19_c13_u016", "answer": "Check it out",
-        "options": ["Check it out", "Bring it on", "Take it back", "Leave it off"] } ] },
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c09_u002",
+      "answer": "check it out",
+      "options": [
+        "check it out",
+        "hand it over",
+        "turn it off",
+        "put it back"
+      ]
+    },
+    {
+      "uid": "s02_e19_c13_u016",
+      "answer": "Check it out",
+      "options": [
+        "Check it out",
+        "Bring it on",
+        "Take it back",
+        "Leave it off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to laugh at or joke about someone in an unkind way",
-    "exchanges": [ { "uid": "s02_e19_c02_u007", "answer": "make fun",
-      "options": ["make fun", "take sides", "play dumb", "have doubts"] } ] },
+{
+  "expression": "make fun of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to laugh at or joke about someone in an unkind way",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c02_u007",
+      "answer": "make fun",
+      "options": [
+        "make fun",
+        "take sides",
+        "play dumb",
+        "have doubts"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a step backwards", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a change that makes a situation worse than it was before",
-    "exchanges": [ { "uid": "s02_e19_c03_u011", "answer": "a step backwards",
-      "options": ["a step backwards", "a leap forward", "a turn around", "a walk away"] } ] },
+{
+  "expression": "a step backwards",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a change that makes a situation worse than it was before",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c03_u011",
+      "answer": "a step backwards",
+      "options": [
+        "a step backwards",
+        "a leap forward",
+        "a turn around",
+        "a walk away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "knock it off", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "stop doing that (said when someone is being annoying)",
-    "exchanges": [ { "uid": "s02_e19_c05_u026", "answer": "knock it off",
-      "options": ["knock it off", "put it on", "take it in", "set it up"] } ] },
+{
+  "expression": "knock it off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "stop doing that (said when someone is being annoying)",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c05_u026",
+      "answer": "knock it off",
+      "options": [
+        "knock it off",
+        "put it on",
+        "take it in",
+        "set it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hang in there", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "keep going and do not give up during a difficult time",
-    "exchanges": [ { "uid": "s02_e19_c05_u028", "answer": "Hang in there",
-      "options": ["Hang in there", "Hold it there", "Stay in line", "Sit on it"] } ] },
+{
+  "expression": "hang in there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "keep going and do not give up during a difficult time",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c05_u028",
+      "answer": "Hang in there",
+      "options": [
+        "Hang in there",
+        "Hold it there",
+        "Stay in line",
+        "Sit on it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "that sucks", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show sympathy that something bad happened",
-    "exchanges": [ { "uid": "s02_e19_c07_u007", "answer": "That sucks", "responseUid": "s02_e19_c07_u009",
-      "options": ["That sucks", "That rocks", "That works", "That counts"] } ] },
+{
+  "expression": "that sucks",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show sympathy that something bad happened",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c07_u007",
+      "answer": "That sucks",
+      "responseUid": "s02_e19_c07_u009",
+      "options": [
+        "That sucks",
+        "That rocks",
+        "That works",
+        "That counts"
+      ]
+    }
+  ]
+},
 
-  { "expression": "paycheck", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "the money a worker is paid for a period of work, or the check it comes as",
-    "exchanges": [
-      { "uid": "s02_e19_c13_u012", "answer": "paycheck", "cueUid": "s02_e19_c13_u002", "responseUid": null,
-        "options": ["paycheck", "payroll", "paperwork", "parking"] },
-      { "uid": "s02_e19_c12_u005", "answer": "paycheck",
-        "options": ["paycheck", "payroll", "paperback", "password"] } ] },
+{
+  "expression": "paycheck",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the money a worker is paid for a period of work, or the check it comes as",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c13_u012",
+      "answer": "paycheck",
+      "cueUid": "s02_e19_c13_u002",
+      "responseUid": null,
+      "options": [
+        "paycheck",
+        "payroll",
+        "paperwork",
+        "parking"
+      ]
+    },
+    {
+      "uid": "s02_e19_c12_u005",
+      "answer": "paycheck",
+      "options": [
+        "paycheck",
+        "payroll",
+        "paperback",
+        "password"
+      ]
+    }
+  ]
+},
 
-  { "expression": "road trip", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "a long journey made by car, usually for fun",
-    "exchanges": [ { "uid": "s02_e19_c13_u026", "answer": "road trip",
-      "options": ["road trip", "night shift", "side street", "bus pass"] } ] },
+{
+  "expression": "road trip",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a long journey made by car, usually for fun",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c13_u026",
+      "answer": "road trip",
+      "options": [
+        "road trip",
+        "night shift",
+        "side street",
+        "bus pass"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the first place", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "at all, or from the very beginning; used to say a situation would not have started",
-    "exchanges": [ { "uid": "s02_e19_c15_u004", "answer": "in the first place",
-      "options": ["in the first place", "on the one hand", "for the most part", "in the long run"] } ] },
+{
+  "expression": "in the first place",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at all, or from the very beginning; used to say a situation would not have started",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c15_u004",
+      "answer": "in the first place",
+      "options": [
+        "in the first place",
+        "on the one hand",
+        "for the most part",
+        "in the long run"
+      ]
+    }
+  ]
+},
 
-  { "expression": "left and right", "type": "colloquial", "level": "high", "pos": "adverb",
-    "meaning": "everywhere and very often",
-    "exchanges": [ { "uid": "s02_e19_c03_u006", "answer": "left and right",
-      "options": ["left and right", "up and down", "back and forth", "in and out"] } ] },
+{
+  "expression": "left and right",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "everywhere and very often",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c03_u006",
+      "answer": "left and right",
+      "options": [
+        "left and right",
+        "up and down",
+        "back and forth",
+        "in and out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pull off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to succeed in doing something difficult or daring convincingly",
-    "exchanges": [ { "uid": "s02_e19_c04_u014", "answer": "pull that off",
-      "options": ["pull that off", "put that on", "take that back", "call that off"] } ] },
+{
+  "expression": "pull off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to succeed in doing something difficult or daring convincingly",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c04_u014",
+      "answer": "pull that off",
+      "options": [
+        "pull that off",
+        "put that on",
+        "take that back",
+        "call that off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "suck it up", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "accept something unpleasant without complaining and get on with it",
-    "exchanges": [ { "uid": "s02_e19_c05_u021", "answer": "suck it up",
-      "options": ["suck it up", "turn it down", "put it off", "give it up"] } ] },
+{
+  "expression": "suck it up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "accept something unpleasant without complaining and get on with it",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c05_u021",
+      "answer": "suck it up",
+      "options": [
+        "suck it up",
+        "turn it down",
+        "put it off",
+        "give it up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kill off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to remove a character from a story by making them die",
-    "exchanges": [ { "uid": "s02_e19_c07_u004", "answer": "killed off",
-      "options": ["killed off", "signed up", "handed over", "called back"] } ] },
+{
+  "expression": "kill off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to remove a character from a story by making them die",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c07_u004",
+      "answer": "killed off",
+      "options": [
+        "killed off",
+        "signed up",
+        "handed over",
+        "called back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of the blue", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "suddenly and without any warning",
-    "exchanges": [ { "uid": "s02_e19_c09_u008", "answer": "out of the blue",
-      "cueUid": "s02_e19_c09_u005", "responseUid": null,
-      "options": ["out of the blue", "off the hook", "under the weather", "on the fence"] } ] },
+{
+  "expression": "out of the blue",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "suddenly and without any warning",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c09_u008",
+      "answer": "out of the blue",
+      "cueUid": "s02_e19_c09_u005",
+      "responseUid": null,
+      "options": [
+        "out of the blue",
+        "off the hook",
+        "under the weather",
+        "on the fence"
+      ]
+    }
+  ]
+},
 
-  { "expression": "better off", "type": "phrase", "level": "high", "pos": "adjective",
-    "meaning": "in a better situation than you would be otherwise",
-    "exchanges": [ { "uid": "s02_e19_c10_u010", "answer": "better off", "responseUid": null,
-      "options": ["better off", "far from", "well past", "fed up"] } ] },
+{
+  "expression": "better off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "in a better situation than you would be otherwise",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c10_u010",
+      "answer": "better off",
+      "responseUid": null,
+      "options": [
+        "better off",
+        "far from",
+        "well past",
+        "fed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vaguely", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "only slightly or not clearly",
-    "exchanges": [ { "uid": "s02_e19_c13_u022", "answer": "vaguely",
-      "options": ["vaguely", "vastly", "vainly", "visibly"] } ] },
+{
+  "expression": "vaguely",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "only slightly or not clearly",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c13_u022",
+      "answer": "vaguely",
+      "options": [
+        "vaguely",
+        "vastly",
+        "vainly",
+        "visibly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "roll with", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to adapt to changes calmly instead of resisting them",
-    "exchanges": [ { "uid": "s02_e19_c03_u010", "answer": "roll with",
-      "options": ["roll with", "run from", "hold to", "sit through"] } ] },
+{
+  "expression": "roll with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to adapt to changes calmly instead of resisting them",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c03_u010",
+      "answer": "roll with",
+      "options": [
+        "roll with",
+        "run from",
+        "hold to",
+        "sit through"
+      ]
+    }
+  ]
+},
 
-  { "expression": "attend to", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to deal with or take care of someone or something",
-    "exchanges": [ { "uid": "s02_e19_c10_u008", "answer": "attend to",
-      "options": ["attend to", "appeal to", "amount to", "adhere to"] } ] },
+{
+  "expression": "attend to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to deal with or take care of someone or something",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c10_u008",
+      "answer": "attend to",
+      "options": [
+        "attend to",
+        "appeal to",
+        "amount to",
+        "adhere to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "recollection", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "the ability to remember something; a memory",
-    "exchanges": [ { "uid": "s02_e19_c11_u014", "answer": "recollection",
-      "options": ["recollection", "reflection", "recognition", "reputation"] } ] },
+{
+  "expression": "recollection",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the ability to remember something; a memory",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c11_u014",
+      "answer": "recollection",
+      "options": [
+        "recollection",
+        "reflection",
+        "recognition",
+        "reputation"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hung up on", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "unable to stop thinking or worrying about something",
-    "exchanges": [ { "uid": "s02_e19_c12_u005", "answer": "hung up on",
-      "options": ["hung up on", "sold out to", "worn out by", "cut off from"] } ] },
+{
+  "expression": "hung up on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unable to stop thinking or worrying about something",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c12_u005",
+      "answer": "hung up on",
+      "options": [
+        "hung up on",
+        "sold out to",
+        "worn out by",
+        "cut off from"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tacky", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "cheap-looking and showing bad taste",
-    "exchanges": [ { "uid": "s02_e19_c15_u005", "answer": "tacky",
-      "options": ["tacky", "tangy", "tricky", "tardy"] } ] },
+{
+  "expression": "tacky",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "cheap-looking and showing bad taste",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c15_u005",
+      "answer": "tacky",
+      "options": [
+        "tacky",
+        "tangy",
+        "tricky",
+        "tardy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jaunty", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "lively, cheerful, and a little showy in appearance",
-    "exchanges": [ { "uid": "s02_e19_c02_u007", "answer": "jaunty", "cueUid": "s02_e19_c02_u005",
-      "options": ["jaunty", "jaded", "jittery", "jumbled"] } ] },
+{
+  "expression": "jaunty",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "lively, cheerful, and a little showy in appearance",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c02_u007",
+      "answer": "jaunty",
+      "cueUid": "s02_e19_c02_u005",
+      "options": [
+        "jaunty",
+        "jaded",
+        "jittery",
+        "jumbled"
+      ]
+    }
+  ]
+},
 
-  { "expression": "smack dab", "type": "colloquial", "level": "expert", "pos": "adverb",
-    "meaning": "exactly or directly in a place (used before 'in the middle')",
-    "exchanges": [ { "uid": "s02_e19_c09_u009", "answer": "smack dab",
-      "options": ["smack dab", "chop chop", "flip flop", "hush hush"] } ] },
+{
+  "expression": "smack dab",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adverb",
+  "meaning": "exactly or directly in a place (used before 'in the middle')",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c09_u009",
+      "answer": "smack dab",
+      "options": [
+        "smack dab",
+        "chop chop",
+        "flip flop",
+        "hush hush"
+      ]
+    }
+  ]
+},
 
-  { "expression": "housetrained", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "trained not to urinate or defecate inside the house (of a pet)",
-    "exchanges": [ { "uid": "s02_e19_c15_u006", "answer": "housetrained", "responseUid": null,
-      "options": ["housetrained", "homeschooled", "handpicked", "hardwired"] } ] }
+{
+  "expression": "housetrained",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "trained not to urinate or defecate inside the house (of a pet)",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c15_u006",
+      "answer": "housetrained",
+      "responseUid": null,
+      "options": [
+        "housetrained",
+        "homeschooled",
+        "handpicked",
+        "hardwired"
+      ]
+    }
+  ]
+}
 ]

@@ -1,126 +1,507 @@
 [
-  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to meet someone by chance",
-    "exchanges": [ { "uid": "s03_e14_c02_u004", "answer": "ran into",
-      "options": ["ran into", "got over", "went after", "put off"] } ] },
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c02_u004",
+      "answer": "ran into",
+      "options": [
+        "ran into",
+        "got over",
+        "went after",
+        "put off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to learn or discover a piece of information",
-    "exchanges": [ { "uid": "s03_e14_c06_u017", "answer": "finds out",
-      "options": ["finds out", "gets in", "takes off", "puts up"] } ] },
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c06_u017",
+      "answer": "finds out",
+      "options": [
+        "finds out",
+        "gets in",
+        "takes off",
+        "puts up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get used to", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to become familiar with something so that it no longer seems strange",
-    "exchanges": [ { "uid": "s03_e14_c16_u006", "answer": "get used to", "cueUid": "s03_e14_c16_u004",
-      "options": ["get used to", "look up to", "get back at", "run out of"] } ] },
+{
+  "expression": "get used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become familiar with something so that it no longer seems strange",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c16_u006",
+      "answer": "get used to",
+      "cueUid": "s03_e14_c16_u004",
+      "options": [
+        "get used to",
+        "look up to",
+        "get back at",
+        "run out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to think of an idea or plan",
-    "exchanges": [ { "uid": "s03_e14_c02_u011", "answer": "come up with", "cueUid": "s03_e14_c02_u006",
-      "options": ["come up with", "get on with", "go off with", "put down with"] } ] },
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c02_u011",
+      "answer": "come up with",
+      "cueUid": "s03_e14_c02_u006",
+      "options": [
+        "come up with",
+        "get on with",
+        "go off with",
+        "put down with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get back together", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start a relationship or partnership again after it has ended",
-    "exchanges": [ { "uid": "s03_e14_c02_u013", "answer": "get back together",
-      "options": ["get back together", "look back over", "lie back down", "hold back off"] } ] },
+{
+  "expression": "get back together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start a relationship or partnership again after it has ended",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c02_u013",
+      "answer": "get back together",
+      "options": [
+        "get back together",
+        "look back over",
+        "lie back down",
+        "hold back off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a bite to eat", "type": "colloquial", "level": "middle", "pos": "noun",
-    "meaning": "a small, quick meal",
-    "exchanges": [ { "uid": "s03_e14_c05_u009", "answer": "bite to eat", "cueUid": "s03_e14_c05_u007",
-      "options": ["bite to eat", "sip to drink", "nap to take", "seat to rest"] } ] },
+{
+  "expression": "a bite to eat",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a small, quick meal",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c05_u009",
+      "answer": "bite to eat",
+      "cueUid": "s03_e14_c05_u007",
+      "options": [
+        "bite to eat",
+        "sip to drink",
+        "nap to take",
+        "seat to rest"
+      ]
+    }
+  ]
+},
 
-  { "expression": "artificial", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "made by people rather than occurring naturally",
-    "exchanges": [ { "uid": "s03_e14_c06_u025", "answer": "artificial",
-      "options": ["artificial", "superficial", "beneficial", "official"] } ] },
+{
+  "expression": "artificial",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "made by people rather than occurring naturally",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c06_u025",
+      "answer": "artificial",
+      "options": [
+        "artificial",
+        "superficial",
+        "beneficial",
+        "official"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ever since", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "continuously from the time that something happened",
-    "exchanges": [ { "uid": "s03_e14_c06_u006", "answer": "ever since",
-      "options": ["ever since", "even though", "as if", "so that"] } ] },
+{
+  "expression": "ever since",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "continuously from the time that something happened",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c06_u006",
+      "answer": "ever since",
+      "options": [
+        "ever since",
+        "even though",
+        "as if",
+        "so that"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a ton of", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "a very large amount of something",
-    "exchanges": [ { "uid": "s03_e14_c12_u007", "answer": "a ton of",
-      "options": ["a ton of", "a drop of", "a pinch of", "a slice of"] } ] },
+{
+  "expression": "a ton of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a very large amount of something",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c12_u007",
+      "answer": "a ton of",
+      "options": [
+        "a ton of",
+        "a drop of",
+        "a pinch of",
+        "a slice of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go bad", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to become spoiled and no longer safe to eat or drink",
-    "exchanges": [ { "uid": "s03_e14_c14_u004", "answer": "gone bad",
-      "options": ["gone bad", "come late", "run short", "fallen ill"] } ] },
+{
+  "expression": "go bad",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become spoiled and no longer safe to eat or drink",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c14_u004",
+      "answer": "gone bad",
+      "options": [
+        "gone bad",
+        "come late",
+        "run short",
+        "fallen ill"
+      ]
+    }
+  ]
+},
 
-  { "expression": "jealous", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "unhappy because someone else is getting the attention or success you want",
-    "exchanges": [ { "uid": "s03_e14_c01_u008", "answer": "jealous",
-      "options": ["jealous", "famous", "generous", "cautious"] } ] },
+{
+  "expression": "jealous",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unhappy because someone else is getting the attention or success you want",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c01_u008",
+      "answer": "jealous",
+      "options": [
+        "jealous",
+        "famous",
+        "generous",
+        "cautious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take over", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to take control of a place or organization",
-    "exchanges": [ { "uid": "s03_e14_c15_u010", "answer": "take over",
-      "options": ["take over", "put off", "get by", "look into"] } ] },
+{
+  "expression": "take over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take control of a place or organization",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c15_u010",
+      "answer": "take over",
+      "options": [
+        "take over",
+        "put off",
+        "get by",
+        "look into"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bummer", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "something disappointing or annoying",
-    "exchanges": [ { "uid": "s03_e14_c02_u012", "answer": "bummer",
-      "options": ["bummer", "burner", "banner", "bumper"] } ] },
+{
+  "expression": "bummer",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something disappointing or annoying",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c02_u012",
+      "answer": "bummer",
+      "options": [
+        "bummer",
+        "burner",
+        "banner",
+        "bumper"
+      ]
+    }
+  ]
+},
 
-  { "expression": "close one", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "a situation in which something bad was only just avoided",
-    "exchanges": [ { "uid": "s03_e14_c04_u008", "answer": "close one", "responseUid": null,
-      "options": ["close one", "near one", "tight one", "short one"] } ] },
+{
+  "expression": "close one",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a situation in which something bad was only just avoided",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c04_u008",
+      "answer": "close one",
+      "responseUid": null,
+      "options": [
+        "close one",
+        "near one",
+        "tight one",
+        "short one"
+      ]
+    }
+  ]
+},
 
-  { "expression": "food poisoning", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "an illness caused by eating food that contains harmful bacteria",
-    "exchanges": [ { "uid": "s03_e14_c06_u022", "answer": "food poisoning",
-      "options": ["food poisoning", "food shopping", "food coloring", "food processing"] } ] },
+{
+  "expression": "food poisoning",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an illness caused by eating food that contains harmful bacteria",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c06_u022",
+      "answer": "food poisoning",
+      "options": [
+        "food poisoning",
+        "food shopping",
+        "food coloring",
+        "food processing"
+      ]
+    }
+  ]
+},
 
-  { "expression": "die out", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to gradually become weaker and stop completely",
-    "exchanges": [ { "uid": "s03_e14_c06_u023", "answer": "dying out",
-      "options": ["dying out", "giving in", "wearing off", "setting up"] } ] },
+{
+  "expression": "die out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to gradually become weaker and stop completely",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c06_u023",
+      "answer": "dying out",
+      "options": [
+        "dying out",
+        "giving in",
+        "wearing off",
+        "setting up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the whole package", "type": "colloquial", "level": "high", "pos": "noun",
-    "meaning": "every desirable quality a person could want, all together",
-    "exchanges": [ { "uid": "s03_e14_c14_u008", "answer": "whole package",
-      "options": ["whole package", "whole story", "full house", "right stuff"] } ] },
+{
+  "expression": "the whole package",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "every desirable quality a person could want, all together",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c14_u008",
+      "answer": "whole package",
+      "options": [
+        "whole package",
+        "whole story",
+        "full house",
+        "right stuff"
+      ]
+    }
+  ]
+},
 
-  { "expression": "every so often", "type": "phrase", "level": "high", "pos": "adverb",
-    "meaning": "sometimes, but not very often",
-    "exchanges": [ { "uid": "s03_e14_c14_u011", "answer": "every so often", "cueUid": "s03_e14_c14_u009",
-      "options": ["every so often", "ever so much", "all at once", "once and for all"] } ] },
+{
+  "expression": "every so often",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "sometimes, but not very often",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c14_u011",
+      "answer": "every so often",
+      "cueUid": "s03_e14_c14_u009",
+      "options": [
+        "every so often",
+        "ever so much",
+        "all at once",
+        "once and for all"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to be mentioned or raised in a conversation",
-    "exchanges": [ { "uid": "s03_e14_c14_u015", "answer": "came up",
-      "options": ["came up", "went off", "got by", "set in"] } ] },
+{
+  "expression": "come up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be mentioned or raised in a conversation",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c14_u015",
+      "answer": "came up",
+      "options": [
+        "came up",
+        "went off",
+        "got by",
+        "set in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "slip away", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to gradually become more distant until you lose someone or something",
-    "exchanges": [ { "uid": "s03_e14_c15_u012", "answer": "slipping away",
-      "options": ["slipping away", "showing up", "falling behind", "hanging around"] } ] },
+{
+  "expression": "slip away",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to gradually become more distant until you lose someone or something",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c15_u012",
+      "answer": "slipping away",
+      "options": [
+        "slipping away",
+        "showing up",
+        "falling behind",
+        "hanging around"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go nuts", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to react with wild excitement or enthusiasm",
-    "exchanges": [ { "uid": "s03_e14_c17_u005", "answer": "went nuts",
-      "options": ["went nuts", "sat tight", "kept cool", "came clean"] } ] },
+{
+  "expression": "go nuts",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to react with wild excitement or enthusiasm",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c17_u005",
+      "answer": "went nuts",
+      "options": [
+        "went nuts",
+        "sat tight",
+        "kept cool",
+        "came clean"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unyielding", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "refusing to change your attitude or give in to others",
-    "exchanges": [ { "uid": "s03_e14_c02_u019", "answer": "unyielding",
-      "options": ["unyielding", "unfolding", "unwinding", "unending"] } ] },
+{
+  "expression": "unyielding",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "refusing to change your attitude or give in to others",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c02_u019",
+      "answer": "unyielding",
+      "options": [
+        "unyielding",
+        "unfolding",
+        "unwinding",
+        "unending"
+      ]
+    }
+  ]
+},
 
-  { "expression": "penetrate", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to get through or into something that is hard to pass",
-    "exchanges": [ { "uid": "s03_e14_c02_u019", "answer": "penetrate",
-      "options": ["penetrate", "evaporate", "negotiate", "celebrate"] } ] },
+{
+  "expression": "penetrate",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get through or into something that is hard to pass",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c02_u019",
+      "answer": "penetrate",
+      "options": [
+        "penetrate",
+        "evaporate",
+        "negotiate",
+        "celebrate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "long shot", "type": "colloquial", "level": "college", "pos": "noun",
-    "meaning": "an attempt that has very little chance of succeeding",
-    "exchanges": [ { "uid": "s03_e14_c14_u016", "answer": "longshot", "responseUid": null,
-      "options": ["longshot", "letdown", "setback", "windfall"] } ] },
+{
+  "expression": "long shot",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an attempt that has very little chance of succeeding",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c14_u016",
+      "answer": "longshot",
+      "responseUid": null,
+      "options": [
+        "longshot",
+        "letdown",
+        "setback",
+        "windfall"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bionic", "type": "word", "level": "expert", "pos": "adjective",
-    "meaning": "having artificial, electronically powered body parts",
-    "exchanges": [ { "uid": "s03_e14_c07_u010", "answer": "bionic",
-      "options": ["bionic", "iconic", "chronic", "ironic"] } ] }
+{
+  "expression": "bionic",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "having artificial, electronically powered body parts",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c07_u010",
+      "answer": "bionic",
+      "options": [
+        "bionic",
+        "iconic",
+        "chronic",
+        "ironic"
+      ]
+    }
+  ]
+}
 ]

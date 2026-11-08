@@ -1,127 +1,512 @@
 [
-  { "expression": "check this out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "look at this; said to draw attention to something interesting",
-    "exchanges": [ { "uid": "s02_e17_c01_u008", "answer": "check this out",
-      "options": ["check this out", "take this off", "put this down", "give this back"] } ] },
+{
+  "expression": "check this out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "look at this; said to draw attention to something interesting",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c01_u008",
+      "answer": "check this out",
+      "options": [
+        "check this out",
+        "take this off",
+        "put this down",
+        "give this back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "move out", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to leave the place where you live and go to live somewhere else",
-    "exchanges": [ { "uid": "s02_e17_c05_u005", "answer": "moved out",
-      "options": ["moved out", "moved up", "moved over", "moved along"] } ] },
+{
+  "expression": "move out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave the place where you live and go to live somewhere else",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c05_u005",
+      "answer": "moved out",
+      "options": [
+        "moved out",
+        "moved up",
+        "moved over",
+        "moved along"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take a nap", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to sleep for a short time during the day",
-    "exchanges": [ { "uid": "s02_e17_c08_u002", "answer": "takin' a nap",
-      "options": ["takin' a nap", "makin' a bed", "havin' a bath", "fixin' a snack"] } ] },
+{
+  "expression": "take a nap",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to sleep for a short time during the day",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c08_u002",
+      "answer": "takin' a nap",
+      "options": [
+        "takin' a nap",
+        "makin' a bed",
+        "havin' a bath",
+        "fixin' a snack"
+      ]
+    }
+  ]
+},
 
-  { "expression": "so what", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to say that something does not matter or is not important",
-    "exchanges": [ { "uid": "s02_e17_c10_u009", "answer": "so what", "responseUid": "s02_e17_c10_u012",
-      "options": ["so what", "so far", "so long", "so much"] } ] },
+{
+  "expression": "so what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something does not matter or is not important",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c10_u009",
+      "answer": "so what",
+      "responseUid": "s02_e17_c10_u012",
+      "options": [
+        "so what",
+        "so far",
+        "so long",
+        "so much"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s02_e17_c02_u006", "answer": "freak out", "responseUid": "s02_e17_c02_u008",
-      "options": ["freak out", "back off", "show off", "cool down"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c02_u006",
+      "answer": "freak out",
+      "responseUid": "s02_e17_c02_u008",
+      "options": [
+        "freak out",
+        "back off",
+        "show off",
+        "cool down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "move on", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop thinking about something that is over and start something new",
-    "exchanges": [ { "uid": "s02_e17_c06_u005", "answer": "moved on", "responseUid": "s02_e17_c06_u007",
-      "options": ["moved on", "moved in", "moved up", "moved over"] } ] },
+{
+  "expression": "move on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop thinking about something that is over and start something new",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c06_u005",
+      "answer": "moved on",
+      "responseUid": "s02_e17_c06_u007",
+      "options": [
+        "moved on",
+        "moved in",
+        "moved up",
+        "moved over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stink", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to have a very bad smell",
-    "exchanges": [ { "uid": "s02_e17_c07_u009", "answer": "stinks", "responseUid": null,
-      "options": ["stinks", "sinks", "stings", "shrinks"] } ] },
+{
+  "expression": "stink",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a very bad smell",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c07_u009",
+      "answer": "stinks",
+      "responseUid": null,
+      "options": [
+        "stinks",
+        "sinks",
+        "stings",
+        "shrinks"
+      ]
+    }
+  ]
+},
 
-  { "expression": "toss out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to throw something away because it is not wanted",
-    "exchanges": [ { "uid": "s02_e17_c09_u006", "answer": "toss it out",
-      "options": ["toss it out", "pass it on", "put it up", "hand it in"] } ] },
+{
+  "expression": "toss out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to throw something away because it is not wanted",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c09_u006",
+      "answer": "toss it out",
+      "options": [
+        "toss it out",
+        "pass it on",
+        "put it up",
+        "hand it in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come by", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make a short visit to a place",
-    "exchanges": [ { "uid": "s02_e17_c11_u005", "answer": "came by", "cueUid": "s02_e17_c11_u002",
-      "options": ["came by", "came off", "came through", "came apart"] } ] },
+{
+  "expression": "come by",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a short visit to a place",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c11_u005",
+      "answer": "came by",
+      "cueUid": "s02_e17_c11_u002",
+      "options": [
+        "came by",
+        "came off",
+        "came through",
+        "came apart"
+      ]
+    }
+  ]
+},
 
-  { "expression": "outta here", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "spoken form of 'out of here': leaving now",
-    "exchanges": [ { "uid": "s02_e17_c11_u015", "answer": "outta here", "responseUid": "s02_e17_c11_u017",
-      "options": ["outta here", "over there", "up there", "in here"] } ] },
+{
+  "expression": "outta here",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "spoken form of 'out of here': leaving now",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c11_u015",
+      "answer": "outta here",
+      "responseUid": "s02_e17_c11_u017",
+      "options": [
+        "outta here",
+        "over there",
+        "up there",
+        "in here"
+      ]
+    }
+  ]
+},
 
-  { "expression": "genuine", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "real and exactly what it appears to be; not fake",
-    "exchanges": [ { "uid": "s02_e17_c01_u009", "answer": "genuine",
-      "options": ["genuine", "generous", "gentle", "general"] } ] },
+{
+  "expression": "genuine",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "real and exactly what it appears to be; not fake",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c01_u009",
+      "answer": "genuine",
+      "options": [
+        "genuine",
+        "generous",
+        "gentle",
+        "general"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a ball", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to enjoy yourself very much",
-    "exchanges": [ { "uid": "s02_e17_c04_u009", "answer": "havin' a ball",
-      "options": ["havin' a ball", "takin' a shot", "makin' a scene", "throwin' a fit"] } ] },
+{
+  "expression": "have a ball",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enjoy yourself very much",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c04_u009",
+      "answer": "havin' a ball",
+      "options": [
+        "havin' a ball",
+        "takin' a shot",
+        "makin' a scene",
+        "throwin' a fit"
+      ]
+    }
+  ]
+},
 
-  { "expression": "from the top", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "from the beginning again; said to restart a song or performance",
-    "exchanges": [ { "uid": "s02_e17_c07_u006", "answer": "From the top",
-      "options": ["From the top", "To the end", "Off the chart", "At the bottom"] } ] },
+{
+  "expression": "from the top",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "from the beginning again; said to restart a song or performance",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c07_u006",
+      "answer": "From the top",
+      "options": [
+        "From the top",
+        "To the end",
+        "Off the chart",
+        "At the bottom"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get off someone's back", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to stop criticizing or nagging someone",
-    "exchanges": [ { "uid": "s02_e17_c08_u010", "answer": "get off my back",
-      "options": ["get off my back", "get over my head", "get under my feet", "get past my point"] } ] },
+{
+  "expression": "get off someone's back",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop criticizing or nagging someone",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c08_u010",
+      "answer": "get off my back",
+      "options": [
+        "get off my back",
+        "get over my head",
+        "get under my feet",
+        "get past my point"
+      ]
+    }
+  ]
+},
 
-  { "expression": "likewise", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "the same to you; used to return a greeting or compliment",
-    "exchanges": [ { "uid": "s02_e17_c09_u009", "answer": "Likewise",
-      "options": ["Likewise", "Otherwise", "Meanwhile", "Anyway"] } ] },
+{
+  "expression": "likewise",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "the same to you; used to return a greeting or compliment",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c09_u009",
+      "answer": "Likewise",
+      "options": [
+        "Likewise",
+        "Otherwise",
+        "Meanwhile",
+        "Anyway"
+      ]
+    }
+  ]
+},
 
-  { "expression": "darn", "type": "word", "level": "high", "pos": "adverb",
-    "meaning": "used to add emphasis; a mild, polite form of 'damn'",
-    "exchanges": [ { "uid": "s02_e17_c11_u014", "answer": "darn",
-      "options": ["darn", "dull", "deep", "dear"] } ] },
+{
+  "expression": "darn",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used to add emphasis; a mild, polite form of 'damn'",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c11_u014",
+      "answer": "darn",
+      "options": [
+        "darn",
+        "dull",
+        "deep",
+        "dear"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tell on", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to report someone's bad behaviour to a person in authority, such as a parent",
-    "exchanges": [ { "uid": "s02_e17_c12_u010", "answer": "tell mommy on me",
-      "options": ["tell mommy on me", "ask mommy for me", "call mommy about me", "bring mommy to me"] } ] },
+{
+  "expression": "tell on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to report someone's bad behaviour to a person in authority, such as a parent",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u010",
+      "answer": "tell mommy on me",
+      "options": [
+        "tell mommy on me",
+        "ask mommy for me",
+        "call mommy about me",
+        "bring mommy to me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get one's way", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to get what you want, even when other people disagree",
-    "exchanges": [ { "uid": "s02_e17_c12_u024", "answer": "got your way",
-      "options": ["got your way", "had your turn", "made your point", "took your time"] } ] },
+{
+  "expression": "get one's way",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get what you want, even when other people disagree",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u024",
+      "answer": "got your way",
+      "options": [
+        "got your way",
+        "had your turn",
+        "made your point",
+        "took your time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "piss off", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to make someone angry",
-    "exchanges": [ { "uid": "s02_e17_c12_u030", "answer": "pissing me off", "cueUid": "s02_e17_c12_u028",
-      "options": ["pissing me off", "passing me by", "paying me back", "picking me up"] } ] },
+{
+  "expression": "piss off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone angry",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u030",
+      "answer": "pissing me off",
+      "cueUid": "s02_e17_c12_u028",
+      "options": [
+        "pissing me off",
+        "passing me by",
+        "paying me back",
+        "picking me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "offbeat", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "unusual and not conventional, in an interesting way",
-    "exchanges": [ { "uid": "s02_e17_c02_u008", "answer": "offbeat", "cueUid": "s02_e17_c02_u006",
-      "options": ["offbeat", "offhand", "offside", "offshore"] } ] },
+{
+  "expression": "offbeat",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "unusual and not conventional, in an interesting way",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c02_u008",
+      "answer": "offbeat",
+      "cueUid": "s02_e17_c02_u006",
+      "options": [
+        "offbeat",
+        "offhand",
+        "offside",
+        "offshore"
+      ]
+    }
+  ]
+},
 
-  { "expression": "rebound", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a new relationship started quickly to recover from the end of a previous one",
-    "exchanges": [ { "uid": "s02_e17_c10_u004", "answer": "rebound", "responseUid": null,
-      "options": ["rebound", "recoil", "relapse", "retreat"] } ] },
+{
+  "expression": "rebound",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a new relationship started quickly to recover from the end of a previous one",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c10_u004",
+      "answer": "rebound",
+      "responseUid": null,
+      "options": [
+        "rebound",
+        "recoil",
+        "relapse",
+        "retreat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get sucked into", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to become involved in something unpleasant without wanting to",
-    "exchanges": [ { "uid": "s02_e17_c12_u011", "answer": "get sucked into",
-      "options": ["get sucked into", "get wiped out by", "get shut off from", "get picked up by"] } ] },
+{
+  "expression": "get sucked into",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to become involved in something unpleasant without wanting to",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u011",
+      "answer": "get sucked into",
+      "options": [
+        "get sucked into",
+        "get wiped out by",
+        "get shut off from",
+        "get picked up by"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hate someone's guts", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to dislike someone intensely",
-    "exchanges": [ { "uid": "s02_e17_c12_u022", "answer": "hated your guts",
-      "options": ["hated your guts", "hated your bones", "hated your face", "hated your blood"] } ] },
+{
+  "expression": "hate someone's guts",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to dislike someone intensely",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u022",
+      "answer": "hated your guts",
+      "options": [
+        "hated your guts",
+        "hated your bones",
+        "hated your face",
+        "hated your blood"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bite me", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "a rude, defiant reply meaning that you do not care what the other person thinks",
-    "exchanges": [ { "uid": "s02_e17_c12_u007", "answer": "Bite me",
-      "options": ["Bite me", "Tell me", "Watch me", "Hold me"] } ] },
+{
+  "expression": "bite me",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a rude, defiant reply meaning that you do not care what the other person thinks",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u007",
+      "answer": "Bite me",
+      "options": [
+        "Bite me",
+        "Tell me",
+        "Watch me",
+        "Hold me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "a bed of roses", "type": "colloquial", "level": "expert", "pos": "expression",
-    "meaning": "an easy, pleasant and comfortable situation",
-    "exchanges": [ { "uid": "s02_e17_c15_u009", "answer": "a bed of roses",
-      "cueUid": "s02_e17_c15_u007", "responseUid": "s02_e17_c15_u011",
-      "options": ["a bed of roses", "a bunch of flowers", "a pot of gold", "a field of dreams"] } ] }
+{
+  "expression": "a bed of roses",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "an easy, pleasant and comfortable situation",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c15_u009",
+      "answer": "a bed of roses",
+      "cueUid": "s02_e17_c15_u007",
+      "responseUid": "s02_e17_c15_u011",
+      "options": [
+        "a bed of roses",
+        "a bunch of flowers",
+        "a pot of gold",
+        "a field of dreams"
+      ]
+    }
+  ]
+}
 ]

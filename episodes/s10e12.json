@@ -332,7 +332,7 @@
 {
   "expression": "back talk",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "rude or disrespectful replies to someone who has authority over you",
   "exchanges": [
@@ -391,7 +391,7 @@
 
 {
   "expression": "go with",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "middle",
   "pos": "verb",
   "meaning": "to choose one option among several",

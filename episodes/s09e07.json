@@ -1,132 +1,522 @@
 [
-  { "expression": "tape over", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to record something new on a tape, erasing what was recorded on it before",
-    "exchanges": [ { "uid": "s09_e07_c11_u017", "answer": "taped over",
-      "options": ["taped over", "taped up", "taped off", "taped down"] } ] },
+{
+  "expression": "tape over",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to record something new on a tape, erasing what was recorded on it before",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c11_u017",
+      "answer": "taped over",
+      "options": [
+        "taped over",
+        "taped up",
+        "taped off",
+        "taped down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make good money", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to earn a large amount of money",
-    "exchanges": [ { "uid": "s09_e07_c02_u004", "answer": "make good money",
-      "options": ["make good money", "lose good money", "waste good money", "owe good money"] } ] },
+{
+  "expression": "make good money",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to earn a large amount of money",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c02_u004",
+      "answer": "make good money",
+      "options": [
+        "make good money",
+        "lose good money",
+        "waste good money",
+        "owe good money"
+      ]
+    }
+  ]
+},
 
-  { "expression": "go in on", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to join with other people in paying for or investing in something",
-    "exchanges": [ { "uid": "s09_e07_c02_u008", "answer": "going in on",
-      "options": ["going in on", "checking in on", "walking in on", "closing in on"] } ] },
+{
+  "expression": "go in on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to join with other people in paying for or investing in something",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c02_u008",
+      "answer": "going in on",
+      "options": [
+        "going in on",
+        "checking in on",
+        "walking in on",
+        "closing in on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "deductible", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "able to be subtracted from the income on which you pay tax",
-    "exchanges": [ { "uid": "s09_e07_c02_u011", "answer": "deductible",
-      "options": ["deductible", "perishable", "edible", "portable"] } ] },
+{
+  "expression": "deductible",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "able to be subtracted from the income on which you pay tax",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c02_u011",
+      "answer": "deductible",
+      "options": [
+        "deductible",
+        "perishable",
+        "edible",
+        "portable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "big step", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "an important change or move forward in a situation or relationship",
-    "exchanges": [ { "uid": "s09_e07_c03_u004", "answer": "big step",
-      "options": ["big step", "long shot", "close call", "fair deal"] } ] },
+{
+  "expression": "big step",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an important change or move forward in a situation or relationship",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c03_u004",
+      "answer": "big step",
+      "options": [
+        "big step",
+        "long shot",
+        "close call",
+        "fair deal"
+      ]
+    }
+  ]
+},
 
-  { "expression": "occur to", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to suddenly come into someone's mind as a thought",
-    "exchanges": [ { "uid": "s09_e07_c03_u005", "answer": "occurred to",
-      "options": ["occurred to", "belonged to", "referred to", "objected to"] } ] },
+{
+  "expression": "occur to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly come into someone's mind as a thought",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c03_u005",
+      "answer": "occurred to",
+      "options": [
+        "occurred to",
+        "belonged to",
+        "referred to",
+        "objected to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be yourself", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "to act naturally and not pretend to be someone different",
-    "exchanges": [ { "uid": "s09_e07_c03_u006", "answer": "be yourself",
-      "options": ["be yourself", "blame yourself", "hurt yourself", "doubt yourself"] } ] },
+{
+  "expression": "be yourself",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to act naturally and not pretend to be someone different",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c03_u006",
+      "answer": "be yourself",
+      "options": [
+        "be yourself",
+        "blame yourself",
+        "hurt yourself",
+        "doubt yourself"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in good hands", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "being looked after by someone skilled and trustworthy",
-    "exchanges": [ { "uid": "s09_e07_c03_u012", "answer": "good hands",
-      "options": ["good hands", "good feet", "good knees", "good arms"] } ] },
+{
+  "expression": "in good hands",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "being looked after by someone skilled and trustworthy",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c03_u012",
+      "answer": "good hands",
+      "options": [
+        "good hands",
+        "good feet",
+        "good knees",
+        "good arms"
+      ]
+    }
+  ]
+},
 
-  { "expression": "good looks", "type": "phrase", "level": "middle", "pos": "noun",
-    "meaning": "an attractive physical appearance",
-    "exchanges": [
-      { "uid": "s09_e07_c03_u012", "answer": "good looks",
-        "options": ["good looks", "bad habits", "big ideas", "cold feet"] },
-      { "uid": "s09_e07_c07_u005", "answer": "good looks",
-        "options": ["good looks", "bad habits", "big ideas", "cold feet"] } ] },
+{
+  "expression": "good looks",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an attractive physical appearance",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c03_u012",
+      "answer": "good looks",
+      "options": [
+        "good looks",
+        "bad habits",
+        "big ideas",
+        "cold feet"
+      ]
+    },
+    {
+      "uid": "s09_e07_c07_u005",
+      "answer": "good looks",
+      "options": [
+        "good looks",
+        "bad habits",
+        "big ideas",
+        "cold feet"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take it from me", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "believe me, because I know about this from my own experience",
-    "exchanges": [ { "uid": "s09_e07_c03_u018", "answer": "Take it from me",
-      "options": ["Take it from me", "Hand it to me", "Throw it at me", "Make it for me"] } ] },
+{
+  "expression": "take it from me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "believe me, because I know about this from my own experience",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c03_u018",
+      "answer": "Take it from me",
+      "options": [
+        "Take it from me",
+        "Hand it to me",
+        "Throw it at me",
+        "Make it for me"
+      ]
+    }
+  ]
+},
 
-  { "expression": "guess what", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to introduce surprising or exciting news",
-    "exchanges": [ { "uid": "s09_e07_c04_u004", "answer": "Guess what",
-      "options": ["Guess what", "So what", "Or what", "And what"] } ] },
+{
+  "expression": "guess what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to introduce surprising or exciting news",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c04_u004",
+      "answer": "Guess what",
+      "options": [
+        "Guess what",
+        "So what",
+        "Or what",
+        "And what"
+      ]
+    }
+  ]
+},
 
-  { "expression": "makeover", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a complete change in someone's clothes, hair, and make-up to improve how they look",
-    "exchanges": [ { "uid": "s09_e07_c04_u005", "answer": "makeover",
-      "options": ["makeover", "handover", "hangover", "takeover"] } ] },
+{
+  "expression": "makeover",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a complete change in someone's clothes, hair, and make-up to improve how they look",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c04_u005",
+      "answer": "makeover",
+      "options": [
+        "makeover",
+        "handover",
+        "hangover",
+        "takeover"
+      ]
+    }
+  ]
+},
 
-  { "expression": "malpractice", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "careless or wrong work by a professional such as a doctor that harms a client",
-    "exchanges": [ { "uid": "s09_e07_c05_u003", "answer": "malpractice",
-      "options": ["malpractice", "malnutrition", "maladjustment", "malfunction"] } ] },
+{
+  "expression": "malpractice",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "careless or wrong work by a professional such as a doctor that harms a client",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c05_u003",
+      "answer": "malpractice",
+      "options": [
+        "malpractice",
+        "malnutrition",
+        "maladjustment",
+        "malfunction"
+      ]
+    }
+  ]
+},
 
-  { "expression": "appliances", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "electrical machines used in the home, such as a fridge or washing machine",
-    "exchanges": [ { "uid": "s09_e07_c05_u007", "answer": "appliances",
-      "options": ["appliances", "alliances", "appearances", "applications"] } ] },
+{
+  "expression": "appliances",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "electrical machines used in the home, such as a fridge or washing machine",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c05_u007",
+      "answer": "appliances",
+      "options": [
+        "appliances",
+        "alliances",
+        "appearances",
+        "applications"
+      ]
+    }
+  ]
+},
 
-  { "expression": "intimidated", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "feeling nervous and less confident because someone seems impressive or powerful",
-    "exchanges": [ { "uid": "s09_e07_c05_u011", "answer": "intimidated",
-      "options": ["intimidated", "invited", "elected", "adopted"] } ] },
+{
+  "expression": "intimidated",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "feeling nervous and less confident because someone seems impressive or powerful",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c05_u011",
+      "answer": "intimidated",
+      "options": [
+        "intimidated",
+        "invited",
+        "elected",
+        "adopted"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pretentious", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "trying to seem more important, cultured, or sophisticated than it really is",
-    "exchanges": [ { "uid": "s09_e07_c05_u011", "answer": "Pretentious",
-      "options": ["Pretentious", "Nutritious", "Ambitious", "Cautious"] } ] },
+{
+  "expression": "pretentious",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "trying to seem more important, cultured, or sophisticated than it really is",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c05_u011",
+      "answer": "Pretentious",
+      "options": [
+        "Pretentious",
+        "Nutritious",
+        "Ambitious",
+        "Cautious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "settle down", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to start living a quiet, steady life, usually with one partner",
-    "exchanges": [ { "uid": "s09_e07_c08_u010", "answer": "settle down",
-      "options": ["settle down", "break down", "turn down", "shut down"] } ] },
+{
+  "expression": "settle down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start living a quiet, steady life, usually with one partner",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c08_u010",
+      "answer": "settle down",
+      "options": [
+        "settle down",
+        "break down",
+        "turn down",
+        "shut down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "picture", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to imagine someone or something in your mind",
-    "exchanges": [
-      { "uid": "s09_e07_c08_u011", "answer": "picturing",
-        "options": ["picturing", "pitching", "printing", "pinching"] },
-      { "uid": "s09_e07_c11_u012", "answer": "picturing",
-        "options": ["picturing", "pitching", "printing", "pinching"] } ] },
+{
+  "expression": "picture",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to imagine someone or something in your mind",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c08_u011",
+      "answer": "picturing",
+      "options": [
+        "picturing",
+        "pitching",
+        "printing",
+        "pinching"
+      ]
+    },
+    {
+      "uid": "s09_e07_c11_u012",
+      "answer": "picturing",
+      "options": [
+        "picturing",
+        "pitching",
+        "printing",
+        "pinching"
+      ]
+    }
+  ]
+},
 
-  { "expression": "testament", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "something that clearly shows or proves that something else is true",
-    "exchanges": [ { "uid": "s09_e07_c07_u026", "answer": "testament",
-      "options": ["testament", "tournament", "temperament", "settlement"] } ] },
+{
+  "expression": "testament",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something that clearly shows or proves that something else is true",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c07_u026",
+      "answer": "testament",
+      "options": [
+        "testament",
+        "tournament",
+        "temperament",
+        "settlement"
+      ]
+    }
+  ]
+},
 
-  { "expression": "considerate", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "always thinking about other people's feelings and needs",
-    "exchanges": [ { "uid": "s09_e07_c07_u028", "answer": "considerate",
-      "options": ["considerate", "considerable", "conservative", "consistent"] } ] },
+{
+  "expression": "considerate",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "always thinking about other people's feelings and needs",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c07_u028",
+      "answer": "considerate",
+      "options": [
+        "considerate",
+        "considerable",
+        "conservative",
+        "consistent"
+      ]
+    }
+  ]
+},
 
-  { "expression": "holy crap", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "a rude exclamation of great surprise or amazement",
-    "exchanges": [ { "uid": "s09_e07_c06_u012", "answer": "Holy crap",
-      "options": ["Holy crap", "Oh well", "Big deal", "Fair enough"] } ] },
+{
+  "expression": "holy crap",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a rude exclamation of great surprise or amazement",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c06_u012",
+      "answer": "Holy crap",
+      "options": [
+        "Holy crap",
+        "Oh well",
+        "Big deal",
+        "Fair enough"
+      ]
+    }
+  ]
+},
 
-  { "expression": "chit-chat", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to talk in a friendly way about unimportant things",
-    "exchanges": [ { "uid": "s09_e07_c12_u004", "answer": "chit-chatting",
-      "options": ["chit-chatting", "ping-ponging", "zig-zagging", "tick-tocking"] } ] },
+{
+  "expression": "chit-chat",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to talk in a friendly way about unimportant things",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c12_u004",
+      "answer": "chit-chatting",
+      "options": [
+        "chit-chatting",
+        "ping-ponging",
+        "zig-zagging",
+        "tick-tocking"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get past", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to overcome or stop being bothered by something difficult",
-    "exchanges": [ { "uid": "s09_e07_c12_u012", "answer": "get past",
-      "options": ["get past", "get into", "get along", "get off"] } ] },
+{
+  "expression": "get past",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to overcome or stop being bothered by something difficult",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c12_u012",
+      "answer": "get past",
+      "options": [
+        "get past",
+        "get into",
+        "get along",
+        "get off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get out of here", "type": "colloquial", "level": "elementary", "pos": "verb",
-    "meaning": "to leave a place, usually quickly because you are upset or in a hurry",
-    "exchanges": [ { "uid": "s09_e07_c12_u019", "answer": "get out of here",
-      "options": ["get out of here", "get over it", "get on with it", "get used to it"] } ] },
+{
+  "expression": "get out of here",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave a place, usually quickly because you are upset or in a hurry",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c12_u019",
+      "answer": "get out of here",
+      "options": [
+        "get out of here",
+        "get over it",
+        "get on with it",
+        "get used to it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "top drawer", "type": "colloquial", "level": "expert", "pos": "adjective",
-    "meaning": "of the highest quality or social class",
-    "exchanges": [ { "uid": "s09_e07_c12_u022", "answer": "top drawer", "responseUid": null,
-      "options": ["top drawer", "top secret", "top heavy", "top down"] } ] }
+{
+  "expression": "top drawer",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "of the highest quality or social class",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c12_u022",
+      "answer": "top drawer",
+      "responseUid": null,
+      "options": [
+        "top drawer",
+        "top secret",
+        "top heavy",
+        "top down"
+      ]
+    }
+  ]
+}
 ]

@@ -1,130 +1,513 @@
 [
-  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to date someone; to spend time with someone romantically",
-    "exchanges": [
-      { "uid": "s09_e20_c08_u020", "answer": "went out with",
-        "options": ["went out with", "made up with", "came up with", "got by with"] },
-      { "uid": "s09_e20_c10_u006", "answer": "goes out with",
-        "options": ["goes out with", "comes up with", "gets by with", "runs out of"] } ] },
+{
+  "expression": "go out with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to date someone; to spend time with someone romantically",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c08_u020",
+      "answer": "went out with",
+      "options": [
+        "went out with",
+        "made up with",
+        "came up with",
+        "got by with"
+      ]
+    },
+    {
+      "uid": "s09_e20_c10_u006",
+      "answer": "goes out with",
+      "options": [
+        "goes out with",
+        "comes up with",
+        "gets by with",
+        "runs out of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "change your mind", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to decide something different from what you decided before",
-    "exchanges": [ { "uid": "s09_e20_c11_u012", "answer": "changed my mind",
-      "options": ["changed my mind", "made my bed", "kept my word", "paid my dues"] } ] },
+{
+  "expression": "change your mind",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to decide something different from what you decided before",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c11_u012",
+      "answer": "changed my mind",
+      "options": [
+        "changed my mind",
+        "made my bed",
+        "kept my word",
+        "paid my dues"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get going", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to leave or start moving, usually because it is time to go",
-    "exchanges": [ { "uid": "s09_e20_c02_u036", "answer": "get going",
-      "options": ["get going", "get even", "get lost", "get real"] } ] },
+{
+  "expression": "get going",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave or start moving, usually because it is time to go",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u036",
+      "answer": "get going",
+      "options": [
+        "get going",
+        "get even",
+        "get lost",
+        "get real"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [
-      { "uid": "s09_e20_c08_u013", "answer": "broke up with",
-        "options": ["broke up with", "made up with", "caught up with", "came up with"] },
-      { "uid": "s09_e20_c11_u003", "answer": "broke up with",
-        "options": ["broke up with", "made up with", "caught up with", "put up with"] } ] },
+{
+  "expression": "break up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c08_u013",
+      "answer": "broke up with",
+      "options": [
+        "broke up with",
+        "made up with",
+        "caught up with",
+        "came up with"
+      ]
+    },
+    {
+      "uid": "s09_e20_c11_u003",
+      "answer": "broke up with",
+      "options": [
+        "broke up with",
+        "made up with",
+        "caught up with",
+        "put up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "show around", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to take someone on a tour of a place so they can see it",
-    "exchanges": [
-      { "uid": "s09_e20_c02_u020", "answer": "show them around",
-        "options": ["show them around", "tell them off", "let them down", "put them up"] },
-      { "uid": "s09_e20_c02_u029", "answer": "show me around",
-        "options": ["show me around", "tell me off", "let me down", "bring me down"] } ] },
+{
+  "expression": "show around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take someone on a tour of a place so they can see it",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u020",
+      "answer": "show them around",
+      "options": [
+        "show them around",
+        "tell them off",
+        "let them down",
+        "put them up"
+      ]
+    },
+    {
+      "uid": "s09_e20_c02_u029",
+      "answer": "show me around",
+      "options": [
+        "show me around",
+        "tell me off",
+        "let me down",
+        "bring me down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to become very anxious, upset, or panicked",
-    "exchanges": [ { "uid": "s09_e20_c05_u009", "answer": "freak you out",
-      "options": ["freak you out", "cheer you up", "back you up", "wear you out"] } ] },
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c05_u009",
+      "answer": "freak you out",
+      "options": [
+        "freak you out",
+        "cheer you up",
+        "back you up",
+        "wear you out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "not something important or worth worrying about",
-    "exchanges": [ { "uid": "s09_e20_c02_u030", "answer": "no big deal",
-      "options": ["no big deal", "no hard feelings", "no laughing matter", "no picnic"] } ] },
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u030",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no hard feelings",
+        "no laughing matter",
+        "no picnic"
+      ]
+    }
+  ]
+},
 
-  { "expression": "dressed up", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "wearing nicer or more formal clothes than usual",
-    "exchanges": [ { "uid": "s09_e20_c05_u024", "answer": "dressed up",
-      "options": ["dressed up", "fed up", "mixed up", "washed up"] } ] },
+{
+  "expression": "dressed up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "wearing nicer or more formal clothes than usual",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c05_u024",
+      "answer": "dressed up",
+      "options": [
+        "dressed up",
+        "fed up",
+        "mixed up",
+        "washed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'm begging you", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to ask for something very strongly and urgently",
-    "exchanges": [ { "uid": "s09_e20_c04_u014", "answer": "I'm begging you",
-      "options": ["I'm begging you", "I'm warning you", "I'm blaming you", "I'm leaving you"] } ] },
+{
+  "expression": "I'm begging you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to ask for something very strongly and urgently",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c04_u014",
+      "answer": "I'm begging you",
+      "options": [
+        "I'm begging you",
+        "I'm warning you",
+        "I'm blaming you",
+        "I'm leaving you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hook someone up", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to get something useful for someone, often through your connections or as a favor",
-    "exchanges": [ { "uid": "s09_e20_c01_u003", "answer": "hooked me up",
-      "options": ["hooked me up", "held me up", "cheered me up", "beat me up"] } ] },
+{
+  "expression": "hook someone up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get something useful for someone, often through your connections or as a favor",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c01_u003",
+      "answer": "hooked me up",
+      "options": [
+        "hooked me up",
+        "held me up",
+        "cheered me up",
+        "beat me up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "off the top of my head", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "without careful thought or preparation; just thought of right now",
-    "exchanges": [ { "uid": "s09_e20_c02_u004", "answer": "top of my head",
-      "options": ["top of my head", "back of my hand", "tip of my tongue", "edge of my seat"] } ] },
+{
+  "expression": "off the top of my head",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "without careful thought or preparation; just thought of right now",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u004",
+      "answer": "top of my head",
+      "options": [
+        "top of my head",
+        "back of my hand",
+        "tip of my tongue",
+        "edge of my seat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ditch", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to leave someone behind on purpose so you can get away from them",
-    "exchanges": [ { "uid": "s09_e20_c04_u012", "answer": "ditch", "responseUid": "s09_e20_c04_u014",
-      "options": ["ditch", "hire", "praise", "tease"] } ] },
+{
+  "expression": "ditch",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave someone behind on purpose so you can get away from them",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c04_u012",
+      "answer": "ditch",
+      "responseUid": "s09_e20_c04_u014",
+      "options": [
+        "ditch",
+        "hire",
+        "praise",
+        "tease"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a move on", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to try to start something romantic or sexual with someone",
-    "exchanges": [ { "uid": "s09_e20_c05_u026", "answer": "make a move on",
-      "options": ["make a move on", "make a fuss over", "take a stand on", "make a dent in"] } ] },
+{
+  "expression": "make a move on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try to start something romantic or sexual with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c05_u026",
+      "answer": "make a move on",
+      "options": [
+        "make a move on",
+        "make a fuss over",
+        "take a stand on",
+        "make a dent in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out of someone's league", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "too attractive or impressive for someone to have a chance with",
-    "exchanges": [ { "uid": "s09_e20_c08_u039", "answer": "out of my league",
-      "options": ["out of my league", "out of my hands", "out of my mind", "out of my way"] } ] },
+{
+  "expression": "out of someone's league",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "too attractive or impressive for someone to have a chance with",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c08_u039",
+      "answer": "out of my league",
+      "options": [
+        "out of my league",
+        "out of my hands",
+        "out of my mind",
+        "out of my way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "scare off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to frighten someone so much that they stay away",
-    "exchanges": [ { "uid": "s09_e20_c11_u001", "answer": "scare you off",
-      "options": ["scare you off", "cheer you on", "win you over", "calm you down"] } ] },
+{
+  "expression": "scare off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to frighten someone so much that they stay away",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c11_u001",
+      "answer": "scare you off",
+      "options": [
+        "scare you off",
+        "cheer you on",
+        "win you over",
+        "calm you down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "top notch", "type": "colloquial", "level": "high", "pos": "adjective",
-    "meaning": "of the highest quality; excellent",
-    "exchanges": [ { "uid": "s09_e20_c11_u009", "answer": "top notch",
-      "options": ["top notch", "half baked", "run down", "far fetched"] } ] },
+{
+  "expression": "top notch",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "of the highest quality; excellent",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c11_u009",
+      "answer": "top notch",
+      "options": [
+        "top notch",
+        "half baked",
+        "run down",
+        "far fetched"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get away with", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to do something wrong without being punished or stopped",
-    "exchanges": [ { "uid": "s09_e20_c03_u012", "answer": "get away with",
-      "options": ["get away with", "come up with", "put up with", "look forward to"] } ] },
+{
+  "expression": "get away with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something wrong without being punished or stopped",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c03_u012",
+      "answer": "get away with",
+      "options": [
+        "get away with",
+        "come up with",
+        "put up with",
+        "look forward to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "windbag", "type": "word", "level": "college", "pos": "noun",
-    "meaning": "a person who talks too much, especially in a boring or pompous way",
-    "exchanges": [ { "uid": "s09_e20_c02_u022", "answer": "windbags",
-      "options": ["windbags", "sandbags", "daredevils", "go-getters"] } ] },
+{
+  "expression": "windbag",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who talks too much, especially in a boring or pompous way",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u022",
+      "answer": "windbags",
+      "options": [
+        "windbags",
+        "sandbags",
+        "daredevils",
+        "go-getters"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get it out of your system", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to do something you strongly want to do so that the urge goes away",
-    "exchanges": [ { "uid": "s09_e20_c03_u028", "answer": "out of my system", "responseUid": null,
-      "options": ["out of my system", "under my skin", "on my mind", "in my blood"] } ] },
+{
+  "expression": "get it out of your system",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to do something you strongly want to do so that the urge goes away",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c03_u028",
+      "answer": "out of my system",
+      "responseUid": null,
+      "options": [
+        "out of my system",
+        "under my skin",
+        "on my mind",
+        "in my blood"
+      ]
+    }
+  ]
+},
 
-  { "expression": "out there", "type": "colloquial", "level": "college", "pos": "adjective",
-    "meaning": "very unusual or unconventional, in a way that may seem strange",
-    "exchanges": [ { "uid": "s09_e20_c05_u005", "answer": "out there",
-      "options": ["out there", "up there", "in there", "over there"] } ] },
+{
+  "expression": "out there",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "very unusual or unconventional, in a way that may seem strange",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c05_u005",
+      "answer": "out there",
+      "options": [
+        "out there",
+        "up there",
+        "in there",
+        "over there"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lose the will to live", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "to feel so bored or miserable that nothing seems worth doing",
-    "exchanges": [ { "uid": "s09_e20_c04_u011", "answer": "will to live",
-      "options": ["will to live", "right to vote", "need to eat", "time to leave"] } ] },
+{
+  "expression": "lose the will to live",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to feel so bored or miserable that nothing seems worth doing",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c04_u011",
+      "answer": "will to live",
+      "options": [
+        "will to live",
+        "right to vote",
+        "need to eat",
+        "time to leave"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pry", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to try too hard to find out about someone's private life",
-    "exchanges": [ { "uid": "s09_e20_c08_u022", "answer": "pry",
-      "options": ["pry", "brag", "rush", "lie"] } ] },
+{
+  "expression": "pry",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to try too hard to find out about someone's private life",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c08_u022",
+      "answer": "pry",
+      "options": [
+        "pry",
+        "brag",
+        "rush",
+        "lie"
+      ]
+    }
+  ]
+},
 
-  { "expression": "play fast and loose with", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to treat something carelessly or dishonestly, without respecting its proper use",
-    "exchanges": [ { "uid": "s09_e20_c04_u008", "answer": "playing fast and loose",
-      "options": ["playing fast and loose", "playing hard to get", "playing it by ear", "playing for keeps"] } ] },
+{
+  "expression": "play fast and loose with",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to treat something carelessly or dishonestly, without respecting its proper use",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c04_u008",
+      "answer": "playing fast and loose",
+      "options": [
+        "playing fast and loose",
+        "playing hard to get",
+        "playing it by ear",
+        "playing for keeps"
+      ]
+    }
+  ]
+},
 
-  { "expression": "slum it", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "to accept something of lower quality or status than you are used to",
-    "exchanges": [ { "uid": "s09_e20_c11_u003", "answer": "slum it",
-      "options": ["slum it", "wing it", "nail it", "fake it"] } ] }
+{
+  "expression": "slum it",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to accept something of lower quality or status than you are used to",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c11_u003",
+      "answer": "slum it",
+      "options": [
+        "slum it",
+        "wing it",
+        "nail it",
+        "fake it"
+      ]
+    }
+  ]
+}
 ]

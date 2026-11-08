@@ -1,126 +1,507 @@
 [
-  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to make someone feel happier",
-    "exchanges": [ { "uid": "s03_e21_c02_u004", "answer": "cheer up",
-      "options": ["cheer up", "hurry up", "speak up", "sign up"] } ] },
+{
+  "expression": "cheer up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel happier",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c02_u004",
+      "answer": "cheer up",
+      "options": [
+        "cheer up",
+        "hurry up",
+        "speak up",
+        "sign up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "check this out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "look at this; said to draw attention to something interesting",
-    "exchanges": [ { "uid": "s03_e21_c03_u003", "answer": "check this out",
-      "options": ["check this out", "take this off", "put this on", "look this up"] } ] },
+{
+  "expression": "check this out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "look at this; said to draw attention to something interesting",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c03_u003",
+      "answer": "check this out",
+      "options": [
+        "check this out",
+        "take this off",
+        "put this on",
+        "look this up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to look after someone who needs help",
-    "exchanges": [ { "uid": "s03_e21_c07_u018", "answer": "taking care of",
-      "options": ["taking care of", "getting rid of", "making fun of", "keeping track of"] } ] },
+{
+  "expression": "take care of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to look after someone who needs help",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c07_u018",
+      "answer": "taking care of",
+      "options": [
+        "taking care of",
+        "getting rid of",
+        "making fun of",
+        "keeping track of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "put together", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to organize or assemble something, such as a team or an event",
-    "exchanges": [ { "uid": "s03_e21_c02_u010", "answer": "putting together",
-      "options": ["putting together", "taking apart", "giving away", "setting down"] } ] },
+{
+  "expression": "put together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to organize or assemble something, such as a team or an event",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c02_u010",
+      "answer": "putting together",
+      "options": [
+        "putting together",
+        "taking apart",
+        "giving away",
+        "setting down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to have a strong, often secret, romantic attraction to someone",
-    "exchanges": [ { "uid": "s03_e21_c04_u004", "answer": "has a crush on",
-      "options": ["has a crush on", "keeps an eye on", "takes a shot at", "makes a fuss over"] } ] },
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c04_u004",
+      "answer": "has a crush on",
+      "options": [
+        "has a crush on",
+        "keeps an eye on",
+        "takes a shot at",
+        "makes a fuss over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invent something, such as a rule or a story, that is not true",
-    "exchanges": [ { "uid": "s03_e21_c06_u018", "answer": "made up", "responseUid": "s03_e21_c06_u020",
-      "options": ["made up", "put off", "gave in", "took on"] } ] },
+{
+  "expression": "make up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invent something, such as a rule or a story, that is not true",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c06_u018",
+      "answer": "made up",
+      "responseUid": "s03_e21_c06_u020",
+      "options": [
+        "made up",
+        "put off",
+        "gave in",
+        "took on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
-    "meaning": "to be very bad or disappointing",
-    "exchanges": [ { "uid": "s03_e21_c06_u028", "answer": "sucks", "responseUid": null,
-      "options": ["sucks", "rocks", "rules", "shines"] } ] },
+{
+  "expression": "suck",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very bad or disappointing",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c06_u028",
+      "answer": "sucks",
+      "responseUid": null,
+      "options": [
+        "sucks",
+        "rocks",
+        "rules",
+        "shines"
+      ]
+    }
+  ]
+},
 
-  { "expression": "grow up", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to stop behaving childishly",
-    "exchanges": [ { "uid": "s03_e21_c11_u025", "answer": "grow up",
-      "options": ["grow up", "wake up", "speak up", "hold on"] } ] },
+{
+  "expression": "grow up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop behaving childishly",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c11_u025",
+      "answer": "grow up",
+      "options": [
+        "grow up",
+        "wake up",
+        "speak up",
+        "hold on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "as long as", "type": "phrase", "level": "middle", "pos": "expression",
-    "meaning": "provided that; on the condition that",
-    "exchanges": [ { "uid": "s03_e21_c15_u028", "answer": "as long as",
-      "options": ["as long as", "as far as", "as much as", "as well as"] } ] },
+{
+  "expression": "as long as",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "provided that; on the condition that",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c15_u028",
+      "answer": "as long as",
+      "options": [
+        "as long as",
+        "as far as",
+        "as much as",
+        "as well as"
+      ]
+    }
+  ]
+},
 
-  { "expression": "do the right thing", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to act in the way that is morally correct",
-    "exchanges": [ { "uid": "s03_e21_c13_u011", "answer": "did the right thing",
-      "options": ["did the right thing", "made the big move", "took the easy way", "had the last word"] } ] },
+{
+  "expression": "do the right thing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to act in the way that is morally correct",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c13_u011",
+      "answer": "did the right thing",
+      "options": [
+        "did the right thing",
+        "made the big move",
+        "took the easy way",
+        "had the last word"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have to do with", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to be connected with or about something",
-    "exchanges": [ { "uid": "s03_e21_c10_u014", "answer": "have to do with",
-      "options": ["have to do with", "come to terms with", "get to grips with", "have to live with"] } ] },
+{
+  "expression": "have to do with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be connected with or about something",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c10_u014",
+      "answer": "have to do with",
+      "options": [
+        "have to do with",
+        "come to terms with",
+        "get to grips with",
+        "have to live with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "kick in", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start to take effect or happen",
-    "exchanges": [ { "uid": "s03_e21_c05_u004", "answer": "kicks in", "responseUid": null,
-      "options": ["kicks in", "sets off", "runs out", "gives up"] } ] },
+{
+  "expression": "kick in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start to take effect or happen",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c05_u004",
+      "answer": "kicks in",
+      "responseUid": null,
+      "options": [
+        "kicks in",
+        "sets off",
+        "runs out",
+        "gives up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "here's the thing", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to introduce the main point or an awkward explanation",
-    "exchanges": [ { "uid": "s03_e21_c06_u003", "answer": "Here's the thing", "responseUid": "s03_e21_c06_u005",
-      "options": ["Here's the thing", "That's the point", "There's the catch", "Here's the plan"] } ] },
+{
+  "expression": "here's the thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the main point or an awkward explanation",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c06_u003",
+      "answer": "Here's the thing",
+      "responseUid": "s03_e21_c06_u005",
+      "options": [
+        "Here's the thing",
+        "That's the point",
+        "There's the catch",
+        "Here's the plan"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be into", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to be strongly attracted to or interested in someone or something",
-    "exchanges": [ { "uid": "s03_e21_c06_u022", "answer": "into",
-      "options": ["into", "onto", "upon", "beside"] } ] },
+{
+  "expression": "be into",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be strongly attracted to or interested in someone or something",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c06_u022",
+      "answer": "into",
+      "options": [
+        "into",
+        "onto",
+        "upon",
+        "beside"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bring out", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to make a quality or feature easier to notice",
-    "exchanges": [ { "uid": "s03_e21_c07_u027", "answer": "brings out",
-      "options": ["brings out", "takes off", "puts up", "gets over"] } ] },
+{
+  "expression": "bring out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make a quality or feature easier to notice",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c07_u027",
+      "answer": "brings out",
+      "options": [
+        "brings out",
+        "takes off",
+        "puts up",
+        "gets over"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make an impression", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to cause people to notice and remember you",
-    "exchanges": [ { "uid": "s03_e21_c08_u013", "answer": "make a big impression",
-      "options": ["make a big impression", "take a big decision", "have a big problem", "do a big favor"] } ] },
+{
+  "expression": "make an impression",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to cause people to notice and remember you",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c08_u013",
+      "answer": "make a big impression",
+      "options": [
+        "make a big impression",
+        "take a big decision",
+        "have a big problem",
+        "do a big favor"
+      ]
+    }
+  ]
+},
 
-  { "expression": "subtle", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "not obvious or strong; delicate and understated",
-    "exchanges": [ { "uid": "s03_e21_c09_u020", "answer": "subtle",
-      "options": ["subtle", "sudden", "sturdy", "stable"] } ] },
+{
+  "expression": "subtle",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not obvious or strong; delicate and understated",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c09_u020",
+      "answer": "subtle",
+      "options": [
+        "subtle",
+        "sudden",
+        "sturdy",
+        "stable"
+      ]
+    }
+  ]
+},
 
-  { "expression": "have second thoughts", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to start doubting a decision you have already made",
-    "exchanges": [ { "uid": "s03_e21_c13_u009", "answer": "having second thoughts",
-      "options": ["having second thoughts", "making first moves", "taking last chances", "giving mixed signals"] } ] },
+{
+  "expression": "have second thoughts",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doubting a decision you have already made",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c13_u009",
+      "answer": "having second thoughts",
+      "options": [
+        "having second thoughts",
+        "making first moves",
+        "taking last chances",
+        "giving mixed signals"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in a perfect world", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said about something that would be true if things were ideal, but is not realistic",
-    "exchanges": [ { "uid": "s03_e21_c10_u013", "answer": "in a perfect world",
-      "options": ["in a perfect world", "at the right time", "on a small scale", "for a short while"] } ] },
+{
+  "expression": "in a perfect world",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said about something that would be true if things were ideal, but is not realistic",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c10_u013",
+      "answer": "in a perfect world",
+      "options": [
+        "in a perfect world",
+        "at the right time",
+        "on a small scale",
+        "for a short while"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pay one's dues", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to do hard, low-level work for a long time in order to earn the position you want",
-    "exchanges": [ { "uid": "s03_e21_c04_u004", "answer": "paid my dues",
-      "options": ["paid my dues", "made my bed", "held my ground", "bit my tongue"] } ] },
+{
+  "expression": "pay one's dues",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to do hard, low-level work for a long time in order to earn the position you want",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c04_u004",
+      "answer": "paid my dues",
+      "options": [
+        "paid my dues",
+        "made my bed",
+        "held my ground",
+        "bit my tongue"
+      ]
+    }
+  ]
+},
 
-  { "expression": "fictitious", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "invented by someone and not real",
-    "exchanges": [ { "uid": "s03_e21_c06_u020", "answer": "fictitious", "cueUid": "s03_e21_c06_u018",
-      "options": ["fictitious", "ambitious", "cautious", "gracious"] } ] },
+{
+  "expression": "fictitious",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "invented by someone and not real",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c06_u020",
+      "answer": "fictitious",
+      "cueUid": "s03_e21_c06_u018",
+      "options": [
+        "fictitious",
+        "ambitious",
+        "cautious",
+        "gracious"
+      ]
+    }
+  ]
+},
 
-  { "expression": "intuitive", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "able to understand or sense things without needing to reason them out",
-    "exchanges": [ { "uid": "s03_e21_c06_u024", "answer": "intuitive",
-      "options": ["intuitive", "inventive", "intensive", "inclusive"] } ] },
+{
+  "expression": "intuitive",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "able to understand or sense things without needing to reason them out",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c06_u024",
+      "answer": "intuitive",
+      "options": [
+        "intuitive",
+        "inventive",
+        "intensive",
+        "inclusive"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stand to", "type": "phrase", "level": "college", "pos": "verb",
-    "meaning": "to be in a position where something is likely to happen to you",
-    "exchanges": [ { "uid": "s03_e21_c14_u015", "answer": "stands to",
-      "options": ["stands to", "waits to", "hopes to", "goes to"] } ] },
+{
+  "expression": "stand to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be in a position where something is likely to happen to you",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c14_u015",
+      "answer": "stands to",
+      "options": [
+        "stands to",
+        "waits to",
+        "hopes to",
+        "goes to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "crumple", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to collapse or fold up suddenly, like paper being crushed",
-    "exchanges": [ { "uid": "s03_e21_c03_u006", "answer": "crumpled", "responseUid": "s03_e21_c03_u008",
-      "options": ["crumpled", "crawled", "crashed", "chuckled"] } ] },
+{
+  "expression": "crumple",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to collapse or fold up suddenly, like paper being crushed",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c03_u006",
+      "answer": "crumpled",
+      "responseUid": "s03_e21_c03_u008",
+      "options": [
+        "crumpled",
+        "crawled",
+        "crashed",
+        "chuckled"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gallivanting", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "going around enjoying yourself and looking for fun instead of doing what you should",
-    "exchanges": [ { "uid": "s03_e21_c07_u016", "answer": "gallivanting",
-      "options": ["gallivanting", "gesticulating", "gravitating", "galvanizing"] } ] }
+{
+  "expression": "gallivanting",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "going around enjoying yourself and looking for fun instead of doing what you should",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c07_u016",
+      "answer": "gallivanting",
+      "options": [
+        "gallivanting",
+        "gesticulating",
+        "gravitating",
+        "galvanizing"
+      ]
+    }
+  ]
+}
 ]

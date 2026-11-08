@@ -92,7 +92,7 @@
 {
   "expression": "slim pickings",
   "type": "colloquial",
-  "level": "expert",
+  "level": "college",
   "pos": "expression",
   "meaning": "a poor selection with very few good choices available",
   "exchanges": [
@@ -393,7 +393,7 @@
 {
   "expression": "on the house",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "free, paid for by the business rather than the customer",
   "exchanges": [

@@ -1,135 +1,533 @@
 [
-  { "expression": "make friends with", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to start a friendly relationship with someone",
-    "exchanges": [ { "uid": "s06_e13_c02_u045", "answer": "make friends with",
-      "options": ["make friends with", "take turns with", "keep pace with", "break up with"] } ] },
+{
+  "expression": "make friends with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to start a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c02_u045",
+      "answer": "make friends with",
+      "options": [
+        "make friends with",
+        "take turns with",
+        "keep pace with",
+        "break up with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on your own", "type": "phrase", "level": "elementary", "pos": "adverb",
-    "meaning": "without help from anyone else",
-    "exchanges": [ { "uid": "s06_e13_c02_u046", "answer": "on your own",
-      "options": ["on your own", "in your way", "at your best", "by your side"] } ] },
+{
+  "expression": "on your own",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c02_u046",
+      "answer": "on your own",
+      "options": [
+        "on your own",
+        "in your way",
+        "at your best",
+        "by your side"
+      ]
+    }
+  ]
+},
 
-  { "expression": "never mind", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "forget what I just said; it does not matter",
-    "exchanges": [ { "uid": "s06_e13_c02_u035", "answer": "Never mind",
-      "options": ["Never mind", "Never again", "No wonder", "No problem"] } ] },
+{
+  "expression": "never mind",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "forget what I just said; it does not matter",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c02_u035",
+      "answer": "Never mind",
+      "options": [
+        "Never mind",
+        "Never again",
+        "No wonder",
+        "No problem"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get some rest", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to relax or sleep so that you can recover your strength",
-    "exchanges": [ { "uid": "s06_e13_c07_u009", "answer": "get some rest",
-      "options": ["get some rest", "get some air", "take some time", "make some noise"] } ] },
+{
+  "expression": "get some rest",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to relax or sleep so that you can recover your strength",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c07_u009",
+      "answer": "get some rest",
+      "options": [
+        "get some rest",
+        "get some air",
+        "take some time",
+        "make some noise"
+      ]
+    }
+  ]
+},
 
-  { "expression": "gross", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "disgusting or very unpleasant",
-    "exchanges": [ { "uid": "s06_e13_c01_u014", "answer": "gross",
-      "options": ["gross", "grand", "brave", "proud"] } ] },
+{
+  "expression": "gross",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "disgusting or very unpleasant",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c01_u014",
+      "answer": "gross",
+      "options": [
+        "gross",
+        "grand",
+        "brave",
+        "proud"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spoiled", "type": "word", "level": "middle", "pos": "adjective",
-    "meaning": "selfish and badly behaved because you have always been given what you want",
-    "exchanges": [ { "uid": "s06_e13_c02_u033", "answer": "spoiled",
-      "options": ["spoiled", "married", "pregnant", "youngest"] } ] },
+{
+  "expression": "spoiled",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "selfish and badly behaved because you have always been given what you want",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c02_u033",
+      "answer": "spoiled",
+      "options": [
+        "spoiled",
+        "married",
+        "pregnant",
+        "youngest"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take it personally", "type": "colloquial", "level": "middle", "pos": "verb",
-    "meaning": "to feel hurt or offended by something as if it were aimed at you",
-    "exchanges": [ { "uid": "s06_e13_c04_u009", "answer": "take this personally",
-      "options": ["take this personally", "take this outside", "make this official", "give this away"] } ] },
+{
+  "expression": "take it personally",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel hurt or offended by something as if it were aimed at you",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c04_u009",
+      "answer": "take this personally",
+      "options": [
+        "take this personally",
+        "take this outside",
+        "make this official",
+        "give this away"
+      ]
+    }
+  ]
+},
 
-  { "expression": "geek", "type": "word", "level": "middle", "pos": "noun",
-    "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
-    "exchanges": [ { "uid": "s06_e13_c06_u022", "answer": "geek",
-      "options": ["geek", "thief", "liar", "flirt"] } ] },
+{
+  "expression": "geek",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is socially awkward or oddly enthusiastic about unfashionable things",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c06_u022",
+      "answer": "geek",
+      "options": [
+        "geek",
+        "thief",
+        "liar",
+        "flirt"
+      ]
+    }
+  ]
+},
 
-  { "expression": "my type", "type": "colloquial", "level": "middle", "pos": "noun",
-    "meaning": "the kind of person someone usually finds attractive",
-    "exchanges": [ { "uid": "s06_e13_c06_u030", "answer": "your type",
-      "options": ["your type", "your fault", "your turn", "your size"] } ] },
+{
+  "expression": "my type",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the kind of person someone usually finds attractive",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c06_u030",
+      "answer": "your type",
+      "options": [
+        "your type",
+        "your fault",
+        "your turn",
+        "your size"
+      ]
+    }
+  ]
+},
 
-  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to invite someone on a date",
-    "exchanges": [
-      { "uid": "s06_e13_c06_u027", "answer": "ask him out",
-        "options": ["ask him out", "show him around", "turn him down", "let him go"] },
-      { "uid": "s06_e13_c08_u011", "answer": "ask me out",
-        "options": ["ask me out", "back me up", "leave me alone", "call me back"] } ] },
+{
+  "expression": "ask out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone on a date",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c06_u027",
+      "answer": "ask him out",
+      "options": [
+        "ask him out",
+        "show him around",
+        "turn him down",
+        "let him go"
+      ]
+    },
+    {
+      "uid": "s06_e13_c08_u011",
+      "answer": "ask me out",
+      "options": [
+        "ask me out",
+        "back me up",
+        "leave me alone",
+        "call me back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I bet", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said when you feel sure that something is true or will happen",
-    "exchanges": [ { "uid": "s06_e13_c10_u016", "answer": "I bet",
-      "options": ["I bet", "I wish", "I doubt", "I hope"] } ] },
+{
+  "expression": "I bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you feel sure that something is true or will happen",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c10_u016",
+      "answer": "I bet",
+      "options": [
+        "I bet",
+        "I wish",
+        "I doubt",
+        "I hope"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be off to", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be leaving now in order to go somewhere",
-    "exchanges": [ { "uid": "s06_e13_c11_u019", "answer": "off to", "responseUid": null,
-      "options": ["off to", "out of", "up for", "down with"] } ] },
+{
+  "expression": "be off to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be leaving now in order to go somewhere",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c11_u019",
+      "answer": "off to",
+      "responseUid": null,
+      "options": [
+        "off to",
+        "out of",
+        "up for",
+        "down with"
+      ]
+    }
+  ]
+},
 
-  { "expression": "cut someone off", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to stop giving someone money or financial support",
-    "exchanges": [
-      { "uid": "s06_e13_c02_u034", "answer": "cut me off",
-        "options": ["cut me off", "let me down", "took me in", "set me up"] },
-      { "uid": "s06_e13_c02_u041", "answer": "cut you off",
-        "options": ["cut you off", "let you down", "take you in", "set you up"] } ] },
+{
+  "expression": "cut someone off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop giving someone money or financial support",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c02_u034",
+      "answer": "cut me off",
+      "options": [
+        "cut me off",
+        "let me down",
+        "took me in",
+        "set me up"
+      ]
+    },
+    {
+      "uid": "s06_e13_c02_u041",
+      "answer": "cut you off",
+      "options": [
+        "cut you off",
+        "let you down",
+        "take you in",
+        "set you up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "lame", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "weak and unconvincing",
-    "exchanges": [ { "uid": "s06_e13_c03_u051", "answer": "lame",
-      "options": ["lame", "brave", "tame", "smooth"] } ] },
+{
+  "expression": "lame",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "weak and unconvincing",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c03_u051",
+      "answer": "lame",
+      "options": [
+        "lame",
+        "brave",
+        "tame",
+        "smooth"
+      ]
+    }
+  ]
+},
 
-  { "expression": "spark", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a small sign of romantic attraction between two people",
-    "exchanges": [ { "uid": "s06_e13_c05_u007", "answer": "spark",
-      "options": ["spark", "fence", "gap", "debt"] } ] },
+{
+  "expression": "spark",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a small sign of romantic attraction between two people",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c05_u007",
+      "answer": "spark",
+      "options": [
+        "spark",
+        "fence",
+        "gap",
+        "debt"
+      ]
+    }
+  ]
+},
 
-  { "expression": "faker", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "a person who pretends to feel or be something they do not",
-    "exchanges": [ { "uid": "s06_e13_c09_u019", "answer": "faker",
-      "options": ["faker", "baby", "winner", "hero"] } ] },
+{
+  "expression": "faker",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who pretends to feel or be something they do not",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c09_u019",
+      "answer": "faker",
+      "options": [
+        "faker",
+        "baby",
+        "winner",
+        "hero"
+      ]
+    }
+  ]
+},
 
-  { "expression": "work like a charm", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to work very well and get exactly the result you wanted",
-    "exchanges": [ { "uid": "s06_e13_c09_u024", "answer": "Worked like a charm", "responseUid": null,
-      "options": ["Worked like a charm", "Went down the drain", "Fell through the cracks", "Came out of nowhere"] } ] },
+{
+  "expression": "work like a charm",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to work very well and get exactly the result you wanted",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c09_u024",
+      "answer": "Worked like a charm",
+      "responseUid": null,
+      "options": [
+        "Worked like a charm",
+        "Went down the drain",
+        "Fell through the cracks",
+        "Came out of nowhere"
+      ]
+    }
+  ]
+},
 
-  { "expression": "on the house", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "free, paid for by the business rather than the customer",
-    "exchanges": [
-      { "uid": "s06_e13_c01_u008", "answer": "on the house",
-        "options": ["on the house", "in the bag", "off the record", "under the table"] },
-      { "uid": "s06_e13_c01_u015", "answer": "on the house",
-        "options": ["on the house", "on the side", "in the oven", "off the menu"] } ] },
+{
+  "expression": "on the house",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "free, paid for by the business rather than the customer",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c01_u008",
+      "answer": "on the house",
+      "options": [
+        "on the house",
+        "in the bag",
+        "off the record",
+        "under the table"
+      ]
+    },
+    {
+      "uid": "s06_e13_c01_u015",
+      "answer": "on the house",
+      "options": [
+        "on the house",
+        "on the side",
+        "in the oven",
+        "off the menu"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forward", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "too direct and confident in showing romantic interest in someone",
-    "exchanges": [ { "uid": "s06_e13_c01_u010", "answer": "forward",
-      "options": ["forward", "absent", "careless", "jealous"] } ] },
+{
+  "expression": "forward",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "too direct and confident in showing romantic interest in someone",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c01_u010",
+      "answer": "forward",
+      "options": [
+        "forward",
+        "absent",
+        "careless",
+        "jealous"
+      ]
+    }
+  ]
+},
 
-  { "expression": "under someone's nose", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "openly and directly in front of someone, where they cannot avoid seeing it",
-    "exchanges": [ { "uid": "s06_e13_c03_u026", "answer": "under Jill's nose",
-      "options": ["under Jill's nose", "off Jill's chest", "on Jill's nerves", "behind Jill's back"] } ] },
+{
+  "expression": "under someone's nose",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "openly and directly in front of someone, where they cannot avoid seeing it",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c03_u026",
+      "answer": "under Jill's nose",
+      "options": [
+        "under Jill's nose",
+        "off Jill's chest",
+        "on Jill's nerves",
+        "behind Jill's back"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pitch", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to present an idea to someone in order to persuade them to accept it",
-    "exchanges": [ { "uid": "s06_e13_c05_u006", "answer": "pitched",
-      "options": ["pitched", "denied", "hidden", "stolen"] } ] },
+{
+  "expression": "pitch",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to present an idea to someone in order to persuade them to accept it",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c05_u006",
+      "answer": "pitched",
+      "options": [
+        "pitched",
+        "denied",
+        "hidden",
+        "stolen"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bookish", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "more interested in reading and studying than in social or physical activities",
-    "exchanges": [ { "uid": "s06_e13_c06_u021", "answer": "bookish",
-      "options": ["bookish", "reckless", "flashy", "bossy"] } ] },
+{
+  "expression": "bookish",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "more interested in reading and studying than in social or physical activities",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c06_u021",
+      "answer": "bookish",
+      "options": [
+        "bookish",
+        "reckless",
+        "flashy",
+        "bossy"
+      ]
+    }
+  ]
+},
 
-  { "expression": "the bigger person", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "the one who acts generously and maturely instead of taking revenge",
-    "exchanges": [ { "uid": "s06_e13_c08_u017", "answer": "bigger person",
-      "options": ["bigger person", "better liar", "harder worker", "bigger fool"] } ] },
+{
+  "expression": "the bigger person",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "the one who acts generously and maturely instead of taking revenge",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c08_u017",
+      "answer": "bigger person",
+      "options": [
+        "bigger person",
+        "better liar",
+        "harder worker",
+        "bigger fool"
+      ]
+    }
+  ]
+},
 
-  { "expression": "reciprocate", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to do the same thing for someone in return for what they have done for you",
-    "exchanges": [ { "uid": "s06_e13_c08_u017", "answer": "reciprocate",
-      "options": ["reciprocate", "procrastinate", "eliminate", "hibernate"] } ] },
+{
+  "expression": "reciprocate",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to do the same thing for someone in return for what they have done for you",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c08_u017",
+      "answer": "reciprocate",
+      "options": [
+        "reciprocate",
+        "procrastinate",
+        "eliminate",
+        "hibernate"
+      ]
+    }
+  ]
+},
 
-  { "expression": "struck down", "type": "colloquial", "level": "expert", "pos": "verb",
-    "meaning": "suddenly made seriously ill or killed by a disease",
-    "exchanges": [ { "uid": "s06_e13_c09_u003", "answer": "Struck down",
-      "options": ["Struck down", "Brought up", "Handed down", "Turned away"] } ] }
+{
+  "expression": "struck down",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "suddenly made seriously ill or killed by a disease",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c09_u003",
+      "answer": "Struck down",
+      "options": [
+        "Struck down",
+        "Brought up",
+        "Handed down",
+        "Turned away"
+      ]
+    }
+  ]
+}
 ]

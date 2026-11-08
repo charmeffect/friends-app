@@ -1,125 +1,497 @@
 [
-  { "expression": "look out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "a warning to be careful because something dangerous is coming",
-    "exchanges": [ { "uid": "s01_e09_c08_u012", "answer": "Look out",
-      "options": ["Look out", "Look up", "Look in", "Look on"] } ] },
+{
+  "expression": "look out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a warning to be careful because something dangerous is coming",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c08_u012",
+      "answer": "Look out",
+      "options": [
+        "Look out",
+        "Look up",
+        "Look in",
+        "Look on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "can't wait", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to be very excited about something that is going to happen",
-    "exchanges": [ { "uid": "s01_e09_c11_u011", "answer": "can't wait",
-      "options": ["can't wait", "won't stop", "don't need", "can't help"] } ] },
+{
+  "expression": "can't wait",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be very excited about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c11_u011",
+      "answer": "can't wait",
+      "options": [
+        "can't wait",
+        "won't stop",
+        "don't need",
+        "can't help"
+      ]
+    }
+  ]
+},
 
-  { "expression": "make a wish", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to silently ask for something you hope will come true, as a tradition",
-    "exchanges": [ { "uid": "s01_e09_c12_u048", "answer": "make a wish",
-      "cueUid": "s01_e09_c12_u046", "responseUid": "s01_e09_c12_u050",
-      "options": ["make a wish", "take a bow", "give a hand", "have a seat"] } ] },
+{
+  "expression": "make a wish",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to silently ask for something you hope will come true, as a tradition",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c12_u048",
+      "answer": "make a wish",
+      "cueUid": "s01_e09_c12_u046",
+      "responseUid": "s01_e09_c12_u050",
+      "options": [
+        "make a wish",
+        "take a bow",
+        "give a hand",
+        "have a seat"
+      ]
+    }
+  ]
+},
 
-  { "expression": "sort of", "type": "colloquial", "level": "middle", "pos": "adverb",
-    "meaning": "to some degree; used to make a statement less definite",
-    "exchanges": [ { "uid": "s01_e09_c01_u003", "answer": "sort of",
-      "options": ["sort of", "type of", "part of", "most of"] } ] },
+{
+  "expression": "sort of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some degree; used to make a statement less definite",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c01_u003",
+      "answer": "sort of",
+      "options": [
+        "sort of",
+        "type of",
+        "part of",
+        "most of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "I'm with you", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "I understand and agree with what you are saying",
-    "exchanges": [ { "uid": "s01_e09_c01_u005", "answer": "with you", "responseUid": null,
-      "options": ["with you", "onto you", "after you", "above you"] } ] },
+{
+  "expression": "I'm with you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "I understand and agree with what you are saying",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c01_u005",
+      "answer": "with you",
+      "responseUid": null,
+      "options": [
+        "with you",
+        "onto you",
+        "after you",
+        "above you"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be off to", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "to be leaving now in order to go somewhere",
-    "exchanges": [
-      { "uid": "s01_e09_c02_u044", "answer": "off to",
-        "options": ["off to", "out at", "up for", "in on"] },
-      { "uid": "s01_e09_c08_u019", "answer": "off to", "responseUid": "s01_e09_c08_u022",
-        "options": ["off to", "out at", "up for", "in on"] } ] },
+{
+  "expression": "be off to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be leaving now in order to go somewhere",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c02_u044",
+      "answer": "off to",
+      "options": [
+        "off to",
+        "out at",
+        "up for",
+        "in on"
+      ]
+    },
+    {
+      "uid": "s01_e09_c08_u019",
+      "answer": "off to",
+      "responseUid": "s01_e09_c08_u022",
+      "options": [
+        "off to",
+        "out at",
+        "up for",
+        "in on"
+      ]
+    }
+  ]
+},
 
-  { "expression": "come by", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make a short visit to a place",
-    "exchanges": [ { "uid": "s01_e09_c03_u003", "answer": "came by",
-      "options": ["came by", "went off", "ran out", "got up"] } ] },
+{
+  "expression": "come by",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a short visit to a place",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c03_u003",
+      "answer": "came by",
+      "options": [
+        "came by",
+        "went off",
+        "ran out",
+        "got up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "familiar with", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "knowing about something well enough to recognize it",
-    "exchanges": [ { "uid": "s01_e09_c03_u007", "answer": "familiar with",
-      "options": ["familiar with", "similar to", "capable of", "anxious about"] } ] },
+{
+  "expression": "familiar with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "knowing about something well enough to recognize it",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c03_u007",
+      "answer": "familiar with",
+      "options": [
+        "familiar with",
+        "similar to",
+        "capable of",
+        "anxious about"
+      ]
+    }
+  ]
+},
 
-  { "expression": "not even close", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "very far from the amount or result that was needed",
-    "exchanges": [ { "uid": "s01_e09_c04_u006", "answer": "not even close",
-      "options": ["not even close", "not so fast", "not quite right", "not in time"] } ] },
+{
+  "expression": "not even close",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "very far from the amount or result that was needed",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c04_u006",
+      "answer": "not even close",
+      "options": [
+        "not even close",
+        "not so fast",
+        "not quite right",
+        "not in time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "shoot down", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to make something in the air fall by shooting at it",
-    "exchanges": [ { "uid": "s01_e09_c10_u002", "answer": "shoot him down",
-      "options": ["shoot him down", "take him off", "put him up", "let him in"] } ] },
+{
+  "expression": "shoot down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make something in the air fall by shooting at it",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c10_u002",
+      "answer": "shoot him down",
+      "options": [
+        "shoot him down",
+        "take him off",
+        "put him up",
+        "let him in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "be stuck", "type": "phrase", "level": "middle", "pos": "adjective",
-    "meaning": "unable to leave a place or situation you do not want to be in",
-    "exchanges": [ { "uid": "s01_e09_c12_u026", "answer": "stuck",
-      "options": ["stuck", "struck", "stacked", "stung"] } ] },
+{
+  "expression": "be stuck",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unable to leave a place or situation you do not want to be in",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c12_u026",
+      "answer": "stuck",
+      "options": [
+        "stuck",
+        "struck",
+        "stacked",
+        "stung"
+      ]
+    }
+  ]
+},
 
-  { "expression": "advance", "type": "word", "level": "high", "pos": "noun",
-    "meaning": "money paid to someone before the normal time it is due",
-    "exchanges": [ { "uid": "s01_e09_c01_u001", "answer": "advance", "responseUid": "s01_e09_c01_u003",
-      "options": ["advance", "advantage", "invoice", "receipt"] } ] },
+{
+  "expression": "advance",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "money paid to someone before the normal time it is due",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c01_u001",
+      "answer": "advance",
+      "responseUid": "s01_e09_c01_u003",
+      "options": [
+        "advance",
+        "advantage",
+        "invoice",
+        "receipt"
+      ]
+    }
+  ]
+},
 
-  { "expression": "as of", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "starting from a particular time or date",
-    "exchanges": [ { "uid": "s01_e09_c02_u018", "answer": "As of",
-      "options": ["As of", "Up to", "Out of", "Due to"] } ] },
+{
+  "expression": "as of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "starting from a particular time or date",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c02_u018",
+      "answer": "As of",
+      "options": [
+        "As of",
+        "Up to",
+        "Out of",
+        "Due to"
+      ]
+    }
+  ]
+},
 
-  { "expression": "chip in", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to each give some money so that a group can pay for something together",
-    "exchanges": [ { "uid": "s01_e09_c04_u014", "answer": "chipped in", "responseUid": "s01_e09_c04_u016",
-      "options": ["chipped in", "checked out", "dropped by", "cashed in"] } ] },
+{
+  "expression": "chip in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to each give some money so that a group can pay for something together",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c04_u014",
+      "answer": "chipped in",
+      "responseUid": "s01_e09_c04_u016",
+      "options": [
+        "chipped in",
+        "checked out",
+        "dropped by",
+        "cashed in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what is it with", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used to ask why someone has such a strange attitude toward something",
-    "exchanges": [ { "uid": "s01_e09_c04_u019", "answer": "what is it with",
-      "options": ["what is it with", "how is it for", "why is it to", "where is it at"] } ] },
+{
+  "expression": "what is it with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask why someone has such a strange attitude toward something",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c04_u019",
+      "answer": "what is it with",
+      "options": [
+        "what is it with",
+        "how is it for",
+        "why is it to",
+        "where is it at"
+      ]
+    }
+  ]
+},
 
-  { "expression": "get out", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when you are surprised and do not quite believe a compliment or news",
-    "exchanges": [ { "uid": "s01_e09_c05_u006", "answer": "Get out",
-      "options": ["Get out", "Come in", "Sit down", "Back off"] } ] },
+{
+  "expression": "get out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you are surprised and do not quite believe a compliment or news",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c05_u006",
+      "answer": "Get out",
+      "options": [
+        "Get out",
+        "Come in",
+        "Sit down",
+        "Back off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break free", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to escape from something that was holding you",
-    "exchanges": [ { "uid": "s01_e09_c08_u034", "answer": "broke free",
-      "options": ["broke free", "fell short", "ran late", "stood still"] } ] },
+{
+  "expression": "break free",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to escape from something that was holding you",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c08_u034",
+      "answer": "broke free",
+      "options": [
+        "broke free",
+        "fell short",
+        "ran late",
+        "stood still"
+      ]
+    }
+  ]
+},
 
-  { "expression": "let's face it", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "used before admitting an unpleasant truth that cannot be denied",
-    "exchanges": [ { "uid": "s01_e09_c11_u001", "answer": "face it",
-      "options": ["face it", "take it", "make it", "fake it"] } ] },
+{
+  "expression": "let's face it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used before admitting an unpleasant truth that cannot be denied",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c11_u001",
+      "answer": "face it",
+      "options": [
+        "face it",
+        "take it",
+        "make it",
+        "fake it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "by all means", "type": "phrase", "level": "high", "pos": "expression",
-    "meaning": "a polite way of saying yes, please go ahead",
-    "exchanges": [ { "uid": "s01_e09_c12_u043", "answer": "By all means",
-      "options": ["By all means", "At all costs", "In all ways", "For all time"] } ] },
+{
+  "expression": "by all means",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a polite way of saying yes, please go ahead",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c12_u043",
+      "answer": "By all means",
+      "options": [
+        "By all means",
+        "At all costs",
+        "In all ways",
+        "For all time"
+      ]
+    }
+  ]
+},
 
-  { "expression": "vividly", "type": "word", "level": "college", "pos": "adverb",
-    "meaning": "in a way that is very clear and detailed in the mind",
-    "exchanges": [ { "uid": "s01_e09_c04_u022", "answer": "vividly",
-      "options": ["vividly", "promptly", "firmly", "loudly"] } ] },
+{
+  "expression": "vividly",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "in a way that is very clear and detailed in the mind",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c04_u022",
+      "answer": "vividly",
+      "options": [
+        "vividly",
+        "promptly",
+        "firmly",
+        "loudly"
+      ]
+    }
+  ]
+},
 
-  { "expression": "mope", "type": "word", "level": "college", "pos": "verb",
-    "meaning": "to be quietly unhappy and feel sorry for yourself without doing anything",
-    "exchanges": [ { "uid": "s01_e09_c08_u003", "answer": "moping",
-      "options": ["moping", "mopping", "hoping", "mocking"] } ] },
+{
+  "expression": "mope",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be quietly unhappy and feel sorry for yourself without doing anything",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c08_u003",
+      "answer": "moping",
+      "options": [
+        "moping",
+        "mopping",
+        "hoping",
+        "mocking"
+      ]
+    }
+  ]
+},
 
-  { "expression": "do the math", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "work out the obvious conclusion from the facts yourself",
-    "exchanges": [ { "uid": "s01_e09_c12_u003", "answer": "do the math",
-      "options": ["do the math", "make the call", "take the hint", "pay the price"] } ] },
+{
+  "expression": "do the math",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "work out the obvious conclusion from the facts yourself",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c12_u003",
+      "answer": "do the math",
+      "options": [
+        "do the math",
+        "make the call",
+        "take the hint",
+        "pay the price"
+      ]
+    }
+  ]
+},
 
-  { "expression": "bust one's ass", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to work extremely hard at something (vulgar slang)",
-    "exchanges": [ { "uid": "s01_e09_c12_u028", "answer": "busting my ass",
-      "options": ["busting my ass", "biting my tongue", "losing my mind", "holding my breath"] } ] },
+{
+  "expression": "bust one's ass",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to work extremely hard at something (vulgar slang)",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c12_u028",
+      "answer": "busting my ass",
+      "options": [
+        "busting my ass",
+        "biting my tongue",
+        "losing my mind",
+        "holding my breath"
+      ]
+    }
+  ]
+},
 
-  { "expression": "merriment", "type": "word", "level": "expert", "pos": "noun",
-    "meaning": "cheerful fun and laughter, especially at a celebration",
-    "exchanges": [ { "uid": "s01_e09_c08_u010", "answer": "merriment",
-      "options": ["merriment", "sentiment", "ornament", "parliament"] } ] }
+{
+  "expression": "merriment",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "cheerful fun and laughter, especially at a celebration",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c08_u010",
+      "answer": "merriment",
+      "options": [
+        "merriment",
+        "sentiment",
+        "ornament",
+        "parliament"
+      ]
+    }
+  ]
+}
 ]

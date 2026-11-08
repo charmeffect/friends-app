@@ -489,7 +489,7 @@
 {
   "expression": "dive",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "a cheap, shabby bar or restaurant",
   "exchanges": [
@@ -509,7 +509,7 @@
 {
   "expression": "euphemism",
   "type": "word",
-  "level": "expert",
+  "level": "college",
   "pos": "noun",
   "meaning": "a mild or indirect word used instead of one that is too blunt or embarrassing",
   "exchanges": [
