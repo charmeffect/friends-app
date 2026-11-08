@@ -27,6 +27,12 @@ const LEVELS = ['elementary', 'middle', 'high', 'college', 'expert'];
 const MAX_EXCHANGES = 4;
 const CHECK_ONLY = process.argv.includes('--check'); // validate without writing files
 
+// "Rachel Green" -> "Rachel"; keep titles/articles with the next word ("The Dealer", "Dr. Green", "Mrs. Geller")
+function shortName(full) {
+  const w = full.trim().split(/\s+/);
+  if (w.length > 1 && /^(the|a|an|dr\.?|mr\.?|mrs\.?|ms\.?|miss|aunt|uncle|grandma|grandpa|old|young|little|big)$/i.test(w[0])) return w[0] + ' ' + w[1];
+  return w[0];
+}
 const errors = [];
 const err = (f, msg) => errors.push(`${f}: ${msg}`);
 
@@ -43,7 +49,7 @@ function loadSeason(ss) {
     us.forEach((u, i) => {
       index[u.utterance_id] = {
         text: u.transcript.trim(),
-        speaker: ((u.speakers || [])[0] || 'Someone').split(' ')[0],
+        speaker: shortName((u.speakers || [])[0] || 'Someone'),
         prev: i > 0 ? us[i - 1].utterance_id : null,
         next: i < us.length - 1 ? us[i + 1].utterance_id : null,
       };
