@@ -1,0 +1,126 @@
+[
+  { "expression": "do someone a favor", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to do something helpful for someone because they ask you to",
+    "exchanges": [ { "uid": "s05_e23_c01_u009", "answer": "do me a favor",
+      "options": ["do me a favor", "make me a deal", "pay me a visit", "take me a trip"] } ] },
+
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s05_e23_c02_u005", "answer": "ran into",
+      "options": ["ran into", "took after", "called off", "put up"] } ] },
+
+  { "expression": "don't worry about it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to tell someone that something is not a problem",
+    "exchanges": [ { "uid": "s05_e23_c03_u014", "answer": "Don't worry about it",
+      "options": ["Don't worry about it", "Don't count on it", "Don't bet on it", "Don't hold your breath"] } ] },
+
+  { "expression": "be right back", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to return very soon",
+    "exchanges": [ { "uid": "s05_e23_c03_u006", "answer": "be right back",
+      "options": ["be right back", "be well off", "be fed up", "be dead on"] } ] },
+
+  { "expression": "put someone on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to hand the phone to someone so that they can speak",
+    "exchanges": [ { "uid": "s05_e23_c01_u026", "answer": "put him on",
+      "options": ["put him on", "let him in", "hold him up", "turn him down"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s05_e23_c02_u011", "answer": "ended up",
+      "options": ["ended up", "took off", "showed up", "made out"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s05_e23_c02_u017", "answer": "freak him out",
+      "options": ["freak him out", "cheer him up", "calm him down", "let him off"] } ] },
+
+  { "expression": "spoil", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to ruin something or make it much worse",
+    "exchanges": [ { "uid": "s05_e23_c03_u021", "answer": "spoil",
+      "options": ["spoil", "attend", "announce", "rehearse"] } ] },
+
+  { "expression": "alone time", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "time that you spend by yourself, away from other people",
+    "exchanges": [ { "uid": "s05_e23_c02_u068", "answer": "alone time", "responseUid": null,
+      "options": ["alone time", "prime time", "overtime", "daytime"] } ] },
+
+  { "expression": "grab a bite", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to have a quick, simple meal",
+    "exchanges": [ { "uid": "s05_e23_c03_u024", "answer": "grabbed a bite",
+      "options": ["grabbed a bite", "caught a cold", "took a nap", "missed a call"] } ] },
+
+  { "expression": "run out of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to use up all of something so that none is left",
+    "exchanges": [ { "uid": "s05_e23_c06_u015", "answer": "ran out of",
+      "options": ["ran out of", "came up with", "got rid of", "made fun of"] } ] },
+
+  { "expression": "apparently", "type": "word", "level": "middle", "pos": "adverb",
+    "meaning": "according to what you have heard or read, although it may not be true",
+    "exchanges": [ { "uid": "s05_e23_c06_u018", "answer": "apparently",
+      "options": ["apparently", "barely", "rarely", "gently"] } ] },
+
+  { "expression": "is that so", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to question, often doubtfully, what someone has just claimed",
+    "exchanges": [ { "uid": "s05_e23_c07_u011", "answer": "Is that so",
+      "options": ["Is that so", "Is that it", "What's up", "Who's there"] } ] },
+
+  { "expression": "stunt double", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "a person who replaces an actor in dangerous scenes of a film",
+    "exchanges": [ { "uid": "s05_e23_c01_u023", "answer": "stunt double",
+      "options": ["stunt double", "lucky charm", "bad habit", "pet peeve"] } ] },
+
+  { "expression": "be over it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to no longer be upset or bothered about something",
+    "exchanges": [ { "uid": "s05_e23_c01_u039", "answer": "over it",
+      "options": ["over it", "into it", "up to it", "onto it"] } ] },
+
+  { "expression": "ditch", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to leave someone behind on purpose so you can get away from them",
+    "exchanges": [ { "uid": "s05_e23_c02_u047", "answer": "ditch", "responseUid": null,
+      "options": ["ditch", "snore", "faint", "sneeze"] } ] },
+
+  { "expression": "fake out", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a trick that makes someone believe something false for a moment",
+    "exchanges": [ { "uid": "s05_e23_c03_u012", "answer": "fake out", "responseUid": null,
+      "options": ["fake out", "sell out", "time out", "hand out"] } ] },
+
+  { "expression": "ground rules", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "basic rules agreed on before an activity about how people should behave",
+    "exchanges": [ { "uid": "s05_e23_c05_u006", "answer": "ground rules",
+      "options": ["ground rules", "bedtime stories", "dirty jokes", "fun facts"] } ] },
+
+  { "expression": "think through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to consider something carefully before deciding",
+    "exchanges": [ { "uid": "s05_e23_c08_u012", "answer": "thought this through",
+      "options": ["thought this through", "made this up", "turned this down", "handed this in"] } ] },
+
+  { "expression": "put a price on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to say how much something is worth in money",
+    "exchanges": [ { "uid": "s05_e23_c11_u019", "answer": "put a price on",
+      "options": ["put a price on", "keep an eye on", "get a grip on", "cast a spell on"] } ] },
+
+  { "expression": "entice", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to try to attract or tempt someone by offering something pleasant",
+    "exchanges": [ { "uid": "s05_e23_c05_u010", "answer": "entice",
+      "options": ["entice", "evict", "acquit", "deport"] } ] },
+
+  { "expression": "hunky", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "physically attractive in a strong, masculine way",
+    "exchanges": [ { "uid": "s05_e23_c06_u027", "answer": "hunky",
+      "options": ["hunky", "grumpy", "skinny", "nerdy"] } ] },
+
+  { "expression": "setback", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a problem that delays or reverses progress",
+    "exchanges": [ { "uid": "s05_e23_c09_u005", "answer": "setback",
+      "options": ["setback", "shortcut", "handout", "makeover"] } ] },
+
+  { "expression": "hit me", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "in blackjack, a request to the dealer for another card",
+    "exchanges": [ { "uid": "s05_e23_c11_u006", "answer": "Hit me",
+      "options": ["Hit me", "Kiss me", "Wake me", "Pinch me"] } ] },
+
+  { "expression": "double or nothing", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "a bet in which you either double what you have won or lose it all",
+    "exchanges": [ { "uid": "s05_e23_c09_u012", "answer": "Double or nothin'",
+      "options": ["Double or nothin'", "Now or never", "All or none", "Rain or shine"] } ] }
+]

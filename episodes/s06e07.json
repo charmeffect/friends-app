@@ -1,0 +1,126 @@
+[
+  { "expression": "meet your match", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to finally face someone who is as good or clever as you are",
+    "exchanges": [ { "uid": "s06_e07_c01_u038", "answer": "met your match",
+      "options": ["met your match", "missed your bus", "paid your dues", "made your bed"] } ] },
+
+  { "expression": "carry out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to perform or complete a task or function",
+    "exchanges": [ { "uid": "s06_e07_c02_u002", "answer": "carry out",
+      "options": ["carry out", "give up", "show off", "run into"] } ] },
+
+  { "expression": "theoretically", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "in a way that is possible in theory but not yet proven in practice",
+    "exchanges": [ { "uid": "s06_e07_c15_u002", "answer": "theoretically",
+      "options": ["theoretically", "reluctantly", "accidentally", "nervously"] } ] },
+
+  { "expression": "move in", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to start living in a new home",
+    "exchanges": [ { "uid": "s06_e07_c02_u031", "answer": "move in",
+      "options": ["move in", "give in", "drop out", "back off"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s06_e07_c02_u036", "answer": "ask her out", "responseUid": "s06_e07_c02_u038",
+      "options": ["ask her out", "wear her out", "put her off", "turn her down"] } ] },
+
+  { "expression": "bump into", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s06_e07_c02_u039", "answer": "bumped into", "responseUid": "s06_e07_c02_u041",
+      "options": ["bumped into", "called off", "turned down", "stood by"] } ] },
+
+  { "expression": "close quarters", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a small space where people live or work very near each other",
+    "exchanges": [ { "uid": "s06_e07_c02_u045", "answer": "close quarters",
+      "options": ["close quarters", "great detail", "short supply", "plain sight"] } ] },
+
+  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have a strong, often secret, romantic attraction to someone",
+    "exchanges": [ { "uid": "s06_e07_c04_u003", "answer": "crush",
+      "options": ["crush", "grudge", "fight", "debt"] } ] },
+
+  { "expression": "get out of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to avoid doing something you are supposed to do",
+    "exchanges": [ { "uid": "s06_e07_c04_u008", "answer": "get out of",
+      "options": ["get out of", "run out of", "come up with", "look out for"] } ] },
+
+  { "expression": "be straight with", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to be honest and direct with someone",
+    "exchanges": [ { "uid": "s06_e07_c04_u009", "answer": "straight",
+      "options": ["straight", "bored", "cross", "rude"] } ] },
+
+  { "expression": "spotless", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "completely clean",
+    "exchanges": [ { "uid": "s06_e07_c05_u006", "answer": "spotless",
+      "options": ["spotless", "crowded", "haunted", "noisy"] } ] },
+
+  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remove or sell something you no longer want",
+    "exchanges": [ { "uid": "s06_e07_c05_u009", "answer": "get rid of",
+      "options": ["get rid of", "take part in", "run out of", "catch up on"] } ] },
+
+  { "expression": "catch up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to reach someone who is ahead of you",
+    "exchanges": [ { "uid": "s06_e07_c03_u002", "answer": "catch up", "responseUid": "s06_e07_c03_u004",
+      "options": ["catch up", "give up", "break up", "back off"] } ] },
+
+  { "expression": "sneak out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a place quietly and secretly so that nobody notices",
+    "exchanges": [ { "uid": "s06_e07_c07_u002", "answer": "sneak out",
+      "options": ["sneak out", "show off", "break down", "settle in"] } ] },
+
+  { "expression": "hit the shower", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to go and take a shower",
+    "exchanges": [ { "uid": "s06_e07_c06_u008", "answer": "hit the shower",
+      "options": ["hit the shower", "miss the bus", "break the ice", "pay the bill"] } ] },
+
+  { "expression": "get through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to help someone survive a difficult period",
+    "exchanges": [ { "uid": "s06_e07_c08_u020", "answer": "getting me through",
+      "options": ["getting me through", "putting me off", "letting me down", "taking me in"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s06_e07_c08_u022", "answer": "hanging out",
+      "options": ["hanging out", "giving up", "putting off", "checking in"] } ] },
+
+  { "expression": "repel", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to make someone not want to be near you",
+    "exchanges": [ { "uid": "s06_e07_c09_u013", "answer": "repel",
+      "options": ["repel", "adopt", "inspire", "admire"] } ] },
+
+  { "expression": "rapport", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a friendly connection in which two people understand each other well",
+    "exchanges": [ { "uid": "s06_e07_c09_u012", "answer": "rapport",
+      "options": ["rapport", "recipe", "routine", "rumor"] } ] },
+
+  { "expression": "like a moth to a flame", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "strongly and helplessly attracted to someone or something",
+    "exchanges": [ { "uid": "s06_e07_c09_u009", "answer": "moth",
+      "options": ["moth", "horse", "fish", "duck"] } ] },
+
+  { "expression": "uptight", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "anxious, tense, and unable to relax",
+    "exchanges": [ { "uid": "s06_e07_c10_u015", "answer": "uptight", "responseUid": "s06_e07_c10_u017",
+      "options": ["uptight", "generous", "sleepy", "honest"] } ] },
+
+  { "expression": "out in the open", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "no longer secret and known to everyone",
+    "exchanges": [ { "uid": "s06_e07_c12_u007", "answer": "out in the open",
+      "options": ["out in the open", "up in the air", "off the hook", "on the rocks"] } ] },
+
+  { "expression": "don't get me started", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to warn that you have strong opinions on a topic and could talk about it for a long time",
+    "exchanges": [ { "uid": "s06_e07_c14_u007", "answer": "get me started",
+      "options": ["get me started", "let me down", "bring me back", "cheer me up"] } ] },
+
+  { "expression": "first things first", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to show that the most important matter must be dealt with before anything else",
+    "exchanges": [ { "uid": "s06_e07_c14_u015", "answer": "First thing's first",
+      "options": ["First thing's first", "Practice makes perfect", "Time flies", "Last but not least"] } ] },
+
+  { "expression": "squared away", "type": "colloquial", "level": "expert", "pos": "adjective",
+    "meaning": "properly arranged, sorted out, and in order",
+    "exchanges": [ { "uid": "s06_e07_c11_u015", "answer": "squared away",
+      "options": ["squared away", "stressed out", "dressed up", "shut down"] } ] }
+]

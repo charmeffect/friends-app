@@ -1,0 +1,126 @@
+[
+  { "expression": "move out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to leave the place where you live and go to live somewhere else",
+    "exchanges": [ { "uid": "s06_e06_c01_u002", "answer": "moving out",
+      "options": ["moving out", "settling in", "showing up", "staying in"] } ] },
+
+  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop having something, often as a sacrifice",
+    "exchanges": [ { "uid": "s06_e06_c02_u002", "answer": "give up",
+      "options": ["give up", "show off", "look over", "run into"] } ] },
+
+  { "expression": "trick someone into", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make someone do something by deceiving them",
+    "exchanges": [ { "uid": "s06_e06_c02_u005", "answer": "trick him into",
+      "options": ["trick him into", "warn him against", "stop him from", "keep him from"] } ] },
+
+  { "expression": "dress up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to put on a costume or special clothes",
+    "exchanges": [ { "uid": "s06_e06_c02_u006", "answer": "dress up",
+      "options": ["dress up", "calm down", "hold on", "back off"] } ] },
+
+  { "expression": "move in with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start living in the same home as someone",
+    "exchanges": [ { "uid": "s06_e06_c02_u009", "answer": "move in with",
+      "options": ["move in with", "break up with", "put up with", "run away from"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s06_e06_c02_u021", "answer": "hanging out",
+      "options": ["hanging out", "dropping by", "giving in", "checking out"] } ] },
+
+  { "expression": "lousy", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very bad or unwell",
+    "exchanges": [ { "uid": "s06_e06_c02_u038", "answer": "lousy",
+      "options": ["lousy", "eager", "famous", "gifted"] } ] },
+
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to assist someone with work or a task",
+    "exchanges": [ { "uid": "s06_e06_c02_u043", "answer": "help out",
+      "options": ["help out", "get lost", "back off", "sleep in"] } ] },
+
+  { "expression": "you're on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to accept a challenge or a bet",
+    "exchanges": [ { "uid": "s06_e06_c03_u009", "answer": "you're on",
+      "options": ["you're on", "you're out", "I'm off", "it's over"] } ] },
+
+  { "expression": "sudden death", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "an extra round of a game in which the first player to score wins",
+    "exchanges": [ { "uid": "s06_e06_c05_u003", "answer": "Sudden death",
+      "options": ["Sudden death", "Small change", "Fresh start", "Last call"] } ] },
+
+  { "expression": "score", "type": "word", "level": "expert", "pos": "expression",
+    "meaning": "said to celebrate a lucky result or a success, here used sarcastically",
+    "exchanges": [ { "uid": "s06_e06_c06_u003", "answer": "Score",
+      "options": ["Score", "Ouch", "Oops", "Yikes"] } ] },
+
+  { "expression": "get a move on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to hurry up",
+    "exchanges": [ { "uid": "s06_e06_c07_u010", "answer": "get a move on", "responseUid": null,
+      "options": ["get a move on", "take a step back", "make a scene", "call it a day"] } ] },
+
+  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad or disappointing",
+    "exchanges": [ { "uid": "s06_e06_c08_u003", "answer": "sucks",
+      "options": ["sucks", "rocks", "counts", "works"] } ] },
+
+  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to laugh at or joke about someone in an unkind way",
+    "exchanges": [ { "uid": "s06_e06_c09_u004", "answer": "made fun of",
+      "options": ["made fun of", "took care of", "made use of", "made sense of"] } ] },
+
+  { "expression": "take it hard", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to be very upset or hurt by something",
+    "exchanges": [ { "uid": "s06_e06_c09_u005", "answer": "took it hard",
+      "options": ["took it hard", "made it up", "kept it down", "got it right"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s06_e06_c11_u006", "answer": "end up",
+      "options": ["end up", "show up", "give up", "catch up"] } ] },
+
+  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "giving encouragement and help to someone",
+    "exchanges": [ { "uid": "s06_e06_c11_u021", "answer": "supportive",
+      "options": ["supportive", "jealous", "furious", "careless"] } ] },
+
+  { "expression": "be set on", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to be firmly determined to do something",
+    "exchanges": [ { "uid": "s06_e06_c11_u025", "answer": "set on",
+      "options": ["set on", "fed up", "sick of", "afraid of"] } ] },
+
+  { "expression": "pawn", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to leave something valuable at a shop in exchange for a loan of money",
+    "exchanges": [ { "uid": "s06_e06_c12_u010", "answer": "pawn",
+      "options": ["pawn", "paint", "wrap", "clean"] } ] },
+
+  { "expression": "beginner's luck", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "unexpected success that someone has when they first try something",
+    "exchanges": [ { "uid": "s06_e06_c12_u008", "answer": "beginner's luck",
+      "options": ["beginner's luck", "team spirit", "bad timing", "peer pressure"] } ] },
+
+  { "expression": "gesture", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "an action done to show your feelings, such as kindness or thanks",
+    "exchanges": [ { "uid": "s06_e06_c12_u013", "answer": "gesture",
+      "options": ["gesture", "excuse", "mistake", "complaint"] } ] },
+
+  { "expression": "out of the blue", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "suddenly and without any warning",
+    "exchanges": [ { "uid": "s06_e06_c12_u016", "answer": "out of the blue",
+      "options": ["out of the blue", "once in a while", "on the house", "in the long run"] } ] },
+
+  { "expression": "take someone for", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to wrongly believe that someone is a particular kind of person",
+    "exchanges": [ { "uid": "s06_e06_c14_u005", "answer": "take me for",
+      "options": ["take me for", "make me into", "let me in", "give me up"] } ] },
+
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s06_e06_c14_u006", "answer": "made it up",
+      "options": ["made it up", "gave it up", "took it in", "put it off"] } ] },
+
+  { "expression": "fair and square", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "honestly and completely according to the rules",
+    "exchanges": [ { "uid": "s06_e06_c14_u007", "answer": "fair and square",
+      "options": ["fair and square", "safe and sound", "sick and tired", "rough and ready"] } ] }
+]

@@ -1,0 +1,126 @@
+[
+  { "expression": "just kidding", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show that what you just said or did was a joke",
+    "exchanges": [ { "uid": "s06_e04_c01_u033", "answer": "Just kidding", "cueUid": "s06_e04_c01_u031",
+      "options": ["Just kidding", "Just asking", "Just looking", "Just checking"] } ] },
+
+  { "expression": "on one's own", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "without help from anyone else; independently",
+    "exchanges": [ { "uid": "s06_e04_c02_u040", "answer": "on my own",
+      "options": ["on my own", "in my way", "by my side", "at my best"] } ] },
+
+  { "expression": "take a message", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to write down what a caller wants to say to someone who is not there",
+    "exchanges": [ { "uid": "s06_e04_c16_u004", "answer": "take a message",
+      "options": ["take a message", "make a call", "send a letter", "give a sign"] } ] },
+
+  { "expression": "nice try", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said when someone's attempt or excuse has failed, often mockingly",
+    "exchanges": [ { "uid": "s06_e04_c04_u016", "answer": "Nice try",
+      "options": ["Nice try", "Good luck", "No problem", "Fair enough"] } ] },
+
+  { "expression": "suck", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad or disappointing",
+    "exchanges": [ { "uid": "s06_e04_c03_u011", "answer": "sucks", "cueUid": "s06_e04_c03_u008",
+      "options": ["sucks", "rocks", "works", "counts"] } ] },
+
+  { "expression": "lift weights", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to exercise by raising heavy weights to build muscle",
+    "exchanges": [ { "uid": "s06_e04_c06_u007", "answer": "lifting weights",
+      "options": ["lifting weights", "folding laundry", "watching movies", "playing cards"] } ] },
+
+  { "expression": "in no time", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "very quickly or very soon",
+    "exchanges": [ { "uid": "s06_e04_c06_u003", "answer": "in no time",
+      "options": ["in no time", "at no point", "on no account", "by no means"] } ] },
+
+  { "expression": "sneak in", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to enter a place quietly and secretly so that nobody notices",
+    "exchanges": [ { "uid": "s06_e04_c07_u003", "answer": "sneak in",
+      "options": ["sneak in", "break in", "drop off", "check out"] } ] },
+
+  { "expression": "loan", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to lend something to someone for a period of time",
+    "exchanges": [ { "uid": "s06_e04_c09_u004", "answer": "loan",
+      "options": ["loan", "owe", "borrow", "charge"] } ] },
+
+  { "expression": "outta here", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "spoken form of 'out of here': leaving now",
+    "exchanges": [ { "uid": "s06_e04_c09_u015", "answer": "outta here",
+      "options": ["outta here", "into this", "over there", "up to it"] } ] },
+
+  { "expression": "exhausting", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "making you feel extremely tired",
+    "exchanges": [ { "uid": "s06_e04_c04_u004", "answer": "exhausting",
+      "options": ["exhausting", "amusing", "relaxing", "rewarding"] } ] },
+
+  { "expression": "saved by the bell", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when an interruption rescues you from a difficult or embarrassing situation",
+    "exchanges": [ { "uid": "s06_e04_c01_u017", "answer": "saved by the bell",
+      "options": ["saved by the bell", "caught in the act", "lost in the crowd", "stuck in the middle"] } ] },
+
+  { "expression": "add up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make sense or seem consistent and believable",
+    "exchanges": [ { "uid": "s06_e04_c01_u015", "answer": "adds up",
+      "options": ["adds up", "sets in", "wears off", "holds back"] } ] },
+
+  { "expression": "bummed", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "disappointed and unhappy",
+    "exchanges": [ { "uid": "s06_e04_c02_u008", "answer": "bummed",
+      "options": ["bummed", "pumped", "psyched", "stoked"] } ] },
+
+  { "expression": "kick in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to start to take effect or happen",
+    "exchanges": [ { "uid": "s06_e04_c09_u005", "answer": "kicks in",
+      "options": ["kicks in", "runs out", "falls through", "wears off"] } ] },
+
+  { "expression": "haunt", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to appear to people as a ghost after you have died",
+    "exchanges": [ { "uid": "s06_e04_c09_u017", "answer": "haunt",
+      "options": ["haunt", "hunt", "heal", "hire"] } ] },
+
+  { "expression": "screw up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to ruin something by making a bad mistake",
+    "exchanges": [ { "uid": "s06_e04_c17_u004", "answer": "screwed up",
+      "options": ["screwed up", "showed up", "gave up", "made up"] } ] },
+
+  { "expression": "better him than me", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when you are glad that something bad happened to someone else and not to you",
+    "exchanges": [ { "uid": "s06_e04_c14_u012", "answer": "better her than me",
+      "options": ["better her than me", "sooner or later", "more or less", "now or never"] } ] },
+
+  { "expression": "scare the hell out of", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to frighten someone very badly",
+    "exchanges": [ { "uid": "s06_e04_c04_u007", "answer": "scared the hell",
+      "options": ["scared the hell", "kicked the dirt", "shook the dust", "wiped the smile"] } ] },
+
+  { "expression": "damage control", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "action taken to limit the harm after something has gone wrong",
+    "exchanges": [ { "uid": "s06_e04_c05_u009", "answer": "damage control",
+      "options": ["damage control", "quality control", "birth control", "crowd control"] } ] },
+
+  { "expression": "bad-mouth", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to say unkind or critical things about someone behind their back",
+    "exchanges": [ { "uid": "s06_e04_c05_u011", "answer": "bad mouthing",
+      "options": ["bad mouthing", "sweet talking", "name dropping", "back pedaling"] } ] },
+
+  { "expression": "hang over someone's head", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to be a worry or obligation that stays on your mind until it is dealt with",
+    "exchanges": [ { "uid": "s06_e04_c09_u005", "answer": "hanging over my head",
+      "options": ["hanging over my head", "falling into my lap", "going to my head", "slipping through my fingers"] } ] },
+
+  { "expression": "phase out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to gradually remove someone or something until they are gone completely",
+    "exchanges": [ { "uid": "s06_e04_c10_u012", "answer": "phase it out",
+      "options": ["phase it out", "hand it in", "pass it on", "check it out"] } ] },
+
+  { "expression": "hold the phone", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "wait a moment, used jokingly when you have just noticed something surprising",
+    "exchanges": [ { "uid": "s06_e04_c02_u031", "answer": "hold the phone",
+      "options": ["hold the phone", "break the ice", "hit the road", "call the shots"] } ] },
+
+  { "expression": "no harm, no foul", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "said to mean that since nothing bad really happened, nobody needs to be blamed",
+    "exchanges": [ { "uid": "s06_e04_c05_u007", "answer": "no harm, no foul",
+      "options": ["no harm, no foul", "no pain, no gain", "like father, like son", "the more, the merrier"] } ] }
+]

@@ -1,0 +1,129 @@
+[
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [
+      { "uid": "s06_e05_c04_u002", "answer": "freak out",
+        "options": ["freak out", "back off", "show off", "drop in"] },
+      { "uid": "s06_e05_c11_u017", "answer": "freak out",
+        "options": ["freak out", "back off", "show off", "drop in"] } ] },
+
+  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to look after someone who needs help",
+    "exchanges": [ { "uid": "s06_e05_c11_u006", "answer": "took care of",
+      "options": ["took care of", "took part in", "made fun of", "ran out of"] } ] },
+
+  { "expression": "change your mind", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to decide something different from what you decided before",
+    "exchanges": [ { "uid": "s06_e05_c07_u016", "answer": "change your mind",
+      "options": ["change your mind", "make your day", "lose your temper", "pay your way"] } ] },
+
+  { "expression": "annulment", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "an official declaration that a marriage was never legally valid",
+    "exchanges": [ { "uid": "s06_e05_c08_u002", "answer": "annulment",
+      "options": ["annulment", "appointment", "allowance", "assignment"] } ] },
+
+  { "expression": "iffy", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "unsure or doubtful about whether something is a good idea",
+    "exchanges": [ { "uid": "s06_e05_c02_u018", "answer": "iffy",
+      "options": ["iffy", "bossy", "nosy", "needy"] } ] },
+
+  { "expression": "jump in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to join a conversation or situation suddenly and eagerly",
+    "exchanges": [ { "uid": "s06_e05_c01_u010", "answer": "jump in",
+      "options": ["jump in", "back out", "hold off", "give up"] } ] },
+
+  { "expression": "lost and found", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "a place where lost items are kept until their owners come to collect them",
+    "exchanges": [ { "uid": "s06_e05_c02_u006", "cueUid": "s06_e05_c02_u004", "answer": "lost and found",
+      "options": ["lost and found", "odds and ends", "hide and seek", "bed and breakfast"] } ] },
+
+  { "expression": "save up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to keep money so that you can pay for something later",
+    "exchanges": [ { "uid": "s06_e05_c02_u003", "answer": "saved up",
+      "options": ["saved up", "signed up", "made up", "held up"] } ] },
+
+  { "expression": "babysit", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to look after someone's children while the parents are out",
+    "exchanges": [ { "uid": "s06_e05_c09_u014", "answer": "baby-sitting",
+      "options": ["baby-sitting", "sight-seeing", "window-shopping", "trick-or-treating"] } ] },
+
+  { "expression": "on a break", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "temporarily separated from a romantic partner without fully breaking up",
+    "exchanges": [ { "uid": "s06_e05_c04_u023", "answer": "on a break",
+      "options": ["on a break", "on a roll", "on the line", "on the go"] } ] },
+
+  { "expression": "the apple of my eye", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "the person you love and are proudest of",
+    "exchanges": [ { "uid": "s06_e05_c04_u012", "answer": "apple of my eye",
+      "options": ["apple of my eye", "tip of the iceberg", "end of the line", "piece of the pie"] } ] },
+
+  { "expression": "in charge of", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "responsible for and in control of something",
+    "exchanges": [ { "uid": "s06_e05_c05_u010", "cueUid": "s06_e05_c05_u007", "answer": "in charge of",
+      "options": ["in charge of", "in search of", "in need of", "in front of"] } ] },
+
+  { "expression": "rookie", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a person who has just started a job or activity and has little experience",
+    "exchanges": [ { "uid": "s06_e05_c05_u011", "answer": "rookie",
+      "options": ["rookie", "referee", "rebel", "rascal"] } ] },
+
+  { "expression": "top out", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to reach the highest level or speed possible",
+    "exchanges": [ { "uid": "s06_e05_c06_u002", "answer": "tops out",
+      "options": ["tops out", "sells out", "works out", "rules out"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [ { "uid": "s06_e05_c07_u019", "answer": "turns out",
+      "options": ["turns out", "rules out", "sorts out", "figures out"] } ] },
+
+  { "expression": "lodged", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "stuck firmly in a place and difficult to remove",
+    "exchanges": [ { "uid": "s06_e05_c09_u017", "answer": "lodged",
+      "options": ["lodged", "loaded", "lifted", "launched"] } ] },
+
+  { "expression": "rest assured", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "used to tell someone they can be completely certain about something",
+    "exchanges": [ { "uid": "s06_e05_c08_u020", "answer": "rest assured",
+      "options": ["rest assured", "stand corrected", "stay tuned", "think twice"] } ] },
+
+  { "expression": "file for divorce", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to formally ask a court to end a marriage",
+    "exchanges": [ { "uid": "s06_e05_c08_u023", "answer": "file for divorce",
+      "options": ["file for divorce", "ask for mercy", "pay for damages", "run for office"] } ] },
+
+  { "expression": "consummate", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to make a relationship complete by having sex for the first time",
+    "exchanges": [ { "uid": "s06_e05_c08_u017", "answer": "consummated",
+      "options": ["consummated", "contemplated", "consolidated", "compensated"] } ] },
+
+  { "expression": "in character", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "behaving as the role you are playing rather than as yourself",
+    "exchanges": [ { "uid": "s06_e05_c09_u011", "answer": "in character",
+      "options": ["in character", "in season", "in public", "in charge"] } ] },
+
+  { "expression": "make up for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to compensate for something that was missed or done badly",
+    "exchanges": [ { "uid": "s06_e05_c12_u004", "answer": "makes up for",
+      "options": ["makes up for", "looks up to", "puts up with", "comes up with"] } ] },
+
+  { "expression": "don't push it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "don't go too far or try to get more than you have already been given",
+    "exchanges": [ { "uid": "s06_e05_c12_u024", "answer": "don't push it",
+      "options": ["don't push it", "don't drop it", "don't miss it", "don't spill it"] } ] },
+
+  { "expression": "on the house", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "free, paid for by the business rather than the customer",
+    "exchanges": [ { "uid": "s06_e05_c12_u028", "answer": "on the house",
+      "options": ["on the house", "on the rocks", "on the road", "on the line"] } ] },
+
+  { "expression": "tuck in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make someone comfortable in bed by covering them with blankets",
+    "exchanges": [ { "uid": "s06_e05_c13_u006", "answer": "tucked her in",
+      "options": ["tucked her in", "checked her out", "picked her up", "showed her off"] } ] },
+
+  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to vomit",
+    "exchanges": [ { "uid": "s06_e05_c10_u012", "answer": "throw up",
+      "options": ["throw up", "show up", "give up", "break up"] } ] }
+]
