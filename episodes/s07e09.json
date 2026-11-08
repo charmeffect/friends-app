@@ -1,0 +1,126 @@
+[
+  { "expression": "make out with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to kiss and touch someone in a sexual way",
+    "exchanges": [ { "uid": "s07_e09_c02_u014", "answer": "make out with",
+      "options": ["make out with", "fall out with", "come up with", "run out of"] } ] },
+
+  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said sarcastically to show that something is not important",
+    "exchanges": [ { "uid": "s07_e09_c02_u015", "answer": "big deal",
+      "options": ["big deal", "big shot", "big hand", "big mouth"] } ] },
+
+  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to think of an idea or plan",
+    "exchanges": [ { "uid": "s07_e09_c02_u018", "answer": "come up with",
+      "options": ["come up with", "put up with", "catch up with", "keep up with"] } ] },
+
+  { "expression": "get to know", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time with someone so that you learn what they are like",
+    "exchanges": [ { "uid": "s07_e09_c02_u009", "answer": "get to know",
+      "options": ["get to know", "get ahead of", "get back at", "get even with"] } ] },
+
+  { "expression": "in a good mood", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "feeling happy and cheerful",
+    "exchanges": [ { "uid": "s07_e09_c02_u012", "answer": "in a good mood",
+      "options": ["in a good mood", "in a bad way", "in the dark", "in a tight spot"] } ] },
+
+  { "expression": "hand in", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to give a piece of work or a document to the person who is responsible for collecting it",
+    "exchanges": [ { "uid": "s07_e09_c03_u008", "answer": "hand in",
+      "options": ["hand in", "pass up", "take off", "hold back"] } ] },
+
+  { "expression": "swing by", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make a quick, casual visit to a place",
+    "exchanges": [ { "uid": "s07_e09_c05_u014", "answer": "swing by",
+      "options": ["swing by", "swing out", "hang up", "sign off"] } ] },
+
+  { "expression": "first thing", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "very early, before doing anything else",
+    "exchanges": [ { "uid": "s07_e09_c05_u013", "answer": "first thing",
+      "options": ["first thing", "last thing", "one thing", "next thing"] } ] },
+
+  { "expression": "take initiative", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to act on your own judgment and start doing things without being told to",
+    "exchanges": [ { "uid": "s07_e09_c06_u010", "answer": "take initiative",
+      "options": ["take initiative", "take offense", "take cover", "take sides"] } ] },
+
+  { "expression": "come in handy", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to turn out to be useful at some point",
+    "exchanges": [ { "uid": "s07_e09_c08_u013", "answer": "came in handy",
+      "options": ["came in handy", "came in last", "fell in line", "went in debt"] } ] },
+
+  { "expression": "indescribable", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "so good or so extreme that it is impossible to describe in words",
+    "exchanges": [ { "uid": "s07_e09_c08_u019", "answer": "indescribable",
+      "options": ["indescribable", "inedible", "invisible", "inevitable"] } ] },
+
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to assist someone with work or a task",
+    "exchanges": [ { "uid": "s07_e09_c08_u021", "answer": "help me out",
+      "options": ["help me out", "help me up", "hold me back", "let me down"] } ] },
+
+  { "expression": "no kidding", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "really? - used to show surprise at what someone just said",
+    "exchanges": [ { "uid": "s07_e09_c08_u018", "answer": "No kidding",
+      "options": ["No kidding", "No chance", "No problem", "No offense"] } ] },
+
+  { "expression": "get involved with", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to start a romantic or sexual relationship with someone",
+    "exchanges": [ { "uid": "s07_e09_c08_u002", "answer": "get involved with",
+      "options": ["get involved with", "get rid of", "get tired of", "get ahead of"] } ] },
+
+  { "expression": "get out of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to avoid doing something you are supposed to do",
+    "exchanges": [ { "uid": "s07_e09_c09_u004", "answer": "get out of",
+      "options": ["get out of", "get rid of", "get ahead of", "get hold of"] } ] },
+
+  { "expression": "let go of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to stop holding something",
+    "exchanges": [ { "uid": "s07_e09_c10_u009", "answer": "let go of",
+      "options": ["let go of", "got rid of", "took hold of", "ran out of"] } ] },
+
+  { "expression": "legitimate", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "acceptable, reasonable, and properly recognized as valid",
+    "exchanges": [ { "uid": "s07_e09_c09_u030", "answer": "legitimate",
+      "options": ["legitimate", "legendary", "literal", "lethal"] } ] },
+
+  { "expression": "load of crap", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "complete nonsense",
+    "exchanges": [ { "uid": "s07_e09_c10_u018", "answer": "load of crap",
+      "options": ["load of crap", "piece of cake", "cup of tea", "bag of chips"] } ] },
+
+  { "expression": "lure", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to persuade someone to go somewhere by offering them something attractive",
+    "exchanges": [ { "uid": "s07_e09_c11_u004", "answer": "lure",
+      "options": ["lure", "lend", "stare", "tease"] } ] },
+
+  { "expression": "in jeopardy", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "in danger of being harmed or lost",
+    "exchanges": [ { "uid": "s07_e09_c11_u014", "answer": "in jeopardy",
+      "options": ["in jeopardy", "in charge", "in demand", "in order"] } ] },
+
+  { "expression": "sense of humor", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "the ability to understand and enjoy funny things",
+    "exchanges": [ { "uid": "s07_e09_c11_u020", "answer": "sense of humor",
+      "options": ["sense of humor", "matter of fact", "point of view", "piece of work"] } ] },
+
+  { "expression": "pipe down", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to stop talking or making so much noise",
+    "exchanges": [ { "uid": "s07_e09_c12_u012", "answer": "pipe down",
+      "options": ["pipe down", "pipe up", "break down", "turn down"] } ] },
+
+  { "expression": "mob mentality", "type": "phrase", "level": "expert", "pos": "noun",
+    "meaning": "the way people in a crowd copy each other and act without thinking for themselves",
+    "exchanges": [ { "uid": "s07_e09_c12_u023", "answer": "Mob mentality", "responseUid": null,
+      "options": ["Mob mentality", "Peer review", "Team spirit", "Mind reading"] } ] },
+
+  { "expression": "overcome", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to successfully deal with or defeat a problem or fear",
+    "exchanges": [ { "uid": "s07_e09_c13_u003", "answer": "overcame",
+      "options": ["overcame", "overlooked", "overheard", "overslept"] } ] },
+
+  { "expression": "after-school special", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a sentimental TV drama for teenagers that teaches a moral lesson, used to mock something preachy or sappy",
+    "exchanges": [ { "uid": "s07_e09_c13_u004", "answer": "after-school special", "responseUid": null,
+      "options": ["after-school special", "bedtime story", "breaking news", "talk show"] } ] }
+]

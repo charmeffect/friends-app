@@ -1,0 +1,121 @@
+[
+  { "expression": "sweet tooth", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a strong liking for sweet foods such as cake and candy",
+    "exchanges": [ { "uid": "s07_e11_c01_u005", "answer": "sweet tooth",
+      "options": ["sweet tooth", "green thumb", "sore loser", "night owl"] } ] },
+
+  { "expression": "conglomerate", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a very large company made up of many different businesses",
+    "exchanges": [ { "uid": "s07_e11_c01_u012", "answer": "conglomerate",
+      "options": ["conglomerate", "congregation", "constellation", "condominium"] } ] },
+
+  { "expression": "be on for", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to have a plan or date still arranged for a particular time",
+    "exchanges": [ { "uid": "s07_e11_c02_u004", "answer": "on for",
+      "options": ["on for", "off to", "in on", "up to"] } ] },
+
+  { "expression": "get together", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to meet someone socially",
+    "exchanges": [ { "uid": "s07_e11_c02_u009", "answer": "get together",
+      "options": ["get together", "get across", "get ahead", "get over"] } ] },
+
+  { "expression": "duly noted", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to show that you have heard and registered what someone said, often dryly",
+    "exchanges": [ { "uid": "s07_e11_c02_u011", "answer": "Duly noted",
+      "options": ["Duly noted", "Fully booked", "Highly rated", "Newly wed"] } ] },
+
+  { "expression": "inseparable", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "always together because of a very close friendship",
+    "exchanges": [ { "uid": "s07_e11_c02_u017", "answer": "inseparable",
+      "options": ["inseparable", "invisible", "invaluable", "incurable"] } ] },
+
+  { "expression": "get lost in the mail", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to fail to arrive because the post office lost it",
+    "exchanges": [ { "uid": "s07_e11_c02_u019", "answer": "got lost",
+      "options": ["got lost", "got married", "got fired", "got eaten"] } ] },
+
+  { "expression": "can't make it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to be unable to come to a planned meeting or event",
+    "exchanges": [ { "uid": "s07_e11_c03_u005", "answer": "can't make it",
+      "options": ["can't make it", "can't take it", "can't fake it", "can't break it"] } ] },
+
+  { "expression": "kill time", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to do something unimportant while you wait for something else",
+    "exchanges": [ { "uid": "s07_e11_c03_u014", "answer": "kill time",
+      "options": ["kill time", "save time", "tell time", "keep time"] } ] },
+
+  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do something good for someone to compensate for a wrong you did to them",
+    "exchanges": [ { "uid": "s07_e11_c03_u017", "answer": "make it up to",
+      "options": ["make it up to", "take it out on", "put it down to", "give it up for"] } ] },
+
+  { "expression": "wear down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make someone give in by pressuring them persistently",
+    "exchanges": [ { "uid": "s07_e11_c03_u018", "answer": "wore me down",
+      "options": ["wore me down", "cut me off", "set me up", "gave me away"] } ] },
+
+  { "expression": "light-headed", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "feeling dizzy and slightly faint",
+    "exchanges": [ { "uid": "s07_e11_c04_u009", "answer": "light-headed",
+      "options": ["light-headed", "big-hearted", "open-minded", "short-sighted"] } ] },
+
+  { "expression": "drop off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave something at a place while you are on your way somewhere",
+    "exchanges": [ { "uid": "s07_e11_c04_u010", "answer": "drop it off",
+      "options": ["drop it off", "turn it down", "cut it out", "show it off"] } ] },
+
+  { "expression": "make an appearance", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to attend an event briefly, mainly so that people see you were there",
+    "exchanges": [ { "uid": "s07_e11_c05_u012", "answer": "make an appearance",
+      "options": ["make an appearance", "take an interest", "give an answer", "have an argument"] } ] },
+
+  { "expression": "cancel on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to call off a planned meeting with someone, often at short notice",
+    "exchanges": [ { "uid": "s07_e11_c05_u019", "answer": "cancel on",
+      "options": ["cancel on", "believe in", "stare at", "run from"] } ] },
+
+  { "expression": "go bad", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to become spoiled and no longer safe to eat or drink",
+    "exchanges": [ { "uid": "s07_e11_c06_u008", "answer": "gone bad",
+      "options": ["gone bad", "gone blind", "gone broke", "gone deaf"] } ] },
+
+  { "expression": "out of town", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "away from the place where you live, usually on a trip",
+    "exchanges": [ { "uid": "s07_e11_c06_u007", "answer": "out of town",
+      "options": ["out of town", "out of order", "out of shape", "out of line"] } ] },
+
+  { "expression": "intrude on", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to enter someone's life or situation where you may not be welcome",
+    "exchanges": [ { "uid": "s07_e11_c07_u015", "answer": "intrude on",
+      "options": ["intrude on", "insist on", "rely on", "comment on"] } ] },
+
+  { "expression": "red-eye", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "an overnight flight that leaves late at night and arrives early in the morning",
+    "exchanges": [ { "uid": "s07_e11_c07_u027", "answer": "red-eye",
+      "options": ["red-eye", "blackout", "blue chip", "whiteout"] } ] },
+
+  { "expression": "pull a fast one", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to trick or deceive someone",
+    "exchanges": [ { "uid": "s07_e11_c08_u015", "answer": "pull a fast one",
+      "options": ["pull a fast one", "make a long one", "take a hard one", "get a big one"] } ] },
+
+  { "expression": "make the cut", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be chosen as one of a limited group",
+    "exchanges": [ { "uid": "s07_e11_c09_u003", "answer": "made the cut",
+      "options": ["made the cut", "broke the ice", "took the cake", "hit the road"] } ] },
+
+  { "expression": "don't come crying to me", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to warn someone that you will not help or sympathize if things go wrong for them",
+    "exchanges": [ { "uid": "s07_e11_c12_u022", "answer": "come crying to me",
+      "options": ["come crying to me", "go running home", "keep talking to me", "stay angry at me"] } ] },
+
+  { "expression": "ambush", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to surprise and confront someone who is not expecting it",
+    "exchanges": [ { "uid": "s07_e11_c13_u008", "answer": "ambush",
+      "options": ["ambush", "babysit", "serenade", "overtake"] } ] },
+
+  { "expression": "give it a shot", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to try doing something to see if you can do it",
+    "exchanges": [ { "uid": "s07_e11_c14_u020", "answer": "give it a shot", "responseUid": null,
+      "options": ["give it a shot", "give it a name", "give it a wash", "give it a hug"] } ] }
+]
