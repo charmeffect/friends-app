@@ -1,0 +1,51 @@
+[
+  {"expression":"do someone a favor","type":"phrase","level":"elementary","pos":"verb","meaning":"to do something helpful for someone because they ask you to","exchanges":[{"uid":"s08_e13_c02_u024","answer":"do me a favor","options":["do me a favor","pay me a visit","take me a call","give me a ride"]}]},
+
+  {"expression":"come up with","type":"phrase","level":"elementary","pos":"verb","meaning":"to think of an idea or plan","exchanges":[{"uid":"s08_e13_c03_u011","answer":"come up with","options":["come up with","come down on","come out of","come over to"]}]},
+
+  {"expression":"work out","type":"phrase","level":"elementary","pos":"verb","meaning":"to happen or develop successfully","exchanges":[{"uid":"s08_e13_c08_u010","answer":"worked out","options":["worked out","broke down","went off","turned in"]}]},
+
+  {"expression":"have an open mind","type":"phrase","level":"middle","pos":"verb","meaning":"to be willing to consider new ideas fairly before deciding","exchanges":[{"uid":"s08_e13_c05_u002","answer":"had an open mind","options":["had an open mind","had a sharp tongue","had a long face","had a cold heart"]}]},
+
+  {"expression":"shame on you","type":"colloquial","level":"middle","pos":"expression","meaning":"said to tell someone they should feel guilty about what they did","exchanges":[{"uid":"s08_e13_c05_u020","answer":"Shame on you","options":["Shame on you","Good for you","Lucky for you","Bless you"]}]},
+
+  {"expression":"get rid of","type":"phrase","level":"middle","pos":"verb","meaning":"to remove or sell something you no longer want","exchanges":[{"uid":"s08_e13_c08_u015","answer":"get rid of","options":["get rid of","make use of","take note of","run out of"]}]},
+
+  {"expression":"crush","type":"word","level":"middle","pos":"noun","meaning":"a strong but usually short-lived romantic attraction to someone","exchanges":[{"uid":"s08_e13_c08_u022","answer":"Crushes","cueUid":"s08_e13_c08_u020","options":["Crushes","Crashes","Rashes","Brushes"]}]},
+
+  {"expression":"drop by","type":"phrase","level":"middle","pos":"verb","meaning":"to make a short, casual visit to someone","exchanges":[{"uid":"s08_e13_c10_u014","answer":"drop by","options":["drop by","drop out","stand by","pass out"]}]},
+
+  {"expression":"no big deal","type":"colloquial","level":"middle","pos":"expression","meaning":"not something important or worth worrying about","exchanges":[{"uid":"s08_e13_c10_u029","answer":"no big deal","options":["no big deal","no laughing matter","no easy task","no small thing"]}]},
+
+  {"expression":"backup","type":"word","level":"high","pos":"noun","meaning":"something kept ready to be used if the main one fails","exchanges":[{"uid":"s08_e13_c03_u016","answer":"backup","options":["backup","setback","checkup","breakup"]}]},
+
+  {"expression":"veto","type":"word","level":"high","pos":"noun","meaning":"the right to reject a decision or proposal made by someone else","exchanges":[{"uid":"s08_e13_c03_u025","answer":"vetoes","options":["vetoes","sandwiches","promotions","diplomas"]}]},
+
+  {"expression":"draw a bath","type":"phrase","level":"high","pos":"verb","meaning":"to fill a bathtub with water so that someone can take a bath","exchanges":[{"uid":"s08_e13_c06_u007","answer":"drew","options":["drew","threw","grew","blew"]}]},
+
+  {"expression":"self-control","type":"word","level":"high","pos":"noun","meaning":"the ability to stop yourself from doing things you want to do but should not","exchanges":[{"uid":"s08_e13_c05_u024","answer":"self-control","options":["self-control","self-portrait","self-service","self-defense"]}]},
+
+  {"expression":"break something down","type":"phrase","level":"high","pos":"verb","meaning":"to examine something carefully by dividing it into smaller parts","exchanges":[{"uid":"s08_e13_c06_u017","answer":"break this down","options":["break this down","hand this over","back this up","put this off"]}]},
+
+  {"expression":"just as well","type":"colloquial","level":"high","pos":"expression","meaning":"said when something turns out not to matter, or is even lucky, given the situation","exchanges":[{"uid":"s08_e13_c06_u042","answer":"just as well","options":["just as well","just in case","just for fun","just like that"]}]},
+
+  {"expression":"on fire","type":"colloquial","level":"high","pos":"expression","meaning":"performing extremely well and succeeding at everything","exchanges":[{"uid":"s08_e13_c06_u060","answer":"on fire","options":["on fire","on hold","on duty","on board"]}]},
+
+  {"expression":"worked up","type":"colloquial","level":"high","pos":"adjective","meaning":"upset, angry, or very excited about something","exchanges":[{"uid":"s08_e13_c08_u018","answer":"worked up","options":["worked up","fed up","made up","dressed up"]}]},
+
+  {"expression":"out there","type":"colloquial","level":"college","pos":"adjective","meaning":"very unusual or unconventional, in a way that may seem strange","exchanges":[{"uid":"s08_e13_c03_u020","answer":"out there","options":["out there","over there","up there","in there"]}]},
+
+  {"expression":"aptitude","type":"word","level":"college","pos":"noun","meaning":"a natural ability to do or learn something","exchanges":[{"uid":"s08_e13_c03_u009","answer":"aptitude","options":["aptitude","attitude","altitude","appetite"]}]},
+
+  {"expression":"it's not my place","type":"colloquial","level":"college","pos":"expression","meaning":"said when you feel it is not your role or right to comment on or do something","exchanges":[{"uid":"s08_e13_c05_u010","answer":"not my place","options":["not my place","not my fault","not my turn","not my type"]}]},
+
+  {"expression":"off the table","type":"colloquial","level":"college","pos":"expression","meaning":"no longer being considered as a possible option","exchanges":[{"uid":"s08_e13_c07_u011","answer":"off the table","options":["off the table","out of order","under the weather","in the bag"]}]},
+
+  {"expression":"swoop in","type":"colloquial","level":"expert","pos":"verb","meaning":"to move in quickly and suddenly to take an opportunity","exchanges":[{"uid":"s08_e13_c07_u007","answer":"swoop in","options":["swoop in","drop out","sneak off","jump out"]}]},
+
+  {"expression":"humdinger","type":"word","level":"expert","pos":"noun","meaning":"something remarkable, exciting, or extraordinary","exchanges":[{"uid":"s08_e13_c06_u049","answer":"humdinger","options":["humdinger","hamburger","hummingbird","harmonica"]}]},
+
+  {"expression":"throw someone a bone","type":"colloquial","level":"expert","pos":"expression","meaning":"to give someone a small bit of help or support, often just to make them feel better","exchanges":[{"uid":"s08_e13_c08_u024","answer":"Throw me a bone","responseUid":null,"options":["Throw me a bone","Keep me posted","Count me out","Leave me alone"]}]},
+
+  {"expression":"decorum","type":"word","level":"expert","pos":"noun","meaning":"behavior that is polite and correct for a particular situation","exchanges":[{"uid":"s08_e13_c10_u009","answer":"decorum","options":["decorum","decoration","curriculum","momentum"]}]}
+]

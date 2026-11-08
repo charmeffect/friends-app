@@ -1,132 +1,528 @@
 [
-  { "expression": "check it out", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "said to make someone look at something interesting you are showing them",
-    "exchanges": [
-      { "uid": "s03_e17_c02_u006", "answer": "check it out", "cueUid": "s03_e17_c02_u004",
-        "options": ["check it out", "figure it out", "bring it up", "work it out"] },
-      { "uid": "s03_e17_c02_u009", "answer": "check it out", "responseUid": "s03_e17_c02_u011",
-        "options": ["check it out", "figure it out", "bring it up", "work it out"] } ] },
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c02_u006",
+      "answer": "check it out",
+      "cueUid": "s03_e17_c02_u004",
+      "options": [
+        "check it out",
+        "figure it out",
+        "bring it up",
+        "work it out"
+      ]
+    },
+    {
+      "uid": "s03_e17_c02_u009",
+      "answer": "check it out",
+      "responseUid": "s03_e17_c02_u011",
+      "options": [
+        "check it out",
+        "figure it out",
+        "bring it up",
+        "work it out"
+      ]
+    }
+  ]
+},
 
-  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to go and buy or collect something, often on the way somewhere",
-    "exchanges": [ { "uid": "s03_e17_c08_u012", "answer": "pick us up",
-      "options": ["pick us up", "drop us off", "look us up", "put us up"] } ] },
+{
+  "expression": "pick up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go and buy or collect something, often on the way somewhere",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c08_u012",
+      "answer": "pick us up",
+      "options": [
+        "pick us up",
+        "drop us off",
+        "look us up",
+        "put us up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "feel bad", "type": "phrase", "level": "elementary", "pos": "verb",
-    "meaning": "to feel guilty or sorry about something",
-    "exchanges": [
-      { "uid": "s03_e17_c04_u002", "answer": "feel bad",
-        "options": ["feel bad", "get mad", "look down", "go wrong"] },
-      { "uid": "s03_e17_c02_u020", "answer": "feel bad", "responseUid": "s03_e17_c02_u022",
-        "options": ["feel bad", "get mad", "look down", "go wrong"] } ] },
+{
+  "expression": "feel bad",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to feel guilty or sorry about something",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c04_u002",
+      "answer": "feel bad",
+      "options": [
+        "feel bad",
+        "get mad",
+        "look down",
+        "go wrong"
+      ]
+    },
+    {
+      "uid": "s03_e17_c02_u020",
+      "answer": "feel bad",
+      "responseUid": "s03_e17_c02_u022",
+      "options": [
+        "feel bad",
+        "get mad",
+        "look down",
+        "go wrong"
+      ]
+    }
+  ]
+},
 
-  { "expression": "forget it", "type": "colloquial", "level": "elementary", "pos": "expression",
-    "meaning": "used to tell someone to stop asking or to drop the idea",
-    "exchanges": [ { "uid": "s03_e17_c06_u020", "answer": "forget it",
-      "options": ["forget it", "keep it", "watch it", "make it"] } ] },
+{
+  "expression": "forget it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop asking or to drop the idea",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c06_u020",
+      "answer": "forget it",
+      "options": [
+        "forget it",
+        "keep it",
+        "watch it",
+        "make it"
+      ]
+    }
+  ]
+},
 
-  { "expression": "split up", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to end a marriage or romantic relationship",
-    "exchanges": [ { "uid": "s03_e17_c07_u005", "answer": "split up",
-      "options": ["split up", "set up", "shut up", "speed up"] } ] },
+{
+  "expression": "split up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a marriage or romantic relationship",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c07_u005",
+      "answer": "split up",
+      "options": [
+        "split up",
+        "set up",
+        "shut up",
+        "speed up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "break down", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to stop working because of a mechanical failure",
-    "exchanges": [ { "uid": "s03_e17_c09_u016", "answer": "broke down",
-      "options": ["broke down", "broke out", "turned down", "backed down"] } ] },
+{
+  "expression": "break down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop working because of a mechanical failure",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c09_u016",
+      "answer": "broke down",
+      "options": [
+        "broke down",
+        "broke out",
+        "turned down",
+        "backed down"
+      ]
+    }
+  ]
+},
 
-  { "expression": "run out of", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to use up all of something so that none is left",
-    "exchanges": [ { "uid": "s03_e17_c09_u013", "answer": "ran out of",
-      "options": ["ran out of", "got rid of", "took care of", "made fun of"] } ] },
+{
+  "expression": "run out of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to use up all of something so that none is left",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c09_u013",
+      "answer": "ran out of",
+      "options": [
+        "ran out of",
+        "got rid of",
+        "took care of",
+        "made fun of"
+      ]
+    }
+  ]
+},
 
-  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
-    "meaning": "to leave a place suddenly or quickly",
-    "exchanges": [ { "uid": "s03_e17_c11_u011", "answer": "took off",
-      "options": ["took off", "took over", "put off", "held off"] } ] },
+{
+  "expression": "take off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place suddenly or quickly",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c11_u011",
+      "answer": "took off",
+      "options": [
+        "took off",
+        "took over",
+        "put off",
+        "held off"
+      ]
+    }
+  ]
+},
 
-  { "expression": "in the first place", "type": "phrase", "level": "middle", "pos": "adverb",
-    "meaning": "at all, or from the very beginning; used to say a situation would not have started",
-    "exchanges": [ { "uid": "s03_e17_c02_u030", "answer": "in the first place",
-      "options": ["in the first place", "at the first time", "on the first step", "for the first part"] } ] },
+{
+  "expression": "in the first place",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at all, or from the very beginning; used to say a situation would not have started",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c02_u030",
+      "answer": "in the first place",
+      "options": [
+        "in the first place",
+        "at the first time",
+        "on the first step",
+        "for the first part"
+      ]
+    }
+  ]
+},
 
-  { "expression": "might as well", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "used to suggest doing something because there is no better option",
-    "exchanges": [ { "uid": "s03_e17_c03_u021", "answer": "might as well", "responseUid": null,
-      "options": ["might as well", "could as much", "would as soon", "should as good"] } ] },
+{
+  "expression": "might as well",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to suggest doing something because there is no better option",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c03_u021",
+      "answer": "might as well",
+      "responseUid": null,
+      "options": [
+        "might as well",
+        "could as much",
+        "would as soon",
+        "should as good"
+      ]
+    }
+  ]
+},
 
-  { "expression": "what the hell", "type": "colloquial", "level": "middle", "pos": "expression",
-    "meaning": "said to show you have decided not to worry about something and will do it anyway",
-    "exchanges": [ { "uid": "s03_e17_c11_u007", "answer": "what the hell",
-      "options": ["what the hell", "who the heck", "why the fuss", "how the luck"] } ] },
+{
+  "expression": "the hell",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "added after a question word to show annoyance or impatience",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c11_u007",
+      "answer": "what the hell",
+      "options": [
+        "what the hell",
+        "who the heck",
+        "why the fuss",
+        "how the luck"
+      ]
+    }
+  ]
+},
 
-  { "expression": "set aside", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to keep time or money free so it can be used for a particular purpose",
-    "exchanges": [ { "uid": "s03_e17_c02_u017", "answer": "set that night aside",
-      "options": ["set that night aside", "put that night off", "took that night out", "gave that night up"] } ] },
+{
+  "expression": "set aside",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep time or money free so it can be used for a particular purpose",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c02_u017",
+      "answer": "set that night aside",
+      "options": [
+        "set that night aside",
+        "put that night off",
+        "took that night out",
+        "gave that night up"
+      ]
+    }
+  ]
+},
 
-  { "expression": "your call", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "it is your decision to make",
-    "exchanges": [ { "uid": "s03_e17_c06_u013", "answer": "your call",
-      "options": ["your call", "your turn", "your deal", "your way"] } ] },
+{
+  "expression": "your call",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "it is your decision to make",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c06_u013",
+      "answer": "your call",
+      "options": [
+        "your call",
+        "your turn",
+        "your deal",
+        "your way"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit the road", "type": "colloquial", "level": "high", "pos": "verb",
-    "meaning": "to leave or start a journey",
-    "exchanges": [ { "uid": "s03_e17_c01_u027", "answer": "hit the road", "responseUid": "s03_e17_c01_u030",
-      "options": ["hit the road", "ride the wave", "beat the clock", "catch the bus"] } ] },
+{
+  "expression": "hit the road",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave or start a journey",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c01_u027",
+      "answer": "hit the road",
+      "responseUid": "s03_e17_c01_u030",
+      "options": [
+        "hit the road",
+        "ride the wave",
+        "beat the clock",
+        "catch the bus"
+      ]
+    }
+  ]
+},
 
-  { "expression": "tinted", "type": "word", "level": "high", "pos": "adjective",
-    "meaning": "slightly coloured or darkened, especially glass or lenses",
-    "exchanges": [ { "uid": "s03_e17_c04_u005", "answer": "tinted",
-      "options": ["tinted", "dented", "rented", "heated"] } ] },
+{
+  "expression": "tinted",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "slightly coloured or darkened, especially glass or lenses",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c04_u005",
+      "answer": "tinted",
+      "options": [
+        "tinted",
+        "dented",
+        "rented",
+        "heated"
+      ]
+    }
+  ]
+},
 
-  { "expression": "with my luck", "type": "colloquial", "level": "high", "pos": "expression",
-    "meaning": "said when you expect the worst to happen because things usually go wrong for you",
-    "exchanges": [ { "uid": "s03_e17_c02_u034", "answer": "with my luck",
-      "options": ["with my luck", "for my sake", "in my case", "on my word"] } ] },
+{
+  "expression": "with my luck",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you expect the worst to happen because things usually go wrong for you",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c02_u034",
+      "answer": "with my luck",
+      "options": [
+        "with my luck",
+        "for my sake",
+        "in my case",
+        "on my word"
+      ]
+    }
+  ]
+},
 
-  { "expression": "collapse", "type": "word", "level": "high", "pos": "verb",
-    "meaning": "to fall down suddenly because you are ill, weak, or exhausted",
-    "exchanges": [ { "uid": "s03_e17_c08_u019", "answer": "collapsed",
-      "options": ["collapsed", "complained", "confessed", "consumed"] } ] },
+{
+  "expression": "collapse",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fall down suddenly because you are ill, weak, or exhausted",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c08_u019",
+      "answer": "collapsed",
+      "options": [
+        "collapsed",
+        "complained",
+        "confessed",
+        "consumed"
+      ]
+    }
+  ]
+},
 
-  { "expression": "stock up", "type": "phrase", "level": "high", "pos": "verb",
-    "meaning": "to buy a large amount of something so you have plenty for later",
-    "exchanges": [ { "uid": "s03_e17_c09_u012", "answer": "stock up",
-      "options": ["stock up", "save up", "pile on", "cash in"] } ] },
+{
+  "expression": "stock up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to buy a large amount of something so you have plenty for later",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c09_u012",
+      "answer": "stock up",
+      "options": [
+        "stock up",
+        "save up",
+        "pile on",
+        "cash in"
+      ]
+    }
+  ]
+},
 
-  { "expression": "defense mechanism", "type": "phrase", "level": "college", "pos": "noun",
-    "meaning": "a way of behaving that protects you from feeling hurt or anxious",
-    "exchanges": [ { "uid": "s03_e17_c02_u036", "answer": "defence mechanism",
-      "options": ["defence mechanism", "coping strategy", "survival instinct", "comfort zone"] } ] },
+{
+  "expression": "defense mechanism",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a way of behaving that protects you from feeling hurt or anxious",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c02_u036",
+      "answer": "defence mechanism",
+      "options": [
+        "defence mechanism",
+        "coping strategy",
+        "survival instinct",
+        "comfort zone"
+      ]
+    }
+  ]
+},
 
-  { "expression": "unsettling", "type": "word", "level": "college", "pos": "adjective",
-    "meaning": "making you feel anxious, worried, or uncomfortable",
-    "exchanges": [ { "uid": "s03_e17_c08_u022", "answer": "unsettling", "responseUid": null,
-      "options": ["unsettling", "unwilling", "unfolding", "unfitting"] } ] },
+{
+  "expression": "unsettling",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "making you feel anxious, worried, or uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c08_u022",
+      "answer": "unsettling",
+      "responseUid": null,
+      "options": [
+        "unsettling",
+        "unwilling",
+        "unfolding",
+        "unfitting"
+      ]
+    }
+  ]
+},
 
-  { "expression": "step on someone's toes", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to offend someone by interfering in something they see as their responsibility",
-    "exchanges": [ { "uid": "s03_e17_c10_u012", "answer": "stepping on some toes",
-      "options": ["stepping on some toes", "standing on some feet", "walking on some eggs", "sitting on some hands"] } ] },
+{
+  "expression": "step on someone's toes",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to offend someone by interfering in something they see as their responsibility",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c10_u012",
+      "answer": "stepping on some toes",
+      "options": [
+        "stepping on some toes",
+        "standing on some feet",
+        "walking on some eggs",
+        "sitting on some hands"
+      ]
+    }
+  ]
+},
 
-  { "expression": "hit someone where it hurts", "type": "colloquial", "level": "college", "pos": "verb",
-    "meaning": "to attack or criticize someone on a point they are most sensitive about",
-    "exchanges": [ { "uid": "s03_e17_c10_u030", "answer": "where it hurts",
-      "options": ["where it hurts", "when it counts", "what it takes", "how it feels"] } ] },
+{
+  "expression": "hit someone where it hurts",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to attack or criticize someone on a point they are most sensitive about",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c10_u030",
+      "answer": "where it hurts",
+      "options": [
+        "where it hurts",
+        "when it counts",
+        "what it takes",
+        "how it feels"
+      ]
+    }
+  ]
+},
 
-  { "expression": "you're one to talk", "type": "colloquial", "level": "college", "pos": "expression",
-    "meaning": "said to someone who criticizes a fault that they have themselves",
-    "exchanges": [ { "uid": "s03_e17_c09_u026", "answer": "you're one to talk", "responseUid": null,
-      "options": ["you're one to talk", "you're free to go", "you're right to ask", "you're hard to please"] } ] },
+{
+  "expression": "you're one to talk",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to someone who criticizes a fault that they have themselves",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c09_u026",
+      "answer": "you're one to talk",
+      "responseUid": null,
+      "options": [
+        "you're one to talk",
+        "you're free to go",
+        "you're right to ask",
+        "you're hard to please"
+      ]
+    }
+  ]
+},
 
-  { "expression": "skedaddle", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to leave quickly, used playfully",
-    "exchanges": [ { "uid": "s03_e17_c01_u033", "answer": "skedaddle",
-      "options": ["skedaddle", "scribble", "straddle", "shuffle"] } ] },
+{
+  "expression": "skedaddle",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to leave quickly, used playfully",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c01_u033",
+      "answer": "skedaddle",
+      "options": [
+        "skedaddle",
+        "scribble",
+        "straddle",
+        "shuffle"
+      ]
+    }
+  ]
+},
 
-  { "expression": "skimp", "type": "word", "level": "expert", "pos": "verb",
-    "meaning": "to spend too little money or effort on something, so the result is poor",
-    "exchanges": [ { "uid": "s03_e17_c11_u005", "answer": "skimp",
-      "options": ["skimp", "slouch", "skid", "scowl"] } ] }
+{
+  "expression": "skimp",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to spend too little money or effort on something, so the result is poor",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c11_u005",
+      "answer": "skimp",
+      "options": [
+        "skimp",
+        "slouch",
+        "skid",
+        "scowl"
+      ]
+    }
+  ]
+}
 ]

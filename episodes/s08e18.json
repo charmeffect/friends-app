@@ -1,0 +1,117 @@
+[
+  { "expression": "on cue", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "at exactly the moment when it is needed or expected",
+    "exchanges": [ { "uid": "s08_e18_c01_u016", "answer": "on cue",
+      "options": ["on cue", "in turn", "at last", "on hold"] } ] },
+
+  { "expression": "make a toast", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to say a few words in honor of someone and then drink with everyone",
+    "exchanges": [ { "uid": "s08_e18_c01_u015", "answer": "makes a toast",
+      "options": ["makes a toast", "takes a bow", "gets a call", "pays a visit"] } ] },
+
+  { "expression": "get going", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to leave or start moving, usually because it is time to go",
+    "exchanges": [ { "uid": "s08_e18_c02_u028", "answer": "get going",
+      "options": ["get going", "get even", "get lost", "get over"] } ] },
+
+  { "expression": "pass away", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to die, said as a gentler way of putting it",
+    "exchanges": [ { "uid": "s08_e18_c02_u032", "answer": "passed away",
+      "options": ["passed away", "passed out", "ran away", "gave out"] } ] },
+
+  { "expression": "hang back", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to stay behind while other people go ahead",
+    "exchanges": [ { "uid": "s08_e18_c02_u046", "answer": "hang back",
+      "options": ["hang back", "hang up", "step in", "drop by"] } ] },
+
+  { "expression": "out of wedlock", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "born to or had by parents who are not married to each other",
+    "exchanges": [ { "uid": "s08_e18_c03_u013", "answer": "out of wedlock",
+      "options": ["out of wedlock", "out of order", "in good faith", "on the market"] } ] },
+
+  { "expression": "go along with", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to accept and support a plan or decision even if you are not sure about it",
+    "exchanges": [ { "uid": "s08_e18_c03_u015", "answer": "going along with",
+      "options": ["going along with", "coming up with", "running out of", "looking down on"] } ] },
+
+  { "expression": "might as well", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to suggest doing something because there is no better option",
+    "exchanges": [ { "uid": "s08_e18_c03_u019", "answer": "might as well",
+      "options": ["might as well", "could have been", "would rather not", "should never have"] } ] },
+
+  { "expression": "let up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to stop or become less intense",
+    "exchanges": [ { "uid": "s08_e18_c03_u043", "answer": "let up",
+      "options": ["let up", "catch on", "set up", "back up"] } ] },
+
+  { "expression": "make fun of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to laugh at or joke about someone in an unkind way",
+    "exchanges": [ { "uid": "s08_e18_c03_u046", "answer": "making fun of",
+      "options": ["making fun of", "taking care of", "running out of", "getting rid of"] } ] },
+
+  { "expression": "enthusiastic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "showing a lot of excitement and eager interest",
+    "exchanges": [ { "uid": "s08_e18_c03_u048", "answer": "enthusiastic",
+      "options": ["enthusiastic", "pessimistic", "indifferent", "reluctant"] } ] },
+
+  { "expression": "who's who", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a list of all the best-known or most typical members of a group",
+    "exchanges": [ { "uid": "s08_e18_c03_u050", "answer": "who's who",
+      "options": ["who's who", "know-how", "has-been", "free-for-all"] } ] },
+
+  { "expression": "go over", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to check or examine something carefully",
+    "exchanges": [ { "uid": "s08_e18_c04_u034", "answer": "going over",
+      "options": ["going over", "getting over", "giving up", "taking off"] } ] },
+
+  { "expression": "intricate", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "having many small parts or details that are arranged in a complicated way",
+    "exchanges": [ { "uid": "s08_e18_c04_u039", "answer": "intricate",
+      "options": ["intricate", "careless", "effortless", "shabby"] } ] },
+
+  { "expression": "call a spade a spade", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to speak honestly and directly about something, even if it is unpleasant",
+    "exchanges": [ { "uid": "s08_e18_c04_u056", "answer": "spade a spade",
+      "options": ["spade a spade", "cab a cab", "truce a truce", "day a day"] } ] },
+
+  { "expression": "get to know", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time with someone so that you learn what they are like",
+    "exchanges": [ { "uid": "s08_e18_c04_u051", "answer": "get to know",
+      "options": ["get to know", "get rid of", "get away from", "get back at"] } ] },
+
+  { "expression": "on behalf of", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "as the representative of someone, or for their benefit",
+    "exchanges": [ { "uid": "s08_e18_c04_u082", "answer": "on behalf of",
+      "options": ["on behalf of", "in spite of", "in charge of", "at the expense of"] } ] },
+
+  { "expression": "put a good spin on", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to describe a situation in a way that makes it seem more positive than it is",
+    "exchanges": [ { "uid": "s08_e18_c05_u019", "answer": "spin",
+      "responseUid": "s08_e18_c05_u021",
+      "options": ["spin", "deal", "price", "hold"] } ] },
+
+  { "expression": "so long", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "goodbye",
+    "exchanges": [ { "uid": "s08_e18_c05_u026", "answer": "So long",
+      "options": ["So long", "So what", "How come", "Go ahead"] } ] },
+
+  { "expression": "feasible", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "possible to do or carry out in practice",
+    "exchanges": [ { "uid": "s08_e18_c06_u003", "answer": "feasible",
+      "options": ["feasible", "edible", "audible", "legible"] } ] },
+
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s08_e18_c06_u011", "answer": "make that up",
+      "options": ["make that up", "turn that down", "put that off", "hand that in"] } ] },
+
+  { "expression": "go out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time with someone as a boyfriend or girlfriend",
+    "exchanges": [ { "uid": "s08_e18_c06_u012", "answer": "going out",
+      "options": ["going out", "coming over", "checking in", "showing off"] } ] },
+
+  { "expression": "mischievous", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "playfully naughty, enjoying causing small amounts of trouble",
+    "exchanges": [ { "uid": "s08_e18_c07_u005", "answer": "mischievous",
+      "options": ["mischievous", "obedient", "solemn", "punctual"] } ] }
+]

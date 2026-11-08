@@ -1,0 +1,127 @@
+[
+  { "expression": "cheer up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to make someone feel happier",
+    "exchanges": [ { "uid": "s08_e15_c03_u002", "answer": "cheer you up",
+      "options": ["cheer you up", "cut you off", "wear you out", "let you down"] } ] },
+
+  { "expression": "on the way", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "already coming; traveling toward the place",
+    "exchanges": [ { "uid": "s08_e15_c10_u003", "answer": "on the way",
+      "options": ["on the way", "in the bag", "off the menu", "at the door"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s08_e15_c10_u016", "answer": "hanging out",
+      "options": ["hanging out", "checking in", "standing by", "moving on"] } ] },
+
+  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to date someone; to spend time with someone romantically",
+    "exchanges": [ { "uid": "s08_e15_c12_u030", "answer": "go out with",
+      "options": ["go out with", "come up with", "put up with", "get on with"] } ] },
+
+  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to recover from something unpleasant, such as a breakup",
+    "exchanges": [ { "uid": "s08_e15_c01_u011", "answer": "get over",
+      "options": ["get over", "get into", "get onto", "get after"] } ] },
+
+  { "expression": "what's the deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "asked to find out what is going on or how something works",
+    "exchanges": [ { "uid": "s08_e15_c08_u008", "answer": "What's the deal",
+      "options": ["What's the deal", "Who's the boss", "Where's the fire", "What's the rush"],
+      "responseUid": null } ] },
+
+  { "expression": "miserable", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very unhappy or uncomfortable",
+    "exchanges": [ { "uid": "s08_e15_c09_u010", "answer": "miserable",
+      "options": ["miserable", "admirable", "reliable", "valuable"] } ] },
+
+  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remove or sell something you no longer want",
+    "exchanges": [ { "uid": "s08_e15_c11_u006", "answer": "get rid of",
+      "options": ["get rid of", "get hold of", "take care of", "make fun of"] } ] },
+
+  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s08_e15_c12_u004", "answer": "dumped",
+      "options": ["dumped", "called", "hugged", "visited"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s08_e15_c11_u024", "answer": "freaked out",
+      "options": ["freaked out", "worn out", "cleaned out", "locked out"] } ] },
+
+  { "expression": "no big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something important or worth worrying about",
+    "exchanges": [ { "uid": "s08_e15_c12_u017", "answer": "no big deal",
+      "options": ["no big deal", "a done deal", "a big shot", "no small feat"] } ] },
+
+  { "expression": "go for it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to decide to try something and act on it with determination",
+    "exchanges": [ { "uid": "s08_e15_c12_u038", "answer": "go for it",
+      "options": ["go for it", "sleep on it", "get over it", "stay out of it"] } ] },
+
+  { "expression": "wreck", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to damage something so badly that it is ruined",
+    "exchanges": [ { "uid": "s08_e15_c06_u016", "answer": "wreck",
+      "options": ["wreck", "plan", "start", "share"] } ] },
+
+  { "expression": "crack up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone laugh a lot",
+    "exchanges": [ { "uid": "s08_e15_c07_u018", "answer": "cracks me up",
+      "options": ["cracks me up", "lets me down", "sets me off", "wears me out"] } ] },
+
+  { "expression": "miss out on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to lose the chance to do or enjoy something",
+    "exchanges": [ { "uid": "s08_e15_c07_u015", "answer": "missing out on",
+      "options": ["missing out on", "catching up on", "cutting back on", "looking out for"] } ] },
+
+  { "expression": "bum out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone feel sad or disappointed",
+    "exchanges": [ { "uid": "s08_e15_c09_u014", "answer": "bummed him out",
+      "options": ["bummed him out", "cheered him up", "picked him up", "checked him out"] } ] },
+
+  { "expression": "barge in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to enter a room rudely and suddenly without asking",
+    "exchanges": [ { "uid": "s08_e15_c11_u015", "answer": "barge in",
+      "options": ["barge in", "drop off", "chip in", "back out"] } ] },
+
+  { "expression": "ironic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "surprising or amusing because it is the opposite of what you would expect",
+    "exchanges": [ { "uid": "s08_e15_c11_u023", "answer": "ironic",
+      "options": ["ironic", "organic", "heroic", "chronic"] } ] },
+
+  { "expression": "boundaries", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "limits on how people may behave toward you or how close they may get",
+    "exchanges": [ { "uid": "s08_e15_c10_u034", "answer": "boundaries",
+      "options": ["boundaries", "batteries", "groceries", "vacancies"] } ] },
+
+  { "expression": "gut-wrenching", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "causing great emotional pain or distress",
+    "exchanges": [ { "uid": "s08_e15_c01_u015", "answer": "gut-wrenching",
+      "options": ["gut-wrenching", "mouth-watering", "eye-opening", "heart-warming"] } ] },
+
+  { "expression": "butter up", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to flatter or be very nice to someone before asking for something or giving bad news",
+    "exchanges": [ { "uid": "s08_e15_c08_u007", "answer": "butter her up",
+      "options": ["butter her up", "track her down", "hold her back", "turn her down"] } ] },
+
+  { "expression": "subdued", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "quieter and less lively than usual",
+    "exchanges": [ { "uid": "s08_e15_c09_u005", "answer": "subdued",
+      "options": ["subdued", "submerged", "outdated", "overpriced"] } ] },
+
+  { "expression": "take something the wrong way", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to misunderstand a remark and be offended or upset by it",
+    "exchanges": [ { "uid": "s08_e15_c10_u032", "answer": "the wrong way",
+      "options": ["the wrong way", "the long way", "the high road", "the easy way"] } ] },
+
+  { "expression": "slip into", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to put on clothes quickly and easily",
+    "exchanges": [ { "uid": "s08_e15_c04_u003", "answer": "slipping into",
+      "options": ["slipping into", "running into", "breaking into", "looking into"] } ] },
+
+  { "expression": "ballsy", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "bold and confident in a way that ignores what others think",
+    "exchanges": [ { "uid": "s08_e15_c10_u026", "answer": "ballsy",
+      "options": ["ballsy", "bony", "bubbly", "bulky"] } ] }
+]

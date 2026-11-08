@@ -1,0 +1,504 @@
+[
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c01_u013",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "back off",
+        "show off",
+        "freak out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stop by",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit a place briefly, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c06_u015",
+      "answer": "stop by",
+      "options": [
+        "stop by",
+        "pass out",
+        "look up",
+        "turn off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "move out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave the place where you live and go to live somewhere else",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c10_u026",
+      "answer": "move out",
+      "options": [
+        "move out",
+        "make up",
+        "give in",
+        "show off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to stop worrying or talking about something",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c03_u017",
+      "answer": "let it go",
+      "options": [
+        "let it go",
+        "set it up",
+        "put it on",
+        "take it in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the hell",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "added after a question word to show annoyance or impatience",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c01_u031",
+      "answer": "what the hell",
+      "responseUid": null,
+      "options": [
+        "what the hell",
+        "who the heck",
+        "where on earth",
+        "how come"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c07_u033",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no big shot",
+        "no long story",
+        "no fair game"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "crush",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a strong romantic attraction to someone, often one you keep to yourself",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c08_u008",
+      "answer": "crush",
+      "options": [
+        "crush",
+        "crash",
+        "brush",
+        "rush"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "left out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "excluded from a group or an experience that everyone else shares",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c08_u009",
+      "answer": "left out",
+      "options": [
+        "left out",
+        "set back",
+        "looked up",
+        "given in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "embarrassing",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel ashamed or awkward in front of other people",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c09_u018",
+      "answer": "embarrassing",
+      "options": [
+        "embarrassing",
+        "encouraging",
+        "refreshing",
+        "rewarding"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm on it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to promise that you will deal with a task right away",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c10_u013",
+      "answer": "I'm on it",
+      "options": [
+        "I'm on it",
+        "I'm into it",
+        "I'm over it",
+        "I'm off it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stating the obvious",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "saying something that everyone already knows or can easily see",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c05_u007",
+      "answer": "Stating the obvious",
+      "options": [
+        "Stating the obvious",
+        "Missing the point",
+        "Breaking the ice",
+        "Changing the subject"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "discomfort",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a feeling of slight physical pain or unpleasantness",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c07_u003",
+      "answer": "discomfort",
+      "responseUid": "s08_e14_c07_u005",
+      "options": [
+        "discomfort",
+        "discount",
+        "disguise",
+        "dispute"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I take it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I assume or understand from what has been said",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c07_u004",
+      "answer": "I take it",
+      "options": [
+        "I take it",
+        "I make it",
+        "I hold it",
+        "I give it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bummed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "disappointed and unhappy",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c08_u012",
+      "answer": "bummed",
+      "options": [
+        "bummed",
+        "bumped",
+        "numbed",
+        "hummed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work through",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to deal with a problem step by step until it is solved",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c09_u021",
+      "answer": "work through it",
+      "options": [
+        "work through it",
+        "run over it",
+        "get into it",
+        "take after it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep score",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep track of what has happened, as if counting points in a game",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c10_u017",
+      "answer": "keeping score",
+      "options": [
+        "keeping score",
+        "holding court",
+        "making waves",
+        "paying rent"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in spite of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "without being stopped or affected by something; despite",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c11_u008",
+      "answer": "in spite of",
+      "options": [
+        "in spite of",
+        "instead of",
+        "in front of",
+        "on top of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "intriguing",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "very interesting because it is unusual or mysterious",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c01_u020",
+      "answer": "intriguing",
+      "options": [
+        "intriguing",
+        "intrusive",
+        "indignant",
+        "inferior"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "self-conscious",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "nervously aware of how you look or act in front of others",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c03_u024",
+      "answer": "self-conscious",
+      "options": [
+        "self-conscious",
+        "self-employed",
+        "self-sufficient",
+        "self-made"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run a tight ship",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to control a place or group very strictly and keep everything in order",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c06_u003",
+      "answer": "tight ship",
+      "options": [
+        "tight ship",
+        "short fuse",
+        "close call",
+        "hard bargain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "unnerving",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "making you feel nervous, worried, or less confident",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c07_u008",
+      "answer": "unnerving",
+      "options": [
+        "unnerving",
+        "unending",
+        "unwinding",
+        "unyielding"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have half a mind to",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be tempted to do something, often as an angry threat you may not carry out",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c07_u015",
+      "answer": "half a mind",
+      "options": [
+        "half a mind",
+        "half a heart",
+        "half a chance",
+        "half a hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have your cake and eat it too",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "to enjoy the benefits of two things that normally cannot both be had at once",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c06_u009",
+      "answer": "having her cake",
+      "options": [
+        "having her cake",
+        "making her bed",
+        "taking her time",
+        "paying her dues"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "harbor",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to keep a feeling or thought secretly in your mind for a long time",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c08_u014",
+      "answer": "harboring",
+      "responseUid": null,
+      "options": [
+        "harboring",
+        "hammering",
+        "harvesting",
+        "hollering"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw back",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to drink something quickly, usually in large amounts",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c12_u005",
+      "answer": "thrown back",
+      "options": [
+        "thrown back",
+        "taken over",
+        "given away",
+        "brought up"
+      ]
+    }
+  ]
+}
+]
