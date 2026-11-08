@@ -1,0 +1,512 @@
+[
+{
+  "expression": "can't make it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be unable to come to a planned meeting or event",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c01_u016",
+      "answer": "make it",
+      "options": [
+        "make it",
+        "lose it",
+        "fix it",
+        "earn it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "figure out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand or solve something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c03_u013",
+      "answer": "figure out",
+      "options": [
+        "figure out",
+        "make up",
+        "work off",
+        "get in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c13_u001",
+      "answer": "run into",
+      "options": [
+        "run into",
+        "get over",
+        "look after",
+        "turn down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm out of here",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you are leaving a place, often because you are annoyed",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c11_u023",
+      "answer": "out of here",
+      "options": [
+        "out of here",
+        "into this",
+        "over there",
+        "up to it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "set up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange a date for someone with a person they have not met",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c02_u017",
+      "answer": "set me up",
+      "options": [
+        "set me up",
+        "put me off",
+        "let me down",
+        "wear me out"
+      ]
+    },
+    {
+      "uid": "s09_e03_c11_u016",
+      "answer": "set me up",
+      "options": [
+        "set me up",
+        "put me off",
+        "let me down",
+        "wear me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "double date",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a date on which two couples go out together",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c05_u003",
+      "answer": "double date",
+      "options": [
+        "double date",
+        "second hand",
+        "double check",
+        "blind side"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be used to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be accustomed to doing something because you have done it often",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c03_u008",
+      "answer": "used to",
+      "options": [
+        "used to",
+        "due to",
+        "next to",
+        "prior to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "follow my lead",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "do what I do and copy my movements",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c08_u002",
+      "answer": "follow my lead",
+      "options": [
+        "follow my lead",
+        "call my bluff",
+        "make my day",
+        "change my mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "finish up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to complete the last part of something",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c10_u002",
+      "answer": "finishing up",
+      "options": [
+        "finishing up",
+        "catching up",
+        "giving up",
+        "making up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ask out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone on a date",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c13_u018",
+      "answer": "ask me out",
+      "options": [
+        "ask me out",
+        "let me down",
+        "put me off",
+        "wear me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "head up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be in charge of a group or organization",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c01_u004",
+      "answer": "head up",
+      "options": [
+        "head up",
+        "break up",
+        "give up",
+        "pick up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rule out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide that someone or something is not possible or suitable",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c02_u023",
+      "answer": "rules out",
+      "options": [
+        "rules out",
+        "rules over",
+        "sorts out",
+        "rolls out"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "come to think of it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you suddenly realize or remember something while speaking",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c04_u016",
+      "answer": "think",
+      "options": [
+        "think",
+        "hope",
+        "wish",
+        "care"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go way back",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have known each other for a very long time",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c08_u011",
+      "answer": "go way back",
+      "options": [
+        "go way back",
+        "get way out",
+        "come way down",
+        "go way off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who am I kidding",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you admit that what you were saying or pretending is not true",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c11_u021",
+      "answer": "kidding",
+      "options": [
+        "kidding",
+        "calling",
+        "helping",
+        "watching"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to delay people or make them wait",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c15_u003",
+      "answer": "held up",
+      "options": [
+        "held up",
+        "cheered up",
+        "made up",
+        "shown up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick a fight",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to deliberately start an argument with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c15_u015",
+      "answer": "pick a fight",
+      "options": [
+        "pick a fight",
+        "catch a cold",
+        "take a nap",
+        "make a wish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "once in a lifetime",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "happening only once and therefore very special",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c12_u008",
+      "answer": "once in a lifetime",
+      "options": [
+        "once in a lifetime",
+        "once in a while",
+        "all of a sudden",
+        "every other day"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "relocate",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to move someone to a new place to live and work, often by an employer",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c09_u014",
+      "answer": "relocated",
+      "options": [
+        "relocated",
+        "renovated",
+        "regulated",
+        "reinstated"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "falling-out",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a quarrel that ends or damages a friendship",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c11_u002",
+      "answer": "falling out",
+      "options": [
+        "falling out",
+        "breaking in",
+        "cutting back",
+        "running over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a bit of a stretch",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "an exaggeration or a description that is not quite accurate",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c09_u009",
+      "answer": "stretch",
+      "options": [
+        "stretch",
+        "sketch",
+        "switch",
+        "swing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch someone off guard",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to surprise someone when they are not ready for it",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c13_u021",
+      "answer": "caught me off guard",
+      "options": [
+        "caught me off guard",
+        "kept me on track",
+        "put me on hold",
+        "let me off easy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see right through",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to recognize someone's real intentions even though they try to hide them",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c15_u016",
+      "answer": "see right thru",
+      "options": [
+        "see right thru",
+        "run right into",
+        "get right over",
+        "go right past"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "botched",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "done badly or clumsily so that it goes wrong",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c06_u007",
+      "answer": "botched",
+      "options": [
+        "botched",
+        "boosted",
+        "bleached",
+        "booked"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if I had a nickel for every time",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "said to stress that something happens very often, usually something annoying",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c08_u008",
+      "answer": "nickel",
+      "options": [
+        "nickel",
+        "ticket",
+        "minute",
+        "cookie"
+      ]
+    }
+  ]
+}
+]

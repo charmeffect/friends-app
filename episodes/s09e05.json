@@ -1,0 +1,126 @@
+[
+  { "expression": "make a decision", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to decide something after thinking about it",
+    "exchanges": [ { "uid": "s09_e05_c03_u026", "answer": "made a decision",
+      "options": ["made a decision", "took a picture", "did a favor", "had a dream"] } ] },
+
+  { "expression": "keep up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to move or work as fast as someone else so you are not left behind",
+    "exchanges": [ { "uid": "s09_e05_c12_u002", "answer": "keep up",
+      "options": ["keep up", "give up", "show up", "back up"] } ] },
+
+  { "expression": "gross", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "disgusting or very unpleasant",
+    "exchanges": [ { "uid": "s09_e05_c03_u022", "answer": "gross",
+      "options": ["gross", "brave", "lucky", "polite"] } ] },
+
+  { "expression": "be stuck", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "unable to leave a place or situation you do not want to be in",
+    "exchanges": [ { "uid": "s09_e05_c04_u001", "answer": "stuck",
+      "options": ["stuck", "dressed", "tired", "raised"] } ] },
+
+  { "expression": "starving", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very hungry",
+    "exchanges": [ { "uid": "s09_e05_c05_u003", "answer": "starving",
+      "options": ["starving", "sweating", "bleeding", "yawning"] } ] },
+
+  { "expression": "drop it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "stop talking about the subject",
+    "exchanges": [ { "uid": "s09_e05_c06_u006", "answer": "drop this",
+      "options": ["drop this", "pick this", "make this", "hold this"] } ] },
+
+  { "expression": "not the end of the world", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not as serious a problem as it seems",
+    "exchanges": [ { "uid": "s09_e05_c09_u005", "answer": "end of the world",
+      "options": ["end of the world", "top of the morning", "heart of the matter", "state of the art"] } ] },
+
+  { "expression": "mean the world to", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to be extremely important to someone",
+    "exchanges": [ { "uid": "s09_e05_c12_u065", "answer": "means the world",
+      "options": ["means the world", "costs the earth", "takes the cake", "rings a bell"] } ] },
+
+  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a place suddenly or quickly",
+    "exchanges": [ { "uid": "s09_e05_c12_u065", "answer": "take off",
+      "options": ["take off", "show off", "log off", "pay off"] } ] },
+
+  { "expression": "get off work", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finish work or be excused from working for the day",
+    "exchanges": [ { "uid": "s09_e05_c12_u067", "answer": "got off work",
+      "options": ["got off work", "got on board", "got over it", "got in shape"] } ] },
+
+  { "expression": "show your true colors", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to reveal what you are really like, especially your less pleasant side",
+    "exchanges": [ { "uid": "s09_e05_c01_u006", "answer": "true colors",
+      "options": ["true colors", "bright lights", "new clothes", "short hair"] } ] },
+
+  { "expression": "light up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to light a cigarette and start smoking",
+    "exchanges": [ { "uid": "s09_e05_c02_u007", "answer": "light up",
+      "options": ["light up", "break down", "check in", "set off"] } ] },
+
+  { "expression": "put on hold", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to stop something for a while, intending to continue it later",
+    "exchanges": [ { "uid": "s09_e05_c06_u015", "answer": "on hold",
+      "options": ["on hold", "on fire", "in vain", "at risk"] } ] },
+
+  { "expression": "spit up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "of a baby, to bring a little milk or food back up out of the mouth",
+    "exchanges": [ { "uid": "s09_e05_c12_u017", "answer": "spit up",
+      "options": ["spit up", "dried up", "shut up", "signed up"] } ] },
+
+  { "expression": "outburst", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a sudden, strong expression of emotion, especially anger",
+    "exchanges": [ { "uid": "s09_e05_c12_u053", "answer": "outburst",
+      "options": ["outburst", "outcome", "outline", "outlet"] } ] },
+
+  { "expression": "courtesy", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "polite behavior that shows respect for other people",
+    "exchanges": [ { "uid": "s09_e05_c12_u053", "answer": "courtesy",
+      "options": ["courtesy", "curiosity", "capacity", "currency"] } ] },
+
+  { "expression": "ditch", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to leave someone behind on purpose so you can get away from them",
+    "exchanges": [ { "uid": "s09_e05_c12_u067", "answer": "ditches",
+      "options": ["ditches", "teaches", "reaches", "watches"] } ] },
+
+  { "expression": "paint the town red", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to go out and enjoy yourself in a lively way, at bars, parties or clubs",
+    "exchanges": [ { "uid": "s09_e05_c04_u015", "answer": "Paint the town red",
+      "options": ["Paint the town red", "Clean the house up", "Hit the hay early", "Turn the lights off"] } ] },
+
+  { "expression": "in a pickle", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "in a difficult or awkward situation",
+    "exchanges": [ { "uid": "s09_e05_c04_u021", "answer": "in a pickle", "responseUid": null,
+      "options": ["in a pickle", "on a roll", "on a break", "on a diet"] } ] },
+
+  { "expression": "cave", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to stop resisting and give in to pressure",
+    "exchanges": [ { "uid": "s09_e05_c08_u009", "answer": "cave",
+      "options": ["cave", "wave", "rave", "pave"] } ] },
+
+  { "expression": "come down on", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to criticize or punish someone severely",
+    "exchanges": [ { "uid": "s09_e05_c09_u005", "answer": "come down on",
+      "options": ["come down on", "come up with", "go along with", "get back at"] } ] },
+
+  { "expression": "look alive", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to tell someone to pay attention and act quickly",
+    "exchanges": [ { "uid": "s09_e05_c12_u019", "answer": "Look alive",
+      "options": ["Look alive", "Look away", "Rest easy", "Sleep tight"] } ] },
+
+  { "expression": "in the offing", "type": "phrase", "level": "expert", "pos": "expression",
+    "meaning": "likely to happen or appear soon",
+    "exchanges": [ { "uid": "s09_e05_c05_u006", "answer": "in the offing",
+      "options": ["in the offing", "on the rocks", "at the helm", "by the book"] } ] },
+
+  { "expression": "bruise like a peach", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to get bruises very easily",
+    "exchanges": [ { "uid": "s09_e05_c07_u005", "answer": "bruise like a peach",
+      "options": ["bruise like a peach", "eat like a horse", "sleep like a log", "swim like a fish"] } ] },
+
+  { "expression": "ruse", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a clever trick used to deceive someone",
+    "exchanges": [ { "uid": "s09_e05_c12_u058", "answer": "ruse",
+      "options": ["ruse", "rule", "rush", "rose"] } ] }
+]

@@ -1,0 +1,121 @@
+[
+  { "expression": "you bet your ass", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "a forceful, rude way of saying that something is absolutely certain",
+    "exchanges": [ { "uid": "s09_e06_c01_u004", "answer": "you bet your ass",
+      "options": ["you bet your ass", "you lose your mind", "you watch your step", "you cover your back"] } ] },
+
+  { "expression": "without a doubt", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "certainly; with no question at all",
+    "exchanges": [ { "uid": "s09_e06_c01_u008", "answer": "without a doubt", "responseUid": null,
+      "options": ["without a doubt", "without a trace", "out of a job", "in a hurry"] } ] },
+
+  { "expression": "big step", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "an important change or move forward in a situation or relationship",
+    "exchanges": [ { "uid": "s09_e06_c02_u014", "answer": "big step",
+      "options": ["big step", "low blow", "short cut", "close call"] } ] },
+
+  { "expression": "to be honest", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "said before admitting something frankly",
+    "exchanges": [ { "uid": "s09_e06_c02_u012", "answer": "To be honest",
+      "options": ["To be honest", "To be sure", "To be continued", "To be exact"] } ] },
+
+  { "expression": "right away", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "immediately, without any delay",
+    "exchanges": [ { "uid": "s09_e06_c03_u001", "answer": "right away",
+      "options": ["right away", "far away", "all along", "so far"] } ] },
+
+  { "expression": "worse comes to worse", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "if the situation turns out as badly as possible",
+    "exchanges": [ { "uid": "s09_e06_c03_u012", "answer": "worse comes to worse",
+      "options": ["worse comes to worse", "worse goes to bad", "bad comes to good", "push goes to pull"] } ] },
+
+  { "expression": "mannish", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "looking or behaving more like a man than is usual for a woman",
+    "exchanges": [ { "uid": "s09_e06_c03_u017", "answer": "mannish", "responseUid": null,
+      "options": ["mannish", "childish", "feverish", "selfish"] } ] },
+
+  { "expression": "build someone up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to imagine someone as better or more impressive than they really are",
+    "exchanges": [ { "uid": "s09_e06_c04_u012", "answer": "build them up",
+      "options": ["build them up", "break them down", "fill them in", "hold them back"] } ] },
+
+  { "expression": "window", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a short period of time when there is a chance to do something",
+    "exchanges": [ { "uid": "s09_e06_c05_u004", "answer": "window",
+      "options": ["window", "ceiling", "corner", "doorway"] } ] },
+
+  { "expression": "ironic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "surprising or amusing because it is the opposite of what you would expect",
+    "exchanges": [ { "uid": "s09_e06_c05_u012", "answer": "ironic", "responseUid": "s09_e06_c05_u014",
+      "options": ["ironic", "generous", "nervous", "careful"] } ] },
+
+  { "expression": "you had to be there", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when something was funny at the time but is hard to explain to someone who did not see it",
+    "exchanges": [ { "uid": "s09_e06_c06_u012", "answer": "had to be there",
+      "options": ["had to be there", "had to be kidding", "had to be careful", "had to be honest"] } ] },
+
+  { "expression": "set someone up for a joke", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to say something that gives someone the chance to make a joke",
+    "exchanges": [ { "uid": "s09_e06_c08_u001", "answer": "set me up",
+      "options": ["set me up", "let me down", "back me up", "fill me in"] } ] },
+
+  { "expression": "livelihood", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the work or way you earn the money you need to live",
+    "exchanges": [ { "uid": "s09_e06_c08_u003", "answer": "livelihood",
+      "options": ["livelihood", "neighborhood", "childhood", "likelihood"] } ] },
+
+  { "expression": "unorthodox", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "different from what is usual or traditionally accepted",
+    "exchanges": [ { "uid": "s09_e06_c07_u010", "answer": "unorthodox",
+      "options": ["unorthodox", "unanimous", "uneventful", "unaccountable"] } ] },
+
+  { "expression": "try someone out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to let someone work for a while to see if they are suitable",
+    "exchanges": [ { "uid": "s09_e06_c07_u018", "answer": "try him out",
+      "options": ["try him out", "let him off", "give him up", "put him off"] } ] },
+
+  { "expression": "you're hired", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to tell someone that they have got the job",
+    "exchanges": [ { "uid": "s09_e06_c07_u025", "answer": "you're hired",
+      "options": ["you're hired", "you're fired", "you're welcome", "you're kidding"] } ] },
+
+  { "expression": "draw the line", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to set a limit on what you are willing to accept",
+    "exchanges": [ { "uid": "s09_e06_c12_u028", "answer": "draw the line",
+      "options": ["draw the line", "toe the line", "drop the ball", "miss the boat"] } ] },
+
+  { "expression": "on a roll", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "having a period of repeated success",
+    "exchanges": [ { "uid": "s09_e06_c12_u029", "answer": "on a roll",
+      "options": ["on a roll", "on the run", "in a rut", "on the line"] } ] },
+
+  { "expression": "slay", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to make someone laugh very hard",
+    "exchanges": [ { "uid": "s09_e06_c12_u041", "answer": "slayed",
+      "options": ["slayed", "bored", "annoyed", "confused"] } ] },
+
+  { "expression": "whimsical", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "playful and fanciful in an unusual, amusing way",
+    "exchanges": [ { "uid": "s09_e06_c14_u009", "answer": "whimsical",
+      "options": ["whimsical", "hysterical", "technical", "medical"] } ] },
+
+  { "expression": "sexist", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "treating or describing women or men unfairly because of their sex",
+    "exchanges": [ { "uid": "s09_e06_c17_u002", "answer": "sexist",
+      "options": ["sexist", "friendly", "healthy", "gentle"] } ] },
+
+  { "expression": "no hard feelings", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "no anger or resentment about what happened",
+    "exchanges": [ { "uid": "s09_e06_c18_u010", "answer": "no hard feelings",
+      "options": ["no hard feelings", "no big deal", "no strings attached", "no time left"] } ] },
+
+  { "expression": "work on", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time and effort improving something",
+    "exchanges": [ { "uid": "s09_e06_c18_u011", "answer": "work on",
+      "options": ["work on", "rely on", "look at", "take over"] } ] },
+
+  { "expression": "blow someone's mind", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to amaze or shock someone completely",
+    "exchanges": [ { "uid": "s09_e06_c19_u004", "answer": "blow my mind",
+      "options": ["blow my mind", "break my heart", "waste my time", "get my point"] } ] }
+]

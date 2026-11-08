@@ -1,0 +1,121 @@
+[
+  { "expression": "zip up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to close a piece of clothing by pulling its zipper",
+    "exchanges": [ { "uid": "s09_e04_c01_u001", "answer": "zip me up",
+      "options": ["zip me up", "sign me up", "zip me off", "fill me up"] } ] },
+
+  { "expression": "pick someone up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to go to where someone is and collect them, often to take them somewhere",
+    "exchanges": [ { "uid": "s09_e04_c01_u005", "answer": "picking me up",
+      "options": ["picking me up", "putting me off", "letting me down", "taking me in"] } ] },
+
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to assist someone with work or a task",
+    "exchanges": [ { "uid": "s09_e04_c02_u024", "answer": "help you out",
+      "options": ["help you out", "hold you up", "keep you out", "let you down"] } ] },
+
+  { "expression": "let it go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to stop worrying or talking about something",
+    "exchanges": [ { "uid": "s09_e04_c07_u019", "answer": "let it go",
+      "options": ["let it go", "take it in", "put it on", "set it off"] } ] },
+
+  { "expression": "how come", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "why; used to ask the reason for something in casual speech",
+    "exchanges": [ { "uid": "s09_e04_c02_u006", "answer": "how come",
+      "options": ["how come", "how much", "how about", "how often"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s09_e04_c02_u019", "answer": "ask out",
+      "options": ["ask out", "ask around", "hand out", "ask after"] } ] },
+
+  { "expression": "drop by", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to make a short, casual visit to someone",
+    "exchanges": [ { "uid": "s09_e04_c05_u001", "answer": "drop by",
+      "options": ["drop by", "drop out", "drop off", "look by"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s09_e04_c08_u006", "answer": "ended up",
+      "options": ["ended up", "held up", "went off", "turned in"] } ] },
+
+  { "expression": "ashamed", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "feeling embarrassed or guilty about something you have or did",
+    "exchanges": [ { "uid": "s09_e04_c08_u015", "answer": "ashamed",
+      "options": ["ashamed", "assured", "amused", "annoyed"] } ] },
+
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s09_e04_c10_u011", "answer": "made him up",
+      "options": ["made him up", "cheered him up", "gave him up", "brought him up"] } ] },
+
+  { "expression": "made for each other", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "perfectly suited to each other as a couple",
+    "exchanges": [ { "uid": "s09_e04_c07_u020", "answer": "made for each other",
+      "options": ["made for each other", "sick of each other", "mad at each other", "afraid of each other"] } ] },
+
+  { "expression": "drama queen", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "a person who overreacts and treats small things as if they were very serious",
+    "exchanges": [ { "uid": "s09_e04_c01_u009", "answer": "drama queen",
+      "options": ["drama queen", "party animal", "busy bee", "night owl"] } ] },
+
+  { "expression": "better off", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "in a better situation than you would be otherwise",
+    "exchanges": [ { "uid": "s09_e04_c01_u010", "answer": "better off",
+      "options": ["better off", "worse off", "well off", "better known"] } ] },
+
+  { "expression": "freshen up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to wash quickly and make yourself look neat and clean",
+    "exchanges": [ { "uid": "s09_e04_c06_u005", "answer": "freshen up",
+      "options": ["freshen up", "lighten up", "settle up", "speak up"] } ] },
+
+  { "expression": "go along with", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to accept and support a plan or decision even if you are not sure about it",
+    "exchanges": [ { "uid": "s09_e04_c08_u013", "answer": "going along with",
+      "options": ["going along with", "running out of", "looking forward to", "catching up on"] } ] },
+
+  { "expression": "ring a bell", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to sound familiar or remind you of something you have heard before",
+    "exchanges": [ { "uid": "s09_e04_c09_u009", "answer": "ringing any bells",
+      "options": ["ringing any bells", "pulling any strings", "breaking any rules", "telling any lies"] } ] },
+
+  { "expression": "awkward", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "uncomfortable, embarrassing, or clumsy",
+    "exchanges": [ { "uid": "s09_e04_c10_u011", "answer": "awkward",
+      "options": ["awkward", "awesome", "eager", "ambitious"] } ] },
+
+  { "expression": "wake-up call", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "an event that makes you realize you need to change something",
+    "exchanges": [ { "uid": "s09_e04_c12_u002", "answer": "wake up call",
+      "options": ["wake up call", "roll call", "close call", "wake up time"] } ] },
+
+  { "expression": "strike someone as", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to give someone a particular impression of a person or thing",
+    "exchanges": [ { "uid": "s09_e04_c01_u016", "answer": "strike me as",
+      "options": ["strike me as", "talk me into", "count me as", "pass me off"] } ] },
+
+  { "expression": "objectify", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to treat a person, especially a woman, as an object rather than as a human being",
+    "exchanges": [ { "uid": "s09_e04_c02_u003", "answer": "objectify",
+      "options": ["objectify", "identify", "notify", "qualify"] } ] },
+
+  { "expression": "rare breed", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a kind of person who is unusual and hard to find",
+    "exchanges": [ { "uid": "s09_e04_c03_u007", "answer": "rare breed",
+      "options": ["rare breed", "lost cause", "sore loser", "bad apple"], "responseUid": null } ] },
+
+  { "expression": "blow someone off", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to cancel plans with someone or ignore them without giving a good reason",
+    "exchanges": [ { "uid": "s09_e04_c05_u013", "answer": "blow her off",
+      "options": ["blow her off", "show her off", "take her in", "pay her off"], "responseUid": null } ] },
+
+  { "expression": "off night", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "an occasion when someone performs worse than they usually do",
+    "exchanges": [ { "uid": "s09_e04_c07_u017", "answer": "off night",
+      "options": ["off night", "open house", "early bird", "inside job"], "responseUid": "s09_e04_c07_u019" } ] },
+
+  { "expression": "vis-a-vis", "type": "word", "level": "expert", "pos": "adverb",
+    "meaning": "in relation to or regarding something",
+    "exchanges": [ { "uid": "s09_e04_c05_u019", "answer": "Vis-a-vis",
+      "options": ["Vis-a-vis", "ad hoc", "per se", "bona fide"] } ] }
+]
