@@ -103,7 +103,8 @@ const FRIENDS = [
      "a long shot"
     ]
    }
-  ]
+  ],
+  "example": "Don't worry about the broken cup; it's not [[a big deal]]."
  },
  {
   "expression": "a bit of a stretch",
@@ -129,7 +130,8 @@ const FRIENDS = [
      "swing"
     ]
    }
-  ]
+  ],
+  "example": "Calling that little hill a mountain is [[a bit of a stretch]]."
  },
  {
   "expression": "a bite to eat",
@@ -321,7 +323,8 @@ const FRIENDS = [
      "hard sell"
     ]
    }
-  ]
+  ],
+  "example": "I've worked with him for years, but he's still [[a closed book]] to me."
  },
  {
   "expression": "a drop in the bucket",
@@ -374,7 +377,8 @@ const FRIENDS = [
      "a dead end"
     ]
    }
-  ]
+  ],
+  "example": "There's [[a fine line]] between being confident and being arrogant."
  },
  {
   "expression": "a gas",
@@ -400,7 +404,8 @@ const FRIENDS = [
      "a wire"
     ]
    }
-  ]
+  ],
+  "example": "Sitting in traffic for three hours was [[a gas]], let me tell you."
  },
  {
   "expression": "a given",
@@ -575,7 +580,8 @@ const FRIENDS = [
      "a sweeper"
     ]
    }
-  ]
+  ],
+  "example": "He cooks, cleans, and remembers my birthday. He's [[a keeper]]!"
  },
  {
   "expression": "a little birdie told me",
@@ -628,7 +634,8 @@ const FRIENDS = [
      "a little early"
     ]
    }
-  ]
+  ],
+  "example": "Wearing a tuxedo to a backyard barbecue is [[a little much]]."
  },
  {
   "expression": "a lot to take",
@@ -762,7 +769,8 @@ const FRIENDS = [
      "a sense of humor"
     ]
    }
-  ]
+  ],
+  "example": "[[A part of me]] wants to move abroad, but I'd miss my family."
  },
  {
   "expression": "a piece of advice",
@@ -869,7 +877,8 @@ const FRIENDS = [
      "stamp"
     ]
    }
-  ]
+  ],
+  "example": "We got the sofa for fifty dollars, which was [[a steal]]."
  },
  {
   "expression": "a step backwards",
@@ -922,7 +931,8 @@ const FRIENDS = [
      "sore spot"
     ]
    }
-  ]
+  ],
+  "example": "Don't bet all your money on it; nothing is [[a sure thing]]."
  },
  {
   "expression": "a tad",
@@ -1134,7 +1144,8 @@ const FRIENDS = [
      "bill has been paid"
     ]
    }
-  ]
+  ],
+  "example": "When I finally told my parents the truth, I felt [[a weight had been lifted]]."
  },
  {
   "expression": "abandon",
@@ -1302,7 +1313,8 @@ const FRIENDS = [
      "about to swim"
     ]
    }
-  ]
+  ],
+  "example": "My sister is nine months pregnant and looks [[about to pop]]."
  },
  {
   "expression": "abrasive",
@@ -1382,7 +1394,8 @@ const FRIENDS = [
      "abduct"
     ]
    }
-  ]
+  ],
+  "example": "It took me a few days to [[absorb]] the news about my new job."
  },
  {
   "expression": "abysmal",
@@ -1408,7 +1421,8 @@ const FRIENDS = [
      "abstract"
     ]
    }
-  ]
+  ],
+  "example": "The service at that restaurant was [[abysmal]]; we waited an hour for soup."
  },
  {
   "expression": "access",
@@ -1488,7 +1502,8 @@ const FRIENDS = [
      "addressed"
     ]
    }
-  ]
+  ],
+  "example": "We [[accomplished]] a lot at the meeting this morning."
  },
  {
   "expression": "according to",
@@ -1541,7 +1556,8 @@ const FRIENDS = [
      "act sick"
     ]
    }
-  ]
+  ],
+  "example": "Here comes the teacher, so just [[act casual]] and keep reading."
  },
  {
   "expression": "act on",
@@ -1665,7 +1681,8 @@ const FRIENDS = [
      "make your bed"
     ]
    }
-  ]
+  ],
+  "example": "Stop throwing food at your brother and [[act your age]]!"
  },
  {
   "expression": "ad-lib",
@@ -1691,7 +1708,8 @@ const FRIENDS = [
      "babysitting"
     ]
    }
-  ]
+  ],
+  "example": "The speaker forgot her notes, so she had to [[ad-lib]] the whole talk."
  },
  {
   "expression": "add up",
@@ -1778,7 +1796,8 @@ const FRIENDS = [
      "looks up to"
     ]
    }
-  ]
+  ],
+  "example": "All those small coffee purchases [[add up to]] a lot of money."
  },
  {
   "expression": "address",
@@ -1831,7 +1850,8 @@ const FRIENDS = [
      "adopting"
     ]
    }
-  ]
+  ],
+  "example": "We booked [[adjoining]] rooms so the kids could be next to us."
  },
  {
   "expression": "admit",
@@ -2175,7 +2195,8 @@ const FRIENDS = [
      "Without you"
     ]
    }
-  ]
+  ],
+  "example": "He held the door open for me and said, '[[After you]].'"
  },
  {
   "expression": "after-school special",
@@ -2397,7 +2418,8 @@ const FRIENDS = [
      "block"
     ]
    }
-  ]
+  ],
+  "example": "Her father walked her down the [[aisle]] at the start of the wedding."
  },
  {
   "expression": "albeit",
@@ -2423,7 +2445,8 @@ const FRIENDS = [
      "hence"
     ]
    }
-  ]
+  ],
+  "example": "The trip was fun, [[albeit]] a little expensive."
  },
  {
   "expression": "alimony",
@@ -2601,7 +2624,8 @@ const FRIENDS = [
      "all hands on"
     ]
    }
-  ]
+  ],
+  "example": "[[All kidding aside]], I really think you should see a doctor."
  },
  {
   "expression": "all of a sudden",
@@ -2793,7 +2817,8 @@ const FRIENDS = [
      "in the clear"
     ]
    }
-  ]
+  ],
+  "example": "I'm so tired that my thoughts are [[all over the place]] today."
  },
  {
   "expression": "all the way",
@@ -2961,7 +2986,8 @@ const FRIENDS = [
      "haircut"
     ]
    }
-  ]
+  ],
+  "example": "My parents gave me a weekly [[allowance]] of ten dollars."
  },
  {
   "expression": "alone time",
@@ -3112,7 +3138,8 @@ const FRIENDS = [
      "inventing"
     ]
    }
-  ]
+  ],
+  "example": "Oh, sorry, [[am I interrupting?]] I can come back later."
  },
  {
   "expression": "ambiance",
@@ -3361,7 +3388,8 @@ const FRIENDS = [
      "thrifty"
     ]
    }
-  ]
+  ],
+  "example": "The kids got [[antsy]] after two hours in the car."
  },
  {
   "expression": "anxious",
@@ -3387,7 +3415,8 @@ const FRIENDS = [
      "cheerful"
     ]
    }
-  ]
+  ],
+  "example": "I always feel [[anxious]] before a job interview."
  },
  {
   "expression": "any day now",
@@ -3991,7 +4020,8 @@ const FRIENDS = [
      "applications"
     ]
    }
-  ]
+  ],
+  "example": "The new apartment comes with all the kitchen [[appliances]]."
  },
  {
   "expression": "appreciate",
@@ -4220,7 +4250,8 @@ const FRIENDS = [
      "off the record"
     ]
    }
-  ]
+  ],
+  "example": "The nurses at the hospital work [[around the clock]]."
  },
  {
   "expression": "around the corner",
@@ -4246,7 +4277,8 @@ const FRIENDS = [
      "off the hook"
     ]
    }
-  ]
+  ],
+  "example": "Summer vacation is just [[around the corner]], so let's plan a trip."
  },
  {
   "expression": "arrogance",
@@ -4353,7 +4385,8 @@ const FRIENDS = [
      "point of view"
     ]
    }
-  ]
+  ],
+  "example": "I don't hate cooking. [[As a matter of fact]], I love it."
  },
  {
   "expression": "as far as I'm concerned",
@@ -4785,7 +4818,8 @@ const FRIENDS = [
      "selling point"
     ]
    }
-  ]
+  ],
+  "example": "The house was nice, but the [[asking price]] was far too high."
  },
  {
   "expression": "assume",
@@ -4889,7 +4923,8 @@ const FRIENDS = [
      "excuse"
     ]
    }
-  ]
+  ],
+  "example": "I [[assure]] you that your package will arrive tomorrow."
  },
  {
   "expression": "at a time",
@@ -4915,7 +4950,8 @@ const FRIENDS = [
      "in a rush"
     ]
    }
-  ]
+  ],
+  "example": "Please come into the office one [[at a time]]."
  },
  {
   "expression": "at fault",
@@ -5313,7 +5349,8 @@ const FRIENDS = [
      "modern"
     ]
    }
-  ]
+  ],
+  "example": "This little restaurant serves [[authentic]] Italian pizza."
  },
  {
   "expression": "autograph",
@@ -5339,7 +5376,8 @@ const FRIENDS = [
      "biography"
     ]
    }
-  ]
+  ],
+  "example": "My son waited an hour to get the player's [[autograph]]."
  },
  {
   "expression": "aversion",
@@ -5365,7 +5403,8 @@ const FRIENDS = [
      "attraction"
     ]
    }
-  ]
+  ],
+  "example": "I have a strong [[aversion]] to getting up early on weekends."
  },
  {
   "expression": "avert",
@@ -5418,7 +5457,8 @@ const FRIENDS = [
      "imitating"
     ]
    }
-  ]
+  ],
+  "example": "She's been [[avoiding]] me ever since our argument."
  },
  {
   "expression": "awfully",
@@ -5620,7 +5660,8 @@ const FRIENDS = [
      "window-shopping"
     ]
    }
-  ]
+  ],
+  "example": "Before the baby started crawling, we [[baby-proofed]] the whole house."
  },
  {
   "expression": "babysit",
@@ -5937,7 +5978,8 @@ const FRIENDS = [
      "under the weather"
     ]
    }
-  ]
+  ],
+  "example": "The cafe reopened after the repairs, and it's [[back in business]]."
  },
  {
   "expression": "back off",
@@ -6278,7 +6320,8 @@ const FRIENDS = [
      "back up"
     ]
    }
-  ]
+  ],
+  "example": "I was only ten, and [[back then]] I wanted to be an astronaut."
  },
  {
   "expression": "back to square one",
@@ -6331,7 +6374,8 @@ const FRIENDS = [
      "show up"
     ]
    }
-  ]
+  ],
+  "example": "Wait, [[back up]] a second. When did you say you quit?"
  },
  {
   "expression": "backfire",
@@ -6560,7 +6604,8 @@ const FRIENDS = [
      "bad debt"
     ]
    }
-  ]
+  ],
+  "example": "The company got a lot of [[bad press]] after the product recall."
  },
  {
   "expression": "bad timing",
@@ -6586,7 +6631,8 @@ const FRIENDS = [
      "small talk"
     ]
    }
-  ]
+  ],
+  "example": "He asked for a raise on the day of the layoffs. [[Bad timing]]."
  },
  {
   "expression": "bad-mouth",
@@ -6639,7 +6685,8 @@ const FRIENDS = [
      "hobbies"
     ]
    }
-  ]
+  ],
+  "example": "After his divorce, he brought a lot of [[baggage]] into new relationships."
  },
  {
   "expression": "bail",
@@ -6719,7 +6766,8 @@ const FRIENDS = [
      "rock and roll"
     ]
    }
-  ]
+  ],
+  "example": "He can't come out tonight because his [[ball and chain]] wants him home."
  },
  {
   "expression": "balloon up",
@@ -6799,7 +6847,8 @@ const FRIENDS = [
      "bulky"
     ]
    }
-  ]
+  ],
+  "example": "Asking the boss for a raise on your first day is pretty [[ballsy]]."
  },
  {
   "expression": "banter",
@@ -6825,7 +6874,8 @@ const FRIENDS = [
      "plumbing"
     ]
    }
-  ]
+  ],
+  "example": "I enjoy the friendly [[banter]] with my coworkers during lunch."
  },
  {
   "expression": "barefoot",
@@ -6851,7 +6901,8 @@ const FRIENDS = [
      "backward"
     ]
    }
-  ]
+  ],
+  "example": "The kids ran [[barefoot]] across the beach."
  },
  {
   "expression": "barely",
@@ -7100,7 +7151,8 @@ const FRIENDS = [
      "be a joke"
     ]
    }
-  ]
+  ],
+  "example": "[[Be a dear]] and pass me that blanket, would you?"
  },
  {
   "expression": "be a doll",
@@ -7386,7 +7438,8 @@ const FRIENDS = [
      "due to"
     ]
    }
-  ]
+  ],
+  "example": "Students [[are not allowed to]] use their phones during the exam."
  },
  {
   "expression": "be an item",
@@ -7493,7 +7546,8 @@ const FRIENDS = [
      "Be brave"
     ]
    }
-  ]
+  ],
+  "example": "[[Be cool]], okay? It's just a small scratch on the car."
  },
  {
   "expression": "be cool with",
@@ -7563,7 +7617,8 @@ const FRIENDS = [
      "allergic to"
     ]
    }
-  ]
+  ],
+  "example": "Even as a child, she seemed [[destined for]] a career in music."
  },
  {
   "expression": "be done with",
@@ -7792,7 +7847,8 @@ const FRIENDS = [
      "over it"
     ]
    }
-  ]
+  ],
+  "example": "The whole office [[was in on it]], so the surprise party worked perfectly."
  },
  {
   "expression": "be into",
@@ -8211,7 +8267,8 @@ const FRIENDS = [
      "at the last minute"
     ]
    }
-  ]
+  ],
+  "example": "Take an umbrella just to [[be on the safe side]]."
  },
  {
   "expression": "be on top of things",
@@ -8237,7 +8294,8 @@ const FRIENDS = [
      "under the weather"
     ]
    }
-  ]
+  ],
+  "example": "With a new baby, it's hard to [[be on top of things]]."
  },
  {
   "expression": "be onto someone",
@@ -8530,7 +8588,8 @@ const FRIENDS = [
      "be out cold"
     ]
    }
-  ]
+  ],
+  "example": "Wait at the front door, I'll [[be right there]]!"
  },
  {
   "expression": "be screwed",
@@ -8556,7 +8615,8 @@ const FRIENDS = [
      "excused"
     ]
    }
-  ]
+  ],
+  "example": "If I miss the last train home, [[I'm screwed]]."
  },
  {
   "expression": "be set on",
@@ -8758,7 +8818,8 @@ const FRIENDS = [
      "used to"
     ]
    }
-  ]
+  ],
+  "example": "With his patience, he [[is well suited for]] teaching young children."
  },
  {
   "expression": "be supposed to",
@@ -8977,7 +9038,8 @@ const FRIENDS = [
      "in for"
     ]
    }
-  ]
+  ],
+  "example": "Our small team [[is up against]] some of the best schools in the country."
  },
  {
   "expression": "be up to",
@@ -9203,7 +9265,8 @@ const FRIENDS = [
      "prior to"
     ]
    }
-  ]
+  ],
+  "example": "I [[am used to]] getting up early for work."
  },
  {
   "expression": "be with someone on something",
@@ -9229,7 +9292,8 @@ const FRIENDS = [
      "into her"
     ]
    }
-  ]
+  ],
+  "example": "That movie was way too long. [[I'm with you on that]]."
  },
  {
   "expression": "be yourself",
@@ -9255,7 +9319,8 @@ const FRIENDS = [
      "doubt yourself"
     ]
    }
-  ]
+  ],
+  "example": "Don't try so hard to impress them; just [[be yourself]]."
  },
  {
   "expression": "bear false witness",
@@ -9281,7 +9346,8 @@ const FRIENDS = [
      "paid close attention"
     ]
    }
-  ]
+  ],
+  "example": "My grandmother taught us never to [[bear false witness]] against our neighbors."
  },
  {
   "expression": "beat",
@@ -9449,7 +9515,8 @@ const FRIENDS = [
      "hide and seek"
     ]
    }
-  ]
+  ],
+  "example": "He expects his assistant to be at his [[beck and call]] all day."
  },
  {
   "expression": "been there",
@@ -9742,7 +9809,8 @@ const FRIENDS = [
      "once and for all"
     ]
    }
-  ]
+  ],
+  "example": "[[Believe it or not]], my grandpa still runs five miles a day."
  },
  {
   "expression": "believe you me",
@@ -9856,7 +9924,8 @@ const FRIENDS = [
      "edge of the seat"
     ]
    }
-  ]
+  ],
+  "example": "She's never been late before, so let's give her the [[benefit of the doubt]]."
  },
  {
   "expression": "benign",
@@ -9963,7 +10032,8 @@ const FRIENDS = [
      "close calls"
     ]
    }
-  ]
+  ],
+  "example": "Those two have been [[best buds]] since kindergarten."
  },
  {
   "expression": "best man",
@@ -10253,7 +10323,8 @@ const FRIENDS = [
      "in the clear"
     ]
    }
-  ]
+  ],
+  "example": "My old laptop is [[beyond help]]; I need a new one."
  },
  {
   "expression": "bid on",
@@ -10306,7 +10377,8 @@ const FRIENDS = [
      "food fight"
     ]
    }
-  ]
+  ],
+  "example": "Three buyers got into a [[bidding war]] over the little house."
  },
  {
   "expression": "big break",
@@ -10586,7 +10658,8 @@ const FRIENDS = [
      "fair deal"
     ]
    }
-  ]
+  ],
+  "example": "Moving in together is a [[big step]] for any couple."
  },
  {
   "expression": "big time",
@@ -10771,7 +10844,8 @@ const FRIENDS = [
      "skin care"
     ]
    }
-  ]
+  ],
+  "example": "The clinic offers free advice about [[birth control]] to young adults."
  },
  {
   "expression": "bite me",
@@ -11054,7 +11128,8 @@ const FRIENDS = [
      "fish out of water"
     ]
    }
-  ]
+  ],
+  "example": "Hearing that old song on the radio was a real [[blast from the past]]."
  },
  {
   "expression": "blimey",
@@ -11168,7 +11243,8 @@ const FRIENDS = [
      "wallets"
     ]
    }
-  ]
+  ],
+  "example": "Could you close the [[blinds]]? The sun is in my eyes."
  },
  {
   "expression": "blindsided",
@@ -11221,7 +11297,8 @@ const FRIENDS = [
      "carried that out"
     ]
    }
-  ]
+  ],
+  "example": "I've [[blocked out]] most memories of that terrible school trip."
  },
  {
   "expression": "bloke",
@@ -11582,7 +11659,8 @@ const FRIENDS = [
      "threw them out"
     ]
    }
-  ]
+  ],
+  "example": "Her singing at the school concert [[blew me away]]."
  },
  {
   "expression": "blow someone off",
@@ -11757,7 +11835,8 @@ const FRIENDS = [
      "fell flat"
     ]
    }
-  ]
+  ],
+  "example": "When the champion got injured, the race was [[blown wide open]]."
  },
  {
   "expression": "blowout",
@@ -11864,7 +11943,8 @@ const FRIENDS = [
      "guilty"
     ]
    }
-  ]
+  ],
+  "example": "Without my glasses, everything on the board looks [[blurry]]."
  },
  {
   "expression": "blurt out",
@@ -11917,7 +11997,8 @@ const FRIENDS = [
      "guest list"
     ]
    }
-  ]
+  ],
+  "example": "Please have your passport and [[boarding pass]] ready at the gate."
  },
  {
   "expression": "bode well",
@@ -11960,7 +12041,8 @@ const FRIENDS = [
      "sits tight"
     ]
    }
-  ]
+  ],
+  "example": "Losing the first three games doesn't [[bode well]] for our season."
  },
  {
   "expression": "boil down to",
@@ -12040,7 +12122,8 @@ const FRIENDS = [
      "locked down"
     ]
    }
-  ]
+  ],
+  "example": "The hotel is [[booked solid]] for the holiday weekend."
  },
  {
   "expression": "bookish",
@@ -12340,7 +12423,8 @@ const FRIENDS = [
      "vacancies"
     ]
    }
-  ]
+  ],
+  "example": "My roommate needs to respect my [[boundaries]] and stop reading my mail."
  },
  {
   "expression": "boundary issues",
@@ -12366,7 +12450,8 @@ const FRIENDS = [
      "sleep problems"
     ]
    }
-  ]
+  ],
+  "example": "He walks into my room without knocking; he has serious [[boundary issues]]."
  },
  {
   "expression": "bow out",
@@ -12578,7 +12663,8 @@ const FRIENDS = [
      "barren"
     ]
    }
-  ]
+  ],
+  "example": "He told a [[brazen]] lie right in front of his boss."
  },
  {
   "expression": "break down",
@@ -12736,7 +12822,8 @@ const FRIENDS = [
      "put it up"
     ]
    }
-  ]
+  ],
+  "example": "This project is huge, so let's [[break it down]] into small tasks."
  },
  {
   "expression": "break it off",
@@ -12884,7 +12971,8 @@ const FRIENDS = [
      "put this off"
     ]
    }
-  ]
+  ],
+  "example": "The teacher [[broke the poem down]] line by line for the class."
  },
  {
   "expression": "break up",
@@ -13255,7 +13343,8 @@ const FRIENDS = [
      "bringing out"
     ]
    }
-  ]
+  ],
+  "example": "Her second job [[brings in]] an extra five hundred dollars a month."
  },
  {
   "expression": "bring it on",
@@ -13555,7 +13644,8 @@ const FRIENDS = [
      "swim like a fish"
     ]
    }
-  ]
+  ],
+  "example": "Be careful when you hug me; I [[bruise like a peach]]."
  },
  {
   "expression": "brush up against",
@@ -13858,7 +13948,8 @@ const FRIENDS = [
      "hold them back"
     ]
    }
-  ]
+  ],
+  "example": "I'd [[built him up]] so much in my head that meeting him was disappointing."
  },
  {
   "expression": "built into",
@@ -13884,7 +13975,8 @@ const FRIENDS = [
      "left over"
     ]
    }
-  ]
+  ],
+  "example": "The service charge is already [[built into]] the price of the meal."
  },
  {
   "expression": "bum",
@@ -14249,7 +14341,8 @@ const FRIENDS = [
      "hold us up"
     ]
    }
-  ]
+  ],
+  "example": "The airline [[bumped me up]] to business class for free."
  },
  {
   "expression": "burn down",
@@ -14346,7 +14439,8 @@ const FRIENDS = [
      "Breaking the ice"
     ]
    }
-  ]
+  ],
+  "example": "I had to [[burn the midnight oil]] to finish my essay on time."
  },
  {
   "expression": "burst into flames",
@@ -14487,7 +14581,8 @@ const FRIENDS = [
      "put it off"
     ]
    }
-  ]
+  ],
+  "example": "We had to [[bust open]] the old lock because nobody had the key."
  },
  {
   "expression": "busted",
@@ -14601,7 +14696,8 @@ const FRIENDS = [
      "bail him out"
     ]
    }
-  ]
+  ],
+  "example": "He's [[buttering up]] his mom because he wants to borrow the car."
  },
  {
   "expression": "buy",
@@ -14688,7 +14784,8 @@ const FRIENDS = [
      "fog"
     ]
    }
-  ]
+  ],
+  "example": "There's a lot of [[buzz]] about the new superhero movie."
  },
  {
   "expression": "buzz in",
@@ -14978,7 +15075,8 @@ const FRIENDS = [
      "day a day"
     ]
    }
-  ]
+  ],
+  "example": "Let's [[call a spade a spade]]: this plan is simply not working."
  },
  {
   "expression": "call attention to",
@@ -15170,7 +15268,8 @@ const FRIENDS = [
      "take into account"
     ]
    }
-  ]
+  ],
+  "example": "The new data [[calls into question]] everything we thought we knew."
  },
  {
   "expression": "call it",
@@ -15680,7 +15779,8 @@ const FRIENDS = [
      "pack of lies"
     ]
    }
-  ]
+  ],
+  "example": "Asking about the family money opened a real [[can of worms]]."
  },
  {
   "expression": "can you blame him",
@@ -15706,7 +15806,8 @@ const FRIENDS = [
      "wake"
     ]
    }
-  ]
+  ],
+  "example": "He quit after they cut his pay again. [[Can you blame him]]?"
  },
  {
   "expression": "can't blame a guy for trying",
@@ -15813,7 +15914,8 @@ const FRIENDS = [
      "can't get through"
     ]
    }
-  ]
+  ],
+  "example": "I [[can't get over]] how much my hometown has changed."
  },
  {
   "expression": "can't help doing",
@@ -16286,7 +16388,8 @@ const FRIENDS = [
      "pay for"
     ]
    }
-  ]
+  ],
+  "example": "I don't really [[care for]] spicy food, to be honest."
  },
  {
   "expression": "care to",
@@ -16312,7 +16415,8 @@ const FRIENDS = [
      "ought to"
     ]
    }
-  ]
+  ],
+  "example": "Would you [[care to]] join us for dinner on Friday?"
  },
  {
   "expression": "carry on",
@@ -16355,7 +16459,8 @@ const FRIENDS = [
      "put down"
     ]
    }
-  ]
+  ],
+  "example": "As the only son, he felt pressure to [[carry on]] the family name."
  },
  {
   "expression": "carry out",
@@ -16408,7 +16513,8 @@ const FRIENDS = [
      "pull-ups"
     ]
    }
-  ]
+  ],
+  "example": "I only brought a [[carry-on]], so I didn't have to check a bag."
  },
  {
   "expression": "casket",
@@ -16982,7 +17088,8 @@ const FRIENDS = [
      "stranded"
     ]
    }
-  ]
+  ],
+  "example": "Yoga helps me feel calm and [[centered]] before a busy day."
  },
  {
   "expression": "chameleon",
@@ -17025,7 +17132,8 @@ const FRIENDS = [
      "centipede"
     ]
    }
-  ]
+  ],
+  "example": "He's a social [[chameleon]] who fits in with any group of people."
  },
  {
   "expression": "chances are",
@@ -17789,7 +17897,8 @@ const FRIENDS = [
      "backing her up"
     ]
    }
-  ]
+  ],
+  "example": "That guy by the window keeps [[checking you out]]."
  },
  {
   "expression": "check this out",
@@ -17893,7 +18002,8 @@ const FRIENDS = [
      "choosy"
     ]
    }
-  ]
+  ],
+  "example": "The [[cheeky]] boy stuck his tongue out at the teacher."
  },
  {
   "expression": "cheer up",
@@ -17997,7 +18107,8 @@ const FRIENDS = [
      "soggy"
     ]
    }
-  ]
+  ],
+  "example": "He wrote me a [[cheesy]] love poem full of roses and moonlight."
  },
  {
   "expression": "chemistry",
@@ -18050,7 +18161,8 @@ const FRIENDS = [
      "vanish"
     ]
    }
-  ]
+  ],
+  "example": "I [[cherish]] the summers I spent at my grandparents' farm."
  },
  {
   "expression": "chick magnet",
@@ -18147,7 +18259,8 @@ const FRIENDS = [
      "whistle"
     ]
    }
-  ]
+  ],
+  "example": "[[Chill]], it's only a test. You'll do fine."
  },
  {
   "expression": "chilling",
@@ -18271,7 +18384,8 @@ const FRIENDS = [
      "tick-tocking"
     ]
    }
-  ]
+  ],
+  "example": "We [[chit-chatted]] about the weather while we waited for the bus."
  },
  {
   "expression": "chop off",
@@ -18368,7 +18482,8 @@ const FRIENDS = [
      "boss"
     ]
    }
-  ]
+  ],
+  "example": "I felt like a [[chump]] for lending him money again."
  },
  {
   "expression": "chump change",
@@ -18421,7 +18536,8 @@ const FRIENDS = [
      "chilly"
     ]
    }
-  ]
+  ],
+  "example": "They had a very [[classy]] wedding at an old hotel."
  },
  {
   "expression": "clean up",
@@ -18447,7 +18563,8 @@ const FRIENDS = [
      "sign up"
     ]
    }
-  ]
+  ],
+  "example": "Please [[clean up]] the kitchen before your parents get home."
  },
  {
   "expression": "clean up good",
@@ -18473,7 +18590,8 @@ const FRIENDS = [
      "break up"
     ]
    }
-  ]
+  ],
+  "example": "Wow, you [[clean up good]] in that suit and tie!"
  },
  {
   "expression": "clear up",
@@ -18722,7 +18840,8 @@ const FRIENDS = [
      "less often"
     ]
    }
-  ]
+  ],
+  "example": "It's not exactly the color I wanted, but it's [[close enough]]."
  },
  {
   "expression": "close one",
@@ -18873,7 +18992,8 @@ const FRIENDS = [
      "polite"
     ]
    }
-  ]
+  ],
+  "example": "I'm so [[clumsy]] that I broke two glasses this week."
  },
  {
   "expression": "coaster",
@@ -19041,7 +19161,8 @@ const FRIENDS = [
      "controversial"
     ]
    }
-  ]
+  ],
+  "example": "It was purely [[coincidental]] that we booked the same flight."
  },
  {
   "expression": "cold turkey",
@@ -19121,7 +19242,8 @@ const FRIENDS = [
      "tenant"
     ]
    }
-  ]
+  ],
+  "example": "I'm having lunch with a [[colleague]] from the marketing department."
  },
  {
   "expression": "colour-coded",
@@ -19147,7 +19269,8 @@ const FRIENDS = [
      "tight-lipped"
     ]
    }
-  ]
+  ],
+  "example": "Her school notes are all [[colour-coded]] by subject."
  },
  {
   "expression": "come along",
@@ -19217,7 +19340,8 @@ const FRIENDS = [
      "hit and run"
     ]
    }
-  ]
+  ],
+  "example": "The pain in my knee seems to [[come and go]]."
  },
  {
   "expression": "come around",
@@ -19287,7 +19411,8 @@ const FRIENDS = [
      "stay home and sleep"
     ]
    }
-  ]
+  ],
+  "example": "Skipping all those classes will [[come back and bite you]] at exam time."
  },
  {
   "expression": "come between",
@@ -19445,7 +19570,8 @@ const FRIENDS = [
      "get back at"
     ]
    }
-  ]
+  ],
+  "example": "The coach [[came down on]] us hard for missing practice."
  },
  {
   "expression": "come down to",
@@ -19664,7 +19790,8 @@ const FRIENDS = [
      "falling in"
     ]
    }
-  ]
+  ],
+  "example": "He tends to [[come on strong]], and it scares people away on first dates."
  },
  {
   "expression": "come on to",
@@ -19768,7 +19895,8 @@ const FRIENDS = [
      "showing off"
     ]
    }
-  ]
+  ],
+  "example": "He [[came out]] to his parents during his first year of college."
  },
  {
   "expression": "come out and say",
@@ -19963,7 +20091,8 @@ const FRIENDS = [
      "care"
     ]
    }
-  ]
+  ],
+  "example": "[[Come to think of it]], I haven't seen her since last summer."
  },
  {
   "expression": "come true",
@@ -20155,7 +20284,8 @@ const FRIENDS = [
      "turning up"
     ]
    }
-  ]
+  ],
+  "example": "How's your new kitchen [[coming along]]? Almost finished?"
  },
  {
   "expression": "commencement",
@@ -20286,7 +20416,8 @@ const FRIENDS = [
      "tax returns"
     ]
    }
-  ]
+  ],
+  "example": "He's dated for years but never settles down; he has [[commitment issues]]."
  },
  {
   "expression": "commute",
@@ -20508,7 +20639,8 @@ const FRIENDS = [
      "compulsory"
     ]
    }
-  ]
+  ],
+  "example": "The hotel offers [[complimentary]] breakfast to all guests."
  },
  {
   "expression": "comprehend",
@@ -20767,7 +20899,8 @@ const FRIENDS = [
      "recipes"
     ]
    }
-  ]
+  ],
+  "example": "Please accept my [[condolences]] on the loss of your father."
  },
  {
   "expression": "confess",
@@ -20955,7 +21088,8 @@ const FRIENDS = [
      "consensus"
     ]
    }
-  ]
+  ],
+  "example": "Without real evidence, his theory is just [[conjecture]]."
  },
  {
   "expression": "connect with",
@@ -21062,7 +21196,8 @@ const FRIENDS = [
      "consistent"
     ]
    }
-  ]
+  ],
+  "example": "It was very [[considerate]] of you to bring us dinner."
  },
  {
   "expression": "console",
@@ -21105,7 +21240,8 @@ const FRIENDS = [
      "conceded"
     ]
    }
-  ]
+  ],
+  "example": "She tried to [[console]] her son after his team lost the game."
  },
  {
   "expression": "consummate",
@@ -21175,7 +21311,8 @@ const FRIENDS = [
      "tenants"
     ]
    }
-  ]
+  ],
+  "example": "Each [[contestant]] on the quiz show has thirty seconds to answer."
  },
  {
   "expression": "contraceptive",
@@ -21201,7 +21338,8 @@ const FRIENDS = [
      "Vaccines"
     ]
    }
-  ]
+  ],
+  "example": "The doctor explained how the [[contraceptive]] pill works."
  },
  {
   "expression": "control freak",
@@ -21342,7 +21480,8 @@ const FRIENDS = [
      "rain check"
     ]
    }
-  ]
+  ],
+  "example": "That strange old clock in the hall is a real [[conversation piece]]."
  },
  {
   "expression": "convince",
@@ -21520,7 +21659,8 @@ const FRIENDS = [
      "coached"
     ]
    }
-  ]
+  ],
+  "example": "The teacher tried to [[corral]] the excited kids into the bus."
  },
  {
   "expression": "cost a fortune",
@@ -21749,7 +21889,8 @@ const FRIENDS = [
      "couldn't help it"
     ]
    }
-  ]
+  ],
+  "example": "I [[couldn't care less]] about football, so I skipped the game."
  },
  {
   "expression": "courtesy",
@@ -21775,7 +21916,8 @@ const FRIENDS = [
      "currency"
     ]
    }
-  ]
+  ],
+  "example": "It's common [[courtesy]] to say thank you when someone helps you."
  },
  {
   "expression": "cover for",
@@ -21899,7 +22041,8 @@ const FRIENDS = [
      "hero"
     ]
    }
-  ]
+  ],
+  "example": "I was too much of a [[coward]] to tell him the truth."
  },
  {
   "expression": "crabby",
@@ -22297,7 +22440,8 @@ const FRIENDS = [
      "glazed"
     ]
    }
-  ]
+  ],
+  "example": "Work has been [[crazed]] this week, so I haven't called anyone."
  },
  {
   "expression": "crazy about",
@@ -22645,7 +22789,8 @@ const FRIENDS = [
      "ladder"
     ]
    }
-  ]
+  ],
+  "example": "The baby fell asleep in her [[crib]] after a long bath."
  },
  {
   "expression": "cringe",
@@ -22671,7 +22816,8 @@ const FRIENDS = [
      "whistled"
     ]
    }
-  ]
+  ],
+  "example": "I still [[cringe]] when I think about my old school photos."
  },
  {
   "expression": "crippled",
@@ -22697,7 +22843,8 @@ const FRIENDS = [
      "delighted"
     ]
    }
-  ]
+  ],
+  "example": "She was [[crippled]] by fear and couldn't leave the house for months."
  },
  {
   "expression": "crisp",
@@ -22750,7 +22897,8 @@ const FRIENDS = [
      "tip off"
     ]
    }
-  ]
+  ],
+  "example": "I [[crossed off]] each item on my shopping list as I found it."
  },
  {
   "expression": "cross paths",
@@ -22776,7 +22924,8 @@ const FRIENDS = [
      "break ground"
     ]
    }
-  ]
+  ],
+  "example": "We [[crossed paths]] again years later at a friend's wedding."
  },
  {
   "expression": "cross the line",
@@ -22846,7 +22995,8 @@ const FRIENDS = [
      "stepping in"
     ]
    }
-  ]
+  ],
+  "example": "I had to [[crouch down]] to look under the car."
  },
  {
   "expression": "crumple",
@@ -22916,7 +23066,8 @@ const FRIENDS = [
      "rush"
     ]
    }
-  ]
+  ],
+  "example": "In high school, I had a huge [[crush]] on my lab partner."
  },
  {
   "expression": "crushed",
@@ -23236,7 +23387,8 @@ const FRIENDS = [
      "spot-check"
     ]
    }
-  ]
+  ],
+  "example": "The tailor will [[custom-make]] a suit to fit you perfectly."
  },
  {
   "expression": "cut back",
@@ -23776,7 +23928,8 @@ const FRIENDS = [
      "fair game"
     ]
    }
-  ]
+  ],
+  "example": "After his divorce, he felt like [[damaged goods]] nobody would want."
  },
  {
   "expression": "damning",
@@ -23829,7 +23982,8 @@ const FRIENDS = [
      "draft"
     ]
    }
-  ]
+  ],
+  "example": "He ate the hot pepper on a [[dare]] from his friends."
  },
  {
   "expression": "darn",
@@ -24007,7 +24161,8 @@ const FRIENDS = [
      "Mixed up"
     ]
    }
-  ]
+  ],
+  "example": "Your guess about the price was [[dead on]]."
  },
  {
   "expression": "dead serious",
@@ -24131,7 +24286,8 @@ const FRIENDS = [
      "shy"
     ]
    }
-  ]
+  ],
+  "example": "My grandfather is partly [[deaf]], so please speak loudly."
  },
  {
   "expression": "deal with",
@@ -24235,7 +24391,8 @@ const FRIENDS = [
      "momentum"
     ]
    }
-  ]
+  ],
+  "example": "Please show some [[decorum]] at the funeral and turn off your phone."
  },
  {
   "expression": "deduct",
@@ -24288,7 +24445,8 @@ const FRIENDS = [
      "portable"
     ]
    }
-  ]
+  ],
+  "example": "Some work expenses are tax [[deductible]], so keep your receipts."
  },
  {
   "expression": "defense mechanism",
@@ -24412,7 +24570,8 @@ const FRIENDS = [
      "dimension"
     ]
    }
-  ]
+  ],
+  "example": "The new snack is aimed at a younger [[demographic]]."
  },
  {
   "expression": "dense",
@@ -24712,7 +24871,8 @@ const FRIENDS = [
      "reputation"
     ]
    }
-  ]
+  ],
+  "example": "Our final [[destination]] on the trip was Rome."
  },
  {
   "expression": "devastated",
@@ -24853,7 +25013,8 @@ const FRIENDS = [
      "wear out"
     ]
    }
-  ]
+  ],
+  "example": "Could you [[dial down]] the music a little? I'm trying to study."
  },
  {
   "expression": "dial it down",
@@ -24879,7 +25040,8 @@ const FRIENDS = [
      "TALK IT OUT"
     ]
    }
-  ]
+  ],
+  "example": "Okay, [[dial it down]]. It's just a board game, not a war."
  },
  {
   "expression": "die out",
@@ -25057,7 +25219,8 @@ const FRIENDS = [
      "elevated"
     ]
    }
-  ]
+  ],
+  "example": "The nurse said she was four centimeters [[dilated]] and the baby was coming."
  },
  {
   "expression": "dim",
@@ -25272,7 +25435,8 @@ const FRIENDS = [
      "looks after"
     ]
    }
-  ]
+  ],
+  "example": "My parents [[disapprove of]] my plan to drop out of college."
  },
  {
   "expression": "discomfort",
@@ -25298,7 +25462,8 @@ const FRIENDS = [
      "dispute"
     ]
    }
-  ]
+  ],
+  "example": "You may feel some [[discomfort]] after the dental surgery."
  },
  {
   "expression": "disconnected",
@@ -25405,7 +25570,8 @@ const FRIENDS = [
      "sort it out"
     ]
    }
-  ]
+  ],
+  "example": "He loves to [[dish it out]], but he can't take a joke himself."
  },
  {
   "expression": "dismantle",
@@ -25458,7 +25624,8 @@ const FRIENDS = [
      "disinfected"
     ]
    }
-  ]
+  ],
+  "example": "I felt [[disoriented]] when I woke up in the dark hotel room."
  },
  {
   "expression": "disposable",
@@ -25484,7 +25651,8 @@ const FRIENDS = [
      "reliable"
     ]
    }
-  ]
+  ],
+  "example": "We used [[disposable]] plates and cups at the picnic."
  },
  {
   "expression": "disregard",
@@ -25510,7 +25678,8 @@ const FRIENDS = [
      "dismissal"
     ]
    }
-  ]
+  ],
+  "example": "The driver showed a total [[disregard]] for the safety of others."
  },
  {
   "expression": "disrupt",
@@ -25580,7 +25749,8 @@ const FRIENDS = [
      "displaced"
     ]
    }
-  ]
+  ],
+  "example": "I found his jokes about the accident very [[distasteful]]."
  },
  {
   "expression": "distinctly",
@@ -25606,7 +25776,8 @@ const FRIENDS = [
      "fairly"
     ]
    }
-  ]
+  ],
+  "example": "I [[distinctly]] remember locking the door before we left."
  },
  {
   "expression": "distract",
@@ -25659,7 +25830,8 @@ const FRIENDS = [
      "decorated"
     ]
    }
-  ]
+  ],
+  "example": "I was [[distracted]] by my phone and missed the teacher's question."
  },
  {
   "expression": "distraction",
@@ -26334,7 +26506,8 @@ const FRIENDS = [
      "lending"
     ]
    }
-  ]
+  ],
+  "example": "He's been [[dodging]] my calls all week."
  },
  {
   "expression": "domineering",
@@ -26360,7 +26533,8 @@ const FRIENDS = [
      "generous"
     ]
    }
-  ]
+  ],
+  "example": "Her [[domineering]] boss checks every email she writes."
  },
  {
   "expression": "don't come crying to me",
@@ -26579,7 +26753,8 @@ const FRIENDS = [
      "go out of style"
     ]
    }
-  ]
+  ],
+  "example": "Good babysitters [[don't grow on trees]], so be nice to her."
  },
  {
   "expression": "don't hold your breath",
@@ -26605,7 +26780,8 @@ const FRIENDS = [
      "horse"
     ]
    }
-  ]
+  ],
+  "example": "He says he'll pay me back soon, but [[don't hold your breath]]."
  },
  {
   "expression": "don't push it",
@@ -27003,7 +27179,8 @@ const FRIENDS = [
      "blind side"
     ]
    }
-  ]
+  ],
+  "example": "We went on a [[double date]] with my sister and her boyfriend."
  },
  {
   "expression": "double feature",
@@ -27100,7 +27277,8 @@ const FRIENDS = [
      "Broken promises"
     ]
    }
-  ]
+  ],
+  "example": "Boys can stay out late but girls can't? That's a [[double standard]]."
  },
  {
   "expression": "drag through the mud",
@@ -27153,7 +27331,8 @@ const FRIENDS = [
      "night owl"
     ]
    }
-  ]
+  ],
+  "example": "Stop being such a [[drama queen]]; it's only a paper cut."
  },
  {
   "expression": "drastic measures",
@@ -27206,7 +27385,8 @@ const FRIENDS = [
      "blew"
     ]
    }
-  ]
+  ],
+  "example": "After a long day, I [[drew a bath]] and relaxed with a book."
  },
  {
   "expression": "draw on",
@@ -27286,7 +27466,8 @@ const FRIENDS = [
      "draw lines"
     ]
    }
-  ]
+  ],
+  "example": "Nobody wanted to clean the bathroom, so we [[drew straws]]."
  },
  {
   "expression": "draw the line",
@@ -27312,7 +27493,8 @@ const FRIENDS = [
      "miss the boat"
     ]
    }
-  ]
+  ],
+  "example": "I'll help you move, but I [[draw the line]] at carrying the piano."
  },
  {
   "expression": "dread",
@@ -27531,7 +27713,8 @@ const FRIENDS = [
      "washed up"
     ]
    }
-  ]
+  ],
+  "example": "Why are you all [[dressed up]]? Are you going to a party?"
  },
  {
   "expression": "drift apart",
@@ -28102,7 +28285,8 @@ const FRIENDS = [
      "shrug"
     ]
    }
-  ]
+  ],
+  "example": "I had to [[duck]] when the ball flew toward my head."
  },
  {
   "expression": "dud",
@@ -28189,7 +28373,8 @@ const FRIENDS = [
      "last date"
     ]
    }
-  ]
+  ],
+  "example": "My sister's [[due date]] is in early March."
  },
  {
   "expression": "duh",
@@ -28540,7 +28725,8 @@ const FRIENDS = [
      "grocery list"
     ]
    }
-  ]
+  ],
+  "example": "Her grandfather's [[dying wish]] was to see her graduate."
  },
  {
   "expression": "earmark",
@@ -28718,7 +28904,8 @@ const FRIENDS = [
      "pull his weight"
     ]
    }
-  ]
+  ],
+  "example": "When he sees my new car, he'll [[eat his heart out]]."
  },
  {
   "expression": "eat right",
@@ -28744,7 +28931,8 @@ const FRIENDS = [
      "eat in"
     ]
    }
-  ]
+  ],
+  "example": "If you want more energy, try to sleep well and [[eat right]]."
  },
  {
   "expression": "eat someone alive",
@@ -29145,7 +29333,8 @@ const FRIENDS = [
      "rewarding"
     ]
    }
-  ]
+  ],
+  "example": "It was so [[embarrassing]] when I called my teacher Mom."
  },
  {
   "expression": "end in",
@@ -29171,7 +29360,8 @@ const FRIENDS = [
      "turn out"
     ]
    }
-  ]
+  ],
+  "example": "Their long argument [[ended in]] tears."
  },
  {
   "expression": "end of an era",
@@ -29515,7 +29705,8 @@ const FRIENDS = [
      "Too bad"
     ]
    }
-  ]
+  ],
+  "example": "'The boss is in a terrible mood today.' '[[Enough said]].'"
  },
  {
   "expression": "entail",
@@ -29622,7 +29813,8 @@ const FRIENDS = [
      "exhibit"
     ]
    }
-  ]
+  ],
+  "example": "My uncle is a model train [[enthusiast]] with a whole room of tracks."
  },
  {
   "expression": "enthusiastic",
@@ -29648,7 +29840,8 @@ const FRIENDS = [
      "reluctant"
     ]
    }
-  ]
+  ],
+  "example": "The students were very [[enthusiastic]] about the class trip."
  },
  {
   "expression": "entice",
@@ -29701,7 +29894,8 @@ const FRIENDS = [
      "addicted to"
     ]
    }
-  ]
+  ],
+  "example": "After working all weekend, you're [[entitled to]] a day off."
  },
  {
   "expression": "enunciate",
@@ -29744,7 +29938,8 @@ const FRIENDS = [
      "Meditate"
     ]
    }
-  ]
+  ],
+  "example": "Please [[enunciate]] clearly so everyone at the back can hear you."
  },
  {
   "expression": "errand",
@@ -29797,7 +29992,8 @@ const FRIENDS = [
      "custody"
     ]
    }
-  ]
+  ],
+  "example": "The buyer's deposit will be held in [[escrow]] until the sale closes."
  },
  {
   "expression": "essence",
@@ -29904,7 +30100,8 @@ const FRIENDS = [
      "let that go"
     ]
    }
-  ]
+  ],
+  "example": "Use the rake to [[even out]] the soil before planting."
  },
  {
   "expression": "even things out",
@@ -30153,7 +30350,8 @@ const FRIENDS = [
      "Equally"
     ]
    }
-  ]
+  ],
+  "example": "[[Evidently]], nobody read the email, because nobody came to the meeting."
  },
  {
   "expression": "ex-con",
@@ -30179,7 +30377,8 @@ const FRIENDS = [
      "has-been"
     ]
    }
-  ]
+  ],
+  "example": "The bakery hires [[ex-cons]] to help them start a new life."
  },
  {
   "expression": "excavate",
@@ -30205,7 +30404,8 @@ const FRIENDS = [
      "exterminated"
     ]
    }
-  ]
+  ],
+  "example": "Scientists [[excavated]] the site and found dinosaur bones."
  },
  {
   "expression": "exceptionally",
@@ -30302,7 +30502,8 @@ const FRIENDS = [
      "example"
     ]
    }
-  ]
+  ],
+  "example": "What's your [[excuse]] for being late this time?"
  },
  {
   "expression": "exfoliate",
@@ -30443,7 +30644,8 @@ const FRIENDS = [
      "exceed"
     ]
    }
-  ]
+  ],
+  "example": "The police decided to [[exhume]] the body to look for new evidence."
  },
  {
   "expression": "expense account",
@@ -30797,7 +30999,8 @@ const FRIENDS = [
      "Lose track"
     ]
    }
-  ]
+  ],
+  "example": "Let's [[face facts]]: we can't afford a new car this year."
  },
  {
   "expression": "face to face",
@@ -31449,7 +31652,8 @@ const FRIENDS = [
      "running over"
     ]
    }
-  ]
+  ],
+  "example": "The two brothers had a [[falling-out]] over their father's house."
  },
  {
   "expression": "false labor",
@@ -31519,7 +31723,8 @@ const FRIENDS = [
      "dead end"
     ]
    }
-  ]
+  ],
+  "example": "The first test was a [[false positive]], so he wasn't sick after all."
  },
  {
   "expression": "falsely accused",
@@ -31545,7 +31750,8 @@ const FRIENDS = [
      "highly rated"
     ]
    }
-  ]
+  ],
+  "example": "He was [[falsely accused]] of stealing money from the office."
  },
  {
   "expression": "familiar with",
@@ -31615,7 +31821,8 @@ const FRIENDS = [
      "sit tight"
     ]
    }
-  ]
+  ],
+  "example": "The search team [[fanned out]] across the field to look for the dog."
  },
  {
   "expression": "fancy",
@@ -31641,7 +31848,8 @@ const FRIENDS = [
      "messy"
     ]
    }
-  ]
+  ],
+  "example": "We ate at a [[fancy]] restaurant with candles and white tablecloths."
  },
  {
   "expression": "far along",
@@ -31667,7 +31875,8 @@ const FRIENDS = [
      "hard up"
     ]
    }
-  ]
+  ],
+  "example": "How [[far along]] is your sister? Is the baby due soon?"
  },
  {
   "expression": "fascinating",
@@ -31774,7 +31983,8 @@ const FRIENDS = [
      "grandfather"
     ]
    }
-  ]
+  ],
+  "example": "My [[father-in-law]] taught my husband how to fish."
  },
  {
   "expression": "feasible",
@@ -31800,7 +32010,8 @@ const FRIENDS = [
      "legible"
     ]
    }
-  ]
+  ],
+  "example": "Is it [[feasible]] to finish the project by Friday?"
  },
  {
   "expression": "feat",
@@ -32073,7 +32284,8 @@ const FRIENDS = [
      "fluffy"
     ]
    }
-  ]
+  ],
+  "example": "My [[feisty]] grandmother still argues with anyone about politics."
  },
  {
   "expression": "felon",
@@ -32153,7 +32365,8 @@ const FRIENDS = [
      "navigation"
     ]
    }
-  ]
+  ],
+  "example": "During [[fermentation]], the yeast turns the sugar in grape juice into alcohol."
  },
  {
   "expression": "festive",
@@ -32321,7 +32534,8 @@ const FRIENDS = [
      "state of mind"
     ]
    }
-  ]
+  ],
+  "example": "When I said I'd kill him, it was just a [[figure of speech]]."
  },
  {
   "expression": "figure out",
@@ -32530,7 +32744,8 @@ const FRIENDS = [
      "turn me down"
     ]
    }
-  ]
+  ],
+  "example": "I missed the meeting, so please [[fill me in]] on what happened."
  },
  {
   "expression": "fill out",
@@ -32732,7 +32947,8 @@ const FRIENDS = [
      "fluent"
     ]
    }
-  ]
+  ],
+  "example": "After the football game, his clothes were [[filthy]]."
  },
  {
   "expression": "filthy rich",
@@ -33032,7 +33248,8 @@ const FRIENDS = [
      "making up"
     ]
    }
-  ]
+  ],
+  "example": "Let me [[finish up]] this email, and then we can go to lunch."
  },
  {
   "expression": "fire escape",
@@ -33673,7 +33890,8 @@ const FRIENDS = [
      "conceal"
     ]
    }
-  ]
+  ],
+  "example": "He likes to [[flaunt]] his expensive watch at parties."
  },
  {
   "expression": "flaw",
@@ -33743,7 +33961,8 @@ const FRIENDS = [
      "fire hazard"
     ]
    }
-  ]
+  ],
+  "example": "The judge refused bail because the man was a [[flight risk]]."
  },
  {
   "expression": "flimsy",
@@ -33769,7 +33988,8 @@ const FRIENDS = [
      "salty"
     ]
    }
-  ]
+  ],
+  "example": "The [[flimsy]] plastic chair broke as soon as I sat on it."
  },
  {
   "expression": "fling",
@@ -34127,7 +34347,8 @@ const FRIENDS = [
      "fasting"
     ]
    }
-  ]
+  ],
+  "example": "He always [[flirts]] with the waitress at our favorite cafe."
  },
  {
   "expression": "flirt with",
@@ -34207,7 +34428,8 @@ const FRIENDS = [
      "famous"
     ]
    }
-  ]
+  ],
+  "example": "After two years in Madrid, she became [[fluent]] in Spanish."
  },
  {
   "expression": "folks",
@@ -34727,7 +34949,8 @@ const FRIENDS = [
      "for appearance' sake"
     ]
    }
-  ]
+  ],
+  "example": "Let's say, [[for argument's sake]], that the train is an hour late."
  },
  {
   "expression": "for crying out loud",
@@ -35000,7 +35223,8 @@ const FRIENDS = [
      "in advance"
     ]
    }
-  ]
+  ],
+  "example": "I read history books for work, but novels I read [[for pleasure]]."
  },
  {
   "expression": "for real",
@@ -35087,7 +35311,8 @@ const FRIENDS = [
      "on my birthday"
     ]
    }
-  ]
+  ],
+  "example": "The teacher repeated the instructions slowly [[for the new student's benefit]]."
  },
  {
   "expression": "for starters",
@@ -35201,7 +35426,8 @@ const FRIENDS = [
      "at the top"
     ]
    }
-  ]
+  ],
+  "example": "Losing that job hurt, but it turned out to be [[for the best]]."
  },
  {
   "expression": "for the hell of it",
@@ -35542,7 +35768,8 @@ const FRIENDS = [
      "sour grapes"
     ]
    }
-  ]
+  ],
+  "example": "To the kids, the cookies on the top shelf were [[forbidden fruit]]."
  },
  {
   "expression": "forever ago",
@@ -35568,7 +35795,8 @@ const FRIENDS = [
      "far away"
     ]
    }
-  ]
+  ],
+  "example": "I haven't been to that restaurant in ages; we went there [[forever ago]]."
  },
  {
   "expression": "forfeit",
@@ -35594,7 +35822,8 @@ const FRIENDS = [
      "forbids"
     ]
    }
-  ]
+  ],
+  "example": "Our team had to [[forfeit]] the game because two players showed up late."
  },
  {
   "expression": "forget about it",
@@ -35887,7 +36116,8 @@ const FRIENDS = [
      "sleepy"
     ]
    }
-  ]
+  ],
+  "example": "The cuffs of his old jacket were [[frayed]] and full of loose threads."
  },
  {
   "expression": "freak",
@@ -36045,7 +36275,8 @@ const FRIENDS = [
      "car wash"
     ]
    }
-  ]
+  ],
+  "example": "The mall on Black Friday was a total [[freak show]]."
  },
  {
   "expression": "freakishly",
@@ -36196,7 +36427,8 @@ const FRIENDS = [
      "speak up"
     ]
    }
-  ]
+  ],
+  "example": "Give me five minutes to [[freshen up]] before we go to dinner."
  },
  {
   "expression": "frightening",
@@ -36523,7 +36755,8 @@ const FRIENDS = [
      "spy on"
     ]
    }
-  ]
+  ],
+  "example": "My school [[frowns on]] students using their phones during lunch."
  },
  {
   "expression": "frown upon",
@@ -36620,7 +36853,8 @@ const FRIENDS = [
      "satisfying"
     ]
    }
-  ]
+  ],
+  "example": "It's really [[frustrating]] when the Wi-Fi keeps cutting out during a meeting."
  },
  {
   "expression": "full of it",
@@ -36673,7 +36907,8 @@ const FRIENDS = [
      "accidentally"
     ]
    }
-  ]
+  ],
+  "example": "The two plans are [[fundamentally]] different, so we need to choose one."
  },
  {
   "expression": "fuss",
@@ -36699,7 +36934,8 @@ const FRIENDS = [
      "feud"
     ]
    }
-  ]
+  ],
+  "example": "There was a lot of [[fuss]] about the new coffee machine at work."
  },
  {
   "expression": "gain weight",
@@ -36752,7 +36988,8 @@ const FRIENDS = [
      "right hand"
     ]
    }
-  ]
+  ],
+  "example": "The magazine says the singer was spotted shopping with her [[gal pal]]."
  },
  {
   "expression": "gallivanting",
@@ -36876,7 +37113,8 @@ const FRIENDS = [
      "sober up"
     ]
    }
-  ]
+  ],
+  "example": "We should [[gas up]] the car before we start the long drive."
  },
  {
   "expression": "gassy",
@@ -37318,7 +37556,8 @@ const FRIENDS = [
      "Get the hang of"
     ]
    }
-  ]
+  ],
+  "example": "[[Get a load of]] that huge cake they brought to the office!"
  },
  {
   "expression": "get a move on",
@@ -37608,7 +37847,8 @@ const FRIENDS = [
      "a spoonful"
     ]
    }
-  ]
+  ],
+  "example": "I came home late again and [[got an earful]] from my mom."
  },
  {
   "expression": "get around",
@@ -37634,7 +37874,8 @@ const FRIENDS = [
      "get away"
     ]
    }
-  ]
+  ],
+  "example": "He found a way to [[get around]] the library's two-book limit."
  },
  {
   "expression": "get at",
@@ -37748,7 +37989,8 @@ const FRIENDS = [
      "look forward to"
     ]
    }
-  ]
+  ],
+  "example": "He cheated on the test and actually [[got away with]] it."
  },
  {
   "expression": "get back at",
@@ -38502,7 +38744,8 @@ const FRIENDS = [
      "get in trouble"
     ]
    }
-  ]
+  ],
+  "example": "You want the last slice of pizza? [[Get in line]], buddy."
  },
  {
   "expression": "get in on",
@@ -38528,7 +38771,8 @@ const FRIENDS = [
      "get round to"
     ]
    }
-  ]
+  ],
+  "example": "Everyone's ordering lunch together; do you want to [[get in on]] it?"
  },
  {
   "expression": "get in the way",
@@ -38730,7 +38974,8 @@ const FRIENDS = [
      "get rid of it"
     ]
    }
-  ]
+  ],
+  "example": "It's a long story, and I don't want to [[get into it]] right now."
  },
  {
   "expression": "get into the habit of",
@@ -38756,7 +39001,8 @@ const FRIENDS = [
      "mood"
     ]
    }
-  ]
+  ],
+  "example": "I've [[gotten into the habit of]] walking to work every morning."
  },
  {
   "expression": "get involved with",
@@ -38921,7 +39167,8 @@ const FRIENDS = [
      "out of their way"
     ]
    }
-  ]
+  ],
+  "example": "Go ahead and scream into the pillow; [[get it out of your system]]."
  },
  {
   "expression": "get it over with",
@@ -39485,7 +39732,8 @@ const FRIENDS = [
      "get even"
     ]
    }
-  ]
+  ],
+  "example": "His jokes were funny at first, but they're starting to [[get old]]."
  },
  {
   "expression": "get on with",
@@ -39511,7 +39759,8 @@ const FRIENDS = [
      "cut back on"
     ]
    }
-  ]
+  ],
+  "example": "After the fire alarm stopped, we [[got on with]] the lesson."
  },
  {
   "expression": "get one's way",
@@ -39581,7 +39830,8 @@ const FRIENDS = [
      "got engaged"
     ]
    }
-  ]
+  ],
+  "example": "My cousin [[got ordained]] online so he could marry his best friends."
  },
  {
   "expression": "get organized",
@@ -39607,7 +39857,8 @@ const FRIENDS = [
      "get arrested"
     ]
    }
-  ]
+  ],
+  "example": "I need to [[get organized]] before final exams start next week."
  },
  {
   "expression": "get out",
@@ -40175,7 +40426,8 @@ const FRIENDS = [
      "got passed over"
     ]
    }
-  ]
+  ],
+  "example": "I [[got pulled over]] for driving with a broken taillight."
  },
  {
   "expression": "get rid of",
@@ -40651,7 +40903,8 @@ const FRIENDS = [
      "got elected"
     ]
    }
-  ]
+  ],
+  "example": "My foot [[got stuck]] between the rocks, and I couldn't pull it out."
  },
  {
   "expression": "get stuck with",
@@ -41276,7 +41529,8 @@ const FRIENDS = [
      "hilarious"
     ]
    }
-  ]
+  ],
+  "example": "The hotel room was [[ghastly]], with stained carpets and a broken window."
  },
  {
   "expression": "gig",
@@ -41498,7 +41752,8 @@ const FRIENDS = [
      "gave off"
     ]
    }
-  ]
+  ],
+  "example": "The kids begged for ice cream until their dad finally [[gave in]]."
  },
  {
   "expression": "give in to",
@@ -41595,7 +41850,8 @@ const FRIENDS = [
      "play it safe"
     ]
    }
-  ]
+  ],
+  "example": "You've complained about the weather all day, so [[give it a rest]]."
  },
  {
   "expression": "give it a shot",
@@ -41726,7 +41982,8 @@ const FRIENDS = [
      "give it out"
     ]
    }
-  ]
+  ],
+  "example": "You'll feel at home in the new city soon; just [[give it time]]."
  },
  {
   "expression": "give it your best shot",
@@ -41752,7 +42009,8 @@ const FRIENDS = [
      "right hand"
     ]
    }
-  ]
+  ],
+  "example": "The exam will be hard, but [[give it your best shot]]."
  },
  {
   "expression": "give me a break",
@@ -42059,7 +42317,8 @@ const FRIENDS = [
      "give you a break"
     ]
    }
-  ]
+  ],
+  "example": "Can you [[give me a heads-up]] if the boss is coming in today?"
  },
  {
   "expression": "give someone a shot",
@@ -42183,7 +42442,8 @@ const FRIENDS = [
      "warning"
     ]
    }
-  ]
+  ],
+  "example": "I didn't love the movie, but I'll [[give the director credit]] for trying something new."
  },
  {
   "expression": "give someone grief",
@@ -42422,7 +42682,8 @@ const FRIENDS = [
      "scare"
     ]
    }
-  ]
+  ],
+  "example": "You've studied for six hours; [[give yourself a break]] and get some rest."
  },
  {
   "expression": "give yourself credit",
@@ -42448,7 +42709,8 @@ const FRIENDS = [
      "help yourself out"
     ]
    }
-  ]
+  ],
+  "example": "[[Give yourself credit]]; you finished the marathon on your first try."
  },
  {
   "expression": "glamorous",
@@ -42474,7 +42736,8 @@ const FRIENDS = [
      "grateful"
     ]
    }
-  ]
+  ],
+  "example": "People think working in fashion is [[glamorous]], but it's mostly long hours."
  },
  {
   "expression": "gloat",
@@ -42879,7 +43142,8 @@ const FRIENDS = [
      "run into"
     ]
    }
-  ]
+  ],
+  "example": "You can't just [[go around]] borrowing money from everyone you know."
  },
  {
   "expression": "go away",
@@ -42905,7 +43169,8 @@ const FRIENDS = [
      "put away"
     ]
    }
-  ]
+  ],
+  "example": "I took some medicine, and my headache finally [[went away]]."
  },
  {
   "expression": "go bad",
@@ -43178,7 +43443,8 @@ const FRIENDS = [
      "gone public"
     ]
    }
-  ]
+  ],
+  "example": "The restaurant [[went downhill]] after the old chef left."
  },
  {
   "expression": "go easy on",
@@ -43353,7 +43619,8 @@ const FRIENDS = [
      "closing in on"
     ]
    }
-  ]
+  ],
+  "example": "My sisters and I [[went in on]] a birthday gift for our dad."
  },
  {
   "expression": "go into labor",
@@ -43450,7 +43717,8 @@ const FRIENDS = [
      "stand up for"
     ]
    }
-  ]
+  ],
+  "example": "All the girls in my class [[went nuts for]] the new exchange student."
  },
  {
   "expression": "go off",
@@ -44153,7 +44421,8 @@ const FRIENDS = [
      "going to court"
     ]
    }
-  ]
+  ],
+  "example": "She really [[went to town]] decorating the house for the holidays."
  },
  {
   "expression": "go under",
@@ -44179,7 +44448,8 @@ const FRIENDS = [
      "went across"
     ]
    }
-  ]
+  ],
+  "example": "The little bookstore on our street [[went under]] last year."
  },
  {
   "expression": "go way back",
@@ -44239,7 +44509,8 @@ const FRIENDS = [
      "come right back"
     ]
    }
-  ]
+  ],
+  "example": "My best friend and I [[go way back]]; we met in kindergarten."
  },
  {
   "expression": "go well",
@@ -44370,7 +44641,8 @@ const FRIENDS = [
      "cut the cord"
     ]
    }
-  ]
+  ],
+  "example": "Most people pass this test, so I'll [[go with the odds]] and not worry."
  },
  {
   "expression": "go wrong",
@@ -44396,7 +44668,8 @@ const FRIENDS = [
      "stay put"
     ]
    }
-  ]
+  ],
+  "example": "Everything that could [[go wrong]] on our trip did."
  },
  {
   "expression": "goal-oriented",
@@ -44537,7 +44810,8 @@ const FRIENDS = [
      "setback"
     ]
    }
-  ]
+  ],
+  "example": "The extra money from my part-time job was a [[godsend]] during college."
  },
  {
   "expression": "gold mine",
@@ -44871,7 +45145,8 @@ const FRIENDS = [
      "cold feet"
     ]
    }
-  ]
+  ],
+  "example": "He got the job because of his skills, not his [[good looks]]."
  },
  {
   "expression": "good luck with that",
@@ -45418,7 +45693,8 @@ const FRIENDS = [
      "hold some hands"
     ]
    }
-  ]
+  ],
+  "example": "Do you want to [[grab some coffee]] after class?"
  },
  {
   "expression": "gracious",
@@ -45461,7 +45737,8 @@ const FRIENDS = [
      "sleepy"
     ]
    }
-  ]
+  ],
+  "example": "Even after losing the match, she was [[gracious]] and congratulated the winner."
  },
  {
   "expression": "grand",
@@ -45487,7 +45764,8 @@ const FRIENDS = [
      "times"
     ]
    }
-  ]
+  ],
+  "example": "My car repair cost me two [[grand]]."
  },
  {
   "expression": "grant",
@@ -45895,7 +46173,8 @@ const FRIENDS = [
      "hippie"
     ]
    }
-  ]
+  ],
+  "example": "The band always had a few [[groupies]] waiting outside the stage door."
  },
  {
   "expression": "grow apart",
@@ -45948,7 +46227,8 @@ const FRIENDS = [
      "give up on it"
     ]
    }
-  ]
+  ],
+  "example": "She was nervous as a new manager, but she [[grew into]] the role."
  },
  {
   "expression": "grow on",
@@ -46289,7 +46569,8 @@ const FRIENDS = [
      "giddy"
     ]
    }
-  ]
+  ],
+  "example": "I feel [[guilty]] for forgetting my friend's birthday."
  },
  {
   "expression": "gullible",
@@ -46369,7 +46650,8 @@ const FRIENDS = [
      "heart-warming"
     ]
    }
-  ]
+  ],
+  "example": "Saying goodbye to our old dog was [[gut-wrenching]]."
  },
  {
   "expression": "guts",
@@ -46943,7 +47225,8 @@ const FRIENDS = [
      "drop by"
     ]
    }
-  ]
+  ],
+  "example": "Most of the group ran ahead, but I [[hung back]] to wait for my brother."
  },
  {
   "expression": "hang in the balance",
@@ -47352,7 +47635,8 @@ const FRIENDS = [
      "looked up to"
     ]
    }
-  ]
+  ],
+  "example": "I was still talking when she [[hung up on]] me."
  },
  {
   "expression": "hang with",
@@ -47459,7 +47743,8 @@ const FRIENDS = [
      "fail to"
     ]
    }
-  ]
+  ],
+  "example": "Do you [[happen to]] know where the nearest pharmacy is?"
  },
  {
   "expression": "happen to be",
@@ -47539,7 +47824,8 @@ const FRIENDS = [
      "hollering"
     ]
    }
-  ]
+  ],
+  "example": "He still [[harbors]] a grudge against his old boss."
  },
  {
   "expression": "hard ass",
@@ -47866,7 +48152,8 @@ const FRIENDS = [
      "lie low"
     ]
    }
-  ]
+  ],
+  "example": "We're gonna miss the bus, so we need to [[haul ass]]."
  },
  {
   "expression": "haunt",
@@ -47919,7 +48206,8 @@ const FRIENDS = [
      "heated"
     ]
    }
-  ]
+  ],
+  "example": "The kids believe the empty house at the end of the street is [[haunted]]."
  },
  {
   "expression": "have a ball",
@@ -47972,7 +48260,8 @@ const FRIENDS = [
      "a card to play"
     ]
    }
-  ]
+  ],
+  "example": "I [[have a bone to pick with]] you about the dishes you left in the sink."
  },
  {
   "expression": "have a clue",
@@ -48147,7 +48436,8 @@ const FRIENDS = [
      "having a free time"
     ]
    }
-  ]
+  ],
+  "example": "I [[had a hard time]] understanding the professor's accent."
  },
  {
   "expression": "have a knack for",
@@ -48200,7 +48490,8 @@ const FRIENDS = [
      "in my pocket"
     ]
    }
-  ]
+  ],
+  "example": "I can't take on another project; I [[have a lot on my plate]] right now."
  },
  {
   "expression": "have a lot to catch up on",
@@ -48226,7 +48517,8 @@ const FRIENDS = [
      "run out of"
     ]
    }
-  ]
+  ],
+  "example": "We haven't talked since high school, so we [[have a lot to catch up on]]."
  },
  {
   "expression": "have a point",
@@ -48614,7 +48906,8 @@ const FRIENDS = [
      "had a cold heart"
     ]
    }
-  ]
+  ],
+  "example": "Try to [[have an open mind]] when you taste the new dish."
  },
  {
   "expression": "have another think coming",
@@ -48640,7 +48933,8 @@ const FRIENDS = [
      "a nice room"
     ]
    }
-  ]
+  ],
+  "example": "If he thinks I'll do his homework, he [[has another think coming]]."
  },
  {
   "expression": "have at it",
@@ -48666,7 +48960,8 @@ const FRIENDS = [
      "Hold it in"
     ]
    }
-  ]
+  ],
+  "example": "There's plenty of food left, so [[have at it]]."
  },
  {
   "expression": "have faith in",
@@ -48929,7 +49224,8 @@ const FRIENDS = [
      "half a hand"
     ]
    }
-  ]
+  ],
+  "example": "I [[have half a mind to]] call your teacher about this."
  },
  {
   "expression": "have in common",
@@ -49077,7 +49373,8 @@ const FRIENDS = [
      "take it lightly"
     ]
    }
-  ]
+  ],
+  "example": "You can't [[have it both ways]]: either you save money or you buy the car."
  },
  {
   "expression": "have it coming",
@@ -49201,7 +49498,8 @@ const FRIENDS = [
      "nothing at stake"
     ]
    }
-  ]
+  ],
+  "example": "My roommate and I [[have nothing in common]], but we get along fine."
  },
  {
   "expression": "have nothing to do with",
@@ -49315,7 +49613,8 @@ const FRIENDS = [
      "nothing to pay for"
     ]
    }
-  ]
+  ],
+  "example": "I worked all weekend and [[have nothing to show for]] it."
  },
  {
   "expression": "have one's eye on",
@@ -49368,7 +49667,8 @@ const FRIENDS = [
      "my dream of"
     ]
    }
-  ]
+  ],
+  "example": "Our family has [[had its share of]] problems over the years."
  },
  {
   "expression": "have people over",
@@ -49624,7 +49924,8 @@ const FRIENDS = [
      "looking out"
     ]
    }
-  ]
+  ],
+  "example": "I [[have a big exam coming up]], so I can't go out tonight."
  },
  {
   "expression": "have something to do with",
@@ -49839,7 +50140,8 @@ const FRIENDS = [
      "paying her dues"
     ]
    }
-  ]
+  ],
+  "example": "You want big pay and no work? You can't [[have your cake and eat it too]]."
  },
  {
   "expression": "have your hands full",
@@ -49865,7 +50167,8 @@ const FRIENDS = [
      "had your back turned"
     ]
    }
-  ]
+  ],
+  "example": "With three kids under five, she really [[has her hands full]]."
  },
  {
   "expression": "have your heart set on",
@@ -49999,7 +50302,8 @@ const FRIENDS = [
      "foot traffic"
     ]
    }
-  ]
+  ],
+  "example": "Let's do a quick [[head count]] before the bus leaves."
  },
  {
   "expression": "head off",
@@ -50052,7 +50356,8 @@ const FRIENDS = [
      "break out"
     ]
    }
-  ]
+  ],
+  "example": "It's getting late, so I'm going to [[head out]]."
  },
  {
   "expression": "head rush",
@@ -50122,7 +50427,8 @@ const FRIENDS = [
      "tear jerker"
     ]
    }
-  ]
+  ],
+  "example": "Why the printer only works on Tuesdays is a real [[head scratcher]]."
  },
  {
   "expression": "head up",
@@ -50148,7 +50454,8 @@ const FRIENDS = [
      "pick up"
     ]
    }
-  ]
+  ],
+  "example": "She was chosen to [[head up]] the new marketing team."
  },
  {
   "expression": "headhunter",
@@ -50174,7 +50481,8 @@ const FRIENDS = [
      "pallbearer"
     ]
    }
-  ]
+  ],
+  "example": "A [[headhunter]] called me with a job offer from a rival company."
  },
  {
   "expression": "heads up",
@@ -50227,7 +50535,8 @@ const FRIENDS = [
      "hand-me-down"
     ]
    }
-  ]
+  ],
+  "example": "Thanks for the [[heads-up]] about the traffic on the highway."
  },
  {
   "expression": "hear from",
@@ -50331,7 +50640,8 @@ const FRIENDS = [
      "check me out"
     ]
    }
-  ]
+  ],
+  "example": "I know you don't like the idea, but [[hear me out]]."
  },
  {
   "expression": "hear someone out",
@@ -50418,7 +50728,8 @@ const FRIENDS = [
      "heart throb"
     ]
    }
-  ]
+  ],
+  "example": "My grandfather had a [[heart attack]] but recovered after surgery."
  },
  {
   "expression": "heat up",
@@ -50498,7 +50809,8 @@ const FRIENDS = [
      "fragile"
     ]
    }
-  ]
+  ],
+  "example": "The week before the holidays is always [[hectic]] at the office."
  },
  {
   "expression": "heightened",
@@ -50876,7 +51188,8 @@ const FRIENDS = [
      "That is all"
     ]
    }
-  ]
+  ],
+  "example": "Mom has that look on her face again; [[here it comes]]."
  },
  {
   "expression": "here we go again",
@@ -51088,7 +51401,8 @@ const FRIENDS = [
      "gave it to us"
     ]
    }
-  ]
+  ],
+  "example": "You shouldn't [[hide your bad grades from your parents]]."
  },
  {
   "expression": "hideous",
@@ -51185,7 +51499,8 @@ const FRIENDS = [
      "cold feet"
     ]
    }
-  ]
+  ],
+  "example": "We have [[high hopes]] for our team this season."
  },
  {
   "expression": "high maintenance",
@@ -51624,7 +51939,8 @@ const FRIENDS = [
      "hit the books"
     ]
    }
-  ]
+  ],
+  "example": "As soon as we got to the hotel, we [[hit the beach]]."
  },
  {
   "expression": "hit the road",
@@ -51755,7 +52071,8 @@ const FRIENDS = [
      "nagging"
     ]
    }
-  ]
+  ],
+  "example": "Stop [[hogging]] the remote and let someone else choose a show."
  },
  {
   "expression": "hold a candle to",
@@ -51781,7 +52098,8 @@ const FRIENDS = [
      "takes a shine to"
     ]
    }
-  ]
+  ],
+  "example": "Store-bought cookies can't [[hold a candle to]] my grandma's."
  },
  {
   "expression": "hold back",
@@ -51868,7 +52186,8 @@ const FRIENDS = [
      "missing the boat"
     ]
    }
-  ]
+  ],
+  "example": "Can you [[hold down the fort]] while I go to the bank?"
  },
  {
   "expression": "hold it",
@@ -52070,7 +52389,8 @@ const FRIENDS = [
      "come up to"
     ]
    }
-  ]
+  ],
+  "example": "[[Hold on to]] your ticket; you'll need it to get back in."
  },
  {
   "expression": "hold one's breath",
@@ -52096,7 +52416,8 @@ const FRIENDS = [
      "keeping his word"
     ]
    }
-  ]
+  ],
+  "example": "She [[held her breath]] and dove under the water."
  },
  {
   "expression": "hold one's own",
@@ -52122,7 +52443,8 @@ const FRIENDS = [
      "paid your dues"
     ]
    }
-  ]
+  ],
+  "example": "He's the youngest on the debate team, but he [[holds his own]]."
  },
  {
   "expression": "hold out",
@@ -52317,7 +52639,8 @@ const FRIENDS = [
      "run out"
     ]
    }
-  ]
+  ],
+  "example": "She [[held up well]] during the tough job interview."
  },
  {
   "expression": "hold your breath",
@@ -52343,7 +52666,8 @@ const FRIENDS = [
      "Wash your hands"
     ]
    }
-  ]
+  ],
+  "example": "The doctor asked me to [[hold my breath]] while she took the X-ray."
  },
  {
   "expression": "holler",
@@ -52369,7 +52693,8 @@ const FRIENDS = [
      "borrow"
     ]
    }
-  ]
+  ],
+  "example": "If you need help moving the boxes, just [[holler]]."
  },
  {
   "expression": "holy crap",
@@ -52395,7 +52720,8 @@ const FRIENDS = [
      "Fair enough"
     ]
    }
-  ]
+  ],
+  "example": "[[Holy crap]], did you see how much this coffee costs?"
  },
  {
   "expression": "homesick",
@@ -52465,7 +52791,8 @@ const FRIENDS = [
      "nosy"
     ]
    }
-  ]
+  ],
+  "example": "The little café has a warm, [[homey]] feel."
  },
  {
   "expression": "hone",
@@ -52552,7 +52879,8 @@ const FRIENDS = [
      "fair trade"
     ]
    }
-  ]
+  ],
+  "example": "I took your umbrella by accident; it was an [[honest mistake]]."
  },
  {
   "expression": "honeymoon",
@@ -52578,7 +52906,8 @@ const FRIENDS = [
      "diet"
     ]
    }
-  ]
+  ],
+  "example": "They went to Hawaii for their [[honeymoon]]."
  },
  {
   "expression": "honorary",
@@ -52682,7 +53011,8 @@ const FRIENDS = [
      "let me down"
     ]
    }
-  ]
+  ],
+  "example": "My friend works at the theater and can [[hook us up]] with free tickets."
  },
  {
   "expression": "hook up with",
@@ -52857,7 +53187,8 @@ const FRIENDS = [
      "Hand over"
     ]
    }
-  ]
+  ],
+  "example": "[[Hop on]] my bike and I'll give you a ride home."
  },
  {
   "expression": "hope for the best",
@@ -52883,7 +53214,8 @@ const FRIENDS = [
      "pay for the rest"
     ]
    }
-  ]
+  ],
+  "example": "We studied as much as we could; now we just [[hope for the best]]."
  },
  {
   "expression": "hopeless",
@@ -52936,7 +53268,8 @@ const FRIENDS = [
      "tied up with"
     ]
    }
-  ]
+  ],
+  "example": "The kids were [[hopped up on]] candy after the birthday party."
  },
  {
   "expression": "hopping mad",
@@ -53016,7 +53349,8 @@ const FRIENDS = [
      "paint"
     ]
    }
-  ]
+  ],
+  "example": "We're [[hosting]] a dinner party for our neighbors on Saturday."
  },
  {
   "expression": "hot for",
@@ -53255,7 +53589,8 @@ const FRIENDS = [
      "Here we go"
     ]
    }
-  ]
+  ],
+  "example": "[[How dare you]] read my private messages!"
  },
  {
   "expression": "how you doin'",
@@ -53308,7 +53643,8 @@ const FRIENDS = [
      "clumsy"
     ]
    }
-  ]
+  ],
+  "example": "He gets [[huffy]] whenever someone corrects his spelling."
  },
  {
   "expression": "hug it out",
@@ -53395,7 +53731,8 @@ const FRIENDS = [
      "hamburger"
     ]
    }
-  ]
+  ],
+  "example": "That thunderstorm last night was a real [[humdinger]]."
  },
  {
   "expression": "humidity",
@@ -53709,7 +54046,8 @@ const FRIENDS = [
      "hand you over"
     ]
    }
-  ]
+  ],
+  "example": "The reporter [[hunted down]] the old man who witnessed the accident."
  },
  {
   "expression": "hurl",
@@ -54114,7 +54452,8 @@ const FRIENDS = [
      "I got older"
     ]
    }
-  ]
+  ],
+  "example": "You want a good excuse for missing class? Sorry, [[I got nothing]]."
  },
  {
   "expression": "I hear ya",
@@ -54167,7 +54506,8 @@ const FRIENDS = [
      "I bought it"
     ]
    }
-  ]
+  ],
+  "example": "[[I knew it]]! I said she'd get the job."
  },
  {
   "expression": "I know the type",
@@ -54193,7 +54533,8 @@ const FRIENDS = [
      "see the light"
     ]
    }
-  ]
+  ],
+  "example": "He brags about his car to everyone? Yeah, [[I know the type]]."
  },
  {
   "expression": "I owe you one",
@@ -54280,7 +54621,8 @@ const FRIENDS = [
      "I miss it"
     ]
    }
-  ]
+  ],
+  "example": "[[I take it]] you didn't enjoy the movie."
  },
  {
   "expression": "I told you so",
@@ -54306,7 +54648,8 @@ const FRIENDS = [
      "let you go"
     ]
    }
-  ]
+  ],
+  "example": "I warned you the shop would be closed, so [[I told you so]]."
  },
  {
   "expression": "I'll get right on that",
@@ -54332,7 +54675,8 @@ const FRIENDS = [
      "get tired of that"
     ]
    }
-  ]
+  ],
+  "example": "Clean the whole garage today? Sure, [[I'll get right on that]]."
  },
  {
   "expression": "I'll have you know",
@@ -54673,7 +55017,8 @@ const FRIENDS = [
      "I'm paying you"
     ]
    }
-  ]
+  ],
+  "example": "Please don't tell anyone about this; [[I'm begging you]]."
  },
  {
   "expression": "I'm funny like that",
@@ -54743,7 +55088,8 @@ const FRIENDS = [
      "I'm out of it"
     ]
    }
-  ]
+  ],
+  "example": "You need the report by noon? [[I'm on it]]."
  },
  {
   "expression": "I'm out",
@@ -54769,7 +55115,8 @@ const FRIENDS = [
      "I'm over"
     ]
    }
-  ]
+  ],
+  "example": "If we're hiking ten miles in the rain, [[I'm out]]."
  },
  {
   "expression": "I'm out of here",
@@ -54795,7 +55142,8 @@ const FRIENDS = [
      "up to it"
     ]
    }
-  ]
+  ],
+  "example": "This party is boring, so [[I'm out of here]]."
  },
  {
   "expression": "I'm rubber and you're glue",
@@ -54821,7 +55169,8 @@ const FRIENDS = [
      "metal"
     ]
    }
-  ]
+  ],
+  "example": "When his sister called him a baby, he said, \"[[I'm rubber and you're glue]]!\""
  },
  {
   "expression": "I'm set",
@@ -54874,7 +55223,8 @@ const FRIENDS = [
      "I'm calling you"
     ]
    }
-  ]
+  ],
+  "example": "[[I'm telling you]], that restaurant has the best burgers in town."
  },
  {
   "expression": "I'm there",
@@ -54917,7 +55267,8 @@ const FRIENDS = [
      "I'm lost"
     ]
    }
-  ]
+  ],
+  "example": "Free pizza after work? [[I'm there]]!"
  },
  {
   "expression": "I'm with you",
@@ -55031,7 +55382,8 @@ const FRIENDS = [
      "have time for you"
     ]
    }
-  ]
+  ],
+  "example": "You think the test will be easy? [[I've got news for you]]."
  },
  {
   "expression": "if I had a nickel for every time",
@@ -55057,7 +55409,8 @@ const FRIENDS = [
      "cookie"
     ]
    }
-  ]
+  ],
+  "example": "[[If I had a nickel for every time]] my brother was late, I'd be rich."
  },
  {
   "expression": "if it weren't for",
@@ -55262,7 +55615,8 @@ const FRIENDS = [
      "temporary"
     ]
    }
-  ]
+  ],
+  "example": "When she was little, she had an [[imaginary]] friend named Bobo."
  },
  {
   "expression": "immature",
@@ -55403,7 +55757,8 @@ const FRIENDS = [
      "imperfect"
     ]
    }
-  ]
+  ],
+  "example": "The hotel was clean but felt cold and [[impersonal]]."
  },
  {
   "expression": "impersonate",
@@ -55456,7 +55811,8 @@ const FRIENDS = [
      "imprinted"
     ]
    }
-  ]
+  ],
+  "example": "There was an [[implicit]] agreement that everyone would help clean up."
  },
  {
   "expression": "implode",
@@ -55580,7 +55936,8 @@ const FRIENDS = [
      "formal"
     ]
    }
-  ]
+  ],
+  "example": "We had an [[impromptu]] picnic in the park when the sun came out."
  },
  {
   "expression": "impulse",
@@ -55606,7 +55963,8 @@ const FRIENDS = [
      "estimate"
     ]
    }
-  ]
+  ],
+  "example": "I bought the shoes on [[impulse]] and regretted it later."
  },
  {
   "expression": "impulsively",
@@ -55730,7 +56088,8 @@ const FRIENDS = [
      "in hot water"
     ]
    }
-  ]
+  ],
+  "example": "After a tough year, I'm finally [[in a good place]]."
  },
  {
   "expression": "in a million years",
@@ -55871,7 +56230,8 @@ const FRIENDS = [
      "on a diet"
     ]
    }
-  ]
+  ],
+  "example": "I locked my keys in the car, so I'm [[in a pickle]]."
  },
  {
   "expression": "in a row",
@@ -56056,7 +56416,8 @@ const FRIENDS = [
      "ugly"
     ]
    }
-  ]
+  ],
+  "example": "Please leave the building [[in an orderly fashion]] during the fire drill."
  },
  {
   "expression": "in between",
@@ -56109,7 +56470,8 @@ const FRIENDS = [
      "So that"
     ]
    }
-  ]
+  ],
+  "example": "[[In case you didn't notice]], I've been doing all the cooking."
  },
  {
   "expression": "in character",
@@ -56470,7 +56832,8 @@ const FRIENDS = [
      "at full speed"
     ]
    }
-  ]
+  ],
+  "example": "Only members [[in good standing]] can vote at the club meeting."
  },
  {
   "expression": "in jeopardy",
@@ -56523,7 +56886,8 @@ const FRIENDS = [
      "in love"
     ]
    }
-  ]
+  ],
+  "example": "My sister went into the hospital [[in labor]] at three in the morning."
  },
  {
   "expression": "in luck",
@@ -56593,7 +56957,8 @@ const FRIENDS = [
      "in person"
     ]
    }
-  ]
+  ],
+  "example": "Sweets are fine if you eat them [[in moderation]]."
  },
  {
   "expression": "in my defense",
@@ -56795,7 +57160,8 @@ const FRIENDS = [
      "at stake"
     ]
    }
-  ]
+  ],
+  "example": "Congratulations on your promotion; a celebration is [[in order]]."
  },
  {
   "expression": "in person",
@@ -56882,7 +57248,8 @@ const FRIENDS = [
      "in turn"
     ]
    }
-  ]
+  ],
+  "example": "Can I speak to you [[in private]] after the meeting?"
  },
  {
   "expression": "in reference to",
@@ -57040,7 +57407,8 @@ const FRIENDS = [
      "in that club"
     ]
    }
-  ]
+  ],
+  "example": "We've dated a year, but I'm not [[in that place]] where I want to move in."
  },
  {
   "expression": "in the book",
@@ -57171,7 +57539,8 @@ const FRIENDS = [
      "at the top"
     ]
    }
-  ]
+  ],
+  "example": "People [[in the know]] say the company will announce layoffs soon."
  },
  {
   "expression": "in the long run",
@@ -57400,7 +57769,8 @@ const FRIENDS = [
      "on the fence"
     ]
    }
-  ]
+  ],
+  "example": "I was [[in the neighborhood]], so I stopped by to say hi."
  },
  {
   "expression": "in the offing",
@@ -57426,7 +57796,8 @@ const FRIENDS = [
      "by the book"
     ]
    }
-  ]
+  ],
+  "example": "With sales this good, a pay raise might be [[in the offing]]."
  },
  {
   "expression": "in the sack",
@@ -57523,7 +57894,8 @@ const FRIENDS = [
      "the nick of time"
     ]
    }
-  ]
+  ],
+  "example": "[[In this day and age]], almost everyone has a smartphone."
  },
  {
   "expression": "in touch",
@@ -57647,7 +58019,8 @@ const FRIENDS = [
      "By your leave"
     ]
    }
-  ]
+  ],
+  "example": "I beat you at tennis again; [[in your face]]!"
  },
  {
   "expression": "in-laws",
@@ -57754,7 +58127,8 @@ const FRIENDS = [
      "inactive"
     ]
    }
-  ]
+  ],
+  "example": "The [[incessant]] barking of the neighbor's dog kept me awake."
  },
  {
   "expression": "incisive",
@@ -57807,7 +58181,8 @@ const FRIENDS = [
      "invincible"
     ]
    }
-  ]
+  ],
+  "example": "The new manager was so [[incompetent]] that the team missed every deadline."
  },
  {
   "expression": "incorporate",
@@ -57887,7 +58262,8 @@ const FRIENDS = [
      "ignorant"
     ]
    }
-  ]
+  ],
+  "example": "She was [[indignant]] when the waiter accused her of not paying."
  },
  {
   "expression": "induce labor",
@@ -57913,7 +58289,8 @@ const FRIENDS = [
      "reduce labor"
     ]
    }
-  ]
+  ],
+  "example": "The baby was two weeks late, so the doctor decided to [[induce labor]]."
  },
  {
   "expression": "inexcusable",
@@ -57939,7 +58316,8 @@ const FRIENDS = [
      "inflatable"
     ]
    }
-  ]
+  ],
+  "example": "Being rude to the waiter like that was [[inexcusable]]."
  },
  {
   "expression": "infection",
@@ -58107,7 +58485,8 @@ const FRIENDS = [
      "invent"
     ]
    }
-  ]
+  ],
+  "example": "He was so hungry that he [[inhaled]] his burger in two minutes."
  },
  {
   "expression": "inhospitable",
@@ -58133,7 +58512,8 @@ const FRIENDS = [
      "indestructible"
     ]
    }
-  ]
+  ],
+  "example": "The desert is an [[inhospitable]] place for most plants and animals."
  },
  {
   "expression": "initiate",
@@ -58497,7 +58877,8 @@ const FRIENDS = [
      "drowsy"
     ]
    }
-  ]
+  ],
+  "example": "Her comments on the report were short but very [[insightful]]."
  },
  {
   "expression": "insinuation",
@@ -58523,7 +58904,8 @@ const FRIENDS = [
      "inspiration"
     ]
    }
-  ]
+  ],
+  "example": "I resent the [[insinuation]] that I took money from the register."
  },
  {
   "expression": "insist",
@@ -58549,7 +58931,8 @@ const FRIENDS = [
      "guessing"
     ]
    }
-  ]
+  ],
+  "example": "My mom [[insisted]] that I wear a coat because it was cold."
  },
  {
   "expression": "inspect",
@@ -58629,7 +59012,8 @@ const FRIENDS = [
      "inventory"
     ]
    }
-  ]
+  ],
+  "example": "She's a manager with [[integrity]] who never lies to her team."
  },
  {
   "expression": "intense",
@@ -58716,7 +59100,8 @@ const FRIENDS = [
      "wrongly"
     ]
    }
-  ]
+  ],
+  "example": "The students listened [[intently]] as the guest speaker told her story."
  },
  {
   "expression": "interchangeable",
@@ -58962,7 +59347,8 @@ const FRIENDS = [
      "appreciating"
     ]
    }
-  ]
+  ],
+  "example": "Speaking in front of the whole school can be [[intimidating]]."
  },
  {
   "expression": "into high gear",
@@ -58988,7 +59374,8 @@ const FRIENDS = [
      "deep water"
     ]
    }
-  ]
+  ],
+  "example": "Preparations for the wedding went [[into high gear]] a week before."
  },
  {
   "expression": "intricate",
@@ -59014,7 +59401,8 @@ const FRIENDS = [
      "shabby"
     ]
    }
-  ]
+  ],
+  "example": "The old carpet had an [[intricate]] pattern of flowers and birds."
  },
  {
   "expression": "intrigued",
@@ -59084,7 +59472,8 @@ const FRIENDS = [
      "inferior"
     ]
    }
-  ]
+  ],
+  "example": "The book opens with an [[intriguing]] mystery about a missing letter."
  },
  {
   "expression": "intrude on",
@@ -59181,7 +59570,8 @@ const FRIENDS = [
      "relaxed"
     ]
    }
-  ]
+  ],
+  "example": "My dad was very [[involved]] in my school's parent group."
  },
  {
   "expression": "ironic",
@@ -59393,7 +59783,8 @@ const FRIENDS = [
      "irrelevant"
     ]
    }
-  ]
+  ],
+  "example": "The smell of fresh bread from the bakery was [[irresistible]]."
  },
  {
   "expression": "irresponsible",
@@ -59446,7 +59837,8 @@ const FRIENDS = [
      "interesting"
     ]
    }
-  ]
+  ],
+  "example": "The constant beeping of the microwave is really [[irritating]]."
  },
  {
   "expression": "is that so",
@@ -59651,7 +60043,8 @@ const FRIENDS = [
      "It's a joke"
     ]
    }
-  ]
+  ],
+  "example": "[[It's a shame]] you can't come to the party."
  },
  {
   "expression": "it's about time",
@@ -59758,7 +60151,8 @@ const FRIENDS = [
      "not my type"
     ]
    }
-  ]
+  ],
+  "example": "I think he's making a mistake, but [[it's not my place]] to say so."
  },
  {
   "expression": "itinerary",
@@ -60146,7 +60540,8 @@ const FRIENDS = [
      "job market"
     ]
    }
-  ]
+  ],
+  "example": "Making coffee for the boss isn't part of my [[job description]]."
  },
  {
   "expression": "job one",
@@ -60199,7 +60594,8 @@ const FRIENDS = [
      "stage fright"
     ]
    }
-  ]
+  ],
+  "example": "Many teachers value [[job security]] more than a high salary."
  },
  {
   "expression": "jog someone's memory",
@@ -60394,7 +60790,8 @@ const FRIENDS = [
      "resign"
     ]
    }
-  ]
+  ],
+  "example": "It's hard to [[juggle]] a full-time job and night classes."
  },
  {
   "expression": "juicy",
@@ -60545,7 +60942,8 @@ const FRIENDS = [
      "just like that"
     ]
    }
-  ]
+  ],
+  "example": "The concert was canceled, which was [[just as well]] because I felt sick."
  },
  {
   "expression": "just barely",
@@ -60676,7 +61074,8 @@ const FRIENDS = [
      "just for fun"
     ]
    }
-  ]
+  ],
+  "example": "We got to the station [[just in time]] to catch the last train."
  },
  {
   "expression": "just kidding",
@@ -60746,7 +61145,8 @@ const FRIENDS = [
      "hiding from"
     ]
    }
-  ]
+  ],
+  "example": "Relax, I didn't eat your sandwich; I'm [[just messing with you]]."
  },
  {
   "expression": "just so you know",
@@ -60975,7 +61375,8 @@ const FRIENDS = [
      "keep it on ice"
     ]
    }
-  ]
+  ],
+  "example": "She tries to [[keep her spending in check]] by using a budget app."
  },
  {
   "expression": "keep in mind",
@@ -61140,7 +61541,8 @@ const FRIENDS = [
      "making waves"
     ]
    }
-  ]
+  ],
+  "example": "Good friends don't [[keep score]] of who paid for dinner last time."
  },
  {
   "expression": "keep someone at bay",
@@ -61193,7 +61595,8 @@ const FRIENDS = [
      "picking me up"
     ]
    }
-  ]
+  ],
+  "example": "I ask my roommate to check my workout log to [[keep me honest]]."
  },
  {
   "expression": "keep tabs on",
@@ -61327,7 +61730,8 @@ const FRIENDS = [
      "over our heads"
     ]
    }
-  ]
+  ],
+  "example": "I'm getting promoted, but please [[keep it under your hat]]."
  },
  {
   "expression": "keep up",
@@ -61353,7 +61757,8 @@ const FRIENDS = [
      "back up"
     ]
    }
-  ]
+  ],
+  "example": "Slow down; I can't [[keep up]] with you!"
  },
  {
   "expression": "keep up the good work",
@@ -61504,7 +61909,8 @@ const FRIENDS = [
      "ladies' man"
     ]
    }
-  ]
+  ],
+  "example": "He jokes that he's a [[kept man]] since his wife pays all the bills."
  },
  {
   "expression": "keynote",
@@ -61547,7 +61953,8 @@ const FRIENDS = [
      "landmark"
     ]
    }
-  ]
+  ],
+  "example": "The CEO will give the [[keynote]] at the conference on Monday."
  },
  {
   "expression": "kick back",
@@ -62162,7 +62569,8 @@ const FRIENDS = [
      "cut and paste"
     ]
    }
-  ]
+  ],
+  "example": "I'm not the kind of person to [[kiss and tell]], so don't ask about my date."
  },
  {
   "expression": "kiss ass",
@@ -62242,7 +62650,8 @@ const FRIENDS = [
      "pass 'em by"
     ]
    }
-  ]
+  ],
+  "example": "Good luck with your speech tonight; [[knock 'em dead]]!"
  },
  {
   "expression": "knock it off",
@@ -62586,7 +62995,8 @@ const FRIENDS = [
      "make my point"
     ]
    }
-  ]
+  ],
+  "example": "The tour guide really [[knew her stuff]] about the city's history."
  },
  {
   "expression": "know your way around",
@@ -62815,7 +63225,8 @@ const FRIENDS = [
      "dropped out"
     ]
    }
-  ]
+  ],
+  "example": "When he's stressed, he sometimes [[lashes out]] at his coworkers."
  },
  {
   "expression": "last but not least",
@@ -63206,7 +63617,8 @@ const FRIENDS = [
      "tuned in"
     ]
    }
-  ]
+  ],
+  "example": "She [[leaned in]] for a kiss just as the door opened."
  },
  {
   "expression": "lean on",
@@ -63286,7 +63698,8 @@ const FRIENDS = [
      "waiting list"
     ]
    }
-  ]
+  ],
+  "example": "The new software has a steep [[learning curve]]."
  },
  {
   "expression": "lease",
@@ -63312,7 +63725,8 @@ const FRIENDS = [
      "lane"
     ]
    }
-  ]
+  ],
+  "example": "We signed a one-year [[lease]] on a small apartment downtown."
  },
  {
   "expression": "least of all",
@@ -63338,7 +63752,8 @@ const FRIENDS = [
      "After all"
     ]
    }
-  ]
+  ],
+  "example": "Nobody enjoyed the long meeting, [[least of all]] the boss."
  },
  {
   "expression": "leave it alone",
@@ -63587,7 +64002,8 @@ const FRIENDS = [
      "onto this"
     ]
    }
-  ]
+  ],
+  "example": "This is between you and your brother, so [[leave me out of this]]."
  },
  {
   "expression": "leer",
@@ -63613,7 +64029,8 @@ const FRIENDS = [
      "blinking"
     ]
    }
-  ]
+  ],
+  "example": "The man at the bar kept [[leering]] at her, so she moved to another table."
  },
  {
   "expression": "left and right",
@@ -63744,7 +64161,8 @@ const FRIENDS = [
      "left in"
     ]
    }
-  ]
+  ],
+  "example": "There was a lot of food [[left over]] after the party."
  },
  {
   "expression": "leftovers",
@@ -63939,7 +64357,8 @@ const FRIENDS = [
      "until"
     ]
    }
-  ]
+  ],
+  "example": "She wrote the date in her calendar [[lest]] she forget the appointment."
  },
  {
   "expression": "let alone",
@@ -64236,7 +64655,8 @@ const FRIENDS = [
      "fill you in"
     ]
    }
-  ]
+  ],
+  "example": "[[Let me stop you right there]]; that's not what I said at all."
  },
  {
   "expression": "let off",
@@ -64431,7 +64851,8 @@ const FRIENDS = [
      "back up"
     ]
    }
-  ]
+  ],
+  "example": "The rain didn't [[let up]] all afternoon."
  },
  {
   "expression": "let your guard down",
@@ -64562,7 +64983,8 @@ const FRIENDS = [
      "let's move on"
     ]
    }
-  ]
+  ],
+  "example": "[[Let's just say]] the job interview didn't go very well."
  },
  {
   "expression": "level with",
@@ -64615,7 +65037,8 @@ const FRIENDS = [
      "stale"
     ]
    }
-  ]
+  ],
+  "example": "The comedian was asked to leave after telling [[lewd]] jokes at a family event."
  },
  {
   "expression": "lie down",
@@ -64641,7 +65064,8 @@ const FRIENDS = [
      "run out"
     ]
    }
-  ]
+  ],
+  "example": "I feel dizzy, so I'm going to [[lie down]] for a bit."
  },
  {
   "expression": "lie one's ass off",
@@ -64829,7 +65253,8 @@ const FRIENDS = [
      "set off"
     ]
    }
-  ]
+  ],
+  "example": "He stepped outside after dinner to [[light up]]."
  },
  {
   "expression": "light-headed",
@@ -64997,7 +65422,8 @@ const FRIENDS = [
      "by chance"
     ]
    }
-  ]
+  ],
+  "example": "It's been raining [[like crazy]] all week."
  },
  {
   "expression": "like putty",
@@ -65023,7 +65449,8 @@ const FRIENDS = [
      "rulers"
     ]
    }
-  ]
+  ],
+  "example": "When her grandson smiles, she's [[like putty]] in his hands."
  },
  {
   "expression": "likewise",
@@ -65265,7 +65692,8 @@ const FRIENDS = [
      "own quiet town"
     ]
    }
-  ]
+  ],
+  "example": "He never knows what's going on; he [[lives in his own little world]]."
  },
  {
   "expression": "live it up",
@@ -65291,7 +65719,8 @@ const FRIENDS = [
      "wrappin' it up"
     ]
    }
-  ]
+  ],
+  "example": "We're on vacation, so let's [[live it up]]!"
  },
  {
   "expression": "live off",
@@ -65371,7 +65800,8 @@ const FRIENDS = [
      "fall off the wagon"
     ]
    }
-  ]
+  ],
+  "example": "He likes to [[live on the edge]], so he took up skydiving."
  },
  {
   "expression": "live out",
@@ -65451,7 +65881,8 @@ const FRIENDS = [
      "likelihood"
     ]
    }
-  ]
+  ],
+  "example": "Fishing has been the family's [[livelihood]] for three generations."
  },
  {
   "expression": "liven up",
@@ -65477,7 +65908,8 @@ const FRIENDS = [
      "put up"
     ]
    }
-  ]
+  ],
+  "example": "Some music would really [[liven up]] this party."
  },
  {
   "expression": "living the dream",
@@ -65574,7 +66006,8 @@ const FRIENDS = [
      "give up on"
     ]
    }
-  ]
+  ],
+  "example": "Before the snowstorm, everyone [[loaded up on]] bread and milk."
  },
  {
   "expression": "loan",
@@ -65955,7 +66388,8 @@ const FRIENDS = [
      "first come first served"
     ]
    }
-  ]
+  ],
+  "example": "Hey, [[long time no see]]! How have you been?"
  },
  {
   "expression": "long-distance relationship",
@@ -65981,7 +66415,8 @@ const FRIENDS = [
      "open-door policy"
     ]
    }
-  ]
+  ],
+  "example": "They kept up a [[long-distance relationship]] while she studied abroad."
  },
  {
   "expression": "look after",
@@ -66007,7 +66442,8 @@ const FRIENDS = [
      "look through"
     ]
    }
-  ]
+  ],
+  "example": "Can you [[look after]] my cat while I'm away this weekend?"
  },
  {
   "expression": "look alive",
@@ -66033,7 +66469,8 @@ const FRIENDS = [
      "Sleep tight"
     ]
    }
-  ]
+  ],
+  "example": "[[Look alive]], everyone; the customers are coming in!"
  },
  {
   "expression": "look at someone go",
@@ -66059,7 +66496,8 @@ const FRIENDS = [
      "Look at her wait"
     ]
    }
-  ]
+  ],
+  "example": "[[Look at her go]]! She's already finished half the puzzle."
  },
  {
   "expression": "look back",
@@ -66085,7 +66523,8 @@ const FRIENDS = [
      "look down"
     ]
    }
-  ]
+  ],
+  "example": "When I [[look back]] on my school days, I remember them fondly."
  },
  {
   "expression": "look familiar",
@@ -66128,7 +66567,8 @@ const FRIENDS = [
      "tired"
     ]
    }
-  ]
+  ],
+  "example": "Your face [[looks familiar]]; have we met before?"
  },
  {
   "expression": "look forward to",
@@ -66675,7 +67115,8 @@ const FRIENDS = [
      "take notes"
     ]
    }
-  ]
+  ],
+  "example": "The driver [[lost control]] of the car on the icy road."
  },
  {
   "expression": "lose face",
@@ -66718,7 +67159,8 @@ const FRIENDS = [
      "break even"
     ]
    }
-  ]
+  ],
+  "example": "He didn't want to [[lose face]] by admitting his mistake in front of the team."
  },
  {
   "expression": "lose faith in",
@@ -66744,7 +67186,8 @@ const FRIENDS = [
      "lost sleep"
     ]
    }
-  ]
+  ],
+  "example": "After years of broken promises, many voters have [[lost faith in]] the government."
  },
  {
   "expression": "lose interest",
@@ -66770,7 +67213,8 @@ const FRIENDS = [
      "gaining weight"
     ]
    }
-  ]
+  ],
+  "example": "My son [[lost interest]] in the piano after only three lessons."
  },
  {
   "expression": "lose it",
@@ -66823,7 +67267,8 @@ const FRIENDS = [
      "taking my turn"
     ]
    }
-  ]
+  ],
+  "example": "If this printer jams one more time, I'm going to [[lose my mind]]."
  },
  {
   "expression": "lose one's nerve",
@@ -66876,7 +67321,8 @@ const FRIENDS = [
      "losing her balance"
     ]
    }
-  ]
+  ],
+  "example": "My grandmother's cookies tasted strange this year; maybe she's [[losing her touch]]."
  },
  {
   "expression": "lose sight of",
@@ -66902,7 +67348,8 @@ const FRIENDS = [
      "run out of"
     ]
    }
-  ]
+  ],
+  "example": "Don't [[lose sight of]] why you started studying medicine in the first place."
  },
  {
   "expression": "lose the will to live",
@@ -66928,7 +67375,8 @@ const FRIENDS = [
      "time to leave"
     ]
    }
-  ]
+  ],
+  "example": "Three hours into the budget meeting, I started to [[lose the will to live]]."
  },
  {
   "expression": "lose touch",
@@ -67123,7 +67571,8 @@ const FRIENDS = [
      "short and sweet"
     ]
    }
-  ]
+  ],
+  "example": "No phones during the exam? Got it, [[loud and clear]]."
  },
  {
   "expression": "lousy",
@@ -67416,7 +67865,8 @@ const FRIENDS = [
      "second-hand"
     ]
    }
-  ]
+  ],
+  "example": "The audience gave the new play a [[lukewarm]] response."
  },
  {
   "expression": "lure",
@@ -67469,7 +67919,8 @@ const FRIENDS = [
      "pay them back"
     ]
    }
-  ]
+  ],
+  "example": "We used a bowl of tuna to [[lure the cat out]] from under the bed."
  },
  {
   "expression": "lying around",
@@ -67539,7 +67990,8 @@ const FRIENDS = [
      "V.I.P"
     ]
    }
-  ]
+  ],
+  "example": "My roommate has been [[M.I.A.]] all week, and I have no idea where he is."
  },
  {
   "expression": "macho",
@@ -67636,7 +68088,8 @@ const FRIENDS = [
      "momentum"
     ]
    }
-  ]
+  ],
+  "example": "Her natural [[magnetism]] made everyone at the party want to talk to her."
  },
  {
   "expression": "maid of honor",
@@ -67899,7 +68352,8 @@ const FRIENDS = [
      "making a scene"
     ]
    }
-  ]
+  ],
+  "example": "He's not ready to [[make a commitment]] to anyone right now."
  },
  {
   "expression": "make a day of it",
@@ -68013,7 +68467,8 @@ const FRIENDS = [
      "had a dream"
     ]
    }
-  ]
+  ],
+  "example": "We need to [[make a decision]] about the venue by Friday."
  },
  {
   "expression": "make a difference",
@@ -68296,7 +68751,8 @@ const FRIENDS = [
      "big catch"
     ]
    }
-  ]
+  ],
+  "example": "My dad [[made a stink]] at the restaurant when they forgot his order."
  },
  {
   "expression": "make a toast",
@@ -68535,7 +68991,8 @@ const FRIENDS = [
      "made a big mess"
     ]
    }
-  ]
+  ],
+  "example": "After ten years together, she finally [[made an honest man out of him]]."
  },
  {
   "expression": "make an impression",
@@ -68588,7 +69045,8 @@ const FRIENDS = [
      "had a fight"
     ]
    }
-  ]
+  ],
+  "example": "We loved the house so much that we [[made an offer]] that afternoon."
  },
  {
   "expression": "make arrangements",
@@ -68773,7 +69231,8 @@ const FRIENDS = [
      "owe good money"
     ]
    }
-  ]
+  ],
+  "example": "Plumbers in this city [[make good money]]."
  },
  {
   "expression": "make headway",
@@ -68948,7 +69407,8 @@ const FRIENDS = [
      "call it even"
     ]
    }
-  ]
+  ],
+  "example": "You think you'll win the game? Let's [[make it interesting]] with ten bucks."
  },
  {
   "expression": "make it official",
@@ -68974,7 +69434,8 @@ const FRIENDS = [
      "let it slide"
     ]
    }
-  ]
+  ],
+  "example": "They've been dating for months, and now they've [[made it official]] online."
  },
  {
   "expression": "make it out",
@@ -69000,7 +69461,8 @@ const FRIENDS = [
      "make it in"
     ]
    }
-  ]
+  ],
+  "example": "The sign was so far away that I couldn't [[make it out]]."
  },
  {
   "expression": "make it quick",
@@ -69087,7 +69549,8 @@ const FRIENDS = [
      "put it to"
     ]
    }
-  ]
+  ],
+  "example": "Despite the snowstorm, we [[made it to]] the airport on time."
  },
  {
   "expression": "make it up to",
@@ -69191,7 +69654,8 @@ const FRIENDS = [
      "gave it up"
     ]
    }
-  ]
+  ],
+  "example": "The apartment is tiny, but we'll [[make it work]] somehow."
  },
  {
   "expression": "make one's peace with",
@@ -69559,7 +70023,8 @@ const FRIENDS = [
      "paid my rent"
     ]
    }
-  ]
+  ],
+  "example": "Your kind note really [[made my day]]."
  },
  {
   "expression": "make sure",
@@ -69629,7 +70094,8 @@ const FRIENDS = [
      "make a habit of"
     ]
    }
-  ]
+  ],
+  "example": "The hotel pool was closed, so we [[made the best of]] it and explored the town."
  },
  {
   "expression": "make the cut",
@@ -69919,7 +70385,8 @@ const FRIENDS = [
      "done your time"
     ]
    }
-  ]
+  ],
+  "example": "Okay, okay, you've [[made your point]]; I'll start cleaning up after myself."
  },
  {
   "expression": "make yourself comfortable",
@@ -70006,7 +70473,8 @@ const FRIENDS = [
      "hangover"
     ]
    }
-  ]
+  ],
+  "example": "She got a total [[makeover]] before her job interview, with a new haircut and suit."
  },
  {
   "expression": "malpractice",
@@ -70032,7 +70500,8 @@ const FRIENDS = [
      "malfunction"
     ]
    }
-  ]
+  ],
+  "example": "The surgeon was sued for [[malpractice]] after leaving a sponge inside a patient."
  },
  {
   "expression": "man",
@@ -70058,7 +70527,8 @@ const FRIENDS = [
      "cleaning"
     ]
    }
-  ]
+  ],
+  "example": "Two volunteers will [[man]] the ticket booth at the school fair."
  },
  {
   "expression": "man alive",
@@ -70111,7 +70581,8 @@ const FRIENDS = [
      "man of the house"
     ]
    }
-  ]
+  ],
+  "example": "I'm not settling down until I meet the [[man of my dreams]]."
  },
  {
   "expression": "man of the cloth",
@@ -70137,7 +70608,8 @@ const FRIENDS = [
      "man of the people"
     ]
    }
-  ]
+  ],
+  "example": "As a [[man of the cloth]], her uncle performed the wedding ceremony."
  },
  {
   "expression": "manipulative",
@@ -70190,7 +70662,8 @@ const FRIENDS = [
      "selfish"
     ]
    }
-  ]
+  ],
+  "example": "She wore a [[mannish]] suit and tie to the office party."
  },
  {
   "expression": "mark your territory",
@@ -70243,7 +70716,8 @@ const FRIENDS = [
      "break-ins"
     ]
    }
-  ]
+  ],
+  "example": "The [[mark-up]] on drinks at that restaurant is almost three hundred percent."
  },
  {
   "expression": "masquerade",
@@ -70377,7 +70851,8 @@ const FRIENDS = [
      "medical skills"
     ]
    }
-  ]
+  ],
+  "example": "The moment she held her niece, her [[maternal instinct]] kicked in."
  },
  {
   "expression": "maternity",
@@ -70420,7 +70895,8 @@ const FRIENDS = [
      "modernity"
     ]
    }
-  ]
+  ],
+  "example": "She bought some [[maternity]] clothes when her old jeans stopped fitting."
  },
  {
   "expression": "maternity leave",
@@ -70463,7 +70939,8 @@ const FRIENDS = [
      "night shift"
     ]
    }
-  ]
+  ],
+  "example": "My manager is on [[maternity leave]] until the baby is four months old."
  },
  {
   "expression": "mature",
@@ -70516,7 +70993,8 @@ const FRIENDS = [
      "worn out"
     ]
    }
-  ]
+  ],
+  "example": "I can't buy anything else this month; my credit card is [[maxed out]]."
  },
  {
   "expression": "Mazel tov",
@@ -70667,7 +71145,8 @@ const FRIENDS = [
      "rings a bell"
     ]
    }
-  ]
+  ],
+  "example": "Your support during my illness [[meant the world to]] me."
  },
  {
   "expression": "means a lot",
@@ -71008,7 +71487,8 @@ const FRIENDS = [
      "measurable"
     ]
    }
-  ]
+  ],
+  "example": "Our trip to the mountains was the most [[memorable]] holiday we've ever had."
  },
  {
   "expression": "memorize",
@@ -71034,7 +71514,8 @@ const FRIENDS = [
      "manufactured"
     ]
    }
-  ]
+  ],
+  "example": "Actors have to [[memorize]] all their lines before rehearsals begin."
  },
  {
   "expression": "mentor",
@@ -71131,7 +71612,8 @@ const FRIENDS = [
      "settle down"
     ]
    }
-  ]
+  ],
+  "example": "Everyone found out that the two coworkers had been [[messing around]] behind the boss's back."
  },
  {
   "expression": "mess up",
@@ -71323,7 +71805,8 @@ const FRIENDS = [
      "worn in"
     ]
    }
-  ]
+  ],
+  "example": "The whole schedule is [[messed up]] because the train was late."
  },
  {
   "expression": "metaphor",
@@ -71640,7 +72123,8 @@ const FRIENDS = [
      "cutting my own hair"
     ]
    }
-  ]
+  ],
+  "example": "I asked who she was texting, and she told me to [[mind my own business]]."
  },
  {
   "expression": "minion",
@@ -71693,7 +72177,8 @@ const FRIENDS = [
      "punctual"
     ]
    }
-  ]
+  ],
+  "example": "The [[mischievous]] puppy hid my shoes all over the house."
  },
  {
   "expression": "miserable",
@@ -71797,7 +72282,8 @@ const FRIENDS = [
      "feel lonely"
     ]
    }
-  ]
+  ],
+  "example": "He wants everyone to quit with him; I guess [[misery loves company]]."
  },
  {
   "expression": "mishap",
@@ -71850,7 +72336,8 @@ const FRIENDS = [
      "miscounted"
     ]
    }
-  ]
+  ],
+  "example": "I [[misjudged]] my new neighbor; she's actually really friendly."
  },
  {
   "expression": "misleading",
@@ -71893,7 +72380,8 @@ const FRIENDS = [
      "demanding"
     ]
    }
-  ]
+  ],
+  "example": "The ad was [[misleading]] because the phone didn't include a charger."
  },
  {
   "expression": "miss out on",
@@ -71997,7 +72485,8 @@ const FRIENDS = [
      "lost the bet"
     ]
    }
-  ]
+  ],
+  "example": "I practiced all summer but still [[missed the cut]] for the varsity team."
  },
  {
   "expression": "misshapen",
@@ -72023,7 +72512,8 @@ const FRIENDS = [
      "misleading"
     ]
    }
-  ]
+  ],
+  "example": "The farmers' market sells [[misshapen]] tomatoes at half price."
  },
  {
   "expression": "mission accomplished",
@@ -72049,7 +72539,8 @@ const FRIENDS = [
      "better luck next time"
     ]
    }
-  ]
+  ],
+  "example": "The kids are finally asleep; [[mission accomplished]]!"
  },
  {
   "expression": "misspeak",
@@ -72271,7 +72762,8 @@ const FRIENDS = [
      "mixed media"
     ]
    }
-  ]
+  ],
+  "example": "He holds my hand but never calls me, so I'm getting [[mixed signals]]."
  },
  {
   "expression": "mob mentality",
@@ -72351,7 +72843,8 @@ const FRIENDS = [
      "mishap"
     ]
    }
-  ]
+  ],
+  "example": "The designer showed us a [[mockup]] of the new website before building it."
  },
  {
   "expression": "moment of weakness",
@@ -72377,7 +72870,8 @@ const FRIENDS = [
      "word of advice"
     ]
    }
-  ]
+  ],
+  "example": "In a [[moment of weakness]], I ate the whole box of chocolates."
  },
  {
   "expression": "money down the drain",
@@ -72403,7 +72897,8 @@ const FRIENDS = [
      "salt in the wound"
     ]
    }
-  ]
+  ],
+  "example": "That gym membership I never use is just [[money down the drain]]."
  },
  {
   "expression": "money well spent",
@@ -72429,7 +72924,8 @@ const FRIENDS = [
      "a close call"
     ]
    }
-  ]
+  ],
+  "example": "The new mattress cost a lot, but it was [[money well spent]]."
  },
  {
   "expression": "monogamy",
@@ -72553,7 +73049,8 @@ const FRIENDS = [
      "page-turner"
     ]
    }
-  ]
+  ],
+  "example": "His phone ringing in the middle of dinner was a real [[mood-killer]]."
  },
  {
   "expression": "moonlight",
@@ -72579,7 +73076,8 @@ const FRIENDS = [
      "daydream"
     ]
    }
-  ]
+  ],
+  "example": "My teacher [[moonlights]] as a bartender on weekends to pay off his loans."
  },
  {
   "expression": "mope",
@@ -72740,7 +73238,8 @@ const FRIENDS = [
      "holding back"
     ]
    }
-  ]
+  ],
+  "example": "After two years of dating, they decided to [[move forward]] and live together."
  },
  {
   "expression": "move in",
@@ -73088,7 +73587,8 @@ const FRIENDS = [
      "give in"
     ]
    }
-  ]
+  ],
+  "example": "It took me a while, but I've finally [[moved past]] the breakup."
  },
  {
   "expression": "mug",
@@ -73114,7 +73614,8 @@ const FRIENDS = [
      "greet"
     ]
    }
-  ]
+  ],
+  "example": "A tourist was [[mugged]] near the station late last night."
  },
  {
   "expression": "mug shot",
@@ -73211,7 +73712,8 @@ const FRIENDS = [
      "sacred"
     ]
    }
-  ]
+  ],
+  "example": "Most of my job involves [[mundane]] tasks like filing and answering emails."
  },
  {
   "expression": "my bad",
@@ -73308,7 +73810,8 @@ const FRIENDS = [
      "our business"
     ]
    }
-  ]
+  ],
+  "example": "Thanks for the ride home! — [[My pleasure]]."
  },
  {
   "expression": "my treat",
@@ -73439,7 +73942,8 @@ const FRIENDS = [
      "card just expired"
     ]
    }
-  ]
+  ],
+  "example": "She called her husband at work and said, [[My water broke]]; come home now!"
  },
  {
   "expression": "nab",
@@ -73465,7 +73969,8 @@ const FRIENDS = [
      "robbed"
     ]
    }
-  ]
+  ],
+  "example": "I got there early to [[nab]] a seat by the window."
  },
  {
   "expression": "nagging",
@@ -73491,7 +73996,8 @@ const FRIENDS = [
      "snoring"
     ]
    }
-  ]
+  ],
+  "example": "After weeks of my [[nagging]], he finally fixed the leaky faucet."
  },
  {
   "expression": "nail",
@@ -73659,7 +74165,8 @@ const FRIENDS = [
      "evaporate"
     ]
    }
-  ]
+  ],
+  "example": "My brother likes to [[narrate]] everything the cat does in a funny voice."
  },
  {
   "expression": "narrow down",
@@ -74314,7 +74821,8 @@ const FRIENDS = [
      "every now and then"
     ]
    }
-  ]
+  ],
+  "example": "We started chatting on the train, and [[next thing you know]], we're best friends."
  },
  {
   "expression": "nice catch",
@@ -74631,7 +75139,8 @@ const FRIENDS = [
      "fear of"
     ]
    }
-  ]
+  ],
+  "example": "There was [[no call for]] that rude comment about her cooking."
  },
  {
   "expression": "no can do",
@@ -74745,7 +75254,8 @@ const FRIENDS = [
      "no fresh ideas"
     ]
    }
-  ]
+  ],
+  "example": "You got the job instead of me, but [[no hard feelings]]."
  },
  {
   "expression": "no harm, no foul",
@@ -75231,7 +75741,8 @@ const FRIENDS = [
      "no less"
     ]
    }
-  ]
+  ],
+  "example": "I looked for the street, but there was [[no such]] address in town."
  },
  {
   "expression": "no turning back",
@@ -75362,7 +75873,8 @@ const FRIENDS = [
      "no end to it"
     ]
    }
-  ]
+  ],
+  "example": "The report is due tomorrow; there's [[no way around it]], we're working late."
  },
  {
   "expression": "no way in hell",
@@ -75493,7 +76005,8 @@ const FRIENDS = [
      "no match for"
     ]
    }
-  ]
+  ],
+  "example": "It's been two days and still [[no word from]] the airline about my bag."
  },
  {
   "expression": "nod along",
@@ -75830,7 +76343,8 @@ const FRIENDS = [
      "half-way"
     ]
    }
-  ]
+  ],
+  "example": "I expected the cafeteria food to be awful, but it's [[not half bad]]."
  },
  {
   "expression": "not know someone from Adam",
@@ -76062,7 +76576,8 @@ const FRIENDS = [
      "nothing to eat"
     ]
    }
-  ]
+  ],
+  "example": "Go ahead and check my phone; I've got [[nothing to hide]]."
  },
  {
   "expression": "novelty",
@@ -76088,7 +76603,8 @@ const FRIENDS = [
      "notary"
     ]
    }
-  ]
+  ],
+  "example": "He gave me a [[novelty]] mug shaped like a giant toilet."
  },
  {
   "expression": "now and then",
@@ -76212,7 +76728,8 @@ const FRIENDS = [
      "Now you're through"
     ]
    }
-  ]
+  ],
+  "example": "Forget the salad, let's order pizza! — [[Now you're talking]]!"
  },
  {
   "expression": "nudge",
@@ -76380,7 +76897,8 @@ const FRIENDS = [
      "qualify"
     ]
    }
-  ]
+  ],
+  "example": "The ad was criticized for the way it [[objectified]] the women in it."
  },
  {
   "expression": "objectively",
@@ -76504,7 +77022,8 @@ const FRIENDS = [
      "modest"
     ]
    }
-  ]
+  ],
+  "example": "The guy behind us at the movie was loud and [[obnoxious]]."
  },
  {
   "expression": "obsess about",
@@ -76912,7 +77431,8 @@ const FRIENDS = [
      "up for grabs"
     ]
    }
-  ]
+  ],
+  "example": "My sister's ex-boyfriends are totally [[off limits]]."
  },
  {
   "expression": "off night",
@@ -76938,7 +77458,8 @@ const FRIENDS = [
      "inside job"
     ]
    }
-  ]
+  ],
+  "example": "The band usually sounds great, but they had an [[off night]] yesterday."
  },
  {
   "expression": "off the air",
@@ -76991,7 +77512,8 @@ const FRIENDS = [
      "out of order"
     ]
    }
-  ]
+  ],
+  "example": "The excitement at the stadium was [[off the charts]]."
  },
  {
   "expression": "off the rack",
@@ -77044,7 +77566,8 @@ const FRIENDS = [
      "on the spot"
     ]
    }
-  ]
+  ],
+  "example": "[[Off the record]], the manager admitted the project was behind schedule."
  },
  {
   "expression": "off the table",
@@ -77087,7 +77610,8 @@ const FRIENDS = [
      "up for grabs"
     ]
    }
-  ]
+  ],
+  "example": "After the argument, a joint vacation is definitely [[off the table]]."
  },
  {
   "expression": "off the top of my head",
@@ -77174,7 +77698,8 @@ const FRIENDS = [
      "down to"
     ]
    }
-  ]
+  ],
+  "example": "We won the first three games, so the season is [[off to a great start]]."
  },
  {
   "expression": "offbeat",
@@ -77494,7 +78019,8 @@ const FRIENDS = [
      "on a tight budget"
     ]
    }
-  ]
+  ],
+  "example": "You should back up your computer files [[on a regular basis]]."
  },
  {
   "expression": "on a roll",
@@ -77798,7 +78324,8 @@ const FRIENDS = [
      "by business"
     ]
    }
-  ]
+  ],
+  "example": "My father travels to Tokyo [[on business]] twice a year."
  },
  {
   "expression": "on call",
@@ -77878,7 +78405,8 @@ const FRIENDS = [
      "on hold"
     ]
    }
-  ]
+  ],
+  "example": "Just as I mentioned dessert, the waiter appeared [[on cue]] with the menu."
  },
  {
   "expression": "on fire",
@@ -78036,7 +78564,8 @@ const FRIENDS = [
      "at my best"
     ]
    }
-  ]
+  ],
+  "example": "I assembled the bookshelf [[on my own]], without any help."
  },
  {
   "expression": "on my way",
@@ -78062,7 +78591,8 @@ const FRIENDS = [
      "by my side"
     ]
    }
-  ]
+  ],
+  "example": "Don't start eating yet; I'm [[on my way]]."
  },
  {
   "expression": "on one's own",
@@ -78457,7 +78987,8 @@ const FRIENDS = [
      "in the dark about"
     ]
    }
-  ]
+  ],
+  "example": "The young scientist is [[on the cusp of]] a major discovery."
  },
  {
   "expression": "on the edge of one's seat",
@@ -78510,7 +79041,8 @@ const FRIENDS = [
      "on the rocks"
     ]
    }
-  ]
+  ],
+  "example": "I'm still [[on the fence]] about whether to take the new job."
  },
  {
   "expression": "on the house",
@@ -78827,7 +79359,8 @@ const FRIENDS = [
      "by the side of"
     ]
    }
-  ]
+  ],
+  "example": "After failing the test again, she was [[on the verge of]] tears."
  },
  {
   "expression": "on the way",
@@ -78897,7 +79430,8 @@ const FRIENDS = [
      "dry land"
     ]
    }
-  ]
+  ],
+  "example": "You've been late three times this week, so you're [[on thin ice]]."
  },
  {
   "expression": "on Uncle Sam's nickel",
@@ -79028,7 +79562,8 @@ const FRIENDS = [
      "on your own feet"
     ]
    }
-  ]
+  ],
+  "example": "You can play video games [[on your own time]], not during work hours."
  },
  {
   "expression": "once in a blue moon",
@@ -79081,7 +79616,8 @@ const FRIENDS = [
      "every other day"
     ]
    }
-  ]
+  ],
+  "example": "Seeing the northern lights was a [[once in a lifetime]] experience."
  },
  {
   "expression": "once in a while",
@@ -79151,7 +79687,8 @@ const FRIENDS = [
      "one half of a"
     ]
    }
-  ]
+  ],
+  "example": "That was [[one heck of a]] storm last night."
  },
  {
   "expression": "one of a kind",
@@ -79231,7 +79768,8 @@ const FRIENDS = [
      "stuck to"
     ]
    }
-  ]
+  ],
+  "example": "We shared a cab home, [[one thing led to another]], and now we're dating."
  },
  {
   "expression": "one's number is up",
@@ -79382,7 +79920,8 @@ const FRIENDS = [
      "oblivious"
     ]
    }
-  ]
+  ],
+  "example": "The [[optimum]] temperature for growing these plants is about twenty degrees."
  },
  {
   "expression": "orally",
@@ -79543,7 +80082,8 @@ const FRIENDS = [
      "last straw"
     ]
    }
-  ]
+  ],
+  "example": "I'll ask my [[other half]] if we're free on Saturday."
  },
  {
   "expression": "otherwise",
@@ -79596,7 +80136,8 @@ const FRIENDS = [
      "up late"
     ]
    }
-  ]
+  ],
+  "example": "He fell off the ladder and was [[out cold]] for a minute."
  },
  {
   "expression": "out in the open",
@@ -79710,7 +80251,8 @@ const FRIENDS = [
      "out of print"
     ]
    }
-  ]
+  ],
+  "example": "Asking about her salary at dinner was a bit [[out of bounds]]."
  },
  {
   "expression": "out of control",
@@ -80044,7 +80586,8 @@ const FRIENDS = [
      "out of reach"
     ]
    }
-  ]
+  ],
+  "example": "We kept quiet [[out of respect]] for the grieving family."
  },
  {
   "expression": "out of someone's league",
@@ -80412,7 +80955,8 @@ const FRIENDS = [
      "on the market"
     ]
    }
-  ]
+  ],
+  "example": "In the past, having a child [[out of wedlock]] was considered shameful."
  },
  {
   "expression": "out of whack",
@@ -80641,7 +81185,8 @@ const FRIENDS = [
      "run down"
     ]
    }
-  ]
+  ],
+  "example": "Some of his fashion choices are pretty [[out there]]."
  },
  {
   "expression": "outbid",
@@ -80667,7 +81212,8 @@ const FRIENDS = [
      "outlive"
     ]
    }
-  ]
+  ],
+  "example": "Someone [[outbid]] me for the antique lamp in the final seconds of the auction."
  },
  {
   "expression": "outburst",
@@ -80693,7 +81239,8 @@ const FRIENDS = [
      "outlet"
     ]
    }
-  ]
+  ],
+  "example": "The coach apologized for his angry [[outburst]] after the game."
  },
  {
   "expression": "outta here",
@@ -80895,7 +81442,8 @@ const FRIENDS = [
      "on the rocks"
     ]
    }
-  ]
+  ],
+  "example": "He jokes that he's [[over the hill]] now that he's turned fifty."
  },
  {
   "expression": "over the line",
@@ -81063,7 +81611,8 @@ const FRIENDS = [
      "overpaid"
     ]
    }
-  ]
+  ],
+  "example": "I wore a suit to the barbecue and felt completely [[overdressed]]."
  },
  {
   "expression": "overdue",
@@ -81177,7 +81726,8 @@ const FRIENDS = [
      "overdosed"
     ]
    }
-  ]
+  ],
+  "example": "My lunch break [[overlaps]] with my coworker's, so we eat together."
  },
  {
   "expression": "overnight",
@@ -81379,7 +81929,8 @@ const FRIENDS = [
      "upgrade"
     ]
    }
-  ]
+  ],
+  "example": "Leaving your name off the list was an [[oversight]], and I apologize."
  },
  {
   "expression": "oversleep",
@@ -81493,7 +82044,8 @@ const FRIENDS = [
      "overdressed"
     ]
    }
-  ]
+  ],
+  "example": "Moving to a new country alone can be [[overwhelming]] at first."
  },
  {
   "expression": "owe",
@@ -81695,7 +82247,8 @@ const FRIENDS = [
      "long shot"
     ]
    }
-  ]
+  ],
+  "example": "If you want to date me, my three kids come too; we're a [[package deal]]."
  },
  {
   "expression": "pact",
@@ -81738,7 +82291,8 @@ const FRIENDS = [
      "mess"
     ]
    }
-  ]
+  ],
+  "example": "My friends and I made a [[pact]] to stay in touch after graduation."
  },
  {
   "expression": "pain in the ass",
@@ -81781,7 +82335,8 @@ const FRIENDS = [
      "apple of my eye"
     ]
    }
-  ]
+  ],
+  "example": "Getting a new passport is a real [[pain in the ass]]."
  },
  {
   "expression": "painkillers",
@@ -81834,7 +82389,8 @@ const FRIENDS = [
      "Turn the lights off"
     ]
    }
-  ]
+  ],
+  "example": "After the exams, we're going out to [[paint the town red]]."
  },
  {
   "expression": "palpable",
@@ -82164,7 +82720,8 @@ const FRIENDS = [
      "bottom line"
     ]
    }
-  ]
+  ],
+  "example": "The spokesperson stuck to the [[party line]] and refused to comment further."
  },
  {
   "expression": "pass",
@@ -82508,7 +83065,8 @@ const FRIENDS = [
      "bite the bullet"
     ]
    }
-  ]
+  ],
+  "example": "After thirty years running the bakery, she [[passed the torch]] to her daughter."
  },
  {
   "expression": "pasty",
@@ -82534,7 +83092,8 @@ const FRIENDS = [
      "wordy"
     ]
    }
-  ]
+  ],
+  "example": "After a long winter indoors, my skin looks [[pasty]]."
  },
  {
   "expression": "patch things up",
@@ -83264,7 +83823,8 @@ const FRIENDS = [
      "check-up"
     ]
    }
-  ]
+  ],
+  "example": "The coach gave the team a [[pep talk]] before the final."
  },
  {
   "expression": "per se",
@@ -83351,7 +83911,8 @@ const FRIENDS = [
      "fine print"
     ]
    }
-  ]
+  ],
+  "example": "Please stop standing so close; I need some [[personal space]]."
  },
  {
   "expression": "personals",
@@ -83377,7 +83938,8 @@ const FRIENDS = [
      "footnotes"
     ]
    }
-  ]
+  ],
+  "example": "My aunt met her husband through an ad in the [[personals]]."
  },
  {
   "expression": "persuade",
@@ -83447,7 +84009,8 @@ const FRIENDS = [
      "love songs"
     ]
    }
-  ]
+  ],
+  "example": "My parents still call each other by silly [[pet names]] like 'honeybun'."
  },
  {
   "expression": "pet peeve",
@@ -83784,7 +84347,8 @@ const FRIENDS = [
      "make a wish"
     ]
    }
-  ]
+  ],
+  "example": "He's in a bad mood and trying to [[pick a fight]] with everyone."
  },
  {
   "expression": "pick on",
@@ -83966,7 +84530,8 @@ const FRIENDS = [
      "wore her out"
     ]
    }
-  ]
+  ],
+  "example": "Can you [[pick me up]] from the station at six?"
  },
  {
   "expression": "pick up",
@@ -84097,7 +84662,8 @@ const FRIENDS = [
      "ran over"
     ]
    }
-  ]
+  ],
+  "example": "After a year in Scotland, she [[picked up an accent]]."
  },
  {
   "expression": "pick up the pieces",
@@ -84150,7 +84716,8 @@ const FRIENDS = [
      "got off"
     ]
    }
-  ]
+  ],
+  "example": "Let's take a break and [[pick up where we left off]] tomorrow."
  },
  {
   "expression": "pick your battles",
@@ -84176,7 +84743,8 @@ const FRIENDS = [
      "count your change"
     ]
    }
-  ]
+  ],
+  "example": "Parents of teenagers soon learn to [[pick their battles]]."
  },
  {
   "expression": "pick your moments",
@@ -84395,7 +84963,8 @@ const FRIENDS = [
      "fall through"
     ]
    }
-  ]
+  ],
+  "example": "If I take a week off, the emails will just [[pile up]]."
  },
  {
   "expression": "pillar",
@@ -84421,7 +84990,8 @@ const FRIENDS = [
      "tunnels"
     ]
    }
-  ]
+  ],
+  "example": "Honesty is one of the [[pillars]] of a good friendship."
  },
  {
   "expression": "pipe down",
@@ -84501,7 +85071,8 @@ const FRIENDS = [
      "pay it all off"
     ]
    }
-  ]
+  ],
+  "example": "He [[pissed away]] his entire bonus on lottery tickets."
  },
  {
   "expression": "piss off",
@@ -84598,7 +85169,8 @@ const FRIENDS = [
      "well off"
     ]
    }
-  ]
+  ],
+  "example": "I was really [[pissed off]] when they cancelled my flight without warning."
  },
  {
   "expression": "pit against",
@@ -84624,7 +85196,8 @@ const FRIENDS = [
      "turning"
     ]
    }
-  ]
+  ],
+  "example": "The coach likes to [[pit the two goalkeepers against]] each other in practice."
  },
  {
   "expression": "pitch",
@@ -84677,7 +85250,8 @@ const FRIENDS = [
      "tune in"
     ]
    }
-  ]
+  ],
+  "example": "If everyone [[pitches in]] ten dollars, we can buy her a nice gift."
  },
  {
   "expression": "pivot",
@@ -84730,7 +85304,8 @@ const FRIENDS = [
      "plating"
     ]
    }
-  ]
+  ],
+  "example": "He looked familiar, but I couldn't quite [[place]] him."
  },
  {
   "expression": "place a bet",
@@ -84810,7 +85385,8 @@ const FRIENDS = [
      "play back"
     ]
    }
-  ]
+  ],
+  "example": "When my son pretended to be a waiter, I [[played along]] and ordered dinner."
  },
  {
   "expression": "play around with",
@@ -84890,7 +85466,8 @@ const FRIENDS = [
      "playing for keeps"
     ]
    }
-  ]
+  ],
+  "example": "The company was accused of [[playing fast and loose with]] safety rules."
  },
  {
   "expression": "play for both teams",
@@ -85014,7 +85591,8 @@ const FRIENDS = [
      "show off"
     ]
    }
-  ]
+  ],
+  "example": "The two comedians [[play off]] each other perfectly on stage."
  },
  {
   "expression": "play the field",
@@ -85084,7 +85662,8 @@ const FRIENDS = [
      "hold the door"
     ]
    }
-  ]
+  ],
+  "example": "He likes to [[play the fool]] in class, but he's actually very smart."
  },
  {
   "expression": "play the odds",
@@ -85235,7 +85814,8 @@ const FRIENDS = [
      "toast"
     ]
    }
-  ]
+  ],
+  "example": "Everyone at the office put five dollars into a [[pool]] for the big game."
  },
  {
   "expression": "pop by",
@@ -85261,7 +85841,8 @@ const FRIENDS = [
      "break in"
     ]
    }
-  ]
+  ],
+  "example": "I'll [[pop by]] your place later to drop off the book."
  },
  {
   "expression": "pop into one's head",
@@ -85331,7 +85912,8 @@ const FRIENDS = [
      "cheerful"
     ]
    }
-  ]
+  ],
+  "example": "Her boyfriend gets [[possessive]] whenever she talks to other guys."
  },
  {
   "expression": "postpone",
@@ -85472,7 +86054,8 @@ const FRIENDS = [
      "plumbing"
     ]
    }
-  ]
+  ],
+  "example": "The farm raises [[poultry]] and sells fresh eggs every morning."
  },
  {
   "expression": "power through",
@@ -85515,7 +86098,8 @@ const FRIENDS = [
      "checking out"
     ]
    }
-  ]
+  ],
+  "example": "I was exhausted, but I [[powered through]] and finished the report."
  },
  {
   "expression": "practical joke",
@@ -85541,7 +86125,8 @@ const FRIENDS = [
      "bedtime stories"
     ]
    }
-  ]
+  ],
+  "example": "For a [[practical joke]], they covered his desk in sticky notes."
  },
  {
   "expression": "practice",
@@ -85621,7 +86206,8 @@ const FRIENDS = [
      "furious"
     ]
    }
-  ]
+  ],
+  "example": "Look at the baby's tiny shoes; aren't they [[precious]]?"
  },
  {
   "expression": "predictable",
@@ -85728,7 +86314,8 @@ const FRIENDS = [
      "precarious"
     ]
    }
-  ]
+  ],
+  "example": "She won a scholarship to a [[prestigious]] university."
  },
  {
   "expression": "presumably",
@@ -85852,7 +86439,8 @@ const FRIENDS = [
      "Cautious"
     ]
    }
-  ]
+  ],
+  "example": "The restaurant was so [[pretentious]] that the menu had no prices."
  },
  {
   "expression": "pretty much",
@@ -85956,7 +86544,8 @@ const FRIENDS = [
      "Pretty good"
     ]
    }
-  ]
+  ],
+  "example": "Can I borrow your car this weekend, [[pretty please]]?"
  },
  {
   "expression": "priceless",
@@ -86009,7 +86598,8 @@ const FRIENDS = [
      "pushy"
     ]
    }
-  ]
+  ],
+  "example": "The food is great, but that place is a bit [[pricey]]."
  },
  {
   "expression": "pride",
@@ -86062,7 +86652,8 @@ const FRIENDS = [
      "prototypes"
     ]
    }
-  ]
+  ],
+  "example": "He refused the bribe because it went against his [[principles]]."
  },
  {
   "expression": "privacy",
@@ -86142,7 +86733,8 @@ const FRIENDS = [
      "opinions"
     ]
    }
-  ]
+  ],
+  "example": "All [[proceeds]] from the bake sale will go to the children's hospital."
  },
  {
   "expression": "profusion",
@@ -86168,7 +86760,8 @@ const FRIENDS = [
      "precision"
     ]
    }
-  ]
+  ],
+  "example": "In spring, the garden is filled with a [[profusion]] of flowers."
  },
  {
   "expression": "promotion",
@@ -86380,7 +86973,8 @@ const FRIENDS = [
      "showed them around"
     ]
    }
-  ]
+  ],
+  "example": "Everyone said I'd fail the course, but I [[proved them wrong]]."
  },
  {
   "expression": "provocatively",
@@ -86406,7 +87000,8 @@ const FRIENDS = [
      "productively"
     ]
    }
-  ]
+  ],
+  "example": "She dressed [[provocatively]] in bright red to stand out at the meeting."
  },
  {
   "expression": "prude",
@@ -86432,7 +87027,8 @@ const FRIENDS = [
      "klutz"
     ]
    }
-  ]
+  ],
+  "example": "Don't be such a [[prude]]; it was only a kiss on the cheek."
  },
  {
   "expression": "pry",
@@ -86458,7 +87054,8 @@ const FRIENDS = [
      "lie"
     ]
    }
-  ]
+  ],
+  "example": "I don't mean to [[pry]], but are you two still together?"
  },
  {
   "expression": "psych out",
@@ -86653,7 +87250,8 @@ const FRIENDS = [
      "call it off"
     ]
    }
-  ]
+  ],
+  "example": "I was nervous before my speech, but I [[pulled it together]] and did fine."
  },
  {
   "expression": "pull off",
@@ -86706,7 +87304,8 @@ const FRIENDS = [
      "sign this off"
     ]
    }
-  ]
+  ],
+  "example": "Not everyone can wear a hat like that, but you [[pull off the look]]."
  },
  {
   "expression": "pull over",
@@ -86837,7 +87436,8 @@ const FRIENDS = [
      "make yourself known"
     ]
    }
-  ]
+  ],
+  "example": "Stop crying and [[pull yourself together]]; the guests are arriving."
  },
  {
   "expression": "punch a clock",
@@ -86863,7 +87463,8 @@ const FRIENDS = [
      "pulling a prank"
     ]
    }
-  ]
+  ],
+  "example": "He quit his office job because he hated having to [[punch a clock]]."
  },
  {
   "expression": "puncture wound",
@@ -86916,7 +87517,8 @@ const FRIENDS = [
      "black sheep"
     ]
    }
-  ]
+  ],
+  "example": "The CEO is just a figurehead; his father is the real [[puppet master]]."
  },
  {
   "expression": "purebred",
@@ -87057,7 +87659,8 @@ const FRIENDS = [
      "out of line"
     ]
    }
-  ]
+  ],
+  "example": "One more complaint from the customer could [[push her over the edge]]."
  },
  {
   "expression": "push someone's buttons",
@@ -87235,7 +87838,8 @@ const FRIENDS = [
      "hold"
     ]
    }
-  ]
+  ],
+  "example": "The manager tried to [[put a good spin on]] the bad sales figures."
  },
  {
   "expression": "put a label on",
@@ -87332,7 +87936,8 @@ const FRIENDS = [
      "bring aside"
     ]
    }
-  ]
+  ],
+  "example": "Let's [[put aside]] our differences and finish this project together."
  },
  {
   "expression": "put down",
@@ -87537,7 +88142,8 @@ const FRIENDS = [
      "at risk"
     ]
    }
-  ]
+  ],
+  "example": "We've decided to [[put on hold]] our travel plans until the baby is born."
  },
  {
   "expression": "put on weight",
@@ -87847,7 +88453,8 @@ const FRIENDS = [
      "on the rocks"
     ]
    }
-  ]
+  ],
+  "example": "That one hit song [[put the band on the map]]."
  },
  {
   "expression": "put someone out of business",
@@ -87873,7 +88480,8 @@ const FRIENDS = [
      "out of control"
     ]
    }
-  ]
+  ],
+  "example": "The new supermarket [[put the corner shop out of business]]."
  },
  {
   "expression": "put someone up",
@@ -88007,7 +88615,8 @@ const FRIENDS = [
      "making words"
     ]
    }
-  ]
+  ],
+  "example": "Don't [[put words in my mouth]]; I never said I hated your cooking."
  },
  {
   "expression": "put yourself out there",
@@ -88050,7 +88659,8 @@ const FRIENDS = [
      "held myself back"
     ]
    }
-  ]
+  ],
+  "example": "If you want to meet people, you have to [[put yourself out there]]."
  },
  {
   "expression": "qualified",
@@ -88211,7 +88821,8 @@ const FRIENDS = [
      "racing"
     ]
    }
-  ]
+  ],
+  "example": "I woke up with a [[raging]] headache after the party."
  },
  {
   "expression": "rain check",
@@ -88281,7 +88892,8 @@ const FRIENDS = [
      "drawing a line"
     ]
    }
-  ]
+  ],
+  "example": "Let's all [[raise a glass]] to the happy couple!"
  },
  {
   "expression": "raise the stakes",
@@ -88449,7 +89061,8 @@ const FRIENDS = [
      "bad apple"
     ]
    }
-  ]
+  ],
+  "example": "A boss who actually listens is a [[rare breed]]."
  },
  {
   "expression": "rash",
@@ -88610,7 +89223,8 @@ const FRIENDS = [
      "take too much into"
     ]
    }
-  ]
+  ],
+  "example": "He just said hi; don't [[read too much into]] it."
  },
  {
   "expression": "realtor",
@@ -88636,7 +89250,8 @@ const FRIENDS = [
      "nanny"
     ]
    }
-  ]
+  ],
+  "example": "Our [[realtor]] showed us five apartments in one afternoon."
  },
  {
   "expression": "rebound",
@@ -88858,7 +89473,8 @@ const FRIENDS = [
      "green room"
     ]
    }
-  ]
+  ],
+  "example": "The actors posed for photos on the [[red carpet]] before the premiere."
  },
  {
   "expression": "red-eye",
@@ -88965,7 +89581,8 @@ const FRIENDS = [
      "refund"
     ]
    }
-  ]
+  ],
+  "example": "When the ball flew at me, I ducked by [[reflex]]."
  },
  {
   "expression": "refundable",
@@ -88991,7 +89608,8 @@ const FRIENDS = [
      "renewable"
     ]
    }
-  ]
+  ],
+  "example": "The concert tickets aren't [[refundable]], so make sure you can go."
  },
  {
   "expression": "refuse",
@@ -89044,7 +89662,8 @@ const FRIENDS = [
      "résumé"
     ]
    }
-  ]
+  ],
+  "example": "My doctor put me on a strict exercise [[regime]] after my surgery."
  },
  {
   "expression": "regimented",
@@ -89185,7 +89804,8 @@ const FRIENDS = [
      "resemblances"
     ]
    }
-  ]
+  ],
+  "example": "The kitchen was so busy that the chef called in [[reinforcements]]."
  },
  {
   "expression": "reject",
@@ -89282,7 +89902,8 @@ const FRIENDS = [
      "tied by work"
     ]
    }
-  ]
+  ],
+  "example": "We call him Uncle Tom, but we're not actually [[related by blood]]."
  },
  {
   "expression": "relieved",
@@ -89369,7 +89990,8 @@ const FRIENDS = [
      "investigate"
     ]
    }
-  ]
+  ],
+  "example": "The founder finally agreed to [[relinquish]] control of the company."
  },
  {
   "expression": "relocate",
@@ -89395,7 +90017,8 @@ const FRIENDS = [
      "reinstated"
     ]
    }
-  ]
+  ],
+  "example": "The company [[relocated]] her to its office in Chicago."
  },
  {
   "expression": "reluctant",
@@ -89580,7 +90203,8 @@ const FRIENDS = [
      "dress code"
     ]
    }
-  ]
+  ],
+  "example": "Thanks to [[rent control]], their rent has barely gone up in years."
  },
  {
   "expression": "repel",
@@ -89721,7 +90345,8 @@ const FRIENDS = [
      "rehearse"
     ]
    }
-  ]
+  ],
+  "example": "Can we [[reschedule]] our meeting for next Tuesday?"
  },
  {
   "expression": "resent",
@@ -89828,7 +90453,8 @@ const FRIENDS = [
      "truly remember"
     ]
    }
-  ]
+  ],
+  "example": "I see your point, but I [[respectfully disagree]]."
  },
  {
   "expression": "responsible for",
@@ -89854,7 +90480,8 @@ const FRIENDS = [
      "late for"
     ]
    }
-  ]
+  ],
+  "example": "Who is [[responsible for]] locking the door at night?"
  },
  {
   "expression": "rest assured",
@@ -90049,7 +90676,8 @@ const FRIENDS = [
      "recipe"
     ]
    }
-  ]
+  ],
+  "example": "She hid his keys as [[revenge]] for eating her lunch."
  },
  {
   "expression": "revoke",
@@ -90075,7 +90703,8 @@ const FRIENDS = [
      "received"
     ]
    }
-  ]
+  ],
+  "example": "His driving licence was [[revoked]] after his third speeding offence."
  },
  {
   "expression": "ridicule",
@@ -90250,7 +90879,8 @@ const FRIENDS = [
      "Right off the bat"
     ]
    }
-  ]
+  ],
+  "example": "You look great tonight! — [[Right back at you]]!"
  },
  {
   "expression": "right for the part",
@@ -90293,7 +90923,8 @@ const FRIENDS = [
      "up for the trip"
     ]
    }
-  ]
+  ],
+  "example": "She has the perfect voice; she's [[right for the part]]."
  },
  {
   "expression": "right on time",
@@ -90559,7 +91190,8 @@ const FRIENDS = [
      "wash the Band-Aid off"
     ]
    }
-  ]
+  ],
+  "example": "Just [[rip off the Band-Aid]] and tell him you're moving out."
  },
  {
   "expression": "rip someone off",
@@ -90585,7 +91217,8 @@ const FRIENDS = [
      "calling us back"
     ]
    }
-  ]
+  ],
+  "example": "That taxi driver [[ripped us off]] by taking the long way."
  },
  {
   "expression": "rise to the occasion",
@@ -90611,7 +91244,8 @@ const FRIENDS = [
      "jump to conclusions"
     ]
    }
-  ]
+  ],
+  "example": "The new nurse [[rose to the occasion]] during the busy night shift."
  },
  {
   "expression": "road trip",
@@ -90745,7 +91379,8 @@ const FRIENDS = [
      "tour guide"
     ]
    }
-  ]
+  ],
+  "example": "My older sister has always been a great [[role model]] for me."
  },
  {
   "expression": "roll out of bed",
@@ -90771,7 +91406,8 @@ const FRIENDS = [
      "gotten off work"
     ]
    }
-  ]
+  ],
+  "example": "Sorry I look so messy; I just [[rolled out of bed]]."
  },
  {
   "expression": "roll with",
@@ -90912,7 +91548,8 @@ const FRIENDS = [
      "Fair trade"
     ]
    }
-  ]
+  ],
+  "example": "Forgetting to save your work was a [[rookie mistake]]."
  },
  {
   "expression": "root for",
@@ -90965,7 +91602,8 @@ const FRIENDS = [
      "fake"
     ]
    }
-  ]
+  ],
+  "example": "The first year of college was [[rough]] for me."
  },
  {
   "expression": "rough around the edges",
@@ -90991,7 +91629,8 @@ const FRIENDS = [
      "hard on the outside"
     ]
    }
-  ]
+  ],
+  "example": "He's a bit [[rough around the edges]], but he has a kind heart."
  },
  {
   "expression": "rough day",
@@ -91034,7 +91673,8 @@ const FRIENDS = [
      "free hand"
     ]
    }
-  ]
+  ],
+  "example": "I had a [[rough day]] at work, so I just want to relax."
  },
  {
   "expression": "rough night",
@@ -91060,7 +91700,8 @@ const FRIENDS = [
      "blank check"
     ]
    }
-  ]
+  ],
+  "example": "You look tired; did you have a [[rough night]]?"
  },
  {
   "expression": "routine",
@@ -91086,7 +91727,8 @@ const FRIENDS = [
      "deadline"
     ]
    }
-  ]
+  ],
+  "example": "Stretching is part of my morning [[routine]] before breakfast."
  },
  {
   "expression": "RSVP",
@@ -91112,7 +91754,8 @@ const FRIENDS = [
      "ETA"
     ]
    }
-  ]
+  ],
+  "example": "Please send your [[RSVP]] by next Friday so we can plan the seating."
  },
  {
   "expression": "rude",
@@ -91246,7 +91889,8 @@ const FRIENDS = [
      "rolls out"
     ]
    }
-  ]
+  ],
+  "example": "The doctor ran tests to [[rule out]] a broken bone."
  },
  {
   "expression": "run a tight ship",
@@ -91272,7 +91916,8 @@ const FRIENDS = [
      "hard bargain"
     ]
    }
-  ]
+  ],
+  "example": "Our principal [[runs a tight ship]]; nobody is ever late."
  },
  {
   "expression": "run after",
@@ -91379,7 +92024,8 @@ const FRIENDS = [
      "break out"
     ]
    }
-  ]
+  ],
+  "example": "Red hair [[runs in the family]]; my mom and grandpa have it too."
  },
  {
   "expression": "run in the same circles",
@@ -91405,7 +92051,8 @@ const FRIENDS = [
      "same games"
     ]
    }
-  ]
+  ],
+  "example": "We don't know each other well because we don't [[run in the same circles]]."
  },
  {
   "expression": "run interference",
@@ -91431,7 +92078,8 @@ const FRIENDS = [
      "hold court"
     ]
    }
-  ]
+  ],
+  "example": "I'll [[run interference]] with Mom while you sneak the puppy upstairs."
  },
  {
   "expression": "run into",
@@ -91826,7 +92474,8 @@ const FRIENDS = [
      "has-been"
     ]
    }
-  ]
+  ],
+  "example": "She was the [[runner-up]] in the national spelling contest."
  },
  {
   "expression": "ruse",
@@ -91852,7 +92501,8 @@ const FRIENDS = [
      "rose"
     ]
    }
-  ]
+  ],
+  "example": "The surprise party invitation was a [[ruse]] to get him out of the house."
  },
  {
   "expression": "rush into",
@@ -92105,7 +92755,8 @@ const FRIENDS = [
      "fun to see"
     ]
    }
-  ]
+  ],
+  "example": "It's [[safe to say]] he won't be invited back after that speech."
  },
  {
   "expression": "safety net",
@@ -92412,7 +93063,8 @@ const FRIENDS = [
      "save money"
     ]
    }
-  ]
+  ],
+  "example": "Don't eat too much pasta; [[save room]] for dessert."
  },
  {
   "expression": "save up",
@@ -92614,7 +93266,8 @@ const FRIENDS = [
      "pulse"
     ]
    }
-  ]
+  ],
+  "example": "This shampoo is gentle on a dry, itchy [[scalp]]."
  },
  {
   "expression": "scare away",
@@ -92819,7 +93472,8 @@ const FRIENDS = [
      "worn to pieces"
     ]
    }
-  ]
+  ],
+  "example": "I was [[scared to death]] before my driving test."
  },
  {
   "expression": "scatterbrain",
@@ -92845,7 +93499,8 @@ const FRIENDS = [
      "busybody"
     ]
    }
-  ]
+  ],
+  "example": "I'm such a [[scatterbrain]]; I left my keys in the fridge again."
  },
  {
   "expression": "scented",
@@ -93006,7 +93661,8 @@ const FRIENDS = [
      "clumsy"
     ]
    }
-  ]
+  ],
+  "example": "The [[scrappy]] little team kept fighting until the very last minute."
  },
  {
   "expression": "scratchy",
@@ -93032,7 +93688,8 @@ const FRIENDS = [
      "sticky"
     ]
    }
-  ]
+  ],
+  "example": "My throat feels [[scratchy]]; I think I'm getting a cold."
  },
  {
   "expression": "scream bloody murder",
@@ -93058,7 +93715,8 @@ const FRIENDS = [
      "breaks the ice"
     ]
    }
-  ]
+  ],
+  "example": "The toddler [[screamed bloody murder]] when we took away his toy."
  },
  {
   "expression": "screen",
@@ -93321,7 +93979,8 @@ const FRIENDS = [
      "pointing at"
     ]
    }
-  ]
+  ],
+  "example": "My brothers love to [[screw with]] me by hiding my phone."
  },
  {
   "expression": "screw-up",
@@ -93347,7 +94006,8 @@ const FRIENDS = [
      "make up"
     ]
    }
-  ]
+  ],
+  "example": "Sending the email to the wrong client was a huge [[screw-up]]."
  },
  {
   "expression": "screwed up",
@@ -93400,7 +94060,8 @@ const FRIENDS = [
      "scolded"
     ]
    }
-  ]
+  ],
+  "example": "My new shoes are already [[scuffed]] from walking on gravel."
  },
  {
   "expression": "seal the deal",
@@ -93551,7 +94212,8 @@ const FRIENDS = [
      "parking spot"
     ]
    }
-  ]
+  ],
+  "example": "My grandmother never told anyone the [[secret ingredient]] in her soup."
  },
  {
   "expression": "security deposit",
@@ -93604,7 +94266,8 @@ const FRIENDS = [
      "settled"
     ]
    }
-  ]
+  ],
+  "example": "The dog was [[sedated]] before the vet cleaned his teeth."
  },
  {
   "expression": "seduce",
@@ -93779,7 +94442,8 @@ const FRIENDS = [
      "taking separate cars"
     ]
    }
-  ]
+  ],
+  "example": "After two years together, she told him she wanted to [[see other people]]."
  },
  {
   "expression": "see right through",
@@ -93805,7 +94469,8 @@ const FRIENDS = [
      "go right past"
     ]
    }
-  ]
+  ],
+  "example": "He pretended to be sick, but his mom could [[see right through]] him."
  },
  {
   "expression": "see where someone is going",
@@ -93831,7 +94496,8 @@ const FRIENDS = [
      "feel how you're aging"
     ]
    }
-  ]
+  ],
+  "example": "Okay, I [[see where you're going]] with this, and the answer is no."
  },
  {
   "expression": "see you around",
@@ -93884,7 +94550,8 @@ const FRIENDS = [
      "prize money"
     ]
    }
-  ]
+  ],
+  "example": "Her parents gave her some [[seed money]] to open a small bakery."
  },
  {
   "expression": "seeing as",
@@ -94062,7 +94729,8 @@ const FRIENDS = [
      "self-employed"
     ]
    }
-  ]
+  ],
+  "example": "He's so [[self-centered]] that he never asks how anyone else is doing."
  },
  {
   "expression": "self-conscious",
@@ -94132,7 +94800,8 @@ const FRIENDS = [
      "self-defense"
     ]
    }
-  ]
+  ],
+  "example": "It takes real [[self-control]] not to eat the whole box of cookies."
  },
  {
   "expression": "self-involved",
@@ -94202,7 +94871,8 @@ const FRIENDS = [
      "self-driving"
     ]
    }
-  ]
+  ],
+  "example": "No [[self-respecting]] chef would serve frozen pizza at a dinner party."
  },
  {
   "expression": "self-sufficient",
@@ -94326,7 +94996,8 @@ const FRIENDS = [
      "spelling"
     ]
    }
-  ]
+  ],
+  "example": "If you want the job, you really have to [[sell]] yourself in the interview."
  },
  {
   "expression": "sell out",
@@ -94413,7 +95084,8 @@ const FRIENDS = [
      "take-off"
     ]
    }
-  ]
+  ],
+  "example": "Fans called the band a [[sell-out]] after they wrote a song for a car commercial."
  },
  {
   "expression": "selling point",
@@ -94439,7 +95111,8 @@ const FRIENDS = [
      "breaking point"
     ]
    }
-  ]
+  ],
+  "example": "The big backyard was the house's main [[selling point]]."
  },
  {
   "expression": "send-off",
@@ -94465,7 +95138,8 @@ const FRIENDS = [
      "walk out"
     ]
    }
-  ]
+  ],
+  "example": "We gave our coworker a great [[send-off]] on her last day at the office."
  },
  {
   "expression": "sense",
@@ -94707,7 +95381,8 @@ const FRIENDS = [
      "off my game"
     ]
    }
-  ]
+  ],
+  "example": "My grandfather is too [[set in his ways]] to try a new phone."
  },
  {
   "expression": "set off",
@@ -94733,7 +95408,8 @@ const FRIENDS = [
      "bring her over"
     ]
    }
-  ]
+  ],
+  "example": "Just mentioning her old dog can [[set her off]] crying again."
  },
  {
   "expression": "set someone up for a joke",
@@ -94759,7 +95435,8 @@ const FRIENDS = [
      "fill me in"
     ]
    }
-  ]
+  ],
+  "example": "You totally [[set me up for that joke]], so I had to say it."
  },
  {
   "expression": "set up",
@@ -95066,7 +95743,8 @@ const FRIENDS = [
      "gentle"
     ]
    }
-  ]
+  ],
+  "example": "It's [[sexist]] to assume only women should cook for the family."
  },
  {
   "expression": "shades",
@@ -95092,7 +95770,8 @@ const FRIENDS = [
      "sleeves"
     ]
    }
-  ]
+  ],
+  "example": "It was so sunny at the beach that I forgot my [[shades]] and had to squint."
  },
  {
   "expression": "shake down",
@@ -95358,7 +96037,8 @@ const FRIENDS = [
      "picking up"
     ]
    }
-  ]
+  ],
+  "example": "The new project is [[shaping up]] nicely, and we should finish early."
  },
  {
   "expression": "sharp as a tack",
@@ -95384,7 +96064,8 @@ const FRIENDS = [
      "busy as a bee"
     ]
    }
-  ]
+  ],
+  "example": "He locked his keys in the car again. [[Sharp as a tack]], that one."
  },
  {
   "expression": "shimmy",
@@ -95552,7 +96233,8 @@ const FRIENDS = [
      "break some rules"
     ]
    }
-  ]
+  ],
+  "example": "After school, we usually go to the park to [[shoot some hoops]]."
  },
  {
   "expression": "shoot someone down",
@@ -95595,7 +96277,8 @@ const FRIENDS = [
      "wears me out"
     ]
    }
-  ]
+  ],
+  "example": "I asked her out for coffee, but she [[shot me down]] right away."
  },
  {
   "expression": "short for",
@@ -95692,7 +96375,8 @@ const FRIENDS = [
      "proud of"
     ]
    }
-  ]
+  ],
+  "example": "We're a little [[short on]] time, so let's get to the point."
  },
  {
   "expression": "short with",
@@ -95718,7 +96402,8 @@ const FRIENDS = [
      "proud of"
     ]
    }
-  ]
+  ],
+  "example": "Sorry I was [[short with]] you this morning; I hadn't slept at all."
  },
  {
   "expression": "shortcomings",
@@ -95744,7 +96429,8 @@ const FRIENDS = [
      "shortlists"
     ]
    }
-  ]
+  ],
+  "example": "Despite its [[shortcomings]], the old car still gets us to work every day."
  },
  {
   "expression": "show around",
@@ -95848,7 +96534,8 @@ const FRIENDS = [
      "sign of life"
     ]
    }
-  ]
+  ],
+  "example": "The teacher asked for a [[show of hands]] to see who had finished the reading."
  },
  {
   "expression": "show off",
@@ -95901,7 +96588,8 @@ const FRIENDS = [
      "hand it in"
     ]
    }
-  ]
+  ],
+  "example": "She couldn't wait to [[show off]] her new bike to her friends."
  },
  {
   "expression": "show up",
@@ -96005,7 +96693,8 @@ const FRIENDS = [
      "short hair"
     ]
    }
-  ]
+  ],
+  "example": "He seemed nice at first, but he [[showed his true colors]] when he lost the game."
  },
  {
   "expression": "shrine",
@@ -96386,7 +97075,8 @@ const FRIENDS = [
      "stand up for"
     ]
    }
-  ]
+  ],
+  "example": "I [[signed on for]] the volunteer cleanup this weekend."
  },
  {
   "expression": "silver fox",
@@ -96537,7 +97227,8 @@ const FRIENDS = [
      "settle up"
     ]
    }
-  ]
+  ],
+  "example": "Don't just [[sit around]] all day; go outside and get some fresh air."
  },
  {
   "expression": "sit back",
@@ -96617,7 +97308,8 @@ const FRIENDS = [
      "run into"
     ]
    }
-  ]
+  ],
+  "example": "I had to [[sit through]] a three-hour meeting about the new filing system."
  },
  {
   "expression": "sizeable",
@@ -96643,7 +97335,8 @@ const FRIENDS = [
      "tender"
     ]
    }
-  ]
+  ],
+  "example": "They paid a [[sizeable]] deposit to reserve the wedding venue."
  },
  {
   "expression": "skedaddle",
@@ -96804,7 +97497,8 @@ const FRIENDS = [
      "boorish"
     ]
    }
-  ]
+  ],
+  "example": "The new puppy is a little [[skittish]] around loud noises."
  },
  {
   "expression": "slammer",
@@ -96918,7 +97612,8 @@ const FRIENDS = [
      "confused"
     ]
    }
-  ]
+  ],
+  "example": "His impression of our boss totally [[slays]] me every time."
  },
  {
   "expression": "sleazeball",
@@ -97052,7 +97747,8 @@ const FRIENDS = [
      "left handed"
     ]
    }
-  ]
+  ],
+  "example": "After a week of exams, the students were completely [[sleep-deprived]]."
  },
  {
   "expression": "slick",
@@ -97105,7 +97801,8 @@ const FRIENDS = [
      "cold comfort"
     ]
    }
-  ]
+  ],
+  "example": "By the time we got to the sale, it was [[slim pickings]]."
  },
  {
   "expression": "slip",
@@ -97202,7 +97899,8 @@ const FRIENDS = [
      "looking into"
     ]
    }
-  ]
+  ],
+  "example": "Let me just [[slip into]] something more comfortable before dinner."
  },
  {
   "expression": "slip out",
@@ -97255,7 +97953,8 @@ const FRIENDS = [
      "crowded"
     ]
    }
-  ]
+  ],
+  "example": "Be careful, the kitchen floor is [[slippery]] after I mopped it."
  },
  {
   "expression": "sliver",
@@ -97281,7 +97980,8 @@ const FRIENDS = [
      "slipper"
     ]
    }
-  ]
+  ],
+  "example": "I'm on a diet, so just a [[sliver]] of cake for me, please."
  },
  {
   "expression": "slow down",
@@ -97307,7 +98007,8 @@ const FRIENDS = [
      "taking me out"
     ]
    }
-  ]
+  ],
+  "example": "Heavy traffic [[slowed us down]], so we arrived late to the airport."
  },
  {
   "expression": "slow things down",
@@ -97333,7 +98034,8 @@ const FRIENDS = [
      "sort things out"
     ]
    }
-  ]
+  ],
+  "example": "I really like you, but I think we should [[slow things down]] a little."
  },
  {
   "expression": "slowpoke",
@@ -97386,7 +98088,8 @@ const FRIENDS = [
      "fake it"
     ]
    }
-  ]
+  ],
+  "example": "The hotel was full, so we had to [[slum it]] in a cheap motel."
  },
  {
   "expression": "smack",
@@ -97466,7 +98169,8 @@ const FRIENDS = [
      "fast food"
     ]
    }
-  ]
+  ],
+  "example": "I'm not good at [[small talk]], so parties make me nervous."
  },
  {
   "expression": "small world",
@@ -97553,7 +98257,8 @@ const FRIENDS = [
      "timid"
     ]
    }
-  ]
+  ],
+  "example": "The [[smarmy]] salesman kept complimenting my shoes to sell me a car."
  },
  {
   "expression": "smidge",
@@ -97633,7 +98338,8 @@ const FRIENDS = [
      "staggering"
     ]
    }
-  ]
+  ],
+  "example": "The actor gave the camera a [[smoldering]] look in the perfume ad."
  },
  {
   "expression": "smooth",
@@ -97686,7 +98392,8 @@ const FRIENDS = [
      "play things down"
     ]
    }
-  ]
+  ],
+  "example": "She brought her neighbor a pie to [[smooth things over]] after the argument."
  },
  {
   "expression": "smug",
@@ -97959,7 +98666,8 @@ const FRIENDS = [
      "Lazy"
     ]
    }
-  ]
+  ],
+  "example": "My [[sneaky]] little brother ate my dessert while I wasn't looking."
  },
  {
   "expression": "sniveling",
@@ -98056,7 +98764,8 @@ const FRIENDS = [
      "gold mine"
     ]
    }
-  ]
+  ],
+  "example": "The lecture was a total [[snooze fest]]; half the class fell asleep."
  },
  {
   "expression": "snore",
@@ -98136,7 +98845,8 @@ const FRIENDS = [
      "dressed up"
     ]
    }
-  ]
+  ],
+  "example": "We were [[snowed in]] at the cabin for three days."
  },
  {
   "expression": "snug",
@@ -98243,7 +98953,8 @@ const FRIENDS = [
      "Long time no see"
     ]
    }
-  ]
+  ],
+  "example": "How's the new job going? [[So far so good]]."
  },
  {
   "expression": "so long",
@@ -98374,7 +99085,8 @@ const FRIENDS = [
      "According to"
     ]
    }
-  ]
+  ],
+  "example": "It started raining. [[So much for]] our picnic in the park."
  },
  {
   "expression": "so what",
@@ -98471,7 +99183,8 @@ const FRIENDS = [
      "hard-working"
     ]
    }
-  ]
+  ],
+  "example": "The [[so-called]] expert couldn't answer a single basic question."
  },
  {
   "expression": "soak up",
@@ -98568,7 +99281,8 @@ const FRIENDS = [
      "couch potato"
     ]
    }
-  ]
+  ],
+  "example": "She swore she'd never be a [[soccer mom]], but now she drives a minivan."
  },
  {
   "expression": "soggy",
@@ -98594,7 +99308,8 @@ const FRIENDS = [
      "spicy"
     ]
    }
-  ]
+  ],
+  "example": "I left my cereal too long, and now it's all [[soggy]]."
  },
  {
   "expression": "sold out",
@@ -98620,7 +99335,8 @@ const FRIENDS = [
      "checked out"
     ]
    }
-  ]
+  ],
+  "example": "The concert was [[sold out]] within an hour, so we couldn't get tickets."
  },
  {
   "expression": "son of a gun",
@@ -98646,7 +99362,8 @@ const FRIENDS = [
      "Talk of the town"
     ]
    }
-  ]
+  ],
+  "example": "Well, [[son of a gun]], you actually fixed the old radio!"
  },
  {
   "expression": "sonogram",
@@ -98672,7 +99389,8 @@ const FRIENDS = [
      "diagram"
     ]
    }
-  ]
+  ],
+  "example": "The doctor showed the parents the first [[sonogram]] of their baby."
  },
  {
   "expression": "sooner or later",
@@ -98884,7 +99602,8 @@ const FRIENDS = [
      "tune out"
     ]
    }
-  ]
+  ],
+  "example": "I need to [[sort out]] these papers before tax season."
  },
  {
   "expression": "soul mates",
@@ -98927,7 +99646,8 @@ const FRIENDS = [
      "neighbor"
     ]
    }
-  ]
+  ],
+  "example": "They've been married fifty years and still say they're [[soul mates]]."
  },
  {
   "expression": "soundproof",
@@ -98980,7 +99700,8 @@ const FRIENDS = [
      "Takes too long"
     ]
    }
-  ]
+  ],
+  "example": "You're late again? Yeah, that [[sounds about right]]."
  },
  {
   "expression": "spare someone's feelings",
@@ -99503,7 +100224,8 @@ const FRIENDS = [
      "Turn it up"
     ]
    }
-  ]
+  ],
+  "example": "You look like you want to tell me something, so [[spit it out]]."
  },
  {
   "expression": "spit out",
@@ -99529,7 +100251,8 @@ const FRIENDS = [
      "goes up"
     ]
    }
-  ]
+  ],
+  "example": "The old printer finally [[spat out]] my report after ten minutes."
  },
  {
   "expression": "spit up",
@@ -99555,7 +100278,8 @@ const FRIENDS = [
      "signed up"
     ]
    }
-  ]
+  ],
+  "example": "The baby [[spit up]] all over my shirt after her bottle."
  },
  {
   "expression": "spiteful",
@@ -99581,7 +100305,8 @@ const FRIENDS = [
      "peaceful"
     ]
    }
-  ]
+  ],
+  "example": "Telling his secret to everyone was a [[spiteful]] thing to do."
  },
  {
   "expression": "split",
@@ -100033,7 +100758,8 @@ const FRIENDS = [
      "ship that place off"
     ]
    }
-  ]
+  ],
+  "example": "We [[spruced up]] the living room with new curtains and some plants."
  },
  {
   "expression": "spunky",
@@ -100390,7 +101116,8 @@ const FRIENDS = [
      "rush"
     ]
    }
-  ]
+  ],
+  "example": "Can you [[stall]] the guests for a few minutes while I finish the cake?"
  },
  {
   "expression": "stamina",
@@ -100524,7 +101251,8 @@ const FRIENDS = [
      "running late"
     ]
    }
-  ]
+  ],
+  "example": "The kids begged for a later bedtime, but their dad [[stood firm]]."
  },
  {
   "expression": "stand for",
@@ -100682,7 +101410,8 @@ const FRIENDS = [
      "sticks up"
     ]
    }
-  ]
+  ],
+  "example": "Her bright red coat made her [[stand out]] in the crowd."
  },
  {
   "expression": "stand someone up",
@@ -100955,7 +101684,8 @@ const FRIENDS = [
      "closing remark"
     ]
    }
-  ]
+  ],
+  "example": "The young pianist received a [[standing ovation]] at the end of her concert."
  },
  {
   "expression": "stare into space",
@@ -101008,7 +101738,8 @@ const FRIENDS = [
      "sit at the side"
     ]
    }
-  ]
+  ],
+  "example": "Even the company president had to [[start at the bottom]] in the mailroom."
  },
  {
   "expression": "start over",
@@ -101183,7 +101914,8 @@ const FRIENDS = [
      "Changing the subject"
     ]
    }
-  ]
+  ],
+  "example": "I know I'm [[stating the obvious]], but we're out of milk again."
  },
  {
   "expression": "statute of limitations",
@@ -101209,7 +101941,8 @@ const FRIENDS = [
      "Code of Conduct"
     ]
    }
-  ]
+  ],
+  "example": "The [[statute of limitations]] had run out, so he couldn't be charged."
  },
  {
   "expression": "stay away from",
@@ -101377,7 +102110,8 @@ const FRIENDS = [
      "off the hook"
     ]
    }
-  ]
+  ],
+  "example": "The kids were told to [[stay out of the way]] while the movers worked."
  },
  {
   "expression": "stay out of this",
@@ -101403,7 +102137,8 @@ const FRIENDS = [
      "come out of"
     ]
    }
-  ]
+  ],
+  "example": "This is between me and my sister, so please [[stay out of this]]."
  },
  {
   "expression": "stay over",
@@ -101561,7 +102296,8 @@ const FRIENDS = [
      "catch fire"
     ]
    }
-  ]
+  ],
+  "example": "Don't wear a white dress to the wedding; you'll [[steal focus]] from the bride."
  },
  {
   "expression": "steal someone's thunder",
@@ -102433,7 +103169,8 @@ const FRIENDS = [
      "stare at"
     ]
    }
-  ]
+  ],
+  "example": "I [[stink at]] bowling, but I still love going with friends."
  },
  {
   "expression": "stinker",
@@ -102459,7 +103196,8 @@ const FRIENDS = [
      "lockers"
     ]
    }
-  ]
+  ],
+  "example": "That little [[stinker]] hid my car keys in the cookie jar."
  },
  {
   "expression": "stipulation",
@@ -102485,7 +103223,8 @@ const FRIENDS = [
      "simulation"
     ]
    }
-  ]
+  ],
+  "example": "One [[stipulation]] of the lease is that no pets are allowed."
  },
  {
   "expression": "stock up",
@@ -102819,7 +103558,8 @@ const FRIENDS = [
      "sniffling"
     ]
    }
-  ]
+  ],
+  "example": "Their son has grown into a [[strapping]] young man of six feet."
  },
  {
   "expression": "strategy",
@@ -102899,7 +103639,8 @@ const FRIENDS = [
      "hanging out"
     ]
    }
-  ]
+  ],
+  "example": "He tried to talk to three girls at the party and [[struck out]] every time."
  },
  {
   "expression": "strike someone as",
@@ -102925,7 +103666,8 @@ const FRIENDS = [
      "pass me off"
     ]
    }
-  ]
+  ],
+  "example": "The new manager [[strikes me as]] someone who really listens."
  },
  {
   "expression": "strike that",
@@ -103272,7 +104014,8 @@ const FRIENDS = [
      "bubbly"
     ]
    }
-  ]
+  ],
+  "example": "The restaurant was too [[stuffy]] for us, with waiters in tuxedos and no music."
  },
  {
   "expression": "stumped",
@@ -103325,7 +104068,8 @@ const FRIENDS = [
      "stale"
     ]
    }
-  ]
+  ],
+  "example": "She looked absolutely [[stunning]] in her graduation dress."
  },
  {
   "expression": "stunt double",
@@ -103432,7 +104176,8 @@ const FRIENDS = [
      "overpriced"
     ]
    }
-  ]
+  ],
+  "example": "He seemed [[subdued]] at dinner, so I asked if something was wrong."
  },
  {
   "expression": "sublet",
@@ -103519,7 +104264,8 @@ const FRIENDS = [
      "sponsor"
     ]
    }
-  ]
+  ],
+  "example": "A good manager treats every [[subordinate]] with respect."
  },
  {
   "expression": "subtle",
@@ -103684,7 +104430,8 @@ const FRIENDS = [
      "cheat at"
     ]
    }
-  ]
+  ],
+  "example": "I totally [[suck at]] math, so my sister helps me with homework."
  },
  {
   "expression": "suck it up",
@@ -103923,7 +104670,8 @@ const FRIENDS = [
      "pick it up"
     ]
    }
-  ]
+  ],
+  "example": "To [[sum it up]], the trip was expensive but totally worth it."
  },
  {
   "expression": "super",
@@ -104284,7 +105032,8 @@ const FRIENDS = [
      "elected"
     ]
    }
-  ]
+  ],
+  "example": "Take a sip of water to help you [[swallow]] the pill."
  },
  {
   "expression": "swamped",
@@ -104408,7 +105157,8 @@ const FRIENDS = [
      "lipstick"
     ]
    }
-  ]
+  ],
+  "example": "On Sundays I just stay home in my [[sweats]] and watch movies."
  },
  {
   "expression": "sweatshop",
@@ -104461,7 +105211,8 @@ const FRIENDS = [
      "on his toes"
     ]
    }
-  ]
+  ],
+  "example": "He [[swept her off her feet]] with flowers and a surprise trip to Paris."
  },
  {
   "expression": "sweet nothings",
@@ -105089,7 +105840,8 @@ const FRIENDS = [
      "keep a list"
     ]
    }
-  ]
+  ],
+  "example": "It was raining hard, so we decided to [[take a cab]] home."
  },
  {
   "expression": "take a chill pill",
@@ -105311,7 +106063,8 @@ const FRIENDS = [
      "get a grip"
     ]
    }
-  ]
+  ],
+  "example": "Our savings [[took a hit]] when the car needed a new engine."
  },
  {
   "expression": "take a liking to",
@@ -106055,7 +106808,8 @@ const FRIENDS = [
      "put it all on"
     ]
    }
-  ]
+  ],
+  "example": "The city was so busy and loud that I couldn't [[take it all in]]."
  },
  {
   "expression": "take it back",
@@ -106247,7 +107001,8 @@ const FRIENDS = [
      "Make it for me"
     ]
    }
-  ]
+  ],
+  "example": "[[Take it from me]], you should never cut your own bangs."
  },
  {
   "expression": "take it hard",
@@ -106327,7 +107082,8 @@ const FRIENDS = [
      "pass it on to"
     ]
    }
-  ]
+  ],
+  "example": "I know you had a bad day, but don't [[take it out on]] me."
  },
  {
   "expression": "take it personally",
@@ -106424,7 +107180,8 @@ const FRIENDS = [
      "put it too soon"
     ]
    }
-  ]
+  ],
+  "example": "Teasing is fine, but you [[took it too far]] when you mentioned his weight."
  },
  {
   "expression": "take it well",
@@ -106494,7 +107251,8 @@ const FRIENDS = [
      "a number please"
     ]
    }
-  ]
+  ],
+  "example": "The salesman just wouldn't [[take no for an answer]]."
  },
  {
   "expression": "take off",
@@ -106784,7 +107542,8 @@ const FRIENDS = [
      "coming up with"
     ]
    }
-  ]
+  ],
+  "example": "Driving on the left side of the road will [[take some getting used to]]."
  },
  {
   "expression": "take someone down a peg",
@@ -106810,7 +107569,8 @@ const FRIENDS = [
      "given a fresh start"
     ]
    }
-  ]
+  ],
+  "example": "Losing the final match [[took the arrogant champion down a peg]]."
  },
  {
   "expression": "take someone for",
@@ -106890,7 +107650,8 @@ const FRIENDS = [
      "let you down"
     ]
    }
-  ]
+  ],
+  "example": "For my birthday, my dad [[took me out]] to a fancy steak restaurant."
  },
  {
   "expression": "take someone's word",
@@ -107075,7 +107836,8 @@ const FRIENDS = [
      "open door"
     ]
    }
-  ]
+  ],
+  "example": "Instead of arguing back, she [[took the high road]] and apologized."
  },
  {
   "expression": "take up",
@@ -107128,7 +107890,8 @@ const FRIENDS = [
      "puts your mind away"
     ]
    }
-  ]
+  ],
+  "example": "The view from the mountaintop will [[take your breath away]]."
  },
  {
   "expression": "take your time",
@@ -107513,7 +108276,8 @@ const FRIENDS = [
      "taped down"
     ]
    }
-  ]
+  ],
+  "example": "Oops, I accidentally [[taped over]] our wedding video with a football game."
  },
  {
   "expression": "tasteful",
@@ -107566,7 +108330,8 @@ const FRIENDS = [
      "quickly"
     ]
    }
-  ]
+  ],
+  "example": "The small apartment was [[tastefully]] decorated in soft grays and whites."
  },
  {
   "expression": "tattletale",
@@ -107619,7 +108384,8 @@ const FRIENDS = [
      "rewarding"
     ]
    }
-  ]
+  ],
+  "example": "Caring for a newborn and working full-time is very [[taxing]]."
  },
  {
   "expression": "teach someone a lesson",
@@ -107821,7 +108587,8 @@ const FRIENDS = [
      "paid"
     ]
    }
-  ]
+  ],
+  "example": "My older brothers used to [[tease]] me about my big glasses."
  },
  {
   "expression": "teasing",
@@ -108189,7 +108956,8 @@ const FRIENDS = [
      "object to"
     ]
    }
-  ]
+  ],
+  "example": "I [[tend to]] get grumpy when I skip breakfast."
  },
  {
   "expression": "tense",
@@ -108286,7 +109054,8 @@ const FRIENDS = [
      "custody"
     ]
    }
-  ]
+  ],
+  "example": "After ten years of research, the professor was finally granted [[tenure]]."
  },
  {
   "expression": "tepid",
@@ -108471,7 +109240,8 @@ const FRIENDS = [
      "long shots"
     ]
    }
-  ]
+  ],
+  "example": "Let's do a [[test run]] of the presentation before the client arrives."
  },
  {
   "expression": "testament",
@@ -108497,7 +109267,8 @@ const FRIENDS = [
      "settlement"
     ]
    }
-  ]
+  ],
+  "example": "The full stadium is a [[testament]] to the team's popularity."
  },
  {
   "expression": "testament to",
@@ -109023,7 +109794,8 @@ const FRIENDS = [
      "That's mine"
     ]
    }
-  ]
+  ],
+  "example": "You met your best friend on a train in Italy? [[That's wild]]."
  },
  {
   "expression": "the apple of my eye",
@@ -109147,7 +109919,8 @@ const FRIENDS = [
      "the best part"
     ]
    }
-  ]
+  ],
+  "example": "Only two weeks until [[the big day]], and the wedding dress still isn't ready."
  },
  {
   "expression": "the bigger person",
@@ -109403,7 +110176,8 @@ const FRIENDS = [
      "tip of the iceberg"
     ]
    }
-  ]
+  ],
+  "example": "Working late was bad, but it was [[the lesser of two evils]] compared to failing."
  },
  {
   "expression": "the mind boggles",
@@ -109429,7 +110203,8 @@ const FRIENDS = [
      "the tide turns"
     ]
    }
-  ]
+  ],
+  "example": "He ate twelve hot dogs in five minutes? [[The mind boggles]]."
  },
  {
   "expression": "the Mrs.",
@@ -109455,7 +110230,8 @@ const FRIENDS = [
      "the Mr."
     ]
    }
-  ]
+  ],
+  "example": "I'd love to join you, but I have to check with [[the Mrs.]] first."
  },
  {
   "expression": "the munchies",
@@ -109894,7 +110670,8 @@ const FRIENDS = [
      "the willies"
     ]
    }
-  ]
+  ],
+  "example": "Something I ate at that street stall gave me [[the trots]]."
  },
  {
   "expression": "the whole package",
@@ -110123,7 +110900,8 @@ const FRIENDS = [
      "money to burn"
     ]
    }
-  ]
+  ],
+  "example": "If Dad finds out we scratched his car, [[there'll be hell to pay]]."
  },
  {
   "expression": "there's no harm in",
@@ -110318,7 +111096,8 @@ const FRIENDS = [
      "take hold of"
     ]
    }
-  ]
+  ],
+  "example": "Please don't [[think less of]] me because I failed the exam."
  },
  {
   "expression": "think outside the box",
@@ -110493,7 +111272,8 @@ const FRIENDS = [
      "catch"
     ]
    }
-  ]
+  ],
+  "example": "I failed my driving test twice, but [[third time's the charm]]."
  },
  {
   "expression": "this calls for",
@@ -110519,7 +111299,8 @@ const FRIENDS = [
      "goes with"
     ]
    }
-  ]
+  ],
+  "example": "You got the job? [[This calls for]] champagne!"
  },
  {
   "expression": "this is it",
@@ -110626,7 +111407,8 @@ const FRIENDS = [
      "wasteful"
     ]
    }
-  ]
+  ],
+  "example": "It was very [[thoughtful]] of you to bring soup when I was sick."
  },
  {
   "expression": "threefold",
@@ -110787,7 +111569,8 @@ const FRIENDS = [
      "brought up"
     ]
    }
-  ]
+  ],
+  "example": "He [[threw back]] his coffee and ran out the door."
  },
  {
   "expression": "throw caution to the wind",
@@ -110840,7 +111623,8 @@ const FRIENDS = [
      "throw out"
     ]
    }
-  ]
+  ],
+  "example": "If everyone [[throws in]] ten dollars, we can buy her a nice gift."
  },
  {
   "expression": "throw oneself at",
@@ -110954,7 +111738,8 @@ const FRIENDS = [
      "Leave me alone"
     ]
    }
-  ]
+  ],
+  "example": "The boss [[threw us a bone]] and let us leave an hour early."
  },
  {
   "expression": "throw someone off",
@@ -111190,7 +111975,8 @@ const FRIENDS = [
      "trust"
     ]
    }
-  ]
+  ],
+  "example": "If you touch my lunch again, I'm going to [[thump]] you."
  },
  {
   "expression": "tick off",
@@ -111287,7 +112073,8 @@ const FRIENDS = [
      "space station"
     ]
    }
-  ]
+  ],
+  "example": "Our class buried a [[time capsule]] to be opened in twenty years."
  },
  {
   "expression": "time difference",
@@ -111313,7 +112100,8 @@ const FRIENDS = [
      "traffic jam"
     ]
    }
-  ]
+  ],
+  "example": "Because of the [[time difference]], I call my parents in Seoul late at night."
  },
  {
   "expression": "time is money",
@@ -111383,7 +112171,8 @@ const FRIENDS = [
      "make"
     ]
    }
-  ]
+  ],
+  "example": "Our flight was delayed, so we had some [[time to kill]] at the airport."
  },
  {
   "expression": "time's up",
@@ -111436,7 +112225,8 @@ const FRIENDS = [
      "hollow"
     ]
    }
-  ]
+  ],
+  "example": "Thanks for the [[timely]] reminder; I almost forgot the meeting."
  },
  {
   "expression": "tinted",
@@ -111516,7 +112306,8 @@ const FRIENDS = [
      "Talk of the town"
     ]
    }
-  ]
+  ],
+  "example": "The broken window was just the [[tip of the iceberg]]; the whole house needed repairs."
  },
  {
   "expression": "tiptoe around",
@@ -111542,7 +112333,8 @@ const FRIENDS = [
      "catch up with"
     ]
    }
-  ]
+  ],
+  "example": "Everyone has to [[tiptoe around]] him when he's in a bad mood."
  },
  {
   "expression": "tit for tat",
@@ -112180,7 +112972,8 @@ const FRIENDS = [
      "Too hot to handle"
     ]
    }
-  ]
+  ],
+  "example": "He finally apologized a month later, but it was [[too little, too late]]."
  },
  {
   "expression": "too many cooks",
@@ -112287,7 +113080,8 @@ const FRIENDS = [
      "top down"
     ]
    }
-  ]
+  ],
+  "example": "The hotel staff were [[top drawer]], polite and helpful in every way."
  },
  {
   "expression": "top notch",
@@ -112330,7 +113124,8 @@ const FRIENDS = [
      "far fetched"
     ]
    }
-  ]
+  ],
+  "example": "The food at that little diner is [[top notch]]."
  },
  {
   "expression": "top out",
@@ -112552,7 +113347,8 @@ const FRIENDS = [
      "lazy old cat"
     ]
    }
-  ]
+  ],
+  "example": "My grandmother is a [[tough old bird]]; she still shovels her own snow at ninety."
  },
  {
   "expression": "tough spot",
@@ -112818,7 +113614,8 @@ const FRIENDS = [
      "pep talk"
     ]
    }
-  ]
+  ],
+  "example": "There was a lot of [[trash talk]] before the big basketball game."
  },
  {
   "expression": "traumatic",
@@ -112844,7 +113641,8 @@ const FRIENDS = [
      "hypothetical"
     ]
    }
-  ]
+  ],
+  "example": "Losing their home in the fire was a [[traumatic]] experience for the family."
  },
  {
   "expression": "trick or treat",
@@ -112870,7 +113668,8 @@ const FRIENDS = [
      "Sooner or later"
     ]
    }
-  ]
+  ],
+  "example": "The children rang the bell and shouted, '[[Trick or treat]]!'"
  },
  {
   "expression": "trick someone into",
@@ -113143,7 +113942,8 @@ const FRIENDS = [
      "put him off"
     ]
    }
-  ]
+  ],
+  "example": "The restaurant agreed to [[try me out]] as a waiter for a week."
  },
  {
   "expression": "try to pull something",
@@ -113169,7 +113969,8 @@ const FRIENDS = [
      "drop"
     ]
    }
-  ]
+  ],
+  "example": "Don't [[try to pull anything]]; I know you didn't do your homework."
  },
  {
   "expression": "tuck in",
@@ -113222,7 +114023,8 @@ const FRIENDS = [
      "point it out"
     ]
    }
-  ]
+  ],
+  "example": "I [[tune out]] whenever my uncle starts talking about politics."
  },
  {
   "expression": "turf",
@@ -113248,7 +114050,8 @@ const FRIENDS = [
      "behalf"
     ]
    }
-  ]
+  ],
+  "example": "The older kids treat the basketball court as their [[turf]]."
  },
  {
   "expression": "turn down",
@@ -113318,7 +114121,8 @@ const FRIENDS = [
      "keys"
     ]
    }
-  ]
+  ],
+  "example": "Her bright yellow sports car [[turns heads]] wherever she goes."
  },
  {
   "expression": "turn in",
@@ -113510,7 +114314,8 @@ const FRIENDS = [
      "get over each other"
     ]
    }
-  ]
+  ],
+  "example": "Under pressure, the team members started to [[turn on each other]]."
  },
  {
   "expression": "turn on the charm",
@@ -113641,7 +114446,8 @@ const FRIENDS = [
      "looked me up"
     ]
    }
-  ]
+  ],
+  "example": "He asked her to the dance, but she [[turned him down]]."
  },
  {
   "expression": "turn someone on",
@@ -113745,7 +114551,8 @@ const FRIENDS = [
      "going thirty"
     ]
    }
-  ]
+  ],
+  "example": "I'm throwing a big party when I [[turn thirty]] next month."
  },
  {
   "expression": "turn up",
@@ -113798,7 +114605,8 @@ const FRIENDS = [
      "knit"
     ]
    }
-  ]
+  ],
+  "example": "She sat by the window to [[tweeze]] her eyebrows."
  },
  {
   "expression": "twisted",
@@ -113868,7 +114676,8 @@ const FRIENDS = [
      "full time job"
     ]
    }
-  ]
+  ],
+  "example": "Friendship is a [[two-way street]]; you have to call me sometimes too."
  },
  {
   "expression": "typical",
@@ -114036,7 +114845,8 @@ const FRIENDS = [
      "unbearable"
     ]
    }
-  ]
+  ],
+  "example": "The child asked an [[unanswerable]] question about what happens after we die."
  },
  {
   "expression": "unattended",
@@ -114785,7 +115595,8 @@ const FRIENDS = [
      "unyielding"
     ]
    }
-  ]
+  ],
+  "example": "It was [[unnerving]] to hear footsteps in the empty house."
  },
  {
   "expression": "unorthodox",
@@ -114811,7 +115622,8 @@ const FRIENDS = [
      "unaccountable"
     ]
    }
-  ]
+  ],
+  "example": "Her teaching methods are [[unorthodox]], but her students love them."
  },
  {
   "expression": "unprecedented",
@@ -114864,7 +115676,8 @@ const FRIENDS = [
      "architecture"
     ]
    }
-  ]
+  ],
+  "example": "The [[unpredictability]] of the weather made planning the trip difficult."
  },
  {
   "expression": "unravel",
@@ -114890,7 +115703,8 @@ const FRIENDS = [
      "unlocked"
     ]
    }
-  ]
+  ],
+  "example": "Their business plan began to [[unravel]] when the main investor left."
  },
  {
   "expression": "unreasonable",
@@ -114960,7 +115774,8 @@ const FRIENDS = [
      "unsalted"
     ]
    }
-  ]
+  ],
+  "example": "The restaurant was closed because of [[unsanitary]] conditions in the kitchen."
  },
  {
   "expression": "unsettling",
@@ -115047,7 +115862,8 @@ const FRIENDS = [
      "unwrapped"
     ]
    }
-  ]
+  ],
+  "example": "It took me twenty minutes to [[untangle]] the holiday lights."
  },
  {
   "expression": "unwanted",
@@ -115073,7 +115889,8 @@ const FRIENDS = [
      "unarmed"
     ]
    }
-  ]
+  ],
+  "example": "We don't want any [[unwanted]] guests at the party, so keep the address private."
  },
  {
   "expression": "unwind",
@@ -115126,7 +115943,8 @@ const FRIENDS = [
      "untidy"
     ]
    }
-  ]
+  ],
+  "example": "He became an [[unwitting]] part of the prank when he opened the door."
  },
  {
   "expression": "unyielding",
@@ -115345,7 +116163,8 @@ const FRIENDS = [
      "off with it"
     ]
    }
-  ]
+  ],
+  "example": "There's a hike tomorrow morning if you're [[up for it]]."
  },
  {
   "expression": "up to speed",
@@ -115371,7 +116190,8 @@ const FRIENDS = [
      "in the dark"
     ]
    }
-  ]
+  ],
+  "example": "Can you bring me [[up to speed]] on what happened while I was away?"
  },
  {
   "expression": "up to the task",
@@ -115397,7 +116217,8 @@ const FRIENDS = [
      "on the same page"
     ]
    }
-  ]
+  ],
+  "example": "The new coach proved she was [[up to the task]]."
  },
  {
   "expression": "up-and-comer",
@@ -115477,7 +116298,8 @@ const FRIENDS = [
      "upstate"
     ]
    }
-  ]
+  ],
+  "example": "They opened an [[upscale]] restaurant in the richest part of town."
  },
  {
   "expression": "upset",
@@ -115530,7 +116352,8 @@ const FRIENDS = [
      "round and round"
     ]
    }
-  ]
+  ],
+  "example": "The baby turned the bowl [[upside down]] and spilled her cereal."
  },
  {
   "expression": "uptight",
@@ -115634,7 +116457,8 @@ const FRIENDS = [
      "uptown"
     ]
    }
-  ]
+  ],
+  "example": "Stand [[upwind]] of the campfire so the smoke doesn't get in your eyes."
  },
  {
   "expression": "urgency",
@@ -115660,7 +116484,8 @@ const FRIENDS = [
      "privacy"
     ]
    }
-  ]
+  ],
+  "example": "Her voice had a sense of [[urgency]], so I called her back right away."
  },
  {
   "expression": "urgent",
@@ -115865,7 +116690,8 @@ const FRIENDS = [
      "feisty"
     ]
    }
-  ]
+  ],
+  "example": "Their wedding was pretty [[vanilla]]: a church, a cake, and a slow dance."
  },
  {
   "expression": "venture",
@@ -115972,7 +116798,8 @@ const FRIENDS = [
      "diplomas"
     ]
    }
-  ]
+  ],
+  "example": "As the oldest, my sister has a [[veto]] over where we go on vacation."
  },
  {
   "expression": "vibe",
@@ -115998,7 +116825,8 @@ const FRIENDS = [
      "scene"
     ]
    }
-  ]
+  ],
+  "example": "I got a weird [[vibe]] from the guy at the front desk."
  },
  {
   "expression": "vicariously",
@@ -116186,7 +117014,8 @@ const FRIENDS = [
      "bona fide"
     ]
    }
-  ]
+  ],
+  "example": "What's the company's position [[vis-a-vis]] working from home?"
  },
  {
   "expression": "vividly",
@@ -116273,7 +117102,8 @@ const FRIENDS = [
      "ancient"
     ]
    }
-  ]
+  ],
+  "example": "She's always been very [[vocal]] about her support for the school library."
  },
  {
   "expression": "voluntarily",
@@ -116343,7 +117173,8 @@ const FRIENDS = [
      "cakes"
     ]
    }
-  ]
+  ],
+  "example": "The couple wrote their own [[vows]] for the wedding ceremony."
  },
  {
   "expression": "vulnerable",
@@ -116457,7 +117288,8 @@ const FRIENDS = [
      "Keep in touch"
     ]
    }
-  ]
+  ],
+  "example": "[[Wait a minute]], you said you'd already paid the bill!"
  },
  {
   "expression": "wait a second",
@@ -116483,7 +117315,8 @@ const FRIENDS = [
      "Make a wish"
     ]
    }
-  ]
+  ],
+  "example": "[[Wait a second]], isn't today your mom's birthday?"
  },
  {
   "expression": "wait on",
@@ -116580,7 +117413,8 @@ const FRIENDS = [
      "let him go"
     ]
    }
-  ]
+  ],
+  "example": "Please [[wake me up]] at seven tomorrow; I have an early class."
  },
  {
   "expression": "wake-up call",
@@ -116924,7 +117758,8 @@ const FRIENDS = [
      "walk in on"
     ]
    }
-  ]
+  ],
+  "example": "You're starting a book club? I [[want in on]] that."
  },
  {
   "expression": "want nothing to do with",
@@ -116950,7 +117785,8 @@ const FRIENDS = [
      "nothing to live for"
     ]
    }
-  ]
+  ],
+  "example": "After the way he treated her, she [[wants nothing to do with]] him."
  },
  {
   "expression": "warm up",
@@ -116976,7 +117812,8 @@ const FRIENDS = [
      "hold up"
     ]
    }
-  ]
+  ],
+  "example": "A local comedian [[warmed up]] the crowd before the main act."
  },
  {
   "expression": "wash up",
@@ -117029,7 +117866,8 @@ const FRIENDS = [
      "locked out"
     ]
    }
-  ]
+  ],
+  "example": "You look a bit [[washed out]]; are you feeling okay?"
  },
  {
   "expression": "wasted",
@@ -117082,7 +117920,8 @@ const FRIENDS = [
      "express yourself"
     ]
    }
-  ]
+  ],
+  "example": "[[Watch yourself]], young man, or you'll lose your phone for a week."
  },
  {
   "expression": "water under the bridge",
@@ -117311,7 +118150,8 @@ const FRIENDS = [
      "on thin ice"
     ]
    }
-  ]
+  ],
+  "example": "Don't worry about the deadline; [[we're all in this together]]."
  },
  {
   "expression": "we're even",
@@ -117381,7 +118221,8 @@ const FRIENDS = [
      "looked up"
     ]
    }
-  ]
+  ],
+  "example": "No, you can't have a puppy. [[We've been through this]]."
  },
  {
   "expression": "weapon of choice",
@@ -117407,7 +118248,8 @@ const FRIENDS = [
      "piece of cake"
     ]
    }
-  ]
+  ],
+  "example": "For cleaning the kitchen, my mom's [[weapon of choice]] is baking soda."
  },
  {
   "expression": "wear down",
@@ -117477,7 +118319,8 @@ const FRIENDS = [
      "breaks the ice"
     ]
    }
-  ]
+  ],
+  "example": "Everyone knows his wife [[wears the pants]] in that house."
  },
  {
   "expression": "wedged",
@@ -117520,7 +118363,8 @@ const FRIENDS = [
      "dressed"
     ]
    }
-  ]
+  ],
+  "example": "My phone got [[wedged]] between the car seat and the door."
  },
  {
   "expression": "wedgie",
@@ -117661,7 +118505,8 @@ const FRIENDS = [
      "Well paid"
     ]
    }
-  ]
+  ],
+  "example": "You got me to do the dishes again? [[Well played]]."
  },
  {
   "expression": "well received",
@@ -117741,7 +118586,8 @@ const FRIENDS = [
      "cold-blooded"
     ]
    }
-  ]
+  ],
+  "example": "Colleges look for [[well-rounded]] students who play sports and do volunteer work."
  },
  {
   "expression": "whack",
@@ -117821,7 +118667,8 @@ const FRIENDS = [
      "who are the winners"
     ]
    }
-  ]
+  ],
+  "example": "You're staying at the same hotel as me? [[What are the chances]]?"
  },
  {
   "expression": "what are the odds",
@@ -117874,7 +118721,8 @@ const FRIENDS = [
      "set that up"
     ]
    }
-  ]
+  ],
+  "example": "You suddenly want to move to Alaska? [[What brought that on]]?"
  },
  {
   "expression": "what do you say",
@@ -117944,7 +118792,8 @@ const FRIENDS = [
      "loud"
     ]
    }
-  ]
+  ],
+  "example": "The train is late again? [[What else is new]]."
  },
  {
   "expression": "what have you",
@@ -118139,7 +118988,8 @@ const FRIENDS = [
      "First come, first served"
     ]
    }
-  ]
+  ],
+  "example": "Use my car whenever you want; [[what's mine is yours]]."
  },
  {
   "expression": "what's new",
@@ -118165,7 +119015,8 @@ const FRIENDS = [
      "where's home"
     ]
    }
-  ]
+  ],
+  "example": "Hey, long time no see! [[What's new]]?"
  },
  {
   "expression": "what's not to like",
@@ -119017,7 +119868,8 @@ const FRIENDS = [
      "medical"
     ]
    }
-  ]
+  ],
+  "example": "The children's bedroom had [[whimsical]] wallpaper covered in flying elephants."
  },
  {
   "expression": "whining",
@@ -119070,7 +119922,8 @@ const FRIENDS = [
      "tidy"
     ]
    }
-  ]
+  ],
+  "example": "The kids got [[whiny]] after four hours in the car."
  },
  {
   "expression": "whip someone's butt",
@@ -119333,7 +120186,8 @@ const FRIENDS = [
      "free-for-all"
     ]
    }
-  ]
+  ],
+  "example": "The guest list reads like a [[who's who]] of the local music scene."
  },
  {
   "expression": "wholesome",
@@ -119359,7 +120213,8 @@ const FRIENDS = [
      "lonesome"
     ]
    }
-  ]
+  ],
+  "example": "We're looking for a [[wholesome]] movie the whole family can watch."
  },
  {
   "expression": "widower",
@@ -119385,7 +120240,8 @@ const FRIENDS = [
      "plumber"
     ]
    }
-  ]
+  ],
+  "example": "After his wife died, the [[widower]] moved closer to his children."
  },
  {
   "expression": "wiggle room",
@@ -119411,7 +120267,8 @@ const FRIENDS = [
      "dead weight"
     ]
    }
-  ]
+  ],
+  "example": "The budget is tight, but there's a little [[wiggle room]] for dessert."
  },
  {
   "expression": "wild oats",
@@ -119525,7 +120382,8 @@ const FRIENDS = [
      "wink"
     ]
    }
-  ]
+  ],
+  "example": "Don't be a [[wimp]]; the water's not that cold."
  },
  {
   "expression": "win over",
@@ -119666,7 +120524,8 @@ const FRIENDS = [
      "go-getters"
     ]
    }
-  ]
+  ],
+  "example": "The speaker was a real [[windbag]] who talked for two hours about nothing."
  },
  {
   "expression": "window",
@@ -119692,7 +120551,8 @@ const FRIENDS = [
      "doorway"
     ]
    }
-  ]
+  ],
+  "example": "We have a small [[window]] to buy cheap tickets before the price goes up."
  },
  {
   "expression": "winner takes all",
@@ -119772,7 +120632,8 @@ const FRIENDS = [
      "wallflower"
     ]
    }
-  ]
+  ],
+  "example": "Some [[wiseacre]] in the back of the class kept correcting the teacher's spelling."
  },
  {
   "expression": "wish me luck",
@@ -119876,7 +120737,8 @@ const FRIENDS = [
      "trombone"
     ]
    }
-  ]
+  ],
+  "example": "After Thanksgiving dinner, my sister and I pulled the [[wishbone]]."
  },
  {
   "expression": "with child",
@@ -119902,7 +120764,8 @@ const FRIENDS = [
      "in charge"
     ]
    }
-  ]
+  ],
+  "example": "In the old story, the queen was [[with child]] when the king went to war."
  },
  {
   "expression": "with my luck",
@@ -119955,7 +120818,8 @@ const FRIENDS = [
      "in a hurry"
     ]
    }
-  ]
+  ],
+  "example": "This is, [[without a doubt]], the best pizza I've ever had."
  },
  {
   "expression": "wolverine",
@@ -120089,7 +120953,8 @@ const FRIENDS = [
      "speaks in short sentences"
     ]
    }
-  ]
+  ],
+  "example": "Life [[works in mysterious ways]]; I met my wife after missing my train."
  },
  {
   "expression": "work it out",
@@ -120359,7 +121224,8 @@ const FRIENDS = [
      "by the book"
     ]
    }
-  ]
+  ],
+  "example": "Losing that job was hard, but it [[worked out for the best]]."
  },
  {
   "expression": "work through",
@@ -120385,7 +121251,8 @@ const FRIENDS = [
      "take after it"
     ]
    }
-  ]
+  ],
+  "example": "The couple is seeing a counselor to [[work through]] their problems."
  },
  {
   "expression": "worked up",
@@ -120516,7 +121383,8 @@ const FRIENDS = [
      "counts on me"
     ]
    }
-  ]
+  ],
+  "example": "Dinner at seven? That [[works for me]]."
  },
  {
   "expression": "worse comes to worse",
@@ -120542,7 +121410,8 @@ const FRIENDS = [
      "push goes to pull"
     ]
    }
-  ]
+  ],
+  "example": "If [[worse comes to worse]], we can sleep in the car tonight."
  },
  {
   "expression": "worship",
@@ -120950,7 +121819,8 @@ const FRIENDS = [
      "signed up"
     ]
    }
-  ]
+  ],
+  "example": "The kids were so [[wound up]] after the party that they couldn't sleep."
  },
  {
   "expression": "wrap up",
@@ -121179,7 +122049,8 @@ const FRIENDS = [
      "sweaters"
     ]
    }
-  ]
+  ],
+  "example": "Some [[yahoo]] was honking his horn outside at three in the morning."
  },
  {
   "expression": "yank someone's chain",
@@ -121205,7 +122076,8 @@ const FRIENDS = [
      "picking your brain"
     ]
    }
-  ]
+  ],
+  "example": "You won the lottery? Come on, stop [[yanking my chain]]."
  },
  {
   "expression": "yardstick",
@@ -121302,7 +122174,8 @@ const FRIENDS = [
      "always hated me"
     ]
    }
-  ]
+  ],
+  "example": "Ha! You're not really moving to Canada. [[You almost had me]]."
  },
  {
   "expression": "you and me both",
@@ -121680,7 +122553,8 @@ const FRIENDS = [
      "You big baby"
     ]
    }
-  ]
+  ],
+  "example": "You finally asked for a raise? [[You go girlfriend]]!"
  },
  {
   "expression": "you got it",
@@ -121828,7 +122702,8 @@ const FRIENDS = [
      "had to be honest"
     ]
    }
-  ]
+  ],
+  "example": "It was the funniest thing ever. I guess [[you had to be there]]."
  },
  {
   "expression": "you lost me",
@@ -121898,7 +122773,8 @@ const FRIENDS = [
      "kept it"
     ]
    }
-  ]
+  ],
+  "example": "[[You made it]]! We were worried you'd get lost in the snow."
  },
  {
   "expression": "you snooze you lose",
@@ -121924,7 +122800,8 @@ const FRIENDS = [
      "Better late than never"
     ]
    }
-  ]
+  ],
+  "example": "Sorry, I ate the last slice. [[You snooze you lose]]."
  },
  {
   "expression": "you wish",
@@ -121994,7 +122871,8 @@ const FRIENDS = [
      "all in"
     ]
    }
-  ]
+  ],
+  "example": "Here's your room key, and [[you're all set]] for checkout on Friday."
  },
  {
   "expression": "you're going down",
@@ -122020,7 +122898,8 @@ const FRIENDS = [
      "moving on"
     ]
    }
-  ]
+  ],
+  "example": "I saw you cheat on the test. [[You're going down]]."
  },
  {
   "expression": "you're golden",
@@ -122073,7 +122952,8 @@ const FRIENDS = [
      "you're kidding"
     ]
    }
-  ]
+  ],
+  "example": "Your interview was excellent, so congratulations: [[you're hired]]."
  },
  {
   "expression": "you're kidding",
@@ -122336,7 +123216,8 @@ const FRIENDS = [
      "pushing"
     ]
    }
-  ]
+  ],
+  "example": "The flight's canceled again? [[You've got to be kidding me]]."
  },
  {
   "expression": "your call",
@@ -122521,7 +123402,8 @@ const FRIENDS = [
      "fill me up"
     ]
    }
-  ]
+  ],
+  "example": "[[Zip up]] your jacket; it's freezing outside."
  },
  {
   "expression": "zoom out",

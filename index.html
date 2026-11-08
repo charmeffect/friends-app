@@ -162,6 +162,12 @@
         .blank.filled { border-bottom-style: solid; border-bottom-color: #4caf50; color: #4caf50; }
         .blank.wrong-fill { border-bottom-style: solid; border-bottom-color: #f44336; color: #f88; }
 
+        .speak-row { display: flex; justify-content: center; margin: 2px 0 12px; }
+        .speak-btn { display: inline-flex; align-items: center; gap: 8px; background: rgba(167,139,250,0.15); border: 1px solid rgba(167,139,250,0.45);
+            color: #ddd6fe; border-radius: 999px; padding: 8px 18px; min-height: 40px; font-size: 0.92rem; cursor: pointer; }
+        .speak-btn svg { width: 20px; height: 20px; }
+        .speak-btn.playing { background: rgba(167,139,250,0.35); color: #fff; }
+        .turn.speaking { outline: 2px solid rgba(167,139,250,0.7); outline-offset: 2px; border-radius: 10px; }
         .options { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 10px; }
         .option-btn {
             background: rgba(255,255,255,0.1); border: 2px solid rgba(255,255,255,0.2); color: #fff;
@@ -304,6 +310,12 @@
     <div class="category-tag" id="categoryTag"></div>
     <div class="dialogue" id="dialogue"></div>
     <div class="options" id="optionsContainer"></div>
+    <div class="speak-row" id="speakRow">
+        <button class="speak-btn" id="speakBtn" onclick="toggleSpeak()" aria-label="Read the scene aloud">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M19 5a10 10 0 0 1 0 14"/></svg>
+            <span id="speakLabel">Listen</span>
+        </button>
+    </div>
 
     <div class="feedback" id="feedback">
         <div class="phrase-title" id="phraseTitle"></div>
@@ -557,7 +569,91 @@ function turnHTML(cls, who, whatHTML) {
     return `<div class="turn ${cls}"><div class="who">${escapeHTML(who)}</div><div class="what">${whatHTML}</div></div>`;
 }
 
+// ============================
+// TEXT-TO-SPEECH (device voices; male characters -> male voice, female -> female voice)
+// ============================
+const FEMALE_NAMES = new Set(("Rachel Monica Phoebe Emily Judy Janice Carol Jill Janine Erica Susan Amy Kate Kathy Mona Estelle Joanna Ursula Kim Julie " +
+ "Sandra Alice Amanda Elizabeth Aurora Mindy Nora Andrea Sandy Caitlin Charity Trudie Wendy Bitsy Sarah Leslie Caroline Kristen Kori Jade Ginger " +
+ "Lauren Bonnie Robin Helena Laura Precious Cecilia Dana Kristin Luisa Dina Nina Brenda Lydia Margha Megan Angela Paula Susie Cheryl Danielle " +
+ "Melissa Nancy Claudia Erin Colleen Annabelle Michelle Katie Missy Cailin Catherine Cassie Shelley Marsha Hillary Gloria Tilly Melanie Amber " +
+ "Hilda Ronni Lizzy Whitney Jasmine Lorraine Stephanie Jeanette Marjorie Meg Karin Kiki Gail Felicity Rita Heather Jeannie Krista Hayley Chloe " +
+ "Isabella Sonia Lisa Mary Hoshi Charlie Mackenzie Grandmother Nurse Housekeeper Waitress Hooker Dressmaker Receptionist").split(" "));
+const MALE_NAMES = new Set(("Ross Chandler Joey Richard Mike Frank Jack Gunther Tag Gavin Peter Paul David Leonard Gary Eddie Bobby Joshua Eric Stephen " +
+ "Danny Roy Doug Earl Russell Benjamin Chip Ethan Barry Larry Steve Jim Cliff Bob Vince Jason Donny Terry Lennart Ben Jean-Claude Will Malcom Rob " +
+ "Mark Roger Ryan Billy Liam Robert Carl Kyle Charlton Allesandro Parker Stanley Ken Timothy Ned Duncan Drew Michael Dan Max Zack Alan Lewis Sid " +
+ "Tommy Dean Jake Gene Jarvis Dirk Julio Issac Tom Owen Tim Wayne Mac Dick Eldad Manny Robbie Russ Paolo Theodore Sherman Tony Bill Don Burt Marc " +
+ "Ralph Guru Hombre Janitor Joey's").split(" "));
+function speakerGender(name) {
+    if (!name) return "n";
+    const n = name.trim();
+    if (FEMALE_NAMES.has(n)) return "f";
+    if (MALE_NAMES.has(n)) return "m";
+    if (/^(mrs|ms|miss|aunt|grandma)\b/i.test(n) || /\b(woman|women|girls?|waitress|lady|saleslady|stripper|nurse|mother|mom|bride)\b/i.test(n)) return "f";
+    if (/^(mr|uncle|grandpa)\b/i.test(n) || /\b(man|men|guys?|male|boy|policeman|fireman|waiter|salesman|bully|father|dad)\b/i.test(n)) return "m";
+    return "n";
+}
+const FEMALE_VOICE_RE = /female|samantha|karen|moira|tessa|fiona|victoria|allison|ava|susan|zoe|serena|kate|nicky|veena|zira|aria|jenny|emma|libby|sonia|natasha|michelle|google us english/i;
+const MALE_VOICE_RE = /\bmale\b|daniel|alex\b|fred|tom\b|aaron|arthur|gordon|oliver|rishi|david|guy|mark|ryan|brian|eric|evan|nathan|thomas|james/i;
+const NOVELTY_VOICE_RE = /bad news|bells|bubbles|cellos|jester|organ|trinoids|whisper|zarvox|boing|albert|bahh|wobble|superstar|good news|deranged|hysterical/i;
+let voicePools = { f: [], m: [], any: [] };
+function loadVoices() {
+    if (!("speechSynthesis" in window)) return;
+    const en = speechSynthesis.getVoices().filter(v => /^en(-|_|$)/i.test(v.lang) && !NOVELTY_VOICE_RE.test(v.name));
+    const rank = v => (/enhanced|premium|natural|neural/i.test(v.name) ? 0 : 1) + (/en[-_]US/i.test(v.lang) ? 0 : 0.5);
+    en.sort((a, b) => rank(a) - rank(b));
+    voicePools = { f: en.filter(v => FEMALE_VOICE_RE.test(v.name)), m: en.filter(v => !FEMALE_VOICE_RE.test(v.name) && MALE_VOICE_RE.test(v.name)), any: en };
+}
+if ("speechSynthesis" in window) { loadVoices(); speechSynthesis.onvoiceschanged = loadVoices; }
+else document.addEventListener("DOMContentLoaded", () => { const r = document.getElementById("speakRow"); if (r) r.style.display = "none"; });
+function hashStr(s) { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) >>> 0; return h; }
+function voiceFor(name) {
+    const g = speakerGender(name), h = hashStr(name || "?");
+    const pool = g === "f" ? voicePools.f : g === "m" ? voicePools.m : [];
+    if (pool.length) return { voice: pool[h % Math.min(pool.length, 4)], pitch: 1 + ((h % 5) - 2) * 0.04 };
+    // No gendered voice on this device: same voice, pitch carries the difference.
+    return { voice: voicePools.any[0] || null, pitch: g === "f" ? 1.3 : g === "m" ? 0.75 : 1.0 };
+}
+function speechText(text) {
+    return text.replace(/\([^)]*\)|\[[^\]]*\]/g, " ").replace(/[*_#~]/g, "").replace(/\s+/g, " ").trim();
+}
+let speaking = false;
+function stopSpeaking() {
+    if ("speechSynthesis" in window) speechSynthesis.cancel();
+    speaking = false;
+    const b = document.getElementById("speakBtn");
+    if (b) { b.classList.remove("playing"); document.getElementById("speakLabel").textContent = "Listen"; }
+    document.querySelectorAll(".turn.speaking").forEach(t => t.classList.remove("speaking"));
+}
+function toggleSpeak() {
+    if (speaking) { stopSpeaking(); return; }
+    if (!("speechSynthesis" in window)) return;
+    if (!voicePools.any.length) loadVoices();
+    const { ex } = currentQuestions[currentIndex];
+    const turns = [...document.querySelectorAll("#dialogue .turn")];
+    // Before answering, the blank is read as "blank"; afterwards the full line is read.
+    const p = ex.line.toLowerCase().indexOf(ex.answer.toLowerCase());
+    const target = answered || p < 0 ? ex.line : ex.line.slice(0, p) + " blank " + ex.line.slice(p + ex.answer.length);
+    const parts = [];
+    if (ex.cue) parts.push({ who: ex.cueSpeaker, text: ex.cue });
+    parts.push({ who: ex.speaker, text: target });
+    if (ex.response) parts.push({ who: ex.responseSpeaker, text: ex.response });
+    speechSynthesis.cancel();
+    speaking = true;
+    const b = document.getElementById("speakBtn");
+    b.classList.add("playing"); document.getElementById("speakLabel").textContent = "Stop";
+    parts.forEach((pt, i) => {
+        const u = new SpeechSynthesisUtterance(speechText(pt.text));
+        const v = voiceFor(pt.who);
+        if (v.voice) { u.voice = v.voice; u.lang = v.voice.lang; } else u.lang = "en-US";
+        u.pitch = v.pitch; u.rate = 0.95;
+        u.onstart = () => { turns.forEach(t => t.classList.remove("speaking")); if (turns[i]) turns[i].classList.add("speaking"); };
+        if (i === parts.length - 1) u.onend = u.onerror = () => stopSpeaking();
+        speechSynthesis.speak(u);
+    });
+}
+
 function showQuestion() {
+    stopSpeaking();
     answered = false;
     const q = currentQuestions[currentIndex];
     const { item, ex } = q;

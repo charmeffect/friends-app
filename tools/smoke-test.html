@@ -26,6 +26,9 @@ document.getElementById('f').addEventListener('load', async () => {
     results.hasBlank = !!d.getElementById('blankSpan');
     const opts = [...d.querySelectorAll('.option-btn')];
     results.optionCount = opts.length;
+    results.speakButton = { present: !!d.getElementById('speakBtn'), visible: d.getElementById('speakRow') && d.getElementById('speakRow').style.display !== 'none', belowOptions: !!(d.getElementById('optionsContainer').nextElementSibling && d.getElementById('optionsContainer').nextElementSibling.id === 'speakRow') };
+    results.genders = { Ross: w.eval('speakerGender("Ross")'), Rachel: w.eval('speakerGender("Rachel")'), Charlie: w.eval('speakerGender("Charlie")'), MrsGeller: w.eval('speakerGender("Mrs. Geller")'), Waiter: w.eval('speakerGender("The Waiter")'), Unknown: w.eval('speakerGender("Radio")') };
+    try { d.getElementById('speakBtn').click(); await sleep(50); results.speakClick = 'ok:' + d.getElementById('speakLabel').textContent; d.getElementById('speakBtn').click(); } catch (e) { results.speakClick = 'error ' + e; }
     // Answer with the correct option (found from the current question state)
     const q = w.eval('currentQuestions[currentIndex]');
     const correctBtn = opts.find(b => b.textContent.toLowerCase() === q.ex.answer.toLowerCase());
@@ -37,6 +40,7 @@ document.getElementById('f').addEventListener('load', async () => {
       blank: d.getElementById('blankSpan').textContent,
       title: d.getElementById('phraseTitle').textContent,
       example: d.getElementById('phraseExample').textContent.slice(0, 80),
+      exampleHasMark: !!d.querySelector('#phraseExample mark'),
       nextVisible: d.getElementById('nextBtn').style.display,
       correctCount: d.getElementById('correctCount').textContent,
     };
