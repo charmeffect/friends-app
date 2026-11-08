@@ -1,0 +1,483 @@
+[
+{
+  "expression": "on my own",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "alone, without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c02_u030",
+      "answer": "on my own",
+      "options": [
+        "on my own",
+        "by my side",
+        "in my way",
+        "at my best"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get some rest",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to relax or sleep so that you can recover your strength",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c06_u023",
+      "answer": "get some rest",
+      "options": [
+        "get some rest",
+        "take some notes",
+        "make some noise",
+        "pay some bills"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "my pleasure",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite reply to thanks, meaning you were happy to help",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c07_u008",
+      "answer": "our pleasure",
+      "options": [
+        "our pleasure",
+        "our problem",
+        "our mistake",
+        "our business"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at a time",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "separately, one after another, instead of all together",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c05_u003",
+      "answer": "at a time",
+      "options": [
+        "at a time",
+        "on a whim",
+        "by a hair",
+        "in a rush"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fluent",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "able to speak a language easily and well",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c01_u009",
+      "answer": "fluent",
+      "options": [
+        "fluent",
+        "frequent",
+        "fragile",
+        "famous"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "excuse",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a reason you give to explain why you did something wrong or were late",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c02_u022",
+      "answer": "excuse",
+      "options": [
+        "excuse",
+        "exhibit",
+        "expense",
+        "example"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "heart attack",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a sudden serious medical problem in which the heart stops working properly",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c02_u023",
+      "answer": "heart attack",
+      "options": [
+        "heart attack",
+        "head start",
+        "side effect",
+        "heart throb"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rough day",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a difficult and unpleasant day",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c06_u015",
+      "answer": "rough day",
+      "options": [
+        "rough day",
+        "cold feet",
+        "big break",
+        "free hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "guilty",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "feeling bad because you think you have done something wrong",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c06_u022",
+      "answer": "guilty",
+      "options": [
+        "guilty",
+        "gifted",
+        "greedy",
+        "giddy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "show around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take someone on a tour of a place so they can see it",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c07_u007",
+      "answer": "showing me around",
+      "options": [
+        "showing me around",
+        "turning me down",
+        "letting me down",
+        "putting me off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep an eye on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to watch someone carefully to make sure they behave or stay safe",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c07_u026",
+      "answer": "keep an eye on",
+      "options": [
+        "keep an eye on",
+        "take a shot at",
+        "make a run for",
+        "get a grip on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "break it down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to divide something into smaller parts so it is easier to deal with",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c05_u003",
+      "answer": "break it down",
+      "options": [
+        "break it down",
+        "turn it off",
+        "hand it in",
+        "put it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "could use",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "would benefit from or would like to have something",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c02_u033",
+      "answer": "could use",
+      "options": [
+        "could use",
+        "would mind",
+        "should skip",
+        "might lose"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "scratchy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "rough and slightly sore, as a throat feels when you are getting a cold",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c04_u006",
+      "answer": "scratchy",
+      "options": [
+        "scratchy",
+        "sketchy",
+        "scrappy",
+        "sticky"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "money down the drain",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "money that has been wasted on something useless",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c04_u011",
+      "answer": "money down the drain",
+      "options": [
+        "money down the drain",
+        "water under the bridge",
+        "pie in the sky",
+        "salt in the wound"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take advantage of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to treat someone unfairly for your own benefit",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c06_u035",
+      "answer": "taking advantage",
+      "options": [
+        "taking advantage",
+        "making progress",
+        "losing touch",
+        "getting ahead"
+      ],
+      "responseUid": "s10_e13_c06_u037"
+    }
+  ]
+},
+
+{
+  "expression": "look out for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to protect someone and make sure they are all right",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c09_u017",
+      "answer": "looking out for",
+      "options": [
+        "looking out for",
+        "running out of",
+        "coming up with",
+        "getting back at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see it coming",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to realize in advance that something is going to happen",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c07_u002",
+      "answer": "see this coming",
+      "options": [
+        "see this coming",
+        "set this up",
+        "get this over",
+        "hold this back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sedated",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "made calm or sleepy by a drug given by a doctor",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c02_u028",
+      "answer": "sedated",
+      "options": [
+        "sedated",
+        "separated",
+        "seated",
+        "settled"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "vulnerable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "easily hurt emotionally and in need of protection",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c06_u035",
+      "answer": "vulnerable",
+      "options": [
+        "vulnerable",
+        "venerable",
+        "valuable",
+        "versatile"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "overlap",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to happen partly at the same time as something else",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c07_u015",
+      "answer": "overlapped",
+      "options": [
+        "overlapped",
+        "overflowed",
+        "overheard",
+        "overdosed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "falsely accused",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "blamed for a crime or wrong act that you did not commit",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c07_u018",
+      "answer": "falsely accused",
+      "options": [
+        "falsely accused",
+        "fully insured",
+        "deeply moved",
+        "highly rated"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "off the table",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "no longer being considered as a possible option",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c09_u023",
+      "answer": "off the table",
+      "options": [
+        "off the table",
+        "on the rocks",
+        "under the radar",
+        "up for grabs"
+      ],
+      "cueUid": "s10_e13_c09_u021"
+    }
+  ]
+},
+
+{
+  "expression": "corral",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to gather people or animals together and keep them in a small area",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c02_u018",
+      "answer": "corralled",
+      "options": [
+        "corralled",
+        "cancelled",
+        "carved",
+        "coached"
+      ]
+    }
+  ]
+}
+]

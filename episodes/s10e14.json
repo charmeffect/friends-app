@@ -1,0 +1,512 @@
+[
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u003",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "make up",
+        "break up",
+        "show off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tenure",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a permanent university teaching post that a professor cannot easily be removed from",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u010",
+      "answer": "tenure",
+      "options": [
+        "tenure",
+        "mortgage",
+        "alimony",
+        "custody"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in the middle of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "busy doing something that has not been finished yet",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u007",
+      "answer": "in the middle of",
+      "options": [
+        "in the middle of",
+        "at the end of",
+        "on the top of",
+        "by the side of"
+      ]
+    },
+    {
+      "uid": "s10_e14_c02_u013",
+      "answer": "in the middle of",
+      "options": [
+        "in the middle of",
+        "at the end of",
+        "on the top of",
+        "by the side of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "headhunter",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person whose job is to find suitable people for important jobs and persuade them to change companies",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u018",
+      "answer": "headhunter",
+      "options": [
+        "headhunter",
+        "gatekeeper",
+        "ringleader",
+        "pallbearer"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "being considered as a candidate for a part, job, or prize",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u019",
+      "answer": "up for",
+      "options": [
+        "up for",
+        "in for",
+        "off to",
+        "out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "i'll have you know",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to insist on a fact when you feel offended or want to correct someone",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c02_u007",
+      "answer": "have you know",
+      "options": [
+        "have you know",
+        "let you go",
+        "get you out",
+        "make you see"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be up to someone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be someone's decision or responsibility",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c02_u010",
+      "answer": "up to you",
+      "options": [
+        "up to you",
+        "over to me",
+        "in on it",
+        "out of line"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "grown-up",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an adult, used especially when speaking to or about children",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c02_u028",
+      "answer": "grown-up",
+      "options": [
+        "grown-up",
+        "hand-out",
+        "break-up",
+        "make-up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "prude",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a person who is easily embarrassed or shocked by talk about private, intimate matters",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c02_u031",
+      "answer": "prude",
+      "options": [
+        "prude",
+        "snob",
+        "nerd",
+        "klutz"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk someone into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to do something they were not planning to do",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c02_u031",
+      "answer": "talk them into",
+      "options": [
+        "talk them into",
+        "tell them about",
+        "get them through",
+        "put them onto"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fill out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to complete a form by writing the required information in the spaces",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c04_u004",
+      "answer": "fill out",
+      "options": [
+        "fill out",
+        "make up",
+        "break down",
+        "take off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a while",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to need a fairly long time",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c04_u009",
+      "answer": "take a while",
+      "options": [
+        "take a while",
+        "make a point",
+        "get a grip",
+        "have a ball"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from now on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "starting at this moment and continuing into the future",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c05_u011",
+      "answer": "from now on",
+      "options": [
+        "from now on",
+        "by the way",
+        "in the end",
+        "at first"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let someone go",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to dismiss someone from a job (a polite way of saying fire)",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c05_u019",
+      "answer": "let me go",
+      "options": [
+        "let me go",
+        "get me in",
+        "put me up",
+        "take me on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pay off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to bring a good result after time, effort, or money has been spent",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c05_u034",
+      "answer": "paying off",
+      "options": [
+        "paying off",
+        "showing up",
+        "falling apart",
+        "running out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "well-rounded",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "having a good balance of different interests, activities, and experiences",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c05_u037",
+      "answer": "well-rounded",
+      "options": [
+        "well-rounded",
+        "short-lived",
+        "two-faced",
+        "cold-blooded"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "job security",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the certainty that you will keep your job and not lose it",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c05_u043",
+      "answer": "job security",
+      "options": [
+        "job security",
+        "peer pressure",
+        "jet lag",
+        "stage fright"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "heads-up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a warning or piece of information given in advance about something",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c05_u049",
+      "answer": "heads-up",
+      "responseUid": null,
+      "options": [
+        "heads-up",
+        "pick-me-up",
+        "write-off",
+        "hand-me-down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "set in one's ways",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "unwilling to change your habits or opinions because you have had them for a long time",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c08_u017",
+      "answer": "set in my ways",
+      "options": [
+        "set in my ways",
+        "on my toes",
+        "in my element",
+        "off my game"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come along",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to arrive or appear in someone's life",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c09_u024",
+      "answer": "come along",
+      "options": [
+        "come along",
+        "go ahead",
+        "turn back",
+        "get away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just messing with you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you were only joking or teasing someone",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c10_u011",
+      "answer": "messing with",
+      "options": [
+        "messing with",
+        "cheating on",
+        "yelling at",
+        "hiding from"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make your point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to succeed in making someone understand what you mean, especially by showing them",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c11_u014",
+      "answer": "made your point",
+      "options": [
+        "made your point",
+        "lost your mind",
+        "missed the boat",
+        "done your time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c12_u007",
+      "answer": "ran into",
+      "options": [
+        "ran into",
+        "came off",
+        "took after",
+        "got over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "smarmy",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "unpleasantly and falsely polite or friendly in a way that seems insincere",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c12_u016",
+      "answer": "smarmy",
+      "options": [
+        "smarmy",
+        "humble",
+        "clumsy",
+        "timid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "this calls for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that a situation deserves something, especially a celebration",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c12_u024",
+      "answer": "calls for",
+      "options": [
+        "calls for",
+        "runs into",
+        "comes from",
+        "goes with"
+      ]
+    }
+  ]
+}
+]

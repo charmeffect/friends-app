@@ -1,0 +1,494 @@
+[
+{
+  "expression": "come and go",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to appear for a short time and then disappear again, again and again",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c01_u003",
+      "answer": "come and go",
+      "options": [
+        "come and go",
+        "kiss and tell",
+        "wait and see",
+        "hit and run"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "guess what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to introduce surprising or exciting news",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u012",
+      "answer": "Guess what",
+      "options": [
+        "Guess what",
+        "Excuse me",
+        "Never mind",
+        "Well done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see it coming",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to realize in advance that something is going to happen",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u007",
+      "answer": "see that coming",
+      "options": [
+        "see that coming",
+        "fix that leak",
+        "pass that test",
+        "win that bet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go into labor",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to begin the process of giving birth",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u014",
+      "answer": "went into labor",
+      "options": [
+        "went into labor",
+        "went into debt",
+        "went into hiding",
+        "went into business"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work it out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to solve a problem or settle a disagreement with someone",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u021",
+      "answer": "worked things out",
+      "options": [
+        "worked things out",
+        "turned things down",
+        "put things off",
+        "gave things away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kiss and tell",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to tell other people about your private romantic or sexual experiences",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u023",
+      "answer": "kiss and tell",
+      "options": [
+        "kiss and tell",
+        "wait and see",
+        "hit and run",
+        "cut and paste"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get back together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start a relationship or partnership again after it has ended",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u028",
+      "answer": "get back together",
+      "options": [
+        "get back together",
+        "go back home",
+        "come back later",
+        "stay back late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep an eye on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to watch someone carefully to make sure they behave or stay safe",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u046",
+      "answer": "keep an eye on",
+      "options": [
+        "keep an eye on",
+        "lose sight of",
+        "make a fuss over",
+        "take a crack at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in the know",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "having information that most people do not have",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c05_u033",
+      "answer": "in the know",
+      "options": [
+        "in the know",
+        "in the way",
+        "on the move",
+        "at the top"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run in the family",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be a quality or condition that many members of a family have",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c06_u008",
+      "answer": "run in",
+      "options": [
+        "run in",
+        "fall off",
+        "give in",
+        "break out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "son of a gun",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to express surprise",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c08_u006",
+      "answer": "Son of a gun",
+      "options": [
+        "Son of a gun",
+        "Piece of cake",
+        "Out of luck",
+        "Talk of the town"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take no for an answer",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to accept a refusal; usually said in the negative to show you will keep insisting",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c07_u011",
+      "answer": "no for an answer",
+      "options": [
+        "no for an answer",
+        "sides in a fight",
+        "the bus to work",
+        "a number please"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drop off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave something at a place while you are on your way somewhere",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c07_u015",
+      "answer": "dropped Emma off",
+      "options": [
+        "dropped Emma off",
+        "cheered Emma up",
+        "showed Emma around",
+        "let Emma down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at least",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to point out the minimum you are asking for or the one good thing in a situation",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c07_u021",
+      "answer": "at least",
+      "options": [
+        "at least",
+        "by far",
+        "so far",
+        "at all"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "unanswerable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "impossible to answer",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c03_u020",
+      "answer": "unanswerable",
+      "options": [
+        "unanswerable",
+        "unbreakable",
+        "unforgettable",
+        "unbearable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shoot someone down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to reject someone's romantic offer or idea quickly and firmly",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c09_u010",
+      "answer": "shoot me down",
+      "options": [
+        "shoot me down",
+        "cheer me up",
+        "wear me out",
+        "pay me back"
+      ]
+    },
+    {
+      "uid": "s10_e17_c09_u085",
+      "answer": "shoots me down",
+      "options": [
+        "shoots me down",
+        "cheers me up",
+        "pays me back",
+        "wears me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's a shame",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are sorry or disappointed about something",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c04_u010",
+      "cueUid": "s10_e17_c04_u008",
+      "answer": "It's a shame",
+      "options": [
+        "It's a shame",
+        "It's a relief",
+        "It's a habit",
+        "It's a joke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for the best",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "likely to have a good result in the end, even if it seems bad now",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c09_u067",
+      "answer": "for the best",
+      "options": [
+        "for the best",
+        "on the house",
+        "in the bag",
+        "at the top"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "move on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop thinking about something that is over and start something new",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c09_u071",
+      "answer": "move on",
+      "options": [
+        "move on",
+        "show off",
+        "sign up",
+        "check in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c09_u073",
+      "cueUid": "s10_e17_c09_u071",
+      "responseUid": "s10_e17_c09_u075",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "take after",
+        "put up",
+        "show up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go after",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try hard to get something you want",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c09_u077",
+      "answer": "go after",
+      "options": [
+        "go after",
+        "put off",
+        "take in",
+        "turn down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lure out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to persuade an animal or person to come out of a place by offering something attractive",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c13_u024",
+      "answer": "lure them out",
+      "options": [
+        "lure them out",
+        "cheer them up",
+        "talk them down",
+        "pay them back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bust open",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to break something so that it opens",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c13_u033",
+      "answer": "bust it open",
+      "options": [
+        "bust it open",
+        "pass it on",
+        "hand it over",
+        "wrap it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "haul ass",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to move or go very fast",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c14_u007",
+      "answer": "haul ass",
+      "options": [
+        "haul ass",
+        "sit tight",
+        "take five",
+        "lie low"
+      ]
+    }
+  ]
+}
+]

@@ -1,0 +1,464 @@
+[
+{
+  "expression": "boarding pass",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a card or document that allows a passenger to get on a plane",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c01_u003",
+      "answer": "boarding pass",
+      "responseUid": "s10_e18_c01_u005",
+      "options": [
+        "boarding pass",
+        "parking ticket",
+        "price tag",
+        "guest list"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to happen or develop successfully",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c02_u002",
+      "answer": "works out",
+      "options": [
+        "works out",
+        "shows off",
+        "gives in",
+        "sets up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "honeymoon",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a holiday taken by a couple just after they get married",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c02_u004",
+      "answer": "honeymoon",
+      "options": [
+        "honeymoon",
+        "lunch break",
+        "deadline",
+        "diet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "destination",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the place someone is travelling to",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c02_u005",
+      "answer": "destination",
+      "options": [
+        "destination",
+        "occupation",
+        "temperature",
+        "reputation"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in your face",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to mock someone you have beaten or proved wrong",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c03_u002",
+      "answer": "In your face",
+      "responseUid": null,
+      "options": [
+        "In your face",
+        "On your mark",
+        "At your service",
+        "By your leave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "precious",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very sweet and charming, often said of babies or small things",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c04_u015",
+      "answer": "precious",
+      "options": [
+        "precious",
+        "tedious",
+        "nervous",
+        "furious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here goes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said just before you start doing something difficult or nerve-racking",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c05_u003",
+      "answer": "Here goes",
+      "options": [
+        "Here goes",
+        "So long",
+        "No way",
+        "Never mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bust open",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to break something so that it opens",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c05_u013",
+      "answer": "bust it open",
+      "options": [
+        "bust it open",
+        "pass it over",
+        "look it up",
+        "put it off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for what it's worth",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to offer an opinion or feeling while admitting it may not change anything",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c06_u010",
+      "answer": "For what it's worth",
+      "options": [
+        "For what it's worth",
+        "For all I care",
+        "On second thought",
+        "Come to think"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c06_u012",
+      "answer": "hang on",
+      "cueUid": "s10_e18_c06_u010",
+      "options": [
+        "hang on",
+        "hang out",
+        "back off",
+        "show up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come up with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to think of an idea or plan",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c06_u022",
+      "answer": "coming up with",
+      "options": [
+        "coming up with",
+        "running out of",
+        "looking down on",
+        "catching up on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slow down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone or something go or work less quickly",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c07_u004",
+      "answer": "slowing me down",
+      "options": [
+        "slowing me down",
+        "cheering me up",
+        "showing me around",
+        "taking me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become familiar with something so that it no longer seems strange",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c07_u011",
+      "answer": "get used to",
+      "options": [
+        "get used to",
+        "get rid of",
+        "look out for",
+        "make up for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "poultry",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "birds such as chickens, ducks and geese that are kept for eggs or meat",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c07_u017",
+      "answer": "poultry",
+      "options": [
+        "poultry",
+        "pastry",
+        "pottery",
+        "plumbing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "awkward",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "uncomfortable, embarrassing, or clumsy",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c07_u019",
+      "answer": "awkward",
+      "options": [
+        "awkward",
+        "fragile",
+        "frozen",
+        "hollow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "assure",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to tell someone confidently that something is true so that they stop worrying",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c08_u001",
+      "answer": "assure",
+      "options": [
+        "assure",
+        "accuse",
+        "insult",
+        "excuse"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as a matter of fact",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used to add a detail that supports or goes further than what was just said",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c08_u003",
+      "answer": "matter of fact",
+      "options": [
+        "matter of fact",
+        "rule of thumb",
+        "change of heart",
+        "point of view"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mess up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spoil or ruin something",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c10_u017",
+      "answer": "mess this up",
+      "options": [
+        "mess this up",
+        "hold this up",
+        "wash this up",
+        "line this up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on a break",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "temporarily separated from a romantic partner without fully breaking up",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c10_u020",
+      "answer": "on a break",
+      "options": [
+        "on a break",
+        "on a roll",
+        "in a rush",
+        "on the line"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a steal",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something bought or rented for much less than it is really worth",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c11_u006",
+      "answer": "steal",
+      "options": [
+        "steal",
+        "drill",
+        "sneeze",
+        "stamp"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rent control",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a legal limit on how much a landlord can charge or raise the rent",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c11_u006",
+      "answer": "rent control",
+      "options": [
+        "rent control",
+        "fire drill",
+        "jet lag",
+        "dress code"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become successful in your career",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c11_u010",
+      "answer": "make it",
+      "options": [
+        "make it",
+        "hold it",
+        "give it",
+        "bring it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "right away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "immediately, without any delay",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c11_u018",
+      "answer": "right away",
+      "options": [
+        "right away",
+        "all along",
+        "so far",
+        "at last"
+      ]
+    }
+  ]
+}
+]
