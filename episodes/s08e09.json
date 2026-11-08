@@ -1,0 +1,493 @@
+[
+{
+  "expression": "a bunch of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a large number of things",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u016",
+      "answer": "a bunch of",
+      "options": [
+        "a bunch of",
+        "a piece of",
+        "a slice of",
+        "a drop of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "help out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to assist someone with work or a task",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u016",
+      "answer": "help out",
+      "options": [
+        "help out",
+        "hang out",
+        "fill out",
+        "stand out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone a hand",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to help someone with a task",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u041",
+      "answer": "give me a hand",
+      "options": [
+        "give me a hand",
+        "give me an arm",
+        "give me a leg",
+        "give me a head"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be up to",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be doing or planning (what are you up to = what are you doing)",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u072",
+      "answer": "up to",
+      "options": [
+        "up to",
+        "up for",
+        "down to",
+        "over to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "imaginary",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "existing only in someone's mind, not in real life",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u013",
+      "answer": "imaginary",
+      "options": [
+        "imaginary",
+        "imaginative",
+        "ordinary",
+        "temporary"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on business",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "travelling or staying somewhere for work rather than for pleasure",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u014",
+      "answer": "on business",
+      "options": [
+        "on business",
+        "in business",
+        "at business",
+        "by business"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "once in a while",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "occasionally, not very often",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u017",
+      "answer": "once in a while",
+      "options": [
+        "once in a while",
+        "in the long run",
+        "by and large",
+        "on the other hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "left over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "remaining after the rest has been used or eaten",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u030",
+      "answer": "left over",
+      "options": [
+        "left over",
+        "left off",
+        "left out",
+        "left in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deaf",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unable to hear",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u044",
+      "answer": "deaf",
+      "options": [
+        "deaf",
+        "dead",
+        "late",
+        "bald"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miserable",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very unhappy or uncomfortable",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u130",
+      "answer": "miserable",
+      "options": [
+        "miserable",
+        "memorable",
+        "manageable",
+        "marvelous"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c03_u027",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no small feat",
+        "no way out",
+        "no easy task"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fall for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be tricked by something or someone",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u004",
+      "answer": "fall for",
+      "responseUid": null,
+      "options": [
+        "fall for",
+        "fall off",
+        "fall into",
+        "fall over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get in on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become involved in an activity that other people are already doing",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u022",
+      "answer": "get in on",
+      "options": [
+        "get in on",
+        "get down on",
+        "get up to",
+        "get round to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "can't get over",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be very surprised or impressed by something and keep thinking about it",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u042",
+      "answer": "can't get over",
+      "options": [
+        "can't get over",
+        "can't get by",
+        "can't get around",
+        "can't get through"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "save room",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to avoid eating too much so that you can eat food that is coming later",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u058",
+      "answer": "save room",
+      "options": [
+        "save room",
+        "save face",
+        "save time",
+        "save money"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to manage to see, hear, or understand something with difficulty",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u094",
+      "answer": "make it out",
+      "options": [
+        "make it out",
+        "make it up",
+        "make it off",
+        "make it in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one thing led to another",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when a series of events happened naturally, often ending in something romantic",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c03_u074",
+      "answer": "led to",
+      "options": [
+        "led to",
+        "added to",
+        "came to",
+        "stuck to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "aversion",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a strong feeling of dislike for something",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u024",
+      "answer": "aversion",
+      "options": [
+        "aversion",
+        "addiction",
+        "devotion",
+        "attraction"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "maternity",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "relating to pregnancy or to women who are about to have a baby",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u007",
+      "answer": "maternity",
+      "options": [
+        "maternity",
+        "fraternity",
+        "eternity",
+        "modernity"
+      ]
+    },
+    {
+      "uid": "s08_e09_c03_u098",
+      "answer": "maternity",
+      "options": [
+        "maternity",
+        "fraternity",
+        "eternity",
+        "modernity"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "place",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to recognize someone and remember where you know them from",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u109",
+      "answer": "placing",
+      "options": [
+        "placing",
+        "pleasing",
+        "playing",
+        "plating"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a good place",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "feeling emotionally stable and content with your life",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u052",
+      "answer": "in a good place",
+      "options": [
+        "in a good place",
+        "in a tight spot",
+        "in a bad way",
+        "in hot water"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put someone on the map",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make someone or something famous or well known",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c03_u084",
+      "answer": "on the map",
+      "options": [
+        "on the map",
+        "on the shelf",
+        "on the line",
+        "on the rocks"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "smoldering",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "showing strong, barely hidden passion or sexual attraction",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u094",
+      "answer": "smoldering",
+      "options": [
+        "smoldering",
+        "shimmering",
+        "stuttering",
+        "staggering"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sliver",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a very small, thin piece cut from something",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c04_u011",
+      "answer": "sliver",
+      "responseUid": null,
+      "options": [
+        "sliver",
+        "silver",
+        "shiver",
+        "slipper"
+      ]
+    }
+  ]
+}
+]

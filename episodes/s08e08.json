@@ -1,0 +1,124 @@
+[
+  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to think of an idea or plan",
+    "exchanges": [ { "uid": "s08_e08_c01_u007", "answer": "come up with",
+      "options": ["come up with", "put up with", "catch up with", "keep up with"] } ] },
+
+  { "expression": "flip out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to suddenly become extremely angry or lose control",
+    "exchanges": [ { "uid": "s08_e08_c01_u010", "answer": "flip out",
+      "options": ["flip out", "pass out", "sell out", "work out"] } ] },
+
+  { "expression": "pillar", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "one of the most important principles or parts that something depends on",
+    "exchanges": [ { "uid": "s08_e08_c01_u030", "answer": "pillars",
+      "options": ["pillars", "ladders", "puzzles", "tunnels"] } ] },
+
+  { "expression": "come back and bite someone", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to cause problems for someone later as a result of something they did earlier",
+    "exchanges": [ { "uid": "s08_e08_c01_u031", "answer": "come back and bite",
+      "options": ["come back and bite", "go out and dance", "turn around and smile", "stay home and sleep"],
+      "responseUid": null } ] },
+
+  { "expression": "wait on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to serve food and drinks to people, for example in a restaurant",
+    "exchanges": [ { "uid": "s08_e08_c02_u010", "answer": "wait on",
+      "options": ["wait on", "look on", "get on", "turn on"] } ] },
+
+  { "expression": "be such a baby", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to act in a childish or cowardly way",
+    "exchanges": [ { "uid": "s08_e08_c02_u011", "answer": "such a baby",
+      "options": ["such a baby", "such a saint", "such a genius", "such a hero"] } ] },
+
+  { "expression": "in case you didn't notice", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said, often sarcastically, to point out something that should already be obvious",
+    "exchanges": [ { "uid": "s08_e08_c02_u012", "answer": "In case",
+      "options": ["In case", "Ever since", "As if", "So that"] } ] },
+
+  { "expression": "sum it up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to state the main point of something briefly",
+    "exchanges": [ { "uid": "s08_e08_c02_u025", "answer": "sum it up",
+      "options": ["sum it up", "hold it up", "give it up", "pick it up"] } ] },
+
+  { "expression": "take it all in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to absorb and understand everything you are seeing or hearing",
+    "exchanges": [ { "uid": "s08_e08_c03_u004", "answer": "take it all in",
+      "options": ["take it all in", "give it all up", "let it all out", "put it all on"] } ] },
+
+  { "expression": "can't make it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to be unable to come to a planned meeting or event",
+    "exchanges": [ { "uid": "s08_e08_c03_u036", "answer": "make it",
+      "options": ["make it", "take it", "fake it", "break it"] } ] },
+
+  { "expression": "short notice", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "very little advance warning or time to prepare for something",
+    "exchanges": [ { "uid": "s08_e08_c04_u008", "answer": "short notice",
+      "options": ["short notice", "long distance", "close range", "high demand"] } ] },
+
+  { "expression": "damaged goods", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a person seen as less desirable or valuable because of something in their past",
+    "exchanges": [ { "uid": "s08_e08_c04_u017", "answer": "damaged goods",
+      "options": ["damaged goods", "spare parts", "old news", "fair game"],
+      "responseUid": null } ] },
+
+  { "expression": "the big day", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "the day of an important event, especially a wedding",
+    "exchanges": [ { "uid": "s08_e08_c05_u005", "answer": "the big day",
+      "options": ["the big day", "the long night", "the first time", "the best part"] } ] },
+
+  { "expression": "knock up", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to make a woman pregnant, usually unintentionally",
+    "exchanges": [ { "uid": "s08_e08_c06_u009", "answer": "knock up",
+      "options": ["knock up", "cheer up", "look up", "call up"] } ] },
+
+  { "expression": "be in on it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to know about and take part in a secret plan or joke",
+    "exchanges": [ { "uid": "s08_e08_c08_u008", "answer": "in on it",
+      "options": ["in on it", "out of it", "sick of it", "over it"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s08_e08_c11_u024", "answer": "hang out",
+      "options": ["hang out", "work out", "move out", "check out"],
+      "cueUid": "s08_e08_c11_u022" } ] },
+
+  { "expression": "straighten out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to resolve a problem, disagreement, or confusion",
+    "exchanges": [ { "uid": "s08_e08_c12_u005", "answer": "straighten this out",
+      "options": ["straighten this out", "figure this in", "turn this off", "back this up"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s08_e08_c12_u006", "answer": "freaked out",
+      "options": ["freaked out", "ripped off", "cut off", "shown off"] } ] },
+
+  { "expression": "hold one's own", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to defend yourself or perform well against someone stronger or more aggressive",
+    "exchanges": [ { "uid": "s08_e08_c13_u004", "answer": "held your own",
+      "options": ["held your own", "lost your way", "broke your neck", "paid your dues"] } ] },
+
+  { "expression": "drive someone crazy", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to annoy someone very much over a long time",
+    "exchanges": [ { "uid": "s08_e08_c13_u008", "answer": "drove each other crazy",
+      "options": ["drove each other crazy", "kept each other busy", "saw each other daily", "made each other famous"] } ] },
+
+  { "expression": "possessive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "wanting a partner's love and attention only for yourself and not wanting to share them",
+    "exchanges": [ { "uid": "s08_e08_c13_u010", "answer": "possessive",
+      "options": ["possessive", "generous", "punctual", "cheerful"] } ] },
+
+  { "expression": "baggage", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "emotional problems or difficult experiences from someone's past that affect their relationships",
+    "exchanges": [ { "uid": "s08_e08_c13_u015", "answer": "baggage",
+      "options": ["baggage", "savings", "homework", "hobbies"] } ] },
+
+  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do something good for someone to compensate for a wrong you did to them",
+    "exchanges": [ { "uid": "s08_e08_c14_u004", "answer": "make this up",
+      "options": ["make this up", "hand this over", "pass this on", "bring this back"] } ] },
+
+  { "expression": "narrate", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to describe out loud what is happening as it happens",
+    "exchanges": [ { "uid": "s08_e08_c14_u010", "answer": "narrate",
+      "options": ["narrate", "celebrate", "negotiate", "evaporate"] } ] }
+]

@@ -1,0 +1,124 @@
+[
+  { "expression": "dying to", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "wanting to do something very much",
+    "exchanges": [ { "uid": "s08_e12_c02_u002", "answer": "dying to",
+      "options": ["dying to", "sorry to", "forced to", "born to"] } ] },
+
+  { "expression": "sneak out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a place quietly and secretly so that nobody notices",
+    "exchanges": [ { "uid": "s08_e12_c02_u003", "answer": "sneak out",
+      "options": ["sneak out", "speak out", "stand out", "sneak up"] } ] },
+
+  { "expression": "have something coming up", "type": "phrase", "level": "elementary", "pos": "expression",
+    "meaning": "to have an event planned for the near future",
+    "exchanges": [ { "uid": "s08_e12_c02_u009", "answer": "coming up",
+      "options": ["coming up", "going off", "turning in", "looking out"] } ] },
+
+  { "expression": "postpone", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to arrange for something to happen at a later time than planned",
+    "exchanges": [ { "uid": "s08_e12_c02_u013", "answer": "postpone",
+      "options": ["postpone", "purchase", "promote", "propose"] } ] },
+
+  { "expression": "take someone out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to invite someone to go with you to a restaurant or event, usually paying for them",
+    "exchanges": [ { "uid": "s08_e12_c02_u017", "answer": "take you out",
+      "options": ["take you out", "put you off", "bring you up", "let you down"] } ] },
+
+  { "expression": "take one's mind off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make someone stop thinking about something upsetting",
+    "exchanges": [ { "uid": "s08_e12_c02_u019", "answer": "take your mind off",
+      "options": ["take your mind off", "make your mind up", "keep your eyes on", "put your hands on"] } ] },
+
+  { "expression": "hog", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to keep something all to yourself instead of sharing it",
+    "exchanges": [
+      { "uid": "s08_e12_c03_u005", "answer": "hogging",
+        "options": ["hogging", "begging", "jogging", "nagging"] },
+      { "uid": "s08_e12_c11_u003", "answer": "hogging",
+        "options": ["hogging", "begging", "jogging", "nagging"] } ] },
+
+  { "expression": "suck at", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad at doing something",
+    "exchanges": [ { "uid": "s08_e12_c03_u007", "answer": "suck at",
+      "options": ["suck at", "win at", "play at", "cheat at"], "responseUid": "s08_e12_c03_u009" } ] },
+
+  { "expression": "spit out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "of a machine, to quickly push something out",
+    "exchanges": [ { "uid": "s08_e12_c03_u012", "answer": "spits out",
+      "options": ["spits out", "takes off", "puts in", "goes up"] } ] },
+
+  { "expression": "pick someone up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to go to where someone is and collect them, often to take them somewhere",
+    "exchanges": [ { "uid": "s08_e12_c04_u003", "answer": "picking you up",
+      "options": ["picking you up", "letting you down", "calling you back", "checking you out"] } ] },
+
+  { "expression": "stand-up guy", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "an honest, loyal man who does the right thing",
+    "exchanges": [ { "uid": "s08_e12_c04_u009", "answer": "stand up guy",
+      "options": ["stand up guy", "washed up guy", "stuck up guy", "beat up guy"] } ] },
+
+  { "expression": "watch yourself", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "be careful about how you behave, as a warning",
+    "exchanges": [ { "uid": "s08_e12_c04_u010", "answer": "watch yourself",
+      "options": ["watch yourself", "help yourself", "enjoy yourself", "express yourself"] } ] },
+
+  { "expression": "shape up", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to develop in a particular way, usually turning out well",
+    "exchanges": [ { "uid": "s08_e12_c07_u006", "answer": "shaping up",
+      "options": ["shaping up", "breaking up", "making up", "picking up"] } ] },
+
+  { "expression": "lean in", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to move your head or body forward toward someone, especially as if to kiss them",
+    "exchanges": [ { "uid": "s08_e12_c07_u016", "answer": "leaned in",
+      "options": ["leaned in", "logged in", "checked in", "tuned in"] } ] },
+
+  { "expression": "rough", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "difficult and unpleasant to live with or deal with",
+    "exchanges": [ { "uid": "s08_e12_c07_u026", "answer": "rough",
+      "options": ["rough", "loud", "cheap", "fake"] } ] },
+
+  { "expression": "chump", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a foolish person who is easily taken advantage of",
+    "exchanges": [ { "uid": "s08_e12_c08_u006", "answer": "chump",
+      "options": ["chump", "pirate", "tourist", "wizard"] } ] },
+
+  { "expression": "have nothing to show for", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "to have no result or benefit from the time or effort you spent",
+    "exchanges": [ { "uid": "s08_e12_c08_u021", "answer": "nothing to show for",
+      "options": ["nothing to show for", "nothing to ask for", "nothing to care for", "nothing to pay for"] } ] },
+
+  { "expression": "irresistible", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "so attractive that people cannot stop themselves from wanting it",
+    "exchanges": [ { "uid": "s08_e12_c09_u017", "answer": "irresistible",
+      "options": ["irresistible", "irresponsible", "irreversible", "irrelevant"] } ] },
+
+  { "expression": "take a cab", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to travel somewhere by taxi",
+    "exchanges": [ { "uid": "s08_e12_c10_u004", "answer": "take a cab",
+      "options": ["take a cab", "make a call", "have a rest", "keep a list"] } ] },
+
+  { "expression": "sit through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to stay until the end of something long or boring",
+    "exchanges": [ { "uid": "s08_e12_c10_u016", "answer": "sit through",
+      "options": ["sit through", "sit back", "get over", "run into"] } ] },
+
+  { "expression": "a big deal", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "something important or significant",
+    "exchanges": [ { "uid": "s08_e12_c10_u017", "answer": "a big deal",
+      "options": ["a big deal", "a dead end", "a lost cause", "a cheap trick"] } ] },
+
+  { "expression": "cross paths", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to meet or run into someone, usually by chance",
+    "exchanges": [ { "uid": "s08_e12_c10_u029", "answer": "cross paths",
+      "options": ["cross paths", "cut corners", "change lanes", "break ground"] } ] },
+
+  { "expression": "distracted", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "unable to pay attention because you are thinking about something else",
+    "exchanges": [ { "uid": "s08_e12_c13_u002", "answer": "distracted",
+      "options": ["distracted", "delighted", "dedicated", "decorated"] } ] },
+
+  { "expression": "on fire", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "performing extremely well and succeeding at everything",
+    "exchanges": [ { "uid": "s08_e12_c14_u002", "answer": "on fire",
+      "options": ["on fire", "on hold", "on board", "on call"] } ] }
+]

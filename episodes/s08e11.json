@@ -1,0 +1,461 @@
+[
+{
+  "expression": "wait a second",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to make someone stop because you have just noticed or realized something",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c01_u007",
+      "answer": "Wait a second",
+      "options": [
+        "Wait a second",
+        "Give a hand",
+        "Take a seat",
+        "Make a wish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere or with someone",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c05_u011",
+      "answer": "hang out",
+      "options": [
+        "hang out",
+        "hang up",
+        "hold out",
+        "pass out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "call back",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to phone someone again later, usually after an interrupted call",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c13_u002",
+      "answer": "call you back",
+      "options": [
+        "call you back",
+        "hold you up",
+        "cut you off",
+        "put you through"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "attracted to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "finding someone romantically or sexually appealing",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c01_u006",
+      "answer": "attracted to",
+      "options": [
+        "attracted to",
+        "compared to",
+        "limited to",
+        "reduced to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep in mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remember a fact and consider it",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c01_u011",
+      "answer": "keep in mind",
+      "options": [
+        "keep in mind",
+        "keep in touch",
+        "keep in line",
+        "keep in shape"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c02_u005",
+      "answer": "check out",
+      "options": [
+        "check out",
+        "check in",
+        "make out",
+        "work out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's the big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asks why someone thinks something is so important or upsetting",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c02_u024",
+      "answer": "What's the big deal",
+      "options": [
+        "What's the big deal",
+        "What's the big top",
+        "What's the big shot",
+        "What's the big time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "split up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a marriage or romantic relationship",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c12_u004",
+      "answer": "split up",
+      "options": [
+        "split up",
+        "signed up",
+        "stood up",
+        "summed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get rid of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove or sell something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c10_u006",
+      "answer": "get rid of",
+      "options": [
+        "get rid of",
+        "get out of",
+        "get ahead of",
+        "get word of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rough day",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a difficult and unpleasant day",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c13_u006",
+      "answer": "rough day",
+      "options": [
+        "rough day",
+        "rough draft",
+        "round trip",
+        "rough guess"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "right back at you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to return a compliment or remark to the person who just said it",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c13_u024",
+      "answer": "Right back at ya",
+      "options": [
+        "Right back at ya",
+        "Right over there",
+        "Right on time",
+        "Right off the bat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "swamped",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having too much work or too many things to deal with",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c02_u006",
+      "answer": "swamped",
+      "options": [
+        "swamped",
+        "stranded",
+        "sunburned",
+        "shrunken"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give it time",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "be patient, because the situation will change or develop later",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c03_u009",
+      "answer": "give it time",
+      "options": [
+        "give it time",
+        "give it away",
+        "give it back",
+        "give it out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "move forward",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "for a relationship or plan to make progress toward a more serious stage",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c04_u018",
+      "answer": "moving forward",
+      "options": [
+        "moving forward",
+        "falling behind",
+        "breaking down",
+        "holding back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come on to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show someone that you are sexually interested in them",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c06_u008",
+      "answer": "came on to",
+      "options": [
+        "came on to",
+        "came down with",
+        "came up with",
+        "came round to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slap in the face",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an action that insults or disappoints someone badly",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c06_u031",
+      "answer": "slap in the face",
+      "options": [
+        "slap in the face",
+        "pat on the back",
+        "kick in the pants",
+        "shot in the dark"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hope for the best",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stay optimistic that things will turn out well even though you are not sure they will",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c06_u032",
+      "answer": "hope for the best",
+      "options": [
+        "hope for the best",
+        "wait for the rest",
+        "ask for the moon",
+        "pay for the rest"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mixed signals",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "behaviour or messages that suggest opposite things, so someone's intentions are unclear",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c11_u007",
+      "answer": "mixed signals",
+      "options": [
+        "mixed signals",
+        "mixed nuts",
+        "mixed drinks",
+        "mixed media"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mockup",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a model or sample version of something, made to show how the final product will look",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c04_u004",
+      "answer": "mockup",
+      "options": [
+        "mockup",
+        "makeover",
+        "markup",
+        "mishap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turn someone on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make someone sexually excited",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c06_u012",
+      "answer": "turning me on",
+      "options": [
+        "turning me on",
+        "turning me down",
+        "turning me in",
+        "turning me over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a closed book",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person whose thoughts and feelings are hard to know",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c06_u021",
+      "answer": "closed book",
+      "options": [
+        "closed book",
+        "open door",
+        "blank check",
+        "hard sell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no strings attached",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "given or offered without any conditions or expectations in return",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c13_u012",
+      "answer": "No strings attached",
+      "options": [
+        "No strings attached",
+        "No harm done",
+        "No time wasted",
+        "No parking allowed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "knock it out of the park",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to deal with something extremely well, like hitting a home run in baseball",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c03_u011",
+      "answer": "out of the park",
+      "options": [
+        "out of the park",
+        "off the wall",
+        "down the drain",
+        "over the moon"
+      ]
+    }
+  ]
+}
+]

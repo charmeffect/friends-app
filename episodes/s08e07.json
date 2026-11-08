@@ -1,0 +1,126 @@
+[
+  { "expression": "nagging", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "repeatedly complaining to someone or telling them to do something",
+    "exchanges": [ { "uid": "s08_e07_c01_u005", "answer": "nagging",
+      "options": ["nagging", "bragging", "gossiping", "snoring"] } ] },
+
+  { "expression": "relinquish", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to give up control or possession of something",
+    "exchanges": [ { "uid": "s08_e07_c01_u012", "answer": "relinquish", "responseUid": "s08_e07_c01_u014",
+      "options": ["relinquish", "celebrate", "exaggerate", "investigate"] } ] },
+
+  { "expression": "distinctly", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "clearly and definitely, without any doubt",
+    "exchanges": [ { "uid": "s08_e07_c01_u016", "answer": "distinctly",
+      "options": ["distinctly", "loosely", "partly", "fairly"] } ] },
+
+  { "expression": "anxious", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "worried and nervous about something",
+    "exchanges": [ { "uid": "s08_e07_c01_u019", "answer": "anxious", "responseUid": null,
+      "options": ["anxious", "lazy", "sleepy", "cheerful"] } ] },
+
+  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s08_e07_c02_u009", "answer": "broke up with",
+      "options": ["broke up with", "came up with", "kept up with", "signed up with"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s08_e07_c02_u014", "answer": "asking me out",
+      "options": ["asking me out", "bringing me in", "handing me off", "leaving me out"] } ] },
+
+  { "expression": "take no for an answer", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to accept a refusal; usually said in the negative to show you will keep insisting",
+    "exchanges": [ { "uid": "s08_e07_c02_u017", "answer": "take no",
+      "options": ["take no", "give no", "make no", "ask no"] } ] },
+
+  { "expression": "relieved", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "feeling happy because a worry has gone away",
+    "exchanges": [ { "uid": "s08_e07_c02_u029", "answer": "relieved",
+      "options": ["relieved", "nervous", "furious", "heartbroken"] } ] },
+
+  { "expression": "take care of", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to look after someone who needs help",
+    "exchanges": [ { "uid": "s08_e07_c02_u034", "answer": "take care of",
+      "options": ["take care of", "make fun of", "get rid of", "run out of"] } ] },
+
+  { "expression": "out of respect", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "because you want to show respect for someone",
+    "exchanges": [ { "uid": "s08_e07_c02_u037", "answer": "out of respect",
+      "options": ["out of respect", "out of order", "out of place", "out of reach"] } ] },
+
+  { "expression": "pass away", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to die, said as a gentler way of putting it",
+    "exchanges": [ { "uid": "s08_e07_c03_u005", "answer": "passing away",
+      "options": ["passing away", "giving away", "running away", "falling away"] } ] },
+
+  { "expression": "tough old bird", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "an older person who is strong and hard to defeat or kill",
+    "exchanges": [ { "uid": "s08_e07_c03_u010", "answer": "tough old bird", "responseUid": "s08_e07_c03_u012",
+      "options": ["tough old bird", "silly old goose", "dirty old rat", "lazy old cat"] } ] },
+
+  { "expression": "hang in there", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "keep going and do not give up during a difficult time",
+    "exchanges": [ { "uid": "s08_e07_c03_u017", "answer": "hanging in there", "responseUid": null,
+      "options": ["hanging in there", "getting out there", "going in there", "checking in there"] } ] },
+
+  { "expression": "secret ingredient", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "a special part of a recipe that the cook does not tell other people about",
+    "exchanges": [ { "uid": "s08_e07_c04_u003", "answer": "secret ingredient",
+      "options": ["secret ingredient", "dress code", "weather forecast", "parking spot"] } ] },
+
+  { "expression": "benefit of the doubt", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "the decision to believe someone is honest or innocent when you cannot be sure",
+    "exchanges": [ { "uid": "s08_e07_c04_u018", "answer": "benefit of the doubt",
+      "options": ["benefit of the doubt", "heat of the moment", "luck of the draw", "end of the line"] } ] },
+
+  { "expression": "out of curiosity", "type": "phrase", "level": "high", "pos": "adverb",
+    "meaning": "said when asking a question only because you want to know, not for any serious reason",
+    "exchanges": [ { "uid": "s08_e07_c04_u020", "answer": "Out of curiosity",
+      "options": ["Out of curiosity", "Out of nowhere", "Out of control", "Out of order"] } ] },
+
+  { "expression": "blurry", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "not clear in shape, so that you cannot see it sharply",
+    "exchanges": [ { "uid": "s08_e07_c05_u015", "answer": "blurry",
+      "options": ["blurry", "hungry", "sweaty", "guilty"] } ] },
+
+  { "expression": "disrupt", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to disturb something so that it cannot continue normally",
+    "exchanges": [ { "uid": "s08_e07_c08_u014", "answer": "disrupt",
+      "options": ["disrupt", "simplify", "organize", "inspire"] } ] },
+
+  { "expression": "get in trouble", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to end up being punished or blamed for something you did",
+    "exchanges": [ { "uid": "s08_e07_c09_u004", "answer": "got in trouble",
+      "options": ["got in trouble", "got in shape", "got in line", "got in touch"] } ] },
+
+  { "expression": "pick up where you left off", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to continue something from the point where you stopped earlier",
+    "exchanges": [ { "uid": "s08_e07_c12_u004", "answer": "left off",
+      "options": ["left off", "took off", "set off", "got off"] } ] },
+
+  { "expression": "lest", "type": "word", "level": "expert", "pos": "adverb",
+    "meaning": "a formal word meaning so that something will not happen",
+    "exchanges": [ { "uid": "s08_e07_c13_u007", "answer": "lest",
+      "options": ["lest", "since", "though", "until"] } ] },
+
+  { "expression": "sounds about right", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when something is what you expected or seems correct",
+    "exchanges": [ { "uid": "s08_e07_c14_u012", "answer": "Sounds about right", "responseUid": null,
+      "options": ["Sounds about right", "Turns out wrong", "Rings no bell", "Takes too long"] } ] },
+
+  { "expression": "hold on to", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to keep something and not give it to someone else",
+    "exchanges": [ { "uid": "s08_e07_c15_u005", "answer": "hold on to",
+      "options": ["hold on to", "look up to", "get back to", "come up to"] } ] },
+
+  { "expression": "can't stand", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to strongly dislike someone or something",
+    "exchanges": [ { "uid": "s08_e07_c15_u013", "answer": "can't stand",
+      "options": ["can't stand", "can't find", "can't afford", "can't explain"] } ] },
+
+  { "expression": "dying wish", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "the last thing a person asks for before they die",
+    "exchanges": [ { "uid": "s08_e07_c16_u002", "answer": "dying wish",
+      "options": ["dying wish", "birthday party", "morning routine", "grocery list"] } ] }
+]
