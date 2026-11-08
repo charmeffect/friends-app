@@ -1,0 +1,463 @@
+[
+{
+  "expression": "you got it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree to do what someone has just asked or suggested",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c02_u037",
+      "answer": "You got it",
+      "options": [
+        "You got it",
+        "You blew it",
+        "You lost it",
+        "You owe it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "there you go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that someone has finally got it right or done the sensible thing",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c11_u009",
+      "answer": "There you go",
+      "options": [
+        "There you go",
+        "Here you are",
+        "Off you go",
+        "Over you go"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stand out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very easy to notice",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c02_u013",
+      "answer": "stands out",
+      "options": [
+        "stands out",
+        "stands by",
+        "holds out",
+        "sticks up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mess up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spoil or ruin something",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c02_u033",
+      "answer": "mess it up",
+      "options": [
+        "mess it up",
+        "pick it up",
+        "make it up",
+        "sort it out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "might as well",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to suggest doing something because there is no better option",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c05_u002",
+      "answer": "might as well",
+      "options": [
+        "might as well",
+        "would rather not",
+        "has yet to",
+        "can hardly"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "outta here",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "spoken form of 'out of here': leaving now",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c07_u029",
+      "answer": "outta here",
+      "options": [
+        "outta here",
+        "outta luck",
+        "outta time",
+        "outta line"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "flip a coin",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to toss a coin in the air and let the side it lands on decide something",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c03_u004",
+      "answer": "flipped a coin",
+      "options": [
+        "flipped a coin",
+        "rolled a die",
+        "drew a card",
+        "cast a vote"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's wild",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something is surprising or hard to believe",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c13_u006",
+      "answer": "That's wild",
+      "options": [
+        "That's wild",
+        "That's fair",
+        "That's fine",
+        "That's mine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we're even",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "neither person has an advantage over the other or owes the other anything",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c10_u005",
+      "answer": "we're even",
+      "options": [
+        "we're even",
+        "we're lost",
+        "we're late",
+        "we're over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on a roll",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "having a period of repeated success",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c05_u025",
+      "answer": "on a roll",
+      "options": [
+        "on a roll",
+        "on a break",
+        "in a rut",
+        "on the fence"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "intimidating",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "making other people feel nervous or less confident",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c03_u003",
+      "answer": "intimidating",
+      "options": [
+        "intimidating",
+        "accommodating",
+        "illuminating",
+        "appreciating"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who am I kidding",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you admit that what you were saying or pretending is not true",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c11_u003",
+      "answer": "Who am I kidding",
+      "options": [
+        "Who am I kidding",
+        "Where am I going",
+        "Why am I waiting",
+        "Who am I calling"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get back at",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something bad to someone because they hurt you",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c10_u008",
+      "answer": "get back at",
+      "options": [
+        "get back at",
+        "get away with",
+        "look up to",
+        "catch up on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pass out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suddenly become unconscious or fall asleep",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c13_u014",
+      "answer": "passed out",
+      "options": [
+        "passed out",
+        "checked out",
+        "locked out",
+        "sold out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cringe",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to pull a face or shrink back because something is embarrassing or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c07_u027",
+      "answer": "cringed",
+      "options": [
+        "cringed",
+        "cheered",
+        "clapped",
+        "whistled"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "grand",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a thousand dollars",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c05_u030",
+      "answer": "grand",
+      "options": [
+        "grand",
+        "dozen",
+        "percent",
+        "times"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "send-off",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a party or celebration to mark someone leaving or starting something new",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c04_u009",
+      "answer": "send off",
+      "options": [
+        "send off",
+        "check up",
+        "break in",
+        "walk out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pact",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a formal agreement between people to do or not do something",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c02_u036",
+      "answer": "pact",
+      "options": [
+        "pact",
+        "fuss",
+        "scene",
+        "mess"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "jeopardize",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to put something valuable at risk of being lost or damaged",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c06_u009",
+      "answer": "jeopardize",
+      "options": [
+        "jeopardize",
+        "sympathize",
+        "apologize",
+        "authorize"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "uptight",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "anxious, tense, and unable to relax",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c07_u037",
+      "answer": "uptight",
+      "responseUid": "s10_e11_c07_u039",
+      "options": [
+        "uptight",
+        "outgoing",
+        "laid-back",
+        "upbeat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pass the torch",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to hand your role, skills, or responsibility on to someone else",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c11_u007",
+      "answer": "pass the torch",
+      "options": [
+        "pass the torch",
+        "pass the buck",
+        "hold the fort",
+        "bite the bullet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "block out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to deliberately stop yourself from remembering something unpleasant",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c01_u022",
+      "answer": "blocked that out",
+      "options": [
+        "blocked that out",
+        "figured that out",
+        "pointed that out",
+        "carried that out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turf",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an area or place that someone considers their own territory",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c06_u015",
+      "answer": "turf",
+      "responseUid": null,
+      "options": [
+        "turf",
+        "word",
+        "honor",
+        "behalf"
+      ]
+    }
+  ]
+}
+]

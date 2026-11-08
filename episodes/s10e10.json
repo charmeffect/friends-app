@@ -1,0 +1,126 @@
+[
+  { "expression": "give up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop having something, often as a sacrifice",
+    "exchanges": [ { "uid": "s10_e10_c01_u004", "answer": "give up",
+      "options": ["give up", "take up", "make up", "pick up"] } ] },
+
+  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to go and buy or collect something, often on the way somewhere",
+    "exchanges": [ { "uid": "s10_e10_c05_u004", "answer": "picking up",
+      "options": ["picking up", "giving up", "throwing up", "making up"] } ] },
+
+  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to learn or discover a piece of information",
+    "exchanges": [ { "uid": "s10_e10_c05_u131", "answer": "find out",
+      "options": ["find out", "break out", "work out", "stay out"] } ] },
+
+  { "expression": "creepy", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "making you feel uneasy or slightly frightened in an unpleasant way",
+    "exchanges": [ { "uid": "s10_e10_c02_u006", "answer": "creepy",
+      "options": ["creepy", "cheap", "clever", "chubby"] } ] },
+
+  { "expression": "affair", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a secret sexual relationship with someone who is not your husband or wife",
+    "exchanges": [ { "uid": "s10_e10_c02_u008", "answer": "affair", "responseUid": "s10_e10_c02_u010",
+      "options": ["affair", "accident", "argument", "allergy"] } ] },
+
+  { "expression": "I'm telling you", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to insist that what you are saying is true",
+    "exchanges": [ { "uid": "s10_e10_c04_u002", "answer": "I'm telling you",
+      "options": ["I'm telling you", "I'm thanking you", "I'm missing you", "I'm calling you"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s10_e10_c05_u074", "answer": "freak out",
+      "options": ["freak out", "show off", "back off", "calm down"] } ] },
+
+  { "expression": "get rid of", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remove or sell something you no longer want",
+    "exchanges": [ { "uid": "s10_e10_c05_u079", "answer": "get rid of",
+      "options": ["get rid of", "make use of", "take note of", "run out of"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s10_e10_c05_u137", "answer": "end up",
+      "options": ["end up", "give up", "make up", "show up"] } ] },
+
+  { "expression": "lousy", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "very bad or unwell",
+    "exchanges": [ { "uid": "s10_e10_c05_u157", "answer": "lousy",
+      "options": ["lousy", "sleepy", "greedy", "crowded"] } ] },
+
+  { "expression": "afford", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to have enough money to pay for something",
+    "exchanges": [ { "uid": "s10_e10_c06_u009", "answer": "afford",
+      "options": ["afford", "allow", "admit", "adopt"] } ] },
+
+  { "expression": "bring out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to make a quality or feature easier to notice",
+    "exchanges": [ { "uid": "s10_e10_c03_u013", "answer": "bringing out",
+      "options": ["bringing out", "bringing in", "bringing down", "giving out"] } ] },
+
+  { "expression": "devastated", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "extremely shocked and upset",
+    "exchanges": [ { "uid": "s10_e10_c05_u014", "answer": "devastated",
+      "options": ["devastated", "delighted", "distracted", "determined"] } ] },
+
+  { "expression": "go downhill", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to become gradually worse",
+    "exchanges": [ { "uid": "s10_e10_c05_u017", "answer": "gone downhill",
+      "options": ["gone downhill", "gone overboard", "gone missing", "gone public"] } ] },
+
+  { "expression": "make an offer", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to say formally how much you are willing to pay for something, such as a house",
+    "exchanges": [ { "uid": "s10_e10_c05_u042", "answer": "made an offer",
+      "options": ["made an offer", "paid a visit", "took a break", "had a fight"] } ] },
+
+  { "expression": "metaphor", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a way of describing something by calling it something else that it resembles",
+    "exchanges": [ { "uid": "s10_e10_c05_u056", "answer": "metaphor",
+      "options": ["metaphor", "rumor", "miracle", "promise"] } ] },
+
+  { "expression": "supportive", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "giving encouragement and help to someone",
+    "exchanges": [ { "uid": "s10_e10_c06_u018", "answer": "supportive",
+      "options": ["supportive", "expensive", "talkative", "decorative"] } ] },
+
+  { "expression": "blinds", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "window coverings made of strips or cloth that you lower or close for privacy",
+    "exchanges": [ { "uid": "s10_e10_c06_u005", "answer": "blinds",
+      "options": ["blinds", "drawers", "lockers", "wallets"] } ] },
+
+  { "expression": "get a room", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said jokingly to a couple who are showing too much affection in public",
+    "exchanges": [ { "uid": "s10_e10_c01_u002", "answer": "get a room", "responseUid": null,
+      "options": ["get a room", "get a job", "get a dog", "get a cab"] } ] },
+
+  { "expression": "realtor", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a person whose job is to help people buy and sell houses",
+    "exchanges": [ { "uid": "s10_e10_c05_u024", "answer": "realtor",
+      "options": ["realtor", "bodyguard", "stylist", "nanny"] } ] },
+
+  { "expression": "get it out of your system", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to do something you strongly want to do so that the urge goes away",
+    "exchanges": [ { "uid": "s10_e10_c05_u039", "answer": "out of their system",
+      "options": ["out of their system", "out of their league", "out of their minds", "out of their way"] } ] },
+
+  { "expression": "raise the stakes", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to increase the amount of money or the risk involved in a bet or situation",
+    "exchanges": [ { "uid": "s10_e10_c05_u116", "answer": "raise the stakes",
+      "options": ["raise the stakes", "lower the bar", "break the ice", "call the shots"] } ] },
+
+  { "expression": "asking price", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "the price that a seller says they want for something, especially a house",
+    "exchanges": [ { "uid": "s10_e10_c06_u008", "answer": "asking price",
+      "options": ["asking price", "closing time", "waiting list", "selling point"] } ] },
+
+  { "expression": "homey", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "pleasant and comfortable, making you feel at home",
+    "exchanges": [ { "uid": "s10_e10_c05_u014", "answer": "homey",
+      "options": ["homey", "hollow", "bossy", "nosy"] } ] },
+
+  { "expression": "thump", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to hit someone hard, usually with your fist",
+    "exchanges": [ { "uid": "s10_e10_c05_u038", "answer": "thump",
+      "options": ["thump", "hire", "thank", "trust"] } ] }
+]

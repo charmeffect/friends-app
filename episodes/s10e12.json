@@ -1,0 +1,513 @@
+[
+{
+  "expression": "aisle",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the long passage between rows of seats that a bride walks along at a wedding",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c01_u007",
+      "answer": "aisle",
+      "options": [
+        "aisle",
+        "runway",
+        "ladder",
+        "escalator"
+      ]
+    },
+    {
+      "uid": "s10_e12_c05_u023",
+      "answer": "aisle",
+      "options": [
+        "aisle",
+        "staircase",
+        "sidewalk",
+        "block"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look out for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to protect someone and make sure they are all right",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c01_u009",
+      "answer": "looked out for",
+      "options": [
+        "looked out for",
+        "looked down on",
+        "looked forward to",
+        "ran away from"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "are you kidding me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show surprise, disbelief, or annoyance at what someone has said or done",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c01_u012",
+      "answer": "Are you kidding",
+      "options": [
+        "Are you kidding",
+        "Are you sleeping",
+        "Are you lost",
+        "Are you hungry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drive someone crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to annoy someone very much over a long time",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c02_u003",
+      "answer": "driving me crazy",
+      "options": [
+        "driving me crazy",
+        "driving me home",
+        "making me rich",
+        "taking me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang up on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a phone call suddenly while the other person is still talking",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c02_u006",
+      "answer": "hung up on",
+      "options": [
+        "hung up on",
+        "picked up on",
+        "signed up for",
+        "looked up to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fancy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "expensive, elaborate, and decorated rather than simple",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c02_u015",
+      "answer": "fancy",
+      "options": [
+        "fancy",
+        "cheap",
+        "boring",
+        "messy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide not to do something you had agreed or planned to do",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c02_u018",
+      "answer": "backed out",
+      "options": [
+        "backed out",
+        "backed up",
+        "cheered up",
+        "dressed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "awkward",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "uncomfortable, embarrassing, or clumsy",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c03_u035",
+      "answer": "awkward",
+      "options": [
+        "awkward",
+        "exciting",
+        "convenient",
+        "romantic"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miss the cut",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to narrowly fail to be among the people chosen for something",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c03_u036",
+      "answer": "missed the cut",
+      "options": [
+        "missed the cut",
+        "broke the ice",
+        "made the bed",
+        "lost the bet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "left out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "excluded from a group or an experience that everyone else shares",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c03_u047",
+      "answer": "left out",
+      "options": [
+        "left out",
+        "dressed up",
+        "worn out",
+        "mixed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "steal focus",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to draw attention away from the person who should be the center of attention",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c03_u058",
+      "answer": "steal focus",
+      "options": [
+        "steal focus",
+        "lose weight",
+        "pay rent",
+        "catch fire"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fill in for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do someone's job temporarily while they are away",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c04_u001",
+      "answer": "filling in for",
+      "options": [
+        "filling in for",
+        "making up for",
+        "signing up for",
+        "falling out with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wiseacre",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a person who makes clever, cheeky remarks to seem smart",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c04_u005",
+      "answer": "wiseacre",
+      "options": [
+        "wiseacre",
+        "bachelor",
+        "landlord",
+        "wallflower"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chump",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a foolish person who is easily taken advantage of",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c05_u017",
+      "answer": "chump",
+      "options": [
+        "chump",
+        "genius",
+        "hero",
+        "boss"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by any chance",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask politely whether something is true or possible",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c05_u019",
+      "answer": "by any chance",
+      "options": [
+        "by any chance",
+        "by all means",
+        "on my way",
+        "at any rate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the lesser of two evils",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "the less bad of two choices that are both bad",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c05_u024",
+      "answer": "lesser of two evils",
+      "options": [
+        "lesser of two evils",
+        "best of both worlds",
+        "apple of my eye",
+        "tip of the iceberg"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back talk",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "rude or disrespectful replies to someone who has authority over you",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c06_u013",
+      "answer": "back talk",
+      "options": [
+        "back talk",
+        "good news",
+        "fresh air",
+        "hot water"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take care of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to look after someone who needs help",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c06_u015",
+      "answer": "take care of",
+      "options": [
+        "take care of",
+        "take part in",
+        "make fun of",
+        "get rid of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in my defense",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said before giving a reason that partly excuses what you did",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c09_u012",
+      "answer": "in my defense",
+      "options": [
+        "in my defense",
+        "in my dreams",
+        "on my way",
+        "at my place"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose one option among several",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c09_u022",
+      "answer": "go with",
+      "options": [
+        "go with",
+        "go to",
+        "go after",
+        "go through"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back in business",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "working normally again after a period of stopping",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c09_u032",
+      "answer": "back in business",
+      "options": [
+        "back in business",
+        "out of order",
+        "on thin ice",
+        "under the weather"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for your information",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, often with annoyance, to correct someone with a fact they did not know",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c10_u004",
+      "answer": "for your information",
+      "options": [
+        "for your information",
+        "in your dreams",
+        "on your behalf",
+        "at your service"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "snowed in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unable to leave a place because heavy snow has blocked the way",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c11_u013",
+      "answer": "snowed in",
+      "options": [
+        "snowed in",
+        "checked in",
+        "sold out",
+        "dressed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c02_u014",
+      "answer": "Hold on",
+      "cueUid": "s10_e12_c02_u012",
+      "options": [
+        "Hold on",
+        "Come in",
+        "Go away",
+        "Look out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sign on for",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to agree to take part in something",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c12_u006",
+      "answer": "sign on for",
+      "responseUid": null,
+      "options": [
+        "sign on for",
+        "make up for",
+        "look out for",
+        "stand up for"
+      ]
+    }
+  ]
+}
+]

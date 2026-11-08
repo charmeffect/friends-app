@@ -1,0 +1,129 @@
+[
+  { "expression": "get your hopes up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to start expecting something good that may not happen",
+    "exchanges": [ { "uid": "s10_e09_c01_u011", "answer": "get our hopes up",
+      "options": ["get our hopes up", "pick our phones up", "keep our heads up", "turn our noses up"] } ] },
+
+  { "expression": "stand firm", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to refuse to change your decision or position",
+    "exchanges": [ { "uid": "s10_e09_c01_u018", "answer": "standing firm",
+      "options": ["standing firm", "sitting tight", "falling short", "running late"] } ] },
+
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [ { "uid": "s10_e09_c01_u019", "answer": "works out",
+      "options": ["works out", "breaks down", "gets off", "turns in"] } ] },
+
+  { "expression": "screw it", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when you suddenly decide to stop worrying and just do something",
+    "exchanges": [ { "uid": "s10_e09_c01_u022", "answer": "screw it", "responseUid": null,
+      "options": ["screw it", "beat it", "save it", "hold it"] } ] },
+
+  { "expression": "set up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to arrange a date for someone with a person they have not met",
+    "exchanges": [
+      { "uid": "s10_e09_c02_u005", "answer": "setting you up",
+        "options": ["setting you up", "letting you down", "putting you off", "cutting you off"] },
+      { "uid": "s10_e09_c04_u013", "answer": "set you up",
+        "options": ["set you up", "let you down", "put you off", "cut you off"] } ] },
+
+  { "expression": "believe it or not", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said before something that is true but surprising",
+    "exchanges": [ { "uid": "s10_e09_c02_u015", "answer": "believe it or not",
+      "options": ["believe it or not", "sooner or later", "more or less", "once and for all"] } ] },
+
+  { "expression": "tease", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to laugh at someone or make jokes about them in a playful or unkind way",
+    "exchanges": [ { "uid": "s10_e09_c02_u031", "answer": "teased",
+      "options": ["teased", "fired", "hugged", "paid"] } ] },
+
+  { "expression": "intimidating", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "making other people feel nervous or less confident",
+    "exchanges": [ { "uid": "s10_e09_c03_u016", "answer": "intimidating",
+      "options": ["intimidating", "convenient", "contagious", "affordable"] } ] },
+
+  { "expression": "out of nowhere", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "suddenly and unexpectedly, without any warning",
+    "exchanges": [ { "uid": "s10_e09_c04_u008", "answer": "out of nowhere",
+      "options": ["out of nowhere", "out of order", "out of reach", "out of date"] } ] },
+
+  { "expression": "big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said sarcastically to show that something is not important",
+    "exchanges": [ { "uid": "s10_e09_c04_u009", "answer": "big deal",
+      "options": ["big deal", "no wonder", "good luck", "my bad"] } ] },
+
+  { "expression": "out there", "type": "colloquial", "level": "college", "pos": "adjective",
+    "meaning": "very unusual or unconventional, in a way that may seem strange",
+    "exchanges": [ { "uid": "s10_e09_c05_u006", "answer": "out there",
+      "options": ["out there", "laid back", "cut off", "run down"] } ] },
+
+  { "expression": "go nuts for someone", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to become very excited about someone and strongly attracted to them",
+    "exchanges": [ { "uid": "s10_e09_c05_u019", "answer": "go nuts for",
+      "options": ["go nuts for", "go broke for", "run late for", "stand up for"] } ] },
+
+  { "expression": "be on top of things", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to be fully in control of everything and well organized",
+    "exchanges": [ { "uid": "s10_e09_c06_u019", "answer": "on top of stuff",
+      "options": ["on top of stuff", "out of stuff", "on the ropes", "under the weather"] } ] },
+
+  { "expression": "face to face", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "in person, meeting directly rather than by phone or message",
+    "exchanges": [ { "uid": "s10_e09_c06_u023", "answer": "face to face",
+      "options": ["face to face", "back to back", "hand in hand", "side by side"] } ] },
+
+  { "expression": "by mistake", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "accidentally, without intending to",
+    "exchanges": [ { "uid": "s10_e09_c07_u005", "answer": "by mistake",
+      "options": ["by mistake", "by heart", "by far", "by name"] } ] },
+
+  { "expression": "turn heads", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to attract a lot of attention because of how you look",
+    "exchanges": [ { "uid": "s10_e09_c08_u003", "answer": "heads",
+      "options": ["heads", "pages", "screws", "keys"] } ] },
+
+  { "expression": "pull off a look", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to wear an unusual style of clothing and still look good in it",
+    "exchanges": [ { "uid": "s10_e09_c08_u007", "answer": "pull this off", "responseUid": null,
+      "options": ["pull this off", "pay this off", "turn this off", "sign this off"] } ] },
+
+  { "expression": "work in mysterious ways", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to make things happen in ways that people cannot understand or predict",
+    "exchanges": [ { "uid": "s10_e09_c09_u004", "answer": "works in mysterious ways",
+      "options": ["works in mysterious ways", "lives in quiet places", "moves in small circles", "speaks in short sentences"] } ] },
+
+  { "expression": "technicality", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a small detail in a rule or law that is used to win an argument or escape blame",
+    "exchanges": [ { "uid": "s10_e09_c09_u022", "answer": "Technicality", "responseUid": null,
+      "options": ["Technicality", "Priority", "Calamity", "Hospitality"] } ] },
+
+  { "expression": "help yourself", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to let someone take what they want without asking",
+    "exchanges": [ { "uid": "s10_e09_c10_u005", "answer": "Help yourself",
+      "options": ["Help yourself", "Behave yourself", "Hurt yourself", "Excuse yourself"] } ] },
+
+  { "expression": "what's mine is yours", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to tell someone they are free to share or use anything you have",
+    "exchanges": [ { "uid": "s10_e09_c10_u016", "answer": "What's mine is yours",
+      "options": ["What's mine is yours", "What's done is done", "Enough is enough", "First come, first served"] } ] },
+
+  { "expression": "overreact", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to respond to something much more strongly than is reasonable",
+    "exchanges": [ { "uid": "s10_e09_c10_u019", "answer": "overreacting", "responseUid": null,
+      "options": ["overreacting", "underestimating", "oversleeping", "overcharging"] } ] },
+
+  { "expression": "two-way street", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a situation in which both people must give and take equally",
+    "exchanges": [ { "uid": "s10_e09_c12_u016", "answer": "two way street",
+      "options": ["two way street", "one way ticket", "dead end job", "full time job"] } ] },
+
+  { "expression": "bear false witness", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to tell a lie about something, a phrase from the Bible",
+    "exchanges": [ { "uid": "s10_e09_c13_u018", "answer": "bore false witness",
+      "options": ["bore false witness", "held true love", "took fair warning", "paid close attention"] } ] },
+
+  { "expression": "could do a lot worse", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to tell someone that a choice or partner is better than they think",
+    "exchanges": [ { "uid": "s10_e09_c14_u006", "answer": "do a lot worse",
+      "options": ["do a lot worse", "see a lot more", "eat a lot less", "go a lot further"] } ] }
+]
