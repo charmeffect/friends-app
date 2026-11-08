@@ -1,0 +1,483 @@
+[
+{
+  "expression": "what's new",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of asking someone what has been happening in their life",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c02_u004",
+      "answer": "what's new",
+      "options": [
+        "what's new",
+        "who's next",
+        "what's left",
+        "where's home"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who cares",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that something does not matter to you",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c02_u013",
+      "answer": "who cares",
+      "options": [
+        "who cares",
+        "who knows",
+        "who's there",
+        "who's next"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trick or treat",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "what children say at people's doors on Halloween to ask for candy",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u010",
+      "answer": "Trick or treat",
+      "options": [
+        "Trick or treat",
+        "Rain or shine",
+        "Now or never",
+        "Sooner or later"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go and buy or collect something, often on the way somewhere",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c04_u002",
+      "answer": "picking this up",
+      "options": [
+        "picking this up",
+        "putting this off",
+        "taking this out",
+        "giving this away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "last minute",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "arranged or done very shortly before the time it is needed",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c01_u004",
+      "answer": "last minute",
+      "options": [
+        "last minute",
+        "first class",
+        "half price",
+        "next door"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a row",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "one after another without a break",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c01_u009",
+      "answer": "in a row",
+      "options": [
+        "in a row",
+        "on a roll",
+        "at a time",
+        "by a mile"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no wonder",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "it is not surprising that",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u048",
+      "answer": "No wonder",
+      "options": [
+        "No wonder",
+        "No matter",
+        "No doubt",
+        "No way"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "like crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very much, very fast, or with great intensity",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u074",
+      "answer": "like crazy",
+      "options": [
+        "like crazy",
+        "for nothing",
+        "on purpose",
+        "in advance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a crush on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a strong, often secret, romantic attraction to someone",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u106",
+      "answer": "crush",
+      "options": [
+        "crush",
+        "grip",
+        "fix",
+        "bet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have in common",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to share the same interests or qualities as someone",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u141",
+      "answer": "in common",
+      "options": [
+        "in common",
+        "in charge",
+        "in store",
+        "in person"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get going",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave or start moving, usually because it is time to go",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u013",
+      "answer": "get going",
+      "options": [
+        "get going",
+        "get even",
+        "get lost",
+        "get real"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hit on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c01_u019",
+      "answer": "hitting on",
+      "options": [
+        "hitting on",
+        "looking after",
+        "running into",
+        "taking after"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "hands down",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "easily and without any doubt",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u092",
+      "answer": "hands down",
+      "options": [
+        "hands down",
+        "heads up",
+        "thumbs up",
+        "arms out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "maxed out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having reached the highest possible limit, so nothing more can be added",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u122",
+      "answer": "maxed out",
+      "options": [
+        "maxed out",
+        "freaked out",
+        "left out",
+        "worn out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "filthy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely dirty or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u011",
+      "answer": "filthy",
+      "options": [
+        "filthy",
+        "fragile",
+        "frantic",
+        "fluent"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wimp",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a weak person who lacks strength or courage",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u035",
+      "answer": "wimp",
+      "options": [
+        "wimp",
+        "whip",
+        "wisp",
+        "wink"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who am I kidding",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you admit that what you were saying or pretending is not true",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u038",
+      "answer": "who are we kidding",
+      "options": [
+        "who are we kidding",
+        "when are we leaving",
+        "where are we going",
+        "how are we doing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "maternal instinct",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the natural feeling a woman has that makes her want to care for and protect children",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u011",
+      "answer": "maternal instincts",
+      "options": [
+        "maternal instincts",
+        "musical talents",
+        "moral principles",
+        "medical skills"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in my defense",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said before giving a reason that partly excuses what you did",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u164",
+      "answer": "in her defense",
+      "options": [
+        "in her defense",
+        "in her absence",
+        "in her honor",
+        "in her place"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trash talk",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "boastful or insulting talk meant to intimidate an opponent before or during a contest",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u174",
+      "answer": "trash talk",
+      "options": [
+        "trash talk",
+        "small talk",
+        "pep talk",
+        "pillow talk"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "integrity",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the quality of being honest and having strong moral principles",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c04_u024",
+      "answer": "integrity",
+      "options": [
+        "integrity",
+        "intimacy",
+        "intensity",
+        "inventory"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a fine line",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a very small difference between two things, one of which is acceptable and one not",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u007",
+      "answer": "a fine line",
+      "options": [
+        "a fine line",
+        "a long shot",
+        "a close call",
+        "a dead end"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "knock up",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to make a woman pregnant, usually unintentionally",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u036",
+      "answer": "knockin' people up",
+      "options": [
+        "knockin' people up",
+        "lettin' people down",
+        "pushin' people around",
+        "showin' people off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hopped up on",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "full of nervous energy because of a stimulant such as sugar or drugs",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u070",
+      "answer": "hopped up on",
+      "options": [
+        "hopped up on",
+        "fed up with",
+        "worn out by",
+        "tied up with"
+      ]
+    }
+  ]
+}
+]

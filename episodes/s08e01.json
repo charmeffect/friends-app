@@ -1,0 +1,121 @@
+[
+  { "expression": "deal with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to take action to solve a problem or handle a person",
+    "exchanges": [ { "uid": "s08_e01_c02_u008", "answer": "deal with",
+      "options": ["deal with", "run into", "show off", "give up"] } ] },
+
+  { "expression": "on one's own", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "without help from anyone else; independently",
+    "exchanges": [ { "uid": "s08_e01_c03_u096", "answer": "on her own",
+      "options": ["on her own", "by the way", "at her best", "in her place"] } ] },
+
+  { "expression": "make sure", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to take care that something happens or is done correctly",
+    "exchanges": [ { "uid": "s08_e01_c04_u011", "answer": "make sure",
+      "options": ["make sure", "take care", "keep track", "get ready"] } ] },
+
+  { "expression": "wait a minute", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to make someone stop because you have just noticed something surprising or unfair",
+    "exchanges": [ { "uid": "s08_e01_c01_u025", "answer": "Wait a minute",
+      "options": ["Wait a minute", "Make a wish", "Have a seat", "Keep in touch"] } ] },
+
+  { "expression": "a big deal", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "something important or significant",
+    "exchanges": [ { "uid": "s08_e01_c02_u004", "answer": "big deal",
+      "options": ["big deal", "long shot", "close call", "dead end"] } ] },
+
+  { "expression": "slippery", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "smooth or wet so that it is hard to stand on or hold without sliding",
+    "exchanges": [ { "uid": "s08_e01_c03_u016", "answer": "slippery",
+      "options": ["slippery", "fragile", "shallow", "crowded"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s08_e01_c04_u014", "answer": "freak out",
+      "options": ["freak out", "show off", "back up", "sign up"] } ] },
+
+  { "expression": "get off the phone", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finish a phone call",
+    "exchanges": [ { "uid": "s08_e01_c04_u002", "answer": "got off the phone",
+      "options": ["got off the phone", "got on the train", "got over the flu", "got into the car"] } ] },
+
+  { "expression": "clumsy", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "moving in an awkward way and often dropping or bumping into things",
+    "exchanges": [ { "uid": "s08_e01_c04_u102", "answer": "clumsy",
+      "options": ["clumsy", "generous", "curious", "polite"] } ] },
+
+  { "expression": "tell me about it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+    "exchanges": [ { "uid": "s08_e01_c06_u008", "answer": "Tell me about it",
+      "options": ["Tell me about it", "Don't get me wrong", "Mark my words", "Take my word"] } ] },
+
+  { "expression": "supposedly", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "according to what people say, though it may not be true",
+    "exchanges": [ { "uid": "s08_e01_c03_u049", "answer": "supposedly",
+      "options": ["supposedly", "reluctantly", "deliberately", "temporarily"] } ] },
+
+  { "expression": "misleading", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "giving someone the wrong idea or a false impression",
+    "exchanges": [ { "uid": "s08_e01_c03_u076", "answer": "misleading",
+      "options": ["misleading", "rewarding", "refreshing", "exhausting"] } ] },
+
+  { "expression": "think through", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to consider something carefully before deciding",
+    "exchanges": [ { "uid": "s08_e01_c03_u099", "answer": "thought it through",
+      "options": ["thought it through", "given it up", "worn it out", "put it off"] } ] },
+
+  { "expression": "care to", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to want to do something, used in polite offers and invitations",
+    "exchanges": [ { "uid": "s08_e01_c03_u012", "answer": "care to",
+      "options": ["care to", "dare to", "need to", "ought to"] } ] },
+
+  { "expression": "sneaky", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "doing things in a secret and slightly dishonest way to get what you want",
+    "exchanges": [ { "uid": "s08_e01_c02_u011", "answer": "Sneaky",
+      "options": ["Sneaky", "Greedy", "Stubborn", "Lazy"] } ] },
+
+  { "expression": "propose a toast", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to ask people to raise their glasses and drink in honour of someone",
+    "exchanges": [ { "uid": "s08_e01_c04_u069", "answer": "propose a toast",
+      "options": ["propose a toast", "take a nap", "pay a visit", "break a record"] } ] },
+
+  { "expression": "in this day and age", "type": "phrase", "level": "college", "pos": "adverb",
+    "meaning": "in the modern world, where things are expected to be different from the past",
+    "exchanges": [ { "uid": "s08_e01_c03_u092", "answer": "this day and age",
+      "options": ["this day and age", "the long run", "the first place", "the nick of time"] } ] },
+
+  { "expression": "juggle", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to manage several responsibilities, such as work and family, at the same time",
+    "exchanges": [ { "uid": "s08_e01_c03_u100", "answer": "juggle",
+      "options": ["juggle", "dismiss", "inherit", "resign"] } ] },
+
+  { "expression": "false positive", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "a test result that wrongly shows that something is present",
+    "exchanges": [ { "uid": "s08_e01_c04_u012", "answer": "false positive",
+      "options": ["false positive", "close call", "blind spot", "dead end"] } ] },
+
+  { "expression": "freakishly", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "to an unusual and strange degree",
+    "exchanges": [ { "uid": "s08_e01_c04_u052", "answer": "freakishly",
+      "options": ["freakishly", "politely", "bravely", "barely"] } ] },
+
+  { "expression": "hold down the fort", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to take care of things or keep a situation going alone while others are absent",
+    "exchanges": [ { "uid": "s08_e01_c06_u008", "answer": "holding down the fort",
+      "options": ["holding down the fort", "jumping the gun", "spilling the beans", "missing the boat"] } ] },
+
+  { "expression": "steal someone's thunder", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to take the attention or praise that someone else expected to get",
+    "exchanges": [ { "uid": "s08_e01_c01_u024", "answer": "steal your thunder",
+      "options": ["steal your thunder", "lose your temper", "pull your leg", "cross your mind"] } ] },
+
+  { "expression": "knocked up", "type": "colloquial", "level": "expert", "pos": "adjective",
+    "meaning": "pregnant",
+    "exchanges": [ { "uid": "s08_e01_c03_u103", "answer": "knocked up",
+      "options": ["knocked up", "washed up", "checked out", "set up"] } ] },
+
+  { "expression": "with child", "type": "phrase", "level": "expert", "pos": "adjective",
+    "meaning": "pregnant, in an old-fashioned or formal way of speaking",
+    "exchanges": [ { "uid": "s08_e01_c01_u024", "answer": "with child",
+      "options": ["with child", "at large", "on board", "in charge"] } ] }
+]

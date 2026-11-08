@@ -1,0 +1,127 @@
+[
+  { "expression": "get it out of your system", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to do something you strongly want to do so that the urge goes away",
+    "exchanges": [ { "uid": "s08_e03_c01_u005", "answer": "out of your system",
+      "options": ["out of your system", "out of your league", "off of your hands", "out of your mind"] } ] },
+
+  { "expression": "related by blood", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "belonging to the same family by birth rather than by marriage or friendship",
+    "exchanges": [ { "uid": "s08_e03_c01_u027", "answer": "related by blood",
+      "options": ["related by blood", "linked by name", "joined by law", "tied by work"] } ] },
+
+  { "expression": "involved", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "taking part in something and spending time and attention on it",
+    "exchanges": [ { "uid": "s08_e03_c01_u030", "answer": "involved",
+      "options": ["involved", "annoyed", "ashamed", "relaxed"] } ] },
+
+  { "expression": "there's no harm in", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "used to say that doing something will not cause any damage or problem",
+    "exchanges": [ { "uid": "s08_e03_c01_u038", "answer": "no harm in",
+      "options": ["no harm in", "no room for", "no sign of", "no end to"] } ] },
+
+  { "expression": "out of town", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "away from the place where you live, usually on a trip",
+    "exchanges": [ { "uid": "s08_e03_c02_u009", "answer": "out of town",
+      "options": ["out of town", "out of order", "out of reach", "out of place"] } ] },
+
+  { "expression": "catch up with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to reach someone who is ahead of you; to meet and talk later",
+    "exchanges": [ { "uid": "s08_e03_c02_u022", "answer": "catch up with",
+      "options": ["catch up with", "put up with", "come up with", "keep up with"] } ] },
+
+  { "expression": "no wonder", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "it is not surprising that",
+    "exchanges": [ { "uid": "s08_e03_c02_u038", "answer": "No wonder",
+      "options": ["No wonder", "No matter", "No way", "No longer"] } ] },
+
+  { "expression": "in an orderly fashion", "type": "phrase", "level": "college", "pos": "adverb",
+    "meaning": "in a calm, organized way, following the proper order",
+    "exchanges": [ { "uid": "s08_e03_c03_u006", "answer": "orderly",
+      "options": ["orderly", "elderly", "oily", "ugly"], "responseUid": null } ] },
+
+  { "expression": "bump up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to move someone to a better class or higher position, such as a better seat",
+    "exchanges": [
+      { "uid": "s08_e03_c03_u012", "answer": "bumped them up",
+        "options": ["bumped them up", "picked them up", "set them up", "held them up"] },
+      { "uid": "s08_e03_c03_u019", "answer": "bump us up",
+        "options": ["bump us up", "pick us up", "set us up", "hold us up"] } ] },
+
+  { "expression": "apology accepted", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to tell someone you forgive them after they say sorry",
+    "exchanges": [ { "uid": "s08_e03_c05_u013", "answer": "Apology accepted",
+      "options": ["Apology accepted", "Promise kept", "Order received", "Message sent"] } ] },
+
+  { "expression": "one heck of a", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to say that something is a very great, unusual, or extreme example of its kind",
+    "exchanges": [ { "uid": "s08_e03_c06_u009", "answer": "one heck of a",
+      "options": ["one heck of a", "one piece of a", "one side of a", "one half of a"],
+      "cueUid": "s08_e03_c06_u007", "responseUid": "s08_e03_c06_u011" } ] },
+
+  { "expression": "no pressure", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to tell someone they should not feel forced to agree or answer",
+    "exchanges": [ { "uid": "s08_e03_c07_u004", "answer": "pressure",
+      "options": ["pressure", "pleasure", "purpose", "promise"] } ] },
+
+  { "expression": "indignant", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "angry because you feel you have been treated unfairly",
+    "exchanges": [ { "uid": "s08_e03_c07_u013", "answer": "indignant",
+      "options": ["indignant", "indifferent", "independent", "ignorant"] } ] },
+
+  { "expression": "do someone a favor", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to do something helpful for someone because they ask you to",
+    "exchanges": [ { "uid": "s08_e03_c08_u005", "answer": "do us a favor",
+      "options": ["do us a favor", "make us a deal", "pay us a visit", "give us a call"] } ] },
+
+  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to learn or discover a piece of information",
+    "exchanges": [ { "uid": "s08_e03_c08_u006", "answer": "find out",
+      "options": ["find out", "make out", "hang out", "work out"] } ] },
+
+  { "expression": "make it to", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to manage to reach a place or arrive somewhere",
+    "exchanges": [ { "uid": "s08_e03_c08_u010", "answer": "make it to",
+      "options": ["make it to", "take it to", "get it to", "put it to"],
+      "cueUid": "s08_e03_c08_u008" } ] },
+
+  { "expression": "get an earful", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to be shouted at or told angrily and at length what someone thinks",
+    "exchanges": [ { "uid": "s08_e03_c08_u029", "answer": "an earful",
+      "options": ["an earful", "a handful", "a mouthful", "a spoonful"] } ] },
+
+  { "expression": "in my defense", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "said before giving a reason that partly excuses what you did",
+    "exchanges": [ { "uid": "s08_e03_c08_u031", "answer": "in my defense",
+      "options": ["in my defense", "at my expense", "on my watch", "in my sleep"],
+      "cueUid": "s08_e03_c08_u029" } ] },
+
+  { "expression": "evidently", "type": "word", "level": "high", "pos": "adverb",
+    "meaning": "used to say that something is clearly true from what you can see or know",
+    "exchanges": [ { "uid": "s08_e03_c08_u035", "answer": "Evidently",
+      "options": ["Evidently", "Eventually", "Elegantly", "Equally"] } ] },
+
+  { "expression": "you've got to be kidding me", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show surprise, disbelief, or annoyance at what someone has said or done",
+    "exchanges": [ { "uid": "s08_e03_c09_u003", "answer": "kidding",
+      "options": ["kidding", "kicking", "killing", "keeping"] } ] },
+
+  { "expression": "what else is new", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to show that something is not surprising because it happens all the time",
+    "exchanges": [ { "uid": "s08_e03_c10_u004", "answer": "new",
+      "options": ["new", "old", "blue", "loud"] } ] },
+
+  { "expression": "baby-proof", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to make a home safe for a baby by removing or covering dangerous things",
+    "exchanges": [ { "uid": "s08_e03_c11_u015", "answer": "baby-proofing",
+      "options": ["baby-proofing", "house-sitting", "spring-cleaning", "window-shopping"] } ] },
+
+  { "expression": "inhale", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to eat food extremely quickly",
+    "exchanges": [ { "uid": "s08_e03_c11_u030", "answer": "inhale",
+      "options": ["inhale", "inherit", "install", "invent"] } ] },
+
+  { "expression": "am I interrupting?", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said politely when you enter and think you may be disturbing people",
+    "exchanges": [ { "uid": "s08_e03_c11_u032", "answer": "interrupting",
+      "options": ["interrupting", "introducing", "investing", "inventing"] } ] }
+]

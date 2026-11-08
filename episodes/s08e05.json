@@ -1,0 +1,126 @@
+[
+  { "expression": "cut to the chase", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to get to the important point without wasting time",
+    "exchanges": [ { "uid": "s08_e05_c01_u029", "answer": "cut to the chase", "responseUid": null,
+      "options": ["cut to the chase", "beat around the bush", "spill the beans", "hit the road"] } ] },
+
+  { "expression": "get off work", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finish work or be excused from working for the day",
+    "exchanges": [ { "uid": "s08_e05_c01_u029", "answer": "gets off", "responseUid": null,
+      "options": ["gets off", "gets on", "gets over", "gets by"] } ] },
+
+  { "expression": "burn the midnight oil", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to work or study until late at night",
+    "exchanges": [ { "uid": "s08_e05_c02_u002", "answer": "Burning the midnight oil",
+      "options": ["Burning the midnight oil", "Painting the town red", "Biting the bullet", "Breaking the ice"] } ] },
+
+  { "expression": "get around", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to find a way to avoid a rule, restriction, or obstacle",
+    "exchanges": [ { "uid": "s08_e05_c02_u003", "answer": "get around",
+      "options": ["get around", "get along", "get over", "get away"] } ] },
+
+  { "expression": "what's the big deal", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "asks why someone thinks something is so important or upsetting",
+    "exchanges": [ { "uid": "s08_e05_c02_u022", "answer": "What's the big deal",
+      "options": ["What's the big deal", "What's the catch", "Who's the boss", "Where's the fire"] } ] },
+
+  { "expression": "couldn't care less", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to say that you are not interested in something at all",
+    "exchanges": [ { "uid": "s08_e05_c03_u015", "answer": "couldn't care less", "responseUid": null,
+      "options": ["couldn't care less", "couldn't agree more", "couldn't be happier", "couldn't help it"] } ] },
+
+  { "expression": "exhume", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to dig a dead body out of the ground where it was buried",
+    "exchanges": [ { "uid": "s08_e05_c03_u008", "answer": "exhume", "responseUid": null,
+      "options": ["exhume", "exhaust", "exile", "exceed"] } ] },
+
+  { "expression": "intimidating", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "making other people feel nervous or less confident",
+    "exchanges": [ { "uid": "s08_e05_c04_u008", "answer": "intimidating",
+      "options": ["intimidating", "forgiving", "fascinating", "generous"] } ] },
+
+  { "expression": "take someone down a peg", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to make a proud or arrogant person feel less important",
+    "exchanges": [ { "uid": "s08_e05_c04_u008", "answer": "taken down a peg",
+      "options": ["taken down a peg", "brought up to speed", "put on a pedestal", "given a fresh start"] } ] },
+
+  { "expression": "mission accomplished", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when a goal has been achieved, often ironically",
+    "exchanges": [ { "uid": "s08_e05_c04_u009", "answer": "mission accomplished",
+      "options": ["mission accomplished", "no harm done", "case dismissed", "better luck next time"] } ] },
+
+  { "expression": "give someone another chance", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to let someone try again after they have disappointed you",
+    "exchanges": [ { "uid": "s08_e05_c04_u010", "answer": "give him another chance",
+      "options": ["give him another chance", "make him another offer", "show him another way", "take him another step"] } ] },
+
+  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to date someone; to spend time with someone romantically",
+    "exchanges": [ { "uid": "s08_e05_c05_u006", "answer": "go out with",
+      "options": ["go out with", "get away with", "come up with", "run out of"] } ] },
+
+  { "expression": "what it takes", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "the effort or qualities needed to achieve something",
+    "exchanges": [ { "uid": "s08_e05_c06_u012", "answer": "what it takes",
+      "options": ["what it takes", "what it costs", "what it means", "what it says"] } ] },
+
+  { "expression": "loud and clear", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "clearly and completely understood",
+    "exchanges": [ { "uid": "s08_e05_c06_u015", "answer": "loud and clear",
+      "options": ["loud and clear", "safe and sound", "sick and tired", "short and sweet"] } ] },
+
+  { "expression": "stay put", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to remain where you are and not move somewhere else",
+    "exchanges": [ { "uid": "s08_e05_c06_u015", "answer": "stay put",
+      "options": ["stay put", "fall apart", "show off", "break down"] } ] },
+
+  { "expression": "pile up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to increase in amount until there is too much to deal with",
+    "exchanges": [ { "uid": "s08_e05_c06_u017", "answer": "pile up",
+      "options": ["pile up", "wear off", "cool down", "fall through"] } ] },
+
+  { "expression": "incompetent", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "lacking the skill or ability to do a job properly",
+    "exchanges": [ { "uid": "s08_e05_c07_u005", "answer": "incompetent",
+      "options": ["incompetent", "innocent", "invisible", "invincible"] } ] },
+
+  { "expression": "dump", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s08_e05_c07_u008", "answer": "dumping",
+      "options": ["dumping", "marrying", "adopting", "promoting"] } ] },
+
+  { "expression": "hammered", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "very drunk",
+    "exchanges": [ { "uid": "s08_e05_c09_u002", "answer": "hammered",
+      "options": ["hammered", "stranded", "grounded", "flattered"] } ] },
+
+  { "expression": "mundane", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "ordinary and not interesting or exciting",
+    "exchanges": [ { "uid": "s08_e05_c09_u012", "answer": "mundane",
+      "options": ["mundane", "bizarre", "thrilling", "sacred"] } ] },
+
+  { "expression": "break someone's heart", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to make someone very sad, especially by ending a relationship with them",
+    "exchanges": [ { "uid": "s08_e05_c11_u017", "answer": "breaks my heart",
+      "options": ["breaks my heart", "makes my day", "blows my mind", "crosses my mind"] } ] },
+
+  { "expression": "fall in love", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to start to love someone romantically",
+    "exchanges": [ { "uid": "s08_e05_c11_u025", "answer": "fall in love",
+      "options": ["fall in love", "make a living", "take a break", "catch a cold"] } ] },
+
+  { "expression": "cover for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to lie or make excuses so that someone else's secret or mistake is not discovered",
+    "exchanges": [ { "uid": "s08_e05_c12_u010", "answer": "cover for",
+      "options": ["cover for", "run into", "show off", "fall for"] } ] },
+
+  { "expression": "learning curve", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "the period of time it takes to learn a new skill or job",
+    "exchanges": [ { "uid": "s08_e05_c13_u020", "answer": "learning curve",
+      "options": ["learning curve", "speed limit", "price tag", "waiting list"] } ] },
+
+  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to help someone with a task",
+    "exchanges": [ { "uid": "s08_e05_c16_u003", "answer": "give me a hand", "responseUid": null,
+      "options": ["give me a hand", "keep me posted", "let me down", "get me wrong"] } ] }
+]
