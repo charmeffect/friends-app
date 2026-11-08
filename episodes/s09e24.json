@@ -1,0 +1,124 @@
+[
+  { "expression": "I'm out", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to announce that you will not take part in something",
+    "exchanges": [ { "uid": "s09_e24_c06_u007", "answer": "I'm out",
+      "options": ["I'm out", "I'm up", "I'm on", "I'm over"] } ] },
+
+  { "expression": "don't worry about it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to tell someone that something is not a problem",
+    "exchanges": [ { "uid": "s09_e24_c05_u007", "answer": "Don't worry about it",
+      "options": ["Don't worry about it", "Don't count on it", "Don't bet on it", "Don't hold your breath"] } ] },
+
+  { "expression": "take it too far", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to go beyond what is acceptable or funny",
+    "exchanges": [ { "uid": "s09_e24_c03_u027", "answer": "took it too far", "responseUid": null,
+      "options": ["took it too far", "made it too short", "kept it too low", "put it too soon"] } ] },
+
+  { "expression": "on the bright side", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "used to introduce the good part of a situation that is mostly bad",
+    "exchanges": [ { "uid": "s09_e24_c04_u002", "answer": "on the bright side",
+      "options": ["on the bright side", "on the other hand", "at the far end", "in the dark room"] } ] },
+
+  { "expression": "what are the chances", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when something happens that seemed very unlikely",
+    "exchanges": [ { "uid": "s09_e24_c06_u034", "answer": "what are the chances",
+      "options": ["what are the chances", "what are the rules", "where are the coins", "who are the winners"] } ] },
+
+  { "expression": "break up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship",
+    "exchanges": [
+      { "uid": "s09_e24_c07_u006", "answer": "broke up",
+        "options": ["broke up", "made up", "hooked up", "moved in"] },
+      { "uid": "s09_e24_c10_u008", "answer": "broke up",
+        "options": ["broke up", "made up", "hooked up", "moved in"] } ] },
+
+  { "expression": "have nothing in common", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "to share no interests, qualities, or experiences with someone",
+    "exchanges": [ { "uid": "s09_e24_c07_u008", "answer": "nothing in common",
+      "options": ["nothing in common", "nothing in mind", "nothing on hand", "nothing at stake"] } ] },
+
+  { "expression": "enough is enough", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when you want something to stop because it has gone on too long",
+    "exchanges": [ { "uid": "s09_e24_c11_u003", "answer": "Enough is enough",
+      "options": ["Enough is enough", "Better late than never", "First come, first served", "Easy come, easy go"] } ] },
+
+  { "expression": "turn out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [ { "uid": "s09_e24_c05_u008", "answer": "turned out",
+      "options": ["turned out", "set off", "broke down", "gave in"] } ] },
+
+  { "expression": "all kidding aside", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to say that you are now going to speak seriously",
+    "exchanges": [ { "uid": "s09_e24_c02_u007", "answer": "all kidding aside",
+      "options": ["all kidding aside", "all things equal", "all bets off", "all hands on"] } ] },
+
+  { "expression": "blow someone away", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to impress someone very much",
+    "exchanges": [ { "uid": "s09_e24_c03_u021", "answer": "blew them away",
+      "options": ["blew them away", "let them down", "put them off", "threw them out"] } ] },
+
+  { "expression": "dull", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "not interesting or exciting; boring",
+    "exchanges": [ { "uid": "s09_e24_c07_u012", "answer": "dull",
+      "options": ["dull", "rude", "loud", "lazy"] } ] },
+
+  { "expression": "have a lot on your plate", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to have many things to deal with or be very busy",
+    "exchanges": [ { "uid": "s09_e24_c10_u002", "answer": "on my plate",
+      "options": ["on my plate", "off my chest", "up my sleeve", "in my pocket"] } ] },
+
+  { "expression": "get out", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said when you are surprised and do not quite believe a compliment or news",
+    "exchanges": [ { "uid": "s09_e24_c10_u005", "answer": "Get Out",
+      "options": ["Get Out", "Get Lost", "Back Off", "Shut Up"] } ] },
+
+  { "expression": "for the best", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "likely to have a good result in the end, even if it seems bad now",
+    "exchanges": [ { "uid": "s09_e24_c10_u012", "answer": "for the best",
+      "options": ["for the best", "for the record", "for the moment", "for a change"] } ] },
+
+  { "expression": "cocky", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "too confident about yourself in an annoying way",
+    "exchanges": [ { "uid": "s09_e24_c09_u015", "answer": "cocky",
+      "options": ["cocky", "clumsy", "sleepy", "chilly"] } ] },
+
+  { "expression": "get it over with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
+    "exchanges": [ { "uid": "s09_e24_c11_u027", "answer": "get this over with",
+      "options": ["get this over with", "put this up with", "keep this away from", "take this out on"] } ] },
+
+  { "expression": "dial it down", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to make your reaction or behaviour less intense",
+    "exchanges": [ { "uid": "s09_e24_c08_u008", "answer": "DIAL IT DOWN",
+      "options": ["DIAL IT DOWN", "CALL IT OFF", "HAND IT OVER", "TALK IT OUT"] } ] },
+
+  { "expression": "adjoining", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "next to and connected with something else, such as rooms with a door between them",
+    "exchanges": [ { "uid": "s09_e24_c01_u004", "answer": "adjoining",
+      "options": ["adjoining", "adjusting", "admiring", "adopting"] } ] },
+
+  { "expression": "call into question", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to cause doubt about whether something is true or correct",
+    "exchanges": [ { "uid": "s09_e24_c02_u001", "answer": "call into question",
+      "options": ["call into question", "bring into being", "put into practice", "take into account"] } ] },
+
+  { "expression": "groupie", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "an enthusiastic fan who follows a famous person, especially a musician, around",
+    "exchanges": [ { "uid": "s09_e24_c03_u025", "answer": "groupie",
+      "options": ["groupie", "rookie", "roadie", "hippie"] } ] },
+
+  { "expression": "trash talk", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "boastful or insulting talk meant to intimidate an opponent before or during a contest",
+    "exchanges": [ { "uid": "s09_e24_c06_u030", "answer": "trash talk",
+      "options": ["trash talk", "small talk", "pillow talk", "pep talk"] } ] },
+
+  { "expression": "forfeit", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to lose something, such as a point or a game, because you broke a rule",
+    "exchanges": [ { "uid": "s09_e24_c06_u036", "answer": "forfeits",
+      "options": ["forfeits", "forecasts", "forgives", "forbids"] } ] },
+
+  { "expression": "profusion", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a very large quantity or number of something",
+    "exchanges": [ { "uid": "s09_e24_c02_u003", "answer": "profusion",
+      "options": ["profusion", "confusion", "provision", "precision"] } ] }
+]

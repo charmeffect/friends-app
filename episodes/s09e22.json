@@ -1,0 +1,122 @@
+[
+  { "expression": "try on", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to put on a piece of clothing to see whether it fits or looks good",
+    "exchanges": [ { "uid": "s09_e22_c01_u015", "answer": "trying on",
+      "options": ["trying on", "giving away", "picking up", "handing out"] } ] },
+
+  { "expression": "wake up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to make someone stop sleeping",
+    "exchanges": [ { "uid": "s09_e22_c07_u011", "answer": "wake him up",
+      "options": ["wake him up", "pay him off", "turn him down", "let him go"] } ] },
+
+  { "expression": "you got it", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to agree to do what someone has just asked or suggested",
+    "exchanges": [ { "uid": "s09_e22_c11_u007", "answer": "You got it",
+      "options": ["You got it", "Never mind", "Too bad", "No wonder"], "responseUid": null } ] },
+
+  { "expression": "pick out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to choose or remove something from a group",
+    "exchanges": [ { "uid": "s09_e22_c01_u007", "answer": "picking out",
+      "options": ["picking out", "putting on", "giving away", "taking back"] } ] },
+
+  { "expression": "pain in the ass", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "a very annoying person or thing",
+    "exchanges": [ { "uid": "s09_e22_c01_u019", "answer": "Pain in the ass",
+      "options": ["Pain in the ass", "Apple of my eye", "Life of the party", "Salt of the earth"] } ] },
+
+  { "expression": "on a regular basis", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "often and at fairly even intervals over a period of time",
+    "exchanges": [ { "uid": "s09_e22_c01_u040", "answer": "on a regular basis",
+      "options": ["on a regular basis", "on a first date", "on a high note", "on a tight budget"] } ] },
+
+  { "expression": "small world", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said when you unexpectedly discover a connection between you and someone else",
+    "exchanges": [ { "uid": "s09_e22_c09_u007", "answer": "small world",
+      "options": ["small world", "big deal", "tough crowd", "close call"] } ] },
+
+  { "expression": "i'm there", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to say eagerly that you will definitely come or take part",
+    "exchanges": [ { "uid": "s09_e22_c02_u022", "answer": "I'm there",
+      "options": ["I'm there", "I'm sorry", "I'm done", "I'm lost"] } ] },
+
+  { "expression": "tune out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to stop paying attention to something and ignore it",
+    "exchanges": [ { "uid": "s09_e22_c01_u042", "answer": "tune it out",
+      "options": ["tune it out", "act it out", "turn it up", "point it out"] } ] },
+
+  { "expression": "up for", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "being considered as a candidate for a part, job, or prize",
+    "exchanges": [
+      { "uid": "s09_e22_c02_u007", "answer": "up for",
+        "options": ["up for", "in for", "down for", "out for"] },
+      { "uid": "s09_e22_c02_u011", "answer": "up for",
+        "options": ["up for", "in for", "down for", "out for"] } ] },
+
+  { "expression": "enough said", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "I understand completely, so there is no need to say any more",
+    "exchanges": [ { "uid": "s09_e22_c02_u035", "answer": "Enough said",
+      "options": ["Enough said", "No offense", "Long story", "Too bad"] } ] },
+
+  { "expression": "step up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to take action and accept responsibility when something needs to be done",
+    "exchanges": [ { "uid": "s09_e22_c02_u039", "answer": "Step up",
+      "options": ["Step up", "Back off", "Calm down", "Sit down"] } ] },
+
+  { "expression": "sweep someone off their feet", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make someone fall quickly and completely in love with you",
+    "exchanges": [ { "uid": "s09_e22_c04_u022", "answer": "off his feet",
+      "options": ["off his feet", "out of his mind", "under his skin", "on his toes"] } ] },
+
+  { "expression": "dread", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to feel very worried about something that is going to happen",
+    "exchanges": [ { "uid": "s09_e22_c11_u003", "answer": "dreading",
+      "options": ["dreading", "enjoying", "finishing", "resenting"] } ] },
+
+  { "expression": "out cold", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "completely unconscious or very deeply asleep",
+    "exchanges": [ { "uid": "s09_e22_c07_u010", "answer": "out cold",
+      "options": ["out cold", "in charge", "on fire", "up late"] } ] },
+
+  { "expression": "stick up for", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to defend or support someone who is being criticized",
+    "exchanges": [ { "uid": "s09_e22_c09_u016", "answer": "sticking up for",
+      "options": ["sticking up for", "looking down on", "catching up with", "running out of"] } ] },
+
+  { "expression": "eat one's heart out", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to feel jealous and full of regret about something or someone you cannot have",
+    "exchanges": [ { "uid": "s09_e22_c01_u024", "answer": "eat his heart out",
+      "options": ["eat his heart out", "keep his chin up", "bite his tongue", "pull his weight"] } ] },
+
+  { "expression": "inhospitable", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "unfriendly and difficult for anything to live or grow in",
+    "exchanges": [ { "uid": "s09_e22_c01_u033", "answer": "inhospitable",
+      "options": ["inhospitable", "incompatible", "irresistible", "indestructible"] } ] },
+
+  { "expression": "lose face", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to lose other people's respect or be embarrassed in public",
+    "exchanges": [
+      { "uid": "s09_e22_c11_u005", "answer": "lose face",
+        "options": ["lose face", "lose touch", "take turns", "break even"] },
+      { "uid": "s09_e22_c12_u020", "answer": "lose face",
+        "options": ["lose face", "lose touch", "take turns", "break even"] } ] },
+
+  { "expression": "tip of the iceberg", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "only a small, visible part of a much larger situation",
+    "exchanges": [ { "uid": "s09_e22_c12_u033", "answer": "Tip of the iceberg",
+      "options": ["Tip of the iceberg", "Top of the world", "End of the road", "Talk of the town"] } ] },
+
+  { "expression": "boundary issues", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "difficulty respecting the limits of what is appropriate when dealing with other people",
+    "exchanges": [ { "uid": "s09_e22_c12_u070", "answer": "boundary issues",
+      "options": ["boundary issues", "health issues", "money troubles", "sleep problems"] } ] },
+
+  { "expression": "the mind boggles", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "said when something is too amazing or complicated to fully imagine",
+    "exchanges": [ { "uid": "s09_e22_c03_u003", "answer": "the mind boggles",
+      "options": ["the mind boggles", "the bell tolls", "the coast clears", "the tide turns"] } ] },
+
+  { "expression": "upwind", "type": "word", "level": "expert", "pos": "adverb",
+    "meaning": "in the direction from which the wind is blowing",
+    "exchanges": [ { "uid": "s09_e22_c12_u029", "answer": "upwind",
+      "options": ["upwind", "upstairs", "upside", "uptown"] } ] }
+]
