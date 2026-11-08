@@ -1,0 +1,514 @@
+[
+{
+  "expression": "make it clear",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to express something so that there is no doubt about what you mean",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c01_u007",
+      "answer": "made it pretty clear",
+      "options": [
+        "made it pretty clear",
+        "kept it pretty quiet",
+        "left it pretty open",
+        "took it pretty hard"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kick out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to force someone to leave a place where they were living or staying",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c02_u021",
+      "answer": "kicked me out",
+      "options": [
+        "kicked me out",
+        "picked me up",
+        "let me down",
+        "turned me in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mass-produced",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "made in very large numbers by machines in a factory, so that every copy is the same",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c02_u025",
+      "answer": "mass produced",
+      "options": [
+        "mass produced",
+        "hand crafted",
+        "second hand",
+        "locally grown"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one of a kind",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unique, with nothing else exactly like it",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c02_u027",
+      "answer": "one of a kind",
+      "options": [
+        "one of a kind",
+        "all of a sudden",
+        "out of the way",
+        "on the house"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "never hear the end of it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have someone keep talking or complaining about something for a long time",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c02_u031",
+      "answer": "end",
+      "options": [
+        "end",
+        "worst",
+        "price",
+        "truth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the days of yore",
+  "type": "phrase",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a long time ago in the past",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c04_u023",
+      "answer": "days of yore",
+      "options": [
+        "days of yore",
+        "age of reason",
+        "turn of events",
+        "point of view"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "apothecary",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "an old word for a person or shop that made and sold medicines",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c04_u007",
+      "answer": "apothecary",
+      "options": [
+        "apothecary",
+        "cartography",
+        "taxidermy",
+        "haberdashery"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to meet someone socially",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c03_u003",
+      "answer": "got together",
+      "options": [
+        "got together",
+        "got away",
+        "got through",
+        "got by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get out of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to avoid doing something you are supposed to do",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c03_u018",
+      "answer": "get out of",
+      "options": [
+        "get out of",
+        "look out for",
+        "keep up with",
+        "put up with"
+      ]
+    },
+    {
+      "uid": "s06_e11_c06_u011",
+      "answer": "get out of",
+      "options": [
+        "get out of",
+        "look out for",
+        "keep up with",
+        "come up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a row",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "one after another without a break",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c03_u020",
+      "answer": "in a row",
+      "options": [
+        "in a row",
+        "in a while",
+        "on the way",
+        "at a glance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blah",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "dull, boring, and without any interesting qualities",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c03_u024",
+      "cueUid": "s06_e11_c03_u021",
+      "answer": "blah",
+      "options": [
+        "blah",
+        "rude",
+        "fake",
+        "cheap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a hoot",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person or thing that is very funny and fun to be with",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c07_u012",
+      "answer": "hoot",
+      "options": [
+        "hoot",
+        "bore",
+        "snob",
+        "mess"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lie to someone's face",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to tell someone a lie directly while talking to them",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c07_u010",
+      "answer": "to our faces",
+      "options": [
+        "to our faces",
+        "on our side",
+        "in our way",
+        "at our door"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to change your opinion and start to accept or like someone or something",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c07_u017",
+      "answer": "come around",
+      "options": [
+        "come around",
+        "come apart",
+        "come across",
+        "come down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get along",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have a friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c09_u012",
+      "answer": "get along",
+      "options": [
+        "get along",
+        "get away",
+        "get by",
+        "get off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sneak around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to meet or do something secretly so that other people do not find out",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c09_u014",
+      "answer": "sneak around",
+      "options": [
+        "sneak around",
+        "show off",
+        "settle down",
+        "hang up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rip off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to copy someone else's idea or design without permission",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c08_u013",
+      "cueUid": "s06_e11_c08_u011",
+      "answer": "ripped off",
+      "options": [
+        "ripped off",
+        "cut off",
+        "turned off",
+        "worn off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go a little crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do or buy much more of something than is sensible",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c10_u004",
+      "answer": "went a little crazy",
+      "options": [
+        "went a little crazy",
+        "felt a little sick",
+        "ran a little late",
+        "got a little cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "knock-off",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a cheap copy of a well-known product or design",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c10_u017",
+      "answer": "knock-offs",
+      "options": [
+        "knock-offs",
+        "sign-ups",
+        "refunds",
+        "leftovers"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have an eye for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be naturally good at noticing and judging a particular kind of thing",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c10_u015",
+      "answer": "eye for",
+      "options": [
+        "eye for",
+        "ear to",
+        "hand in",
+        "mind on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get over it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "stop being upset about something that is not important",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c05_u018",
+      "answer": "get over it",
+      "options": [
+        "get over it",
+        "run into it",
+        "look into it",
+        "come up with it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "loosen the purse strings",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to be willing to spend more money",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c05_u030",
+      "responseUid": null,
+      "answer": "loosen the purse strings",
+      "options": [
+        "loosen the purse strings",
+        "pull the right strings",
+        "cut the apron strings",
+        "tie the loose ends"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work it out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to solve a problem or settle a disagreement with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c12_u032",
+      "answer": "worked things out",
+      "options": [
+        "worked things out",
+        "put things off",
+        "turned things down",
+        "mixed things up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "break up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c13_u006",
+      "answer": "broke up with",
+      "options": [
+        "broke up with",
+        "came up with",
+        "kept up with",
+        "looked up to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cheer up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel happier",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c13_u010",
+      "answer": "cheer you up",
+      "options": [
+        "cheer you up",
+        "let you down",
+        "wear you out",
+        "mix you up"
+      ]
+    }
+  ]
+}
+]

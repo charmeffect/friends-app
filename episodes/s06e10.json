@@ -1,0 +1,503 @@
+[
+{
+  "expression": "hold it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "stop or wait a moment, said to interrupt someone",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u018",
+      "answer": "Hold it",
+      "options": [
+        "Hold it",
+        "Beat it",
+        "Grab it",
+        "Push it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch you later",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "an informal way of saying goodbye and that you will see someone again soon",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u035",
+      "answer": "Catch you later",
+      "options": [
+        "Catch you later",
+        "Catch you inside",
+        "Catch you out",
+        "Catch you early"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "find out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to learn or discover a piece of information",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u043",
+      "answer": "find out",
+      "options": [
+        "find out",
+        "hand out",
+        "give out",
+        "find in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ask out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone on a date",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u039",
+      "answer": "ask me out",
+      "options": [
+        "ask me out",
+        "ask me off",
+        "ask me down",
+        "ask me through"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c03_u002",
+      "answer": "no big deal",
+      "options": [
+        "no big deal",
+        "no hard feelings",
+        "no free lunch",
+        "no way out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no biggie",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "it is not a problem or not important",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c05_u003",
+      "answer": "No biggie",
+      "options": [
+        "No biggie",
+        "No dice",
+        "No way",
+        "No kidding"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "suck",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very bad or disappointing",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u002",
+      "answer": "sucks",
+      "options": [
+        "sucks",
+        "rocks",
+        "works",
+        "counts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stick to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to continue following a plan or schedule without changing it",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u032",
+      "answer": "stick to",
+      "options": [
+        "stick to",
+        "stick out",
+        "stick up",
+        "stick around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sense of direction",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the natural ability to know which way to go to reach a place",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c10_u004",
+      "answer": "sense of direction",
+      "options": [
+        "sense of direction",
+        "sense of humour",
+        "sense of duty",
+        "sense of timing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ahead of time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "before the time when something happens or is needed",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u027",
+      "answer": "ahead of time",
+      "options": [
+        "ahead of time",
+        "out of time",
+        "in no time",
+        "at all times"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be over someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to no longer have romantic feelings for someone",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u013",
+      "answer": "so over",
+      "options": [
+        "so over",
+        "so into",
+        "so up",
+        "so off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "old news",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "someone or something that is no longer new or interesting",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u013",
+      "answer": "OLD NEWS",
+      "options": [
+        "OLD NEWS",
+        "BIG NEWS",
+        "FRESH NEWS",
+        "GOOD NEWS"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "loosen",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make a part of your body less stiff or tight",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c05_u016",
+      "answer": "loosened",
+      "options": [
+        "loosened",
+        "tightened",
+        "flattened",
+        "hardened"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a shot at",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have a real chance of getting or achieving something",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c05_u025",
+      "answer": "have a shot",
+      "options": [
+        "have a shot",
+        "have a seat",
+        "have a ball",
+        "have a fit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "win over",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to like you or support you",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c08_u004",
+      "answer": "win her over",
+      "options": [
+        "win her over",
+        "hand her over",
+        "pass her over",
+        "turn her over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go overboard",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something too much or with more enthusiasm than is suitable",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u022",
+      "answer": "overboard",
+      "options": [
+        "overboard",
+        "underground",
+        "offshore",
+        "upstream"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come down to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to depend on or be decided by one final thing or moment",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u034",
+      "answer": "comes down to",
+      "options": [
+        "comes down to",
+        "comes up with",
+        "goes back to",
+        "gets out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "priceless",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely funny or wonderful to see, worth more than any price",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c10_u033",
+      "answer": "priceless",
+      "responseUid": null,
+      "options": [
+        "priceless",
+        "spotless",
+        "careless",
+        "helpless"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be onto someone",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to have discovered or begun to suspect what someone is secretly doing",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c04_u028",
+      "answer": "onto us",
+      "options": [
+        "onto us",
+        "into us",
+        "over us",
+        "off us"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wily",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "clever at getting what you want, especially by tricking people",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c04_u009",
+      "answer": "wily",
+      "options": [
+        "wily",
+        "lazy",
+        "shy",
+        "clumsy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mellow",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "calm, relaxed, and not wild or loud",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c08_u006",
+      "answer": "mellow",
+      "options": [
+        "mellow",
+        "fancy",
+        "tidy",
+        "spicy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a hike",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a rude way of telling someone to go away",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u024",
+      "answer": "take a hike",
+      "options": [
+        "take a hike",
+        "take a bow",
+        "take a seat",
+        "take a chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fair game",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "someone or something that it is acceptable to pursue, criticize, or compete for",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c08_u009",
+      "answer": "fair game",
+      "options": [
+        "fair game",
+        "fair play",
+        "free time",
+        "fine print"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's a wrap",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "said when the filming or work for the day is finished",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u038",
+      "answer": "that's a wrap",
+      "responseUid": null,
+      "options": [
+        "that's a wrap",
+        "that's a gift",
+        "that's a trap",
+        "that's a catch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blooper",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a funny mistake made while filming a show, often shown later for laughs",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u018",
+      "answer": "bloopers",
+      "options": [
+        "bloopers",
+        "sponsors",
+        "viewers",
+        "critics"
+      ]
+    }
+  ]
+}
+]
