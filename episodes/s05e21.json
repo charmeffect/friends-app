@@ -1,0 +1,126 @@
+[
+  { "expression": "get it", "type": "colloquial", "level": "elementary", "pos": "verb",
+    "meaning": "to understand what someone means",
+    "exchanges": [ { "uid": "s05_e21_c05_u026", "answer": "get it",
+      "options": ["get it", "see it", "have it", "take it"] } ] },
+
+  { "expression": "feel like", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to want to do something at that moment",
+    "exchanges": [ { "uid": "s05_e21_c11_u014", "answer": "feel like",
+      "options": ["feel like", "think of", "look at", "stand by"] } ] },
+
+  { "expression": "way to go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to congratulate someone on doing something well",
+    "exchanges": [ { "uid": "s05_e21_c01_u028", "answer": "way to go",
+      "options": ["way to go", "time to go", "here we go", "off you go"] } ] },
+
+  { "expression": "back and forth", "type": "phrase", "level": "elementary", "pos": "adverb",
+    "meaning": "repeatedly from one place to another and back again",
+    "exchanges": [ { "uid": "s05_e21_c02_u042", "answer": "back and forth",
+      "options": ["back and forth", "over and out", "in and out", "now and then"] } ] },
+
+  { "expression": "move in with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start living in the same home as someone",
+    "exchanges": [ { "uid": "s05_e21_c01_u012", "answer": "move in with",
+      "options": ["move in with", "put up with", "catch up with", "come up with"] } ] },
+
+  { "expression": "hold it in", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to keep a secret or a feeling to yourself instead of letting it out",
+    "exchanges": [ { "uid": "s05_e21_c01_u024", "answer": "hold it in",
+      "options": ["hold it in", "let it go", "put it off", "take it back"] } ] },
+
+  { "expression": "owe", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to need to give something to someone because they gave you something or you took it from them",
+    "exchanges": [ { "uid": "s05_e21_c04_u038", "answer": "owe",
+      "options": ["owe", "earn", "spend", "waste"] } ] },
+
+  { "expression": "that was close", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said with relief when something bad very nearly happened",
+    "exchanges": [ { "uid": "s05_e21_c06_u028", "answer": "that was close",
+      "options": ["that was close", "that was fast", "that was far", "that was long"] } ] },
+
+  { "expression": "keep in mind", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to remember a fact and consider it",
+    "exchanges": [ { "uid": "s05_e21_c09_u021", "answer": "keep that in mind",
+      "options": ["keep that in mind", "take that in hand", "put that in place", "hold that in check"] } ] },
+
+  { "expression": "insane", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "extremely foolish or crazy",
+    "exchanges": [ { "uid": "s05_e21_c03_u010", "answer": "insane",
+      "options": ["insane", "intense", "insecure", "innocent"] } ] },
+
+  { "expression": "split the cost", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to divide an expense between people so that each pays a share",
+    "exchanges": [ { "uid": "s05_e21_c06_u045", "answer": "split the cost",
+      "options": ["split the cost", "cut the line", "pay the rent", "hold the fee"] } ] },
+
+  { "expression": "here's the thing", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to introduce the main point or an awkward explanation",
+    "exchanges": [ { "uid": "s05_e21_c05_u016", "answer": "Here's the thing", "responseUid": "s05_e21_c05_u018",
+      "options": ["Here's the thing", "There's the point", "That's the deal", "Where's the catch"] } ] },
+
+  { "expression": "jinx", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to bring bad luck to something by talking about it too soon",
+    "exchanges": [ { "uid": "s05_e21_c02_u011", "answer": "jinx",
+      "options": ["jinx", "flunk", "rig", "stall"] } ] },
+
+  { "expression": "commitment", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a promise or decision that ties you to someone or something for a long time",
+    "exchanges": [ { "uid": "s05_e21_c05_u007", "answer": "commitment",
+      "options": ["commitment", "compliment", "competition", "complication"] } ] },
+
+  { "expression": "flip out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to suddenly become extremely angry or lose control",
+    "exchanges": [ { "uid": "s05_e21_c04_u036", "answer": "flipped out",
+      "options": ["flipped out", "backed off", "showed up", "passed out"] } ] },
+
+  { "expression": "store credit", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "money you can spend only in the shop that gave it to you, usually after returning an item",
+    "exchanges": [ { "uid": "s05_e21_c06_u024", "answer": "store credit",
+      "options": ["store credit", "spare change", "price tag", "bank loan"] } ] },
+
+  { "expression": "overreact", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to respond to something much more strongly than is reasonable",
+    "exchanges": [ { "uid": "s05_e21_c06_u029", "answer": "overreacted", "responseUid": null,
+      "options": ["overreacted", "overslept", "overheard", "overlooked"] } ] },
+
+  { "expression": "open up", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to become available, for example a home or a job",
+    "exchanges": [ { "uid": "s05_e21_c07_u007", "answer": "opens up",
+      "options": ["opens up", "gives in", "takes off", "turns out"] } ] },
+
+  { "expression": "suck it up", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "accept something unpleasant without complaining and get on with it",
+    "exchanges": [ { "uid": "s05_e21_c09_u003", "answer": "Suck it up",
+      "options": ["Suck it up", "Spit it out", "Sleep it off", "Pass it on"] } ] },
+
+  { "expression": "extravagant", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "costing much more than is reasonable or necessary",
+    "exchanges": [ { "uid": "s05_e21_c02_u032", "answer": "extravagant",
+      "options": ["extravagant", "elaborate", "eccentric", "exquisite"] } ] },
+
+  { "expression": "purebred", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "bred from parents of the same recognized breed, without mixing",
+    "exchanges": [ { "uid": "s05_e21_c02_u030", "answer": "purebred",
+      "options": ["purebred", "homegrown", "oversized", "second-hand"] } ] },
+
+  { "expression": "good for nothing", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a useless, worthless person",
+    "exchanges": [ { "uid": "s05_e21_c05_u009", "answer": "good for nothing",
+      "options": ["good for nothing", "sick and tired", "down and out", "free of charge"] } ] },
+
+  { "expression": "haggle", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to argue about a price until both sides agree",
+    "exchanges": [ { "uid": "s05_e21_c08_u019", "answer": "haggle", "responseUid": null,
+      "options": ["haggle", "gamble", "juggle", "giggle"] } ] },
+
+  { "expression": "rob someone blind", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to cheat someone out of a great deal of money",
+    "exchanges": [ { "uid": "s05_e21_c08_u019", "answer": "robbing me blind", "responseUid": null,
+      "options": ["robbing me blind", "taking me down", "selling me short", "cutting me loose"] } ] },
+
+  { "expression": "minion", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a follower or servant who obeys a powerful person without question",
+    "exchanges": [ { "uid": "s05_e21_c06_u022", "answer": "minion",
+      "options": ["minion", "mentor", "martyr", "maiden"] } ] }
+]
