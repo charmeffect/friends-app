@@ -1,0 +1,126 @@
+[
+  { "expression": "go through", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to experience a difficult or unpleasant period",
+    "exchanges": [ { "uid": "s07_e05_c02_u014", "answer": "going through",
+      "options": ["going through", "getting by", "coming across", "running into"] } ] },
+
+  { "expression": "fill out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to complete a form by writing the required information in the spaces",
+    "exchanges": [ { "uid": "s07_e05_c03_u007", "answer": "filled them out",
+      "options": ["filled them out", "gave them up", "let them down", "took them off"] } ] },
+
+  { "expression": "deal with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to take action to solve a problem or handle a person",
+    "exchanges": [ { "uid": "s07_e05_c07_u014", "answer": "deal with",
+      "options": ["deal with", "stand in", "dress up", "break into"] } ] },
+
+  { "expression": "have a crush on", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to have a strong, often secret, romantic attraction to someone",
+    "exchanges": [ { "uid": "s07_e05_c02_u020", "answer": "have a crush on",
+      "options": ["have a crush on", "have a hold on", "have a grip on", "have a word with"] } ] },
+
+  { "expression": "creep", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "an unpleasant or strange person who makes others feel uncomfortable",
+    "exchanges": [ { "uid": "s07_e05_c01_u011", "answer": "creep",
+      "options": ["creep", "pilot", "clerk", "judge"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s07_e05_c07_u013", "answer": "freak out",
+      "options": ["freak out", "back off", "show off", "sign up"] } ] },
+
+  { "expression": "end up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [ { "uid": "s07_e05_c08_u018", "answer": "ended up",
+      "options": ["ended up", "gave up", "made up", "set up"] } ] },
+
+  { "expression": "can't help it", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to be unable to stop yourself from doing something",
+    "exchanges": [ { "uid": "s07_e05_c10_u003", "answer": "help it",
+      "options": ["help it", "earn it", "rent it", "sell it"] } ] },
+
+  { "expression": "get over", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to recover from something unpleasant, such as a breakup",
+    "exchanges": [ { "uid": "s07_e05_c10_u024", "answer": "get over",
+      "options": ["get over", "get into", "get away", "get along"] } ] },
+
+  { "expression": "get back together", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start a relationship or partnership again after it has ended",
+    "exchanges": [ { "uid": "s07_e05_c14_u022", "answer": "gettin' back together",
+      "options": ["gettin' back together", "gettin' even again", "goin' off alone", "stayin' up late"] } ] },
+
+  { "expression": "give it another try", "type": "phrase", "level": "middle", "pos": "expression",
+    "meaning": "to attempt something again after it has failed once",
+    "exchanges": [ { "uid": "s07_e05_c15_u014", "answer": "give it another try",
+      "options": ["give it another try", "take it too far", "make it a habit", "leave it at that"] } ] },
+
+  { "expression": "take a good picture", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to look good in photographs",
+    "exchanges": [ { "uid": "s07_e05_c01_u012", "answer": "take a good picture",
+      "options": ["take a good picture", "make a good point", "give a good speech", "hold a good grudge"] } ] },
+
+  { "expression": "on full alert", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "watching very carefully for possible danger or trouble",
+    "exchanges": [ { "uid": "s07_e05_c08_u026", "answer": "on full alert",
+      "options": ["on full alert", "on short notice", "on thin ice", "in full swing"] } ] },
+
+  { "expression": "see it coming", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to realize in advance that something is going to happen",
+    "exchanges": [ { "uid": "s07_e05_c14_u007", "answer": "see that coming",
+      "options": ["see that coming", "hear that clearly", "get that right", "take that personally"] } ] },
+
+  { "expression": "better off", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "in a better situation than you would be otherwise",
+    "exchanges": [ { "uid": "s07_e05_c15_u027", "answer": "better off",
+      "options": ["better off", "fed up", "run down", "cut off"] } ] },
+
+  { "expression": "spontaneous", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "happening naturally and without planning",
+    "exchanges": [ { "uid": "s07_e05_c10_u006", "answer": "spontaneous",
+      "options": ["spontaneous", "expensive", "dangerous", "complicated"] } ] },
+
+  { "expression": "whining", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "complaining in an annoying, childish way",
+    "exchanges": [ { "uid": "s07_e05_c15_u015", "answer": "whining",
+      "options": ["whining", "cooking", "singing", "laughing"] } ] },
+
+  { "expression": "act on", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to do something because of a feeling, idea, or piece of information",
+    "exchanges": [ { "uid": "s07_e05_c02_u023", "answer": "act on",
+      "options": ["act on", "count on", "live with", "run from"] } ] },
+
+  { "expression": "divert", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to draw someone's attention away from something",
+    "exchanges": [ { "uid": "s07_e05_c07_u017", "answer": "divert",
+      "options": ["divert", "diverge", "dilute", "deprive"] } ] },
+
+  { "expression": "consider the source", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "think about who said something before believing it, because they may be biased",
+    "exchanges": [ { "uid": "s07_e05_c08_u030", "answer": "consider the source",
+      "options": ["consider the source", "mind the gap", "read the room", "pay the price"] } ] },
+
+  { "expression": "throw something in someone's face", "type": "colloquial", "level": "college", "pos": "verb",
+    "meaning": "to remind someone of a past mistake in order to blame or hurt them",
+    "exchanges": [ { "uid": "s07_e05_c13_u013", "answer": "in my face",
+      "options": ["in my face", "off my back", "on my plate", "under my skin"] } ] },
+
+  { "expression": "reminisce", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to talk or think with pleasure about past experiences",
+    "exchanges": [ { "uid": "s07_e05_c15_u011", "answer": "reminiscing",
+      "options": ["reminiscing", "renovating", "negotiating", "meditating"] } ] },
+
+  { "expression": "presumptuous", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "too confident, doing something you have no right to do",
+    "exchanges": [ { "uid": "s07_e05_c07_u010", "answer": "presumptuous",
+      "options": ["presumptuous", "punctual", "ambidextrous", "nostalgic"] } ] },
+
+  { "expression": "not give a rat's ass", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "to not care at all about something",
+    "exchanges": [ { "uid": "s07_e05_c15_u023", "answer": "rat's ass",
+      "options": ["rat's ass", "cat's tail", "dog's bone", "bird's nest"] } ] },
+
+  { "expression": "pull at a thread", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to start looking into something that could reveal unpleasant truths if examined further",
+    "exchanges": [ { "uid": "s07_e05_c07_u005", "answer": "pull at that thread", "responseUid": null,
+      "options": ["pull at that thread", "sit on that fence", "jump that gun", "cross that bridge"] } ] }
+]

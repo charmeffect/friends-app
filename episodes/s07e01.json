@@ -1,0 +1,422 @@
+[
+{
+  "expression": "on your own",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c02_u010",
+      "answer": "on your own",
+      "options": [
+        "on your own",
+        "in your way",
+        "at your place",
+        "by your side"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check it out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to make someone look at something interesting you are showing them",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c04_u004",
+      "answer": "Check it out",
+      "options": [
+        "Check it out",
+        "Take it off",
+        "Put it on",
+        "Give it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "burn down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to destroy a building completely by fire",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c02_u009",
+      "answer": "burned down",
+      "options": [
+        "burned down",
+        "turned down",
+        "broke into",
+        "moved out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dress up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to put on nice or special clothes for an occasion",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c02_u011",
+      "answer": "dressed up",
+      "options": [
+        "dressed up",
+        "grown up",
+        "held up",
+        "mixed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "break up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c05_u039",
+      "answer": "break up",
+      "options": [
+        "break up",
+        "show up",
+        "grow up",
+        "give up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get back together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start a relationship or partnership again after it has ended",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c08_u011",
+      "answer": "getting back together",
+      "options": [
+        "getting back together",
+        "looking back over",
+        "lying back down",
+        "holding back off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to treat something as more important or serious than it is",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c08_u020",
+      "answer": "make a big deal",
+      "options": [
+        "make a big deal",
+        "take a big step",
+        "have a bad day",
+        "give a big hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get rid of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove or sell something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u027",
+      "answer": "get rid of",
+      "options": [
+        "get rid of",
+        "get hold of",
+        "get out of",
+        "get ahead of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "break someone's heart",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone very sad, especially by ending a relationship with them",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u021",
+      "answer": "break your heart",
+      "options": [
+        "break your heart",
+        "make your day",
+        "keep your word",
+        "save your seat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deposit",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a part of a payment made in advance to reserve something",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u015",
+      "answer": "deposit",
+      "options": [
+        "deposit",
+        "receipt",
+        "discount",
+        "license"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "call off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to cancel a planned event",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u058",
+      "answer": "calling it off",
+      "options": [
+        "calling it off",
+        "calling it up",
+        "calling it in",
+        "calling it out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kick someone's ass",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to beat someone up or defeat them completely",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c01_u018",
+      "answer": "kick your ass",
+      "options": [
+        "kick your ass",
+        "hold your hand",
+        "pull your leg",
+        "save your neck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shake it off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to tell someone to stop feeling upset or shocked and recover quickly",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c05_u023",
+      "answer": "Shake it off",
+      "options": [
+        "Shake it off",
+        "Back it up",
+        "Turn it on",
+        "Wrap it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fair enough",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to accept that what someone has said is reasonable",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c07_u006",
+      "answer": "Fair enough",
+      "options": [
+        "Fair enough",
+        "Sure enough",
+        "Soon enough",
+        "Close enough"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone away",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show something about a person that they are trying to hide",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u026",
+      "answer": "give you away",
+      "options": [
+        "give you away",
+        "take you in",
+        "pick you up",
+        "bring you round"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make out with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kiss and touch someone in a sexual way",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u052",
+      "answer": "made out with",
+      "options": [
+        "made out with",
+        "run out of",
+        "come up with",
+        "given up on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dignity",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a sense of pride and self-respect",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u059",
+      "answer": "dignity",
+      "options": [
+        "dignity",
+        "identity",
+        "density",
+        "energy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no strings attached",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "given or offered without any conditions or expectations in return",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c05_u040",
+      "answer": "No strings attached",
+      "options": [
+        "No strings attached",
+        "No hard feelings",
+        "No harm done",
+        "No turning back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "resentful",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "feeling bitter or angry because you think something is unfair",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u061",
+      "answer": "resentful",
+      "options": [
+        "resentful",
+        "respectful",
+        "resourceful",
+        "restful"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "steal someone's thunder",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to take the attention or praise that someone else expected to get",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u036",
+      "answer": "stolen my thunder",
+      "responseUid": "s07_e01_c10_u040",
+      "options": [
+        "stolen my thunder",
+        "burned my bridges",
+        "bitten my tongue",
+        "held my horses"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whack",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "bad, unfair, or uncool",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c08_u050",
+      "answer": "whack",
+      "options": [
+        "whack",
+        "fresh",
+        "chill",
+        "neat"
+      ]
+    }
+  ]
+}
+]

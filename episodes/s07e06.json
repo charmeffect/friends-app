@@ -1,0 +1,121 @@
+[
+  { "expression": "maid of honor", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "the bride's main female friend or relative who helps her before and during the wedding",
+    "exchanges": [ { "uid": "s07_e06_c01_u002", "answer": "maid of honor",
+      "options": ["maid of honor", "state of mind", "matter of fact", "point of view"] } ] },
+
+  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to think of an idea or plan",
+    "exchanges": [ { "uid": "s07_e06_c01_u008", "answer": "come up with",
+      "options": ["come up with", "put up with", "get away with", "catch up on"] } ] },
+
+  { "expression": "make a toast", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to say a few words in honor of someone and then drink with everyone",
+    "exchanges": [ { "uid": "s07_e06_c01_u020", "answer": "make a toast",
+      "options": ["make a toast", "take a bow", "make a fuss", "hold a grudge"] } ] },
+
+  { "expression": "can't help doing", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unable to avoid doing something, even if you are not trying to",
+    "exchanges": [ { "uid": "s07_e06_c01_u024", "answer": "couldn't help",
+      "options": ["couldn't help", "couldn't bear", "couldn't keep", "couldn't let"] } ] },
+
+  { "expression": "double feature", "type": "phrase", "level": "high", "pos": "noun",
+    "meaning": "two movies shown or watched one after the other",
+    "exchanges": [ { "uid": "s07_e06_c02_u003", "answer": "double feature",
+      "options": ["double feature", "double standard", "dead heat", "rain check"] } ] },
+
+  { "expression": "worked up", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "upset, angry, or very excited about something",
+    "exchanges": [ { "uid": "s07_e06_c02_u015", "answer": "worked up",
+      "options": ["worked up", "washed up", "tied up", "dressed up"] } ] },
+
+  { "expression": "no way", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "used to say that something is impossible or will definitely not happen",
+    "exchanges": [ { "uid": "s07_e06_c03_u009", "answer": "No way",
+      "options": ["No way", "No wonder", "No doubt", "No problem"] } ] },
+
+  { "expression": "break up with", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a romantic relationship with someone",
+    "exchanges": [ { "uid": "s07_e06_c05_u020", "answer": "broke up with",
+      "options": ["broke up with", "made up with", "caught up with", "put up with"] } ] },
+
+  { "expression": "flip a coin", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to toss a coin in the air and let the side it lands on decide something",
+    "exchanges": [ { "uid": "s07_e06_c06_u017", "answer": "flip a coin",
+      "options": ["flip a coin", "pay a bill", "turn a page", "break a leg"] } ] },
+
+  { "expression": "hypothetical", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "imagined as a possible situation rather than real",
+    "exchanges": [ { "uid": "s07_e06_c08_u002", "answer": "hypothetical",
+      "options": ["hypothetical", "historical", "hysterical", "habitual"] } ] },
+
+  { "expression": "get cold feet", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to suddenly become nervous and unsure about doing something you planned, such as getting married",
+    "exchanges": [ { "uid": "s07_e06_c08_u005", "answer": "cold feet",
+      "options": ["cold feet", "cold hands", "hot water", "thin ice"] } ] },
+
+  { "expression": "run out on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to leave someone who depends on you, suddenly abandoning them",
+    "exchanges": [ { "uid": "s07_e06_c08_u011", "answer": "ran out on",
+      "options": ["ran out on", "walked in on", "signed up for", "cut back on"] } ] },
+
+  { "expression": "draw on", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to use your knowledge or experience to help you do something",
+    "exchanges": [ { "uid": "s07_e06_c08_u012", "answer": "Drawing on",
+      "options": ["Drawing on", "Cutting off", "Giving up", "Running into"] } ] },
+
+  { "expression": "kiss ass", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a person who flatters people in authority to win their favor",
+    "exchanges": [ { "uid": "s07_e06_c08_u016", "answer": "kiss ass",
+      "options": ["kiss ass", "night owl", "couch potato", "early bird"] } ] },
+
+  { "expression": "make a scene", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to make a loud, embarrassing fuss in front of other people",
+    "exchanges": [ { "uid": "s07_e06_c08_u024", "answer": "made a scene",
+      "options": ["made a scene", "made a wish", "took a bow", "took a seat"] } ] },
+
+  { "expression": "embark upon", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to start something new, important, or exciting",
+    "exchanges": [ { "uid": "s07_e06_c08_u031", "answer": "embark upon",
+      "options": ["embark upon", "frown upon", "impose upon", "dwell upon"] } ] },
+
+  { "expression": "get back in the game", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to start dating or competing again after a long break",
+    "exchanges": [ { "uid": "s07_e06_c08_u039", "answer": "back in the game", "responseUid": null,
+      "options": ["back in the game", "out of the loop", "on the fence", "off the hook"] } ] },
+
+  { "expression": "overdue", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "happening later than it should have or than was expected",
+    "exchanges": [ { "uid": "s07_e06_c09_u006", "answer": "overdue",
+      "options": ["overdue", "overrated", "overgrown", "overjoyed"] } ] },
+
+  { "expression": "take a lot out of", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to make someone very tired or use up a lot of their energy",
+    "exchanges": [ { "uid": "s07_e06_c10_u012", "answer": "took a lot",
+      "options": ["took a lot", "made a lot", "kept a lot", "brought a lot"] } ] },
+
+  { "expression": "balloon up", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to get much bigger or fatter very quickly",
+    "exchanges": [ { "uid": "s07_e06_c11_u020", "answer": "balloon up",
+      "options": ["balloon up", "bottle up", "butter up", "buckle up"] } ] },
+
+  { "expression": "have a way with", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to be naturally good at charming or dealing with a certain kind of person",
+    "exchanges": [ { "uid": "s07_e06_c11_u024", "answer": "got a way with", "responseUid": null,
+      "options": ["got a way with", "got a grip on", "got a hold of", "got a word with"] } ] },
+
+  { "expression": "just in case", "type": "phrase", "level": "middle", "pos": "adverb",
+    "meaning": "as a precaution, in case something is needed later",
+    "exchanges": [ { "uid": "s07_e06_c12_u008", "answer": "just in case",
+      "options": ["just in case", "just in time", "just as well", "just for once"] } ] },
+
+  { "expression": "man alive", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "an old-fashioned exclamation of surprise or shock",
+    "exchanges": [ { "uid": "s07_e06_c12_u021", "answer": "Man alive",
+      "options": ["Man alive", "Man made", "Man hours", "Man size"] } ] },
+
+  { "expression": "what do you say", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "used to make a suggestion and ask whether the other person agrees",
+    "exchanges": [ { "uid": "s07_e06_c12_u025", "answer": "What do you say",
+      "options": ["What do you say", "Who do you know", "Where do you go", "How do you feel"] } ] }
+]

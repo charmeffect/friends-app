@@ -1,0 +1,121 @@
+[
+  { "expression": "have a seat", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "sit down (said politely to a guest)",
+    "exchanges": [ { "uid": "s07_e04_c03_u015", "answer": "have a seat",
+      "options": ["have a seat", "take a hike", "make a wish", "get a grip"] } ] },
+
+  { "expression": "it's been a while", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said when you have not seen someone or done something for a long time",
+    "exchanges": [ { "uid": "s07_e04_c06_u005", "answer": "It's been a while",
+      "options": ["It's been a while", "It's been a mistake", "It's been a secret", "It's been a lie"] } ] },
+
+  { "expression": "hang on", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "wait a moment",
+    "exchanges": [ { "uid": "s07_e04_c09_u009", "answer": "hang on",
+      "options": ["hang on", "hang up", "hang out", "hang around"] } ] },
+
+  { "expression": "work out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to happen or develop successfully",
+    "exchanges": [ { "uid": "s07_e04_c09_u004", "answer": "working out", "responseUid": "s07_e04_c09_u006",
+      "options": ["working out", "dropping by", "calling in", "showing off"] } ] },
+
+  { "expression": "you can say that again", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to strongly agree with what someone has just said",
+    "exchanges": [ { "uid": "s07_e04_c01_u003", "answer": "say that again",
+      "options": ["say that again", "take that back", "keep that quiet", "write that down"] } ] },
+
+  { "expression": "stuck with", "type": "colloquial", "level": "middle", "pos": "adjective",
+    "meaning": "forced to keep or deal with someone or something you did not choose",
+    "exchanges": [ { "uid": "s07_e04_c01_u021", "answer": "stuck with",
+      "options": ["stuck with", "proud of", "bored of", "known for"] } ] },
+
+  { "expression": "pay raise", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "an increase in the amount of money you are paid for your job",
+    "exchanges": [ { "uid": "s07_e04_c02_u025", "answer": "pay raise",
+      "options": ["pay raise", "pay cut", "job title", "day off"] } ] },
+
+  { "expression": "impressive", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "good enough to make people admire it",
+    "exchanges": [ { "uid": "s07_e04_c03_u004", "answer": "impressive",
+      "options": ["impressive", "expensive", "aggressive", "excessive"] } ] },
+
+  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to vomit",
+    "exchanges": [ { "uid": "s07_e04_c04_u016", "answer": "threw up", "responseUid": null,
+      "options": ["threw up", "showed off", "cheered up", "dressed up"] } ] },
+
+  { "expression": "I'll pass", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to politely refuse something that is offered",
+    "exchanges": [ { "uid": "s07_e04_c08_u022", "answer": "I'll pass",
+      "options": ["I'll pass", "I'll bite", "I'll stay", "I'll wait"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s07_e04_c15_u017", "answer": "ask out",
+      "options": ["ask out", "freak out", "point out", "lock out"] } ] },
+
+  { "expression": "narrow down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to reduce the number of possibilities to a few",
+    "exchanges": [ { "uid": "s07_e04_c05_u004", "answer": "narrowed down",
+      "options": ["narrowed down", "written down", "calmed down", "turned down"] } ] },
+
+  { "expression": "qualified", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "having the skills, training, or experience needed for a job",
+    "exchanges": [ { "uid": "s07_e04_c05_u007", "answer": "qualified",
+      "options": ["qualified", "satisfied", "terrified", "dignified"] } ] },
+
+  { "expression": "craving", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a strong desire for a particular food",
+    "exchanges": [ { "uid": "s07_e04_c08_u009", "answer": "craving",
+      "options": ["craving", "grudge", "habit", "allergy"] } ] },
+
+  { "expression": "food poisoning", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "an illness caused by eating food that contains harmful bacteria",
+    "exchanges": [ { "uid": "s07_e04_c08_u027", "answer": "food poisoning",
+      "options": ["food poisoning", "jet lag", "stage fright", "hay fever"] } ] },
+
+  { "expression": "off the air", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "no longer being broadcast on television or radio",
+    "exchanges": [ { "uid": "s07_e04_c09_u009", "answer": "off the air",
+      "options": ["off the air", "off the hook", "off the record", "off the wall"] } ] },
+
+  { "expression": "come on to", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to show someone that you are sexually interested in them",
+    "exchanges": [ { "uid": "s07_e04_c14_u003", "answer": "came on to",
+      "options": ["came on to", "got over", "gave up on", "took after"] } ] },
+
+  { "expression": "get involved with", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to start a romantic or sexual relationship with someone",
+    "exchanges": [ { "uid": "s07_e04_c12_u016", "answer": "get involved with",
+      "options": ["get involved with", "get rid of", "get along with", "get used to"] } ] },
+
+  { "expression": "head rush", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a brief dizzy feeling you get when you stand up too quickly",
+    "exchanges": [ { "uid": "s07_e04_c02_u031", "answer": "head rush", "responseUid": null,
+      "options": ["head rush", "head start", "heart attack", "back pain"] } ] },
+
+  { "expression": "goal-oriented", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "focused on achieving particular aims",
+    "exchanges": [ { "uid": "s07_e04_c03_u022", "answer": "goal-oriented",
+      "options": ["goal-oriented", "self-centered", "short-tempered", "absent-minded"] } ] },
+
+  { "expression": "in my defense", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "said before giving a reason that partly excuses what you did",
+    "exchanges": [ { "uid": "s07_e04_c08_u038", "answer": "In my defense",
+      "options": ["In my defense", "In my dreams", "On my side", "At my worst"] } ] },
+
+  { "expression": "steer clear of", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to deliberately avoid someone or something",
+    "exchanges": [ { "uid": "s07_e04_c14_u015", "answer": "steer clear of",
+      "options": ["steer clear of", "make fun of", "take care of", "keep track of"] } ] },
+
+  { "expression": "for old times' sake", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "because of the happy times you shared in the past",
+    "exchanges": [ { "uid": "s07_e04_c13_u006", "answer": "for old times sake",
+      "options": ["for old times sake", "for the record", "on the house", "by the way"] } ] },
+
+  { "expression": "make eyes at", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to look at someone in a way that shows you are attracted to them",
+    "exchanges": [ { "uid": "s07_e04_c08_u036", "answer": "making eyes at",
+      "options": ["making eyes at", "making fun of", "making room for", "making way for"] } ] }
+]

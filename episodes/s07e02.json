@@ -1,0 +1,49 @@
+[
+  {"expression":"get started","type":"phrase","level":"elementary","pos":"verb","meaning":"to begin doing something","exchanges":[{"uid":"s07_e02_c01_u011","answer":"get started","options":["get started","get paid","get lost","get hurt"]}]},
+
+  {"expression":"too many cooks","type":"colloquial","level":"expert","pos":"expression","meaning":"a warning that too many people working on the same task will spoil it","exchanges":[{"uid":"s07_e02_c01_u016","answer":"too many cooks","options":["too many cooks","too many dishes","too many guests","too much salt"]}]},
+
+  {"expression":"show up","type":"phrase","level":"elementary","pos":"verb","meaning":"to arrive at a place where people are expecting you","exchanges":[{"uid":"s07_e02_c01_u017","answer":"show up","options":["show up","give up","back up","wake up"]}]},
+
+  {"expression":"urgent","type":"word","level":"middle","pos":"adjective","meaning":"needing attention or action immediately","exchanges":[{"uid":"s07_e02_c02_u005","answer":"urgent","options":["urgent","optional","ancient","polite"]}]},
+
+  {"expression":"throw caution to the wind","type":"colloquial","level":"college","pos":"verb","meaning":"to stop worrying about risks and act boldly","exchanges":[{"uid":"s07_e02_c03_u030","answer":"caution","options":["caution","patience","silence","anger"]}]},
+
+  {"expression":"what's the big deal","type":"colloquial","level":"middle","pos":"expression","meaning":"asks why someone thinks something is so important or upsetting","exchanges":[{"uid":"s07_e02_c04_u010","answer":"big deal","options":["big deal","big toe","big bang","big mouth"]}]},
+
+  {"expression":"kick back","type":"colloquial","level":"high","pos":"verb","meaning":"to relax and rest","exchanges":[{"uid":"s07_e02_c04_u015","answer":"kick back","options":["kick back","kick off","act out","sit up"]}]},
+
+  {"expression":"turn someone on","type":"colloquial","level":"college","pos":"verb","meaning":"to make someone sexually excited","exchanges":[{"uid":"s07_e02_c05_u003","answer":"Turn you on","options":["Turn you on","Wear you out","Hold you up","Let you down"]}]},
+
+  {"expression":"ashamed","type":"word","level":"middle","pos":"adjective","meaning":"feeling embarrassed or guilty about something you have or did","exchanges":[{"uid":"s07_e02_c05_u016","answer":"ashamed","options":["ashamed","capable","fond","guilty"]}]},
+
+  {"expression":"thrilled","type":"word","level":"middle","pos":"adjective","meaning":"extremely pleased and excited","exchanges":[{"uid":"s07_e02_c07_u002","answer":"thrilled","options":["thrilled","exhausted","bored","sleepy"]}]},
+
+  {"expression":"put a price on","type":"colloquial","level":"high","pos":"verb","meaning":"to say how much something is worth in money","exchanges":[{"uid":"s07_e02_c08_u005","answer":"put a price on","options":["put a price on","take a bite of","make a bet on","get a grip on"]}]},
+
+  {"expression":"assume","type":"word","level":"middle","pos":"verb","meaning":"to accept that something is true without checking it","exchanges":[{"uid":"s07_e02_c08_u003","answer":"assumed","options":["assumed","doubted","forgot","denied"]}]},
+
+  {"expression":"go to hell","type":"colloquial","level":"college","pos":"verb","meaning":"to fail or be ruined completely","exchanges":[{"uid":"s07_e02_c08_u007","answer":"went to hell","options":["went to hell","went to sleep","went to work","went to school"]}]},
+
+  {"expression":"propose","type":"word","level":"middle","pos":"verb","meaning":"to ask someone to marry you","exchanges":[{"uid":"s07_e02_c08_u009","answer":"propose","options":["propose","apologize","complain","retire"]}]},
+
+  {"expression":"off the rack","type":"colloquial","level":"college","pos":"adjective","meaning":"bought ready-made in a standard size rather than made specially for one person","exchanges":[{"uid":"s07_e02_c10_u010","answer":"off the rack","options":["off the rack","on the house","in the bag","by the book"]}]},
+
+  {"expression":"made for each other","type":"colloquial","level":"middle","pos":"expression","meaning":"perfectly suited to each other as a couple","exchanges":[{"uid":"s07_e02_c10_u023","answer":"made for each other","options":["made for each other","afraid of each other","tired of each other","jealous of each other"]}]},
+
+  {"expression":"earmark","type":"word","level":"college","pos":"verb","meaning":"to set money aside for a particular purpose","exchanges":[{"uid":"s07_e02_c10_u026","answer":"earmarked","options":["earmarked","borrowed","wasted","stolen"]}]},
+
+  {"expression":"put one's foot down","type":"colloquial","level":"high","pos":"verb","meaning":"to firmly refuse to allow something or insist on a decision","exchanges":[{"uid":"s07_e02_c10_u031","answer":"put my foot down","responseUid":"s07_e02_c10_u034","options":["put my foot down","keep my head down","pull my weight","lend my ear"]}]},
+
+  {"expression":"on board","type":"colloquial","level":"high","pos":"expression","meaning":"in agreement with a plan or idea and willing to support it","exchanges":[{"uid":"s07_e02_c10_u034","answer":"on board","options":["on board","off guard","in charge","on hold"]}]},
+
+  {"expression":"break up","type":"phrase","level":"middle","pos":"verb","meaning":"to end a romantic relationship","exchanges":[{"uid":"s07_e02_c11_u013","answer":"broke up","options":["broke up","sped up","dried up","shut up"]}]},
+
+  {"expression":"go out","type":"phrase","level":"elementary","pos":"verb","meaning":"to spend time with someone as a boyfriend or girlfriend","exchanges":[{"uid":"s07_e02_c11_u015","answer":"going out","options":["going out","giving up","running in","coming off"]}]},
+
+  {"expression":"exfoliate","type":"word","level":"expert","pos":"verb","meaning":"to remove dead skin cells from the surface of the skin","exchanges":[{"uid":"s07_e02_c11_u021","answer":"exfoliated","options":["exfoliated","vaccinated","hypnotized","sterilized"]}]},
+
+  {"expression":"sleazy","type":"word","level":"college","pos":"adjective","meaning":"unpleasantly crude or suggestive in a sexual way","exchanges":[{"uid":"s07_e02_c13_u007","answer":"sleazy","options":["sleazy","clever","sincere","polite"]}]},
+
+  {"expression":"make up for","type":"phrase","level":"high","pos":"verb","meaning":"to compensate for something that was missed or done badly","exchanges":[{"uid":"s07_e02_c13_u008","answer":"make up for","options":["make up for","look up to","put up with","come up with"]}]}
+]
