@@ -1,0 +1,127 @@
+[
+  { "expression": "pick up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to go and buy or collect something, often on the way somewhere",
+    "exchanges": [ { "uid": "s07_e23_c01_u010", "answer": "pick up",
+      "options": ["pick up", "set off", "get over", "run into"] } ] },
+
+  { "expression": "way to go", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to congratulate someone on doing something well",
+    "exchanges": [ { "uid": "s07_e23_c02_u025", "answer": "way to go",
+      "options": ["way to go", "out of line", "off the hook", "next in line"] } ] },
+
+  { "expression": "hang on", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "wait a moment",
+    "exchanges": [ { "uid": "s07_e23_c03_u022", "answer": "Hang on",
+      "options": ["Hang on", "Hang up", "Move in", "Take off"] } ] },
+
+  { "expression": "do someone a favor", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to do something helpful for someone because they ask you to",
+    "exchanges": [ { "uid": "s07_e23_c05_u039", "answer": "do me a favor",
+      "options": ["do me a favor", "make me a deal", "tell me a secret", "show me a trick"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [ { "uid": "s07_e23_c09_u005", "answer": "freaked out",
+      "options": ["freaked out", "backed off", "showed off", "calmed down"] } ] },
+
+  { "expression": "go wrong", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to fail or happen in a bad way that was not planned",
+    "exchanges": [ { "uid": "s07_e23_c02_u003", "answer": "go wrong",
+      "options": ["go wrong", "come true", "turn up", "stay put"] } ] },
+
+  { "expression": "best man", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "the male friend or relative who stands beside the groom and helps him at his wedding",
+    "exchanges": [ { "uid": "s07_e23_c01_u020", "answer": "best man",
+      "options": ["best man", "head chef", "top dog", "fall guy"] } ] },
+
+  { "expression": "responsible for", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "having the duty of taking care of something or making sure it gets done",
+    "exchanges": [ { "uid": "s07_e23_c02_u006", "answer": "responsible for",
+      "options": ["responsible for", "famous for", "eligible for", "late for"] } ] },
+
+  { "expression": "fuss", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a lot of excitement, attention, or talk about something",
+    "exchanges": [ { "uid": "s07_e23_c11_u009", "answer": "fuss",
+      "options": ["fuss", "fog", "fuse", "feud"] } ] },
+
+  { "expression": "hunt down", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to search for someone determinedly until you find them",
+    "exchanges": [
+      { "uid": "s07_e23_c01_u023", "answer": "hunt you down",
+        "options": ["hunt you down", "hunt you out", "call you up", "hand you over"] } ] },
+
+  { "expression": "kick someone's ass", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to beat someone up or defeat them completely",
+    "exchanges": [ { "uid": "s07_e23_c09_u010", "answer": "kick your ass", "cueUid": "s07_e23_c09_u008",
+      "options": ["kick your ass", "cover your back", "pull your leg", "lose your head"] } ] },
+
+  { "expression": "back out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to decide not to do something you had agreed or planned to do",
+    "exchanges": [ { "uid": "s07_e23_c02_u020", "answer": "backed out",
+      "options": ["backed out", "backed up", "filled in", "signed up"] } ] },
+
+  { "expression": "face facts", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to accept an unpleasant truth instead of ignoring it",
+    "exchanges": [ { "uid": "s07_e23_c03_u018", "answer": "Face facts", "cueUid": "s07_e23_c03_u016",
+      "options": ["Face facts", "Cut corners", "Break even", "Lose track"] } ] },
+
+  { "expression": "flip out", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to suddenly become extremely angry or lose control",
+    "exchanges": [ { "uid": "s07_e23_c04_u012", "answer": "flip you out",
+      "options": ["flip you out", "bail you out", "cheer you up", "hand you over"] } ] },
+
+  { "expression": "screw up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to ruin something by making a bad mistake",
+    "exchanges": [ { "uid": "s07_e23_c06_u007", "answer": "screw it up",
+      "options": ["screw it up", "screw it in", "give it up", "heat it up"] } ] },
+
+  { "expression": "shades", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "sunglasses",
+    "exchanges": [ { "uid": "s07_e23_c07_u007", "answer": "shades",
+      "options": ["shades", "shoes", "shirts", "sleeves"] } ] },
+
+  { "expression": "get out of", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to avoid doing something you are supposed to do",
+    "exchanges": [ { "uid": "s07_e23_c12_u017", "answer": "get me out of",
+      "options": ["get me out of", "put me up to", "let me in on", "take me back to"] } ] },
+
+  { "expression": "pull yourself together", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to calm down and control your emotions after being upset",
+    "exchanges": [ { "uid": "s07_e23_c13_u012", "answer": "pull yourself together",
+      "options": ["pull yourself together", "get yourself across", "push yourself forward", "put yourself out"] } ] },
+
+  { "expression": "reinforcements", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "extra soldiers or people sent to help a group that is already fighting or working",
+    "exchanges": [ { "uid": "s07_e23_c03_u019", "answer": "reinforcements",
+      "options": ["reinforcements", "refreshments", "requirements", "resemblances"] } ] },
+
+  { "expression": "play off", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to respond to and build on another performer's words or actions",
+    "exchanges": [ { "uid": "s07_e23_c10_u010", "answer": "play off",
+      "options": ["play off", "play out", "put off", "show off"] } ] },
+
+  { "expression": "go with the odds", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to make a choice based on what is most likely to happen",
+    "exchanges": [ { "uid": "s07_e23_c02_u007", "answer": "go with the odds",
+      "options": ["go with the odds", "break the ice", "bend the rules", "cut the cord"] } ] },
+
+  { "expression": "no word from", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "no news or message has been received from someone",
+    "exchanges": [ { "uid": "s07_e23_c13_u002", "answer": "no word from",
+      "options": ["no word from", "no end to", "no use for", "no match for"] } ] },
+
+  { "expression": "raise a glass", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to lift your drink and toast someone in their honor",
+    "exchanges": [ { "uid": "s07_e23_c05_u047", "answer": "raising a glass",
+      "options": ["raising a glass", "raising the bar", "breaking the ice", "drawing a line"] } ] },
+
+  { "expression": "ball and chain", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a joking term for one's wife, suggesting marriage limits a man's freedom",
+    "exchanges": [ { "uid": "s07_e23_c01_u004", "answer": "ball and chain",
+      "options": ["ball and chain", "bread and butter", "salt and pepper", "rock and roll"] } ] },
+
+  { "expression": "enunciate", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to pronounce words very clearly and carefully",
+    "exchanges": [ { "uid": "s07_e23_c10_u016", "answer": "enunciate",
+      "options": ["enunciate", "exaggerate", "hesitate", "improvise"] } ] }
+]

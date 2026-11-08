@@ -1,0 +1,116 @@
+[
+  { "expression": "get in line", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to tell someone that other people already want the same thing first",
+    "exchanges": [ { "uid": "s07_e19_c01_u022", "answer": "get in line", "responseUid": null,
+      "options": ["get in line", "get in shape", "get in touch", "get in trouble"] } ] },
+
+  { "expression": "pact", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a formal agreement between people to do or not do something",
+    "exchanges": [ { "uid": "s07_e19_c02_u003", "answer": "pact", "responseUid": null,
+      "options": ["pact", "plot", "fight", "debt"] } ] },
+
+  { "expression": "give someone a hand", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to help someone with a task",
+    "exchanges": [ { "uid": "s07_e19_c02_u005", "answer": "give me a hand",
+      "options": ["give me a hand", "give me a break", "give me a clue", "give me a shot"] } ] },
+
+  { "expression": "play along", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to pretend to cooperate with something so that you do not spoil it",
+    "exchanges": [ { "uid": "s07_e19_c02_u021", "answer": "play along",
+      "options": ["play along", "play down", "play up", "play back"] } ] },
+
+  { "expression": "calm down", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop feeling angry, excited, or nervous",
+    "exchanges": [ { "uid": "s07_e19_c04_u008", "answer": "calm down",
+      "options": ["calm down", "back up", "break down", "shut out"] } ] },
+
+  { "expression": "get organized", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to plan and arrange things so that you can work efficiently",
+    "exchanges": [ { "uid": "s07_e19_c04_u013", "answer": "get organized",
+      "options": ["get organized", "get distracted", "get married", "get arrested"] } ] },
+
+  { "expression": "domineering", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "always trying to control other people and make them do what you want",
+    "exchanges": [ { "uid": "s07_e19_c05_u008", "answer": "domineering",
+      "options": ["domineering", "forgiving", "easygoing", "generous"] } ] },
+
+  { "expression": "immature", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "behaving in a childish way, not like a grown adult",
+    "exchanges": [ { "uid": "s07_e19_c05_u009", "answer": "immature",
+      "options": ["immature", "invisible", "illegal", "incomplete"] } ] },
+
+  { "expression": "intently", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "with close, focused attention",
+    "exchanges": [ { "uid": "s07_e19_c06_u006", "answer": "intently",
+      "options": ["intently", "lazily", "rarely", "loosely"] } ] },
+
+  { "expression": "on thin ice", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "in a risky situation where one more mistake will get you into trouble",
+    "exchanges": [ { "uid": "s07_e19_c06_u011", "answer": "thin ice", "responseUid": null,
+      "options": ["thin ice", "fresh air", "hard rock", "dry land"] } ] },
+
+  { "expression": "tastefully", "type": "word", "level": "college", "pos": "adverb",
+    "meaning": "in a way that shows good judgment and is not offensive or vulgar",
+    "exchanges": [ { "uid": "s07_e19_c07_u012", "answer": "tastefully",
+      "options": ["tastefully", "carelessly", "loudly", "quickly"] } ] },
+
+  { "expression": "authentic", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "real and true to the original, not fake or imitated",
+    "exchanges": [ { "uid": "s07_e19_c07_u013", "answer": "authentic",
+      "options": ["authentic", "expensive", "colorful", "modern"] } ] },
+
+  { "expression": "insist", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to demand firmly that something must happen",
+    "exchanges": [ { "uid": "s07_e19_c07_u015", "answer": "insisting",
+      "options": ["insisting", "forgetting", "denying", "guessing"] } ] },
+
+  { "expression": "off the top of my head", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "without careful thought or preparation; just thought of right now",
+    "exchanges": [ { "uid": "s07_e19_c08_u018", "answer": "top of my head", "responseUid": null,
+      "options": ["top of my head", "back of my hand", "bottom of my heart", "tip of my tongue"] } ] },
+
+  { "expression": "have at it", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "go ahead and do it or help yourself as much as you like",
+    "exchanges": [ { "uid": "s07_e19_c09_u009", "answer": "Have at it",
+      "options": ["Have at it", "Get over it", "Make it up", "Hold it in"] } ] },
+
+  { "expression": "seed money", "type": "phrase", "level": "expert", "pos": "noun",
+    "meaning": "a small amount of money used to get a project or business started",
+    "exchanges": [ { "uid": "s07_e19_c09_u018", "answer": "seed money", "responseUid": null,
+      "options": ["seed money", "hush money", "blood money", "prize money"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s07_e19_c11_u005", "answer": "hung out",
+      "options": ["hung out", "gave in", "ran off", "broke up"] } ] },
+
+  { "expression": "figure out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to understand or solve something after thinking about it",
+    "exchanges": [ { "uid": "s07_e19_c11_u009", "answer": "figure it out",
+      "options": ["figure it out", "make it up", "give it up", "turn it down"] } ] },
+
+  { "expression": "maid of honor", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "the bride's main female friend or relative who helps her before and during the wedding",
+    "exchanges": [ { "uid": "s07_e19_c12_u016", "answer": "maid of honor",
+      "options": ["maid of honor", "best man", "flower girl", "ring bearer"] } ] },
+
+  { "expression": "back up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to go back to an earlier point in a discussion or line of thought",
+    "exchanges": [ { "uid": "s07_e19_c14_u002", "answer": "back up",
+      "options": ["back up", "give up", "shut up", "show up"] } ] },
+
+  { "expression": "work out for the best", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to end with a good result even though things seemed to go wrong",
+    "exchanges": [ { "uid": "s07_e19_c15_u012", "answer": "for the best",
+      "options": ["for the best", "in the dark", "on the house", "by the book"] } ] },
+
+  { "expression": "nothing to hide", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "having no secrets or embarrassing things that you need to conceal",
+    "exchanges": [ { "uid": "s07_e19_c16_u007", "answer": "nothing to hide", "responseUid": null,
+      "options": ["nothing to hide", "nothing to say", "nothing to wear", "nothing to eat"] } ] },
+
+  { "expression": "ask out", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [ { "uid": "s07_e19_c17_u006", "answer": "Ask her out", "responseUid": null,
+      "options": ["Ask her out", "Kick her out", "Leave her out", "Freak her out"] } ] }
+]

@@ -1,0 +1,504 @@
+[
+{
+  "expression": "M.I.A.",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "missing or absent for a long time without explanation (from 'missing in action')",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c01_u011",
+      "answer": "M.I.A",
+      "options": [
+        "M.I.A",
+        "A.S.A.P",
+        "R.S.V.P",
+        "V.I.P"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a difference",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have an important positive effect on something or someone",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c01_u027",
+      "answer": "make a difference",
+      "options": [
+        "make a difference",
+        "take a chance",
+        "pay a visit",
+        "keep a promise"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not something important or worth worrying about",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c01_u040",
+      "answer": "not a big deal",
+      "options": [
+        "not a big deal",
+        "not a fair game",
+        "not a long shot",
+        "not a hard sell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "end up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally be in a situation or place, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c01_u044",
+      "answer": "ended up",
+      "options": [
+        "ended up",
+        "turned in",
+        "set off",
+        "broke up"
+      ]
+    },
+    {
+      "uid": "s07_e20_c04_u029",
+      "answer": "ended up",
+      "options": [
+        "ended up",
+        "turned in",
+        "set off",
+        "broke up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "crushed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely upset and disappointed",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c02_u014",
+      "answer": "crushed",
+      "options": [
+        "crushed",
+        "thrilled",
+        "relieved",
+        "flattered"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "picture",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to imagine someone or something in your mind",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c02_u010",
+      "answer": "picturing",
+      "options": [
+        "picturing",
+        "ordering",
+        "packing",
+        "counting"
+      ]
+    },
+    {
+      "uid": "s07_e20_c04_u041",
+      "answer": "picture",
+      "options": [
+        "picture",
+        "promise",
+        "borrow",
+        "repeat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hook someone up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get something useful for someone, often through your connections or as a favor",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c03_u003",
+      "answer": "hookin' me up",
+      "options": [
+        "hookin' me up",
+        "checkin' me out",
+        "freakin' me out",
+        "kickin' me out"
+      ]
+    },
+    {
+      "uid": "s07_e20_c05_u004",
+      "answer": "hooked me up",
+      "options": [
+        "hooked me up",
+        "set me off",
+        "cut me off",
+        "let me down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "maid of honor",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the bride's main female friend or relative who helps her before and during the wedding",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c03_u004",
+      "answer": "maid of honor",
+      "options": [
+        "maid of honor",
+        "best man",
+        "flower girl",
+        "ring bearer"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's the deal with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask what is happening with someone or something",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c03_u005",
+      "answer": "what's the deal with",
+      "options": [
+        "what's the deal with",
+        "what's the rush for",
+        "what's the harm in",
+        "what's the catch in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "custom-make",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make something specially for one particular customer",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c03_u006",
+      "answer": "custom-make",
+      "options": [
+        "custom-make",
+        "mass-produce",
+        "fast-track",
+        "spot-check"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "red carpet",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the carpet that celebrities walk on at a formal event such as a film premiere or award show",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c03_u009",
+      "answer": "red carpet",
+      "options": [
+        "red carpet",
+        "back door",
+        "front row",
+        "green room"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lewd",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "sexual in a crude and offensive way",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c04_u021",
+      "answer": "lewd",
+      "options": [
+        "lewd",
+        "livid",
+        "frail",
+        "stale"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "vanilla",
+  "type": "word",
+  "level": "expert",
+  "pos": "adjective",
+  "meaning": "ordinary and conventional, with nothing wild or exciting about it",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c04_u035",
+      "answer": "vanilla",
+      "responseUid": null,
+      "options": [
+        "vanilla",
+        "flaky",
+        "bossy",
+        "feisty"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pretty please",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a childish, extra-polite way of begging someone to do something",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c05_u012",
+      "answer": "Pretty please",
+      "responseUid": null,
+      "options": [
+        "Pretty please",
+        "Pretty much",
+        "Pretty soon",
+        "Pretty good"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good to go",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "ready to start or to leave, with nothing more needed",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c06_u003",
+      "answer": "good to go",
+      "options": [
+        "good to go",
+        "hard to get",
+        "easy to miss",
+        "quick to judge"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "unwanted",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not wanted or welcomed by others",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c06_u006",
+      "answer": "unwanted",
+      "options": [
+        "unwanted",
+        "unpaid",
+        "unheard",
+        "unarmed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to manage to reach a place or arrive somewhere",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c06_u012",
+      "answer": "make it to",
+      "options": [
+        "make it to",
+        "hand it to",
+        "owe it to",
+        "leave it to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "screw-up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a bad mistake that causes problems",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c06_u015",
+      "answer": "screw up",
+      "responseUid": null,
+      "options": [
+        "screw up",
+        "break up",
+        "lock up",
+        "make up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to spend time with someone as a boyfriend or girlfriend",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c07_u002",
+      "answer": "going out",
+      "options": [
+        "going out",
+        "giving in",
+        "checking out",
+        "hanging up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make out with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kiss and touch someone in a sexual way",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c07_u009",
+      "answer": "made out",
+      "options": [
+        "made out",
+        "broke down",
+        "went off",
+        "checked in"
+      ]
+    },
+    {
+      "uid": "s07_e20_c07_u013",
+      "answer": "made out",
+      "options": [
+        "made out",
+        "broke down",
+        "went off",
+        "checked in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "warm up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get an audience excited and ready before the main performance",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c08_u025",
+      "answer": "warm up",
+      "options": [
+        "warm up",
+        "break up",
+        "sum up",
+        "hold up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "conversation piece",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an unusual object that gets people interested and starts them talking",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c10_u004",
+      "answer": "conversation piece",
+      "options": [
+        "conversation piece",
+        "safety hazard",
+        "second opinion",
+        "rain check"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "third time's the charm",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a saying that you will succeed if you keep trying after failing",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c12_u003",
+      "answer": "charm",
+      "options": [
+        "charm",
+        "cake",
+        "bomb",
+        "catch"
+      ]
+    }
+  ]
+}
+]

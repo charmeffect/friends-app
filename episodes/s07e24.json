@@ -1,0 +1,129 @@
+[
+  { "expression": "take off", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to leave a place suddenly or quickly",
+    "exchanges": [ { "uid": "s07_e24_c01_u005", "answer": "took off",
+      "options": ["took off", "took over", "gave up", "came in"] } ] },
+
+  { "expression": "turn into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to develop or change into something different",
+    "exchanges": [ { "uid": "s07_e24_c01_u007", "answer": "turning into",
+      "options": ["turning into", "coming from", "running from", "going for"] } ] },
+
+  { "expression": "birth control", "type": "phrase", "level": "middle", "pos": "noun",
+    "meaning": "methods or devices used to prevent a woman from becoming pregnant",
+    "exchanges": [ { "uid": "s07_e24_c01_u011", "answer": "birth control",
+      "options": ["birth control", "weight loss", "pain relief", "skin care"] } ] },
+
+  { "expression": "hear from", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to receive a call, letter or message from someone",
+    "exchanges": [ { "uid": "s07_e24_c02_u003", "answer": "heard from",
+      "options": ["heard from", "fallen for", "stood up", "paid for"] } ] },
+
+  { "expression": "stall", "type": "word", "level": "college", "pos": "verb",
+    "meaning": "to delay someone by keeping them busy or distracted so that time passes",
+    "exchanges": [ { "uid": "s07_e24_c02_u009", "answer": "stall",
+      "options": ["stall", "dress", "wake", "rush"] } ] },
+
+  { "expression": "suck at", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to be very bad at doing something",
+    "exchanges": [ { "uid": "s07_e24_c02_u019", "answer": "suck at",
+      "options": ["suck at", "fall for", "bump into", "sign up"] } ] },
+
+  { "expression": "figure out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to understand or solve something after thinking about it",
+    "exchanges": [ { "uid": "s07_e24_c02_u022", "answer": "figure something out",
+      "options": ["figure something out", "hand something in", "give something back", "turn something down"] } ] },
+
+  { "expression": "around the corner", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "going to happen or appear very soon",
+    "exchanges": [ { "uid": "s07_e24_c02_u030", "answer": "around the corner",
+      "options": ["around the corner", "under the weather", "over the moon", "off the hook"] } ] },
+
+  { "expression": "officiate", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to lead or perform the duties at a ceremony or formal event",
+    "exchanges": [ { "uid": "s07_e24_c03_u002", "answer": "officiating",
+      "options": ["officiating", "resigning", "fasting", "sleepwalking"] } ] },
+
+  { "expression": "make up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to invent something, such as a rule or a story, that is not true",
+    "exchanges": [ { "uid": "s07_e24_c03_u006", "answer": "made up",
+      "options": ["made up", "gave up", "took up", "set up"] } ] },
+
+  { "expression": "proceeds", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the money that is earned from selling something or holding an event",
+    "exchanges": [ { "uid": "s07_e24_c04_u021", "answer": "proceeds",
+      "options": ["proceeds", "emails", "relatives", "opinions"] } ] },
+
+  { "expression": "freak out", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [
+      { "uid": "s07_e24_c05_u015", "answer": "freaking me out",
+        "options": ["freaking me out", "calming me down", "cheering me up", "backing me up"] },
+      { "uid": "s07_e24_c12_u020", "answer": "freaking out",
+        "options": ["freaking out", "calming down", "showing off", "backing off"] } ] },
+
+  { "expression": "keep an eye on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to watch someone carefully to make sure they behave or stay safe",
+    "exchanges": [ { "uid": "s07_e24_c05_u018", "answer": "keep an eye on",
+      "options": ["keep an eye on", "take a shot at", "make a fuss about", "get a grip on"] } ] },
+
+  { "expression": "pull it together", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "to regain control of yourself so that you can do something properly",
+    "exchanges": [ { "uid": "s07_e24_c06_u009", "answer": "pull it together",
+      "options": ["pull it together", "put it away", "bring it on", "call it off"] } ] },
+
+  { "expression": "on account of", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "because of",
+    "exchanges": [ { "uid": "s07_e24_c06_u010", "answer": "on account of",
+      "options": ["on account of", "in spite of", "instead of", "in front of"] } ] },
+
+  { "expression": "drift apart", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to gradually become less close to someone over time",
+    "exchanges": [ { "uid": "s07_e24_c07_u002", "answer": "drift apart",
+      "options": ["drift apart", "sit around", "run along", "stay over"] } ] },
+
+  { "expression": "show up", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to arrive at a place where people are expecting you",
+    "exchanges": [ { "uid": "s07_e24_c07_u012", "answer": "show up",
+      "options": ["show up", "give up", "back up", "cheer up"] } ] },
+
+  { "expression": "hang up on", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to end a phone call suddenly while the other person is still talking",
+    "exchanges": [ { "uid": "s07_e24_c07_u022", "answer": "hang up on",
+      "options": ["hang up on", "catch up on", "sign up for", "put up with"] } ] },
+
+  { "expression": "overreact", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to respond to something much more strongly than is reasonable",
+    "exchanges": [ { "uid": "s07_e24_c08_u017", "answer": "overreacting",
+      "options": ["overreacting", "oversleeping", "overcharging", "overeating"] } ] },
+
+  { "expression": "frown on", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to disapprove of something",
+    "exchanges": [ { "uid": "s07_e24_c08_u019", "answer": "frown on",
+      "options": ["frown on", "bank on", "feed on", "spy on"] } ] },
+
+  { "expression": "keep someone honest", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to watch someone so that they do not cheat or break the rules",
+    "exchanges": [ { "uid": "s07_e24_c10_u006", "answer": "keeping me honest",
+      "options": ["keeping me honest", "driving me crazy", "calling me back", "picking me up"] } ] },
+
+  { "expression": "flight risk", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a person who is likely to run away rather than stay where they should",
+    "exchanges": [ { "uid": "s07_e24_c10_u025", "answer": "flight risk",
+      "options": ["flight risk", "team player", "night owl", "fire hazard"] } ] },
+
+  { "expression": "hammered", "type": "word", "level": "expert", "pos": "adjective",
+    "meaning": "very drunk",
+    "exchanges": [ { "uid": "s07_e24_c11_u002", "answer": "hammered",
+      "options": ["hammered", "freezing", "famous", "married"] } ] },
+
+  { "expression": "walk out on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to suddenly leave your partner or family and end the relationship",
+    "exchanges": [ { "uid": "s07_e24_c12_u008", "answer": "walking out on",
+      "options": ["walking out on", "looking up to", "making up with", "getting back at"] } ] },
+
+  { "expression": "big picture", "type": "colloquial", "level": "high", "pos": "noun",
+    "meaning": "the overall situation, rather than the small details",
+    "exchanges": [ { "uid": "s07_e24_c12_u023", "answer": "Big picture",
+      "options": ["Big picture", "Small talk", "Fine print", "Old news"] } ] }
+]
