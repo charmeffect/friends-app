@@ -1,0 +1,122 @@
+[
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s06_e15_c01_u032", "answer": "hang out", "responseUid": null,
+      "options": ["hang out", "hang up", "hold out", "hand out"] } ] },
+
+  { "expression": "take a break", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to stop an activity for a short time to rest",
+    "exchanges": [ { "uid": "s06_e15_c03_u031", "answer": "take a break",
+      "options": ["take a break", "make a break", "give a break", "keep a break"] } ] },
+
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s06_e15_c03_u042", "answer": "ran into",
+      "options": ["ran into", "ran out", "ran off", "ran down"] } ] },
+
+  { "expression": "stop by", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to visit a place briefly, often without planning it",
+    "exchanges": [ { "uid": "s06_e15_c12_u007", "answer": "stopped by", "cueUid": "s06_e15_c12_u005",
+      "options": ["stopped by", "stopped up", "stood up", "kept off"] } ] },
+
+  { "expression": "pride", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a feeling of self-respect that stops you from doing something you think is beneath you",
+    "exchanges": [ { "uid": "s06_e15_c03_u021", "answer": "pride",
+      "options": ["pride", "shame", "debt", "rent"] } ] },
+
+  { "expression": "terrific", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "extremely good or wonderful",
+    "exchanges": [ { "uid": "s06_e15_c03_u043", "answer": "terrific",
+      "options": ["terrific", "terrified", "territorial", "terminal"] } ] },
+
+  { "expression": "go crazy", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to start feeling very restless, bored, or upset because of a situation",
+    "exchanges": [ { "uid": "s06_e15_c05_u003", "answer": "going crazy",
+      "options": ["going crazy", "going home", "going steady", "going strong"] } ] },
+
+  { "expression": "head back", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to go back or return to a place",
+    "exchanges": [ { "uid": "s06_e15_c07_u006", "answer": "head back",
+      "options": ["head back", "head off", "hold back", "hand back"] } ] },
+
+  { "expression": "none of my business", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "not something I have the right to be involved in or ask about",
+    "exchanges": [ { "uid": "s06_e15_c10_u005", "answer": "none of my business",
+      "options": ["none of my business", "all my fault", "out of my hands", "on my mind"] } ] },
+
+  { "expression": "on a break", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "temporarily separated from a romantic partner without fully breaking up",
+    "exchanges": [ { "uid": "s06_e15_c10_u006", "answer": "on a break",
+      "options": ["on a break", "on a roll", "on a diet", "on a budget"] } ] },
+
+  { "expression": "not so fast", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "said to stop someone from doing something or to say they are wrong to assume something",
+    "exchanges": [ { "uid": "s06_e15_c12_u005", "answer": "Not so fast", "responseUid": "s06_e15_c12_u007",
+      "options": ["Not so fast", "Not so bad", "Not too late", "Not that much"] } ] },
+
+  { "expression": "cheat on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+    "exchanges": [
+      { "uid": "s06_e15_c01_u009", "answer": "cheating on",
+        "options": ["cheating on", "checking on", "calling on", "cheering on"] },
+      { "uid": "s06_e15_c10_u019", "answer": "cheat on",
+        "options": ["cheat on", "check on", "call on", "cheer on"] } ] },
+
+  { "expression": "have the guts", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to have enough courage to do something difficult or risky",
+    "exchanges": [ { "uid": "s06_e15_c01_u025", "answer": "had the guts",
+      "options": ["had the guts", "had the gifts", "had the facts", "had the words"] } ] },
+
+  { "expression": "low key", "type": "colloquial", "level": "high", "pos": "adjective",
+    "meaning": "quiet and relaxed rather than lively or attention-seeking",
+    "exchanges": [ { "uid": "s06_e15_c03_u003", "answer": "low key",
+      "options": ["low key", "high end", "off key", "short lived"] } ] },
+
+  { "expression": "rejection", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "the act of refusing to accept someone, for example for a job or a role",
+    "exchanges": [ { "uid": "s06_e15_c03_u013", "answer": "rejection",
+      "options": ["rejection", "admission", "invitation", "recommendation"] } ] },
+
+  { "expression": "welcome aboard", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to greet someone who has just joined a team, company, or group",
+    "exchanges": [ { "uid": "s06_e15_c03_u029", "answer": "Welcome aboard",
+      "options": ["Welcome aboard", "Welcome back", "Welcome home", "Well done"] } ] },
+
+  { "expression": "spice up", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to make something more exciting or interesting",
+    "exchanges": [
+      { "uid": "s06_e15_c05_u017", "answer": "spice things up",
+        "options": ["spice things up", "water things down", "pin things on", "play things down"] },
+      { "uid": "s06_e15_c08_u004", "answer": "spice things up",
+        "options": ["spice things up", "water things down", "pin things on", "play things down"] } ] },
+
+  { "expression": "unwind", "type": "word", "level": "high", "pos": "verb",
+    "meaning": "to relax after a period of work or tension",
+    "exchanges": [ { "uid": "s06_e15_c07_u002", "answer": "unwind",
+      "options": ["unwind", "unwrap", "unfold", "unload"] } ] },
+
+  { "expression": "get it over with", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do and finish something unpleasant as soon as possible so that it is done",
+    "exchanges": [ { "uid": "s06_e15_c10_u015", "answer": "get it over with",
+      "options": ["get it over with", "put it up with", "take it out on", "keep it away from"] } ] },
+
+  { "expression": "have a knack for", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to have a natural skill or talent for doing something",
+    "exchanges": [ { "uid": "s06_e15_c01_u029", "answer": "had a knack for",
+      "options": ["had a knack for", "had a grudge against", "had a crush on", "had a habit of"] } ] },
+
+  { "expression": "dry spell", "type": "colloquial", "level": "college", "pos": "noun",
+    "meaning": "a period of time in which you have no sex or romantic activity",
+    "exchanges": [ { "uid": "s06_e15_c05_u009", "answer": "dry spell",
+      "options": ["dry spell", "cold front", "hot streak", "long shot"] } ] },
+
+  { "expression": "over the line", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "beyond what is acceptable behaviour",
+    "exchanges": [ { "uid": "s06_e15_c09_u009", "answer": "over the line",
+      "options": ["over the line", "under the table", "on the line", "off the hook"] } ] },
+
+  { "expression": "masquerade", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to pretend to be something that you are not",
+    "exchanges": [ { "uid": "s06_e15_c03_u008", "answer": "masquerading",
+      "options": ["masquerading", "marinating", "meditating", "malfunctioning"] } ] }
+]

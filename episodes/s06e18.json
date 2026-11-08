@@ -1,0 +1,129 @@
+[
+  { "expression": "go out with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to date someone; to spend time with someone romantically",
+    "exchanges": [ { "uid": "s06_e18_c03_u009", "answer": "go out with",
+      "options": ["go out with", "get on with", "put up with", "break up with"] } ] },
+
+  { "expression": "run into", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to meet someone by chance",
+    "exchanges": [ { "uid": "s06_e18_c06_u003", "answer": "ran into",
+      "options": ["ran into", "ran over", "ran off", "ran out"] } ] },
+
+  { "expression": "go through", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to experience a difficult or unpleasant period",
+    "exchanges": [ { "uid": "s06_e18_c07_u010", "answer": "been through",
+      "options": ["been through", "been into", "been over", "been about"] } ] },
+
+  { "expression": "come up with", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to think of an idea or plan",
+    "exchanges": [ { "uid": "s06_e18_c09_u005", "answer": "came up with",
+      "options": ["came up with", "came down with", "put up with", "caught up with"] } ] },
+
+  { "expression": "change the subject", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to start talking about something different, often to avoid an awkward topic",
+    "exchanges": [ { "uid": "s06_e18_c02_u010", "answer": "changing the subject",
+      "options": ["changing the subject", "breaking the rules", "setting the table", "paying the bill"] } ] },
+
+  { "expression": "get together", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to meet someone socially",
+    "exchanges": [ { "uid": "s06_e18_c05_u006", "answer": "get together",
+      "options": ["get together", "give up", "move out", "show off"] } ] },
+
+  { "expression": "last minute", "type": "phrase", "level": "middle", "pos": "adjective",
+    "meaning": "arranged or done very shortly before the time it is needed",
+    "exchanges": [ { "uid": "s06_e18_c07_u002", "answer": "last minute",
+      "options": ["last minute", "first class", "long term", "half price"] } ] },
+
+  { "expression": "reputation", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "the opinion that people generally have about someone, based on their past behavior",
+    "exchanges": [ { "uid": "s06_e18_c13_u005", "answer": "reputation",
+      "options": ["reputation", "population", "reservation", "recommendation"] } ] },
+
+  { "expression": "follow your heart", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to do what your feelings tell you rather than what others expect",
+    "exchanges": [ { "uid": "s06_e18_c13_u007", "answer": "follow your heart",
+      "options": ["follow your heart", "lose your head", "mind your step", "hold your breath"] } ] },
+
+  { "expression": "drive someone crazy", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to annoy someone very much over a long time",
+    "exchanges": [ { "uid": "s06_e18_c18_u019", "answer": "driving me crazy",
+      "options": ["driving me crazy", "taking me seriously", "getting me wrong", "drawing me closer"] } ] },
+
+  { "expression": "stand up for", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to defend or support someone when others criticize or oppose them",
+    "exchanges": [ { "uid": "s06_e18_c19_u003", "answer": "standing up for",
+      "options": ["standing up for", "running out of", "getting rid of", "going in for"] } ] },
+
+  { "expression": "anonymous", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "written or done by someone whose name is not known or not given",
+    "exchanges": [ { "uid": "s06_e18_c01_u005", "answer": "anonymous",
+      "options": ["anonymous", "unanimous", "autonomous", "ambiguous"] } ] },
+
+  { "expression": "meant to be", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "destined to happen, especially said of a relationship",
+    "exchanges": [ { "uid": "s06_e18_c02_u028", "answer": "meant to be",
+      "options": ["meant to be", "hard to see", "about to go", "bound to fail"] } ] },
+
+  { "expression": "hit on", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+    "exchanges": [ { "uid": "s06_e18_c04_u019", "answer": "hit on",
+      "options": ["hit on", "ruled out", "run over", "sold out"] } ] },
+
+  { "expression": "put in time", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to spend time and effort on something, such as a relationship, before expecting a result",
+    "exchanges": [ { "uid": "s06_e18_c05_u016", "answer": "put in some time",
+      "options": ["put in some time", "take out some cash", "give up some space", "make up some rules"] } ] },
+
+  { "expression": "to be frank", "type": "phrase", "level": "high", "pos": "expression",
+    "meaning": "used to say that you are going to speak honestly and directly",
+    "exchanges": [ { "uid": "s06_e18_c09_u011", "answer": "to be frank",
+      "options": ["to be frank", "to be brief", "to be exact", "to be polite"] } ] },
+
+  { "expression": "off the top of my head", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "without careful thought or preparation; just thought of right now",
+    "exchanges": [ { "uid": "s06_e18_c14_u014", "answer": "top of my head",
+      "options": ["top of my head", "bottom of my heart", "tip of my tongue", "edge of my seat"] } ] },
+
+  { "expression": "flattered", "type": "word", "level": "high", "pos": "adjective",
+    "meaning": "pleased and honored because someone has shown that they admire or value you",
+    "exchanges": [ { "uid": "s06_e18_c14_u005", "answer": "flattered",
+      "options": ["flattered", "flattened", "bothered", "shattered"] } ] },
+
+  { "expression": "at fault", "type": "phrase", "level": "high", "pos": "adjective",
+    "meaning": "responsible for something bad that has happened",
+    "exchanges": [ { "uid": "s06_e18_c18_u013", "answer": "at fault",
+      "options": ["at fault", "at peace", "at risk", "at ease"] } ] },
+
+  { "expression": "frown upon", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to disapprove of something, even though it is not forbidden",
+    "exchanges": [
+      { "uid": "s06_e18_c01_u013", "answer": "frowned upon", "responseUid": "s06_e18_c01_u015",
+        "options": ["frowned upon", "carried out", "written off", "passed over"] },
+      { "uid": "s06_e18_c13_u004", "answer": "frowned upon",
+        "options": ["frowned upon", "handed out", "signed off", "turned over"] } ] },
+
+  { "expression": "the nerve", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "said to express shock at someone's rude or overly bold behavior",
+    "exchanges": [ { "uid": "s06_e18_c06_u008", "answer": "The nerve",
+      "options": ["The nerve", "The point", "The view", "The truth"] } ] },
+
+  { "expression": "unattended", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "left alone without anyone watching or looking after it",
+    "exchanges": [ { "uid": "s06_e18_c12_u014", "answer": "unattended",
+      "options": ["unattended", "unintended", "unattached", "uneducated"] } ] },
+
+  { "expression": "for what it's worth", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "used to offer an opinion or feeling while admitting it may not change anything",
+    "exchanges": [ { "uid": "s06_e18_c19_u003", "answer": "For what it's worth",
+      "options": ["For what it's worth", "For better or worse", "For all I care", "For heaven's sake"] } ] },
+
+  { "expression": "nature calls", "type": "colloquial", "level": "expert", "pos": "expression",
+    "meaning": "a humorous way of saying that someone needs to go to the toilet",
+    "exchanges": [ { "uid": "s06_e18_c02_u019", "answer": "nature called",
+      "options": ["nature called", "time flew", "luck ran", "night fell"] } ] },
+
+  { "expression": "kindling", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "small dry pieces of wood or paper used to start a fire",
+    "exchanges": [ { "uid": "s06_e18_c18_u013", "answer": "kindling",
+      "options": ["kindling", "bedding", "plumbing", "clothing"] } ] }
+]

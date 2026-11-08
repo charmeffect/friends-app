@@ -1,0 +1,121 @@
+[
+  { "expression": "do one's homework", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to prepare carefully for something by finding out about it in advance",
+    "exchanges": [ { "uid": "s06_e16_c01_u004", "answer": "doing their homework",
+      "options": ["doing their homework", "doing their laundry", "doing their hair", "doing their dishes"] } ] },
+
+  { "expression": "lucrative", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "producing a lot of money or profit",
+    "exchanges": [ { "uid": "s06_e16_c02_u019", "answer": "lucrative",
+      "options": ["lucrative", "fragile", "sluggish", "hollow"] } ] },
+
+  { "expression": "gross", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "disgusting or very unpleasant",
+    "exchanges": [ { "uid": "s06_e16_c02_u021", "answer": "gross", "responseUid": null,
+      "options": ["gross", "bright", "polite", "humble"] } ] },
+
+  { "expression": "chump change", "type": "colloquial", "level": "expert", "pos": "noun",
+    "meaning": "a very small, unimportant amount of money",
+    "exchanges": [ { "uid": "s06_e16_c02_u021", "answer": "chump change", "responseUid": null,
+      "options": ["chump change", "pocket lint", "spare parts", "small talk"] } ] },
+
+  { "expression": "refill", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "another serving of a drink to fill your glass again",
+    "exchanges": [ { "uid": "s06_e16_c03_u005", "answer": "refill",
+      "options": ["refill", "receipt", "reunion", "rehearsal"] } ] },
+
+  { "expression": "aphrodisiac", "type": "word", "level": "expert", "pos": "noun",
+    "meaning": "a food or drug that is believed to increase sexual desire",
+    "exchanges": [ { "uid": "s06_e16_c04_u004", "answer": "aphrodisiac",
+      "options": ["aphrodisiac", "antidote", "anesthetic", "antibiotic"] } ] },
+
+  { "expression": "sensual", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "relating to physical, especially sexual, pleasure",
+    "exchanges": [ { "uid": "s06_e16_c04_u010", "answer": "sensual",
+      "options": ["sensual", "sanitary", "seasonal", "sensible"] } ] },
+
+  { "expression": "back out", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to decide not to do something you had agreed or planned to do",
+    "exchanges": [ { "uid": "s06_e16_c05_u004", "answer": "back out",
+      "options": ["back out", "back up", "pass out", "sell out"] } ] },
+
+  { "expression": "wouldn't miss it for the world", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "used to say that you very much want to be at an event",
+    "exchanges": [ { "uid": "s06_e16_c05_u010", "answer": "for the world",
+      "options": ["for the world", "for a living", "for the record", "for a change"] } ] },
+
+  { "expression": "help out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to assist someone with work or a task",
+    "exchanges": [ { "uid": "s06_e16_c08_u009", "answer": "helping out",
+      "options": ["helping out", "hanging out", "working out", "making out"] } ] },
+
+  { "expression": "throw up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to vomit",
+    "exchanges": [ { "uid": "s06_e16_c10_u005", "answer": "throw up",
+      "options": ["throw up", "throw in", "show up", "give in"] } ] },
+
+  { "expression": "affair", "type": "word", "level": "middle", "pos": "noun",
+    "meaning": "a secret sexual relationship with someone who is not your husband or wife",
+    "exchanges": [ { "uid": "s06_e16_c10_u011", "answer": "affair",
+      "options": ["affair", "audition", "interview", "argument"] } ] },
+
+  { "expression": "find out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to learn or discover a piece of information",
+    "exchanges": [ { "uid": "s06_e16_c10_u018", "answer": "find out",
+      "options": ["find out", "point out", "sort out", "rule out"] } ] },
+
+  { "expression": "stand for", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to represent or symbolize something",
+    "exchanges": [ { "uid": "s06_e16_c10_u020", "answer": "stands for", "responseUid": "s06_e16_c10_u022",
+      "options": ["stands for", "stands by", "stands up", "stands out"] } ] },
+
+  { "expression": "learn one's lesson", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "to understand from a bad experience that you should not do something again",
+    "exchanges": [ { "uid": "s06_e16_c11_u008", "answer": "learned my lesson",
+      "options": ["learned my lesson", "lost my temper", "made my point", "missed my chance"] } ] },
+
+  { "expression": "check me out", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "look at me; used to draw attention to yourself, often jokingly",
+    "exchanges": [ { "uid": "s06_e16_c12_u005", "answer": "check me out",
+      "options": ["check me out", "count me in", "leave me alone", "help me up"] } ] },
+
+  { "expression": "physical", "type": "word", "level": "high", "pos": "noun",
+    "meaning": "a medical examination of your body by a doctor",
+    "exchanges": [ { "uid": "s06_e16_c12_u013", "answer": "physical",
+      "options": ["physical", "mortgage", "warranty", "diploma"] } ] },
+
+  { "expression": "big bucks", "type": "colloquial", "level": "middle", "pos": "noun",
+    "meaning": "a large amount of money",
+    "exchanges": [ { "uid": "s06_e16_c14_u018", "answer": "big bucks",
+      "options": ["big bucks", "big wheels", "hot dogs", "cold feet"] } ] },
+
+  { "expression": "take it easy", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "calm down and relax",
+    "exchanges": [ { "uid": "s06_e16_c14_u025", "answer": "Take it easy",
+      "options": ["Take it easy", "Take it back", "Make it quick", "Get it over"] } ] },
+
+  { "expression": "mean squat", "type": "colloquial", "level": "expert", "pos": "verb",
+    "meaning": "to mean nothing at all; to be completely unimportant",
+    "exchanges": [ { "uid": "s06_e16_c15_u012", "answer": "mean squat",
+      "options": ["mean squat", "mean well", "take turns", "ring true"] } ] },
+
+  { "expression": "sanctity", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "the quality of being holy or so important that it must be respected",
+    "exchanges": [ { "uid": "s06_e16_c15_u014", "answer": "sanctity",
+      "options": ["sanctity", "sanity", "scarcity", "severity"] } ] },
+
+  { "expression": "engage in", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to take part in an activity",
+    "exchanges": [ { "uid": "s06_e16_c15_u019", "answer": "engage in",
+      "options": ["engage in", "believe in", "result in", "check in"] } ] },
+
+  { "expression": "cheat on", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to be unfaithful to your partner by secretly seeing someone else",
+    "exchanges": [ { "uid": "s06_e16_c15_u025", "answer": "cheated on",
+      "options": ["cheated on", "cheered on", "checked on", "called on"] } ] },
+
+  { "expression": "hang out", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [ { "uid": "s06_e16_c16_u010", "answer": "hang out",
+      "options": ["hang out", "hang up", "freak out", "back off"] } ] }
+]

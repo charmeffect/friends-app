@@ -1,0 +1,128 @@
+[
+  { "expression": "what's with", "type": "colloquial", "level": "middle", "pos": "expression",
+    "meaning": "asked to find out the reason for something strange or unexpected",
+    "exchanges": [ { "uid": "s06_e17_c01_u005", "answer": "what's with",
+      "options": ["what's with", "who's with", "where's with", "how's with"] } ] },
+
+  { "expression": "pick up a shift", "type": "phrase", "level": "high", "pos": "verb",
+    "meaning": "to take on an extra period of work in addition to your normal schedule",
+    "exchanges": [ { "uid": "s06_e17_c01_u011", "answer": "pick up",
+      "options": ["pick up", "give off", "break up", "turn in"] } ] },
+
+  { "expression": "donate", "type": "word", "level": "middle", "pos": "verb",
+    "meaning": "to give something, such as blood or money, to help others without being paid for it",
+    "exchanges": [
+      { "uid": "s06_e17_c01_u016", "answer": "donate",
+        "options": ["donate", "borrow", "measure", "deliver"] },
+      { "uid": "s06_e17_c04_u002", "answer": "donate",
+        "options": ["donate", "borrow", "measure", "spill"] } ] },
+
+  { "expression": "be up to", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "to be doing or planning (what are you up to = what are you doing)",
+    "exchanges": [ { "uid": "s06_e17_c02_u004", "answer": "up to",
+      "options": ["up to", "out of", "off with", "in for"] } ] },
+
+  { "expression": "take it out of someone", "type": "colloquial", "level": "college", "pos": "expression",
+    "meaning": "to make someone feel very tired or exhausted",
+    "exchanges": [ { "uid": "s06_e17_c02_u007", "answer": "takes it out of",
+      "cueUid": "s06_e17_c02_u005", "responseUid": "s06_e17_c02_u009",
+      "options": ["takes it out of", "puts it up to", "gets it over on", "brings it down to"] } ] },
+
+  { "expression": "kick someone's ass", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to beat someone up or defeat them completely",
+    "exchanges": [
+      { "uid": "s06_e17_c02_u009", "answer": "kick",
+        "options": ["kick", "sell", "lend", "melt"] },
+      { "uid": "s06_e17_c05_u008", "answer": "kick",
+        "options": ["kick", "sell", "lend", "fold"] } ] },
+
+  { "expression": "befall", "type": "word", "level": "expert", "pos": "verb",
+    "meaning": "to happen to someone, usually something bad",
+    "exchanges": [ { "uid": "s06_e17_c02_u021", "answer": "befall",
+      "options": ["befall", "befriend", "behold", "bestow"] } ] },
+
+  { "expression": "kill for", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to want something so much that you would do almost anything to get it",
+    "exchanges": [ { "uid": "s06_e17_c02_u018", "answer": "kill for",
+      "options": ["kill for", "die from", "fight with", "run to"] } ] },
+
+  { "expression": "make reservations", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to arrange in advance to have a table at a restaurant",
+    "exchanges": [ { "uid": "s06_e17_c02_u027", "answer": "made reservations",
+      "options": ["made reservations", "took orders", "paid attention", "got directions"] } ] },
+
+  { "expression": "appealing", "type": "word", "level": "college", "pos": "adjective",
+    "meaning": "attractive or interesting to someone",
+    "exchanges": [ { "uid": "s06_e17_c02_u038", "answer": "appealing",
+      "options": ["appealing", "applauding", "appointing", "apparent"] } ] },
+
+  { "expression": "take credit for", "type": "phrase", "level": "college", "pos": "verb",
+    "meaning": "to accept praise for something, especially when you do not deserve it",
+    "exchanges": [ { "uid": "s06_e17_c02_u049", "answer": "take credit for",
+      "options": ["take credit for", "make room for", "give way to", "pay tribute to"] } ] },
+
+  { "expression": "for crying out loud", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to show annoyance, surprise, or disbelief about something",
+    "exchanges": [ { "uid": "s06_e17_c02_u050", "answer": "for crying out loud",
+      "options": ["for crying out loud", "for better or worse", "for the time being", "for good measure"] } ] },
+
+  { "expression": "can't wait", "type": "phrase", "level": "elementary", "pos": "verb",
+    "meaning": "to be very excited about something that is going to happen",
+    "exchanges": [ { "uid": "s06_e17_c03_u009", "answer": "can't wait",
+      "options": ["can't wait", "don't care", "won't stop", "can't help"] } ] },
+
+  { "expression": "save up", "type": "phrase", "level": "middle", "pos": "verb",
+    "meaning": "to keep money so that you can pay for something later",
+    "exchanges": [ { "uid": "s06_e17_c04_u004", "answer": "saving up",
+      "options": ["saving up", "making up", "looking up", "running up"] } ] },
+
+  { "expression": "drastic measures", "type": "phrase", "level": "college", "pos": "noun",
+    "meaning": "extreme or severe actions taken to deal with a situation",
+    "exchanges": [ { "uid": "s06_e17_c05_u010", "answer": "drastic measures",
+      "options": ["drastic measures", "minor details", "rough drafts", "basic steps"] } ] },
+
+  { "expression": "replica", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "an exact copy of an object, often made smaller than the original",
+    "exchanges": [ { "uid": "s06_e17_c07_u011", "answer": "replica",
+      "options": ["replica", "recipe", "rehearsal", "receipt"] } ] },
+
+  { "expression": "make it up to", "type": "colloquial", "level": "high", "pos": "verb",
+    "meaning": "to do something good for someone to compensate for a wrong you did to them",
+    "exchanges": [ { "uid": "s06_e17_c08_u026", "answer": "make this up",
+      "options": ["make this up", "take this out", "put this off", "bring this down"] } ] },
+
+  { "expression": "forgiven", "type": "word", "level": "middle", "pos": "adjective",
+    "meaning": "no longer blamed or held responsible for something wrong you did",
+    "exchanges": [ { "uid": "s06_e17_c09_u004", "answer": "forgiven",
+      "options": ["forgiven", "forgotten", "forbidden", "forecast"] } ] },
+
+  { "expression": "on behalf of", "type": "phrase", "level": "college", "pos": "expression",
+    "meaning": "as the representative of someone, or for their benefit",
+    "exchanges": [ { "uid": "s06_e17_c09_u021", "answer": "behalf",
+      "options": ["behalf", "basis", "bottom", "border"] } ] },
+
+  { "expression": "mess up", "type": "colloquial", "level": "middle", "pos": "verb",
+    "meaning": "to spoil or ruin something",
+    "exchanges": [ { "uid": "s06_e17_c09_u027", "answer": "messed it up",
+      "options": ["messed it up", "picked it up", "gave it up", "looked it up"] } ] },
+
+  { "expression": "fiasco", "type": "word", "level": "college", "pos": "noun",
+    "meaning": "a complete and embarrassing failure",
+    "exchanges": [ { "uid": "s06_e17_c11_u003", "answer": "fiasco",
+      "options": ["fiasco", "fresco", "fiesta", "flamingo"] } ] },
+
+  { "expression": "let me get this straight", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said before repeating something to make sure you have understood it correctly",
+    "exchanges": [ { "uid": "s06_e17_c13_u015", "answer": "get this straight",
+      "options": ["get this straight", "put this away", "keep this quiet", "take this back"] } ] },
+
+  { "expression": "are you kidding me", "type": "colloquial", "level": "elementary", "pos": "expression",
+    "meaning": "said to show surprise, disbelief, or annoyance at what someone has said or done",
+    "exchanges": [ { "uid": "s06_e17_c14_u005", "answer": "kiddin'",
+      "options": ["kiddin'", "tellin'", "askin'", "followin'"] } ] },
+
+  { "expression": "I dare you", "type": "colloquial", "level": "high", "pos": "expression",
+    "meaning": "said to challenge someone to do something you think they are too afraid to do",
+    "exchanges": [ { "uid": "s06_e17_c02_u012", "answer": "dare",
+      "options": ["dare", "thank", "tell", "pay"] } ] }
+]

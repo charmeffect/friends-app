@@ -1,0 +1,528 @@
+[
+{
+  "expression": "make out with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kiss and touch someone in a sexual way",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c01_u014",
+      "answer": "made out with",
+      "options": [
+        "made out with",
+        "broke up with",
+        "caught up with",
+        "put up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hit it off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to like each other and become friendly as soon as you meet",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c02_u006",
+      "answer": "hit it off",
+      "options": [
+        "hit it off",
+        "call it off",
+        "put it off",
+        "pull it off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dig",
+  "type": "word",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to like or appreciate something very much (slang)",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c02_u011",
+      "answer": "dug",
+      "options": [
+        "dug",
+        "hid",
+        "lost",
+        "broke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freak out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become very anxious, upset, or panicked",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c02_u020",
+      "answer": "freak me out",
+      "options": [
+        "freak me out",
+        "let me in",
+        "help me up",
+        "show me off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get choked up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "to become so emotional that you are close to crying",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c03_u013",
+      "answer": "choked up",
+      "options": [
+        "choked up",
+        "locked up",
+        "signed up",
+        "cleaned up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep treating someone unfairly or making fun of them",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c03_u015",
+      "answer": "pick on",
+      "options": [
+        "pick on",
+        "look up",
+        "count on",
+        "wait for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "macho",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "acting tough and hiding feelings in a way meant to seem very manly",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c03_u009",
+      "answer": "macho",
+      "responseUid": null,
+      "options": [
+        "macho",
+        "nosy",
+        "clumsy",
+        "picky"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dead inside",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "unable to feel or show any emotion",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c03_u027",
+      "answer": "dead inside",
+      "responseUid": null,
+      "options": [
+        "dead inside",
+        "late again",
+        "wide awake",
+        "out there"
+      ]
+    },
+    {
+      "uid": "s06_e14_c06_u025",
+      "answer": "dead inside",
+      "options": [
+        "dead inside",
+        "late again",
+        "wide awake",
+        "out there"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blow someone off",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to cancel plans with someone or ignore them without giving a good reason",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c05_u004",
+      "answer": "blew me off",
+      "cueUid": null,
+      "options": [
+        "blew me off",
+        "took me out",
+        "made me up",
+        "set me up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c05_u005",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "look after",
+        "run into",
+        "go with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up-and-comer",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a person who is starting to become successful and is likely to do well",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c05_u005",
+      "answer": "up-and-comer",
+      "options": [
+        "up-and-comer",
+        "has-been",
+        "know-it-all",
+        "show-off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cheer up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel happier",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c05_u006",
+      "answer": "cheer me up",
+      "options": [
+        "cheer me up",
+        "pick me up",
+        "mix me up",
+        "turn me down"
+      ]
+    },
+    {
+      "uid": "s06_e14_c08_u007",
+      "answer": "cheer me up",
+      "cueUid": "s06_e14_c08_u005",
+      "options": [
+        "cheer me up",
+        "mix me up",
+        "wear me out",
+        "turn me down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blow one's chances",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to lose an opportunity by doing something foolish",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c05_u025",
+      "answer": "blew your chances",
+      "options": [
+        "blew your chances",
+        "made your choices",
+        "paid your dues",
+        "did your homework"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a liking to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to start to like someone or something",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c08_u002",
+      "answer": "taken a liking to",
+      "options": [
+        "taken a liking to",
+        "taken a stand on",
+        "made a point of",
+        "lost track of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "calm down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop feeling angry, excited, or nervous",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c10_u008",
+      "answer": "calm down",
+      "options": [
+        "calm down",
+        "hurry up",
+        "back off",
+        "speak up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get back at",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something bad to someone because they hurt you",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c10_u009",
+      "answer": "get back at",
+      "options": [
+        "get back at",
+        "look up to",
+        "get along with",
+        "keep up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are pleased about or approve of what someone has done",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c06_u034",
+      "answer": "Good for you",
+      "options": [
+        "Good for you",
+        "Shame on you",
+        "Bless you",
+        "Watch out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at something closely because it interests you",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c04_u019",
+      "answer": "check out",
+      "responseUid": null,
+      "options": [
+        "check out",
+        "put off",
+        "give up",
+        "turn down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cry a river",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to cry a great deal over something",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c07_u016",
+      "answer": "crying a river",
+      "options": [
+        "crying a river",
+        "running a mile",
+        "holding a grudge",
+        "making a scene"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "eulogy",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a speech or piece of writing praising someone who has just died",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c07_u016",
+      "answer": "eulogy",
+      "options": [
+        "eulogy",
+        "résumé",
+        "invoice",
+        "recipe"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk someone into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to do something they were not planning to do",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c09_u018",
+      "answer": "talk them into",
+      "options": [
+        "talk them into",
+        "keep them from",
+        "put them off",
+        "let them down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shame on you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone they should feel guilty about what they did",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c09_u019",
+      "answer": "shame on you",
+      "responseUid": null,
+      "options": [
+        "shame on you",
+        "good for you",
+        "lucky you",
+        "after you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work it out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to solve a problem or settle a disagreement with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c12_u022",
+      "answer": "work things out",
+      "responseUid": null,
+      "options": [
+        "work things out",
+        "give things up",
+        "mix things up",
+        "leave things out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sabotage",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to deliberately damage or ruin something so that it fails",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c13_u002",
+      "answer": "sabotage",
+      "options": [
+        "sabotage",
+        "celebrate",
+        "imitate",
+        "memorize"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw oneself at",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try very eagerly and obviously to get someone's attention or favour",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c13_u004",
+      "answer": "throw myself at",
+      "options": [
+        "throw myself at",
+        "keep myself from",
+        "pull myself up",
+        "lock myself in"
+      ]
+    }
+  ]
+}
+]
