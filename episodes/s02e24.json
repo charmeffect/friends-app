@@ -597,26 +597,6 @@
 },
 
 {
-  "expression": "make it through",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to manage to get to the end of a difficult event or period",
-  "exchanges": [
-    {
-      "uid": "s02_e24_c10_u018",
-      "answer": "make it through",
-      "options": [
-        "make it through",
-        "get it over",
-        "pull it off",
-        "think it over"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "what now",
   "type": "colloquial",
   "level": "elementary",
