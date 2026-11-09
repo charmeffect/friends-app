@@ -5,6 +5,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { applyFixes } = require('./text-fixes');
 
 const root = path.join(__dirname, '..');
 const arg = (process.argv.slice(2).join(' ') || '').toLowerCase();
@@ -35,7 +36,7 @@ ep.scenes.forEach(sc => {
   const cNum = sc.scene_id.split('_').pop();
   console.log(`\n--- Scene ${cNum} ---`);
   sc.utterances.forEach(u => {
-    const text = (u.transcript || '').trim();
+    const text = applyFixes(u.utterance_id, (u.transcript || '').trim());
     if (!text) return;
     const uid = u.utterance_id.split('_').pop(); // uNNN
     const who = (u.speakers || []).map(firstName).join('+') || '#NOTE';

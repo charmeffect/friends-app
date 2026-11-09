@@ -141,26 +141,6 @@
 },
 
 {
-  "expression": "big break",
-  "type": "phrase",
-  "level": "high",
-  "pos": "noun",
-  "meaning": "a sudden lucky opportunity that leads to success, especially in a career",
-  "exchanges": [
-    {
-      "uid": "s06_e20_c03_u018",
-      "answer": "Big Break",
-      "options": [
-        "Big Break",
-        "Big Fall",
-        "Big Loss",
-        "Big Drop"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "wish me luck",
   "type": "colloquial",
   "level": "elementary",
@@ -322,27 +302,6 @@
 },
 
 {
-  "expression": "over the line",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "expression",
-  "meaning": "beyond what is acceptable behaviour",
-  "exchanges": [
-    {
-      "uid": "s06_e20_c08_u026",
-      "answer": "over the line",
-      "responseUid": null,
-      "options": [
-        "over the line",
-        "out of the loop",
-        "off the hook",
-        "under the weather"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "run into",
   "type": "phrase",
   "level": "elementary",
@@ -377,26 +336,6 @@
         "cheering yourself up",
         "giving yourself up",
         "locking yourself up"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "ramble on",
-  "type": "phrase",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to talk or write at great length in a confused or boring way",
-  "exchanges": [
-    {
-      "uid": "s06_e20_c09_u018",
-      "answer": "rambled on",
-      "options": [
-        "rambled on",
-        "carried out",
-        "dropped off",
-        "signed up"
       ]
     }
   ]
@@ -444,26 +383,6 @@
 },
 
 {
-  "expression": "go commando",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "verb",
-  "meaning": "to wear no underwear",
-  "exchanges": [
-    {
-      "uid": "s06_e20_c09_u047",
-      "answer": "going commando",
-      "options": [
-        "going commando",
-        "going bananas",
-        "going steady",
-        "going solo"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "have someone going",
   "type": "colloquial",
   "level": "college",
@@ -477,7 +396,7 @@
         "had me going",
         "got me thinking",
         "let me down",
-        "made me laugh"
+        "kept me up"
       ]
     }
   ]

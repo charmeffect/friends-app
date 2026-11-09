@@ -215,7 +215,7 @@
         "guilty",
         "grateful",
         "jealous",
-        "nervous"
+        "bored"
       ]
     }
   ]
@@ -316,46 +316,6 @@
         "signed you up",
         "called you back",
         "cut you in"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "hell of a",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "used to emphasize that something was very intense, hard, or remarkable",
-  "exchanges": [
-    {
-      "uid": "s08_e19_c09_u003",
-      "answer": "hell of a",
-      "options": [
-        "hell of a",
-        "piece of a",
-        "bit of a",
-        "sort of a"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "tough call",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "noun",
-  "meaning": "a decision that is difficult to make",
-  "exchanges": [
-    {
-      "uid": "s08_e19_c09_u012",
-      "answer": "tough call",
-      "options": [
-        "tough call",
-        "close shave",
-        "low blow",
-        "cheap shot"
       ]
     }
   ]

@@ -91,8 +91,8 @@
       "answer": "sucks",
       "options": [
         "sucks",
-        "rocks",
-        "rules",
+        "sinks",
+        "sings",
         "counts"
       ]
     }
@@ -133,8 +133,8 @@
       "options": [
         "creepy",
         "crispy",
-        "cranky",
-        "chubby"
+        "crunchy",
+        "creamy"
       ]
     }
   ]
@@ -441,9 +441,9 @@
       "responseUid": "s06_e02_c08_u018",
       "options": [
         "sound mind",
-        "clear head",
+        "cold feet",
         "right spirit",
-        "good sense"
+        "true love"
       ]
     }
   ]

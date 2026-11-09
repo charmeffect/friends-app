@@ -44,7 +44,7 @@
   "type": "word",
   "level": "college",
   "pos": "verb",
-  "meaning": "to like or appreciate something very much (slang)",
+  "meaning": "to like or appreciate something very much",
   "exchanges": [
     {
       "uid": "s06_e14_c02_u011",
@@ -112,8 +112,8 @@
       "options": [
         "pick on",
         "look up",
-        "count on",
-        "wait for"
+        "take after",
+        "fill in"
       ]
     }
   ]
@@ -184,9 +184,9 @@
       "cueUid": null,
       "options": [
         "blew me off",
-        "took me out",
+        "showed me around",
         "made me up",
-        "set me up"
+        "paid me back"
       ]
     }
   ]
@@ -244,8 +244,8 @@
       "answer": "cheer me up",
       "options": [
         "cheer me up",
-        "pick me up",
         "mix me up",
+        "wear me out",
         "turn me down"
       ]
     },
@@ -316,7 +316,7 @@
       "options": [
         "calm down",
         "hurry up",
-        "back off",
+        "show up",
         "speak up"
       ]
     }

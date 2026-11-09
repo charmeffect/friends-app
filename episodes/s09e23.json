@@ -12,7 +12,7 @@
       "options": [
         "hang out",
         "hold on",
-        "make up",
+        "give up",
         "pass out"
       ]
     }
@@ -414,9 +414,9 @@
       "answer": "read too much into",
       "options": [
         "read too much into",
-        "put too much into",
-        "get too much into",
-        "take too much into"
+        "run too short of",
+        "fall too far behind",
+        "stay too long at"
       ]
     }
   ]

@@ -123,9 +123,9 @@
       "answer": "sneak out",
       "options": [
         "sneak out",
-        "sneak in",
-        "sneak up",
-        "sneak by"
+        "speak up",
+        "give in",
+        "stand out"
       ]
     }
   ]
@@ -185,7 +185,7 @@
         "jerk",
         "nerd",
         "hero",
-        "fool"
+        "saint"
       ]
     }
   ]
@@ -416,7 +416,7 @@
 
 {
   "expression": "head rush",
-  "type": "word",
+  "type": "colloquial",
   "level": "college",
   "pos": "noun",
   "meaning": "a brief dizzy feeling you get when you stand up too quickly",

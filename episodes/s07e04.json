@@ -363,7 +363,7 @@
 
 {
   "expression": "head rush",
-  "type": "word",
+  "type": "colloquial",
   "level": "college",
   "pos": "noun",
   "meaning": "a brief dizzy feeling you get when you stand up too quickly",
@@ -451,9 +451,9 @@
   "exchanges": [
     {
       "uid": "s07_e04_c13_u006",
-      "answer": "for old times sake",
+      "answer": "for old times' sake",
       "options": [
-        "for old times sake",
+        "for old times' sake",
         "for the record",
         "on the house",
         "by the way"

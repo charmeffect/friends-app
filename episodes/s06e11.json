@@ -48,11 +48,11 @@
   "exchanges": [
     {
       "uid": "s06_e11_c02_u025",
-      "answer": "mass produced",
+      "answer": "mass-produced",
       "options": [
-        "mass produced",
-        "hand crafted",
-        "second hand",
+        "mass-produced",
+        "hand-crafted",
+        "second-hand",
         "locally grown"
       ]
     }

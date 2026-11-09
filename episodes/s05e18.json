@@ -75,7 +75,7 @@
         "get some fresh air",
         "take some fresh air",
         "make some fresh air",
-        "have some fresh air"
+        "give some fresh air"
       ]
     }
   ]
@@ -94,7 +94,7 @@
       "options": [
         "take off",
         "take out",
-        "get off",
+        "look up",
         "put off"
       ]
     }
@@ -219,7 +219,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+  "meaning": "said to agree strongly with what someone has just said, often because you have experienced the same thing",
   "exchanges": [
     {
       "uid": "s05_e18_c10_u009",

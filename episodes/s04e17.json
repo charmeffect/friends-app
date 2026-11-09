@@ -11,9 +11,9 @@
       "answer": "Look out",
       "options": [
         "Look out",
-        "Hold on",
+        "Check in",
         "Come in",
-        "Sit down"
+        "Sign up"
       ]
     }
   ]
@@ -32,9 +32,9 @@
       "cueUid": "s04_e17_c03_u007",
       "options": [
         "cheer up",
-        "calm down",
         "hurry up",
-        "slow down"
+        "sign up",
+        "dress up"
       ]
     }
   ]
@@ -510,7 +510,7 @@
       "options": [
         "bugger off",
         "cheer up",
-        "hang on",
+        "show off",
         "turn in"
       ]
     }

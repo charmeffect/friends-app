@@ -32,7 +32,7 @@
       "options": [
         "calm down",
         "come along",
-        "hold up",
+        "give up",
         "sit back"
       ]
     }
@@ -271,7 +271,7 @@
       "answer": "word of advice",
       "options": [
         "word of advice",
-        "piece of mind",
+        "peace of mind",
         "point of view",
         "matter of fact"
       ]
@@ -293,7 +293,7 @@
         "through with",
         "up against",
         "down for",
-        "out of"
+        "in on"
       ]
     }
   ]
@@ -333,8 +333,8 @@
       "options": [
         "had a thing for",
         "made a point of",
-        "took a look at",
-        "got a kick out"
+        "took a stand on",
+        "set a price on"
       ]
     }
   ]

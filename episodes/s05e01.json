@@ -1,25 +1,5 @@
 [
 {
-  "expression": "take your time",
-  "type": "colloquial",
-  "level": "elementary",
-  "pos": "expression",
-  "meaning": "said to tell someone there is no need to hurry",
-  "exchanges": [
-    {
-      "uid": "s05_e01_c02_u004",
-      "answer": "take your time",
-      "options": [
-        "take your time",
-        "make your bed",
-        "hold your horses",
-        "watch your step"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "hurry up",
   "type": "colloquial",
   "level": "elementary",
@@ -114,26 +94,6 @@
         "should've been here",
         "would've been late",
         "might've been fun"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "spoil",
-  "type": "word",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to ruin something so that it is no longer good or enjoyable",
-  "exchanges": [
-    {
-      "uid": "s05_e01_c02_u002",
-      "answer": "spoiled",
-      "options": [
-        "spoiled",
-        "spilled",
-        "spelled",
-        "spared"
       ]
     }
   ]
@@ -274,12 +234,12 @@
   "exchanges": [
     {
       "uid": "s05_e01_c05_u003",
-      "answer": "sound proof",
+      "answer": "soundproof",
       "options": [
-        "sound proof",
-        "water proof",
-        "bullet proof",
-        "fire proof"
+        "soundproof",
+        "foolproof",
+        "waterproof",
+        "ovenproof"
       ]
     }
   ]
@@ -347,27 +307,6 @@
 },
 
 {
-  "expression": "clear your head",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to stop feeling confused or upset so you can think calmly again",
-  "exchanges": [
-    {
-      "uid": "s05_e01_c08_u020",
-      "answer": "clear your head",
-      "cueUid": "s05_e01_c08_u018",
-      "options": [
-        "clear your head",
-        "lose your mind",
-        "hold your tongue",
-        "watch your mouth"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "on standby",
   "type": "phrase",
   "level": "high",
@@ -376,34 +315,13 @@
   "exchanges": [
     {
       "uid": "s05_e01_c08_u005",
-      "answer": "on Standby",
+      "answer": "on standby",
       "responseUid": "s05_e01_c08_u007",
       "options": [
-        "on Standby",
-        "on Duty",
-        "on Board",
-        "on Call"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "interchangeable",
-  "type": "word",
-  "level": "college",
-  "pos": "adjective",
-  "meaning": "able to be swapped for one another without any difference",
-  "exchanges": [
-    {
-      "uid": "s05_e01_c02_u013",
-      "answer": "interchangeable",
-      "cueUid": "s05_e01_c02_u011",
-      "options": [
-        "interchangeable",
-        "indispensable",
-        "incomprehensible",
-        "irreplaceable"
+        "on standby",
+        "on duty",
+        "on fire",
+        "on call"
       ]
     }
   ]
@@ -485,26 +403,6 @@
         "putting me all on",
         "letting me all down",
         "taking me all in"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "same difference",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "expression",
-  "meaning": "said to dismiss a distinction as unimportant because the result is the same",
-  "exchanges": [
-    {
-      "uid": "s05_e01_c08_u015",
-      "answer": "Same difference",
-      "options": [
-        "Same difference",
-        "Hard luck",
-        "Small world",
-        "Long shot"
       ]
     }
   ]

@@ -74,8 +74,8 @@
       "options": [
         "stay over",
         "drop out",
-        "head back",
-        "move on"
+        "sign up",
+        "give in"
       ]
     }
   ]
@@ -380,7 +380,7 @@
       "answer": "True story",
       "options": [
         "True story",
-        "Real talk",
+        "Good luck",
         "Fair point",
         "Big news"
       ]
@@ -411,7 +411,7 @@
       "options": [
         "Save it",
         "Lose it",
-        "Watch it",
+        "Fake it",
         "Make it"
       ]
     }

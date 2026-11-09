@@ -11,9 +11,9 @@
       "answer": "pretty much",
       "options": [
         "pretty much",
-        "very much",
         "so much",
-        "too much"
+        "too much",
+        "how much"
       ]
     }
   ]
@@ -151,9 +151,9 @@
       "answer": "sucks",
       "options": [
         "sucks",
-        "rocks",
-        "counts",
-        "works"
+        "sinks",
+        "sings",
+        "counts"
       ]
     }
   ]
@@ -410,12 +410,12 @@
   "exchanges": [
     {
       "uid": "s02_e15_c06_u021",
-      "answer": "self conscious",
+      "answer": "self-conscious",
       "options": [
-        "self conscious",
-        "self employed",
-        "self centered",
-        "self assured"
+        "self-conscious",
+        "self-employed",
+        "self-centered",
+        "self-assured"
       ]
     }
   ]

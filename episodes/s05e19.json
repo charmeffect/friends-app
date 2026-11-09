@@ -74,9 +74,9 @@
       "responseUid": null,
       "options": [
         "calm down",
-        "slow down",
-        "sit down",
-        "cool off"
+        "break down",
+        "look up",
+        "give in"
       ]
     }
   ]
@@ -228,7 +228,7 @@
       "answer": "pissed him off",
       "options": [
         "pissed him off",
-        "put him down",
+        "paid him back",
         "let him in",
         "took him out"
       ]

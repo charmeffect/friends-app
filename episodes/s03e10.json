@@ -264,12 +264,12 @@
   "exchanges": [
     {
       "uid": "s03_e10_c08_u025",
-      "answer": "give into",
+      "answer": "give in to",
       "options": [
-        "give into",
-        "run into",
-        "look into",
-        "bump into"
+        "give in to",
+        "run out of",
+        "look down on",
+        "make up for"
       ]
     }
   ]

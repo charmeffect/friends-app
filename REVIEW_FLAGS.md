@@ -195,3 +195,78 @@ User decision: Friends-level sexual scenes stay; only items whose expression is 
 - **itinerary** `s01_e24_c02_u027` — answer marker [[...]] not present in line (line truncated?)
 - **jackass** `s05_e04_c05_u002` — answer marker [[...]] not present in line (line truncated?)
 - **kiss and tell** `s10_e01_c07_u016` — answer marker [[...]] not present in line (line truncated?)
+
+## Typo/suitability audit 2026-11-09 — left for a human look
+
+961 lines corrected through fixes/text-fixes.json, 227 option sets replaced. Remaining flags (mostly merged speakers or garbled lines that could not be recovered):
+
+- all of a sudden s01_e17_c05_u009 - Speaker mislabel: the line (and response u011) is Ross's dad Jack, but shown as 'Ross:'; cue u008 is Ross saying 'Thanks, Dad'.
+- ask out s01_e01_c02_u031 - Cue text merges two speakers: 'Maybe. Joey: Wait. Your...' (Joey's line glued onto Monica's).
+- hang out s09_e19_c13_u002 - Line merges two speakers: Monica's maple-candy lines then 'Ross: Hi you guys!...' — the tested 'hang out' is Ross's words but shown as Monica's. Consider splitting or dropping this exchange.
+- calm down s06_e14_c10_u008 - Stammer 'Rach calm-[[calm down]]' shows the first word of the answer right before the blank; consider trimming 'calm-' or using another exchange.
+- metaphor / freak out / end up s10_e10_c05_u056 - s10e10 scene c05 repeats lines from s01e01 (shoe/metaphor), s05e08 (u074 'Monica's gonna totally freak out', duplicate of s05_e08_c07_u011) and s06e06 (u137 end up). Likely clip/recap material; the metaphor cue (Ross: 'how can you leave this place?') does not match the line. Consider removing the s10e10 duplicates.
+- freak out / deal with s07_e05_c07_u013 - Speaker name shows as 'The:' (truncated, e.g. 'The Guy'); also s04_e14_c06_u003 'The:'.
+- break up with s09_e20_c08_u012 - cue text merges two speakers (Monica's line ends and 'Ross: So, eh...' follows in the same utterance); consider choosing another cue
+- go out with s09_e20_c10_u005 - cue text merges Dirk's line with 'Joey: Hey Ross, listen...' in one utterance; speaker voice will be wrong
+- get over s06_e25_c08_u024 - textFix inserts missing 'you' ('getting over you was the hardest thing') from memory of the episode; please confirm
+- draw out s01_e04_c12_u009 - 'he's a preppy animal' looks odd; may be a transcript error (party animal?) - check the episode
+- pack your bags s09_e19_c02_u010 - Line labelled Phoebe contains an embedded 'Chandler:' turn; the tested 'Pack your bags!' is actually Chandler's line in a different scene. Split or replace the exchange.
+- make out with s02_e13_c01_u022 - Speaker label 'Director's' is garbled (cue and response) in the source transcript.
+- push back s01_e12_c06_u001 - Speaker label "Phoebe's" is garbled (probably Phoebe's assistant/receptionist).
+- guts s02_e24_c10_u009 - Speaker label 'Best' is garbled (best man).
+- look out s04_e17_c02_u021 - Here 'Look out!' means 'get out of the way' rather than warning of danger; meaning only loosely fits.
+- you're one to talk s01_e13_c03_u011 - Cue, line and response all labelled 'Joey' (Joey and his father Joey Sr.); confusing for learners.
+- cheer up s03_e01_c03_u005 - Janice line 'Monica and Rachel had syrup, now I can get my man to cheer up' reads garbled (syrup -> cheer up makes little sense); check transcript, may need a different exchange
+- so long as s01_e19_c08_u007 - 'not on the subject' is probably a transcript slip for 'now on the subject'; left unchanged
+- do someone a favor s07_e23_c05_u039 - 'could you do me a favor and would talk to Chandler's dad' is ungrammatical transcript text; left unchanged
+- spoiled s06_e13_c02_u033 - 'Is this the spoiled one or that's bitter?' is broken ('or the one that's bitter'); left unchanged
+- let someone go s01_e16_c11_u006 - cue gives little context; distractors 'set her up / took her on' are past forms that fit grammatically. Probably fine but worth a glance
+- hang on s07_e04_c09_u007 - Cue line garbled: 'Oh, my-my new assistant has very happy that I hired my new assistant.' — probably mis-transcribed; check against the episode.
+- help out s09_e04_c02_u024 - Line contains 'you don't seem like the kind of guy that does this very a lot' — garbled ('very often'/'a lot'?); check source.
+- (several) s07_e07_c06_u003 - Speaker shown as 'The:' (truncated name, e.g. 'The Waitress'/'The Woman') in s07_e07_c06_u003/u005, s07_e09_c08_u017/u019/u021, s07_e23_c03_u022, s08_e21_c13_u013; also 'Dr.:', 'Mr.:', 'Store:', 'Flight:' — display/gender lookup may look odd.
+- break someone's heart s06_e01_c03_u032 - 'he's not gonna think that I don't love him anymore' likely should be 'he's gonna think...' (transcript reverses the meaning); left unchanged
+- let me get this straight s03_e25_c11_u015 - cue has a missing word: 'getting over Rachel was so , y'know?'
+- in person s04_e11_c05_u014 - response speaker looks mislabeled: 'Phoebe: I really don't think it's a very good idea, Phoebe.' (should be Frank Jr./Alice)
+- take off s07_e24_c01_u005 - 'why Chandler took off' — check against episode; response talks about who took a pregnancy test, may be a transcript speaker/name slip
+- rebound s09_e13_c11_u005 - distractors 'weekend'/'holiday' arguably fit 'this is not some ___ thing'; only the next sentence disambiguates
+- see it coming s02_e20_c07_u016 - response line text begins 'Phoebe, just watch that...' but is labelled Phoebe; speaker likely Richard (speaker attribution in source)
+- get mad s10_e01_c03_u078 - Line text 'I'm on a edge on Chandler.' looks garbled in the transcript (not the blank); check the real line and fix or trim.
+- just in case s07_e18_c03_u006 - 'But no Chandler is in an accident and can't perform...' seems garbled (probably 'But say Chandler is in an accident'); left unchanged.
+- abridgment s03_e12_c02_u013 - Line is just 'The abridgment.' with cue/response 'The what?' - almost no context to answer from; consider whether it is answerable.
+- betray s09_e18_c02_u107 - 'The psychic said I would be ___' fits beheaded/bedridden too; only the response disambiguates. Consider less plausible distractors.
+- ground rules / your call / uneven / laughable / mind if s03_e17_c06_u012, s03_e22_c04_u042, s03_e22_c04_u044 - speaker name garbled as 'The' (transcript artifact); cannot be fixed via textFixes since the speaker prefix is excluded
+- get back together / rambled on s04_e01_c12_u020-u021 vs s06_e20_c09_u018-u019 - s06e20 scene is a flashback clip identical to s04e01; the same line appears twice as separate exchanges
+- be on for s07_e11_c02_u004 - cue-adjacent text 'it's just not my character that's not brain dead' looks garbled (probably 'it's not just my character that's brain dead'); left unchanged
+- pass out / step up s04_e01_c10_u030 - 'anyone of you' (= any one of you) left as spoken; owner may prefer 'any one of you'
+- handle it s04_e15_c06_u022 - Near-duplicate of 'can handle it' (s04_e04_c05_u010, same answer 'handle it'); consider merging the two items.
+- go all out s04_e11_c05_u007 - Speaker labels in this scene look wrong: u006 ('glazing my nipples') and u008 ('working on my pottery') are Alice's lines, not Phoebe's; as shown, Phoebe appears to talk to herself.
+- alimony s07_e22_c02_u018 - Cue (comb on the bathroom floor) gives no clue for 'Alimony'; Mortgage/Tuition/Insurance are equally guessable. Consider a different cue or dropping this exchange.
+- fill in for s04_e09_c02_u004 - Response u005 'Monica: Wow, Monica! ...' is Phoebe's line (speaker label wrong).
+- stick up for s05_e06_c04_u029 - 'the people we fog' is correct (Danny was bug-fogged) but may confuse learners without context; left as is.
+- on a clock s05_e03_c11_u004 - The standard idiom is "on the clock"; the line really says "on a clock", so the expression name may mislead learners. Consider renaming it, or explain the standard form in the meaning.
+- half-decent s04_e23_c10_u012 - "Don't you point your pants at me!" may be a transcript garble. Check it against the episode.
+- nail s05_e11_c04_u005 - This duplicates the separate item "nail it" (same sense). Consider merging the two.
+- on fire s09_e16_c06_u016 - Line merges Joey's 'I am on fire!' with a following Chandler line ('Chandler : Listen...this is really nice...'); the Chandler part should be split off or cut.
+- fall apart s05_e20_c02_u015 - Speaker is labeled Ross but the line says 'Ross has the blender!' and Rachel replies 'I'll go to Ross's'; speaker is probably Monica (mislabel).
+- like a moth to a flame s06_e07_c09_u009 - Joey's line seems to absorb another speaker's lines ('What the hell's going on over here?!?!? Monica's gonna kill you!'); cue s06_e07_c09_u008 also contains keyboard-mash gibberish 'blahebdmsdlkhdyslkd;btyds'.
+- on a break s10_e18_c10_u021 - Response 'Don't make jokes now.' is labeled Ross right after Ross's line; probably Rachel.
+- get back to s05_e24_c06_u011 - Line is only 'I have to get back to...' (truncated, speaker 'Joey's'); weak context for the blank.
+- wily s06_e10_c04_u009 - 'She's always best at us' (also s09_e10_c04_u008) is probably a mishearing of 'She always bests us' / 'beats us'; left unchanged.
+- off the air s07_e04_c09_u007 - Cue line garbled: 'my new assistant has very happy that I hired my new assistant'.
+- jog someone's memory s06_e22_c02_u009 - Response garbled: 'Show me in the table.' Speaker shown as 'The'.
+- what's not to like s06_e09_c07_u068 - Response u070 is Rachel's unrelated line from a different exchange; s06e09 and s08e19 exchanges are the same scene (recap).
+- pop into one's head s06_e21_c04_u033 - Line mixes speakers ('coffees--Yeah, why don't you.').
+- show of hands s08_e04_c02_u030 - 'send Ross begging symbols' looks garbled (maybe 'signals'); could not confirm original wording
+- hook someone up s07_e20_c03_u004 - response 'Don't try to blue pin me!' looks garbled; original wording unknown
+- mess around s07_e17_c12_u005 - meaning is the sexual sense of mess around; mild, but owner may want to check against the content rule
+- be screwed s07_e17_c09_u015 - response 'So techincally, technically' - misspelling may be a deliberate stumble; left as is
+- drive out s07_e10_c09_u019 - 'you might as well just gotten him a fish' is missing 'have'; left as spoken
+- keep up s09_e05_c12_u002 - Joey's order is garbled after the fix: 'and that any that stuff I just said means snails' (probably 'and if any of that stuff I just said means snails, I don't want it'); left unchanged, check against the episode.
+- role model s08_e19_c03_u027 - cue uid s08_e19_c02_u046 is from a different scene (c02) than the line (c03); check that the cue really precedes the line.
+- try someone out s09_e06_c07_u018 - response uid is 's09_e06_c07_u19' (missing zero padding); check that build-data resolves it.
+- worse comes to worse s09_e06_c03_u012 - the standard idiom is 'worst comes to worst'; the line and expression use the common variant 'worse comes to worse'. Owner may want to switch the answer/expression to 'worst comes to worst'.
+- take it out on s09_e08_c01_u144 - after removing the stage direction, the second half of this line (originally Monica's speech) is still credited to Rachel; consider using only the first part or a different line.
+- mood-killer s09_e19_c04_u004 - Two speakers merged in one utterance: the line is attributed to Monica but the answer sentence ('The musician right outside the restaurant...it's kind of a mood-killer!') is spoken by 3rd Customer; cue u003 likewise contains '3rd Customer: Actually I do have one small complaint.' Speaker split needed in the source/display.
+- two-way street s10_e09_c12_u015 - Cue reads 'Sure I do. Coule?' - 'Coule' is garbled (probably 'Clam?' or similar); check the transcript.
+- respectfully disagree s09_e17_c03_u017 - Cue 'That only is not funny, it's physically impossible!' looks garbled (probably 'Not only is that not funny...'); left unchanged.
+- condolences s09_e17_c09_u009 - 'people are gonna stir up your family at this tragic time' looks like a mishearing; left unchanged.

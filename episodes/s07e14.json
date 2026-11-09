@@ -31,7 +31,7 @@
       "answer": "found out",
       "options": [
         "found out",
-        "made out",
+        "ran out",
         "gave out",
         "held out"
       ]
@@ -368,9 +368,9 @@
   "exchanges": [
     {
       "uid": "s07_e14_c02_u010",
-      "answer": "Godsend",
+      "answer": "godsend",
       "options": [
-        "Godsend",
+        "godsend",
         "landmark",
         "handout",
         "setback"

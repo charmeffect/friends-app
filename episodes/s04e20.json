@@ -73,9 +73,9 @@
       "answer": "proud of",
       "options": [
         "proud of",
-        "fond of",
-        "sick of",
-        "made of"
+        "full of",
+        "made of",
+        "out of"
       ]
     }
   ]
@@ -95,9 +95,9 @@
       "responseUid": "s04_e20_c12_u038",
       "options": [
         "cheer you up",
-        "calm you down",
         "wear you out",
-        "turn you off"
+        "mix you up",
+        "let you down"
       ]
     }
   ]
@@ -322,8 +322,8 @@
       "options": [
         "rushed into",
         "ran into",
-        "rushed through",
-        "jumped at"
+        "looked into",
+        "broke into"
       ]
     }
   ]
@@ -464,9 +464,9 @@
       "responseUid": "s04_e20_c08_u017",
       "options": [
         "hasty",
-        "nasty",
         "hazy",
-        "tasty"
+        "tasty",
+        "dusty"
       ]
     }
   ]

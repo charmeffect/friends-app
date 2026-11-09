@@ -18,6 +18,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { applyFixes } = require('./text-fixes');
 
 const root = path.join(__dirname, '..');
 const EP_DIR = path.join(root, 'episodes');
@@ -48,7 +49,7 @@ function loadSeason(ss) {
     const us = sc.utterances.filter(u => (u.transcript || '').trim());
     us.forEach((u, i) => {
       index[u.utterance_id] = {
-        text: u.transcript.trim(),
+        text: applyFixes(u.utterance_id, u.transcript.trim(), msg => err('fixes/text-fixes.json', msg)),
         speaker: shortName((u.speakers || [])[0] || 'Someone'),
         prev: i > 0 ? us[i - 1].utterance_id : null,
         next: i < us.length - 1 ? us[i + 1].utterance_id : null,

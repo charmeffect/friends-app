@@ -302,7 +302,7 @@
       "answer": "kidding",
       "options": [
         "kidding",
-        "calling",
+        "dancing",
         "helping",
         "watching"
       ]
@@ -459,9 +459,9 @@
   "exchanges": [
     {
       "uid": "s09_e03_c15_u016",
-      "answer": "see right thru",
+      "answer": "see right through",
       "options": [
-        "see right thru",
+        "see right through",
         "run right into",
         "get right over",
         "go right past"

@@ -315,7 +315,7 @@
         "For your information",
         "For your attention",
         "For your interest",
-        "For your reference"
+        "For your safety"
       ]
     }
   ]
@@ -353,7 +353,7 @@
       "answer": "sober",
       "options": [
         "sober",
-        "somber",
+        "sacred",
         "sturdy",
         "subtle"
       ]

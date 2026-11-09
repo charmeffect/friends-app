@@ -219,12 +219,12 @@
   "exchanges": [
     {
       "uid": "s08_e12_c04_u009",
-      "answer": "stand up guy",
+      "answer": "stand-up guy",
       "options": [
-        "stand up guy",
-        "washed up guy",
-        "stuck up guy",
-        "beat up guy"
+        "stand-up guy",
+        "washed-up guy",
+        "stuck-up guy",
+        "beat-up guy"
       ]
     }
   ]

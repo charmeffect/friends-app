@@ -112,8 +112,8 @@
       "answer": "broke up",
       "options": [
         "broke up",
-        "made up",
-        "hooked up",
+        "showed up",
+        "grew up",
         "moved in"
       ]
     },
@@ -122,8 +122,8 @@
       "answer": "broke up",
       "options": [
         "broke up",
-        "made up",
-        "hooked up",
+        "showed up",
+        "grew up",
         "moved in"
       ]
     }
@@ -279,12 +279,12 @@
   "exchanges": [
     {
       "uid": "s09_e24_c10_u005",
-      "answer": "Get Out",
+      "answer": "Get out",
       "options": [
-        "Get Out",
-        "Get Lost",
-        "Back Off",
-        "Shut Up"
+        "Get out",
+        "Get lost",
+        "Back off",
+        "Calm down"
       ]
     }
   ]

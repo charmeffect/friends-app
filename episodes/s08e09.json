@@ -53,7 +53,7 @@
         "give me a hand",
         "give me an arm",
         "give me a leg",
-        "give me a head"
+        "give me a foot"
       ]
     }
   ]
@@ -171,9 +171,9 @@
       "answer": "deaf",
       "options": [
         "deaf",
-        "dead",
         "late",
-        "bald"
+        "bald",
+        "shy"
       ]
     }
   ]

@@ -380,26 +380,6 @@
 },
 
 {
-  "expression": "got me",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "I have no idea",
-  "exchanges": [
-    {
-      "uid": "s07_e21_c05_u015",
-      "answer": "Got me",
-      "options": [
-        "Got me",
-        "Get out",
-        "Got it",
-        "Bring it"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "look at someone go",
   "type": "colloquial",
   "level": "college",
@@ -451,9 +431,9 @@
       "answer": "the Mrs.",
       "options": [
         "the Mrs.",
-        "the Ms.",
-        "the Miss",
-        "the Mr."
+        "the Mr.",
+        "the Dr.",
+        "the Sir"
       ]
     }
   ]

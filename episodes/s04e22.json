@@ -233,9 +233,9 @@
       "answer": "mellow",
       "options": [
         "mellow",
-        "fancy",
-        "tidy",
-        "spicy"
+        "hollow",
+        "soggy",
+        "rusty"
       ]
     }
   ]
@@ -331,12 +331,12 @@
   "exchanges": [
     {
       "uid": "s04_e22_c10_u019",
-      "answer": "water works",
+      "answer": "waterworks",
       "options": [
-        "water works",
-        "fire drills",
-        "light shows",
-        "road blocks"
+        "waterworks",
+        "paperwork",
+        "roadworks",
+        "clockwork"
       ]
     }
   ]
@@ -394,7 +394,7 @@
       "answer": "turn me in",
       "options": [
         "turn me in",
-        "turn me on",
+        "turn me around",
         "turn me down",
         "turn me off"
       ]

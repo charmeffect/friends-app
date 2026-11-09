@@ -93,7 +93,7 @@
         "coming by",
         "coming off",
         "going by",
-        "coming out"
+        "coming true"
       ]
     }
   ]
@@ -472,12 +472,12 @@
   "exchanges": [
     {
       "uid": "s10_e07_c05_u014",
-      "answer": "spruce that place up",
+      "answer": "spruced that place up",
       "options": [
-        "spruce that place up",
-        "pass that place by",
-        "hand that place over",
-        "ship that place off"
+        "spruced that place up",
+        "passed that place by",
+        "handed that place over",
+        "shipped that place off"
       ]
     }
   ]

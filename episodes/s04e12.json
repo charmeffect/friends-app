@@ -92,12 +92,12 @@
   "exchanges": [
     {
       "uid": "s04_e12_c01_u004",
-      "answer": "BACK OFF",
+      "answer": "Back off",
       "options": [
-        "BACK OFF",
-        "COME ON",
-        "HOLD ON",
-        "SIT DOWN"
+        "Back off",
+        "Show off",
+        "Sign off",
+        "Pay off"
       ]
     }
   ]

@@ -132,7 +132,7 @@
       "options": [
         "be cool with",
         "be strict with",
-        "be finished with",
+        "be scared of",
         "be harsh with"
       ]
     }
@@ -410,12 +410,12 @@
   "exchanges": [
     {
       "uid": "s06_e19_c11_u015",
-      "answer": "blind sided",
+      "answer": "blindsided",
       "options": [
-        "blind sided",
-        "short changed",
-        "jet lagged",
-        "well rested"
+        "blindsided",
+        "shortchanged",
+        "jet-lagged",
+        "well-rested"
       ]
     }
   ]

@@ -160,26 +160,6 @@
 },
 
 {
-  "expression": "shoot",
-  "type": "colloquial",
-  "level": "middle",
-  "pos": "expression",
-  "meaning": "a mild exclamation of annoyance or disappointment",
-  "exchanges": [
-    {
-      "uid": "s03_e09_c05_u005",
-      "answer": "shoot",
-      "options": [
-        "shoot",
-        "cheers",
-        "bingo",
-        "hooray"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "says who",
   "type": "colloquial",
   "level": "middle",
@@ -345,7 +325,7 @@
   "type": "word",
   "level": "high",
   "pos": "adjective",
-  "meaning": "weak, unimpressive, or not good at anything",
+  "meaning": "weak, pathetic, or not good enough; also used of an excuse that is hard to believe",
   "exchanges": [
     {
       "uid": "s03_e09_c04_u094",

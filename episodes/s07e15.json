@@ -31,7 +31,7 @@
       "answer": "stopping by",
       "options": [
         "stopping by",
-        "standing by",
+        "stocking up",
         "stopping off",
         "passing out"
       ]
@@ -292,7 +292,7 @@
       "answer": "you lost me",
       "options": [
         "you lost me",
-        "you got me",
+        "you hit me",
         "you owe me",
         "you beat me"
       ]
@@ -413,9 +413,9 @@
       "answer": "partial to",
       "options": [
         "partial to",
-        "opposed to",
-        "allergic to",
-        "immune to"
+        "prior to",
+        "due to",
+        "next to"
       ]
     }
   ]

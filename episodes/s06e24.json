@@ -176,8 +176,8 @@
       "options": [
         "bid on",
         "pick on",
-        "count on",
-        "pass on"
+        "frown on",
+        "spy on"
       ]
     }
   ]
@@ -316,7 +316,7 @@
       "options": [
         "No way",
         "No wonder",
-        "No kidding",
+        "No comment",
         "No offense"
       ]
     }

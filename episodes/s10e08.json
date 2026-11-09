@@ -172,9 +172,9 @@
       "answer": "pitting",
       "options": [
         "pitting",
-        "pairing",
-        "holding",
-        "turning"
+        "feeding",
+        "washing",
+        "holding"
       ]
     }
   ]
@@ -294,7 +294,7 @@
         "calm down",
         "sit up",
         "show off",
-        "back down"
+        "look up"
       ]
     }
   ]
@@ -492,9 +492,9 @@
       "answer": "wedged",
       "options": [
         "wedged",
-        "tucked",
-        "settled",
-        "dressed"
+        "hired",
+        "dressed",
+        "printed"
       ]
     }
   ]

@@ -312,9 +312,9 @@
       "answer": "dull",
       "options": [
         "dull",
-        "fragile",
         "chubby",
-        "bald"
+        "bald",
+        "polite"
       ]
     }
   ]

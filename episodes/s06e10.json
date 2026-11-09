@@ -372,9 +372,9 @@
       "answer": "onto us",
       "options": [
         "onto us",
-        "into us",
         "over us",
-        "off us"
+        "off us",
+        "under us"
       ]
     }
   ]
@@ -412,9 +412,9 @@
       "answer": "mellow",
       "options": [
         "mellow",
-        "fancy",
-        "tidy",
-        "spicy"
+        "hollow",
+        "soggy",
+        "rusty"
       ]
     }
   ]

@@ -362,9 +362,9 @@
       "responseUid": "s09_e14_c09_u009",
       "options": [
         "stoned",
-        "asleep",
         "polite",
-        "shy"
+        "shy",
+        "modest"
       ]
     }
   ]

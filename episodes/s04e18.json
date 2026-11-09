@@ -32,7 +32,7 @@
       "options": [
         "getting along",
         "giving up",
-        "growing apart",
+        "getting out",
         "standing by"
       ]
     }
@@ -48,12 +48,12 @@
   "exchanges": [
     {
       "uid": "s04_e18_c05_u020",
-      "answer": "nevermind",
+      "answer": "never mind",
       "options": [
-        "nevermind",
-        "meanwhile",
-        "otherwise",
-        "somehow"
+        "never mind",
+        "good luck",
+        "so long",
+        "well done"
       ]
     }
   ]
@@ -445,7 +445,7 @@
       "answer": "occur to",
       "options": [
         "occur to",
-        "happen to",
+        "object to",
         "appeal to",
         "belong to"
       ]
@@ -465,7 +465,7 @@
       "answer": "paranoid",
       "options": [
         "paranoid",
-        "pathetic",
+        "punctual",
         "passionate",
         "persistent"
       ]

@@ -52,7 +52,7 @@
       "options": [
         "get going",
         "get even",
-        "keep going",
+        "get lost",
         "get over"
       ]
     }
@@ -72,7 +72,7 @@
       "options": [
         "a big deal",
         "a big wheel",
-        "a raw deal",
+        "a dead end",
         "a long shot"
       ]
     }
@@ -451,9 +451,9 @@
       "answer": "Believe you me",
       "options": [
         "Believe you me",
-        "Bless you me",
-        "Mind you me",
-        "Leave you me"
+        "Hear you out",
+        "Mind you though",
+        "See you there"
       ]
     }
   ]

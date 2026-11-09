@@ -61,26 +61,6 @@
 },
 
 {
-  "expression": "right on time",
-  "type": "phrase",
-  "level": "elementary",
-  "pos": "expression",
-  "meaning": "at exactly the time that was planned, not early or late",
-  "exchanges": [
-    {
-      "uid": "s04_e21_c10_u010",
-      "answer": "right on time",
-      "options": [
-        "right on time",
-        "just in case",
-        "out of breath",
-        "far from here"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "look into",
   "type": "phrase",
   "level": "middle",
@@ -133,7 +113,7 @@
       "responseUid": "s04_e21_c22_u004",
       "options": [
         "for god's sakes",
-        "by all means",
+        "in god's hands",
         "at any rate",
         "on my word"
       ]
@@ -150,12 +130,12 @@
   "exchanges": [
     {
       "uid": "s04_e21_c26_u003",
-      "answer": "fine by me",
+      "answer": "Fine by me",
       "options": [
-        "fine by me",
-        "good for you",
-        "same to you",
-        "right on cue"
+        "Fine by me",
+        "Close to me",
+        "Next to me",
+        "Up to me"
       ]
     }
   ]
@@ -262,66 +242,6 @@
 },
 
 {
-  "expression": "geeky",
-  "type": "word",
-  "level": "middle",
-  "pos": "adjective",
-  "meaning": "socially awkward and overly interested in technical or unfashionable things",
-  "exchanges": [
-    {
-      "uid": "s04_e21_c04_u004",
-      "answer": "geeky",
-      "options": [
-        "geeky",
-        "greedy",
-        "gloomy",
-        "grumpy"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "cool off",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to become calmer after being angry or upset",
-  "exchanges": [
-    {
-      "uid": "s04_e21_c09_u011",
-      "answer": "cool off",
-      "options": [
-        "cool off",
-        "set off",
-        "call off",
-        "show off"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "big time",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "adverb",
-  "meaning": "very much; to a great degree",
-  "exchanges": [
-    {
-      "uid": "s04_e21_c09_u003",
-      "answer": "big time",
-      "options": [
-        "big time",
-        "old school",
-        "long haul",
-        "full blast"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "cost a fortune",
   "type": "phrase",
   "level": "middle",
@@ -336,26 +256,6 @@
         "done him a favor",
         "made him a killing",
         "sold him a lemon"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "worth the wait",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "good enough to justify the long time spent waiting",
-  "exchanges": [
-    {
-      "uid": "s04_e21_c23_u003",
-      "answer": "worth the wait",
-      "options": [
-        "worth the wait",
-        "off the hook",
-        "on the fence",
-        "up the creek"
       ]
     }
   ]
@@ -457,26 +357,6 @@
         "clutter",
         "cluster",
         "clearance"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "the ship has sailed",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "expression",
-  "meaning": "it is too late; the chance has already passed",
-  "exchanges": [
-    {
-      "uid": "s04_e21_c08_u007",
-      "answer": "ship has sailed",
-      "options": [
-        "ship has sailed",
-        "bridge has burned",
-        "tide has turned",
-        "well has dried"
       ]
     }
   ]

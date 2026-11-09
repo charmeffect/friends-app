@@ -111,9 +111,9 @@
       "answer": "spoiled",
       "options": [
         "spoiled",
-        "married",
-        "pregnant",
-        "youngest"
+        "spotted",
+        "startled",
+        "stranded"
       ]
     }
   ]
@@ -285,7 +285,7 @@
   "type": "word",
   "level": "high",
   "pos": "adjective",
-  "meaning": "weak and unconvincing",
+  "meaning": "weak, pathetic, or not good enough; also used of an excuse that is hard to believe",
   "exchanges": [
     {
       "uid": "s06_e13_c03_u051",
@@ -332,9 +332,9 @@
       "answer": "faker",
       "options": [
         "faker",
-        "baby",
         "winner",
-        "hero"
+        "hero",
+        "helper"
       ]
     }
   ]

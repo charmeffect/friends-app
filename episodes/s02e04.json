@@ -294,7 +294,7 @@
       "answer": "For your information",
       "options": [
         "For your information",
-        "For your reference",
+        "For your safety",
         "In your interest",
         "To your knowledge"
       ]
@@ -315,7 +315,7 @@
       "options": [
         "wiped",
         "washed",
-        "wasted",
+        "wrapped",
         "dried"
       ]
     }

@@ -128,12 +128,12 @@
   "exchanges": [
     {
       "uid": "s09_e10_c02_u015",
-      "answer": "pep-talk",
+      "answer": "pep talk",
       "options": [
-        "pep-talk",
-        "sit-in",
-        "walk-out",
-        "check-up"
+        "pep talk",
+        "sales pitch",
+        "roll call",
+        "price tag"
       ]
     }
   ]
@@ -194,26 +194,6 @@
         "Big-shot",
         "Hot-head",
         "Smart-mouth"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "last but not least",
-  "type": "colloquial",
-  "level": "middle",
-  "pos": "expression",
-  "meaning": "used to introduce the final item in a list, saying it is just as important",
-  "exchanges": [
-    {
-      "uid": "s09_e10_c05_u012",
-      "answer": "last but not least",
-      "options": [
-        "last but not least",
-        "first and foremost",
-        "once and for all",
-        "sooner or later"
       ]
     }
   ]
@@ -335,26 +315,6 @@
         "opposed to",
         "related to",
         "addicted to"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "bode well",
-  "type": "phrase",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to be a sign that something good will happen",
-  "exchanges": [
-    {
-      "uid": "s09_e10_c11_u020",
-      "answer": "bodes well",
-      "options": [
-        "bodes well",
-        "goes wrong",
-        "runs short",
-        "sits tight"
       ]
     }
   ]

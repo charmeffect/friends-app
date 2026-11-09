@@ -21,9 +21,9 @@
       "answer": "aisle",
       "options": [
         "aisle",
-        "staircase",
-        "sidewalk",
-        "block"
+        "ladder",
+        "chimney",
+        "drain"
       ]
     }
   ]
@@ -98,12 +98,12 @@
   "exchanges": [
     {
       "uid": "s10_e12_c02_u006",
-      "answer": "hung up on",
+      "answer": "hang up on",
       "options": [
-        "hung up on",
-        "picked up on",
-        "signed up for",
-        "looked up to"
+        "hang up on",
+        "pick up on",
+        "sign up for",
+        "look up to"
       ]
     }
   ]

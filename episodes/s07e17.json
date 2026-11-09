@@ -452,26 +452,6 @@
 },
 
 {
-  "expression": "mess around",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to have a casual sexual relationship with someone, especially secretly",
-  "exchanges": [
-    {
-      "uid": "s07_e17_c12_u005",
-      "answer": "mess around",
-      "options": [
-        "mess around",
-        "show off",
-        "sign up",
-        "settle down"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "doofus",
   "type": "word",
   "level": "expert",

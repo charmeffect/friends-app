@@ -173,8 +173,8 @@
       "answer": "Go with",
       "options": [
         "Go with",
-        "Stand by",
-        "Look at",
+        "Get by",
+        "Turn up",
         "Come to"
       ]
     },
@@ -183,9 +183,9 @@
       "answer": "going with",
       "options": [
         "going with",
-        "standing by",
-        "looking at",
-        "getting to"
+        "getting by",
+        "turning up",
+        "coming to"
       ]
     }
   ]

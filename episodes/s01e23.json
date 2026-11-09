@@ -104,7 +104,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "added after a question word to show annoyance or impatience",
+  "meaning": "added after a question word for emphasis or annoyance; 'what the hell' alone can also mean 'why not, never mind'",
   "exchanges": [
     {
       "uid": "s01_e23_c01_u020",
@@ -233,7 +233,7 @@
       "responseUid": "s01_e23_c04_u005",
       "options": [
         "resent",
-        "resemble",
+        "respect",
         "rescue",
         "repeat"
       ]
@@ -417,8 +417,8 @@
       "answer": "pick your moments",
       "options": [
         "pick your moments",
-        "watch your step",
-        "mind your manners",
+        "count your blessings",
+        "pay your bills",
         "keep your word"
       ]
     }

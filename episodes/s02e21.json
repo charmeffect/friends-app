@@ -412,7 +412,7 @@
       "answer": "Kudos",
       "options": [
         "Kudos",
-        "Dibs",
+        "Fumes",
         "Perks",
         "Odds"
       ]
@@ -433,9 +433,9 @@
       "cueUid": "s02_e21_c09_u008",
       "options": [
         "come to terms with",
-        "run out of time",
-        "got a hold of",
-        "kept in touch with"
+        "come up with",
+        "looked down on",
+        "kept track of"
       ]
     }
   ]

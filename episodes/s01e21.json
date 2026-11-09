@@ -11,7 +11,7 @@
       "answer": "calm down",
       "options": [
         "calm down",
-        "sit down",
+        "break down",
         "step down",
         "turn down"
       ]
@@ -73,7 +73,7 @@
       "options": [
         "give him up",
         "give him in",
-        "put him up",
+        "set him off",
         "take him up"
       ]
     }
@@ -92,7 +92,7 @@
       "answer": "geek",
       "options": [
         "geek",
-        "jerk",
+        "champ",
         "hunk",
         "wimp"
       ]
@@ -142,7 +142,7 @@
       "answer": "going over",
       "options": [
         "going over",
-        "getting over",
+        "turning down",
         "going off",
         "giving over"
       ]
@@ -202,9 +202,9 @@
       "answer": "sucks",
       "options": [
         "sucks",
-        "rocks",
-        "rules",
-        "works"
+        "sinks",
+        "sings",
+        "counts"
       ]
     }
   ]

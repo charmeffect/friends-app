@@ -152,9 +152,9 @@
       "answer": "got promoted",
       "options": [
         "got promoted",
-        "got engaged",
-        "got elected",
-        "got arrested"
+        "got provoked",
+        "got prepared",
+        "got protected"
       ]
     }
   ]
@@ -428,7 +428,7 @@
       "options": [
         "steep",
         "sharp",
-        "tight",
+        "shallow",
         "blunt"
       ]
     }
@@ -505,14 +505,14 @@
   "exchanges": [
     {
       "uid": "s02_e05_c07_u035",
-      "answer": "kick back",
+      "answer": "kickback",
       "cueUid": "s02_e05_c07_u029",
       "responseUid": "s02_e05_c07_u037",
       "options": [
-        "kick back",
-        "set up",
-        "hand out",
-        "trade off"
+        "kickback",
+        "setup",
+        "handout",
+        "tradeoff"
       ]
     }
   ]

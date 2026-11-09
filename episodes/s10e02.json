@@ -12,7 +12,7 @@
       "options": [
         "help out",
         "pass out",
-        "help off",
+        "back off",
         "sell out"
       ]
     }
@@ -350,12 +350,12 @@
   "exchanges": [
     {
       "uid": "s10_e02_c08_u006",
-      "answer": "onboard",
+      "answer": "on board",
       "options": [
-        "onboard",
-        "overboard",
-        "offside",
-        "abroad"
+        "on board",
+        "off guard",
+        "on hold",
+        "at ease"
       ]
     }
   ]

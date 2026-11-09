@@ -82,9 +82,9 @@
       "answer": "You're kidding",
       "options": [
         "You're kidding",
-        "You're dreaming",
-        "You're bluffing",
-        "You're fooling"
+        "You're welcome",
+        "You're next",
+        "You're early"
       ]
     }
   ]
@@ -246,7 +246,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "added after a question word to show annoyance or impatience",
+  "meaning": "added after a question word for emphasis or annoyance; 'what the hell' alone can also mean 'why not, never mind'",
   "exchanges": [
     {
       "uid": "s01_e11_c08_u012",

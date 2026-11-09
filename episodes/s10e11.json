@@ -312,8 +312,8 @@
       "options": [
         "grand",
         "dozen",
-        "percent",
-        "times"
+        "inches",
+        "degrees"
       ]
     }
   ]
@@ -328,12 +328,12 @@
   "exchanges": [
     {
       "uid": "s10_e11_c04_u009",
-      "answer": "send off",
+      "answer": "send-off",
       "options": [
-        "send off",
-        "check up",
-        "break in",
-        "walk out"
+        "send-off",
+        "check-up",
+        "break-in",
+        "walk-out"
       ]
     }
   ]

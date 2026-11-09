@@ -31,7 +31,7 @@
       "answer": "on her own",
       "options": [
         "on her own",
-        "by the way",
+        "by her side",
         "at her best",
         "in her place"
       ]
@@ -184,7 +184,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+  "meaning": "said to agree strongly with what someone has just said, often because you have experienced the same thing",
   "exchanges": [
     {
       "uid": "s08_e01_c06_u008",

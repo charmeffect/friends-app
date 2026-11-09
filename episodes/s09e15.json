@@ -359,12 +359,12 @@
   "exchanges": [
     {
       "uid": "s09_e15_c09_u014",
-      "answer": "half-bad",
+      "answer": "half bad",
       "options": [
-        "half-bad",
-        "half-time",
-        "half-moon",
-        "half-way"
+        "half bad",
+        "half full",
+        "half done",
+        "half price"
       ]
     }
   ]

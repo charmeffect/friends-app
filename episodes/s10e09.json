@@ -462,12 +462,12 @@
   "exchanges": [
     {
       "uid": "s10_e09_c12_u016",
-      "answer": "two way street",
+      "answer": "two-way street",
       "options": [
-        "two way street",
-        "one way ticket",
-        "dead end job",
-        "full time job"
+        "two-way street",
+        "one-way ticket",
+        "dead-end job",
+        "full-time job"
       ]
     }
   ]

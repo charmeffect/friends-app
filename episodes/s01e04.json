@@ -95,9 +95,9 @@
       "responseUid": "s01_e04_c02_u045",
       "options": [
         "live on",
-        "live in",
-        "live for",
-        "live up"
+        "live up",
+        "live out",
+        "live down"
       ]
     }
   ]
@@ -418,9 +418,9 @@
       "responseUid": null,
       "options": [
         "draw him out",
-        "draw him in",
         "draw him up",
-        "draw him off"
+        "draw him off",
+        "draw him over"
       ]
     }
   ]

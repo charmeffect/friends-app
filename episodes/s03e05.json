@@ -255,9 +255,9 @@
       "answer": "snug",
       "options": [
         "snug",
-        "shiny",
         "soggy",
-        "sturdy"
+        "salty",
+        "stale"
       ]
     }
   ]
@@ -357,7 +357,7 @@
         "hit on",
         "pick on",
         "sit on",
-        "turn on"
+        "rely on"
       ]
     }
   ]

@@ -13,7 +13,7 @@
         "give up",
         "take up",
         "make up",
-        "pick up"
+        "look up"
       ]
     }
   ]
@@ -71,7 +71,7 @@
       "answer": "creepy",
       "options": [
         "creepy",
-        "cheap",
+        "crispy",
         "clever",
         "chubby"
       ]
@@ -416,26 +416,6 @@
         "out of their league",
         "out of their minds",
         "out of their way"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "raise the stakes",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to increase the amount of money or the risk involved in a bet or situation",
-  "exchanges": [
-    {
-      "uid": "s10_e10_c05_u116",
-      "answer": "raise the stakes",
-      "options": [
-        "raise the stakes",
-        "lower the bar",
-        "break the ice",
-        "call the shots"
       ]
     }
   ]

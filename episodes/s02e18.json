@@ -167,7 +167,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "said to agree strongly that something is annoying or difficult, because you have felt the same",
+  "meaning": "said to agree strongly with what someone has just said, often because you have experienced the same thing",
   "exchanges": [
     {
       "uid": "s02_e18_c09_u014",
@@ -228,7 +228,7 @@
   "type": "word",
   "level": "high",
   "pos": "adjective",
-  "meaning": "weak and unconvincing",
+  "meaning": "weak, pathetic, or not good enough; also used of an excuse that is hard to believe",
   "exchanges": [
     {
       "uid": "s02_e18_c02_u016",
@@ -339,7 +339,7 @@
         "kill off",
         "show off",
         "set off",
-        "cut off"
+        "pay off"
       ]
     }
   ]
