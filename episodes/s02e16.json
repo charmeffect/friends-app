@@ -502,5 +502,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "ready when you are",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that you are prepared to start whenever they are",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c02_u008",
+      "answer": "ready when you are",
+      "options": [
+        "ready when you are",
+        "nice to meet you",
+        "long time no see",
+        "see you later"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "okey-doke",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a playful, informal way of saying OK",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c02_u009",
+      "answer": "Okey-doke",
+      "options": [
+        "Okey-doke",
+        "Holy cow",
+        "No dice",
+        "Tough luck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm kidding",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that what you just said was only a joke",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c06_u013",
+      "answer": "I'm kidding",
+      "options": [
+        "I'm kidding",
+        "I'm leaving",
+        "I'm starving",
+        "I'm drowning"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fine with me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you agree or have no objection to something",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c09_u015",
+      "answer": "Fine with me",
+      "options": [
+        "Fine with me",
+        "Wait for me",
+        "Talk to me",
+        "Marry me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "why not",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree to something or to say there is no reason not to do it",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c05_u012",
+      "answer": "Why not",
+      "options": [
+        "Why not",
+        "Who's there",
+        "Me neither",
+        "Not again"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be an item",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be in a romantic relationship with each other",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c11_u026",
+      "answer": "an item",
+      "options": [
+        "an item",
+        "a legend",
+        "a chef",
+        "an artist"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be cool with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "to be happy to accept something and not bothered by it",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c13_u020",
+      "answer": "cool with",
+      "options": [
+        "cool with",
+        "bad at",
+        "rich in",
+        "full of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "play you for it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide who gets something by playing a game against the other person",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c13_u025",
+      "answer": "play you for it",
+      "options": [
+        "play you for it",
+        "fight you on it",
+        "beat you to it",
+        "hold you to it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sore",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "painful, especially when touched or moved",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c14_u026",
+      "answer": "sore",
+      "cueUid": "s02_e16_c14_u024",
+      "options": [
+        "sore",
+        "sour",
+        "loud",
+        "thin"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tie up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep a phone line busy for a long time so that nobody else can use it",
+  "exchanges": [
+    {
+      "uid": "s02_e16_c16_u006",
+      "answer": "tie up",
+      "options": [
+        "tie up",
+        "dry up",
+        "wake up",
+        "grow up"
+      ]
+    }
+  ]
 }
 ]

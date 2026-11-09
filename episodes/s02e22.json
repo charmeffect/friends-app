@@ -509,5 +509,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "how are you holding up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "asked to find out how someone is coping with a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c06_u002",
+      "answer": "holdin' up",
+      "options": [
+        "holdin' up",
+        "showin' off",
+        "checkin' out",
+        "headin' out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw a party",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to organize and host a party",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c01_u011",
+      "answer": "throw",
+      "options": [
+        "throw",
+        "break",
+        "spend",
+        "cost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can't believe",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something is very surprising or shocking",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c04_u028",
+      "answer": "I can't believe",
+      "options": [
+        "I can't believe",
+        "I hope that",
+        "I promise",
+        "I'm sure"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give it a chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to try something for a while before deciding whether you like it",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u074",
+      "answer": "give it a chance",
+      "options": [
+        "give it a chance",
+        "take it back",
+        "leave it alone",
+        "get it over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "create a diversion",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something that draws people's attention away from what you really want to do",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u023",
+      "answer": "create a diversion",
+      "options": [
+        "create a diversion",
+        "make a reservation",
+        "take a breather",
+        "draw a conclusion"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sneak off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave quietly so that no one notices",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u035",
+      "answer": "sneakin off",
+      "options": [
+        "sneakin off",
+        "showin off",
+        "dozin off",
+        "cuttin off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "will do",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to agree that you will do what someone has asked",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c07_u004",
+      "answer": "will do",
+      "options": [
+        "will do",
+        "no way",
+        "my bad",
+        "not again"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep someone occupied",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep someone busy so that they do not notice or interfere with something",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c05_u009",
+      "answer": "keep dad occupied",
+      "options": [
+        "keep dad occupied",
+        "call dad back",
+        "get dad drunk",
+        "wake dad up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drive safe",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to someone who is leaving by car to wish them a safe trip",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c07_u010",
+      "answer": "drive safe",
+      "options": [
+        "drive safe",
+        "stay late",
+        "come in",
+        "sit tight"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's enough",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop saying or doing something",
+  "exchanges": [
+    {
+      "uid": "s02_e22_c08_u005",
+      "answer": "that's enough",
+      "options": [
+        "that's enough",
+        "that's right",
+        "good for you",
+        "you bet"
+      ]
+    }
+  ]
 }
 ]

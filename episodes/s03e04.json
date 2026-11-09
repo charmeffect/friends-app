@@ -499,5 +499,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you said it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you completely agree with what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c01_u007",
+      "answer": "you said it",
+      "options": [
+        "you said it",
+        "you broke it",
+        "you sold it",
+        "you missed it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turn off",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop a machine such as a TV from working by using a switch",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c01_u009",
+      "answer": "turn this off",
+      "options": [
+        "turn this off",
+        "put this on",
+        "look this up",
+        "fill this in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have anything to do with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be connected with or caused by something",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c03_u008",
+      "answer": "anything to do with",
+      "options": [
+        "anything to do with",
+        "any room for",
+        "any money for",
+        "any time for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave quickly in order to escape from a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c03_u027",
+      "answer": "run away",
+      "options": [
+        "run away",
+        "sit down",
+        "sleep in",
+        "eat out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that makes sense",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that an idea or explanation seems reasonable",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c03_u036",
+      "answer": "that makes sense",
+      "options": [
+        "that makes sense",
+        "that takes time",
+        "that costs money",
+        "that sounds loud"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slow down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone or something go or work less quickly",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c06_u003",
+      "answer": "slow down",
+      "options": [
+        "slow down",
+        "show off",
+        "sign up",
+        "cheer up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take it personally",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel hurt or offended by something as if it were aimed at you",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c07_u018",
+      "answer": "take it personally",
+      "options": [
+        "take it personally",
+        "take it home",
+        "take it back",
+        "take it outside"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't get me wrong",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before explaining something so the listener does not misunderstand you",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c09_u013",
+      "answer": "don't get me wrong",
+      "options": [
+        "don't get me wrong",
+        "don't wake me up",
+        "don't call me back",
+        "don't tell me twice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how've you been",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly question asked when you meet someone you have not seen for a while",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c08_u005",
+      "answer": "How've you been",
+      "options": [
+        "How've you been",
+        "How old are you",
+        "What's your name",
+        "Where do you work"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miss one's chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to fail to use an opportunity, so that it is lost",
+  "exchanges": [
+    {
+      "uid": "s03_e04_c02_u017",
+      "answer": "missed my chance",
+      "options": [
+        "missed my chance",
+        "lost my keys",
+        "broke my leg",
+        "made my day"
+      ]
+    }
+  ]
 }
 ]

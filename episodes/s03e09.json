@@ -480,5 +480,216 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "did something regularly or felt a certain way in the past but no longer do",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c02_u020",
+      "answer": "used to",
+      "options": [
+        "used to",
+        "refused to",
+        "failed to",
+        "pretended to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for once",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "on this one occasion, as a change from what usually happens",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c02_u002",
+      "answer": "for once",
+      "options": [
+        "for once",
+        "in short",
+        "on average",
+        "by contrast"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fine with me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you agree or have no objection to something",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c04_u059",
+      "answer": "Fine with me",
+      "options": [
+        "Fine with me",
+        "Bless you",
+        "After you",
+        "Help yourself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "first of all",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to introduce the first point in a series of points",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c03_u149",
+      "answer": "first of all",
+      "options": [
+        "first of all",
+        "most of all",
+        "all in all",
+        "after all"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make sure",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to take care that something happens or is done correctly",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c04_u011",
+      "answer": "make sure",
+      "options": [
+        "make sure",
+        "take turns",
+        "give way",
+        "stand by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blame something on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to say that someone else is responsible for something bad",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c03_u148",
+      "answer": "blame it on",
+      "options": [
+        "blame it on",
+        "pin it to",
+        "base it on",
+        "leave it to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "down by",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "losing by a particular number of points in a game",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c04_u040",
+      "answer": "down by",
+      "options": [
+        "down by",
+        "up by",
+        "off by",
+        "over by"
+      ]
+    },
+    {
+      "uid": "s03_e09_c04_u091",
+      "answer": "down by",
+      "options": [
+        "down by",
+        "up by",
+        "off by",
+        "out by"
+      ],
+      "cueUid": "s03_e09_c04_u085"
+    }
+  ]
+},
+
+{
+  "expression": "the clock is ticking",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "there is very little time left, so you must act quickly",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c04_u075",
+      "answer": "The clock is ticking",
+      "options": [
+        "The clock is ticking",
+        "The ice is melting",
+        "The jury is out",
+        "The coast is clear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "funny thing",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to introduce a surprising or ironic fact, often one the listener will not like",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c04_u114",
+      "answer": "funny thing",
+      "options": [
+        "funny thing",
+        "fair enough",
+        "big deal",
+        "no wonder"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep one's head in the game",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stay focused on what you are doing and not let yourself be distracted",
+  "exchanges": [
+    {
+      "uid": "s03_e09_c04_u007",
+      "answer": "head in the game",
+      "options": [
+        "head in the game",
+        "head in the clouds",
+        "nose in the air",
+        "tongue in cheek"
+      ]
+    }
+  ]
 }
 ]

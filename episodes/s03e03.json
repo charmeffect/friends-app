@@ -501,5 +501,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "way too",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "much too; far more than is suitable or needed",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c02_u018",
+      "answer": "way too",
+      "options": [
+        "way too",
+        "not very",
+        "hardly ever",
+        "much less"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "seriously",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to show that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c03_u008",
+      "answer": "Seriously",
+      "options": [
+        "Seriously",
+        "Eventually",
+        "Recently",
+        "Previously"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not really",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say no in a softer, less definite way",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c03_u015",
+      "answer": "Not really",
+      "options": [
+        "Not really",
+        "Not again",
+        "Not tonight",
+        "Not here"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be at it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be busy doing an activity, especially for a long time",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c02_u002",
+      "answer": "at it",
+      "options": [
+        "at it",
+        "off it",
+        "up it",
+        "by it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it works both ways",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the same rule or situation applies equally to both sides",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c04_u024",
+      "answer": "works both ways",
+      "options": [
+        "works both ways",
+        "costs too much",
+        "tastes like jam",
+        "sounds too loud"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "right behind you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you will follow someone very soon",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c04_u034",
+      "answer": "right behind you",
+      "options": [
+        "right behind you",
+        "right next door",
+        "far ahead of you",
+        "just above you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no kidding",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "really? - used to show surprise at what someone just said",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c11_u012",
+      "answer": "No kiddin'",
+      "options": [
+        "No kiddin'",
+        "No thanks",
+        "No problem",
+        "No wonder"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to express surprise, often sarcastically, at something you have just noticed",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c10_u009",
+      "answer": "what do you know",
+      "options": [
+        "what do you know",
+        "how do you do",
+        "where do you live",
+        "when do you leave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "loser",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is unsuccessful or not respected by others",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c07_u010",
+      "answer": "loser",
+      "options": [
+        "loser",
+        "genius",
+        "hero",
+        "champion"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "say it, don't spray it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "a joking way of telling someone that they are spitting while they talk",
+  "exchanges": [
+    {
+      "uid": "s03_e03_c05_u008",
+      "answer": "spray it",
+      "options": [
+        "spray it",
+        "pray it",
+        "play it",
+        "weigh it"
+      ]
+    }
+  ]
 }
 ]

@@ -503,5 +503,208 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "whatever",
+  "type": "word",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to show that you do not care or are not interested in what someone has said",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c12_u019",
+      "answer": "Whatever",
+      "options": [
+        "Whatever",
+        "Cheers",
+        "Pardon",
+        "Welcome"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "before I forget",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you want to mention something quickly before it slips your mind",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c13_u022",
+      "answer": "before I forget",
+      "responseUid": null,
+      "options": [
+        "before I forget",
+        "since I agree",
+        "once I quit",
+        "until I win"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's the deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked to find out what is going on or how something works",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c12_u008",
+      "answer": "what's the deal",
+      "responseUid": "s03_e05_c12_u010",
+      "options": [
+        "what's the deal",
+        "what's the weather",
+        "where's the door",
+        "who's the winner"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "once in a lifetime",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "happening only once and therefore very special",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c14_u025",
+      "answer": "once in a lifetime",
+      "options": [
+        "once in a lifetime",
+        "once upon a time",
+        "twice a year",
+        "now and then"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in particular",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "specifically, as opposed to the others in a group",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c12_u023",
+      "answer": "in particular",
+      "options": [
+        "in particular",
+        "in general",
+        "in total",
+        "in advance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "better luck next time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to someone who has just failed or lost, hoping they do better on a later try",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c15_u011",
+      "answer": "Better luck next time",
+      "responseUid": null,
+      "options": [
+        "Better luck next time",
+        "Happy birthday to you",
+        "Nice to meet you",
+        "Welcome to the family"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "max",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at the most; used after a number or amount to say it will not be more than that",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c01_u009",
+      "answer": "max",
+      "options": [
+        "max",
+        "least",
+        "again",
+        "more"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be allowed to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have permission to do something",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c14_u023",
+      "answer": "allowed to",
+      "options": [
+        "allowed to",
+        "afraid to",
+        "unable to",
+        "ashamed to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "highly doubt",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to think something is very unlikely to be true",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c05_u006",
+      "answer": "highly doubt",
+      "options": [
+        "highly doubt",
+        "deeply regret",
+        "strongly suggest",
+        "fully expect"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on three",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "at the moment someone counting out loud reaches the number three, used to make people act together",
+  "exchanges": [
+    {
+      "uid": "s03_e05_c13_u002",
+      "answer": "on three",
+      "options": [
+        "on three",
+        "at noon",
+        "by Monday",
+        "in time"
+      ]
+    }
+  ]
 }
 ]

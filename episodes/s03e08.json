@@ -503,5 +503,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "tell that to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "said to suggest that someone else would not agree with or accept what has just been said",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c01_u020",
+      "answer": "tell that to",
+      "responseUid": null,
+      "options": [
+        "tell that to",
+        "sell that to",
+        "mail that to",
+        "lend that to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in pain",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "feeling physical pain or suffering",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c02_u005",
+      "answer": "in pain",
+      "options": [
+        "in pain",
+        "in love",
+        "in charge",
+        "in time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be coming up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be going to happen soon",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c05_u004",
+      "answer": "coming up",
+      "options": [
+        "coming up",
+        "breaking up",
+        "cheering up",
+        "hanging up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "besides",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to add another reason to what has just been said",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c06_u004",
+      "answer": "Besides",
+      "options": [
+        "Besides",
+        "Otherwise",
+        "Hopefully",
+        "Recently"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "worth mentioning",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "important or interesting enough to be talked about",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c06_u018",
+      "answer": "worth mentioning",
+      "options": [
+        "worth mentioning",
+        "worth waiting",
+        "worth buying",
+        "worth fixing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "never been better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in the best possible condition; doing extremely well",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c08_u010",
+      "answer": "never been better",
+      "options": [
+        "never been better",
+        "always been sick",
+        "never been born",
+        "rarely been home"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go back to someone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return to a former partner and restart the relationship",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c09_u010",
+      "answer": "going back to",
+      "options": [
+        "going back to",
+        "looking up to",
+        "running out of",
+        "coming down with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do the right thing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to act in the way that is morally correct",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c11_u006",
+      "answer": "the right thing",
+      "options": [
+        "the right thing",
+        "the last straw",
+        "the big picture",
+        "the hard part"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "soulmate",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the person you feel perfectly matched with and deeply connected to, especially in love",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c11_u007",
+      "answer": "soulmate",
+      "options": [
+        "soulmate",
+        "roommate",
+        "classmate",
+        "checkmate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "babble",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to talk quickly and foolishly without thinking about what you are saying",
+  "exchanges": [
+    {
+      "uid": "s03_e08_c11_u010",
+      "answer": "babbling",
+      "options": [
+        "babbling",
+        "bowling",
+        "knitting",
+        "jogging"
+      ]
+    }
+  ]
 }
 ]

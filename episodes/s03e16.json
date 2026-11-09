@@ -480,5 +480,145 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you think?",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically to agree that something is very obvious",
+  "exchanges": [
+    {
+      "uid": "s03_e16_c08_u004",
+      "answer": "You think",
+      "options": [
+        "You think",
+        "You wish",
+        "You bet",
+        "You promise"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all over again",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "from the beginning, one more time",
+  "exchanges": [
+    {
+      "uid": "s03_e16_c13_u099",
+      "answer": "all over again",
+      "options": [
+        "all over again",
+        "once and for all",
+        "in the end",
+        "on the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hell of a",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to emphasize that something was very intense, hard, or remarkable",
+  "exchanges": [
+    {
+      "uid": "s03_e16_c13_u090",
+      "answer": "hell of a",
+      "options": [
+        "hell of a",
+        "bit of a",
+        "lot of a",
+        "kind of a"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "think of someone as",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to consider someone to be a particular kind of person",
+  "exchanges": [
+    {
+      "uid": "s03_e16_c13_u170",
+      "answer": "think of",
+      "options": [
+        "think of",
+        "get rid of",
+        "take care of",
+        "make fun of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it doesn't work that way",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a problem cannot be solved in the simple way someone hopes",
+  "exchanges": [
+    {
+      "uid": "s03_e16_c13_u162",
+      "answer": "work that way",
+      "options": [
+        "work that way",
+        "taste that good",
+        "cost that much",
+        "look that bad"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bail",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to back out of a commitment at the last minute",
+  "exchanges": [
+    {
+      "uid": "s03_e16_c13_u160",
+      "answer": "bail",
+      "options": [
+        "bail",
+        "dance",
+        "shop",
+        "sleep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get in trouble",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to end up being punished or blamed for something you did",
+  "exchanges": [
+    {
+      "uid": "s03_e16_c08_u007",
+      "answer": "get you in trouble",
+      "options": [
+        "get you in trouble",
+        "get you a raise",
+        "make you famous",
+        "help you out"
+      ]
+    }
+  ]
 }
 ]

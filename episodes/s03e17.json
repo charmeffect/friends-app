@@ -524,5 +524,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "here we go again",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something annoying is starting to happen once more",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c10_u031",
+      "answer": "Here we go again",
+      "options": [
+        "Here we go again",
+        "Here we stand together",
+        "Now we are even",
+        "Let's begin with that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "play by the rules",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to behave fairly and follow the agreed way of doing things",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c02_u037",
+      "answer": "playing by the rules",
+      "options": [
+        "playing by the rules",
+        "bending the rules",
+        "making the rules",
+        "changing the rules"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put someone in the middle",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to force someone to take sides in an argument between two other people",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c10_u058",
+      "answer": "in the middle",
+      "options": [
+        "in the middle",
+        "on the shelf",
+        "in the mood",
+        "on the menu"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "civil",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "polite and calm toward someone, even if you do not like them",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c10_u059",
+      "answer": "civil",
+      "options": [
+        "civil",
+        "civic",
+        "frugal",
+        "fluent"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deceptively",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "in a way that makes something seem different from how it really is",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c06_u016",
+      "answer": "deceptively",
+      "options": [
+        "deceptively",
+        "permanently",
+        "respectively",
+        "deliberately"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel the same way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the same opinion or feelings as someone else",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c10_u054",
+      "answer": "feel the same way",
+      "options": [
+        "feel the same way",
+        "know the right way",
+        "find the other way",
+        "go the long way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "litter",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to drop rubbish on the ground in a public place",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c06_u023",
+      "answer": "littered",
+      "options": [
+        "littered",
+        "loitered",
+        "lingered",
+        "stumbled"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "backwards",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in the reverse order, from the end to the beginning",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c10_u004",
+      "answer": "backwards",
+      "options": [
+        "backwards",
+        "sideways",
+        "overhead",
+        "outdoors"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "innocent victim",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who is hurt by something they did not cause or deserve",
+  "exchanges": [
+    {
+      "uid": "s03_e17_c09_u021",
+      "answer": "innocent victim",
+      "options": [
+        "innocent victim",
+        "guilty party",
+        "prime suspect",
+        "lucky winner"
+      ]
+    }
+  ]
 }
 ]

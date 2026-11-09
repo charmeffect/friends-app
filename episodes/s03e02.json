@@ -517,5 +517,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "it's not like",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is not really the case, often to defend yourself",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c02_u019",
+      "answer": "it's not like",
+      "options": [
+        "it's not like",
+        "it's too bad",
+        "it's high time",
+        "it's a pity"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "doesn't matter",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something is not important",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c02_u023",
+      "answer": "doesn't matter",
+      "options": [
+        "doesn't matter",
+        "doesn't rhyme",
+        "doesn't fit",
+        "doesn't hurt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "way to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically before a verb to criticize someone for doing something badly or spoiling something",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c03_u119",
+      "answer": "way to",
+      "options": [
+        "way to",
+        "how to",
+        "ready to",
+        "glad to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what a baby",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said about someone who is behaving in a childish way or complaining too much",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c03_u118",
+      "answer": "what a baby",
+      "options": [
+        "what a baby",
+        "what a bargain",
+        "what a view",
+        "what a coincidence"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "better yet",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to introduce an idea that is even better than the one just mentioned",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c03_u055",
+      "answer": "better yet",
+      "options": [
+        "better yet",
+        "so far",
+        "last week",
+        "once again"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to spare",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "left over, in addition to what is needed",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c03_u157",
+      "answer": "to spare",
+      "options": [
+        "to spare",
+        "in prison",
+        "on sale",
+        "for free"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "or something",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to show that what you have just said is only a rough guess or example",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c03_u145",
+      "answer": "or something",
+      "options": [
+        "or something",
+        "or nobody",
+        "or forever",
+        "or never"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be out the door",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have left a place, especially in order to go somewhere on time",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c01_u010",
+      "answer": "out the door",
+      "options": [
+        "out the door",
+        "under the bed",
+        "on the roof",
+        "in the kitchen"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a whole lot",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "very much; a great deal",
+  "exchanges": [
+    {
+      "uid": "s03_e02_c01_u012",
+      "answer": "a whole lot",
+      "options": [
+        "a whole lot",
+        "a long way",
+        "a few times",
+        "a short while"
+      ]
+    }
+  ]
 }
 ]

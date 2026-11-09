@@ -501,5 +501,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "here you go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you hand something to someone",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c01_u021",
+      "answer": "here you go",
+      "options": [
+        "here you go",
+        "there it goes",
+        "off you go",
+        "here I come"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "excuse me for",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used sarcastically to show you think you were wrongly criticized for doing something",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c07_u008",
+      "answer": "excuse me for",
+      "options": [
+        "excuse me for",
+        "thank you for",
+        "congrats on",
+        "good luck with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "neither do I",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that the negative statement just made is also true for you",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c07_u017",
+      "answer": "neither do I",
+      "options": [
+        "neither do I",
+        "so do I",
+        "neither am I",
+        "so am I"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have no right to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to not be entitled or allowed to do something",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c07_u007",
+      "answer": "had no right",
+      "options": [
+        "had no right",
+        "had no idea",
+        "had no time",
+        "had no choice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "care to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to want to do something, used in polite offers and invitations",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c13_u013",
+      "answer": "care to",
+      "options": [
+        "care to",
+        "dare to",
+        "have to",
+        "need to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "change of plans",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a decision to do something different from what was arranged",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c08_u011",
+      "answer": "change in plans",
+      "options": [
+        "change in plans",
+        "change in weather",
+        "drop in prices",
+        "rise in rent"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at all times",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "always, without any exception",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c05_u019",
+      "answer": "at all times",
+      "options": [
+        "at all times",
+        "at no time",
+        "at the moment",
+        "at first sight"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "apology accepted",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone you forgive them after they say sorry",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c13_u007",
+      "answer": "apology accepted",
+      "options": [
+        "apology accepted",
+        "offer declined",
+        "order received",
+        "message sent"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get someone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to understand who someone really is and what they mean",
+  "exchanges": [
+    {
+      "uid": "s03_e15_c01_u020",
+      "answer": "gets me",
+      "options": [
+        "gets me",
+        "hates me",
+        "fools me",
+        "bores me"
+      ]
+    }
+  ]
 }
 ]

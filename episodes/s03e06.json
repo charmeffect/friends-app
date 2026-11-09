@@ -513,5 +513,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "be welcome to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be freely allowed to do or use something if you want to",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c03_u005",
+      "answer": "welcome to",
+      "options": [
+        "welcome to",
+        "unlikely to",
+        "sorry to",
+        "eager to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in general",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in most cases or as a whole, not about one particular person or thing",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c04_u007",
+      "answer": "in general",
+      "options": [
+        "in general",
+        "in advance",
+        "in person",
+        "in a row"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do I ever",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used as a strong, enthusiastic way of saying yes",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u004",
+      "answer": "Do I ever",
+      "options": [
+        "Do I ever",
+        "Am I late",
+        "Is it raining",
+        "Was I there"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "close down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop a business or place from operating permanently",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u005",
+      "answer": "closing down",
+      "options": [
+        "closing down",
+        "showing off",
+        "calming down",
+        "backing up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "got me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I have no idea",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c06_u009",
+      "answer": "Got me",
+      "options": [
+        "Got me",
+        "Hold on",
+        "Bless you",
+        "Watch out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "like you wouldn't believe",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to an extremely great degree; very much",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c08_u015",
+      "answer": "Like you wouldn't believe",
+      "options": [
+        "Like you wouldn't believe",
+        "Like a broken record",
+        "As good as new",
+        "Better late than never"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what are you talking about",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you do not understand or are surprised by what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c10_u008",
+      "answer": "talking about",
+      "options": [
+        "talking about",
+        "looking at",
+        "laughing at",
+        "pointing at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in real life",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in the actual world, as opposed to on TV, in films, or in imagination",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c12_u012",
+      "answer": "in real life",
+      "options": [
+        "in real life",
+        "in a hurry",
+        "by the way",
+        "at the most"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds great",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to accept a suggestion or show you like a plan",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c14_u008",
+      "answer": "sounds great",
+      "options": [
+        "sounds great",
+        "looks awful",
+        "feels wrong",
+        "smells bad"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it could happen to anyone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to comfort someone by telling them a mistake is common and not their fault",
+  "exchanges": [
+    {
+      "uid": "s03_e06_c09_u010",
+      "answer": "could happen to anyone",
+      "options": [
+        "could happen to anyone",
+        "should stay with someone",
+        "might belong to anyone",
+        "would talk to anyone"
+      ]
+    }
+  ]
 }
 ]

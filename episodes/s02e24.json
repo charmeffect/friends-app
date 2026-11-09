@@ -514,5 +514,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "yeah, right",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said sarcastically to show that you do not believe what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c02_u005",
+      "answer": "Yeah, right",
+      "options": [
+        "Yeah, right",
+        "You bet",
+        "My bad",
+        "Count me in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "live in the moment",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to enjoy the present without worrying about the future",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c03_u030",
+      "answer": "living in the moment",
+      "options": [
+        "living in the moment",
+        "living in the past",
+        "making a scene",
+        "playing it safe"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "this close",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "very close to each other, often said while showing a tiny gap with your fingers",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c05_u021",
+      "answer": "this close",
+      "options": [
+        "this close",
+        "this far",
+        "this late",
+        "this tired"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel guilty",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel bad because you think you have done something wrong",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c13_u002",
+      "answer": "guilty",
+      "options": [
+        "guilty",
+        "sleepy",
+        "hungry",
+        "famous"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it through",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to manage to get to the end of a difficult event or period",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c10_u018",
+      "answer": "make it through",
+      "options": [
+        "make it through",
+        "get it over",
+        "pull it off",
+        "think it over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what now",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked to find out what will happen or what to do next",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c11_u013",
+      "answer": "what now",
+      "options": [
+        "what now",
+        "why not",
+        "how come",
+        "who cares"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a watched pot never boils",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "time seems to pass more slowly when you are anxiously waiting for something",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c12_u006",
+      "answer": "watched pot",
+      "options": [
+        "watched pot",
+        "broken clock",
+        "sinking ship",
+        "rolling stone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel good about yourself",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel confident and pleased with who you are",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c03_u008",
+      "answer": "feel good about myself",
+      "options": [
+        "feel good about myself",
+        "make fun of myself",
+        "take care of myself",
+        "get rid of myself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take control of a place or organization",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c04_u022",
+      "answer": "taking over",
+      "options": [
+        "taking over",
+        "giving up",
+        "calming down",
+        "showing off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you'll never believe",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce news that will surprise the listener",
+  "exchanges": [
+    {
+      "uid": "s02_e24_c01_u003",
+      "answer": "you'll never believe",
+      "options": [
+        "you'll never believe",
+        "you shouldn't care",
+        "you can't help",
+        "you won't mind"
+      ]
+    }
+  ]
 }
 ]

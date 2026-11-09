@@ -520,5 +520,215 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "back on track",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "going well again after a problem or mistake",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c01_u021",
+      "answer": "back on track",
+      "options": [
+        "back on track",
+        "out of breath",
+        "off the hook",
+        "on the fence"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "this close",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "very close to each other, often said while showing a tiny gap with your fingers",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c03_u006",
+      "answer": "this close",
+      "options": [
+        "this close",
+        "this rich",
+        "this tired",
+        "this late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have to be somewhere",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used as a polite excuse to leave because you are expected at another place",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c05_u008",
+      "answer": "have to be somewhere",
+      "options": [
+        "have to be somewhere",
+        "have to be careful",
+        "have to be quiet",
+        "have to be brave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "focus on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give all your attention to one particular thing",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c07_u006",
+      "answer": "focus on",
+      "options": [
+        "focus on",
+        "count on",
+        "turn on",
+        "log on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm just saying",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are only making a comment and do not mean to start an argument",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c08_u002",
+      "answer": "I'm just saying",
+      "options": [
+        "I'm just saying",
+        "I'm just leaving",
+        "I'm just starving",
+        "I'm just thirsty"
+      ]
+    },
+    {
+      "uid": "s02_e14_c08_u006",
+      "answer": "I'm just saying",
+      "options": [
+        "I'm just saying",
+        "I'm just leaving",
+        "I'm just starving",
+        "I'm just thirsty"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bring on",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "said to show that you are ready and eager for something to start or arrive",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c09_u004",
+      "answer": "Bring on",
+      "options": [
+        "Bring on",
+        "Bring up",
+        "Take off",
+        "Put away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get ready for",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to prepare yourself for an event that is about to happen",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c10_u019",
+      "answer": "getting ready for",
+      "options": [
+        "getting ready for",
+        "getting rid of",
+        "getting tired of",
+        "getting used to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "zoom out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to adjust a camera so that the picture shows a wider area",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c10_u025",
+      "answer": "zoom out",
+      "options": [
+        "zoom out",
+        "log out",
+        "print out",
+        "pass out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "doubtful",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unlikely to happen; probably not",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c10_u058",
+      "answer": "Doubtful",
+      "options": [
+        "Doubtful",
+        "Painful",
+        "Careful",
+        "Grateful"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ready or not",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is about to happen whether or not someone is prepared for it",
+  "exchanges": [
+    {
+      "uid": "s02_e14_c10_u075",
+      "answer": "ready or not",
+      "options": [
+        "ready or not",
+        "now or never",
+        "more or less",
+        "by and large"
+      ]
+    }
+  ]
 }
 ]

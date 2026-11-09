@@ -474,5 +474,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "take someone out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to invite someone to go with you to a restaurant or event, usually paying for them",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c01_u017",
+      "answer": "take you out",
+      "options": [
+        "take you out",
+        "freak you out",
+        "wear you out",
+        "kick you out"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "guess who",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to introduce surprising news, inviting the listener to guess who it is about",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c02_u004",
+      "answer": "Guess who",
+      "options": [
+        "Guess who",
+        "Remember who",
+        "Forget who",
+        "Ignore who"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get to do",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the chance or privilege of doing something",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c02_u007",
+      "answer": "get to",
+      "options": [
+        "get to",
+        "refuse to",
+        "forget to",
+        "hate to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no good",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "of poor quality; not satisfactory",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c04_u014",
+      "answer": "no good",
+      "options": [
+        "no good",
+        "no doubt",
+        "no wonder",
+        "no way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't forget to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to remind someone to do something",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c05_u007",
+      "answer": "don't forget to",
+      "options": [
+        "don't forget to",
+        "don't pretend to",
+        "don't dare to",
+        "don't refuse to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me ask you this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce an important or direct question",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c06_u010",
+      "answer": "ask you this",
+      "options": [
+        "ask you this",
+        "sleep on it",
+        "walk you home",
+        "hang up now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one and only",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "the only one of its kind, used to stress how special someone is",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c07_u013",
+      "answer": "one and only",
+      "options": [
+        "one and only",
+        "now and then",
+        "once and for all",
+        "over and over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "before you know it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "very soon, sooner than you expect",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c09_u009",
+      "answer": "before you know it",
+      "options": [
+        "before you know it",
+        "after all",
+        "once in a while",
+        "by the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "paint a picture",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to describe a situation in a vivid and detailed way",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c09_u010",
+      "answer": "paints quite a picture",
+      "options": [
+        "paints quite a picture",
+        "drives a hard bargain",
+        "pulls his weight",
+        "keeps a low profile"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's all",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used at the end of a statement to say there is nothing more to it",
+  "exchanges": [
+    {
+      "uid": "s03_e12_c15_u032",
+      "answer": "that's all",
+      "options": [
+        "that's all",
+        "that's why",
+        "that's where",
+        "that's when"
+      ]
+    }
+  ]
 }
 ]

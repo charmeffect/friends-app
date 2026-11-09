@@ -506,5 +506,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "ya think",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically to agree that something is completely obvious",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c01_u041",
+      "answer": "Ya think",
+      "options": [
+        "Ya think",
+        "Ya mind",
+        "Ya see",
+        "Ya hear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "goofy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "silly in a harmless, amusing way",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c01_u053",
+      "answer": "goofy",
+      "options": [
+        "goofy",
+        "greedy",
+        "grumpy",
+        "bossy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who knows",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is possible, although nobody can be sure",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c01_u064",
+      "answer": "who knows",
+      "options": [
+        "who knows",
+        "who cares",
+        "who says",
+        "who's there"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kick some ass",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to act forcefully and physically against people who are causing trouble",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c05_u016",
+      "answer": "kick some ass",
+      "responseUid": "s02_e13_c05_u018",
+      "options": [
+        "kick some ass",
+        "kick the habit",
+        "hit the books",
+        "hit the sack"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have the guts",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have enough courage to do something difficult or risky",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c08_u012",
+      "answer": "have the guts",
+      "options": [
+        "have the guts",
+        "have the time",
+        "have the keys",
+        "have the cash"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chicken",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "too scared to do something; cowardly",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c08_u013",
+      "answer": "chicken",
+      "options": [
+        "chicken",
+        "greedy",
+        "clumsy",
+        "sleepy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to get rid of something you no longer want",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c08_u017",
+      "answer": "throw out",
+      "options": [
+        "throw out",
+        "throw up",
+        "take after",
+        "run into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk about",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something is a very clear or extreme example of a particular thing",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c09_u012",
+      "answer": "talk about",
+      "options": [
+        "talk about",
+        "care about",
+        "lie about",
+        "fight about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walk off with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to take something that is not yours and leave with it",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c09_u012",
+      "answer": "walks off with",
+      "options": [
+        "walks off with",
+        "comes up with",
+        "puts up with",
+        "runs out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I have to admit",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something you are a little reluctant or surprised to say is true",
+  "exchanges": [
+    {
+      "uid": "s02_e13_c07_u004",
+      "answer": "gotta admit",
+      "cueUid": "s02_e13_c07_u002",
+      "options": [
+        "gotta admit",
+        "gotta go",
+        "gotta run",
+        "gotta eat"
+      ]
+    }
+  ]
 }
 ]

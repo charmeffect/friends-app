@@ -545,5 +545,215 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "get back to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return to an activity you were doing before being interrupted",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c03_u005",
+      "answer": "get back to",
+      "options": [
+        "get back to",
+        "get rid of",
+        "get out of",
+        "get tired of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "living the dream",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "enjoying the exciting life you always wanted, often said ironically",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c12_u013",
+      "answer": "livin' the dream",
+      "options": [
+        "livin' the dream",
+        "losin' the game",
+        "missin' the bus",
+        "breakin' the law"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "conversation piece",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an unusual object that gets people interested and starts them talking",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c13_u018",
+      "answer": "conversation piece",
+      "options": [
+        "conversation piece",
+        "conversation break",
+        "conversation class",
+        "conversation error"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just so you know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before giving someone information they should be aware of",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c10_u008",
+      "answer": "just so you know",
+      "options": [
+        "just so you know",
+        "just in case",
+        "just for fun",
+        "just like that"
+      ]
+    },
+    {
+      "uid": "s02_e19_c14_u016",
+      "answer": "just so you know",
+      "options": [
+        "just so you know",
+        "just in case",
+        "just for fun",
+        "just like that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a deal",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to have made an agreement that both people are expected to keep",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c06_u009",
+      "answer": "had a deal",
+      "options": [
+        "had a deal",
+        "had a fight",
+        "had a drink",
+        "had a cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "impulse buyer",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who buys things suddenly without planning or thinking about it",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c12_u022",
+      "answer": "impulse buyer",
+      "options": [
+        "impulse buyer",
+        "window shopper",
+        "careful saver",
+        "early riser"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big diff",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "short for 'big difference'; said to claim something does not really matter",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c13_u018",
+      "answer": "big diff",
+      "options": [
+        "big diff",
+        "big shot",
+        "big mouth",
+        "big wheel"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's that about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when you want someone to explain the reason for something strange or unfair",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c01_u012",
+      "answer": "what's that about",
+      "options": [
+        "what's that about",
+        "where's that from",
+        "who's that for",
+        "how's that going"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have we met",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when you think you might know someone, or to pretend you do not know them",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c14_u005",
+      "answer": "Have we met",
+      "options": [
+        "Have we met",
+        "Have we won",
+        "Have we eaten",
+        "Have we left"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be aware of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "to know about something or realize that it exists",
+  "exchanges": [
+    {
+      "uid": "s02_e19_c05_u030",
+      "answer": "aware of",
+      "options": [
+        "aware of",
+        "short of",
+        "full of",
+        "fond of"
+      ]
+    }
+  ]
 }
 ]

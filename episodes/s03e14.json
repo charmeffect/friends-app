@@ -503,5 +503,187 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "nod off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fall asleep without meaning to, usually while sitting",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c15_u003",
+      "answer": "Nodded off",
+      "options": [
+        "Nodded off",
+        "Showed off",
+        "Cooled off",
+        "Paid off"
+      ],
+      "cueUid": null
+    }
+  ]
+},
+
+{
+  "expression": "on my own",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "alone, without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c15_u015",
+      "answer": "on my own",
+      "options": [
+        "on my own",
+        "on my side",
+        "on the house",
+        "on my mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I wish",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when the real situation is even worse than the bad thing someone has just suggested",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c06_u023",
+      "answer": "I wish",
+      "options": [
+        "I wish",
+        "I swear",
+        "I bet",
+        "I guess"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "insist on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to demand firmly that you do something, even if others may not want it",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c15_u011",
+      "answer": "insist on",
+      "options": [
+        "insist on",
+        "object to",
+        "give up",
+        "dream of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's it gonna be",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to demand that someone make a choice now",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c17_u008",
+      "answer": "what's it gonna be",
+      "options": [
+        "what's it gonna be",
+        "what's the big deal",
+        "what's it gonna cost",
+        "what's the catch"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "for all you know",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to say that something could be true, because the other person has no information to show it is not",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c08_u017",
+      "answer": "for all you know",
+      "options": [
+        "for all you know",
+        "for all I care",
+        "as you know",
+        "at the most"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kidding",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "saying something as a joke, without meaning it seriously",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c19_u009",
+      "answer": "kidding",
+      "options": [
+        "kidding",
+        "sleeping",
+        "crying",
+        "winning"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not that",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to deny a feeling or reason that your words might suggest, often when it is actually true",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c09_u003",
+      "answer": "Not that",
+      "options": [
+        "Not that",
+        "So that",
+        "Now that",
+        "Given that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know what I mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to check that the listener understands what you are trying to say",
+  "exchanges": [
+    {
+      "uid": "s03_e14_c15_u013",
+      "answer": "Y'know what I mean",
+      "options": [
+        "Y'know what I mean",
+        "Y'know what I bought",
+        "Y'know what I ate",
+        "Y'know where I went"
+      ]
+    }
+  ]
 }
 ]

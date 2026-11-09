@@ -503,5 +503,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "be good with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "to be skilled at dealing with or looking after a certain kind of person or thing",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c06_u013",
+      "answer": "good with",
+      "options": [
+        "good with",
+        "proud of",
+        "sure of",
+        "full of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be of help",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be useful to someone",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c02_u014",
+      "answer": "be of help",
+      "options": [
+        "be of help",
+        "be on time",
+        "be in charge",
+        "be at home"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "next thing I know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something happened suddenly and surprisingly after something else",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u040",
+      "answer": "next thing I know",
+      "options": [
+        "next thing I know",
+        "last thing I need",
+        "only thing I want",
+        "first thing I saw"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stuff like that",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "things of that kind; similar things",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c06_u019",
+      "answer": "stuff like that",
+      "options": [
+        "stuff like that",
+        "stuff for that",
+        "stuff after that",
+        "stuff under that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one of the guys",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "accepted as a normal, equal member of a group of male friends",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c09_u032",
+      "answer": "one of the guys",
+      "options": [
+        "one of the guys",
+        "one of the girls",
+        "one of the doctors",
+        "one of the teachers"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "be right there",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to arrive where someone needs you very soon",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u018",
+      "answer": "be right there",
+      "options": [
+        "be right there",
+        "be quite sure",
+        "be very late",
+        "be really sorry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not to sound",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used before saying something that you worry may make you seem a certain way, as in 'not to sound rude, but'",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c09_u008",
+      "answer": "not to sound",
+      "options": [
+        "not to sound",
+        "not to wait",
+        "not to leave",
+        "not to worry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "plan out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to decide in detail how something will happen in the future",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c07_u042",
+      "answer": "planned out",
+      "options": [
+        "planned out",
+        "handed out",
+        "left out",
+        "worn out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shield someone from",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to protect someone from something unpleasant or harmful",
+  "exchanges": [
+    {
+      "uid": "s02_e20_c04_u006",
+      "answer": "shield us from",
+      "options": [
+        "shield us from",
+        "lead us into",
+        "push us toward",
+        "drive us to"
+      ]
+    }
+  ]
 }
 ]

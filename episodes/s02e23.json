@@ -508,5 +508,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "no kidding",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "really? - used to show surprise at what someone just said",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c03_u007",
+      "answer": "No kidding",
+      "options": [
+        "No kidding",
+        "No offense",
+        "Good call",
+        "Way to go"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have in mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be thinking of or intending a particular thing",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c14_u003",
+      "answer": "had in mind",
+      "options": [
+        "had in mind",
+        "made up",
+        "gave away",
+        "put off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ease someone in",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to introduce someone to something gradually so that it is not a shock",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c02_u015",
+      "answer": "easing you in",
+      "options": [
+        "easing you in",
+        "freaking you out",
+        "letting you down",
+        "putting you off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run the risk",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be in a situation where something bad could happen to you",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c02_u012",
+      "answer": "running that risk",
+      "options": [
+        "running that risk",
+        "making that call",
+        "taking that road",
+        "paying that price"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whatever you do",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to give a strong warning about something you must or must not do",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c03_u012",
+      "answer": "Whatever you do",
+      "options": [
+        "Whatever you do",
+        "Whenever you can",
+        "Wherever you go",
+        "However you like"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it turns out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something was discovered to be true, often unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c06_u008",
+      "answer": "turns out",
+      "options": [
+        "turns out",
+        "never mind",
+        "no offense",
+        "so long"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for one's own good",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "for your own benefit, even if you do not like it",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c09_u005",
+      "answer": "for their own good",
+      "options": [
+        "for their own good",
+        "on their own time",
+        "at their own risk",
+        "by their own choice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walk someone out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go with someone to the door or exit when they are leaving",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c13_u010",
+      "answer": "walk you out",
+      "options": [
+        "walk you out",
+        "wake you up",
+        "call you back",
+        "fill you in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you'll never guess",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce surprising news",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c01_u012",
+      "answer": "will never guess",
+      "options": [
+        "will never guess",
+        "should never ask",
+        "must never know",
+        "could never stand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make some calls",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to contact people by phone to try to arrange or find something",
+  "exchanges": [
+    {
+      "uid": "s02_e23_c13_u018",
+      "answer": "make some calls",
+      "options": [
+        "make some calls",
+        "take some notes",
+        "pay some bills",
+        "do some laundry"
+      ]
+    }
+  ]
 }
 ]

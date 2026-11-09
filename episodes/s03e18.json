@@ -505,5 +505,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "nothing to lose",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in a situation where trying something cannot make things worse for you",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c05_u012",
+      "answer": "nothing to lose",
+      "options": [
+        "nothing to lose",
+        "nothing to wear",
+        "nothing to eat",
+        "nothing to read"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold on to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to keep something and not give it to someone else",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c07_u025",
+      "answer": "hold on to",
+      "options": [
+        "hold on to",
+        "look up to",
+        "get back to",
+        "run out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "selfish",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "caring only about yourself and not about other people",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c15_u005",
+      "answer": "selfish",
+      "options": [
+        "selfish",
+        "modest",
+        "polite",
+        "patient"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "curl up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to lie or sit comfortably with your body bent into a small round shape",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c11_u004",
+      "answer": "curl up",
+      "options": [
+        "curl up",
+        "show up",
+        "give up",
+        "speak up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "worth of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used after an amount of money or time to mean that much of something",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c16_u003",
+      "answer": "worth of",
+      "options": [
+        "worth of",
+        "instead of",
+        "because of",
+        "ahead of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here you go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you hand something to someone",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c06_u016",
+      "answer": "Here you go",
+      "cueUid": "s03_e18_c06_u009",
+      "options": [
+        "Here you go",
+        "Good for you",
+        "Never mind",
+        "Watch out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the point is",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the most important part of what you are trying to say",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c07_u005",
+      "answer": "the point is",
+      "options": [
+        "the point is",
+        "the weather is",
+        "the price is",
+        "the menu is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bet good money",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to feel very sure that something is true or will happen",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c02_u025",
+      "answer": "bet good money",
+      "options": [
+        "bet good money",
+        "made good time",
+        "paid good attention",
+        "kept good company"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up to one's elbows in",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "very busy with or deeply involved in a messy task",
+  "exchanges": [
+    {
+      "uid": "s03_e18_c05_u006",
+      "answer": "up to his elbows",
+      "options": [
+        "up to his elbows",
+        "out of his league",
+        "off his rocker",
+        "on his best behavior"
+      ]
+    }
+  ]
 }
 ]

@@ -485,5 +485,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "sick and tired of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely annoyed by something that has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c01_u023",
+      "answer": "sick and tired",
+      "options": [
+        "sick and tired",
+        "safe and sound",
+        "short and sweet",
+        "neat and tidy"
+      ],
+      "cueUid": "s03_e11_c01_u016"
+    }
+  ]
+},
+
+{
+  "expression": "I'll bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are fairly sure something is true",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c03_u006",
+      "answer": "I'll bet",
+      "options": [
+        "I'll bet",
+        "I'll admit",
+        "I'll swear",
+        "I'll promise"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how does that sound",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask whether someone likes a suggestion or offer",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c03_u010",
+      "answer": "How does that sound",
+      "options": [
+        "How does that sound",
+        "How did that happen",
+        "Who does that help",
+        "Why does that matter"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ASAP",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "as soon as possible",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c03_u014",
+      "answer": "ASAP",
+      "options": [
+        "ASAP",
+        "RSVP",
+        "FYI",
+        "IOU"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it turns out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something was discovered to be true, often unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c05_u021",
+      "answer": "it turns out",
+      "options": [
+        "it turns out",
+        "it falls apart",
+        "it wears off",
+        "it adds up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm just saying",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to defend something you have said, suggesting you only mean to point it out",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c05_u030",
+      "answer": "I'm just saying",
+      "options": [
+        "I'm just saying",
+        "I'm just leaving",
+        "I'm just looking",
+        "I'm just starving"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in exchange for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "as payment or a return for something given or done",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c06_u002",
+      "answer": "in exchange for",
+      "options": [
+        "in exchange for",
+        "in charge of",
+        "in spite of",
+        "in favor of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tend to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to usually behave in a particular way or be likely to do something",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c07_u014",
+      "answer": "tend to",
+      "options": [
+        "tend to",
+        "refuse to",
+        "pretend to",
+        "hesitate to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of one's mind",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "crazy or behaving in a completely unreasonable way",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c11_u027",
+      "answer": "out of my mind",
+      "options": [
+        "out of my mind",
+        "out of my league",
+        "out of my way",
+        "out of the loop"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the receiving end of",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "being the person that something unpleasant is done to",
+  "exchanges": [
+    {
+      "uid": "s03_e11_c12_u035",
+      "answer": "on the receiving end",
+      "options": [
+        "on the receiving end",
+        "on the right track",
+        "on the same page",
+        "on the other hand"
+      ]
+    }
+  ]
 }
 ]

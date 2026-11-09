@@ -508,5 +508,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "tough noogies",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "too bad; said without sympathy when someone will not get what they want",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u003",
+      "answer": "Tough noogies",
+      "options": [
+        "Tough noogies",
+        "Sweet dreams",
+        "Welcome back",
+        "Many thanks"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all yours",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you have finished using something and someone else can use it now",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c03_u010",
+      "answer": "All yours",
+      "options": [
+        "All yours",
+        "All mine",
+        "All wrong",
+        "All alone"
+      ],
+      "cueUid": "s02_e17_c03_u008"
+    }
+  ]
+},
+
+{
+  "expression": "get to talking",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start chatting with someone in a casual way, often by chance",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c09_u012",
+      "answer": "got to talking",
+      "options": [
+        "got to talking",
+        "got to cooking",
+        "got to dancing",
+        "got to singing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it turns out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something was discovered to be true, often unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c05_u003",
+      "answer": "it turns out",
+      "options": [
+        "it turns out",
+        "it goes on",
+        "it holds up",
+        "it breaks down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cut it out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "stop doing that (said when someone is being annoying)",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c03_u015",
+      "answer": "Cut it out",
+      "options": [
+        "Cut it out",
+        "Check it out",
+        "Work it out",
+        "Try it out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "or what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "added to the end of a question to show you are sure the answer is yes",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c09_u017",
+      "answer": "or what",
+      "options": [
+        "or what",
+        "or why",
+        "or how",
+        "or who"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "couldn't be happier",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are extremely happy and things are going very well",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c11_u018",
+      "answer": "couldn't be happier",
+      "options": [
+        "couldn't be happier",
+        "couldn't be louder",
+        "couldn't be sooner",
+        "couldn't be taller"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be mean to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to treat someone in an unkind or hurtful way",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c12_u024",
+      "answer": "were mean to",
+      "options": [
+        "were mean to",
+        "were kind to",
+        "were nice to",
+        "were close to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the other line",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a second phone call that comes in while you are already on the phone",
+  "exchanges": [
+    {
+      "uid": "s02_e17_c08_u004",
+      "answer": "the other line",
+      "options": [
+        "the other line",
+        "the other hand",
+        "the other side",
+        "the other way"
+      ]
+    }
+  ]
 }
 ]

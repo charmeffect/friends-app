@@ -479,5 +479,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that's the stuff",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something feels or tastes exactly as good as you hoped",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c01_u013",
+      "answer": "that's the stuff",
+      "options": [
+        "that's the stuff",
+        "that's the problem",
+        "that's the rule",
+        "that's the end"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "life-size",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "the same size as the real person or thing",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c02_u004",
+      "answer": "life-size",
+      "options": [
+        "life-size",
+        "bite-size",
+        "second-hand",
+        "short-lived"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trigger",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make you suddenly remember something or react to it",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c02_u026",
+      "answer": "trigger",
+      "options": [
+        "trigger",
+        "delete",
+        "reverse",
+        "punish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'll survive",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that a problem is not serious enough to really hurt you",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c03_u016",
+      "answer": "I'll survive",
+      "options": [
+        "I'll survive",
+        "I'll pay",
+        "I'll call",
+        "I'll drive"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you'd better",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to advise or warn someone that they should do something",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c05_u009",
+      "answer": "You better",
+      "options": [
+        "You better",
+        "You wish",
+        "You lost",
+        "You see"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go nuts",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to react with wild excitement or enthusiasm",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c05_u009",
+      "answer": "go nuts",
+      "options": [
+        "go nuts",
+        "go bald",
+        "go broke",
+        "go home"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't think so",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite but firm way of saying no or disagreeing",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c05_u013",
+      "answer": "I don't think so",
+      "options": [
+        "I don't think so",
+        "I can't wait",
+        "I knew it",
+        "I'm so sorry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hard to follow",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "difficult to understand, especially a story, film or explanation",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c06_u002",
+      "answer": "hard to follow",
+      "options": [
+        "hard to follow",
+        "nice to watch",
+        "quick to end",
+        "easy to make"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "happen to be",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be something by chance, used to stress a fact the listener may not expect",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c09_u028",
+      "answer": "happens to be",
+      "options": [
+        "happens to be",
+        "refuses to be",
+        "forgets to be",
+        "hates to be"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "thank God",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show relief that something good has happened or something bad has not",
+  "exchanges": [
+    {
+      "uid": "s02_e15_c13_u017",
+      "answer": "thank God",
+      "options": [
+        "thank God",
+        "shame on me",
+        "bless you",
+        "excuse me"
+      ]
+    }
+  ]
 }
 ]

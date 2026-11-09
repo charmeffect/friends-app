@@ -526,5 +526,188 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "here's a thought",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce a suggestion or idea",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c03_u007",
+      "answer": "here's a thought",
+      "options": [
+        "here's a thought",
+        "here's the bill",
+        "that's a pity",
+        "what a relief"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm in",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you will take part in something",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c10_u009",
+      "answer": "I'm in",
+      "cueUid": "s03_e01_c10_u006",
+      "options": [
+        "I'm in",
+        "I'm lost",
+        "I'm late",
+        "I'm full"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "quality time",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "time spent giving your full attention to someone you care about",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c10_u006",
+      "answer": "quality time",
+      "options": [
+        "quality time",
+        "jail time",
+        "screen time",
+        "prime time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get some sleep",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to sleep for a while, especially when you badly need rest",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c06_u019",
+      "answer": "get some sleep",
+      "cueUid": "s03_e01_c06_u017",
+      "options": [
+        "get some sleep",
+        "get some money",
+        "get some paint",
+        "get some ice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be over someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to no longer have romantic feelings for someone",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c09_u011",
+      "answer": "over me",
+      "options": [
+        "over me",
+        "into me",
+        "after me",
+        "onto me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the whole point",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the main purpose or reason for doing something",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c12_u014",
+      "answer": "the whole point",
+      "options": [
+        "the whole point",
+        "the whole story",
+        "the whole truth",
+        "the whole team"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if it makes you feel any better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before telling someone something that may comfort them",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c12_u018",
+      "answer": "feel any better",
+      "cueUid": "s03_e01_c12_u016",
+      "options": [
+        "feel any better",
+        "look any different",
+        "sound any nicer",
+        "seem any older"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get to do",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the chance or privilege of doing something",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c12_u014",
+      "answer": "get to",
+      "options": [
+        "get to",
+        "forget to",
+        "refuse to",
+        "pretend to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here we go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you are about to start doing something",
+  "exchanges": [
+    {
+      "uid": "s03_e01_c14_u002",
+      "answer": "here we go",
+      "options": [
+        "here we go",
+        "see you later",
+        "what a shame",
+        "good for you"
+      ]
+    }
+  ]
 }
 ]

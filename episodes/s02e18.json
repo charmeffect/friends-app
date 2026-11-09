@@ -484,5 +484,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what's your point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when you do not see why what someone has just said matters",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c14_u009",
+      "answer": "What's your point",
+      "options": [
+        "What's your point",
+        "What's your name",
+        "What's your sign",
+        "What's your number"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what can I say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when you cannot really explain or excuse something, or have nothing more to add",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c09_u009",
+      "answer": "what can I say",
+      "options": [
+        "what can I say",
+        "where can I go",
+        "who can I call",
+        "when can I eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I tell you what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce a suggestion or an offer",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c11_u046",
+      "answer": "I tell you what",
+      "options": [
+        "I tell you what",
+        "I told you so",
+        "I wish you well",
+        "I miss you too"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shall we",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to suggest politely that you and someone else start doing something or go somewhere together",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c11_u058",
+      "answer": "Shall we",
+      "options": [
+        "Shall we",
+        "Did we",
+        "Were we",
+        "Have we"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "high school sweetheart",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person you went out with when you were both in high school",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c09_u009",
+      "answer": "high school sweetheart",
+      "options": [
+        "high school sweetheart",
+        "high school rival",
+        "high school principal",
+        "high school mascot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a message",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to write down what a caller wants to say to someone who is not there",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c05_u005",
+      "answer": "take a message",
+      "options": [
+        "take a message",
+        "take a guess",
+        "take a break",
+        "take a hint"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be mentioned or raised in a conversation",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c05_u011",
+      "answer": "came up",
+      "options": [
+        "came up",
+        "came off",
+        "came by",
+        "came over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big fan of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "someone who likes something very much; often used in the negative to say you do not like it",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c02_u006",
+      "answer": "big fan of",
+      "options": [
+        "big fan of",
+        "big part of",
+        "big sign of",
+        "big cause of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "insult someone's intelligence",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to treat someone as if they are stupid enough to believe something obviously false",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c10_u009",
+      "answer": "insult my intelligence",
+      "options": [
+        "insult my intelligence",
+        "praise my intelligence",
+        "boost my intelligence",
+        "share my intelligence"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whatever",
+  "type": "word",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to show that you do not care or are not interested in what someone has said",
+  "exchanges": [
+    {
+      "uid": "s02_e18_c12_u024",
+      "answer": "whatever",
+      "options": [
+        "whatever",
+        "wherever",
+        "however",
+        "whichever"
+      ]
+    }
+  ]
 }
 ]

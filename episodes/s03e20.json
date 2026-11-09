@@ -508,5 +508,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what do you see in",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when you cannot understand why someone likes or is attracted to a person",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c07_u005",
+      "answer": "see in",
+      "options": [
+        "see in",
+        "run into",
+        "look after",
+        "take after"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick up where you left off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to continue something from the point where you stopped earlier",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c07_u012",
+      "answer": "left off",
+      "options": [
+        "left off",
+        "showed off",
+        "paid off",
+        "cut off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spoil",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to ruin something or make it much worse",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c06_u010",
+      "answer": "spoil",
+      "options": [
+        "spoil",
+        "spill",
+        "spell",
+        "split"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone a call",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to phone someone",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c08_u016",
+      "answer": "give you a call",
+      "options": [
+        "give you a call",
+        "give you a hint",
+        "give you a raise",
+        "give you a hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "honesty",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the quality of telling the truth and not hiding things",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c14_u023",
+      "answer": "honesty",
+      "options": [
+        "honesty",
+        "jealousy",
+        "laziness",
+        "clumsiness"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have issues with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have emotional problems or difficulties dealing with something",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c14_u022",
+      "answer": "have issues with",
+      "options": [
+        "have issues with",
+        "have fun with",
+        "make friends with",
+        "keep up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big talk",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "confident or boastful statements that the speaker probably will not act on",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c10_u013",
+      "answer": "big talk",
+      "options": [
+        "big talk",
+        "small change",
+        "bad luck",
+        "fine print"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to someone's face",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "directly to a person while they are present, rather than behind their back",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c08_u020",
+      "answer": "To her face",
+      "options": [
+        "To her face",
+        "For her sake",
+        "On her birthday",
+        "By her rules"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big fan of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "someone who likes something very much; often used in the negative to say you do not like it",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c04_u009",
+      "answer": "big fan of",
+      "options": [
+        "big fan of",
+        "big part of",
+        "big piece of",
+        "big friend of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "phase",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a temporary stage in someone's development or behaviour that will pass",
+  "exchanges": [
+    {
+      "uid": "s03_e20_c03_u026",
+      "answer": "phase",
+      "options": [
+        "phase",
+        "fence",
+        "flavor",
+        "format"
+      ]
+    }
+  ]
 }
 ]

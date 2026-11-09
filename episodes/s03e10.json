@@ -494,5 +494,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "good one",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said, often sarcastically, in reply to something that sounds like a joke",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c01_u009",
+      "answer": "Good one",
+      "options": [
+        "Good one",
+        "Bless you",
+        "Cheer up",
+        "Get well"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how do you sleep at night",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to accuse someone of doing something so wrong that they should feel guilty",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c03_u014",
+      "answer": "sleep at night",
+      "options": [
+        "sleep at night",
+        "get up early",
+        "dress so well",
+        "eat so much"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "would rather",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "would prefer to do or have something",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c04_u015",
+      "answer": "I'd rather",
+      "options": [
+        "I'd rather",
+        "I'd better",
+        "I'd hate to",
+        "I'd never"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make room for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to clear space so that something new can fit",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c06_u013",
+      "answer": "make room for",
+      "options": [
+        "make room for",
+        "make fun of",
+        "get rid of",
+        "run out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a feeling",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to suspect or sense that something is true without being sure",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c06_u016",
+      "answer": "have a feeling",
+      "options": [
+        "have a feeling",
+        "have a point",
+        "have a say",
+        "have a clue"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for free",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "without having to pay",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c07_u014",
+      "answer": "for free",
+      "options": [
+        "for free",
+        "for good",
+        "by heart",
+        "at once"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "would give anything to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to want to do something very much",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c07_u030",
+      "answer": "give anything",
+      "options": [
+        "give anything",
+        "owe nothing",
+        "deny everything",
+        "forgive anyone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run for your life",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "run away as fast as you can because you are in danger, often said jokingly",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c08_u028",
+      "answer": "for your life",
+      "options": [
+        "for your life",
+        "for a while",
+        "for a change",
+        "for the record"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "perk up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make something or someone more cheerful or lively",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c12_u002",
+      "answer": "perked up",
+      "options": [
+        "perked up",
+        "wore out",
+        "held back",
+        "called off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're the best",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to thank someone warmly and show how much you appreciate them",
+  "exchanges": [
+    {
+      "uid": "s03_e10_c12_u006",
+      "answer": "you're the best",
+      "options": [
+        "you're the best",
+        "you're the worst",
+        "you're too late",
+        "you're so mean"
+      ]
+    }
+  ]
 }
 ]

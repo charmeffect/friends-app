@@ -520,5 +520,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "crack the code",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to work out the meaning of a secret or coded message",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c10_u021",
+      "answer": "cracked",
+      "options": [
+        "cracked",
+        "wrote",
+        "dropped",
+        "kept"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the loose",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "free and not under control, after escaping or being let out",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c12_u004",
+      "answer": "on the loose",
+      "options": [
+        "on the loose",
+        "on the house",
+        "on the mend",
+        "on the dot"
+      ],
+      "cueUid": "s03_e13_c12_u002"
+    }
+  ]
+},
+
+{
+  "expression": "on display",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "placed where everyone can see it",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c10_u008",
+      "answer": "on display",
+      "options": [
+        "on display",
+        "on duty",
+        "on hold",
+        "on board"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "way better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "much better",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c04_u015",
+      "answer": "way better",
+      "options": [
+        "way better",
+        "way worse",
+        "way duller",
+        "way weaker"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make that",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used when ordering to change or add to what has just been asked for",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c05_u015",
+      "answer": "make that",
+      "options": [
+        "make that",
+        "take that",
+        "say that",
+        "keep that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a weird way",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in a sense that seems strange but is still true",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c01_u007",
+      "answer": "in a weird way",
+      "options": [
+        "in a weird way",
+        "in a big way",
+        "in no way",
+        "in the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just friends",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "only friends, not in a romantic relationship",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c02_u009",
+      "answer": "just friends",
+      "options": [
+        "just friends",
+        "best friends",
+        "old friends",
+        "true friends"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back where we were",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in the same situation as before, as if nothing has moved forward",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c13_u023",
+      "answer": "back where we were",
+      "options": [
+        "back where we were",
+        "back on our feet",
+        "back in business",
+        "back from our trip"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no such",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "not any of the kind just mentioned",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c03_u032",
+      "answer": "no such",
+      "options": [
+        "no such",
+        "no real",
+        "no single",
+        "no other"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrive home or at a place",
+  "exchanges": [
+    {
+      "uid": "s03_e13_c03_u027",
+      "answer": "got in",
+      "options": [
+        "got in",
+        "got by",
+        "got over",
+        "got along"
+      ]
+    }
+  ]
 }
 ]

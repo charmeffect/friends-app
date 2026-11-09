@@ -488,5 +488,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "the thing is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the main point or a problem you want to explain",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c12_u010",
+      "answer": "the thing is",
+      "options": [
+        "the thing is",
+        "the bill is",
+        "the menu is",
+        "the price is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come out wrong",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to sound more hurtful or different than you intended when you say it",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c12_u018",
+      "answer": "come out wrong",
+      "options": [
+        "come out wrong",
+        "run out early",
+        "turn up late",
+        "get out alive"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sure as hell",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "certainly; used to give strong emphasis to a statement",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c08_u003",
+      "answer": "sure as hell",
+      "options": [
+        "sure as hell",
+        "clear as day",
+        "fast as ever",
+        "still as stone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I swear",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to stress that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c10_u007",
+      "answer": "I swear",
+      "options": [
+        "I swear",
+        "I wonder",
+        "I agree",
+        "I hope"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for the wrong reasons",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "because of a bad or selfish motive rather than a good one",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c11_u009",
+      "answer": "for the wrong reasons",
+      "options": [
+        "for the wrong reasons",
+        "for the right price",
+        "for a good cause",
+        "for extra credit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nothing but",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "only; and no other thing",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c13_u012",
+      "answer": "nothing but",
+      "options": [
+        "nothing but",
+        "anything but",
+        "nowhere but",
+        "everything but"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "depressing",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel sad and without hope",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c12_u019",
+      "answer": "depressing",
+      "options": [
+        "depressing",
+        "delicious",
+        "generous",
+        "punctual"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "improvement",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a change that makes something better than it was before",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c14_u007",
+      "answer": "improvement",
+      "options": [
+        "improvement",
+        "appointment",
+        "ingredient",
+        "agreement"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get something to eat",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go and have a meal or a snack, often with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c01_u004",
+      "answer": "get something to eat",
+      "options": [
+        "get something to eat",
+        "find something to wear",
+        "buy something to read",
+        "go somewhere to sleep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stay focused",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep your attention on one thing without getting distracted",
+  "exchanges": [
+    {
+      "uid": "s03_e19_c13_u009",
+      "answer": "stay focused",
+      "options": [
+        "stay focused",
+        "stay married",
+        "stay awake",
+        "stay calm"
+      ]
+    }
+  ]
 }
 ]

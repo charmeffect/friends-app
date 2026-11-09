@@ -499,5 +499,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "here we go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you are about to start doing something",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c04_u004",
+      "answer": "here we go",
+      "options": [
+        "here we go",
+        "you bet",
+        "my bad",
+        "good call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the thing is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the main point or a problem you want to explain",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c05_u030",
+      "answer": "the thing is",
+      "options": [
+        "the thing is",
+        "the last time",
+        "the other day",
+        "the whole time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take it outside",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go outdoors to settle an argument by fighting",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c05_u025",
+      "answer": "take this outside",
+      "options": [
+        "take this outside",
+        "take this upstairs",
+        "write this down",
+        "play this back"
+      ],
+      "responseUid": "s02_e21_c05_u027"
+    }
+  ]
+},
+
+{
+  "expression": "kick butt",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something very well or win impressively",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c12_u002",
+      "answer": "kicked butt",
+      "options": [
+        "kicked butt",
+        "fell short",
+        "broke even",
+        "lost out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here's the deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce an explanation of the situation",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c05_u031",
+      "answer": "here's the deal",
+      "options": [
+        "here's the deal",
+        "here's to you",
+        "that's the spirit",
+        "there's no way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "prove one's point",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show that what you said or believed is right",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c11_u005",
+      "answer": "proved our point",
+      "options": [
+        "proved our point",
+        "lost our touch",
+        "changed our minds",
+        "broke our word"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make oneself clear",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to say something so that it is fully understood, often as a warning",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c11_u010",
+      "answer": "make ourselves clear",
+      "options": [
+        "make ourselves clear",
+        "make ourselves comfortable",
+        "keep ourselves busy",
+        "help ourselves out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not know the first thing about",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to know nothing at all about a subject",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c03_u026",
+      "answer": "the first thing",
+      "options": [
+        "the first thing",
+        "the last minute",
+        "the right time",
+        "the long run"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as good as new",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in perfect condition again after being hurt or damaged",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c07_u028",
+      "answer": "as good as new",
+      "options": [
+        "as good as new",
+        "as old as dirt",
+        "as busy as ever",
+        "as cold as ice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here for you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "ready to support and help you whenever you need it",
+  "exchanges": [
+    {
+      "uid": "s02_e21_c04_u005",
+      "answer": "here for you",
+      "options": [
+        "here for you",
+        "done with you",
+        "out of here",
+        "over for now"
+      ]
+    }
+  ]
 }
 ]
