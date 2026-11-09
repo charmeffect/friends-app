@@ -518,5 +518,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "tag along",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to go somewhere with other people although they did not invite you",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c08_u024",
+      "answer": "tagged along",
+      "options": [
+        "tagged along",
+        "dozed off",
+        "calmed down",
+        "cooled off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look familiar",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to seem like someone or something you have seen before",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c03_u005",
+      "answer": "looks familiar",
+      "options": [
+        "looks familiar",
+        "looks dangerous",
+        "feels heavy",
+        "smells funny"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "appealing",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "attractive or interesting to someone",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c10_u011",
+      "answer": "appealing",
+      "options": [
+        "appealing",
+        "illegal",
+        "haunted",
+        "tasteless"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drag down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone worse off by involving them in your own bad habits or problems",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c12_u008",
+      "answer": "drag you down",
+      "options": [
+        "drag you down",
+        "cheer you up",
+        "wake you up",
+        "bring you back"
+      ],
+      "responseUid": "s05_e18_c12_u010"
+    }
+  ]
+},
+
+{
+  "expression": "way",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "much or far, used before a comparative to make it stronger",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c03_u007",
+      "answer": "way",
+      "options": [
+        "way",
+        "barely",
+        "hardly",
+        "rarely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "anyhoo",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "a playful way of saying 'anyway' to move on to the main point",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c01_u015",
+      "answer": "anyhoo",
+      "options": [
+        "anyhoo",
+        "yahoo",
+        "boohoo",
+        "woohoo"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go get 'em",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to encourage someone who is about to try to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c02_u009",
+      "answer": "Go get 'em",
+      "options": [
+        "Go get 'em",
+        "Go to sleep",
+        "Go back home",
+        "Get well soon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go up against",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to compete against someone",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c08_u016",
+      "answer": "going up against",
+      "options": [
+        "going up against",
+        "coming down with",
+        "looking up to",
+        "running out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "unexpected",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "surprising because you did not think it would happen",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c13_u017",
+      "answer": "unexpected",
+      "options": [
+        "unexpected",
+        "ordinary",
+        "typical",
+        "boring"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk business",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to discuss work matters seriously",
+  "exchanges": [
+    {
+      "uid": "s05_e18_c09_u003",
+      "answer": "talked business",
+      "options": [
+        "talked business",
+        "talked back",
+        "took naps",
+        "walked dogs"
+      ]
+    }
+  ]
 }
 ]

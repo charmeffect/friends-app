@@ -502,5 +502,206 @@
       "responseUid": "s05_e11_c10_u048"
     }
   ]
+},
+
+{
+  "expression": "would rather",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "would prefer to do or have something",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c01_u017",
+      "answer": "rather",
+      "options": [
+        "rather",
+        "ever",
+        "never",
+        "really"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take that bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to accept someone's offer of a bet because you are sure you will win",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c02_u012",
+      "answer": "take that bet",
+      "options": [
+        "take that bet",
+        "lose that bet",
+        "make that call",
+        "miss that chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take someone's side",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to support one person against another in an argument",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c06_u017",
+      "answer": "Take his side",
+      "options": [
+        "Take his side",
+        "Take his seat",
+        "Take his car",
+        "Take his coat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "try harder",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make more effort than you have been making",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c06_u013",
+      "answer": "try a little harder",
+      "options": [
+        "try a little harder",
+        "sleep a little longer",
+        "talk a little louder",
+        "eat a little less"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what difference does it make",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say impatiently that something is not important or does not matter",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c07_u022",
+      "answer": "difference",
+      "options": [
+        "difference",
+        "noise",
+        "mess",
+        "money"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "do you have a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask politely whether someone has time to talk",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c07_u024",
+      "answer": "have a minute",
+      "options": [
+        "have a minute",
+        "own a car",
+        "like a song",
+        "see a ghost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me know",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "tell me or inform me about something later",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c07_u026",
+      "answer": "let me know",
+      "options": [
+        "let me know",
+        "make me laugh",
+        "keep me company",
+        "leave me alone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "burn up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be or feel extremely hot",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c05_u002",
+      "answer": "burning up",
+      "options": [
+        "burning up",
+        "cooling down",
+        "drying out",
+        "fitting in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sneak over",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to go to someone's place quietly and secretly so that others do not notice",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c06_u019",
+      "answer": "sneak over",
+      "options": [
+        "sneak over",
+        "show off",
+        "give in",
+        "run out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go for a walk",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go out walking for pleasure or exercise",
+  "exchanges": [
+    {
+      "uid": "s05_e11_c10_u050",
+      "answer": "go for a walk",
+      "options": [
+        "go for a walk",
+        "get a haircut",
+        "make a speech",
+        "take a nap"
+      ]
+    }
+  ]
 }
 ]

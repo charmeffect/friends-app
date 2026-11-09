@@ -492,5 +492,208 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "the point is",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the most important part of what you are trying to say",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u024",
+      "answer": "The point is",
+      "options": [
+        "The point is",
+        "The menu is",
+        "The rumor is",
+        "The weather is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how do you figure",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask someone why they think something is true, often because you doubt it",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c05_u010",
+      "answer": "figure",
+      "options": [
+        "figure",
+        "spell",
+        "translate",
+        "pronounce"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of the picture",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "no longer involved in a situation or in someone's life",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c10_u010",
+      "answer": "out of the picture",
+      "options": [
+        "out of the picture",
+        "out of the question",
+        "out of the blue",
+        "out of the woods"
+      ],
+      "responseUid": "s05_e20_c10_u012"
+    }
+  ]
+},
+
+{
+  "expression": "when it comes down to it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "when you consider what really matters in a situation",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c10_u015",
+      "answer": "comes down to",
+      "options": [
+        "comes down to",
+        "falls back on",
+        "goes back to",
+        "runs out on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "near-death experience",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a situation in which someone comes very close to dying",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c11_u007",
+      "answer": "near death experience",
+      "options": [
+        "near death experience",
+        "long distance relationship",
+        "full body workout",
+        "last minute decision"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ramble",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to talk for a long time in a boring or unfocused way",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c09_u018",
+      "answer": "rambling",
+      "options": [
+        "rambling",
+        "gambling",
+        "stumbling",
+        "bargaining"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "newfound",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "recently discovered or gained",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c09_u019",
+      "answer": "newfound",
+      "options": [
+        "newfound",
+        "outdated",
+        "overdue",
+        "secondhand"
+      ],
+      "cueUid": "s05_e20_c09_u017",
+      "responseUid": "s05_e20_c09_u020"
+    }
+  ]
+},
+
+{
+  "expression": "under fire",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "while being shot at",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c12_u004",
+      "answer": "under fire",
+      "options": [
+        "under fire",
+        "under arrest",
+        "under oath",
+        "under construction"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in fact",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to add something that supports or goes further than what you have just said",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c10_u026",
+      "answer": "In fact",
+      "options": [
+        "In fact",
+        "In vain",
+        "In charge",
+        "In debt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fix someone a drink",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make or prepare a drink for someone",
+  "exchanges": [
+    {
+      "uid": "s05_e20_c02_u014",
+      "answer": "fix",
+      "options": [
+        "fix",
+        "spill",
+        "waste",
+        "hide"
+      ]
+    }
+  ]
 }
 ]

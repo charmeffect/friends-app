@@ -529,5 +529,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that's the thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to point out the main problem or the most important fact in a situation",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c04_u011",
+      "answer": "That's the thing",
+      "options": [
+        "That's the thing",
+        "That's my bad",
+        "That's the spirit",
+        "That's no fair"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm with you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "I understand and agree with what you are saying",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c04_u010",
+      "answer": "I'm with you",
+      "options": [
+        "I'm with you",
+        "I'm over you",
+        "I'm onto you",
+        "I'm done with you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "setback",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a problem that delays or reverses progress",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c03_u046",
+      "answer": "setback",
+      "options": [
+        "setback",
+        "shortcut",
+        "breakthrough",
+        "comeback"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "job hunt",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look for a job",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c06_u012",
+      "answer": "job hunt",
+      "options": [
+        "job hunt",
+        "window-shop",
+        "babysit",
+        "sightsee"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have someone's blessing",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have someone's approval and permission to do something",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c08_u017",
+      "answer": "have my blessing",
+      "options": [
+        "have my blessing",
+        "have my number",
+        "have my address",
+        "have my vote"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lead",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a piece of information that may help you find something, such as a job",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c06_u010",
+      "answer": "leads",
+      "options": [
+        "leads",
+        "fees",
+        "taxes",
+        "debts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "qualify as",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be good enough or of the right kind to be called something",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c03_u016",
+      "answer": "qualifies as",
+      "options": [
+        "qualifies as",
+        "consists of",
+        "differs from",
+        "depends on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "impossible to resist",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "so attractive or tempting that you cannot say no to it",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c04_u005",
+      "answer": "impossible to resist",
+      "options": [
+        "impossible to resist",
+        "difficult to explain",
+        "easy to forget",
+        "hard to notice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sorry I'm late",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to apologize when you arrive after the expected time",
+  "exchanges": [
+    {
+      "uid": "s06_e13_c06_u009",
+      "answer": "Sorry I'm late",
+      "options": [
+        "Sorry I'm late",
+        "Sorry I'm full",
+        "Sorry I'm lost",
+        "Sorry I'm done"
+      ]
+    }
+  ]
 }
 ]

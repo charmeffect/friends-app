@@ -478,5 +478,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "smarty-pants",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who acts as if they are clever or always has a smart remark, often in an annoying way",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c02_u004",
+      "answer": "Smartie Pants",
+      "options": [
+        "Smartie Pants",
+        "Party Animal",
+        "Sleepy Head",
+        "Lazy Bones"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come and go",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to appear for a short time and then disappear again, again and again",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c03_u014",
+      "answer": "come and go",
+      "options": [
+        "come and go",
+        "rise and fall",
+        "wait and see",
+        "live and learn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "confession",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a statement in which you admit something you did that you are embarrassed or ashamed about",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c07_u013",
+      "answer": "confession",
+      "options": [
+        "confession",
+        "reservation",
+        "decoration",
+        "description"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the love of my life",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the person you love more than anyone else you have ever loved",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c07_u033",
+      "answer": "love of my life",
+      "options": [
+        "love of my life",
+        "life of the party",
+        "talk of the town",
+        "end of my rope"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rush through",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something very quickly so that it is finished sooner",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c07_u035",
+      "answer": "rush through",
+      "options": [
+        "rush through",
+        "think through",
+        "look through",
+        "break through"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take forever",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to take a very long time, so long that it is annoying",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c10_u023",
+      "answer": "taking forever",
+      "options": [
+        "taking forever",
+        "taking turns",
+        "taking place",
+        "taking over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's the rush",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask why someone is doing something so quickly",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c10_u024",
+      "answer": "What's the rush",
+      "options": [
+        "What's the rush",
+        "What's the catch",
+        "What's the score",
+        "What's the joke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I have to admit",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something you are a little reluctant or surprised to say is true",
+  "exchanges": [
+    {
+      "uid": "s07_e11_c14_u007",
+      "answer": "got to admit",
+      "options": [
+        "got to admit",
+        "got to leave",
+        "got to wait",
+        "got to sleep"
+      ]
+    }
+  ]
 }
 ]

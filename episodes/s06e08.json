@@ -450,5 +450,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "feel at home",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel comfortable and relaxed in a place, as if it were your own home",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c04_u005",
+      "answer": "feel at home",
+      "options": [
+        "feel at home",
+        "feel at fault",
+        "feel at risk",
+        "feel on edge"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hand in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give a piece of work or a document to the person who is responsible for collecting it",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c05_u004",
+      "answer": "handed in",
+      "options": [
+        "handed in",
+        "handed down",
+        "passed up",
+        "checked in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "next thing I know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something happened suddenly and surprisingly after something else",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c03_u010",
+      "answer": "next thing I know",
+      "options": [
+        "next thing I know",
+        "last thing I need",
+        "only thing I want",
+        "first thing I saw"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "excuse us",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way of asking someone to leave you alone with another person for a moment",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c13_u004",
+      "answer": "excuse us",
+      "options": [
+        "excuse us",
+        "forgive us",
+        "follow us",
+        "remind us"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay in a place without doing much, usually waiting for something",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c02_u027",
+      "answer": "hanging around",
+      "options": [
+        "hanging around",
+        "hanging up",
+        "hanging over",
+        "hanging off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've been meaning to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say you have intended to do something for some time but have not done it yet",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c16_u003",
+      "answer": "been meaning",
+      "options": [
+        "been meaning",
+        "been refusing",
+        "been pretending",
+        "been dreading"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how about",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to make a suggestion",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c15_u013",
+      "answer": "How about",
+      "options": [
+        "How about",
+        "How come",
+        "How long",
+        "How much"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "where were we",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to return to what you were doing or talking about before an interruption",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c15_u015",
+      "answer": "where were we",
+      "options": [
+        "where were we",
+        "what was that",
+        "who are they",
+        "how were you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "integral",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "necessary and important as a part of a whole",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c16_u006",
+      "answer": "integral",
+      "options": [
+        "integral",
+        "optional",
+        "obsolete",
+        "trivial"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the brains behind",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the person who plans and controls something, often secretly",
+  "exchanges": [
+    {
+      "uid": "s06_e08_c14_u005",
+      "answer": "brains",
+      "options": [
+        "brains",
+        "nerves",
+        "bones",
+        "lungs"
+      ]
+    }
+  ]
 }
 ]

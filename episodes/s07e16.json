@@ -507,5 +507,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "who's to say",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "nobody can know for certain",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c09_u011",
+      "answer": "who's to say",
+      "options": [
+        "who's to say",
+        "who's to blame",
+        "who's to come",
+        "who's to pay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "runner-up",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who finishes in second place in a competition",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c09_u007",
+      "answer": "runner up",
+      "options": [
+        "runner up",
+        "show-off",
+        "pushover",
+        "dropout"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be on to something",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have found an idea or method that seems likely to be right or successful",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c08_u089",
+      "answer": "on to something",
+      "options": [
+        "on to something",
+        "out of something",
+        "sick of something",
+        "in for something"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in the stars",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "decided by fate and certain to happen",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c08_u091",
+      "answer": "in the stars",
+      "options": [
+        "in the stars",
+        "in the dark",
+        "in the way",
+        "in the red"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm not kidding",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to stress that you are serious and really mean what you say",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c12_u017",
+      "answer": "not kidding",
+      "options": [
+        "not kidding",
+        "not hungry",
+        "not lost",
+        "not ticklish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in big trouble",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "in a situation where you are going to be punished or blamed",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c12_u014",
+      "answer": "in big trouble",
+      "options": [
+        "in big trouble",
+        "in good hands",
+        "in high spirits",
+        "in full swing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "perfect for each other",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "so well suited as a couple that the relationship seems ideal",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c11_u008",
+      "answer": "perfect for each other",
+      "options": [
+        "perfect for each other",
+        "mad at each other",
+        "tired of each other",
+        "jealous of each other"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "first draft",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the first version of a piece of writing, which will be changed later",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c06_u025",
+      "answer": "first draft",
+      "options": [
+        "first draft",
+        "final copy",
+        "last chapter",
+        "front page"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "expecting company",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "waiting for a visitor or guest to arrive",
+  "exchanges": [
+    {
+      "uid": "s07_e16_c08_u036",
+      "answer": "expecting company",
+      "options": [
+        "expecting company",
+        "expecting rain",
+        "taking orders",
+        "doing laundry"
+      ]
+    }
+  ]
 }
 ]

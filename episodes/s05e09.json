@@ -495,5 +495,195 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "one thing led to another",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when a series of events happened naturally, often ending in something romantic",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c01_u023",
+      "answer": "led to another",
+      "options": [
+        "led to another",
+        "added to another",
+        "came from another",
+        "stood by another"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be tired of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be annoyed by something because it has happened too often or for too long",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c01_u021",
+      "answer": "tired of",
+      "options": [
+        "tired of",
+        "proud of",
+        "famous for",
+        "good at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds like fun",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that a plan or activity seems enjoyable",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c02_u010",
+      "answer": "sounds like fun",
+      "options": [
+        "sounds like fun",
+        "looks like rain",
+        "feels like home",
+        "smells like smoke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take place",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to happen in a particular place or at a particular time",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c03_u007",
+      "answer": "takes place",
+      "options": [
+        "takes place",
+        "makes room",
+        "takes turns",
+        "gives way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sorry I'm late",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to apologize when you arrive after the expected time",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c03_u002",
+      "answer": "Sorry I'm late",
+      "options": [
+        "Sorry I'm late",
+        "Glad I'm early",
+        "Sorry I'm early",
+        "Good I'm here"
+      ]
+    },
+    {
+      "uid": "s05_e09_c08_u014",
+      "answer": "Sorry I'm late",
+      "options": [
+        "Sorry I'm late",
+        "Glad I'm early",
+        "Sorry I'm early",
+        "Good I'm here"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "goody-goody",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who always follows the rules to please people in authority, in an annoying way",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c08_u010",
+      "answer": "goodie-goodie",
+      "options": [
+        "goodie-goodie",
+        "couch potato",
+        "party animal",
+        "night owl"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take something seriously",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to treat something as important and give it proper effort",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c10_u005",
+      "answer": "taking the class seriously",
+      "options": [
+        "taking the class seriously",
+        "taking the class lightly",
+        "leaving the class early",
+        "paying the class fee"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take time off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay away from work for a period",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c09_u017",
+      "answer": "take time off",
+      "options": [
+        "take time off",
+        "take care of",
+        "make time for",
+        "put time into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be okay with",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to accept something without being upset by it",
+  "exchanges": [
+    {
+      "uid": "s05_e09_c09_u018",
+      "answer": "okay with",
+      "options": [
+        "okay with",
+        "afraid of",
+        "famous for",
+        "good at"
+      ]
+    }
+  ]
 }
 ]

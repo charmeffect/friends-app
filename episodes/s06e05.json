@@ -509,5 +509,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "there's an idea",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you like a suggestion that has just been made",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c04_u006",
+      "answer": "there's an idea",
+      "options": [
+        "there's an idea",
+        "there's a problem",
+        "that's a shame",
+        "that's a lie"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let's just say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to hint at something without saying it directly",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c11_u005",
+      "answer": "let's just say",
+      "options": [
+        "let's just say",
+        "let's never ask",
+        "let's just leave",
+        "let's all forget"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by myself",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "alone and without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c02_u016",
+      "answer": "by myself",
+      "options": [
+        "by myself",
+        "to myself",
+        "of myself",
+        "from myself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "thanks to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "because of someone or something; used to say who made something possible",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c04_u022",
+      "answer": "Thanks to",
+      "options": [
+        "Thanks to",
+        "Except for",
+        "Instead of",
+        "Apart from"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no problem",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say you were happy to help and no thanks are needed",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c12_u031",
+      "answer": "no problem",
+      "options": [
+        "no problem",
+        "no idea",
+        "no wonder",
+        "no way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how you doin'",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual spoken way of asking 'how are you?', often used as a flirtatious greeting",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c13_u004",
+      "answer": "How you doin'",
+      "options": [
+        "How you doin'",
+        "Where you goin'",
+        "What you sayin'",
+        "Who you callin'"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "been there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you have had the same unpleasant experience yourself",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c09_u009",
+      "answer": "been there",
+      "options": [
+        "been there",
+        "heard that",
+        "said that",
+        "read that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "excuse me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said in surprise or disbelief, asking someone to explain what they just said",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c12_u019",
+      "answer": "Excuse me",
+      "options": [
+        "Excuse me",
+        "Thank you",
+        "Bless you",
+        "Good luck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "inexcusable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "too bad to be forgiven or justified",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c01_u012",
+      "answer": "inexcusable",
+      "options": [
+        "inexcusable",
+        "inevitable",
+        "inexpensive",
+        "invisible"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "confession",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a statement in which you admit something you did that you are embarrassed or ashamed about",
+  "exchanges": [
+    {
+      "uid": "s06_e05_c12_u016",
+      "answer": "confession",
+      "options": [
+        "confession",
+        "collection",
+        "profession",
+        "condition"
+      ]
+    }
+  ]
 }
 ]

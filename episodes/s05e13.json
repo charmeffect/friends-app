@@ -504,5 +504,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "time's up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to announce that the time allowed for something has finished",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c01_u004",
+      "answer": "time's up",
+      "options": [
+        "time's up",
+        "time's money",
+        "rain's coming",
+        "bed's made"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sore",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "painful, especially when touched or moved",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c01_u014",
+      "answer": "sore",
+      "options": [
+        "sore",
+        "strong",
+        "young",
+        "clean"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deserve",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have earned something because of what you have done",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c01_u013",
+      "answer": "deserve",
+      "options": [
+        "deserve",
+        "describe",
+        "repeat",
+        "remember"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bend down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to move the top part of your body forward and down",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c02_u037",
+      "answer": "bent down",
+      "options": [
+        "bent down",
+        "ran off",
+        "looked away",
+        "gave in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trust me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you are sure what you are telling someone is true",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c03_u008",
+      "answer": "Trust me",
+      "options": [
+        "trust me",
+        "excuse me",
+        "forgive me",
+        "remind me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "memorial service",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a ceremony held to remember a person who has died",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c04_u009",
+      "answer": "memorial service",
+      "options": [
+        "memorial service",
+        "birthday party",
+        "yard sale",
+        "wedding shower"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be tight with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "to be close friends with someone",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c06_u019",
+      "answer": "tight",
+      "options": [
+        "tight",
+        "cheap",
+        "loud",
+        "late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hurt someone's feelings",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to upset someone by saying or doing something unkind",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c08_u025",
+      "answer": "hurt your feelings",
+      "options": [
+        "hurt your feelings",
+        "waste your time",
+        "ruin your shirt",
+        "spoil your dinner"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the latest thing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the newest fashion or product that many people want",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c09_u011",
+      "answer": "the latest thing",
+      "options": [
+        "the latest thing",
+        "the oldest trick",
+        "the wrong size",
+        "the wrong idea"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm begging you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to ask for something very strongly and urgently",
+  "exchanges": [
+    {
+      "uid": "s05_e13_c08_u017",
+      "answer": "I'm begging you",
+      "options": [
+        "I'm begging you",
+        "I'm thanking you",
+        "I'm paying you",
+        "I'm hiring you"
+      ]
+    }
+  ]
 }
 ]

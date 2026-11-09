@@ -498,5 +498,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "cover",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be enough money to pay someone's costs for a period of time",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c02_u005",
+      "answer": "cover",
+      "options": [
+        "cover",
+        "borrow",
+        "charge",
+        "owe"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk to you later",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of saying goodbye when you expect to speak again soon",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c06_u007",
+      "answer": "talk to you later",
+      "options": [
+        "talk to you later",
+        "nice to meet you",
+        "sorry about that",
+        "good for you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take the first step",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be the first to act, especially to end a disagreement",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c09_u003",
+      "answer": "take the first step",
+      "options": [
+        "take the first step",
+        "miss the last train",
+        "pay the full price",
+        "win the first round"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what else you got",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said in an argument to challenge someone to give another reason or complaint",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c09_u014",
+      "answer": "What else you got",
+      "options": [
+        "What else you got",
+        "Where else you been",
+        "Who else you know",
+        "How else you feel"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't mean to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something that might sound rude, to show it is not your intention to offend",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c11_u004",
+      "answer": "I don't mean to",
+      "options": [
+        "I don't mean to",
+        "I don't get to",
+        "I don't have to",
+        "I don't use to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "start out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to begin, especially in a particular way or with a particular thing",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c12_u006",
+      "answer": "started out",
+      "options": [
+        "started out",
+        "made up",
+        "gave up",
+        "wore out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "past someone's bedtime",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "later than the time when someone, usually a child, normally goes to bed",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c02_u057",
+      "answer": "past his bedtime",
+      "options": [
+        "past his bedtime",
+        "over his limit",
+        "under his breath",
+        "beyond his reach"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "charity",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "money or help given to someone who needs it, which a proud person may refuse to accept",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c01_u011",
+      "answer": "charity",
+      "responseUid": "s06_e06_c01_u013",
+      "options": [
+        "charity",
+        "medicine",
+        "elevators",
+        "attendance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "roomie",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a friendly word for a roommate",
+  "exchanges": [
+    {
+      "uid": "s06_e06_c13_u021",
+      "answer": "roomie",
+      "options": [
+        "roomie",
+        "goalie",
+        "foodie",
+        "hippie"
+      ]
+    }
+  ]
 }
 ]

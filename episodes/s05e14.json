@@ -522,5 +522,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "from the looks of it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "judging from what you can see",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c01_u004",
+      "answer": "the looks of it",
+      "options": [
+        "the looks of it",
+        "the bottom of it",
+        "the rest of it",
+        "the size of it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be able to find a more suitable or attractive partner",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c03_u004",
+      "answer": "do better",
+      "options": [
+        "do better",
+        "sit still",
+        "go faster",
+        "eat less"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "compare to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be as good as something else",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c07_u005",
+      "answer": "compares to",
+      "options": [
+        "compares to",
+        "belongs to",
+        "listens to",
+        "reacts to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally stop resisting and agree to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u010",
+      "answer": "give in",
+      "options": [
+        "give in",
+        "catch up",
+        "move in",
+        "check out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bluff",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to pretend you have something or will do something in order to deceive someone",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u045",
+      "answer": "bluffing",
+      "options": [
+        "bluffing",
+        "sneezing",
+        "shopping",
+        "sleeping"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "clean up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make a place tidy by removing dirt and mess",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u058",
+      "answer": "clean up",
+      "options": [
+        "clean up",
+        "show up",
+        "give up",
+        "grow up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "would appreciate it if",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite way of asking someone to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c10_u084",
+      "answer": "appreciate it",
+      "options": [
+        "appreciate it",
+        "regret it",
+        "forget it",
+        "doubt it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be all over someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to give someone a lot of attention, often too much",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c04_u015",
+      "answer": "all over me",
+      "options": [
+        "all over me",
+        "sick of me",
+        "scared of me",
+        "mad at me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "intrigued",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "interested and curious because something seems unusual or fascinating",
+  "exchanges": [
+    {
+      "uid": "s05_e14_c07_u025",
+      "answer": "intrigued",
+      "options": [
+        "intrigued",
+        "exhausted",
+        "allergic",
+        "employed"
+      ]
+    }
+  ]
 }
 ]

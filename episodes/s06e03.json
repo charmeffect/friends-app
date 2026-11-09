@@ -465,5 +465,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "hold one's breath",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop breathing for a while on purpose",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c01_u003",
+      "answer": "holding his breath",
+      "options": [
+        "holding his breath",
+        "losing his temper",
+        "keeping his word",
+        "clearing his throat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "of course not",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say no strongly, or to show that you expected the answer to be no",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c02_u008",
+      "answer": "Of course not",
+      "options": [
+        "Of course not",
+        "Never mind",
+        "Same here",
+        "Excuse me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nightmare",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a very unpleasant or difficult experience or situation",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c05_u008",
+      "answer": "nightmare",
+      "options": [
+        "nightmare",
+        "bargain",
+        "blessing",
+        "success"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make room for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to clear space so that something new can fit",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c07_u017",
+      "answer": "make room for",
+      "options": [
+        "make room for",
+        "make fun of",
+        "make use of",
+        "make sense of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hazard",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something that is dangerous and could cause harm",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c08_u008",
+      "answer": "hazard",
+      "options": [
+        "hazard",
+        "bargain",
+        "antique",
+        "luxury"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walking distance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a distance short enough that you can easily walk it",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c12_u020",
+      "answer": "walking distance",
+      "options": [
+        "walking distance",
+        "driving range",
+        "bus route",
+        "waiting list"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "change one's mind",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make a different decision from the one you made before",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c13_u013",
+      "answer": "change my mind",
+      "options": [
+        "change my mind",
+        "pay my rent",
+        "miss my train",
+        "find my keys"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work things out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to solve the problems in a relationship by talking about them",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c13_u008",
+      "answer": "work things out",
+      "options": [
+        "work things out",
+        "mess things up",
+        "throw things away",
+        "put things off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here she comes",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to point out that someone is arriving or coming towards you",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c13_u024",
+      "answer": "Here she comes",
+      "options": [
+        "Here she comes",
+        "There she goes",
+        "Here she sits",
+        "There she lies"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so close",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when someone has almost succeeded or almost given the right answer",
+  "exchanges": [
+    {
+      "uid": "s06_e03_c14_u014",
+      "answer": "so close",
+      "options": [
+        "so close",
+        "so lucky",
+        "so perfect",
+        "so brave"
+      ]
+    }
+  ]
 }
 ]

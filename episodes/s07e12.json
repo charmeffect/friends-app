@@ -481,5 +481,208 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "make you wonder",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make you think deeply or start asking yourself questions about something",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c01_u014",
+      "answer": "makes you wonder",
+      "responseUid": null,
+      "options": [
+        "makes you wonder",
+        "makes you laugh",
+        "makes you sick",
+        "makes you cry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't look at me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are not responsible for something or do not know about it",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c02_u023",
+      "answer": "Don't look at me",
+      "options": [
+        "Don't look at me",
+        "Don't wait for me",
+        "Don't count on me",
+        "Don't lie to me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm serious",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to insist that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c07_u010",
+      "answer": "I'm serious",
+      "options": [
+        "I'm serious",
+        "I'm starving",
+        "I'm freezing",
+        "I'm sleepy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm not gonna lie",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something honest that the listener may not want to hear",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c08_u007",
+      "answer": "not gonna lie",
+      "options": [
+        "not gonna lie",
+        "not gonna stay",
+        "not gonna wait",
+        "not gonna leave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I tell you what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce a suggestion or an offer",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c08_u008",
+      "answer": "tell you what",
+      "options": [
+        "tell you what",
+        "tell you twice",
+        "ask you this",
+        "owe you one"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I say we",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to suggest what you think the group should do",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c14_u003",
+      "answer": "I say we",
+      "options": [
+        "I say we",
+        "I bet we",
+        "I wish we",
+        "I doubt we"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "part ways",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to separate from someone and go in different directions or stop being together",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c15_u002",
+      "answer": "part ways",
+      "cueUid": "s07_e12_c09_u002",
+      "responseUid": null,
+      "options": [
+        "part ways",
+        "make peace",
+        "hold hands",
+        "switch sides"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "last time I checked",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used, often sarcastically, to say that something is true as far as you know",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c18_u010",
+      "answer": "checked",
+      "options": [
+        "checked",
+        "cooked",
+        "danced",
+        "sneezed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start ringing or sounding, as an alarm does",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c18_u012",
+      "answer": "going off",
+      "options": [
+        "going off",
+        "going out",
+        "going under",
+        "going around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're not gonna believe this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before telling someone something surprising",
+  "exchanges": [
+    {
+      "uid": "s07_e12_c20_u005",
+      "answer": "not gonna believe",
+      "options": [
+        "not gonna believe",
+        "not gonna finish",
+        "not gonna pay",
+        "not gonna eat"
+      ]
+    }
+  ]
 }
 ]

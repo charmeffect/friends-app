@@ -469,5 +469,196 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "since forever",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "for a very long time, for as long as you can remember",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c01_u006",
+      "answer": "since forever",
+      "options": [
+        "since forever",
+        "for forever",
+        "until forever",
+        "before forever"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "smooth",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "confident and skilful in dealing with people, without seeming awkward",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c02_u014",
+      "answer": "Smooth",
+      "options": [
+        "Smooth",
+        "Hungry",
+        "Sleepy",
+        "Crispy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "this is the one",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say you have found exactly the thing or person you were looking for",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c03_u006",
+      "answer": "this is the one",
+      "options": [
+        "this is the one",
+        "this is the end",
+        "this is the bill",
+        "this is the rule"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "thanks for the tip",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to thank someone for a useful piece of advice or information",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c03_u014",
+      "answer": "thanks for the tip",
+      "options": [
+        "thanks for the tip",
+        "thanks for the ride",
+        "thanks for the drink",
+        "thanks for the flowers"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "half off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at half the usual price",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c03_u033",
+      "answer": "half off",
+      "options": [
+        "half off",
+        "half full",
+        "half done",
+        "half asleep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "listen up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "used to tell a group of people to pay attention to what you are about to say",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c05_u004",
+      "answer": "listen up",
+      "options": [
+        "listen up",
+        "cheer up",
+        "hang up",
+        "dress up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "laugh all you want",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show you do not care if others make fun of you, because you think you are right",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c06_u003",
+      "answer": "Laugh all you want",
+      "options": [
+        "Laugh all you want",
+        "Eat all you want",
+        "Take all you want",
+        "Ask all you want"
+      ]
+    },
+    {
+      "uid": "s07_e17_c13_u007",
+      "answer": "laugh all you want",
+      "options": [
+        "laugh all you want",
+        "eat all you want",
+        "take all you want",
+        "ask all you want"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "why am I not surprised",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically when something disappointing is exactly what you expected",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c09_u019",
+      "answer": "not surprised",
+      "options": [
+        "not surprised",
+        "not invited",
+        "not dressed",
+        "not hungry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here and there",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in a few different places",
+  "exchanges": [
+    {
+      "uid": "s07_e17_c09_u025",
+      "answer": "here and there",
+      "options": [
+        "here and there",
+        "now and then",
+        "back and forth",
+        "up and down"
+      ],
+      "responseUid": null
+    }
+  ]
 }
 ]

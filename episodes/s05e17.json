@@ -475,5 +475,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "nail",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something perfectly or succeed at it completely",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c01_u011",
+      "answer": "nail",
+      "options": [
+        "nail",
+        "skip",
+        "miss",
+        "cancel"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wrong impression",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a false idea about what someone means or intends",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c08_u013",
+      "answer": "wrong impression",
+      "options": [
+        "wrong impression",
+        "warm welcome",
+        "lucky break",
+        "fresh start"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chip in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to each give some money so that a group can pay for something together",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c11_u008",
+      "answer": "chip in",
+      "options": [
+        "chip in",
+        "break in",
+        "cave in",
+        "log in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fair enough",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to accept that what someone has said is reasonable",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c14_u005",
+      "answer": "Fair enough",
+      "options": [
+        "Fair enough",
+        "Bless you",
+        "Watch out",
+        "Welcome back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let's just say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to hint at something without saying it directly",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c01_u022",
+      "answer": "Let's just say",
+      "options": [
+        "Let's just say",
+        "Let's try again",
+        "Let's get going",
+        "Let's eat first"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "inappropriate",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not suitable or proper for the situation",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c14_u012",
+      "answer": "inappropriate",
+      "options": [
+        "inappropriate",
+        "waterproof",
+        "affordable",
+        "delicious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you better believe",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say strongly that something is definitely true",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c15_u003",
+      "answer": "You better believe",
+      "options": [
+        "You better believe",
+        "You never asked",
+        "You must forget",
+        "You can't imagine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "detour",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a longer or different route taken instead of the usual direct way",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c15_u008",
+      "answer": "detour",
+      "options": [
+        "detour",
+        "pledge",
+        "census",
+        "oath"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "obsessed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "thinking about something all the time in a way that is not reasonable",
+  "exchanges": [
+    {
+      "uid": "s05_e17_c15_u021",
+      "answer": "obsessed",
+      "options": [
+        "obsessed",
+        "relaxed",
+        "polite",
+        "sleepy"
+      ]
+    }
+  ]
 }
 ]

@@ -509,5 +509,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "how rude",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when someone has just behaved impolitely toward you",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c01_u018",
+      "answer": "How rude",
+      "options": [
+        "How rude",
+        "How lucky",
+        "How brave",
+        "How tall"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stand firm",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to refuse to change your decision or position",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c04_u021",
+      "answer": "stand firm",
+      "options": [
+        "stand firm",
+        "stand back",
+        "stand clear",
+        "stand aside"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "my fault",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "said to admit that you are the one responsible for a mistake",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c06_u004",
+      "answer": "my fault",
+      "options": [
+        "my fault",
+        "my treat",
+        "my call",
+        "my type"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hug it out",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to end a disagreement or an emotional moment by hugging each other",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c08_u013",
+      "answer": "hug it out",
+      "options": [
+        "hug it out",
+        "shut it down",
+        "wash it off",
+        "cash it in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dying wish",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the last thing a person asks for before they die",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c14_u022",
+      "answer": "dying wish",
+      "options": [
+        "dying wish",
+        "last straw",
+        "second nature",
+        "sore spot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's enough",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stop saying or doing something",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c14_u023",
+      "answer": "that's enough",
+      "options": [
+        "that's enough",
+        "that's fascinating",
+        "that's delicious",
+        "that's romantic"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "crybaby",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who cries or complains too easily",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c15_u015",
+      "answer": "cry baby",
+      "options": [
+        "cry baby",
+        "party animal",
+        "night owl",
+        "couch potato"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get down on one knee",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to kneel on one knee, especially in order to ask someone to marry you",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c04_u005",
+      "answer": "on one knee",
+      "options": [
+        "on one knee",
+        "on one foot",
+        "on one hand",
+        "on one leg"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from here on out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "from this point onward",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c04_u007",
+      "answer": "from here on out",
+      "options": [
+        "from here on out",
+        "from head to toe",
+        "from the get-go",
+        "from scratch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "surefire",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "certain to succeed or work",
+  "exchanges": [
+    {
+      "uid": "s06_e23_c06_u005",
+      "answer": "surefire",
+      "options": [
+        "surefire",
+        "halfway",
+        "secondhand",
+        "part-time"
+      ]
+    }
+  ]
 }
 ]

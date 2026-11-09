@@ -510,5 +510,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "have a chance with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a real possibility of starting a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c01_u004",
+      "answer": "a chance with",
+      "options": [
+        "a chance with",
+        "a word with",
+        "a fight with",
+        "a drink with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we've been through this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a subject has already been discussed and you do not want to discuss it again",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c01_u005",
+      "answer": "been through this",
+      "options": [
+        "been through this",
+        "been against this",
+        "been without this",
+        "been behind this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to get rid of something because you no longer want it",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c02_u014",
+      "answer": "throw the rest away",
+      "options": [
+        "throw the rest away",
+        "put the rest off",
+        "bring the rest up",
+        "take the rest in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I insist",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to firmly refuse someone's polite objection and do or offer something anyway",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c03_u012",
+      "answer": "I insist",
+      "options": [
+        "I insist",
+        "I resign",
+        "I surrender",
+        "I apologize"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "flea market",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an outdoor market where people sell old and second-hand things cheaply",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c04_u006",
+      "answer": "flea market",
+      "options": [
+        "flea market",
+        "fire station",
+        "bus stop",
+        "car wash"
+      ],
+      "cueUid": "s06_e11_c04_u004"
+    }
+  ]
+},
+
+{
+  "expression": "bucks",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "dollars",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c10_u018",
+      "answer": "bucks",
+      "options": [
+        "bucks",
+        "miles",
+        "hours",
+        "points"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "any second",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very soon; at any moment now",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c05_u008",
+      "answer": "any second",
+      "options": [
+        "any second",
+        "last second",
+        "one second",
+        "each second"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you'd better",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to advise or warn someone that they should do something",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c12_u021",
+      "answer": "You'd better",
+      "options": [
+        "You'd better",
+        "You'd rather",
+        "You used to",
+        "You ought"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "understandable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "reasonable and easy to accept or forgive because of the situation",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c12_u004",
+      "answer": "understandable",
+      "options": [
+        "understandable",
+        "unforgivable",
+        "unbelievable",
+        "unacceptable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lose oneself in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become so involved in something that you forget everything else",
+  "exchanges": [
+    {
+      "uid": "s06_e11_c12_u016",
+      "answer": "lost myself",
+      "options": [
+        "lost myself",
+        "blamed myself",
+        "kept myself",
+        "hurt myself"
+      ]
+    }
+  ]
 }
 ]

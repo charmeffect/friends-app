@@ -483,5 +483,197 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "the big night",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an important evening on which a special, long-planned event is going to happen",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c01_u005",
+      "answer": "the big night",
+      "responseUid": "s06_e24_c01_u007",
+      "options": [
+        "the big night",
+        "the big picture",
+        "the hard way",
+        "the last minute"
+      ]
+    },
+    {
+      "uid": "s06_e24_c03_u003",
+      "answer": "the big night",
+      "options": [
+        "the big night",
+        "the big picture",
+        "the hard way",
+        "the last minute"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for a good cause",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in order to help a charity or another purpose that is worth supporting",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c11_u030",
+      "answer": "for a good cause",
+      "options": [
+        "for a good cause",
+        "on a good day",
+        "by a good margin",
+        "in a good mood"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good to know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you have noted some information, often dryly when the information is unwelcome",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c14_u014",
+      "answer": "good to know",
+      "cueUid": "s06_e24_c14_u011",
+      "options": [
+        "good to know",
+        "nice to meet",
+        "safe to eat",
+        "fun to watch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nothing better to do",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used, often sarcastically, to say that you are busy and something is a waste of your time",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c15_u009",
+      "answer": "nothing better to do",
+      "options": [
+        "nothing better to do",
+        "nothing left to lose",
+        "no one to blame",
+        "nothing to wear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whatever it takes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "anything that is necessary to achieve a goal",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c11_u035",
+      "answer": "whatever it takes",
+      "options": [
+        "whatever it takes",
+        "whatever it is",
+        "whoever it was",
+        "whenever it rains"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so close",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when someone has almost succeeded or almost given the right answer",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c06_u003",
+      "answer": "So close",
+      "options": [
+        "So close",
+        "So far",
+        "So sweet",
+        "So soon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "your lucky day",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a day when something good happens to you by chance (this is your lucky day)",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c11_u015",
+      "answer": "lucky day",
+      "options": [
+        "lucky day",
+        "rainy day",
+        "sick day",
+        "school day"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good one",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said, often sarcastically, in reply to something that sounds like a joke",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c08_u021",
+      "answer": "good one",
+      "options": [
+        "good one",
+        "good luck",
+        "good night",
+        "good morning"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "other than that",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "apart from the thing just mentioned",
+  "exchanges": [
+    {
+      "uid": "s06_e24_c07_u007",
+      "answer": "other than that",
+      "options": [
+        "other than that",
+        "rather than that",
+        "less than that",
+        "later than that"
+      ]
+    }
+  ]
 }
 ]

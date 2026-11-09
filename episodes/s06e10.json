@@ -499,5 +499,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "feel the same way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the same opinion or feelings as someone else",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u010",
+      "answer": "feel the same way",
+      "options": [
+        "feel the same way",
+        "look the same way",
+        "go the same way",
+        "sound the same way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what can I say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when you cannot really explain or excuse something, or have nothing more to add",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c08_u010",
+      "answer": "what can I say",
+      "options": [
+        "what can I say",
+        "where can I go",
+        "who can I call",
+        "when can I eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back then",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at that time in the past",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c12_u007",
+      "answer": "back then",
+      "options": [
+        "back then",
+        "right now",
+        "by now",
+        "so far"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nothing to worry about",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "no reason to feel anxious about something",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c06_u004",
+      "answer": "nothing to worry about",
+      "options": [
+        "nothing to worry about",
+        "nothing to talk about",
+        "nothing to write about",
+        "nothing to argue about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trace back to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to find the origin of something by going back through its history",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u002",
+      "answer": "trace",
+      "options": [
+        "trace",
+        "lend",
+        "sell",
+        "owe"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hard to resist",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "so attractive or tempting that it is difficult not to want it",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c02_u008",
+      "answer": "hard to resist",
+      "options": [
+        "hard to resist",
+        "hard to swallow",
+        "hard to find",
+        "hard to afford"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here comes",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that someone or something is arriving or about to happen",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c05_u002",
+      "answer": "here comes",
+      "options": [
+        "here comes",
+        "here lies",
+        "here sits",
+        "here ends"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't know about you, but",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to give your own opinion or wish while accepting that others may feel differently",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c10_u027",
+      "answer": "know about",
+      "options": [
+        "know about",
+        "belong with",
+        "hear from",
+        "depend on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nowadays",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at the present time, in comparison with the past",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c01_u002",
+      "answer": "nowadays",
+      "options": [
+        "nowadays",
+        "someday",
+        "beforehand",
+        "afterward"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "honorable mention",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "official praise in a competition for work that was good but did not win a prize",
+  "exchanges": [
+    {
+      "uid": "s06_e10_c09_u009",
+      "answer": "honourable mention",
+      "options": [
+        "honourable mention",
+        "parking ticket",
+        "bad review",
+        "final warning"
+      ]
+    }
+  ]
 }
 ]

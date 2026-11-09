@@ -480,5 +480,166 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "whatever it takes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "anything that is necessary to achieve a goal",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c15_u019",
+      "answer": "whatever it takes",
+      "options": [
+        "whatever it takes",
+        "whatever it says",
+        "wherever it goes",
+        "whoever it is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look at you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show surprise or admiration at how someone looks or what they have managed to do",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c11_u004",
+      "answer": "Look at you",
+      "options": [
+        "Look at you",
+        "Look at me",
+        "Look after me",
+        "Look for you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you might want to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to politely suggest that someone should do something",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c15_u022",
+      "answer": "might want to",
+      "options": [
+        "might want to",
+        "might refuse to",
+        "might forget to",
+        "might pretend to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "serious relationship",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a long-term romantic relationship that both people are committed to",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c16_u012",
+      "answer": "serious relationship",
+      "options": [
+        "serious relationship",
+        "serious accident",
+        "serious hurry",
+        "serious competition"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can't promise anything",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you will try but cannot be sure you will do what someone asks",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c04_u014",
+      "answer": "I can't promise anything",
+      "options": [
+        "I can't promise anything",
+        "I can't taste anything",
+        "I can't hear anything",
+        "I can't find anything"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "don't worry about me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone that you are fine and they do not need to be concerned for you",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c12_u014",
+      "answer": "Don't worry about me",
+      "options": [
+        "Don't worry about me",
+        "Don't forget about me",
+        "Don't talk about me",
+        "Don't lie about me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back to work",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you are returning to your job or task after a break",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c14_u010",
+      "answer": "Back to work",
+      "options": [
+        "Back to work",
+        "Back to bed",
+        "Back to school",
+        "Back to sleep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wait around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay somewhere doing nothing while you wait for something to happen",
+  "exchanges": [
+    {
+      "uid": "s06_e16_c11_u026",
+      "answer": "waiting around",
+      "options": [
+        "waiting around",
+        "turning around",
+        "coming around",
+        "handing around"
+      ]
+    }
+  ]
 }
 ]

@@ -507,5 +507,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "road trip",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a long journey made by car, usually for fun",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c02_u023",
+      "answer": "Road trip",
+      "options": [
+        "Road trip",
+        "Pop quiz",
+        "Fire drill",
+        "Bake sale"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big break",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a sudden lucky opportunity that leads to success, especially in a career",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c06_u016",
+      "answer": "big break",
+      "options": [
+        "big break",
+        "last meal",
+        "first date",
+        "old car"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on three",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "at the moment someone counting out loud reaches the number three, used to make people act together",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c08_u025",
+      "answer": "On three",
+      "options": [
+        "On three",
+        "On time",
+        "On purpose",
+        "On duty"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stop it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell someone to stop doing something that annoys or upsets you",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c01_u021",
+      "answer": "Stop it",
+      "options": [
+        "Stop it",
+        "Try it",
+        "Buy it",
+        "Read it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "caught in the middle",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "involved in an argument between other people without wanting to be",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c02_u008",
+      "answer": "caught in the middle",
+      "options": [
+        "caught in the middle",
+        "stuck in traffic",
+        "lost in the mail",
+        "born in the city"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've been around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to mean that you have had a lot of experience of the world, for example by travelling",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c03_u004",
+      "answer": "I've been around",
+      "options": [
+        "I've been around",
+        "I've been robbed",
+        "I've been fired",
+        "I've been sleeping"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here I come",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you are setting off eagerly toward a place or thing",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c03_u023",
+      "answer": "here I come",
+      "options": [
+        "here I come",
+        "bless you",
+        "my bad",
+        "excuse me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "clear your mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop thinking about other things so that you can relax or concentrate",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c09_u019",
+      "answer": "clear your mind",
+      "options": [
+        "clear your mind",
+        "pack your bags",
+        "wash your hair",
+        "lose your keys"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "practice run",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a trial attempt made to prepare for the real thing",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c08_u019",
+      "answer": "practice run",
+      "options": [
+        "practice run",
+        "home run",
+        "long shot",
+        "bad habit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "couldn't have been more wrong",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that someone was completely wrong",
+  "exchanges": [
+    {
+      "uid": "s05_e22_c11_u007",
+      "answer": "more wrong",
+      "options": [
+        "more wrong",
+        "more polite",
+        "more hungry",
+        "more famous"
+      ]
+    }
+  ]
 }
 ]

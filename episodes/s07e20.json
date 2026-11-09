@@ -500,5 +500,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what's up with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask what is happening with someone or why something is the way it is",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c01_u011",
+      "answer": "what's up with",
+      "options": [
+        "what's up with",
+        "who's done with",
+        "what's fair to",
+        "who's next to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's all good",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that everything is fine and there is nothing to worry about",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c01_u014",
+      "answer": "It's all good",
+      "options": [
+        "It's all good",
+        "It's all yours",
+        "It's all wet",
+        "It's all mine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freakish",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very strange or unnatural, in a way that seems abnormal",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c05_u003",
+      "answer": "freakish",
+      "options": [
+        "freakish",
+        "generous",
+        "punctual",
+        "obedient"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "peck on the cheek",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a quick, light kiss on the side of the face",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c04_u030",
+      "answer": "peck on the cheek",
+      "options": [
+        "peck on the cheek",
+        "nap on the couch",
+        "swim in the pool",
+        "dip in the lake"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "expressly",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "specifically, for one particular purpose or person",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c05_u006",
+      "answer": "expressly",
+      "options": [
+        "expressly",
+        "reluctantly",
+        "barely",
+        "rarely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "seating chart",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a plan showing where each guest will sit at an event",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c02_u011",
+      "answer": "seating chart",
+      "options": [
+        "seating chart",
+        "weather report",
+        "credit score",
+        "bus schedule"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "gadget",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a small, clever device or tool designed to do a particular job",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c08_u005",
+      "answer": "gadgets",
+      "options": [
+        "gadgets",
+        "freckles",
+        "grudges",
+        "allergies"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that stinks",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a situation is bad, unfair, or disappointing",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c10_u009",
+      "answer": "that stinks",
+      "options": [
+        "that stinks",
+        "that helps",
+        "that fits",
+        "that rocks"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fuss",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a lot of excitement, attention, or talk about something",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c11_u018",
+      "answer": "fuss",
+      "options": [
+        "fuss",
+        "dust",
+        "rent",
+        "salt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've had better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something was not very good or impressive",
+  "exchanges": [
+    {
+      "uid": "s07_e20_c11_u020",
+      "answer": "I've had better",
+      "responseUid": null,
+      "options": [
+        "I've had better",
+        "I've had lunch",
+        "I've had twins",
+        "I've had surgery"
+      ]
+    }
+  ]
 }
 ]

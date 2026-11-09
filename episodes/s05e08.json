@@ -495,5 +495,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "while we're at it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to add another related point or request since you are already dealing with the subject",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c09_u008",
+      "answer": "while we're at it",
+      "options": [
+        "while we're at it",
+        "before we get there",
+        "after we're done",
+        "until we find out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "which reminds me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce something you have just remembered because of what was said",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c01_u015",
+      "answer": "Which reminds me",
+      "options": [
+        "Which reminds me",
+        "Which surprises me",
+        "Which bothers me",
+        "Which confuses me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get ready for",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to prepare yourself for an event that is about to happen",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c10_u011",
+      "answer": "get ready for",
+      "options": [
+        "get ready for",
+        "get tired of",
+        "get away from",
+        "get out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come over",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to visit someone at their home",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c09_u043",
+      "answer": "come over",
+      "options": [
+        "come over",
+        "move out",
+        "calm down",
+        "give up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dork",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a socially awkward person with unfashionable interests",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c13_u009",
+      "answer": "dork",
+      "options": [
+        "dork",
+        "chef",
+        "twin",
+        "pilot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big guy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a friendly or teasing way of addressing a man",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c07_u033",
+      "answer": "big guy",
+      "options": [
+        "big guy",
+        "big deal",
+        "big time",
+        "big news"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I didn't mean to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you did something by accident, not on purpose",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c13_u003",
+      "answer": "I didn't mean to",
+      "options": [
+        "I didn't mean to",
+        "I didn't forget to",
+        "I didn't bother to",
+        "I didn't offer to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "couldn't possibly",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say firmly that you are completely unable to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c01_u003",
+      "answer": "couldn't possibly",
+      "options": [
+        "couldn't possibly",
+        "would gladly",
+        "should quickly",
+        "might finally"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drool over",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to look at someone with obvious, eager attraction",
+  "exchanges": [
+    {
+      "uid": "s05_e08_c11_u032",
+      "answer": "drooling all over",
+      "options": [
+        "drooling all over",
+        "sneezing all over",
+        "yawning all over",
+        "shrugging all over"
+      ]
+    }
+  ]
 }
 ]

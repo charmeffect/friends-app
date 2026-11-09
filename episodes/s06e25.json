@@ -489,5 +489,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you know what I mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to check that the listener understands what you are trying to say",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c06_u012",
+      "answer": "what I mean",
+      "options": [
+        "what I mean",
+        "where I live",
+        "who I am",
+        "what day it is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wait around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay somewhere doing nothing while you wait for something to happen",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c05_u019",
+      "answer": "wait around",
+      "options": [
+        "wait around",
+        "show off",
+        "break down",
+        "cheer up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it work",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to succeed in a difficult situation by finding a way to deal with problems",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c06_u009",
+      "answer": "make it work",
+      "options": [
+        "make it work",
+        "sum it up",
+        "take it back",
+        "pass it on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're welcome",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said in reply to thanks, or, before anyone has thanked you, to claim credit for a favor",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c09_u033",
+      "answer": "You're welcome",
+      "options": [
+        "You're welcome",
+        "You're right",
+        "You're kidding",
+        "You're fired"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if I were you",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when giving advice, to say what you would do in the other person's situation",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c12_u012",
+      "answer": "if I were you",
+      "options": [
+        "if I were you",
+        "when I met you",
+        "as I told you",
+        "since I saw you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if it helps",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when offering a remark or fact that might make someone feel a little better",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c11_u018",
+      "answer": "if it helps",
+      "options": [
+        "if it helps",
+        "if it hurts",
+        "if it rains",
+        "if it fits"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one of those days",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a day when things go wrong or you feel unhappy",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c05_u007",
+      "answer": "one of those days",
+      "options": [
+        "one of those days",
+        "one of these things",
+        "the end of it",
+        "a piece of cake"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "totally",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "completely or definitely; used in speech to add emphasis",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c02_u012",
+      "answer": "Totally",
+      "options": [
+        "Totally",
+        "Barely",
+        "Rarely",
+        "Hardly"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's fair",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to agree that a suggestion or arrangement is reasonable and just",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c09_u027",
+      "answer": "that's fair",
+      "options": [
+        "that's fair",
+        "that's rude",
+        "that's gross",
+        "that's mean"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "aware",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "knowing that a situation or fact exists",
+  "exchanges": [
+    {
+      "uid": "s06_e25_c09_u009",
+      "answer": "aware",
+      "options": [
+        "aware",
+        "proud",
+        "ashamed",
+        "jealous"
+      ]
+    }
+  ]
 }
 ]

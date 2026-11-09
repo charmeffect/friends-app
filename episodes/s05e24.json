@@ -500,5 +500,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "let me guess",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said before you try to work out or predict something, often jokingly",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c01_u010",
+      "answer": "Let me guess",
+      "options": [
+        "Let me guess",
+        "Let me apologize",
+        "Let me leave",
+        "Let me drive"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get married",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to become husband and wife in a wedding ceremony",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c15_u003",
+      "answer": "get married",
+      "options": [
+        "get married",
+        "get divorced",
+        "get arrested",
+        "get promoted"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'll bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are fairly sure something is true",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c01_u022",
+      "answer": "I'll bet",
+      "options": [
+        "I'll bet",
+        "I'll ask",
+        "I'll wait",
+        "I'll leave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pricey",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "costing a lot of money",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c04_u015",
+      "answer": "pricey",
+      "cueUid": "s05_e24_c04_u013",
+      "options": [
+        "pricey",
+        "cheap",
+        "plain",
+        "free"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "doodle",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a quick, careless drawing or scribble",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c04_u007",
+      "answer": "doodle",
+      "options": [
+        "doodle",
+        "puzzle",
+        "noodle",
+        "candle"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nobody move",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a command telling everyone to stay exactly where they are",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c09_u013",
+      "answer": "Nobody move",
+      "options": [
+        "Nobody move",
+        "Nobody cares",
+        "Nobody knows",
+        "Nobody wins"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm your man",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to offer yourself as the right person to do something for someone",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c11_u013",
+      "answer": "I'm your man",
+      "options": [
+        "I'm your man",
+        "I'm your boss",
+        "I'm your fan",
+        "I'm your guest"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "identical",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "exactly the same as each other",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c14_u010",
+      "answer": "identical",
+      "options": [
+        "identical",
+        "invisible",
+        "delicate",
+        "enormous"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pay good money",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be willing to spend a lot of money on something",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c14_u014",
+      "answer": "pay good money",
+      "options": [
+        "pay good money",
+        "lose good money",
+        "owe good money",
+        "save good money"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in progress",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "happening now and not yet finished",
+  "exchanges": [
+    {
+      "uid": "s05_e24_c15_u004",
+      "answer": "in progress",
+      "options": [
+        "in progress",
+        "in trouble",
+        "in stock",
+        "in charge"
+      ]
+    }
+  ]
 }
 ]

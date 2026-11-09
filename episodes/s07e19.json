@@ -464,5 +464,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "turn of the century",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the period around the start of a new century, especially around 1900",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c01_u009",
+      "answer": "turn of the century",
+      "options": [
+        "turn of the century",
+        "top of the hour",
+        "end of the line",
+        "heart of the matter"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "legitimate",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "acceptable, reasonable, and properly recognized as valid",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c03_u003",
+      "answer": "legitimate",
+      "options": [
+        "legitimate",
+        "reluctant",
+        "temporary",
+        "nervous"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bridal shower",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a party at which a woman who is about to get married receives gifts from her friends",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c02_u020",
+      "answer": "bridal shower",
+      "options": [
+        "bridal shower",
+        "job interview",
+        "dental checkup",
+        "tax audit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be right with you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone that you will come or attend to them in a moment",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c05_u022",
+      "answer": "be right with you",
+      "cueUid": "s07_e19_c05_u018",
+      "responseUid": null,
+      "options": [
+        "be right with you",
+        "be proud of you",
+        "be mad at you",
+        "be sick of you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what were you thinking",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to criticize someone for a foolish decision",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c08_u008",
+      "answer": "What were you thinking",
+      "options": [
+        "What were you thinking",
+        "Where were you going",
+        "Who were you calling",
+        "What were you wearing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "raid the fridge",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to help yourself freely to the food in a refrigerator",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c09_u008",
+      "answer": "raid your fridge",
+      "options": [
+        "raid your fridge",
+        "fix your fridge",
+        "move your fridge",
+        "paint your fridge"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a knack for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have a natural skill or talent for doing something",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c10_u013",
+      "answer": "have a knack for",
+      "options": [
+        "have a knack for",
+        "have a crush on",
+        "have a fear of",
+        "have a problem with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get reacquainted",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to become familiar with someone again after a long time apart",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c10_u014",
+      "answer": "get reacquainted",
+      "options": [
+        "get reacquainted",
+        "get arrested",
+        "get sunburned",
+        "get promoted"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "perishable",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "likely to go bad or decay quickly, like fresh food",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c13_u008",
+      "answer": "perishable",
+      "options": [
+        "perishable",
+        "fashionable",
+        "reliable",
+        "available"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "short notice",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "very little advance warning or time to prepare for something",
+  "exchanges": [
+    {
+      "uid": "s07_e19_c15_u002",
+      "answer": "short notice",
+      "options": [
+        "short notice",
+        "close range",
+        "high alert",
+        "long distance"
+      ]
+    }
+  ]
 }
 ]

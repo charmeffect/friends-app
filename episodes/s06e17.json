@@ -499,5 +499,189 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what was I thinking",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you regret a decision and cannot understand why you made it",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c01_u004",
+      "answer": "what was I thinking",
+      "options": [
+        "what was I thinking",
+        "what was I wearing",
+        "where was I born",
+        "why was I late"
+      ],
+      "cueUid": "s06_e17_c01_u002",
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "where was I",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to go back to what you were saying or doing after an interruption",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c01_u022",
+      "answer": "where was I",
+      "options": [
+        "where was I",
+        "who was I",
+        "when was I",
+        "why was I"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "all I'm saying is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to make clear the one simple point you are trying to make",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c02_u024",
+      "answer": "All I'm saying is",
+      "options": [
+        "All I'm saying is",
+        "All I'm asking is",
+        "All I'm hoping is",
+        "All I'm wondering is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start feeling very restless, bored, or upset because of a situation",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c07_u010",
+      "answer": "going crazy",
+      "options": [
+        "going crazy",
+        "going home",
+        "going away",
+        "going steady"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go first",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be the one who starts, before the others take their turn",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c08_u005",
+      "answer": "go first",
+      "options": [
+        "go first",
+        "go home",
+        "go away",
+        "go back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I know it sounds crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before suggesting an idea that you admit seems strange or unlikely to work",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c09_u025",
+      "answer": "sounds crazy",
+      "options": [
+        "sounds crazy",
+        "sounds perfect",
+        "sounds great",
+        "sounds safe"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put a lot of thought into",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think carefully and spend effort on making something good",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c08_u027",
+      "answer": "a lot of thought",
+      "options": [
+        "a lot of thought",
+        "a lot of salt",
+        "a lot of weight",
+        "a lot of ink"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "self-defense",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the skill of protecting yourself from a physical attack",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c02_u005",
+      "answer": "self-defense",
+      "options": [
+        "self-defense",
+        "self-service",
+        "self-portrait",
+        "self-checkout"
+      ],
+      "responseUid": "s06_e17_c02_u007"
+    }
+  ]
+},
+
+{
+  "expression": "pin",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to hold someone down firmly so that they cannot move",
+  "exchanges": [
+    {
+      "uid": "s06_e17_c13_u006",
+      "answer": "pinned",
+      "options": [
+        "pinned",
+        "painted",
+        "promised",
+        "pictured"
+      ]
+    }
+  ]
 }
 ]

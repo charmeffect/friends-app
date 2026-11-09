@@ -508,5 +508,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "at stake",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "able to be won or lost, depending on what happens",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c01_u009",
+      "answer": "at stake",
+      "options": [
+        "at stake",
+        "at sea",
+        "at ease",
+        "at rest"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "against the rules",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not allowed by the rules or by an agreement",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c01_u012",
+      "answer": "against the rules",
+      "options": [
+        "against the rules",
+        "against the wind",
+        "against the wall",
+        "against the clock"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ask for a favor",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to ask someone to do something to help you",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c06_u005",
+      "answer": "for a favor",
+      "options": [
+        "for a favor",
+        "for a ride",
+        "for a date",
+        "for a loan"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't look at me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are not responsible for something or do not know about it",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c10_u015",
+      "answer": "don't look at me",
+      "options": [
+        "don't look at me",
+        "don't wait for me",
+        "don't count on me",
+        "don't call me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me know",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "tell me or inform me about something later",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c12_u006",
+      "answer": "let me know",
+      "options": [
+        "let me know",
+        "let me go",
+        "let me try",
+        "let me see"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the heart wants what it wants",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to mean that you cannot control or explain whom or what you desire",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c14_u016",
+      "answer": "what it wants",
+      "options": [
+        "what it wants",
+        "what it hears",
+        "what it sees",
+        "what it hates"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "a place to stay",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "somewhere to live or sleep for a period of time",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c04_u018",
+      "answer": "a place to stay",
+      "options": [
+        "a place to stay",
+        "a place to park",
+        "a place to eat",
+        "a place to work"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "forbidden",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not allowed, especially by a rule or law",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c19_u004",
+      "answer": "forbidden",
+      "options": [
+        "forbidden",
+        "forgiven",
+        "forgotten",
+        "foreign"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "taboo",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "not socially acceptable to do or talk about",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c19_u012",
+      "answer": "taboo",
+      "options": [
+        "taboo",
+        "trendy",
+        "tender",
+        "tidy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the part",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be chosen to play a role in a play, film, or show",
+  "exchanges": [
+    {
+      "uid": "s06_e18_c18_u008",
+      "answer": "get the part",
+      "options": [
+        "get the part",
+        "get the joke",
+        "get the bill",
+        "get the check"
+      ]
+    }
+  ]
 }
 ]

@@ -480,5 +480,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "since you ask",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you happily give information that someone has just asked for, often as a joke when they did not really ask",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c02_u023",
+      "answer": "since you ask",
+      "options": [
+        "since you ask",
+        "before you go",
+        "unless you mind",
+        "after you leave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sucker",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is easily tricked into doing something",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c04_u020",
+      "answer": "sucker",
+      "options": [
+        "sucker",
+        "winner",
+        "hero",
+        "champion"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I hear what you're saying",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you understand someone's point, often just before you disagree with it",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c05_u008",
+      "answer": "hear what you're saying",
+      "options": [
+        "hear what you're saying",
+        "doubt what you're saying",
+        "forget what you're saying",
+        "hate what you're saying"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "me either",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree with a negative statement someone has just made",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c07_u016",
+      "answer": "Me either",
+      "options": [
+        "Me either",
+        "You either",
+        "Me first",
+        "Him either"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stay up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to not go to bed, remaining awake until late",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c10_u009",
+      "answer": "stay up",
+      "options": [
+        "stay up",
+        "break up",
+        "show up",
+        "give up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tell time",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be able to read the time from a clock",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c10_u010",
+      "answer": "tell time",
+      "options": [
+        "tell time",
+        "waste time",
+        "save time",
+        "kill time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm back",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you have returned to something, especially successfully after a time away",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c13_u013",
+      "answer": "I'm back",
+      "options": [
+        "I'm back",
+        "I'm out",
+        "I'm done",
+        "I'm lost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miracle worker",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who achieves things that seem impossible",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c13_u009",
+      "answer": "miracle worker",
+      "options": [
+        "miracle worker",
+        "office worker",
+        "social worker",
+        "factory worker"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone another chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to let someone try again after they have disappointed you",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c13_u004",
+      "answer": "give me another chance",
+      "options": [
+        "give me another chance",
+        "give me another drink",
+        "give me another name",
+        "give me another coat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "strictly",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "only and completely, without anything else being involved",
+  "exchanges": [
+    {
+      "uid": "s07_e04_c12_u017",
+      "answer": "strictly",
+      "options": [
+        "strictly",
+        "barely",
+        "hardly",
+        "rarely"
+      ]
+    }
+  ]
 }
 ]

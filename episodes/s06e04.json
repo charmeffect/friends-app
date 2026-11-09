@@ -499,5 +499,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "from the top",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "from the beginning again; said to restart a song or performance",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c15_u018",
+      "answer": "from the top",
+      "options": [
+        "from the top",
+        "on the house",
+        "off the record",
+        "out of the blue"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "got it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "I understand; I have noted that",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c15_u011",
+      "answer": "Got it",
+      "options": [
+        "Got it",
+        "Made it",
+        "Lost it",
+        "Hit it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do me a favor",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to help you with something",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c04_u008",
+      "answer": "do me a favor",
+      "options": [
+        "do me a favor",
+        "tell me a story",
+        "buy me a drink",
+        "get me a job"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "try something out on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to test something, such as a speech or idea, by showing it to certain people first",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c02_u019",
+      "answer": "try it out on",
+      "options": [
+        "try it out on",
+        "hand it out to",
+        "pick it up from",
+        "take it out on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come again",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask someone to repeat what they said, often because it is surprising",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c17_u004",
+      "answer": "Come again",
+      "options": [
+        "Come again",
+        "Get out",
+        "Sit down",
+        "Go away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look both ways",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to check for traffic in both directions before crossing a road",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c03_u014",
+      "answer": "look both ways",
+      "responseUid": null,
+      "options": [
+        "look both ways",
+        "take both sides",
+        "go both ways",
+        "see both sides"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "line up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to arrange for something to happen or be available",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c06_u003",
+      "answer": "lined up",
+      "options": [
+        "lined up",
+        "called off",
+        "turned down",
+        "gave up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come crawling back",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to return humbly to someone you left, admitting that you need them",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c05_u003",
+      "answer": "come crawling back",
+      "options": [
+        "come crawling back",
+        "go running off",
+        "come falling apart",
+        "go looking around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speak for itself",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to show its quality clearly without needing any explanation",
+  "exchanges": [
+    {
+      "uid": "s06_e04_c04_u023",
+      "answer": "speak for itself",
+      "options": [
+        "speak for itself",
+        "go to waste",
+        "fall to pieces",
+        "get out of hand"
+      ]
+    }
+  ]
 }
 ]

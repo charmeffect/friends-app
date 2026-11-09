@@ -521,5 +521,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "decent",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "good enough or acceptable in quality",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c01_u007",
+      "answer": "decent",
+      "responseUid": null,
+      "options": [
+        "decent",
+        "distant",
+        "dusty",
+        "noisy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trial run",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a practice attempt to test how something works before doing it for real",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c05_u004",
+      "answer": "trial run",
+      "options": [
+        "trial run",
+        "home run",
+        "free fall",
+        "long shot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sorry to bother you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way to start talking to someone when you are interrupting them",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c05_u009",
+      "answer": "bother",
+      "options": [
+        "bother",
+        "thank",
+        "praise",
+        "follow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "crushed",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely upset and disappointed",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c07_u026",
+      "answer": "crushed",
+      "options": [
+        "crushed",
+        "thrilled",
+        "spoiled",
+        "relieved"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all I'm saying is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to make clear the one simple point you are trying to make",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c13_u002",
+      "answer": "All I'm saying",
+      "options": [
+        "All I'm saying",
+        "All I'm selling",
+        "All I'm buying",
+        "All I'm cooking"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't you dare",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to warn someone strongly not to do something",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c13_u014",
+      "answer": "Don't you dare",
+      "options": [
+        "Don't you dare",
+        "Why don't you",
+        "Can't you just",
+        "You should just"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take that back",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to say that you did not mean something you have just said",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c15_u027",
+      "answer": "take that back",
+      "options": [
+        "take that back",
+        "give that up",
+        "put that down",
+        "turn that off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how do you figure",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask someone why they think something is true, often because you doubt it",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c15_u030",
+      "answer": "figure",
+      "options": [
+        "figure",
+        "sleep",
+        "cook",
+        "dance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to get someone's attention before telling them something surprising",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c16_u023",
+      "answer": "Get this",
+      "options": [
+        "Get this",
+        "Eat this",
+        "Wash this",
+        "Sign this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freaky",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "strange in a way that is slightly frightening",
+  "exchanges": [
+    {
+      "uid": "s07_e13_c16_u033",
+      "answer": "freaky",
+      "options": [
+        "freaky",
+        "sunny",
+        "tidy",
+        "roomy"
+      ]
+    }
+  ]
 }
 ]

@@ -499,5 +499,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "have yet to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to have not done something so far, although you are expected to do it",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c03_u008",
+      "answer": "have yet to",
+      "options": [
+        "have yet to",
+        "have come to",
+        "have learned to",
+        "have grown to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by the time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "at or before the moment when something happens",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c04_u008",
+      "answer": "by the time",
+      "options": [
+        "by the time",
+        "for the time",
+        "on the time",
+        "in the time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "got a second",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask whether someone has a short time free to talk",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c04_u014",
+      "answer": "got a second",
+      "options": [
+        "got a second",
+        "got a point",
+        "got a clue",
+        "got a deal"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it gets worse",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to warn that there is even more bad news to come",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c06_u010",
+      "answer": "it gets worse",
+      "options": [
+        "it gets worse",
+        "it gets easier",
+        "it gets colder",
+        "it gets older"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rules are rules",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a rule must be obeyed even when it seems unfair",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c08_u016",
+      "answer": "Rules are rules",
+      "options": [
+        "Rules are rules",
+        "Friends are friends",
+        "Rooms are rooms",
+        "Dreams are dreams"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just this once",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "on this one occasion only, as an exception",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c08_u024",
+      "answer": "just this once",
+      "options": [
+        "just this once",
+        "just in case",
+        "just like that",
+        "just about time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let's roll",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that it is time to start or to go",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c11_u006",
+      "answer": "Let's roll",
+      "options": [
+        "Let's roll",
+        "Let's eat",
+        "Let's talk",
+        "Let's vote"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a time and a place",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to say that something is acceptable only in suitable situations, not here or now",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c11_u023",
+      "answer": "time and a place",
+      "options": [
+        "time and a place",
+        "name and a face",
+        "rock and a stone",
+        "cup and a plate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "face one's fears",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to deal bravely with something that frightens you instead of avoiding it",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c13_u003",
+      "answer": "faced her fears",
+      "options": [
+        "faced her fears",
+        "fed her fears",
+        "hid her fears",
+        "doubled her fears"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "corny",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "silly and old-fashioned in a way that is embarrassing rather than moving",
+  "exchanges": [
+    {
+      "uid": "s07_e09_c13_u004",
+      "answer": "corny",
+      "options": [
+        "corny",
+        "clumsy",
+        "stingy",
+        "nosy"
+      ]
+    }
+  ]
 }
 ]

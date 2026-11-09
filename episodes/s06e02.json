@@ -528,5 +528,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "across the hall",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "on the other side of the hallway, in the room or apartment opposite",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c02_u020",
+      "answer": "across the hall",
+      "options": [
+        "across the hall",
+        "across the ocean",
+        "across the country",
+        "across the border"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all in your head",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "imagined by you and not real or true",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c03_u027",
+      "answer": "all in your head",
+      "options": [
+        "all in your head",
+        "all over the news",
+        "all on the table",
+        "all over town"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give away",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to reveal something that was supposed to stay secret, such as the ending of a story",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c04_u004",
+      "answer": "gave me away",
+      "options": [
+        "gave me away",
+        "let me down",
+        "put me off",
+        "took me back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no turning back",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that once something is done, you cannot change your mind or undo it",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c04_u006",
+      "answer": "No turning back",
+      "options": [
+        "No turning back",
+        "No offense taken",
+        "No thanks needed",
+        "No parking allowed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm so happy for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that you are glad about someone else's good news",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c04_u019",
+      "answer": "happy for you",
+      "options": [
+        "happy for you",
+        "tired of you",
+        "jealous of you",
+        "angry with you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in love with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "having strong romantic feelings for someone",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c05_u008",
+      "answer": "in love with",
+      "options": [
+        "in love with",
+        "in charge of",
+        "in front of",
+        "in need of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "well done",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to praise someone for doing something well",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c05_u016",
+      "answer": "Well done",
+      "options": [
+        "Well done",
+        "Too bad",
+        "Not again",
+        "No way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "divide up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to split things between people so that each person gets a share",
+  "exchanges": [
+    {
+      "uid": "s06_e02_c09_u003",
+      "answer": "dividing up",
+      "options": [
+        "dividing up",
+        "making up",
+        "showing off",
+        "turning down"
+      ]
+    }
+  ]
 }
 ]

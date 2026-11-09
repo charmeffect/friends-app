@@ -499,5 +499,187 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "how dare you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are angry and shocked at what someone has done or said",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c03_u028",
+      "answer": "how dare you",
+      "options": [
+        "how dare you",
+        "how lucky you",
+        "how about you",
+        "how sweet you"
+      ],
+      "cueUid": "s07_e15_c03_u026"
+    }
+  ]
+},
+
+{
+  "expression": "say what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to show surprise or that you did not understand what someone just said",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c03_u015",
+      "answer": "Say what",
+      "options": [
+        "Say what",
+        "Say when",
+        "Say please",
+        "Say cheese"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pour in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to arrive in large numbers or amounts",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c10_u010",
+      "answer": "pouring in",
+      "options": [
+        "pouring in",
+        "giving in",
+        "dropping out",
+        "pouring out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "comfy",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "comfortable and relaxed, so that you do not want to change anything",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c10_u010",
+      "answer": "comfy",
+      "options": [
+        "comfy",
+        "nosy",
+        "grumpy",
+        "clumsy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rooted in",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "having its origin or basis in something",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c10_u002",
+      "answer": "rooted in",
+      "options": [
+        "rooted in",
+        "dressed in",
+        "locked in",
+        "covered in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "own the room",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be so confident that you control the attention of everyone in a place",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c10_u017",
+      "answer": "own the room",
+      "options": [
+        "own the room",
+        "rent the room",
+        "leave the room",
+        "paint the room"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a little off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "slightly wrong or not quite in the right position",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c10_u022",
+      "answer": "a little off",
+      "options": [
+        "a little off",
+        "a little on",
+        "a little up",
+        "a little in"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "inspired",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "showing unusual cleverness or imagination",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c14_u002",
+      "answer": "inspired",
+      "options": [
+        "inspired",
+        "exhausted",
+        "expired",
+        "ashamed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speed dial",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a phone feature that stores numbers so you can call them by pressing one button",
+  "exchanges": [
+    {
+      "uid": "s07_e15_c04_u006",
+      "answer": "speed dial",
+      "options": [
+        "speed dial",
+        "dial tone",
+        "phone bill",
+        "busy signal"
+      ]
+    }
+  ]
 }
 ]

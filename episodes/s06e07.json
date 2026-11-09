@@ -501,5 +501,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "gotcha",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you catch or trap someone",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c05_u003",
+      "answer": "Gotcha",
+      "options": [
+        "Gotcha",
+        "Gotta",
+        "Lemme",
+        "Dunno"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it can't be that bad",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to reassure someone that their situation is probably not as terrible as they think",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c08_u019",
+      "answer": "can't be that bad",
+      "options": [
+        "can't be that bad",
+        "must be really fun",
+        "can't be that cheap",
+        "should be that quiet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's all good",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that everything is fine and there is nothing to worry about",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c08_u023",
+      "answer": "all good",
+      "options": [
+        "all good",
+        "all wrong",
+        "all over",
+        "all mine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're the best",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to thank someone warmly and show how much you appreciate them",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c14_u014",
+      "answer": "you're the best",
+      "options": [
+        "you're the best",
+        "you're too late",
+        "you're so rude",
+        "you're so loud"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "or something",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to show that what you have just said is only a rough guess or example",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c14_u009",
+      "answer": "or something",
+      "options": [
+        "or something",
+        "or nothing",
+        "or never",
+        "or else"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I gotta go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "I have to leave now",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c15_u005",
+      "answer": "I gotta go",
+      "responseUid": null,
+      "options": [
+        "I gotta go",
+        "I gotta stay",
+        "I gotta win",
+        "I gotta sing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a cross between",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a mixture of two different things or people, having features of both",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c04_u002",
+      "answer": "a cross between",
+      "options": [
+        "a cross between",
+        "a fight between",
+        "a choice between",
+        "a gap between"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel that way about someone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have romantic feelings for someone",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c12_u012",
+      "answer": "feel that way about",
+      "options": [
+        "feel that way about",
+        "talk that way to",
+        "look that way at",
+        "sound that way to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "judge",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to form a critical opinion about someone based on what they do",
+  "exchanges": [
+    {
+      "uid": "s06_e07_c10_u017",
+      "answer": "judging",
+      "options": [
+        "judging",
+        "hiring",
+        "teaching",
+        "pushing"
+      ]
+    }
+  ]
 }
 ]

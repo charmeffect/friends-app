@@ -522,5 +522,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what can you do",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept calmly that a bad situation cannot be changed",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c03_u067",
+      "answer": "what can you do",
+      "options": [
+        "what can you do",
+        "where did you go",
+        "when will you leave",
+        "who did you call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you are about to describe something that is typical of you",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c02_u073",
+      "answer": "you know me",
+      "options": [
+        "you know me",
+        "you hate me",
+        "you owe me",
+        "you fooled me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for shame",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to tell someone, often jokingly, that they should be ashamed of what they did",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c02_u008",
+      "answer": "for shame",
+      "options": [
+        "for shame",
+        "for sure",
+        "for free",
+        "for now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "biggest fan",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the person who admires and supports you more than anyone else",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c02_u031",
+      "answer": "biggest fan",
+      "options": [
+        "biggest fan",
+        "worst enemy",
+        "new boss",
+        "youngest cousin"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not likely",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is probably not true or will probably not happen",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c02_u123",
+      "answer": "Not likely",
+      "options": [
+        "Not likely",
+        "Not bad",
+        "Not me",
+        "Not fair"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good heart",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a kind and caring nature",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c04_u010",
+      "answer": "good heart",
+      "options": [
+        "good heart",
+        "bad back",
+        "short temper",
+        "big mouth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see other people",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to date other people, used to say that a romantic relationship is over",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c02_u017",
+      "answer": "see other people",
+      "options": [
+        "see other people",
+        "sell our furniture",
+        "skip the wedding",
+        "share an apartment"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're the best",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to thank someone warmly and show how much you appreciate them",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c03_u072",
+      "answer": "You're the best",
+      "options": [
+        "You're the best",
+        "You're so late",
+        "You're too loud",
+        "You're in trouble"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get dressed",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to put on your clothes",
+  "exchanges": [
+    {
+      "uid": "s05_e19_c02_u047",
+      "answer": "get dressed",
+      "options": [
+        "get dressed",
+        "get married",
+        "get fired",
+        "get elected"
+      ]
+    }
+  ]
 }
 ]

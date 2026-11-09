@@ -479,5 +479,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "then again",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used to add a point that makes what you just said seem less surprising or important",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c03_u017",
+      "answer": "then again",
+      "options": [
+        "then again",
+        "for once",
+        "at last",
+        "by now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the check's in the mail",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "a typical lie used to claim that a payment has already been sent",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c03_u024",
+      "answer": "check's in the mail",
+      "options": [
+        "check's in the mail",
+        "ball's in your court",
+        "coast is clear",
+        "joke's on you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "invite oneself",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to ask to come to an event, or simply decide to come, without being invited",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c03_u019",
+      "answer": "invited herself",
+      "options": [
+        "invited herself",
+        "excused herself",
+        "helped herself",
+        "enjoyed herself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me ask you something",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to introduce a question you want someone to answer",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c05_u006",
+      "answer": "ask you something",
+      "options": [
+        "ask you something",
+        "show you something",
+        "get you something",
+        "bring you something"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the likes of",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "people or things of a particular kind, often said to sound humble or disapproving",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c01_u010",
+      "answer": "the likes of",
+      "options": [
+        "the likes of",
+        "the rest of",
+        "the sake of",
+        "the top of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look who's here",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to greet someone who has just arrived, often with pleasant surprise",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c05_u015",
+      "answer": "look who's here",
+      "options": [
+        "look who's here",
+        "look who's asking",
+        "look who's leaving",
+        "look who's calling"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cover a shift",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to work someone else's scheduled period of work in their place",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c06_u003",
+      "answer": "cover my shift",
+      "options": [
+        "cover my shift",
+        "cover my eyes",
+        "cover my ears",
+        "cover my bet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the feeling",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start to believe something without being certain of it",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c11_u010",
+      "answer": "got the feeling",
+      "options": [
+        "got the feeling",
+        "got the chance",
+        "got the time",
+        "got the job"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's the rush",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask why someone is doing something so quickly",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c05_u012",
+      "answer": "what's the rush",
+      "options": [
+        "what's the rush",
+        "what's the catch",
+        "what's the damage",
+        "what's the verdict"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's cool",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that everything is fine and you are not upset",
+  "exchanges": [
+    {
+      "uid": "s07_e07_c11_u015",
+      "answer": "it's cool",
+      "options": [
+        "it's cool",
+        "it's cold",
+        "it's late",
+        "it's wrong"
+      ],
+      "cueUid": "s07_e07_c11_u012"
+    }
+  ]
 }
 ]

@@ -505,5 +505,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "put someone out of their misery",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to end someone's suffering or tension quickly, often said jokingly",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c06_u018",
+      "answer": "out of my misery",
+      "options": [
+        "out of my misery",
+        "out of my league",
+        "out of my way",
+        "out of my depth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put ideas in someone's head",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone think of doing something they had not planned, usually something unwise",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c09_u015",
+      "answer": "put ideas",
+      "options": [
+        "put ideas",
+        "put tears",
+        "put words",
+        "put limits"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me know",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "tell me or inform me about something later",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c10_u007",
+      "answer": "Let me know",
+      "options": [
+        "let me know",
+        "let me down",
+        "let me off",
+        "let me be"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whine",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to complain in an annoying, childish way",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c14_u014",
+      "answer": "whining",
+      "options": [
+        "whining",
+        "bragging",
+        "flirting",
+        "snoring"
+      ],
+      "cueUid": "s05_e12_c14_u010",
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "feel sorry for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel pity for someone or something because they are in a bad situation",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c12_u014",
+      "answer": "feel sorry for",
+      "options": [
+        "feel sorry for",
+        "feel proud of",
+        "feel tired of",
+        "feel jealous of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "anger management",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "training that teaches people how to control their temper",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c02_u009",
+      "answer": "anger management",
+      "options": [
+        "anger management",
+        "time management",
+        "weight loss",
+        "public speaking"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "skip",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose not to go to or take part in something",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c05_u012",
+      "answer": "skip",
+      "options": [
+        "skip",
+        "rent",
+        "fix",
+        "pay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big boy",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an adult man who can take care of himself and handle disappointment",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c08_u016",
+      "answer": "big boy",
+      "options": [
+        "big boy",
+        "lost boy",
+        "nice guy",
+        "sick man"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we need to talk",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you want to have a serious conversation, often about a problem in a relationship",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c14_u010",
+      "answer": "we need to talk",
+      "options": [
+        "we need to talk",
+        "we need to order",
+        "we need to dance",
+        "we need to sleep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "left over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "remaining after the rest has been used or eaten",
+  "exchanges": [
+    {
+      "uid": "s05_e12_c03_u003",
+      "answer": "left over",
+      "options": [
+        "left over",
+        "handed out",
+        "given up",
+        "turned down"
+      ]
+    }
+  ]
 }
 ]

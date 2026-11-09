@@ -502,5 +502,166 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "lucky me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically when something bad or unwelcome happens to you",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c06_u012",
+      "answer": "Lucky me",
+      "options": [
+        "Lucky me",
+        "Silly me",
+        "Call me",
+        "Watch me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "think of it as",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to consider or treat something in a particular way",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c07_u021",
+      "answer": "think of it as",
+      "options": [
+        "think of it as",
+        "ask for it as",
+        "send for it as",
+        "wait for it as"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the look on someone's face",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the expression on someone's face that shows what they are feeling",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c08_u002",
+      "answer": "look",
+      "options": [
+        "look",
+        "dirt",
+        "paint",
+        "mask"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "against the rules",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not allowed by the rules or by an agreement",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c10_u009",
+      "answer": "against the rules",
+      "options": [
+        "against the rules",
+        "above the law",
+        "beside the point",
+        "behind the times"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get tired of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become bored or annoyed with something because it has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c01_u010",
+      "answer": "getting tired of",
+      "options": [
+        "getting tired of",
+        "taking care of",
+        "making fun of",
+        "running out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't blame me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is not your fault or responsibility",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c05_u021",
+      "answer": "don't blame me",
+      "options": [
+        "don't blame me",
+        "don't thank me",
+        "don't call me",
+        "don't pay me"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "fall under",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be included in a particular group, category, or type",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c08_u020",
+      "answer": "falls under",
+      "options": [
+        "falls under",
+        "gets over",
+        "goes after",
+        "runs into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "geez",
+  "type": "word",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an exclamation of annoyance, surprise, or impatience",
+  "exchanges": [
+    {
+      "uid": "s05_e05_c05_u026",
+      "answer": "Geez",
+      "options": [
+        "Geez",
+        "Cheers",
+        "Bravo",
+        "Amen"
+      ]
+    }
+  ]
 }
 ]

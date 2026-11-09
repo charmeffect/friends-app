@@ -518,5 +518,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "can you blame someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that someone's reaction is understandable and reasonable",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c02_u026",
+      "answer": "Can you blame her",
+      "options": [
+        "Can you blame her",
+        "Can you call her",
+        "Can you hear her",
+        "Can you help her"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sorry to bother you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way to start talking to someone when you are interrupting them",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c05_u011",
+      "answer": "Sorry to bother you",
+      "options": [
+        "Sorry to bother you",
+        "Nice to meet you",
+        "Glad to see you",
+        "Proud to know you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get a kick out of",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enjoy something or find it very amusing",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c06_u010",
+      "answer": "kick",
+      "options": [
+        "kick",
+        "fight",
+        "price",
+        "nap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to tell you the truth",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before admitting something honestly, often something the listener may not like",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c07_u009",
+      "answer": "tell you the truth",
+      "options": [
+        "tell you the truth",
+        "save you the trouble",
+        "show you the way",
+        "give you the job"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not in the mood",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "not feeling like doing or hearing something at the moment",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c10_u006",
+      "answer": "not in the mood",
+      "options": [
+        "not in the mood",
+        "not on the list",
+        "not in the know",
+        "not at the door"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lose it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to lose control of your emotions or start behaving irrationally",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u002",
+      "answer": "lost it",
+      "options": [
+        "lost it",
+        "made it",
+        "faked it",
+        "won it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "smooth talker",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who talks in a charming, confident way that easily persuades others",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u011",
+      "answer": "smooth talker",
+      "options": [
+        "smooth talker",
+        "heavy sleeper",
+        "slow learner",
+        "fast eater"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "know better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be wise or experienced enough not to do something wrong or foolish",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u037",
+      "answer": "knows better",
+      "options": [
+        "knows better",
+        "talks better",
+        "looks better",
+        "sings better"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "read up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to learn about a subject by reading a lot about it",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c08_u012",
+      "answer": "reading up",
+      "options": [
+        "reading up",
+        "giving up",
+        "throwing up",
+        "cheering up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see what I'm saying",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to check that the listener understands your point",
+  "exchanges": [
+    {
+      "uid": "s05_e06_c11_u004",
+      "answer": "See what I'm saying",
+      "options": [
+        "See what I'm saying",
+        "See what I'm buying",
+        "See what I'm reading",
+        "See what I'm wearing"
+      ]
+    }
+  ]
 }
 ]

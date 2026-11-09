@@ -511,5 +511,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "the ball is in someone's court",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "it is now that person's turn to act or make a decision",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c07_u018",
+      "answer": "court",
+      "options": [
+        "court",
+        "garden",
+        "basket",
+        "kitchen"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in the driver's seat",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in control of a situation",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c07_u017",
+      "answer": "driver seat",
+      "options": [
+        "driver seat",
+        "window seat",
+        "aisle seat",
+        "car seat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pain in the ass",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a very annoying person or thing",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c15_u023",
+      "answer": "pain in the ass",
+      "options": [
+        "pain in the ass",
+        "man of the house",
+        "top of the class",
+        "star of the show"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a little much",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "slightly too much or too extreme for the situation",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c16_u002",
+      "answer": "a little much",
+      "options": [
+        "a little much",
+        "a little late",
+        "a little wet",
+        "a little slow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not a problem",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are happy to do what someone asked",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c04_u006",
+      "answer": "Not a problem",
+      "options": [
+        "Not a problem",
+        "Not a chance",
+        "Not a word",
+        "Not a clue"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "besides",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to add another reason to what has just been said",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c03_u007",
+      "answer": "besides",
+      "options": [
+        "besides",
+        "instead",
+        "meanwhile",
+        "otherwise"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drop the act",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop pretending and show your real intentions or feelings",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c14_u028",
+      "answer": "drop the act",
+      "options": [
+        "drop the act",
+        "take the bus",
+        "pay the bill",
+        "wash the car"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lost art",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a skill or activity that few people practise or value any more",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c13_u014",
+      "answer": "lost art",
+      "options": [
+        "lost art",
+        "sore loser",
+        "free lunch",
+        "dead heat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fill or use an amount of space",
+  "exchanges": [
+    {
+      "uid": "s05_e07_c15_u014",
+      "answer": "taking up",
+      "options": [
+        "taking up",
+        "giving up",
+        "making up",
+        "turning up"
+      ]
+    }
+  ]
 }
 ]

@@ -522,5 +522,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'll pass",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to politely refuse something that is offered",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c08_u013",
+      "answer": "I'll pass",
+      "options": [
+        "I'll pass",
+        "I'll scream",
+        "I'll sneeze",
+        "I'll melt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mix-up",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a mistake in which one thing or arrangement is confused with another",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c07_u022",
+      "answer": "mix up",
+      "options": [
+        "mix up",
+        "pay cut",
+        "bake sale",
+        "heat wave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't count on it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is very unlikely to happen",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c10_u006",
+      "answer": "Don't count on it",
+      "options": [
+        "Don't count on it",
+        "Don't lose it",
+        "Don't forget it",
+        "Don't drop it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lucky dog",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who has been very fortunate, said with friendly envy",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c03_u011",
+      "answer": "lucky dog",
+      "options": [
+        "lucky dog",
+        "hot dog",
+        "lap dog",
+        "top dog"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be willing to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be ready and agree to do something, even if it is not easy",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c03_u014",
+      "answer": "willing",
+      "options": [
+        "willing",
+        "afraid",
+        "unlikely",
+        "reluctant"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "force-feed",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make someone eat or drink something, especially more than they want",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c05_u002",
+      "answer": "force-fed",
+      "options": [
+        "force-fed",
+        "double-crossed",
+        "short-changed",
+        "sweet-talked"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk about",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something is a very clear or extreme example of a particular thing",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c02_u018",
+      "answer": "Talk about",
+      "options": [
+        "Talk about",
+        "Forget about",
+        "Think about",
+        "Worry about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it work",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to succeed in a difficult situation by finding a way to deal with problems",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c06_u020",
+      "answer": "make this work",
+      "options": [
+        "make this work",
+        "make this up",
+        "make this stop",
+        "make this public"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I got nothing",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said when you have no idea what to say or do to fix a situation",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c10_u005",
+      "answer": "I got nothing",
+      "options": [
+        "I got nothing",
+        "I got plenty",
+        "I got this",
+        "I got paid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep talking",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to encourage someone to go on because you like what they are saying",
+  "exchanges": [
+    {
+      "uid": "s05_e04_c12_u003",
+      "answer": "Keep talking",
+      "options": [
+        "Keep talking",
+        "Keep driving",
+        "Keep sleeping",
+        "Keep shopping"
+      ]
+    }
+  ]
 }
 ]

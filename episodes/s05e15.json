@@ -500,5 +500,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "have a good run",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have enjoyed a period of success or happiness that is now coming to an end",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c01_u003",
+      "answer": "had a good run",
+      "options": [
+        "had a good run",
+        "had a big fight",
+        "had a long talk",
+        "had a bad cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mess around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have a casual relationship with someone without being serious about it",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c01_u013",
+      "answer": "messing around",
+      "options": [
+        "messing around",
+        "showing off",
+        "calming down",
+        "cleaning up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a few steps ahead",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "already thinking about later stages that the people involved are not ready for",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c02_u007",
+      "answer": "a few steps ahead",
+      "options": [
+        "a few steps ahead",
+        "a few minutes late",
+        "a few feet away",
+        "a few drinks behind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go in on",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to join with other people in paying for or investing in something",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c02_u010",
+      "answer": "go in on",
+      "options": [
+        "go in on",
+        "go out on",
+        "give up on",
+        "look down on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "harder than it looks",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "more difficult or more forceful than it seems from the outside",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c02_u029",
+      "answer": "harder than it looks",
+      "options": [
+        "harder than it looks",
+        "softer than it looks",
+        "cuter than it sounds",
+        "older than it seems"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "baby fever",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a strong desire to have a baby",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c06_u015",
+      "answer": "baby fever",
+      "options": [
+        "baby fever",
+        "cabin fever",
+        "hay fever",
+        "spring fever"
+      ],
+      "responseUid": "s05_e15_c06_u017"
+    }
+  ]
+},
+
+{
+  "expression": "big gesture",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a dramatic action done to show someone how you feel about them",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c07_u007",
+      "answer": "gesture",
+      "options": [
+        "gesture",
+        "mistake",
+        "discount",
+        "sandwich"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make things right",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fix a bad situation or correct a wrong so that things are fair again",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c07_u014",
+      "answer": "make things right",
+      "options": [
+        "make things right",
+        "make things worse",
+        "keep things quiet",
+        "leave things alone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be tired of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be annoyed by something because it has happened too often or for too long",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c07_u017",
+      "answer": "tired of",
+      "options": [
+        "tired of",
+        "proud of",
+        "afraid of",
+        "capable of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sympathy",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the feeling of being sorry for someone who is in a bad situation",
+  "exchanges": [
+    {
+      "uid": "s05_e15_c10_u010",
+      "answer": "sympathy",
+      "options": [
+        "sympathy",
+        "revenge",
+        "exercise",
+        "directions"
+      ]
+    }
+  ]
 }
 ]

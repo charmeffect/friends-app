@@ -418,5 +418,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "pass for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be accepted as something you are not, such as a different age",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c08_u036",
+      "answer": "pass for",
+      "responseUid": "s07_e01_c08_u038",
+      "options": [
+        "pass for",
+        "pay for",
+        "ask for",
+        "care for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I was afraid of that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something bad that you expected turns out to be true",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c02_u025",
+      "answer": "afraid",
+      "options": [
+        "afraid",
+        "proud",
+        "capable",
+        "ignorant"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give me a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to wait a short time before you do something",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c05_u027",
+      "answer": "give me a minute",
+      "options": [
+        "give me a minute",
+        "give me a ride",
+        "give me a call",
+        "give me a hug"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up in the air",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "not yet decided or settled",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c09_u004",
+      "answer": "up in the air",
+      "options": [
+        "up in the air",
+        "out of the blue",
+        "over the moon",
+        "under the weather"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miss your chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to lose an opportunity because you did not act when you could",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u093",
+      "answer": "missed your chance",
+      "options": [
+        "missed your chance",
+        "made your point",
+        "paid your bill",
+        "did your best"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not even close",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "very far from the amount or result that was needed",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u084",
+      "answer": "not even close",
+      "options": [
+        "not even close",
+        "not at all sure",
+        "not too bad",
+        "not so fast"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep talking",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to encourage someone to go on because you like what they are saying",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u006",
+      "answer": "Keep talking",
+      "options": [
+        "Keep talking",
+        "Keep walking",
+        "Keep cool",
+        "Take care"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on a scale of 1 to 10",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when rating something with a number, where 1 is the lowest and 10 the highest",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c06_u005",
+      "answer": "on a scale",
+      "options": [
+        "on a scale",
+        "on a diet",
+        "on a roll",
+        "on a budget"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "everybody wins",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said, sometimes ironically, when an arrangement seems good for all the people involved",
+  "exchanges": [
+    {
+      "uid": "s07_e01_c10_u069",
+      "answer": "everybody wins",
+      "options": [
+        "everybody wins",
+        "nobody cares",
+        "everybody dies",
+        "nobody's perfect"
+      ]
+    }
+  ]
 }
 ]

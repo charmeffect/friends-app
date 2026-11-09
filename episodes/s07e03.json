@@ -508,5 +508,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "hate to admit it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before admitting something you would rather not say is true",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c12_u002",
+      "answer": "hate to admit it",
+      "options": [
+        "hate to admit it",
+        "hate to repeat it",
+        "hate to ruin it",
+        "hate to waste it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lesson learned",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that a bad experience has taught you something",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c07_u016",
+      "answer": "lesson learned",
+      "options": [
+        "lesson learned",
+        "order placed",
+        "seat taken",
+        "bill paid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get hurt",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be injured",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c04_u020",
+      "answer": "get hurt",
+      "options": [
+        "get hurt",
+        "get fired",
+        "get paid",
+        "get married"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bond",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to develop a close, friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c05_u015",
+      "answer": "bonding",
+      "options": [
+        "bonding",
+        "bragging",
+        "gambling",
+        "panicking"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deathbed",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the bed in which a person is dying, or the last hours of their life",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c02_u014",
+      "answer": "deathbed",
+      "options": [
+        "deathbed",
+        "doorstep",
+        "driveway",
+        "bookcase"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "register for gifts",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to list at a store the gifts you would like for your wedding so that guests can buy them",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c03_u032",
+      "answer": "register for gifts",
+      "options": [
+        "register for gifts",
+        "wrap the gifts",
+        "return the gifts",
+        "open the gifts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the whole time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "during the entire period being talked about",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c10_u018",
+      "answer": "the whole time",
+      "options": [
+        "the whole time",
+        "the next day",
+        "the first time",
+        "the other way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wrong number",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "a telephone number that was dialled by mistake, so the caller has reached the wrong person",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c06_u020",
+      "answer": "wrong number",
+      "options": [
+        "wrong number",
+        "wrong answer",
+        "last word",
+        "best seat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for sure",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "certain or definitely decided",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c10_u004",
+      "answer": "for sure",
+      "options": [
+        "for sure",
+        "for free",
+        "for rent",
+        "for sale"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nod along",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep nodding as if you agree or understand, even when you do not",
+  "exchanges": [
+    {
+      "uid": "s07_e03_c11_u005",
+      "answer": "nod along",
+      "options": [
+        "nod along",
+        "sing along",
+        "move along",
+        "drive along"
+      ]
+    }
+  ]
 }
 ]

@@ -500,5 +500,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what took you so long",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when someone arrives later than expected",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c02_u004",
+      "answer": "took you so long",
+      "options": [
+        "took you so long",
+        "made you so sad",
+        "sent you so far",
+        "cost you so much"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see other people",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to date other people, used to say that a romantic relationship is over",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c02_u040",
+      "answer": "see other people",
+      "options": [
+        "see other people",
+        "paint the kitchen",
+        "learn to swim",
+        "sell the car"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you can't tell me what to do",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said angrily to show that you will not let someone control your choices",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c06_u036",
+      "answer": "what to do",
+      "options": [
+        "what to do",
+        "how to cook",
+        "where to park",
+        "when to eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I just work here",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you are not responsible for or involved in a problem",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c06_u044",
+      "answer": "work",
+      "options": [
+        "work",
+        "sing",
+        "cry",
+        "swim"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "take someone's calls",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to agree to answer and speak to someone when they phone you",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c01_u037",
+      "answer": "taking my calls",
+      "options": [
+        "taking my calls",
+        "eating my food",
+        "washing my car",
+        "reading my books"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kick off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to remove your shoes by shaking or pushing them off your feet",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c05_u015",
+      "answer": "kicked off",
+      "options": [
+        "kicked off",
+        "tied up",
+        "sold off",
+        "handed in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fly out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to travel by plane to a place, especially one far away",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c02_u063",
+      "answer": "fly out",
+      "options": [
+        "fly out",
+        "sing out",
+        "cash out",
+        "black out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "secure",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "confident and not worried about yourself or what others think of you",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c07_u010",
+      "answer": "secure",
+      "options": [
+        "secure",
+        "jealous",
+        "nervous",
+        "clumsy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I wonder",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you would like to know something or are thinking about it",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c11_u031",
+      "answer": "I wonder",
+      "options": [
+        "I wonder",
+        "I promise",
+        "I swear",
+        "I insist"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sucker",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who is easily tricked into doing something",
+  "exchanges": [
+    {
+      "uid": "s05_e23_c01_u006",
+      "answer": "Sucker",
+      "options": [
+        "Sucker",
+        "Doctor",
+        "Neighbor",
+        "Waiter"
+      ]
+    }
+  ]
 }
 ]

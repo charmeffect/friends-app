@@ -521,5 +521,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "have got to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "must; used to say strongly that something is necessary",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c02_u002",
+      "answer": "have got to",
+      "options": [
+        "have got to",
+        "have failed to",
+        "have refused to",
+        "have ceased to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mellow",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "calm, relaxed, and not wild or loud",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c06_u011",
+      "answer": "mellow",
+      "options": [
+        "mellow",
+        "bossy",
+        "uptight",
+        "stubborn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "toss in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to add something extra, often for free",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c08_u015",
+      "answer": "toss in",
+      "options": [
+        "toss in",
+        "take out",
+        "hold back",
+        "cross off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "clear out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a place, especially so that other people can use it",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c08_u013",
+      "answer": "clearing out",
+      "options": [
+        "clearing out",
+        "checking in",
+        "settling in",
+        "filling up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "attention to detail",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "great care in making sure that every small part of something is right",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c12_u006",
+      "answer": "attention to detail",
+      "options": [
+        "attention to detail",
+        "lack of patience",
+        "fear of change",
+        "love of drama"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "outdoorsy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "liking outdoor activities such as camping, hiking, and riding",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c03_u013",
+      "answer": "outdoorsy",
+      "options": [
+        "outdoorsy",
+        "bookish",
+        "clumsy",
+        "snobby"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go first",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be the one who starts, before the others take their turn",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c11_u020",
+      "answer": "go first",
+      "options": [
+        "go first",
+        "go home",
+        "go away",
+        "step back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've heard enough",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you do not need to listen to any more because you are ready to decide or react",
+  "exchanges": [
+    {
+      "uid": "s06_e12_c11_u031",
+      "answer": "I've heard enough",
+      "options": [
+        "I've heard enough",
+        "I've lost track",
+        "I've changed sides",
+        "I've been fooled"
+      ]
+    }
+  ]
 }
 ]

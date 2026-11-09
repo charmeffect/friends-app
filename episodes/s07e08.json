@@ -498,5 +498,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I hate to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used politely before saying something critical or unwelcome",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c02_u014",
+      "answer": "I hate to",
+      "options": [
+        "I hate to",
+        "I used to",
+        "I tried to",
+        "I forgot to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on and off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "with breaks; stopping and starting again over a period of time",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u086",
+      "answer": "On and off",
+      "options": [
+        "On and off",
+        "Over and out",
+        "Odds and ends",
+        "Safe and sound"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a given",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "something so obvious or certain that it does not need to be stated",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c04_u090",
+      "answer": "a given",
+      "options": [
+        "a given",
+        "a gift",
+        "a guess",
+        "a gamble"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the last thing I want",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say strongly that you do not want something at all",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c05_u007",
+      "answer": "the last thing",
+      "options": [
+        "the last thing",
+        "the first thing",
+        "the best thing",
+        "the only thing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "open one's mouth",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to say something, especially something you later regret saying",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u037",
+      "answer": "open my mouth",
+      "options": [
+        "open my mouth",
+        "close my eyes",
+        "raise my hand",
+        "shake my head"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all by oneself",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "completely alone, without anyone's help",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u057",
+      "answer": "all by herself",
+      "options": [
+        "all by herself",
+        "all for herself",
+        "all about herself",
+        "all to herself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the chance",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to have the opportunity to do something",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u069",
+      "answer": "get the chance",
+      "options": [
+        "get the chance",
+        "get the hint",
+        "get the point",
+        "get the message"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "something is going on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "something secret or unusual is happening",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c06_u012",
+      "answer": "going on",
+      "options": [
+        "going on",
+        "going off",
+        "going up",
+        "going by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have someone over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone to come to your home as a guest",
+  "exchanges": [
+    {
+      "uid": "s07_e08_c07_u068",
+      "answer": "having me over",
+      "options": [
+        "having me over",
+        "handing me over",
+        "talking me over",
+        "passing me over"
+      ]
+    }
+  ]
 }
 ]

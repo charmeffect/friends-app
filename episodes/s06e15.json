@@ -480,5 +480,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that's for sure",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used after a statement to stress that it is definitely true",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c01_u019",
+      "answer": "that's for sure",
+      "options": [
+        "that's for sure",
+        "that's for free",
+        "that's for later",
+        "that's for you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shallow",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not interested in serious ideas or deep feelings",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c01_u022",
+      "answer": "shallow",
+      "options": [
+        "shallow",
+        "patient",
+        "modest",
+        "clever"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's an idea",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a suggestion is a good one and worth trying",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c03_u025",
+      "answer": "That's an idea",
+      "options": [
+        "That's an idea",
+        "That's a lie",
+        "That's a shame",
+        "That's a joke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slow down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone or something go or work less quickly",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c05_u004",
+      "answer": "slow it down",
+      "options": [
+        "slow it down",
+        "speed it up",
+        "wrap it up",
+        "mix it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sound familiar",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to seem like something you have heard or experienced before",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c09_u020",
+      "answer": "sounds a little familiar",
+      "options": [
+        "sounds a little familiar",
+        "sounds a little boring",
+        "sounds a little silly",
+        "sounds a little rushed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "side effect",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an extra, usually unwanted effect of a medicine or medical treatment",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c11_u003",
+      "answer": "side effects",
+      "options": [
+        "side effects",
+        "fun facts",
+        "house rules",
+        "price tags"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dry cleaning",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "clothes that are cleaned with chemicals instead of water, usually at a special shop",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c04_u006",
+      "answer": "dry cleaning",
+      "options": [
+        "dry cleaning",
+        "bad habits",
+        "old friends",
+        "last name"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come to the phone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to answer a phone call that someone else has picked up for you",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c11_u013",
+      "answer": "come to the phone",
+      "options": [
+        "come to the phone",
+        "come to the point",
+        "come to her senses",
+        "come to the party"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "thank God",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show relief that something good has happened or something bad has not",
+  "exchanges": [
+    {
+      "uid": "s06_e15_c12_u008",
+      "answer": "Thank God",
+      "options": [
+        "Thank God",
+        "Damn it",
+        "Too bad",
+        "How sad"
+      ]
+    }
+  ]
 }
 ]

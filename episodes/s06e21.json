@@ -494,5 +494,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "in advance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "before something happens",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c01_u005",
+      "answer": "in advance",
+      "options": [
+        "in advance",
+        "in public",
+        "in charge",
+        "in vain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if you must know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, often a little annoyed, before telling someone something they have been curious or nosy about",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c02_u005",
+      "answer": "if you must know",
+      "options": [
+        "if you must know",
+        "if you don't mind",
+        "if you ask me",
+        "as you can see"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I get that a lot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when people often make the same comment or mistake about you",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c04_u032",
+      "answer": "get that a lot",
+      "options": [
+        "get that a lot",
+        "want that a lot",
+        "say that a lot",
+        "miss that a lot"
+      ],
+      "cueUid": "s06_e21_c04_u030"
+    }
+  ]
+},
+
+{
+  "expression": "win someone over",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to persuade someone to like or support you",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c10_u005",
+      "answer": "win over",
+      "options": [
+        "win over",
+        "run over",
+        "give up",
+        "pass over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you wish",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that what they just said is not true and will not happen",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c10_u009",
+      "answer": "you wish",
+      "options": [
+        "you wish",
+        "you bet",
+        "you see",
+        "you know"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "jump at the chance",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to accept an opportunity eagerly and immediately",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c12_u004",
+      "answer": "jump at the chance",
+      "options": [
+        "jump at the chance",
+        "pass up the chance",
+        "blow the chance",
+        "miss the chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a seat",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to sit down, often said as a polite invitation",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c04_u033",
+      "answer": "take a seat",
+      "options": [
+        "take a seat",
+        "take a bow",
+        "take a hint",
+        "take a turn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get acquainted",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to meet someone and begin to know them",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c03_u012",
+      "answer": "get acquainted",
+      "options": [
+        "get acquainted",
+        "get engaged",
+        "get divorced",
+        "get promoted"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "save someone the trouble",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make it unnecessary for someone to do something difficult or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c06_u013",
+      "answer": "save me the trouble",
+      "options": [
+        "save me the trouble",
+        "give me the trouble",
+        "make me the trouble",
+        "cost me the trouble"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a great deal",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very much; to a large degree",
+  "exchanges": [
+    {
+      "uid": "s06_e21_c15_u006",
+      "answer": "a great deal",
+      "options": [
+        "a great deal",
+        "a long way",
+        "a great time",
+        "a close call"
+      ]
+    }
+  ]
 }
 ]

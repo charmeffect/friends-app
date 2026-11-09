@@ -498,5 +498,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I should warn you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before telling someone about a problem or something they will not like",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c01_u020",
+      "answer": "I should warn you",
+      "options": [
+        "I should warn you",
+        "I should thank you",
+        "I should pay you",
+        "I should call you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "would you mind",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way of asking someone to do something",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c10_u019",
+      "answer": "would you mind",
+      "options": [
+        "would you mind",
+        "would you dare",
+        "would you hate",
+        "would you risk"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "flirt",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to behave toward someone in a playful way that shows you are romantically interested",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c03_u016",
+      "answer": "flirting",
+      "options": [
+        "flirting",
+        "sneezing",
+        "bowing",
+        "jogging"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "new in town",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "having recently moved to a place and not knowing many people there yet",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c05_u014",
+      "answer": "new in town",
+      "options": [
+        "new in town",
+        "late for work",
+        "out of shape",
+        "sick of me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for the most part",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "mostly, though not completely",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c15_u005",
+      "answer": "For the most part",
+      "options": [
+        "For the most part",
+        "For the first time",
+        "For a long time",
+        "For no reason"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's settled",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a decision has finally been made and there is nothing more to discuss",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c14_u020",
+      "answer": "it's settled",
+      "options": [
+        "it's settled",
+        "it's broken",
+        "it's empty",
+        "it's frozen"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hell yes",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a very strong, informal way of saying yes",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c14_u019",
+      "answer": "Hell yes",
+      "options": [
+        "Hell yes",
+        "Hell no",
+        "Oh well",
+        "No way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "FYI",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "for your information; used to introduce a fact you think the listener should know",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c13_u005",
+      "answer": "F.Y.I",
+      "options": [
+        "F.Y.I",
+        "A.S.A.P",
+        "R.S.V.P",
+        "P.T.A"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm right here",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to complain that people are talking about you as if you were not there",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c10_u018",
+      "answer": "I'm right here",
+      "options": [
+        "I'm right here",
+        "I'm over there",
+        "I'm not hungry",
+        "I'm almost done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back to work",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you are returning to your job or task after a break",
+  "exchanges": [
+    {
+      "uid": "s07_e05_c03_u019",
+      "answer": "back to work",
+      "options": [
+        "back to work",
+        "off to bed",
+        "out of time",
+        "on the way"
+      ]
+    }
+  ]
 }
 ]

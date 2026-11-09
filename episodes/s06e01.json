@@ -510,5 +510,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "buffet",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a meal where people serve themselves from food laid out on a table",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u021",
+      "answer": "buffet",
+      "options": [
+        "buffet",
+        "diner",
+        "café",
+        "steakhouse"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "marriage material",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who would be a suitable husband or wife",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u028",
+      "answer": "marriage material",
+      "options": [
+        "marriage material",
+        "party material",
+        "office material",
+        "prize material"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on vacation",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "away from work or home for a holiday",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c03_u061",
+      "answer": "on vacation",
+      "options": [
+        "on vacation",
+        "on duty",
+        "on trial",
+        "on hold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds great",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to accept a suggestion or show you like a plan",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c04_u009",
+      "answer": "Sounds great",
+      "options": [
+        "Sounds great",
+        "Sounds illegal",
+        "Sounds boring",
+        "Sounds hopeless"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rest stop",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a place beside a highway where drivers can stop to rest, eat, or use the toilet",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c05_u004",
+      "answer": "rest stop",
+      "options": [
+        "rest stop",
+        "dead end",
+        "price tag",
+        "time zone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "selfish",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "caring only about yourself and not about other people",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c05_u006",
+      "answer": "selfish",
+      "options": [
+        "selfish",
+        "generous",
+        "modest",
+        "polite"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hitchhiker",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person who travels by getting free rides in other people's cars",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c09_u002",
+      "answer": "hitchhiker",
+      "options": [
+        "hitchhiker",
+        "pickpocket",
+        "bartender",
+        "landlord"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "resist",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop yourself from giving in to something you find very attractive",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c11_u008",
+      "answer": "resist",
+      "options": [
+        "resist",
+        "record",
+        "measure",
+        "borrow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "road trip",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a long journey made by car, usually for fun",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c11_u009",
+      "answer": "road trip",
+      "options": [
+        "road trip",
+        "night shift",
+        "price tag",
+        "side street"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "quite the",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used before a noun to say someone is a remarkable example of something, often sarcastically",
+  "exchanges": [
+    {
+      "uid": "s06_e01_c14_u009",
+      "answer": "quite the",
+      "options": [
+        "quite the",
+        "hardly the",
+        "never the",
+        "barely the"
+      ]
+    }
+  ]
 }
 ]

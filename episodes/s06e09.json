@@ -528,5 +528,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "leave someone alone",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop bothering, criticizing, or interfering with someone",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c06_u003",
+      "answer": "leave him alone",
+      "options": [
+        "leave him alone",
+        "leave him behind",
+        "leave him out",
+        "leave him early"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just kidding",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that what you just said or did was a joke",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u032",
+      "answer": "just kidding",
+      "options": [
+        "just kidding",
+        "just leaving",
+        "just starving",
+        "just guessing"
+      ],
+      "cueUid": "s06_e09_c07_u030"
+    }
+  ]
+},
+
+{
+  "expression": "start over",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to begin something again from the beginning",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u087",
+      "answer": "start all over",
+      "options": [
+        "start all over",
+        "run all over",
+        "spill all over",
+        "sleep all over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're killing me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something someone is doing or saying is almost too much for you to bear",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u069",
+      "answer": "killin' us",
+      "options": [
+        "killin' us",
+        "helpin' us",
+        "savin' us",
+        "lovin' us"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rough",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "difficult and unpleasant to live with or deal with",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u021",
+      "answer": "rough",
+      "options": [
+        "rough",
+        "festive",
+        "cheerful",
+        "relaxing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be beyond someone",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to be impossible for someone to understand",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u108",
+      "answer": "beyond me",
+      "options": [
+        "beyond me",
+        "behind me",
+        "before me",
+        "below me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "act like",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to behave as if something were true when it is not",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c07_u005",
+      "answer": "act like",
+      "options": [
+        "act like",
+        "wish that",
+        "forget that",
+        "doubt that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what is up with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "what is wrong with; why is (something) behaving strangely",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u082",
+      "answer": "What is up",
+      "options": [
+        "What is up",
+        "What is new",
+        "What is left",
+        "What is next"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a reflection on",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something that shows the good or bad qualities of the person responsible for it",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u064",
+      "answer": "reflection",
+      "options": [
+        "reflection",
+        "punishment",
+        "distraction",
+        "celebration"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sneak",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do or take something secretly so that nobody notices",
+  "exchanges": [
+    {
+      "uid": "s06_e09_c03_u077",
+      "answer": "sneak",
+      "options": [
+        "sneak",
+        "spill",
+        "skip",
+        "miss"
+      ]
+    }
+  ]
 }
 ]

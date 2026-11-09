@@ -510,5 +510,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "check on",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to look at or contact someone to make sure they are safe and well",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c07_u006",
+      "answer": "check on",
+      "options": [
+        "check on",
+        "count on",
+        "pick on",
+        "hold on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's cool",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that you accept something and it is fine with you",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c15_u007",
+      "answer": "that's cool",
+      "options": [
+        "that's cool",
+        "that's awful",
+        "that's illegal",
+        "that's impossible"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "move up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to change a planned event to an earlier date or time",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c11_u006",
+      "answer": "move up",
+      "options": [
+        "move up",
+        "give up",
+        "make up",
+        "wrap up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put one's name down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to add your name to a list in order to reserve or apply for something",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c03_u021",
+      "answer": "put your name down",
+      "options": [
+        "put your name down",
+        "take your name off",
+        "keep your name out",
+        "cross your name out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "are you crazy",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you think someone's suggestion is foolish or unreasonable",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c03_u022",
+      "answer": "Are you crazy",
+      "options": [
+        "Are you crazy",
+        "Are you hungry",
+        "Are you ready",
+        "Are you done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's for sure",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used after a statement to stress that it is definitely true",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c11_u010",
+      "answer": "that's for sure",
+      "options": [
+        "that's for sure",
+        "that's for later",
+        "that's for free",
+        "that's for kids"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a little talk",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a serious private conversation with someone, often to criticize or warn them",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c13_u010",
+      "answer": "have a little talk",
+      "options": [
+        "have a little talk",
+        "have a little party",
+        "take a little nap",
+        "grab a little snack"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "waiting list",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a list of people who have asked for something that is not available yet and must wait their turn",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c03_u020",
+      "answer": "waiting list",
+      "options": [
+        "waiting list",
+        "shopping list",
+        "price list",
+        "guest book"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as soon as possible",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "as quickly as you can; at the earliest possible moment",
+  "exchanges": [
+    {
+      "uid": "s06_e22_c10_u003",
+      "answer": "as soon as possible",
+      "options": [
+        "as soon as possible",
+        "as late as possible",
+        "as rarely as possible",
+        "as slowly as possible"
+      ]
+    }
+  ]
 }
 ]

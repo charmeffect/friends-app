@@ -524,5 +524,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "rumor has it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "people are saying that something is true, although it may not be confirmed",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c02_u008",
+      "answer": "rumor has it",
+      "options": [
+        "rumor has it",
+        "legend says",
+        "science says",
+        "history shows"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't even ask",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is too strange, unpleasant, or annoying to talk about",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c01_u012",
+      "answer": "don't even ask",
+      "options": [
+        "don't even ask",
+        "don't even care",
+        "don't even try",
+        "don't even lie"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shed a tear",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to cry, even just a little, because you feel sad",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c07_u020",
+      "answer": "shed a tear",
+      "options": [
+        "shed a tear",
+        "crack a joke",
+        "break a sweat",
+        "pay a bill"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're just saying that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when you think someone is being kind or polite rather than saying what they really believe",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c04_u009",
+      "answer": "You're just saying that",
+      "options": [
+        "You're just saying that",
+        "You're just hearing that",
+        "You're just reading that",
+        "You're just making that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have no right to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to not be entitled or allowed to do something",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c05_u020",
+      "answer": "no right",
+      "options": [
+        "no right",
+        "no wish",
+        "no chance",
+        "no plan"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "brat",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a spoiled person, especially a child, who behaves badly and expects to get everything",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c05_u023",
+      "answer": "brat",
+      "options": [
+        "brat",
+        "saint",
+        "genius",
+        "coward"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "question mark",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person or thing that is mysterious or hard to understand or predict",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c06_u022",
+      "answer": "question mark",
+      "options": [
+        "question mark",
+        "sore loser",
+        "party animal",
+        "team player"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bizarre",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "very strange and unusual",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c06_u023",
+      "answer": "bizarre",
+      "options": [
+        "bizarre",
+        "boring",
+        "typical",
+        "normal"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hard to tell",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "difficult to know or judge for certain",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c06_u044",
+      "answer": "hard to tell",
+      "options": [
+        "hard to tell",
+        "easy to see",
+        "nice to know",
+        "fun to watch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good listener",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "someone who pays attention and listens carefully when other people talk about their problems",
+  "exchanges": [
+    {
+      "uid": "s06_e14_c10_u010",
+      "answer": "good listener",
+      "options": [
+        "good listener",
+        "bad liar",
+        "big spender",
+        "slow learner"
+      ]
+    }
+  ]
 }
 ]

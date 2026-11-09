@@ -532,5 +532,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what can I say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when you cannot really explain or excuse something, or have nothing more to add",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c03_u005",
+      "answer": "What can I say",
+      "options": [
+        "What can I say",
+        "What did I do",
+        "Where was I",
+        "Who am I"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be realistic",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think about what is actually possible rather than what you hope for",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c05_u004",
+      "answer": "be realistic",
+      "options": [
+        "be realistic",
+        "be romantic",
+        "be generous",
+        "be punctual"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "know better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be wise or experienced enough not to do something wrong or foolish",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c09_u007",
+      "answer": "know better",
+      "options": [
+        "know better",
+        "know nothing",
+        "feel better",
+        "look better"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in fact",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to add something that supports or goes further than what you have just said",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c11_u018",
+      "answer": "In fact",
+      "options": [
+        "In fact",
+        "In vain",
+        "At random",
+        "By chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep going",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to continue doing something without stopping",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c16_u023",
+      "answer": "Keep going",
+      "options": [
+        "Keep going",
+        "Let go",
+        "Hold still",
+        "Back off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give up on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop hoping for or trying to achieve something",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c16_u026",
+      "answer": "give up on",
+      "options": [
+        "give up on",
+        "catch up on",
+        "make up for",
+        "run out on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have someone's interest at heart",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to want what is best for someone and act for their benefit",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c16_u019",
+      "answer": "at heart",
+      "options": [
+        "at heart",
+        "on hold",
+        "by heart",
+        "in vain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be close with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have a warm, friendly relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c15_u010",
+      "answer": "close with",
+      "options": [
+        "close with",
+        "famous for",
+        "married to",
+        "allergic to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tear up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to rip something into small pieces",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c16_u007",
+      "answer": "tore up",
+      "options": [
+        "tore up",
+        "gave up",
+        "stood up",
+        "dressed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "later on",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "at a time after the present or after the time being talked about",
+  "exchanges": [
+    {
+      "uid": "s05_e10_c02_u006",
+      "answer": "later on",
+      "options": [
+        "later on",
+        "long ago",
+        "so far",
+        "once again"
+      ]
+    }
+  ]
 }
 ]

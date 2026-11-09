@@ -502,5 +502,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "drunk with power",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "so excited by having power that you start to use it too much or behave badly",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c07_u006",
+      "answer": "drunk with power",
+      "options": [
+        "drunk with power",
+        "scared of heights",
+        "low on cash",
+        "out of shape"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "next best thing",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the thing that is almost as good as the one you really want but cannot have",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c10_u005",
+      "answer": "next best thing",
+      "options": [
+        "next best thing",
+        "last straw",
+        "same old thing",
+        "final word"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "worth the wait",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "good enough to justify the long time spent waiting",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c09_u019",
+      "answer": "worth the wait",
+      "options": [
+        "worth the wait",
+        "off the hook",
+        "out of reach",
+        "past the point"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "follow my lead",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "do what I do and copy my movements",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c10_u015",
+      "answer": "follow my lead",
+      "options": [
+        "follow my lead",
+        "cross my heart",
+        "break my fall",
+        "read my mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep count",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep a record of how many times something happens",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c04_u031",
+      "answer": "kept count",
+      "options": [
+        "kept count",
+        "kept quiet",
+        "kept calm",
+        "kept going"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sorry for your loss",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite formula used to express sympathy to someone whose friend or relative has died",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c08_u019",
+      "answer": "sorry for his loss",
+      "options": [
+        "sorry for his loss",
+        "proud of his win",
+        "tired of his jokes",
+        "glad about his news"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fugitive",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who is running away or hiding from the police",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c12_u015",
+      "answer": "fugitive",
+      "options": [
+        "fugitive",
+        "landlord",
+        "customer",
+        "volunteer"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freakishly",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "to a degree that is strange or abnormal",
+  "exchanges": [
+    {
+      "uid": "s05_e16_c10_u008",
+      "answer": "freakishly",
+      "options": [
+        "freakishly",
+        "hardly",
+        "politely",
+        "rarely"
+      ]
+    }
+  ]
 }
 ]

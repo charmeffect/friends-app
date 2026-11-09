@@ -501,5 +501,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "the way I see it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce your personal opinion about a situation",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c03_u019",
+      "answer": "see it",
+      "options": [
+        "see it",
+        "fix it",
+        "sell it",
+        "bake it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if you ask me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before giving your own opinion",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c05_u008",
+      "answer": "If you ask me",
+      "options": [
+        "If you ask me",
+        "If you're hungry",
+        "If you hurry",
+        "If it rains"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "open someone's eyes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make someone realize the truth about something they had not understood",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c03_u016",
+      "answer": "open your eyes",
+      "options": [
+        "open your eyes",
+        "close your mouth",
+        "hold your breath",
+        "wash your hands"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have doubts",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel unsure whether something is right or a good idea",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c07_u019",
+      "answer": "having doubts",
+      "options": [
+        "having doubts",
+        "having fun",
+        "having lunch",
+        "having twins"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "anything but",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "definitely not; the opposite of",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c12_u006",
+      "answer": "anything but",
+      "options": [
+        "anything but",
+        "proud to be",
+        "born to be",
+        "happy as"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "close in on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to get nearer and nearer to a goal, number, or place",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c09_u003",
+      "answer": "closing in on",
+      "options": [
+        "closing in on",
+        "giving up on",
+        "running out of",
+        "falling behind on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "eventually",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at a later time, after a long period or a series of events",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c06_u043",
+      "answer": "eventually",
+      "options": [
+        "eventually",
+        "previously",
+        "yesterday",
+        "lately"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what good would it do",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that doing something would probably not help",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c01_u036",
+      "answer": "good",
+      "options": [
+        "good",
+        "time",
+        "kind",
+        "size"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "too soon",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "earlier than is sensible or right",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c03_u023",
+      "answer": "too soon",
+      "options": [
+        "too soon",
+        "too loud",
+        "too cheap",
+        "too wet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that something does not matter to you or will not change your mind",
+  "exchanges": [
+    {
+      "uid": "s05_e21_c02_u040",
+      "answer": "I don't care",
+      "options": [
+        "I don't care",
+        "I don't remember",
+        "I don't believe",
+        "I don't understand"
+      ]
+    }
+  ]
 }
 ]

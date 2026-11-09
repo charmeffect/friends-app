@@ -420,5 +420,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "kick some ass",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to act forcefully and physically against people who are causing trouble",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c09_u037",
+      "answer": "kick some ass",
+      "options": [
+        "kick some ass",
+        "save some face",
+        "lend some hand",
+        "take some heat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ramble on",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to talk or write at great length in a confused or boring way",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c09_u018",
+      "answer": "rambled on",
+      "options": [
+        "rambled on",
+        "signed off",
+        "held back",
+        "cut out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big break",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a sudden lucky opportunity that leads to success, especially in a career",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c03_u018",
+      "answer": "big break",
+      "options": [
+        "big break",
+        "close call",
+        "bad call",
+        "low blow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so over",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "completely finished, used especially about a relationship that has ended",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c09_u019",
+      "answer": "so over",
+      "options": [
+        "so over",
+        "so close",
+        "so ready",
+        "so lucky"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fool",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to trick someone into believing something that is not true",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c04_u008",
+      "answer": "fool",
+      "options": [
+        "fool",
+        "wake",
+        "miss",
+        "hire"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fake out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a trick that makes someone believe something false for a moment",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c11_u013",
+      "answer": "fake out",
+      "options": [
+        "fake out",
+        "check in",
+        "sign up",
+        "warm up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "please tell me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you very much hope something is true",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c11_u003",
+      "answer": "Please tell me",
+      "options": [
+        "Please tell me",
+        "Don't ask me",
+        "Never tell me",
+        "Please ask me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "over the line",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "beyond what is acceptable behaviour",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c08_u026",
+      "answer": "over the line",
+      "options": [
+        "over the line",
+        "on the house",
+        "off the hook",
+        "by the book"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "have someone over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone to come to your home as a guest",
+  "exchanges": [
+    {
+      "uid": "s06_e20_c07_u002",
+      "answer": "have you over",
+      "options": [
+        "have you over",
+        "hand you over",
+        "turn you over",
+        "pass you over"
+      ]
+    }
+  ]
 }
 ]
