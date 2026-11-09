@@ -528,5 +528,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "just so I know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when asking for information so that you can be prepared",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c02_u026",
+      "answer": "Just so I know",
+      "options": [
+        "Just so I know",
+        "Just in case",
+        "Just my luck",
+        "Just for fun"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see something coming",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to expect or predict that something will happen",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c12_u019",
+      "answer": "see this coming",
+      "options": [
+        "see this coming",
+        "write this down",
+        "turn this off",
+        "bring this up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on some level",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to some degree, often in a way you do not fully admit to yourself",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c06_u017",
+      "answer": "on some level",
+      "options": [
+        "on some level",
+        "on the house",
+        "at first sight",
+        "in the end"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sneak around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to meet or do something secretly so that other people do not find out",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c12_u008",
+      "answer": "sneaking around",
+      "options": [
+        "sneaking around",
+        "showing off",
+        "settling down",
+        "giving up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "off the hook",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "of a phone, with the receiver lifted so that no calls can come through",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c09_u005",
+      "answer": "off the hook",
+      "options": [
+        "off the hook",
+        "on the house",
+        "over the moon",
+        "up for grabs"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "problem solved",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when a difficulty has just been dealt with and nothing more needs to be done",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c07_u023",
+      "answer": "Problem solved",
+      "options": [
+        "Problem solved",
+        "Time's up",
+        "Game over",
+        "Bad luck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to understand the main idea someone is trying to make",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c02_u033",
+      "answer": "gets the point",
+      "options": [
+        "gets the point",
+        "loses the plot",
+        "makes the cut",
+        "misses the bus"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "claw your way back",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to return to a place or position through great effort and determination",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c10_u006",
+      "answer": "clawed her way back",
+      "options": [
+        "clawed her way back",
+        "talked her way out",
+        "paid her way through",
+        "lost her way home"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just like old times",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a situation feels pleasantly like it did in the past",
+  "exchanges": [
+    {
+      "uid": "s10_e03_c08_u018",
+      "answer": "just like old times",
+      "options": [
+        "just like old times",
+        "just a total waste",
+        "just about time",
+        "just bad timing"
+      ]
+    }
+  ]
 }
 ]

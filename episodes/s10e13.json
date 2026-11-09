@@ -479,5 +479,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "any second",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very soon; at any moment now",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c04_u020",
+      "answer": "any second",
+      "options": [
+        "any second",
+        "last night",
+        "years ago",
+        "so far"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's new",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of asking someone what has been happening in their life",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c04_u024",
+      "answer": "what's new",
+      "options": [
+        "what's new",
+        "what's left",
+        "what's next",
+        "what's done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "first thing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very early, before doing anything else",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c06_u021",
+      "answer": "first thing",
+      "options": [
+        "first thing",
+        "last time",
+        "next door",
+        "right away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "other than that",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "apart from the thing just mentioned",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c07_u019",
+      "answer": "other than that",
+      "options": [
+        "other than that",
+        "because of that",
+        "after all that",
+        "instead of that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for one thing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to give the first of several reasons for something",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c08_u014",
+      "answer": "For one thing",
+      "responseUid": null,
+      "options": [
+        "For one thing",
+        "For a change",
+        "For a while",
+        "For good"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's a shame",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are sorry or disappointed about something",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c12_u008",
+      "answer": "It's a shame",
+      "options": [
+        "It's a shame",
+        "It's a relief",
+        "It's a deal",
+        "It's a joke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no matter how",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is true whatever the degree or amount",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c12_u019",
+      "answer": "No matter how",
+      "options": [
+        "No matter how",
+        "Not sure how",
+        "No idea how",
+        "Just like how"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big girl",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a woman who is grown-up enough to look after herself and make her own decisions",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c09_u018",
+      "answer": "big girl",
+      "options": [
+        "big girl",
+        "new girl",
+        "bad girl",
+        "lucky girl"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pass by",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go past a place on your way somewhere else",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c11_u008",
+      "answer": "passing by",
+      "options": [
+        "passing by",
+        "giving up",
+        "calling in",
+        "running out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the part",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be chosen to play a role in a play, film, or show",
+  "exchanges": [
+    {
+      "uid": "s10_e13_c08_u012",
+      "answer": "get the part",
+      "options": [
+        "get the part",
+        "miss the bus",
+        "pay the bill",
+        "break the rules"
+      ]
+    }
+  ]
 }
 ]

@@ -505,5 +505,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "big surprise",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically to mean that something is not surprising at all",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c01_u010",
+      "answer": "big surprise",
+      "options": [
+        "big surprise",
+        "big mistake",
+        "good question",
+        "bad timing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here's to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when raising a glass to drink in honour of someone or something",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c01_u012",
+      "answer": "Here's to",
+      "options": [
+        "Here's to",
+        "Here's why",
+        "Shame on",
+        "Sorry about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "little black book",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a private list of the phone numbers of people you have dated or might date",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c01_u016",
+      "answer": "little black book",
+      "options": [
+        "little black book",
+        "little white lie",
+        "big blue folder",
+        "old photo album"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "venture a guess",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to offer a guess even though you are not sure of the answer",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c09_u009",
+      "answer": "venture a guess",
+      "options": [
+        "venture a guess",
+        "place an order",
+        "take a seat",
+        "make a speech"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me stop you right there",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to interrupt someone because you disagree or think they have made a mistake",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c10_u006",
+      "answer": "stop you right there",
+      "options": [
+        "stop you right there",
+        "walk you right home",
+        "call you right back",
+        "see you right now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "legend has it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to introduce a story that people tell, which may not be true",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c13_u010",
+      "answer": "legend has it",
+      "options": [
+        "legend has it",
+        "time will tell",
+        "money talks",
+        "seeing is believing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "two can play at that game",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you plan to treat someone in the same unfair way they have treated you",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c13_u014",
+      "answer": "play at this game",
+      "options": [
+        "play at this game",
+        "sleep in this bed",
+        "fit in this car",
+        "live in this house"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fight over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to argue or compete with someone in order to get something",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c13_u026",
+      "answer": "fight over",
+      "options": [
+        "fight over",
+        "bump into",
+        "show off",
+        "pick on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's not the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when the conversation has moved away from the important issue",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c14_u002",
+      "answer": "That's not the point",
+      "options": [
+        "That's not the point",
+        "That's not my problem",
+        "That's not a lie",
+        "That's not too bad"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's it gonna take",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask what you must do to make someone agree or do something",
+  "exchanges": [
+    {
+      "uid": "s10_e06_c14_u003",
+      "answer": "What's it gonna take",
+      "options": [
+        "What's it gonna take",
+        "Where's it gonna go",
+        "Who's it gonna hurt",
+        "When's it gonna end"
+      ]
+    }
+  ]
 }
 ]

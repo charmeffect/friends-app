@@ -507,5 +507,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "vanish",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to disappear suddenly and completely, often in a way that cannot be explained",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c01_u022",
+      "answer": "vanished",
+      "options": [
+        "vanished",
+        "sneezed",
+        "giggled",
+        "apologized"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we're all in this together",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to mean that everyone is sharing the same situation and should support each other",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u108",
+      "answer": "in this together",
+      "options": [
+        "in this together",
+        "out of the loop",
+        "on the way",
+        "in the mood"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put an end to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make something stop happening",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c02_u134",
+      "answer": "putting an end to",
+      "options": [
+        "putting an end to",
+        "taking a look at",
+        "having a word with",
+        "paying a visit to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as a matter of fact",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to add a detail that supports or goes further than what was just said",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u006",
+      "answer": "matter of fact",
+      "options": [
+        "matter of fact",
+        "rule of thumb",
+        "point of view",
+        "piece of cake"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "related to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "belonging to the same family as someone",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u018",
+      "answer": "related to",
+      "options": [
+        "related to",
+        "allergic to",
+        "addicted to",
+        "opposed to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "while you're at it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "while you are already doing something, so it is easy to do this extra thing too",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u053",
+      "answer": "while you're at it",
+      "options": [
+        "while you're at it",
+        "since you're so tired",
+        "unless you're too scared",
+        "because you're so rich"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you won't regret it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to promise someone that they made a good decision in choosing or trusting you",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u067",
+      "answer": "regret",
+      "options": [
+        "regret",
+        "remember",
+        "notice",
+        "afford"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rip someone's heart out",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to hurt someone very badly, often said as an angry, exaggerated threat",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u078",
+      "answer": "rip your heart",
+      "options": [
+        "rip your heart",
+        "cut your hair",
+        "read your mind",
+        "buy your lunch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stare at",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at someone or something for a long time without moving your eyes",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c04_u005",
+      "answer": "staring at",
+      "options": [
+        "staring at",
+        "listening to",
+        "waiting for",
+        "worrying about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sophistication",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the quality of having refined taste and knowledge of culture and social behavior",
+  "exchanges": [
+    {
+      "uid": "s09_e18_c03_u066",
+      "answer": "sophistication",
+      "options": [
+        "sophistication",
+        "clumsiness",
+        "laziness",
+        "rudeness"
+      ]
+    }
+  ]
 }
 ]

@@ -509,5 +509,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "take the time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make the effort to spend time doing something for someone",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u029",
+      "answer": "taking the time",
+      "options": [
+        "taking the time",
+        "killing the time",
+        "losing the time",
+        "passing the time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ground to cover",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a large distance, area, or amount of material that still has to be gone through",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u036",
+      "answer": "ground to cover",
+      "options": [
+        "ground to cover",
+        "time to kill",
+        "room to spare",
+        "food to eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big boy",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an adult man who can take care of himself and handle disappointment",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u042",
+      "answer": "big boy",
+      "options": [
+        "big boy",
+        "small fry",
+        "sore loser",
+        "bad sport"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pretty sure",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "fairly certain, though not completely",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c02_u039",
+      "answer": "pretty sure",
+      "options": [
+        "pretty sure",
+        "pretty tired",
+        "pretty late",
+        "pretty busy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nothing major",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "nothing serious or important; only a small problem",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c10_u016",
+      "answer": "nothing major",
+      "options": [
+        "nothing major",
+        "nothing doing",
+        "no wonder",
+        "never mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the dirt",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "gossip or secret, often scandalous information about someone",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c08_u023",
+      "answer": "the dirt",
+      "options": [
+        "the dirt",
+        "the bill",
+        "the change",
+        "the keys"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "compete with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to try to be as good as or better than others",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c08_u039",
+      "answer": "compete with",
+      "options": [
+        "compete with",
+        "agree with",
+        "stay with",
+        "play with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come first",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be more important than anything else",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c03_u006",
+      "answer": "comes first",
+      "options": [
+        "comes first",
+        "goes last",
+        "runs late",
+        "falls short"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "intermission",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a short break between the parts of a play, concert, or film",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c09_u001",
+      "answer": "intermission",
+      "options": [
+        "intermission",
+        "admission",
+        "commission",
+        "submission"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "glad you could make it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to welcome a guest and show you are pleased they came",
+  "exchanges": [
+    {
+      "uid": "s09_e20_c06_u001",
+      "answer": "could make it",
+      "options": [
+        "could make it",
+        "had to leave",
+        "were so late",
+        "got lost again"
+      ]
+    }
+  ]
 }
 ]

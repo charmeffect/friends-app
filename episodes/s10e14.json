@@ -508,5 +508,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "have someone over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to invite someone to come to your home as a guest",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u001",
+      "answer": "having us over",
+      "options": [
+        "having us over",
+        "leaving us out",
+        "turning us down",
+        "handing us over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what are the odds",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something very unlikely has happened, often sarcastically",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u021",
+      "answer": "What are the odds",
+      "options": [
+        "What are the odds",
+        "What are the rules",
+        "What are the plans",
+        "What are the costs"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "seconds",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a second serving of food after you have finished the first",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c01_u016",
+      "answer": "seconds",
+      "options": [
+        "seconds",
+        "refunds",
+        "lessons",
+        "tickets"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shotgun",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "shouted to claim the front passenger seat of a car before anyone else does",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c02_u021",
+      "answer": "SHOTGUN",
+      "options": [
+        "Shotgun",
+        "Jackpot",
+        "Bingo",
+        "Cheers"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whatever happened to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask, often with regret, why something no longer happens or exists",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c03_u023",
+      "answer": "happened to",
+      "options": [
+        "happened to",
+        "belonged to",
+        "added up to",
+        "led up to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for that matter",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used to say that what you have just said is also true of something else",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c06_u015",
+      "answer": "for that matter",
+      "options": [
+        "for that matter",
+        "for a change",
+        "for a living",
+        "for no reason"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a hard time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to experience difficulty with something",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c06_u016",
+      "answer": "having a hard time",
+      "options": [
+        "having a hard time",
+        "paying a high price",
+        "running a tight ship",
+        "winning a big prize"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no longer",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "not anymore; used to say that a situation has ended",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c07_u006",
+      "answer": "no longer",
+      "options": [
+        "no longer",
+        "no doubt",
+        "all along",
+        "at least"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so what if",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something does not matter, even if it is true",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c12_u008",
+      "answer": "So what if",
+      "options": [
+        "So what if",
+        "Not until",
+        "Ever since",
+        "Only if"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take time off",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stay away from work for a period",
+  "exchanges": [
+    {
+      "uid": "s10_e14_c09_u016",
+      "answer": "take some time off",
+      "options": [
+        "take some time off",
+        "make some calls back",
+        "put some weight on",
+        "get some sleep in"
+      ]
+    }
+  ]
 }
 ]

@@ -489,5 +489,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that'll do it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to agree that something would certainly cause the result just mentioned",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c01_u014",
+      "answer": "that'll do it",
+      "options": [
+        "that'll do it",
+        "that'll cost you",
+        "that'll be all",
+        "that'll teach you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "perfect for each other",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "so well suited as a couple that the relationship seems ideal",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c02_u009",
+      "answer": "perfect for each other",
+      "options": [
+        "perfect for each other",
+        "allergic to each other",
+        "unknown to each other",
+        "rude to each other"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rule out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide that someone or something is not possible or suitable",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c08_u009",
+      "answer": "rule out",
+      "options": [
+        "rule out",
+        "hand out",
+        "print out",
+        "wipe out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hunt down",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to search for someone determinedly until you find them",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c09_u002",
+      "answer": "hunt you down",
+      "options": [
+        "hunt you down",
+        "calm you down",
+        "turn you down",
+        "write you down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pretty soon",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "before long; in the near future",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c09_u013",
+      "answer": "pretty soon",
+      "options": [
+        "pretty soon",
+        "pretty much",
+        "pretty well",
+        "pretty often"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one way or another",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "by some means, whatever happens; used to say something will definitely happen",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c12_u010",
+      "answer": "one way or another",
+      "options": [
+        "one way or another",
+        "every now and then",
+        "all of a sudden",
+        "more or less"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just as well",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something turns out not to matter, or is even lucky, given the situation",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c14_u004",
+      "answer": "just as well",
+      "options": [
+        "just as well",
+        "just in case",
+        "just a minute",
+        "just for fun"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good to know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you have noted some information, often dryly when the information is unwelcome",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c14_u005",
+      "answer": "good to know",
+      "options": [
+        "good to know",
+        "hard to say",
+        "easy to fix",
+        "fun to watch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what are the chances",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something happens that seemed very unlikely",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c15_u002",
+      "answer": "What are the chances",
+      "options": [
+        "What are the chances",
+        "What are the rules",
+        "Where are the menus",
+        "Who are the waiters"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on my way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "in the process of going somewhere",
+  "exchanges": [
+    {
+      "uid": "s09_e14_c11_u013",
+      "answer": "on my way",
+      "options": [
+        "on my way",
+        "in my room",
+        "off my diet",
+        "on the phone"
+      ]
+    }
+  ]
 }
 ]

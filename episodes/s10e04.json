@@ -477,5 +477,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "take a hint",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to understand something that is suggested indirectly, such as that you are not wanted",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c01_u004",
+      "answer": "take a hint",
+      "options": [
+        "take a hint",
+        "take a nap",
+        "keep a secret",
+        "break a rule"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "settle down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start living a quiet, steady life, usually with one partner",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u021",
+      "answer": "settling down",
+      "options": [
+        "settling down",
+        "showing off",
+        "cracking up",
+        "freaking out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how was I supposed to know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to defend yourself when you did not know something you were expected to know",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u026",
+      "answer": "supposed to know",
+      "options": [
+        "supposed to know",
+        "allowed to stay",
+        "asked to help",
+        "told to wait"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that there is no good reason to do or have something",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u028",
+      "answer": "What's the point",
+      "options": [
+        "What's the point",
+        "What's the time",
+        "What's your name",
+        "Where's the cake"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up all night",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "awake for the whole night instead of sleeping",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u032",
+      "answer": "up all night",
+      "options": [
+        "up all night",
+        "out all day",
+        "down all week",
+        "in all morning"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get this party started",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to begin the fun or the main activity of an event",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c02_u067",
+      "answer": "get this party started",
+      "options": [
+        "get this party started",
+        "call this party off",
+        "keep this party quiet",
+        "end this party now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get comfortable",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to relax and settle in because you will be staying somewhere for a while",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u050",
+      "answer": "get comfortable",
+      "options": [
+        "get comfortable",
+        "get lost",
+        "get moving",
+        "get dressed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on your mark",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell people to get into position at the start of a race",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u099",
+      "answer": "on your mark",
+      "options": [
+        "on your mark",
+        "on the house",
+        "in your dreams",
+        "at your service"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's my girl",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to praise a girl or woman you feel proud of",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u133",
+      "answer": "That's my girl",
+      "options": [
+        "That's my girl",
+        "That's my seat",
+        "That's my line",
+        "That's my car"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't care",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that something does not matter to you or will not change your mind",
+  "exchanges": [
+    {
+      "uid": "s10_e04_c03_u150",
+      "answer": "I don't care",
+      "options": [
+        "I don't care",
+        "I'm still upset",
+        "I'll never forget",
+        "It really hurts"
+      ]
+    }
+  ]
 }
 ]

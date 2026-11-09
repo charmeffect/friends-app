@@ -502,5 +502,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "sounds about right",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something is what you expected or seems correct",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c04_u019",
+      "answer": "sounds about right",
+      "options": [
+        "sounds about right",
+        "seems very unfair",
+        "feels too cold",
+        "looks really expensive"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "more often than not",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "in most cases; usually",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c06_u008",
+      "answer": "more often than not",
+      "options": [
+        "more often than not",
+        "out of the blue",
+        "on the other hand",
+        "at the last minute"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lose interest",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop being interested in something",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c06_u007",
+      "answer": "lose interest",
+      "options": [
+        "lose interest",
+        "lose weight",
+        "lose money",
+        "lose count"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "first impression",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the opinion people form of you when they meet you for the first time",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c03_u007",
+      "answer": "first impressions",
+      "options": [
+        "first impressions",
+        "job interviews",
+        "old photos",
+        "lucky guesses"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pompous",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "acting as if you are more important or clever than other people",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c03_u021",
+      "answer": "pompous",
+      "options": [
+        "pompous",
+        "punctual",
+        "generous",
+        "gullible"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "new leaf",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a fresh start in which you decide to behave better than before (from 'turn over a new leaf')",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c03_u009",
+      "answer": "new leaf",
+      "options": [
+        "new leaf",
+        "new shoes",
+        "new low",
+        "new phone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "revolve around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have something as the main focus or most important part",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c11_u002",
+      "answer": "revolve around",
+      "options": [
+        "revolve around",
+        "turn against",
+        "break into",
+        "run into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to express surprise, often sarcastically, at something you have just noticed",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c12_u019",
+      "answer": "what do you know",
+      "options": [
+        "what do you know",
+        "what do you mean",
+        "what do you say",
+        "how do you do"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'll let you know",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to promise to tell someone about something when you find out",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c12_u033",
+      "answer": "I'll let you know",
+      "options": [
+        "I'll let you know",
+        "I'll let you down",
+        "I'll see you out",
+        "I'll make you dinner"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're welcome",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said in reply to thanks, or, before anyone has thanked you, to claim credit for a favor",
+  "exchanges": [
+    {
+      "uid": "s09_e12_c09_u002",
+      "answer": "you're welcome",
+      "options": [
+        "you're welcome",
+        "you're invited",
+        "you're excused",
+        "you're forgiven"
+      ]
+    }
+  ]
 }
 ]

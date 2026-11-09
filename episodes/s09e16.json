@@ -501,5 +501,216 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "be inclined to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to tend to think or want to do something",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c01_u003",
+      "answer": "inclined to",
+      "options": [
+        "inclined to",
+        "unlikely to",
+        "forbidden to",
+        "pleased to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I had no idea",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you are surprised to learn something you did not know before",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c01_u012",
+      "answer": "had no idea",
+      "options": [
+        "had no idea",
+        "had no time",
+        "had no choice",
+        "had no money"
+      ]
+    },
+    {
+      "uid": "s09_e16_c04_u017",
+      "answer": "had no idea",
+      "options": [
+        "had no idea",
+        "had no time",
+        "had no choice",
+        "had no money"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cut back",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do or use less of something, such as smoking",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c01_u007",
+      "answer": "cut back",
+      "options": [
+        "cut back",
+        "show off",
+        "cut in",
+        "look back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm happy for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say you are pleased about someone else's good news",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c04_u014",
+      "answer": "happy for",
+      "options": [
+        "happy for",
+        "sorry for",
+        "mad at",
+        "scared of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see where it goes",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to continue something without a fixed plan and find out how it develops",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c07_u004",
+      "answer": "See where it goes",
+      "options": [
+        "See where it goes",
+        "See what it costs",
+        "See who it hurts",
+        "See how it tastes"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's not about you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone they are not the cause of a problem or decision",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c07_u015",
+      "answer": "It's not about you",
+      "options": [
+        "It's not about you",
+        "It's your big day",
+        "It's a done deal",
+        "It's on the house"
+      ],
+      "cueUid": "s09_e16_c07_u014"
+    }
+  ]
+},
+
+{
+  "expression": "deliberately",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "on purpose, not by accident",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c07_u011",
+      "answer": "deliberately",
+      "options": [
+        "deliberately",
+        "politely",
+        "gracefully",
+        "cheerfully"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to the rescue",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "arriving to save or help someone",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c09_u022",
+      "answer": "to the rescue",
+      "options": [
+        "to the rescue",
+        "to the point",
+        "to the letter",
+        "to the core"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "committed",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "devoted to a person or relationship and willing to stay with it for a long time",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c09_u016",
+      "answer": "committed",
+      "options": [
+        "committed",
+        "allergic",
+        "opposed",
+        "similar"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "handyman",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person paid to do small repairs around a building",
+  "exchanges": [
+    {
+      "uid": "s09_e16_c03_u020",
+      "answer": "handyman",
+      "options": [
+        "handyman",
+        "dentist",
+        "lifeguard",
+        "bartender"
+      ]
+    }
+  ]
 }
 ]

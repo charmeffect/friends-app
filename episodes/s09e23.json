@@ -501,5 +501,216 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I gotta say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce an honest opinion or a surprising admission",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c01_u006",
+      "answer": "I gotta say",
+      "options": [
+        "I gotta say",
+        "I gotta eat",
+        "I gotta pee",
+        "I gotta hide"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just so I know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when asking for information so that you can be prepared",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c05_u008",
+      "answer": "just so I know",
+      "options": [
+        "just so I know",
+        "just in case",
+        "just like that",
+        "just for fun"
+      ]
+    },
+    {
+      "uid": "s09_e23_c12_u038",
+      "answer": "Just so I know",
+      "options": [
+        "Just so I know",
+        "Just in case",
+        "Just like that",
+        "Just for fun"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's complicated",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a situation is too difficult or sensitive to explain simply",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c10_u018",
+      "answer": "it's complicated",
+      "options": [
+        "it's complicated",
+        "it's delicious",
+        "it's contagious",
+        "it's affordable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to escape or avoid being caught",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c11_u013",
+      "answer": "getting away",
+      "options": [
+        "getting away",
+        "getting along",
+        "getting ahead",
+        "getting dressed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blush",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become red in the face because you are embarrassed or shy",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c11_u008",
+      "answer": "blushing",
+      "cueUid": "s09_e23_c11_u005",
+      "options": [
+        "blushing",
+        "shivering",
+        "yawning",
+        "sneezing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be open to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be willing to consider or accept something",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c03_u008",
+      "answer": "be open to",
+      "options": [
+        "be open to",
+        "be afraid of",
+        "be tired of",
+        "be sick of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "glad I could help",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a friendly reply when someone thanks you for helping them",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c03_u014",
+      "answer": "Glad I could help",
+      "options": [
+        "Glad I could help",
+        "Sorry to bother you",
+        "Nice to meet you",
+        "Hope you feel better"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "high-five",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a greeting or celebration in which two people slap their raised hands together",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c10_u022",
+      "answer": "High-five",
+      "options": [
+        "High-five",
+        "Goodbye",
+        "Pardon",
+        "Gesundheit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all along",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "the whole time, from the very beginning",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c10_u025",
+      "answer": "all along",
+      "options": [
+        "all along",
+        "all over",
+        "by heart",
+        "in vain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come to that",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "for a situation to become bad enough that you have to do something you would rather avoid",
+  "exchanges": [
+    {
+      "uid": "s09_e23_c09_u003",
+      "answer": "come to that",
+      "options": [
+        "come to that",
+        "come to light",
+        "come to terms",
+        "come of age"
+      ]
+    }
+  ]
 }
 ]

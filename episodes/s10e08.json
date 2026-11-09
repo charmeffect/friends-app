@@ -498,5 +498,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "just as well",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something turns out not to matter, or is even lucky, given the situation",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u019",
+      "answer": "just as well",
+      "options": [
+        "just as well",
+        "just in case",
+        "just in time",
+        "just for fun"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "prove someone wrong",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show that what someone believed or said about you was not true",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u021",
+      "answer": "prove me wrong",
+      "options": [
+        "prove me wrong",
+        "let me down",
+        "turn me down",
+        "wear me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get down to business",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to start doing the thing you are really there to do",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c04_u016",
+      "answer": "get down to business",
+      "options": [
+        "get down to business",
+        "go out of business",
+        "call it a day",
+        "get back to sleep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for Pete's sake",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to show annoyance or impatience and to stress what you are saying",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u083",
+      "answer": "for Pete's sakes",
+      "options": [
+        "for Pete's sakes",
+        "for the record",
+        "for a change",
+        "for good measure"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "move past",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop being affected by a bad experience and continue with your life",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u068",
+      "answer": "move past",
+      "options": [
+        "move past",
+        "dwell on",
+        "fall for",
+        "run into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not cool",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that what they did was unfair, rude, or unacceptable",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c08_u081",
+      "answer": "not cool",
+      "options": [
+        "not cool",
+        "no worries",
+        "not bad",
+        "my bad"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in stock",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "available in a shop and ready to be sold",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c09_u007",
+      "answer": "in stock",
+      "options": [
+        "in stock",
+        "in debt",
+        "in shape",
+        "in danger"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "manipulate",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to control or influence someone cleverly or unfairly so they do what you want",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u023",
+      "answer": "manipulated",
+      "options": [
+        "manipulated",
+        "congratulated",
+        "celebrated",
+        "promoted"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "burden",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a duty or responsibility that is hard or tiring to carry",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c01_u009",
+      "answer": "burden",
+      "options": [
+        "burden",
+        "rain",
+        "dessert",
+        "calendar"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tell me more",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are interested and want to hear more, often jokingly",
+  "exchanges": [
+    {
+      "uid": "s10_e08_c03_u016",
+      "answer": "Tell me more",
+      "options": [
+        "Tell me more",
+        "Help yourself",
+        "Bless you",
+        "Watch out"
+      ]
+    }
+  ]
 }
 ]

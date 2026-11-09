@@ -460,5 +460,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "all the way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "the whole distance, without stopping",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c02_u002",
+      "answer": "all the way",
+      "options": [
+        "all the way",
+        "by the way",
+        "in the way",
+        "no way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a lot going on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "many things are happening at the same time, which can be confusing or stressful",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c07_u015",
+      "answer": "a lot going on",
+      "options": [
+        "a lot going on",
+        "a lot of nerve",
+        "a lot in common",
+        "a lot of luck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "my job here is done",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said, often humorously, when you have finished what you came to do",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c07_u001",
+      "answer": "done",
+      "options": [
+        "done",
+        "hired",
+        "famous",
+        "boring"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "over the phone",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "by talking on the telephone rather than face to face",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c06_u005",
+      "answer": "over the phone",
+      "options": [
+        "over the phone",
+        "under the table",
+        "on the house",
+        "behind the scenes"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I wouldn't worry about it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone that something is not a real problem",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c06_u022",
+      "answer": "worry",
+      "options": [
+        "worry",
+        "brag",
+        "dream",
+        "sing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're scaring me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when someone's strange or very serious behaviour makes you nervous",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c08_u016",
+      "answer": "scaring me",
+      "options": [
+        "scaring me",
+        "boring me",
+        "pleasing me",
+        "feeding me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get back to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return to an activity you were doing before being interrupted",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c07_u004",
+      "answer": "get back to",
+      "options": [
+        "get back to",
+        "look up to",
+        "give in to",
+        "get through to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one last time",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "for the final time before something ends",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c05_u008",
+      "answer": "one last time",
+      "options": [
+        "one last time",
+        "one more chance",
+        "one big mistake",
+        "one small step"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make someone look good",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone appear skilful or successful to others",
+  "exchanges": [
+    {
+      "uid": "s10_e18_c05_u007",
+      "answer": "make us look good",
+      "options": [
+        "make us look good",
+        "make us feel sick",
+        "make us go broke",
+        "make us stay late"
+      ]
+    }
+  ]
 }
 ]

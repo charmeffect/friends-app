@@ -528,5 +528,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "who am I to talk",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to admit that you cannot criticize someone because you have done the same thing yourself",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u035",
+      "answer": "to talk",
+      "options": [
+        "to talk",
+        "to marry",
+        "to hire",
+        "to call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for all someone knows",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "as far as someone is aware; based on the little they know",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c01_u072",
+      "answer": "For all he knows",
+      "options": [
+        "For all he knows",
+        "For all he cares",
+        "Above all else",
+        "After all that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel free",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone they are welcome to do something",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c03_u008",
+      "answer": "feel free",
+      "options": [
+        "feel free",
+        "feel sorry",
+        "feel sick",
+        "feel guilty"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you think?",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically to agree that something is very obvious",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c06_u017",
+      "answer": "you think",
+      "options": [
+        "you think",
+        "you swear",
+        "you promise",
+        "you dare"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be straight with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be honest and direct with someone",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c07_u005",
+      "answer": "straight",
+      "options": [
+        "straight",
+        "jealous",
+        "sleepy",
+        "crazy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tough love",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "treating someone harshly or strictly on purpose in order to help them",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c07_u012",
+      "answer": "tough love",
+      "options": [
+        "tough love",
+        "small talk",
+        "free time",
+        "fair play"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds fair",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree that a suggestion seems reasonable and just",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c09_u008",
+      "answer": "sounds fair",
+      "options": [
+        "sounds fair",
+        "sounds fishy",
+        "sounds expensive",
+        "sounds delicious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I thought so",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when something you suspected turns out to be true",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c02_u028",
+      "answer": "I thought so",
+      "options": [
+        "I thought so",
+        "I hope so",
+        "I doubt it",
+        "I'm afraid so"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "why me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to complain that bad luck always seems to happen to you",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c06_u011",
+      "answer": "Why me",
+      "options": [
+        "Why me",
+        "Why not",
+        "Who cares",
+        "How come"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone a heads-up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to warn someone in advance about something",
+  "exchanges": [
+    {
+      "uid": "s10_e01_c04_u008",
+      "answer": "a heads up",
+      "options": [
+        "a heads up",
+        "a ride home",
+        "a big hug",
+        "a fresh start"
+      ]
+    }
+  ]
 }
 ]

@@ -489,5 +489,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "be behind someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be finished and no longer a problem for someone",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c05_u020",
+      "answer": "behind you",
+      "options": [
+        "behind you",
+        "against you",
+        "inside you",
+        "around you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in character",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "behaving as the role you are playing rather than as yourself",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c08_u021",
+      "answer": "in character",
+      "options": [
+        "in character",
+        "in trouble",
+        "in charge",
+        "in public"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "confession",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a statement in which you admit something you did that you are embarrassed or ashamed about",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c10_u007",
+      "answer": "confession",
+      "options": [
+        "confession",
+        "prescription",
+        "invitation",
+        "exception"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you might want to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to politely suggest that someone should do something",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c07_u029",
+      "answer": "you might wanna",
+      "options": [
+        "you might wanna",
+        "you never wanna",
+        "you'd hate to",
+        "you can't wait to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "traumatic",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "extremely upsetting in a way that causes lasting fear or distress",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c07_u020",
+      "answer": "traumatic",
+      "options": [
+        "traumatic",
+        "hilarious",
+        "flattering",
+        "refreshing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm not proud of it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when admitting something you did that you feel somewhat ashamed of",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c07_u009",
+      "answer": "proud",
+      "options": [
+        "proud",
+        "tired",
+        "jealous",
+        "capable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "credibility",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the quality of being believable or trusted",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c04_u009",
+      "answer": "credibility",
+      "options": [
+        "credibility",
+        "hostility",
+        "stupidity",
+        "clumsiness"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be blessed with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be lucky enough to have something good",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c04_u003",
+      "answer": "blessed with",
+      "options": [
+        "blessed with",
+        "bored with",
+        "finished with",
+        "annoyed with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "compete with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to try to be as good as or better than others",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c06_u008",
+      "answer": "compete with",
+      "options": [
+        "compete with",
+        "object to",
+        "agree with",
+        "rely on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mindset",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a particular way of thinking and the attitudes that go with it",
+  "exchanges": [
+    {
+      "uid": "s09_e15_c09_u004",
+      "answer": "mindset",
+      "options": [
+        "mindset",
+        "bathtub",
+        "schedule",
+        "contract"
+      ]
+    }
+  ]
 }
 ]

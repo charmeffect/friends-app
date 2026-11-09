@@ -478,5 +478,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you never know",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something unlikely could still happen or be true",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c01_u040",
+      "answer": "you never know",
+      "options": [
+        "you never know",
+        "you never learn",
+        "you never listen",
+        "you never mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rule out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to decide that someone or something is not possible or suitable",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c02_u031",
+      "answer": "ruling out",
+      "options": [
+        "ruling out",
+        "freaking out",
+        "handing out",
+        "carrying out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "aside from",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "except for; apart from",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c02_u034",
+      "answer": "Aside from",
+      "options": [
+        "Aside from",
+        "Because of",
+        "Thanks to",
+        "Due to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a thing for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be romantically attracted to someone",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c04_u026",
+      "answer": "have a little thing",
+      "options": [
+        "have a little thing",
+        "have a little cold",
+        "have a little time",
+        "have a little fight"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep this between us",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to not tell anyone else about something that has been shared privately",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c04_u034",
+      "answer": "keep this between us",
+      "options": [
+        "keep this between us",
+        "talk about this later",
+        "put this on hold",
+        "take this outside"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "quite frankly",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to say that you are being completely honest about something",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c08_u020",
+      "answer": "quite frankly",
+      "options": [
+        "quite frankly",
+        "quite rarely",
+        "quite slowly",
+        "quite early"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it could be better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a mild way of saying that things are not going well",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c07_u006",
+      "answer": "It could be better",
+      "options": [
+        "It could be better",
+        "It couldn't be better",
+        "It went really well",
+        "I'm almost done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's a tough one",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a problem or question is difficult to solve or answer",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c07_u013",
+      "answer": "That's a tough one",
+      "options": [
+        "That's a tough one",
+        "That's an easy one",
+        "That's a lucky one",
+        "That's the last one"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make conversation",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to talk with someone politely just to be friendly or fill a silence",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c08_u017",
+      "answer": "making conversation",
+      "options": [
+        "making conversation",
+        "making trouble",
+        "making progress",
+        "making history"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dazzle",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to impress someone greatly with your skill or cleverness",
+  "exchanges": [
+    {
+      "uid": "s09_e22_c02_u014",
+      "answer": "dazzle",
+      "options": [
+        "dazzle",
+        "bore",
+        "insult",
+        "ignore"
+      ]
+    }
+  ]
 }
 ]

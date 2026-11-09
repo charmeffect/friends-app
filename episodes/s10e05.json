@@ -479,5 +479,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'd be honored",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept a request politely and show that you feel proud to be asked",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c01_u006",
+      "answer": "I'd be honored",
+      "options": [
+        "I'd be honored",
+        "I'd be late",
+        "I'd be lost",
+        "I'd be bored"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'd love to",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you would like to do something, often just before politely refusing",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c02_u004",
+      "answer": "I'd love to",
+      "options": [
+        "I'd love to",
+        "I'd have to",
+        "I used to",
+        "I'd need to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "Mr. Right",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the perfect man for a woman to marry",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c04_u024",
+      "answer": "Mr Right",
+      "options": [
+        "Mr Right",
+        "Mr Wrong",
+        "Mr Bean",
+        "Mr Clean"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "moving on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to change the subject quickly, often to avoid something embarrassing",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c09_u018",
+      "answer": "moving on",
+      "options": [
+        "moving on",
+        "sleeping in",
+        "showing off",
+        "falling apart"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds good",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree to a suggestion or plan",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c09_u029",
+      "answer": "Sounds good",
+      "options": [
+        "Sounds good",
+        "Smells funny",
+        "Tastes bitter",
+        "Looks blurry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "couldn't help but overhear",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to admit politely that you heard a conversation you were not part of",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c09_u055",
+      "answer": "couldn't help but overhear",
+      "options": [
+        "couldn't help but overhear",
+        "didn't bother to listen",
+        "forgot to say hello",
+        "never meant to stay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's not a thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that what they are describing does not really exist",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c10_u059",
+      "answer": "That's not a thing",
+      "options": [
+        "That's not a thing",
+        "That's not my fault",
+        "That's not fair",
+        "That's not my hat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ever since",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "continuously from the time that something happened",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c12_u008",
+      "answer": "Ever since",
+      "options": [
+        "Ever since",
+        "Long before",
+        "Even though",
+        "As soon as"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I have to admit",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something you are a little reluctant or surprised to say is true",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c12_u023",
+      "answer": "I've got to admit",
+      "options": [
+        "I've got to admit",
+        "I've got to leave",
+        "I refuse to believe",
+        "I need to complain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "grow old with someone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spend your life with someone until you are both old",
+  "exchanges": [
+    {
+      "uid": "s10_e05_c13_u014",
+      "answer": "grow old with",
+      "options": [
+        "grow old with",
+        "break up with",
+        "fall out with",
+        "put up with"
+      ]
+    }
+  ]
 }
 ]

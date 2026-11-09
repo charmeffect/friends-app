@@ -478,5 +478,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "this calls for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that a situation deserves something, especially a celebration",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c01_u002",
+      "answer": "This calls for",
+      "options": [
+        "This calls for",
+        "This stands for",
+        "This depends on",
+        "This comes from"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick up where you left off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to continue something from the point where you stopped earlier",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c11_u006",
+      "answer": "left off",
+      "options": [
+        "left off",
+        "took off",
+        "showed off",
+        "paid off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a shot",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make an attempt or a guess without being sure",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c03_u012",
+      "answer": "took a shot",
+      "options": [
+        "took a shot",
+        "took a seat",
+        "took a break",
+        "took a hint"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'll say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to agree strongly and enthusiastically with what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c10_u012",
+      "answer": "I'll say",
+      "options": [
+        "I'll say",
+        "I'll pass",
+        "I'll wait",
+        "I'll stay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blow someone away",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to impress someone very much",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c07_u008",
+      "answer": "blow me away",
+      "options": [
+        "blow me away",
+        "let me down",
+        "give me away",
+        "talk me down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take it hard",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be very upset or hurt by something",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c07_u004",
+      "answer": "taking it hard",
+      "options": [
+        "taking it hard",
+        "taking it back",
+        "calling it off",
+        "making it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turn someone down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to refuse or reject someone, especially someone who asks you out",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c09_u002",
+      "answer": "turned you down",
+      "options": [
+        "turned you down",
+        "turned you in",
+        "called you up",
+        "wore you out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "believe me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to stress that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c09_u012",
+      "answer": "Believe me",
+      "options": [
+        "Believe me",
+        "Excuse me",
+        "Forgive me",
+        "Remind me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have the time of your life",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enjoy yourself very much on a particular occasion",
+  "exchanges": [
+    {
+      "uid": "s10_e15_c03_u022",
+      "answer": "time of his life",
+      "options": [
+        "time of his life",
+        "end of his rope",
+        "top of his game",
+        "light of his life"
+      ]
+    }
+  ]
 }
 ]

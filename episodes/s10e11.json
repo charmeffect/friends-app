@@ -459,5 +459,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "lose it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to lose control of your emotions or start behaving irrationally",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c12_u014",
+      "answer": "losing it",
+      "options": [
+        "losing it",
+        "keeping it",
+        "earning it",
+        "shaking it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not a bad idea",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a suggestion is actually quite good",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c11_u008",
+      "answer": "not a bad idea",
+      "options": [
+        "not a bad idea",
+        "not a good sign",
+        "not a fair trade",
+        "not a funny joke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big surprise",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically to mean that something is not surprising at all",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c07_u043",
+      "answer": "Big surprise",
+      "responseUid": null,
+      "options": [
+        "Big surprise",
+        "Big mistake",
+        "Good luck",
+        "Nice try"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the long arm of the law",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the police and their power to find and catch people who break the law",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c07_u026",
+      "answer": "long arm",
+      "options": [
+        "long arm",
+        "thin skin",
+        "cold heart",
+        "wide mouth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "virtually",
+  "type": "word",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "almost completely; very nearly",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c02_u008",
+      "answer": "virtually",
+      "options": [
+        "virtually",
+        "rarely",
+        "formally",
+        "legally"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "air quotes",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a gesture of curling two fingers on each hand in the air to show that a word is meant ironically",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c06_u007",
+      "answer": "air quotes",
+      "options": [
+        "air quotes",
+        "tan lines",
+        "price tags",
+        "bus fares"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "after hours",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "after the normal working or opening hours of a place",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c06_u014",
+      "answer": "after hours",
+      "options": [
+        "after hours",
+        "in advance",
+        "by mistake",
+        "on purpose"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so bad",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very much; with a strong desire",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c09_u020",
+      "answer": "so bad",
+      "options": [
+        "so bad",
+        "so late",
+        "so far",
+        "so soon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "throw a party",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to organize and host a party",
+  "exchanges": [
+    {
+      "uid": "s10_e11_c01_u014",
+      "answer": "throwing",
+      "options": [
+        "throwing",
+        "dropping",
+        "pulling",
+        "leaving"
+      ]
+    }
+  ]
 }
 ]

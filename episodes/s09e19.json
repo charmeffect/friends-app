@@ -498,5 +498,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "say no more",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I understand what you mean, so you do not need to explain any further",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u011",
+      "answer": "say no more",
+      "options": [
+        "say no more",
+        "hear me out",
+        "count me in",
+        "help yourself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in no time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very quickly or very soon",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u036",
+      "answer": "in no time",
+      "options": [
+        "in no time",
+        "in no way",
+        "at no point",
+        "on no account"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whip up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make food or a meal quickly",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c11_u017",
+      "answer": "whip you up",
+      "options": [
+        "whip you up",
+        "hold you up",
+        "beat you up",
+        "wake you up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "show of hands",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a quick vote in which people raise their hands to show they agree",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c11_u007",
+      "answer": "show of hands",
+      "options": [
+        "show of hands",
+        "turn of phrase",
+        "change of heart",
+        "sleight of hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "off-limits",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not allowed to be used, touched, or taken",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c08_u009",
+      "answer": "off-limits",
+      "options": [
+        "off-limits",
+        "on-demand",
+        "up-front",
+        "in-house"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ahead of the game",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "in a better position than expected, with an advantage over others",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c10_u003",
+      "answer": "ahead of the game",
+      "options": [
+        "ahead of the game",
+        "out of the loop",
+        "behind the times",
+        "off the record"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make your money back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover the money you have spent or lost",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c05_u034",
+      "answer": "make your money back",
+      "options": [
+        "make your money back",
+        "give your money away",
+        "lose your money twice",
+        "waste your money again"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "settle this",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end an argument by finding out or deciding who is right",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c11_u005",
+      "answer": "settle this",
+      "options": [
+        "settle this",
+        "spoil this",
+        "waste this",
+        "miss this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "never hurt anyone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a small amount of something is harmless or even good",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c11_u011",
+      "answer": "never hurt anyone",
+      "options": [
+        "never hurt anyone",
+        "never helped anyone",
+        "never fooled anyone",
+        "never pleased anyone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "blow past",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to move on quickly from an awkward moment without stopping to deal with it",
+  "exchanges": [
+    {
+      "uid": "s09_e19_c12_u021",
+      "answer": "blow past",
+      "options": [
+        "blow past",
+        "dwell on",
+        "look into",
+        "stay on"
+      ]
+    }
+  ]
 }
 ]

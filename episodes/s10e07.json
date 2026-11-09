@@ -501,5 +501,168 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "other than that",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "apart from the thing just mentioned",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c08_u012",
+      "answer": "other than that",
+      "options": [
+        "other than that",
+        "rather than that",
+        "later than that",
+        "because of that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "irrational",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not based on reason or clear thinking",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c04_u023",
+      "answer": "irrational",
+      "cueUid": "s10_e07_c04_u021",
+      "responseUid": null,
+      "options": [
+        "irrational",
+        "irregular",
+        "irrelevant",
+        "irresistible"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I see where this is going",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you can guess what someone is leading up to or about to do",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c11_u005",
+      "answer": "where this is going",
+      "options": [
+        "where this is going",
+        "what this is worth",
+        "how this is done",
+        "why this is wrong"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you can't make this stuff up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something real is so strange or funny that nobody could have invented it",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c10_u013",
+      "answer": "make this stuff up",
+      "responseUid": null,
+      "options": [
+        "make this stuff up",
+        "pick this stuff up",
+        "give this stuff up",
+        "clean this stuff up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "step in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become involved in a situation in order to deal with it or settle it",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c12_u007",
+      "answer": "stepping in",
+      "options": [
+        "stepping in",
+        "stepping out",
+        "backing off",
+        "giving up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "jury duty",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the duty of a citizen to serve on a jury in a court of law when called",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c05_u014",
+      "answer": "jury duty",
+      "options": [
+        "jury duty",
+        "sick leave",
+        "room service",
+        "pocket money"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I gotta say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce an honest opinion or a surprising admission",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c01_u019",
+      "answer": "I've got to say",
+      "options": [
+        "I've got to say",
+        "I've got to go",
+        "I've got to run",
+        "I've got to leave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "daredevil",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who enjoys doing dangerous or exciting things without fear",
+  "exchanges": [
+    {
+      "uid": "s10_e07_c06_u013",
+      "answer": "dare-devil",
+      "options": [
+        "dare-devil",
+        "copy-cat",
+        "busy-body",
+        "couch potato"
+      ]
+    }
+  ]
 }
 ]

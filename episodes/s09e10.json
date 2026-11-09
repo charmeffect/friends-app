@@ -438,5 +438,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "it's bad enough",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say a situation is already unpleasant before adding something that makes it worse",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c07_u001",
+      "answer": "bad enough",
+      "options": [
+        "bad enough",
+        "odd enough",
+        "long enough",
+        "late enough"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "motivational speaker",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person whose job is giving talks that inspire people to work harder or feel more positive",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c02_u016",
+      "answer": "motivational speaker",
+      "options": [
+        "motivational speaker",
+        "professional wrestler",
+        "personal trainer",
+        "flight attendant"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "last but not least",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the final item in a list, saying it is just as important",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c05_u012",
+      "answer": "last but not least",
+      "options": [
+        "last but not least",
+        "first and foremost",
+        "now and then",
+        "sooner or later"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have trouble",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to find it difficult to do something",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c06_u015",
+      "answer": "having trouble",
+      "options": [
+        "having trouble",
+        "having fun",
+        "having lunch",
+        "having doubts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nothing to worry about",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "no reason to feel anxious about something",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c08_u027",
+      "answer": "nothing to worry about",
+      "options": [
+        "nothing to worry about",
+        "nothing to sleep on",
+        "nothing to write with",
+        "nothing to eat here"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "right on the money",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "exactly correct",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c10_u011",
+      "answer": "right on the money",
+      "options": [
+        "right on the money",
+        "right on the edge",
+        "right on the phone",
+        "right on the road"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me ask you something",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to introduce a question you want someone to answer",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c10_u012",
+      "answer": "ask you something",
+      "responseUid": null,
+      "options": [
+        "ask you something",
+        "pay you something",
+        "lend you something",
+        "cook you something"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one thing at a time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to suggest dealing with things slowly, in order, instead of all at once",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c13_u014",
+      "answer": "one thing",
+      "responseUid": null,
+      "options": [
+        "one thing",
+        "one page",
+        "one song",
+        "one ticket"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be used to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be accustomed to doing something because you have done it often",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c10_u003",
+      "answer": "used to",
+      "options": [
+        "used to",
+        "about to",
+        "close to",
+        "due to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get something done",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to manage to finish or accomplish work",
+  "exchanges": [
+    {
+      "uid": "s09_e10_c01_u007",
+      "answer": "get it done",
+      "options": [
+        "get it done",
+        "get it wrong",
+        "get it back",
+        "get it over"
+      ]
+    }
+  ]
 }
 ]

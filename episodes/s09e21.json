@@ -510,5 +510,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "glad I could help",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a friendly reply when someone thanks you for helping them",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c12_u029",
+      "answer": "Glad I could help",
+      "options": [
+        "Glad I could help",
+        "Sorry I was late",
+        "Hope you feel better",
+        "Nice try anyway"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be meant to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be intended by fate to do or be something",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c10_u008",
+      "answer": "meant to",
+      "options": [
+        "meant to",
+        "afraid to",
+        "forced to",
+        "refusing to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel strongly about",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a firm and serious opinion about something",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c02_u023",
+      "answer": "strongly",
+      "options": [
+        "strongly",
+        "nervously",
+        "quietly",
+        "lazily"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be true to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to act in a way that matches your own beliefs or values",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c11_u018",
+      "answer": "Be true to",
+      "options": [
+        "Be true to",
+        "Be done with",
+        "Be scared of",
+        "Be sick of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a strong likelihood that something will happen",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c13_u012",
+      "answer": "good chance",
+      "options": [
+        "good chance",
+        "fat chance",
+        "last chance",
+        "second chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "know your audience",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that you should consider what the person you are dealing with actually likes",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c03_u005",
+      "answer": "Know your audience",
+      "options": [
+        "Know your audience",
+        "Count your blessings",
+        "Watch your step",
+        "Check your facts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take your life back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to regain control of your own life and live it the way you want",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c11_u019",
+      "answer": "took my life back",
+      "options": [
+        "took my life back",
+        "threw my life away",
+        "wasted my whole life",
+        "lost my whole life"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "overpay",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to pay more for something than it is really worth",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c02_u007",
+      "answer": "overpaid",
+      "options": [
+        "overpaid",
+        "overslept",
+        "overreacted",
+        "overate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pay a price",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to suffer an unpleasant result in return for something you have gained",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c11_u017",
+      "answer": "pay a price",
+      "options": [
+        "pay a price",
+        "win a prize",
+        "make a wish",
+        "take a bow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "crazed",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "extremely busy and frantic, with no time for anything else",
+  "exchanges": [
+    {
+      "uid": "s09_e21_c04_u007",
+      "answer": "crazed",
+      "options": [
+        "crazed",
+        "bored",
+        "relaxed",
+        "lonely"
+      ]
+    }
+  ]
 }
 ]

@@ -510,5 +510,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "come out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to tell people openly that you are gay",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c09_u006",
+      "answer": "coming out",
+      "options": [
+        "coming out",
+        "showing off",
+        "dropping out",
+        "making up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what are the chances",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something happens that seemed very unlikely",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c08_u009",
+      "answer": "chances",
+      "options": [
+        "chances",
+        "rules",
+        "prices",
+        "hours"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep it clean",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell people not to say or do anything rude or sexual",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c08_u029",
+      "answer": "Keep it clean",
+      "options": [
+        "Keep it clean",
+        "Keep it warm",
+        "Keep it frozen",
+        "Keep it running"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep away from",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop someone from going near or seeing another person",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c11_u013",
+      "answer": "keep me away",
+      "options": [
+        "keep me away",
+        "set me up",
+        "cheer me up",
+        "pick me up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "heartless",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "cruel and showing no sympathy for other people's feelings",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c11_u022",
+      "answer": "heartless",
+      "options": [
+        "heartless",
+        "brilliant",
+        "generous",
+        "talented"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stuffed animal",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a soft toy shaped like an animal and filled with soft material",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c02_u006",
+      "answer": "stuffed animal",
+      "options": [
+        "stuffed animal",
+        "wild animal",
+        "house plant",
+        "power tool"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "miss your chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to lose an opportunity because you did not act when you could",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u041",
+      "answer": "missed my chance",
+      "options": [
+        "missed my chance",
+        "lost my keys",
+        "made my point",
+        "broke my promise"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a bad mood",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "feeling annoyed or unhappy for a while",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u036",
+      "answer": "bad mood",
+      "options": [
+        "bad mood",
+        "big hurry",
+        "deep sleep",
+        "tight spot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "passionately",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "with very strong feeling and enthusiasm",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u039",
+      "answer": "passionately",
+      "options": [
+        "passionately",
+        "rudely",
+        "vaguely",
+        "reluctantly"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "touch lives",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have a meaningful, positive effect on other people",
+  "exchanges": [
+    {
+      "uid": "s09_e17_c12_u012",
+      "answer": "touched",
+      "options": [
+        "touched",
+        "counted",
+        "rented",
+        "borrowed"
+      ]
+    }
+  ]
 }
 ]

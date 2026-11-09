@@ -511,5 +511,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "get acquainted",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to meet someone and begin to know them",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c03_u012",
+      "answer": "get acquainted",
+      "options": [
+        "get acquainted",
+        "get dressed",
+        "get married",
+        "get lost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "decide against",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to choose not to do something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c01_u013",
+      "answer": "decide against",
+      "options": [
+        "decide against",
+        "decide on",
+        "count on",
+        "look into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the more, the better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to mean that a larger amount of something is welcome or preferred",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c04_u014",
+      "answer": "The more, the better",
+      "options": [
+        "The more, the better",
+        "The less, the better",
+        "The sooner, the better",
+        "The older, the better"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "more than welcome",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "very welcome; said to warmly invite someone to do something",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c02_u030",
+      "answer": "more than welcome",
+      "options": [
+        "more than welcome",
+        "more than enough",
+        "less than ready",
+        "far from welcome"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in good hands",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "being looked after by someone skilled and trustworthy",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c06_u004",
+      "answer": "in good hands",
+      "cueUid": "s10_e09_c06_u002",
+      "responseUid": null,
+      "options": [
+        "in good hands",
+        "in deep water",
+        "in hot water",
+        "on thin ice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it kills me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something makes you feel very sad, frustrated, or upset",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c13_u030",
+      "answer": "It kills me",
+      "options": [
+        "It kills me",
+        "It suits me",
+        "It helps me",
+        "It bores me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "devoted",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "giving a lot of love, care, and loyalty to someone",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c13_u030",
+      "answer": "devoted",
+      "options": [
+        "devoted",
+        "deceitful",
+        "careless",
+        "selfish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have every reason to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have very good reasons for feeling or doing something",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c13_u026",
+      "answer": "have every reason to",
+      "options": [
+        "have every reason to",
+        "have no reason to",
+        "have no time to",
+        "have every chance to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't get any ideas",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to warn someone not to start planning or hoping to do something you do not want",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c02_u005",
+      "answer": "get any ideas",
+      "options": [
+        "get any ideas",
+        "get any sleep",
+        "pay any bills",
+        "take any notes"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "anonymity",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the state of not having your name or identity known",
+  "exchanges": [
+    {
+      "uid": "s10_e09_c06_u018",
+      "answer": "anonymity",
+      "options": [
+        "anonymity",
+        "publicity",
+        "popularity",
+        "visibility"
+      ]
+    }
+  ]
 }
 ]

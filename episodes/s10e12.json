@@ -509,5 +509,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "be fond of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to like someone or something",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c03_u024",
+      "answer": "fond of",
+      "options": [
+        "fond of",
+        "full of",
+        "made of",
+        "short of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "according to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "as stated or reported by a particular source",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c10_u002",
+      "answer": "according to",
+      "options": [
+        "according to",
+        "in spite of",
+        "in front of",
+        "next to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what a pickle",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said, often humorously, about a difficult or awkward situation",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c08_u008",
+      "answer": "What a pickle",
+      "options": [
+        "What a pickle",
+        "What a bargain",
+        "What a relief",
+        "What a treat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "couldn't ask for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something is the best you could possibly have",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c10_u009",
+      "answer": "couldn't ask for",
+      "options": [
+        "couldn't ask for",
+        "couldn't wait for",
+        "couldn't care for",
+        "couldn't stand for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freaking",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used in speech to add strong emphasis, often with annoyance",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c11_u066",
+      "answer": "freaking",
+      "responseUid": null,
+      "options": [
+        "freaking",
+        "barely",
+        "hardly",
+        "never"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "my pleasure",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite reply to thanks, meaning you were happy to help",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c04_u003",
+      "answer": "my pleasure",
+      "options": [
+        "my pleasure",
+        "my mistake",
+        "my turn",
+        "my problem"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in regard to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "concerning or about a particular subject",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c04_u023",
+      "answer": "in regard to",
+      "options": [
+        "in regard to",
+        "in contrast to",
+        "in debt to",
+        "in tune with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "even so",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "despite what has just been said",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c07_u003",
+      "answer": "Even so",
+      "options": [
+        "Even so",
+        "Above all",
+        "In return",
+        "By chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm so happy for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that you are glad about someone else's good news",
+  "exchanges": [
+    {
+      "uid": "s10_e12_c11_u029",
+      "answer": "happy for you",
+      "options": [
+        "happy for you",
+        "tired of you",
+        "jealous of you",
+        "angry with you"
+      ]
+    }
+  ]
 }
 ]

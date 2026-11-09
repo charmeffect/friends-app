@@ -121,7 +121,8 @@ for (const f of files) {
         cueSpeaker: cue ? cue.speaker : null, cue: cue ? cue.text : null,
         speaker: u.speaker, line: u.text, answer: u.text.substr(pos, ex.answer.length),
         responseSpeaker: res ? res.speaker : null, response: res ? res.text : null,
-        options: [u.text.substr(pos, ex.answer.length), ...ex.options.slice(1)],
+        // a shouted ALL-CAPS answer would stand out among lowercase options, so match their case to it
+        options: (a => /[A-Z]{2}/.test(a) && a === a.toUpperCase() ? [a, ...ex.options.slice(1).map(o => o.toUpperCase())] : [a, ...ex.options.slice(1)])(u.text.substr(pos, ex.answer.length)),
       });
     });
 

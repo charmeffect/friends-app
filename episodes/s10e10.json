@@ -479,5 +479,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "is it just me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask whether other people notice or feel the same thing you do",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c05_u017",
+      "answer": "Is it me",
+      "options": [
+        "Is it me",
+        "Is it late",
+        "Is it over",
+        "Is it real"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "raise the stakes",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to increase the amount of money or the risk involved in a bet or situation",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c05_u116",
+      "answer": "raise the stakes",
+      "options": [
+        "raise the stakes",
+        "raise the roof",
+        "raise your hand",
+        "raise the alarm"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here's to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when raising a glass to drink in honour of someone or something",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c05_u157",
+      "answer": "here's to",
+      "options": [
+        "here's to",
+        "here's how",
+        "here's why",
+        "here's where"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's a shame",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are sorry or disappointed about something",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c02_u018",
+      "answer": "it's a shame",
+      "options": [
+        "it's a shame",
+        "it's a relief",
+        "it's a deal",
+        "it's a must"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hypothetical",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "imagined as a possible situation rather than real",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c04_u010",
+      "answer": "hypothetical",
+      "options": [
+        "hypothetical",
+        "historical",
+        "hysterical",
+        "hereditary"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have something to do with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be connected with or partly responsible for something",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c05_u111",
+      "answer": "something to do with",
+      "options": [
+        "something to do with",
+        "nothing to do with",
+        "something to say about",
+        "nothing in common with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "believe me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to stress that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c04_u012",
+      "answer": "Believe me",
+      "options": [
+        "Believe me",
+        "Remind me",
+        "Follow me",
+        "Call me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "underpriced",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "sold for less than its real value",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c03_u012",
+      "answer": "underpriced",
+      "options": [
+        "underpriced",
+        "overpriced",
+        "overrated",
+        "underground"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a good run",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have enjoyed a period of success or happiness that is now coming to an end",
+  "exchanges": [
+    {
+      "uid": "s10_e10_c05_u123",
+      "answer": "had a good run",
+      "options": [
+        "had a good run",
+        "had a bad day",
+        "had a close call",
+        "had a fit"
+      ]
+    }
+  ]
 }
 ]

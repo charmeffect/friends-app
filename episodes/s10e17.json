@@ -490,5 +490,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "who's laughing now",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said proudly when something that people joked about has turned out well for you",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c02_u007",
+      "answer": "Who's laughing now",
+      "options": [
+        "Who's laughing now",
+        "Who's crying now",
+        "Who's sleeping now",
+        "Who's leaving now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one of each",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "one of every kind, for example one boy and one girl",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c06_u032",
+      "answer": "one of each",
+      "options": [
+        "one of each",
+        "one by one",
+        "one at a time",
+        "one for all"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get some rest",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to relax or sleep so that you can recover your strength",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c08_u007",
+      "answer": "get some rest",
+      "options": [
+        "get some rest",
+        "get some change",
+        "get some ideas",
+        "get some tickets"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be around",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be present somewhere nearby and available to talk to",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c09_u057",
+      "answer": "be around",
+      "options": [
+        "be around",
+        "be afraid",
+        "be upset",
+        "be over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "should have thought of that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that they ought to have considered a problem before they acted",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c12_u009",
+      "answer": "thought of that",
+      "options": [
+        "thought of that",
+        "heard of that",
+        "made of that",
+        "looked at that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not with that attitude",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to someone who expects to fail, meaning they will fail only if they think so negatively",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c14_u007",
+      "answer": "attitude",
+      "options": [
+        "attitude",
+        "haircut",
+        "sandwich",
+        "jacket"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speak someone's language",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to talk about things in a way that a particular person easily understands and relates to",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c07_u008",
+      "answer": "speak your language",
+      "options": [
+        "speak your language",
+        "waste your time",
+        "break your heart",
+        "ruin your day"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walk up to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to approach someone by walking towards them",
+  "exchanges": [
+    {
+      "uid": "s10_e17_c14_u003",
+      "answer": "walk up to",
+      "options": [
+        "walk up to",
+        "look up to",
+        "stand up to",
+        "face up to"
+      ]
+    }
+  ]
 }
 ]

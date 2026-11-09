@@ -481,5 +481,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you know what I mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to check that the listener understands what you are trying to say",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c02_u012",
+      "answer": "what I mean",
+      "options": [
+        "what I mean",
+        "where I live",
+        "who I am",
+        "what I ate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have every right to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have a completely fair and good reason to do or feel something",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c02_u010",
+      "answer": "every right",
+      "options": [
+        "every right",
+        "every hour",
+        "every penny",
+        "every inch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be happy for",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to feel glad because something good has happened to someone else",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c02_u013",
+      "answer": "happy for",
+      "options": [
+        "happy for",
+        "scared of",
+        "bored with",
+        "tired of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "slight chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a small possibility, often used to admit something bad in a softened way",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c09_u005",
+      "answer": "slight chance",
+      "options": [
+        "slight chance",
+        "slight cold",
+        "strong smell",
+        "long line"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tend to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to usually behave in a particular way or be likely to do something",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c10_u018",
+      "answer": "tend",
+      "options": [
+        "tend",
+        "hurry",
+        "sneeze",
+        "bother"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's getting late",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to suggest it is time to leave or stop because the evening is passing",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c10_u023",
+      "answer": "getting late",
+      "options": [
+        "getting late",
+        "getting worse",
+        "getting better",
+        "getting bigger"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it doesn't look good",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a situation seems likely to end badly",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c10_u030",
+      "answer": "doesn't look good",
+      "responseUid": null,
+      "options": [
+        "doesn't look good",
+        "doesn't taste good",
+        "doesn't smell good",
+        "doesn't fit well"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel the same way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the same opinion or feelings as someone else",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c11_u016",
+      "answer": "feels the same way",
+      "options": [
+        "feels the same way",
+        "looks the same way",
+        "goes the same way",
+        "sounds the same way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I think so",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say yes when you believe something is true but are not completely sure",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c11_u017",
+      "answer": "I think so",
+      "options": [
+        "I think so",
+        "I bet not",
+        "I'm afraid not",
+        "I hope not"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from the beginning",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "from the time something first started",
+  "exchanges": [
+    {
+      "uid": "s10_e02_c11_u007",
+      "answer": "from the beginning",
+      "options": [
+        "from the beginning",
+        "from the bottom",
+        "from the kitchen",
+        "from the window"
+      ]
+    }
+  ]
 }
 ]

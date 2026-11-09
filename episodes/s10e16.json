@@ -487,5 +487,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "going-away party",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a party held for someone who is about to leave to live or work somewhere else",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c01_u008",
+      "answer": "going away party",
+      "options": [
+        "going away party",
+        "coming out party",
+        "welcome home party",
+        "fancy dress party"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch a movie",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go and see a film, usually casually or on short notice",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c02_u026",
+      "answer": "catching a movie",
+      "options": [
+        "catching a movie",
+        "catching a cold",
+        "catching a break",
+        "catching a wave"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pack up",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to put the things in a place into boxes or bags so they can be moved or stored",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c02_u027",
+      "answer": "pack up",
+      "options": [
+        "pack up",
+        "break up",
+        "make up",
+        "hold up"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "get serious",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start dealing with a task properly and stop joking around",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c03_u008",
+      "answer": "get serious",
+      "options": [
+        "get serious",
+        "get married",
+        "get sleepy",
+        "get lost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have it in you",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have a surprising ability or quality that others did not expect",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c03_u012",
+      "answer": "had it in ya",
+      "options": [
+        "had it in ya",
+        "had it made",
+        "had it backwards",
+        "had it covered"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "use up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to use all of something so that none is left",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c04_u007",
+      "answer": "use up",
+      "options": [
+        "use up",
+        "give up",
+        "show up",
+        "make up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pitch in",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to contribute money or effort to something shared by a group",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c12_u008",
+      "answer": "pitch in",
+      "options": [
+        "pitch in",
+        "cave in",
+        "tune in",
+        "sink in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "clean out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to empty a room or container and clean it, throwing away what is not needed",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c12_u018",
+      "answer": "cleaning out",
+      "options": [
+        "cleaning out",
+        "freaking out",
+        "hanging out",
+        "dropping out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what was that all about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask the reason for something strange that just happened",
+  "exchanges": [
+    {
+      "uid": "s10_e16_c06_u022",
+      "answer": "all about",
+      "options": [
+        "all about",
+        "all along",
+        "all over",
+        "all set"
+      ]
+    }
+  ]
 }
 ]

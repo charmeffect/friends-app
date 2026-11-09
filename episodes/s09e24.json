@@ -488,5 +488,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "there you are",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you find someone you have been looking for",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c05_u002",
+      "answer": "There you are",
+      "options": [
+        "There you are",
+        "Shame on you",
+        "Bless you",
+        "Never mind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we need to talk",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you want to have a serious conversation, often about a problem in a relationship",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c05_u013",
+      "answer": "we need to talk",
+      "options": [
+        "we need to talk",
+        "we need to eat",
+        "we need to sleep",
+        "we need to dance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make it interesting",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to add a bet to something so that the outcome matters more",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c06_u021",
+      "answer": "make it more interesting",
+      "options": [
+        "make it more interesting",
+        "make it more boring",
+        "make it more polite",
+        "make it more quiet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "call it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to say which side of a tossed coin you think will land facing up",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c06_u031",
+      "answer": "call it",
+      "options": [
+        "call it",
+        "drop it",
+        "fix it",
+        "keep it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if you will",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said after an unusual or fanciful way of describing something, to acknowledge it is a bit of a stretch",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c08_u004",
+      "answer": "if you will",
+      "options": [
+        "if you will",
+        "if you dare",
+        "if you must",
+        "if you can"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shoot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "go ahead and ask or say what you want to say",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c08_u010",
+      "answer": "Shoot",
+      "options": [
+        "Shoot",
+        "Freeze",
+        "Busted",
+        "Gross"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walk away",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to leave a situation or relationship and stop being involved in it",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c11_u006",
+      "answer": "walk away",
+      "options": [
+        "walk away",
+        "wake up",
+        "show off",
+        "log in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shake it off",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to tell someone to stop feeling upset or shocked and recover quickly",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c11_u013",
+      "answer": "Shake it off",
+      "options": [
+        "Shake it off",
+        "Turn it off",
+        "Write it down",
+        "Hand it over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sudden death",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "an extra round of a game in which the first player to score wins",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c11_u027",
+      "answer": "Sudden death",
+      "options": [
+        "Sudden death",
+        "Happy hour",
+        "Spring break",
+        "Fair play"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a big thing about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to treat something as much more important or serious than it needs to be",
+  "exchanges": [
+    {
+      "uid": "s09_e24_c08_u002",
+      "answer": "make a big thing",
+      "options": [
+        "make a big thing",
+        "make a quick call",
+        "make a long list",
+        "make a fresh start"
+      ]
+    }
+  ]
 }
 ]

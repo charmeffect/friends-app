@@ -519,5 +519,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "it depends",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that the answer changes according to the situation or person",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c02_u002",
+      "answer": "it depends",
+      "options": [
+        "it depends",
+        "it hurts",
+        "it matters",
+        "it works"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "before I forget",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you want to mention something quickly before it slips your mind",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c02_u013",
+      "answer": "before I forget",
+      "options": [
+        "before I forget",
+        "after I finish",
+        "until I'm done",
+        "unless I'm wrong"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put on hold",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to stop something for a while, intending to continue it later",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c01_u012",
+      "answer": "on hold",
+      "options": [
+        "on hold",
+        "on fire",
+        "on sale",
+        "on display"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rub someone's face in it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to keep reminding someone of something that makes them feel bad, such as what they have lost or lack",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c01_u015",
+      "answer": "rub my face",
+      "options": [
+        "rub my face",
+        "slap my face",
+        "wash my face",
+        "save my face"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pass judgment",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to give your opinion about whether someone or something is good or bad, often critically",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c02_u020",
+      "answer": "pass judgments",
+      "options": [
+        "pass judgments",
+        "pay taxes",
+        "lose weight",
+        "break records"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a thin line between love and hate",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the idea that strong love and strong hate are closely connected, so one can easily turn into the other",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c02_u034",
+      "answer": "thin line",
+      "options": [
+        "thin line",
+        "short walk",
+        "long story",
+        "dark side"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "up for it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "feeling willing or having enough energy to do something",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c04_u017",
+      "answer": "up for it",
+      "options": [
+        "up for it",
+        "out of it",
+        "on to it",
+        "under it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm not gonna lie",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something honest that the listener may not want to hear",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c05_u007",
+      "answer": "not gonna lie",
+      "options": [
+        "not gonna lie",
+        "not gonna stay",
+        "not gonna sing",
+        "not gonna wait"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's not my place",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said when you feel it is not your role or right to comment on or do something",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c05_u039",
+      "answer": "not my place",
+      "options": [
+        "not my place",
+        "not my type",
+        "not my fault",
+        "not my size"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's not the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when the conversation has moved away from the important issue",
+  "exchanges": [
+    {
+      "uid": "s09_e13_c14_u048",
+      "answer": "That's not the point",
+      "options": [
+        "That's not the point",
+        "That's not my name",
+        "That's not the menu",
+        "That's not my car"
+      ]
+    }
+  ]
 }
 ]

@@ -508,5 +508,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "make a living",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to earn enough money to pay for the things you need",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c10_u001",
+      "answer": "make a living",
+      "options": [
+        "make a living",
+        "make a point",
+        "make a scene",
+        "make a wish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how hard can it be",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say confidently that something should be easy, often just before it turns out not to be",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c03_u008",
+      "answer": "how hard",
+      "options": [
+        "how hard",
+        "how wide",
+        "how deep",
+        "how loud"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "raise the bar",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to set a higher standard that others must now try to match",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c15_u009",
+      "answer": "raised the bar",
+      "options": [
+        "raised the bar",
+        "dropped the ball",
+        "crossed the line",
+        "passed the buck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "weak in the knees",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "feeling physically weak and shaky because of strong emotion or excitement",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c12_u005",
+      "answer": "weak in the knees",
+      "options": [
+        "weak in the knees",
+        "on the fence",
+        "out of the loop",
+        "off the hook"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "word spread",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "news or information was passed quickly from person to person",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c04_u002",
+      "answer": "word spread",
+      "options": [
+        "word spread",
+        "time flew",
+        "hell froze",
+        "luck struck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "squeeze out",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to gradually force someone out of a job or position",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c09_u003",
+      "answer": "squeeze me out",
+      "options": [
+        "squeeze me out",
+        "cheer me up",
+        "help me out",
+        "calm me down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "botch",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to do a job or task badly so that it fails",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c16_u020",
+      "answer": "botched",
+      "options": [
+        "botched",
+        "polished",
+        "admired",
+        "borrowed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shook up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "upset and shaken by something that has just happened",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c16_u019",
+      "answer": "shook up",
+      "options": [
+        "shook up",
+        "dressed up",
+        "warmed up",
+        "made up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "maternity leave",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "paid or unpaid time off work that a woman takes when she has a baby",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c09_u001",
+      "answer": "maternity leave",
+      "options": [
+        "maternity leave",
+        "parking ticket",
+        "phone contract",
+        "gym membership"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wait on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to serve food and drinks to people, for example in a restaurant",
+  "exchanges": [
+    {
+      "uid": "s09_e11_c15_u004",
+      "answer": "wait on",
+      "options": [
+        "wait on",
+        "sit on",
+        "dance on",
+        "stand on"
+      ]
+    }
+  ]
 }
 ]
