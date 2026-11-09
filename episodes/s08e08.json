@@ -262,26 +262,6 @@
 },
 
 {
-  "expression": "knock up",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "verb",
-  "meaning": "to make a woman pregnant, usually unintentionally",
-  "exchanges": [
-    {
-      "uid": "s08_e08_c06_u009",
-      "answer": "knock up",
-      "options": [
-        "knock up",
-        "cheer up",
-        "look up",
-        "call up"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "be in on it",
   "type": "colloquial",
   "level": "high",

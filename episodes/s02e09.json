@@ -535,25 +535,5 @@
       ]
     }
   ]
-},
-
-{
-  "expression": "knock up",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "verb",
-  "meaning": "to make a woman pregnant, usually unintentionally",
-  "exchanges": [
-    {
-      "uid": "s02_e09_c05_u007",
-      "answer": "knocked up",
-      "options": [
-        "knocked up",
-        "cheered up",
-        "shook up",
-        "dug up"
-      ]
-    }
-  ]
 }
 ]

@@ -478,27 +478,6 @@
 },
 
 {
-  "expression": "knocked up",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "adjective",
-  "meaning": "pregnant",
-  "exchanges": [
-    {
-      "uid": "s04_e12_c08_u037",
-      "answer": "knocked up",
-      "cueUid": "s04_e12_c08_u018",
-      "options": [
-        "knocked up",
-        "tied down",
-        "fed up",
-        "locked up"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "flail",
   "type": "word",
   "level": "expert",

@@ -264,26 +264,6 @@
 },
 
 {
-  "expression": "fool around",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss or have casual sexual contact with someone",
-  "exchanges": [
-    {
-      "uid": "s03_e11_c06_u013",
-      "answer": "fooled around",
-      "options": [
-        "fooled around",
-        "stuck around",
-        "turned around",
-        "walked around"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "tick off",
   "type": "colloquial",
   "level": "high",

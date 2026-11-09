@@ -438,26 +438,6 @@
 },
 
 {
-  "expression": "turn someone on",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to make someone sexually excited",
-  "exchanges": [
-    {
-      "uid": "s05_e08_c11_u046",
-      "answer": "turns you on",
-      "options": [
-        "turns you on",
-        "lets you down",
-        "puts you off",
-        "picks you up"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "feat",
   "type": "word",
   "level": "college",

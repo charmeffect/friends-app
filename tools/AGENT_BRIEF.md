@@ -20,8 +20,10 @@ Output file: `episodes/<episode>.json` (does not exist yet; create it).
    useless one-word reaction, use `cueUid` / `responseUid` overrides (or `"responseUid": null`
    for the last line of a scene). `pos` ∈ noun|verb|adjective|adverb|expression.
    `meaning` = one plain sentence for the sense used in this line.
-   Do NOT pick sexual expressions or euphemisms for sex (e.g. "go at it", "third base", "get some",
-   "randy", "doing it", "bump uglies") or slurs. Mild swearing used for emphasis is fine.
+   Do NOT pick expressions that are sexual slang or euphemisms for sex (e.g. "go at it", "third base",
+   "get some", "get lucky", "in the sack", "turn someone on") or slurs, and never use such slang as a
+   distractor. The scene itself may be sexual at the level of the show (the user accepts that);
+   ordinary vocabulary like "seduce" or "intimate" is fine. Mild swearing used for emphasis is fine.
    If an expression already exists in an earlier episode file with the same sense, reuse its
    exact type/level/pos/meaning so the build merges cleanly; if the sense differs, pick a
    different expression instead of mixing senses.

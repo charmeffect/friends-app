@@ -363,27 +363,6 @@
 },
 
 {
-  "expression": "turn someone on",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to make someone sexually excited",
-  "exchanges": [
-    {
-      "uid": "s08_e10_c08_u016",
-      "answer": "turned on",
-      "responseUid": null,
-      "options": [
-        "turned on",
-        "let down",
-        "put off",
-        "set up"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "gather",
   "type": "word",
   "level": "college",
@@ -439,26 +418,6 @@
         "puddle",
         "pocket",
         "picnic"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "knocked up",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "adjective",
-  "meaning": "pregnant",
-  "exchanges": [
-    {
-      "uid": "s08_e10_c09_u021",
-      "answer": "knocked up",
-      "options": [
-        "knocked up",
-        "cheered up",
-        "shook up",
-        "dug up"
       ]
     }
   ]

@@ -396,26 +396,6 @@
 },
 
 {
-  "expression": "sleep around",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to have sex with many different people",
-  "exchanges": [
-    {
-      "uid": "s05_e17_c08_u013",
-      "answer": "sleep around",
-      "options": [
-        "sleep around",
-        "sleep over",
-        "sleep in",
-        "sleep off"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "parallel universe",
   "type": "phrase",
   "level": "college",

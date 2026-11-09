@@ -273,26 +273,6 @@
 },
 
 {
-  "expression": "fool around",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss or have casual sexual contact with someone",
-  "exchanges": [
-    {
-      "uid": "s06_e08_c05_u008",
-      "answer": "fooled around",
-      "options": [
-        "fooled around",
-        "showed off",
-        "broke down",
-        "hung up"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "have a shot at",
   "type": "colloquial",
   "level": "high",

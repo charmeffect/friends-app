@@ -265,26 +265,6 @@
 },
 
 {
-  "expression": "fool around",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss or have casual sexual contact with someone",
-  "exchanges": [
-    {
-      "uid": "s04_e04_c05_u008",
-      "answer": "fooling around",
-      "options": [
-        "fooling around",
-        "catching up",
-        "showing off",
-        "settling down"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "flabby",
   "type": "word",
   "level": "high",

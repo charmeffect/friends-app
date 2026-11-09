@@ -2,7 +2,9 @@
 
 Generated from the full review on 2026-11-08. Nothing listed here was deleted or edited; decide per item.
 
-## sexual / offensive line (78)
+## sexual / offensive line (78) — RESOLVED 2026-11-09
+
+User decision: Friends-level sexual scenes stay; only items whose expression is sexual slang go. Dropped: get lucky, in the sack, fool around, hot for, sleep around, turn someone on, knock up, knocked up. Fixed: distractors "toss a salad" (flip a coin) and "nailed" (get screwed) replaced; sexual wording removed from the meanings of dry spell and rock someone's world. Everything else below was kept as is.
 
 - **a piece of my mind** `s04_e24_c03_u013` — line misspelled 'son on a bitch' (profanity)
 - **bite one's lip** `s02_e05_c04_u047` — sexual content (sex, screaming)

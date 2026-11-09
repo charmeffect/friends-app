@@ -140,26 +140,6 @@
 },
 
 {
-  "expression": "turn someone on",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to make someone sexually excited",
-  "exchanges": [
-    {
-      "uid": "s07_e02_c05_u003",
-      "answer": "Turn you on",
-      "options": [
-        "Turn you on",
-        "Wear you out",
-        "Hold you up",
-        "Let you down"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "ashamed",
   "type": "word",
   "level": "middle",

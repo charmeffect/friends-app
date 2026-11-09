@@ -466,26 +466,6 @@
 },
 
 {
-  "expression": "in the sack",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "expression",
-  "meaning": "in bed, especially having sex",
-  "exchanges": [
-    {
-      "uid": "s02_e18_c11_u018",
-      "answer": "in the sack",
-      "options": [
-        "in the sack",
-        "on the rocks",
-        "in the loop",
-        "off the hook"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "freak of nature",
   "type": "colloquial",
   "level": "expert",

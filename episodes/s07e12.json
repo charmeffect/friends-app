@@ -323,27 +323,6 @@
 },
 
 {
-  "expression": "hot for",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "adjective",
-  "meaning": "sexually attracted to someone",
-  "exchanges": [
-    {
-      "uid": "s07_e12_c17_u016",
-      "answer": "hot for",
-      "responseUid": null,
-      "options": [
-        "hot for",
-        "sick of",
-        "proud of",
-        "sorry for"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "call in sick",
   "type": "phrase",
   "level": "high",
@@ -388,7 +367,7 @@
   "type": "colloquial",
   "level": "college",
   "pos": "expression",
-  "meaning": "to give someone an amazing and exciting experience, often sexually",
+  "meaning": "to give someone an amazing and exciting experience",
   "exchanges": [
     {
       "uid": "s07_e12_c16_u006",

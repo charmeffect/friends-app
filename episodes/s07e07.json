@@ -200,26 +200,6 @@
 },
 
 {
-  "expression": "fool around",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss or have casual sexual contact with someone",
-  "exchanges": [
-    {
-      "uid": "s07_e07_c05_u006",
-      "answer": "fool around",
-      "options": [
-        "fool around",
-        "turn around",
-        "come around",
-        "bring around"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "for crying out loud",
   "type": "colloquial",
   "level": "high",

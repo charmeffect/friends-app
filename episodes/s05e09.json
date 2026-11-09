@@ -477,26 +477,6 @@
 },
 
 {
-  "expression": "in the sack",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "expression",
-  "meaning": "in bed, especially having sex",
-  "exchanges": [
-    {
-      "uid": "s05_e09_c12_u041",
-      "answer": "in the sack",
-      "options": [
-        "in the sack",
-        "on the rocks",
-        "in the loop",
-        "off the hook"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "up for grabs",
   "type": "colloquial",
   "level": "high",

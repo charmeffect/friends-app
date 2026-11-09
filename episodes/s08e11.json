@@ -380,26 +380,6 @@
 },
 
 {
-  "expression": "turn someone on",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to make someone sexually excited",
-  "exchanges": [
-    {
-      "uid": "s08_e11_c06_u012",
-      "answer": "turning me on",
-      "options": [
-        "turning me on",
-        "turning me down",
-        "turning me in",
-        "turning me over"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "a closed book",
   "type": "colloquial",
   "level": "college",

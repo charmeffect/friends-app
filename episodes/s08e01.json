@@ -440,26 +440,6 @@
 },
 
 {
-  "expression": "knocked up",
-  "type": "colloquial",
-  "level": "expert",
-  "pos": "adjective",
-  "meaning": "pregnant",
-  "exchanges": [
-    {
-      "uid": "s08_e01_c03_u103",
-      "answer": "knocked up",
-      "options": [
-        "knocked up",
-        "washed up",
-        "checked out",
-        "set up"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "with child",
   "type": "phrase",
   "level": "expert",

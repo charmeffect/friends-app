@@ -223,26 +223,6 @@
 },
 
 {
-  "expression": "fool around",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss or have casual sexual contact with someone",
-  "exchanges": [
-    {
-      "uid": "s03_e12_c06_u013",
-      "answer": "fooling around",
-      "options": [
-        "fooling around",
-        "freaking out",
-        "showing off",
-        "breaking down"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "goof around",
   "type": "colloquial",
   "level": "high",
@@ -410,27 +390,6 @@
         "losing your temper",
         "wasting your breath",
         "minding your business"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "turn someone on",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to make someone sexually excited",
-  "exchanges": [
-    {
-      "uid": "s03_e12_c15_u041",
-      "answer": "turned him on",
-      "responseUid": null,
-      "options": [
-        "turned him on",
-        "let him down",
-        "put him off",
-        "set him up"
       ]
     }
   ]

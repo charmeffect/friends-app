@@ -281,26 +281,6 @@
 },
 
 {
-  "expression": "fool around",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss or have casual sexual contact with someone",
-  "exchanges": [
-    {
-      "uid": "s02_e15_c07_u009",
-      "answer": "foolin' around",
-      "options": [
-        "foolin' around",
-        "playin' up",
-        "runnin' off",
-        "breakin' down"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "make it up to",
   "type": "colloquial",
   "level": "high",

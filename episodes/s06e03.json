@@ -427,26 +427,6 @@
 },
 
 {
-  "expression": "get lucky",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to have a sexual encounter with someone",
-  "exchanges": [
-    {
-      "uid": "s06_e03_c11_u024",
-      "answer": "gettin' lucky",
-      "options": [
-        "gettin' lucky",
-        "gettin' fired",
-        "gettin' even",
-        "gettin' paid"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "binding",
   "type": "word",
   "level": "college",
