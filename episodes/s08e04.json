@@ -519,5 +519,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "get a chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the opportunity or the free time to do something",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c01_u023",
+      "answer": "get a chance",
+      "options": [
+        "get a chance",
+        "get a grip",
+        "get a clue",
+        "get a life"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let's be honest",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you want to admit or state the truth plainly",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c02_u023",
+      "answer": "let's be honest",
+      "options": [
+        "let's be honest",
+        "let's be quiet",
+        "let's be friends",
+        "let's be careful"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wrong number",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "a telephone number that was dialled by mistake, so the caller has reached the wrong person",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c03_u012",
+      "answer": "wrong number",
+      "options": [
+        "wrong number",
+        "wrong address",
+        "wrong turn",
+        "wrong answer"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's rough",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to show sympathy when someone describes a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c04_u009",
+      "answer": "that's rough",
+      "options": [
+        "that's rough",
+        "that's cute",
+        "that's fair",
+        "that's neat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it gets better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that the most interesting or impressive part of a story is still to come",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c05_u005",
+      "answer": "It gets better",
+      "options": [
+        "It gets better",
+        "It gets colder",
+        "It gets older",
+        "It gets quieter"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "end of story",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show that there is nothing more to say about a matter",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c07_u026",
+      "answer": "end of story",
+      "options": [
+        "end of story",
+        "end of season",
+        "end of term",
+        "end of month"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for your sake",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "in order to help or protect you",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c07_u031",
+      "answer": "for your sake",
+      "options": [
+        "for your sake",
+        "for your health",
+        "for your age",
+        "for your size"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it seems like yesterday",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something that happened a while ago feels very recent",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c08_u018",
+      "answer": "seems like yesterday",
+      "options": [
+        "seems like yesterday",
+        "seems like forever",
+        "seems like nothing",
+        "seems like a mistake"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work out for the best",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to end with a good result even though things seemed to go wrong",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c08_u026",
+      "answer": "for the best",
+      "options": [
+        "for the best",
+        "for the money",
+        "for the night",
+        "for the record"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "me neither",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree with a negative statement someone has just made",
+  "exchanges": [
+    {
+      "uid": "s08_e04_c09_u010",
+      "answer": "me neither",
+      "options": [
+        "me neither",
+        "me first",
+        "me again",
+        "me instead"
+      ]
+    }
+  ]
 }
 ]

@@ -511,5 +511,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "nice work",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to praise someone, or sarcastically to point out that they have made a mistake",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c01_u015",
+      "answer": "Nice work",
+      "options": [
+        "Nice work",
+        "Good night",
+        "Happy birthday",
+        "Welcome back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "irresponsible",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not caring about the results of your actions or your duties to other people",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c02_u007",
+      "answer": "irresponsible",
+      "options": [
+        "irresponsible",
+        "incredible",
+        "invisible",
+        "inexpensive"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if I remember correctly",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when you think something is true but are not completely sure",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c02_u016",
+      "answer": "if I remember correctly",
+      "options": [
+        "if I remember correctly",
+        "if I drive faster",
+        "if I sell it",
+        "if I lose weight"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trust me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you are sure what you are telling someone is true",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c03_u009",
+      "answer": "Trust me",
+      "options": [
+        "Trust me",
+        "Forgive me",
+        "Excuse me",
+        "Follow me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cheer on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to shout encouragement to someone who is competing or performing",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c06_u012",
+      "answer": "cheering you on",
+      "cueUid": "s07_e22_c06_u010",
+      "options": [
+        "cheering you on",
+        "freaking you out",
+        "ripping you off",
+        "talking you down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "goof around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to behave playfully and waste time instead of working",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c07_u009",
+      "answer": "goofing around",
+      "options": [
+        "goofing around",
+        "settling down",
+        "dozing off",
+        "signing up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "next thing you know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something happens suddenly and unexpectedly after a series of events",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c07_u016",
+      "answer": "next thing you know",
+      "options": [
+        "next thing you know",
+        "last time I checked",
+        "first thing tomorrow",
+        "every time we meet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "horse around",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to play in a rough or silly way instead of being serious",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c08_u005",
+      "answer": "horsing around",
+      "responseUid": null,
+      "options": [
+        "horsing around",
+        "dropping by",
+        "checking in",
+        "cleaning up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be fond of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to like someone or something",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c14_u010",
+      "answer": "fond of",
+      "options": [
+        "fond of",
+        "made of",
+        "full of",
+        "short of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "misty",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "having tears in your eyes because you feel emotional",
+  "exchanges": [
+    {
+      "uid": "s07_e22_c14_u018",
+      "answer": "misty",
+      "options": [
+        "misty",
+        "sleepy",
+        "greedy",
+        "bossy"
+      ]
+    }
+  ]
 }
 ]

@@ -498,5 +498,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "change of plans",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a decision to do something different from what was arranged",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c10_u009",
+      "answer": "Change of plans",
+      "options": [
+        "Change of plans",
+        "Lack of time",
+        "Sense of humor",
+        "Piece of cake"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "excuse us",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way of asking someone to leave you alone with another person for a moment",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c09_u007",
+      "answer": "excuse us",
+      "options": [
+        "excuse us",
+        "thank us",
+        "remind us",
+        "pay us"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's complicated",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a situation is too difficult or sensitive to explain simply",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c12_u029",
+      "answer": "it's complicated",
+      "options": [
+        "it's complicated",
+        "it's delicious",
+        "it's expensive",
+        "it's crowded"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some extent, when you look at it from one point of view",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c12_u006",
+      "answer": "In a way",
+      "options": [
+        "In a way",
+        "In a row",
+        "In a hurry",
+        "At a loss"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "owe it to yourself",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to deserve to do something for your own happiness or good, so you should not deny it to yourself",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c12_u038",
+      "answer": "owe it to yourself",
+      "options": [
+        "owe it to yourself",
+        "keep it to yourself",
+        "leave it to yourself",
+        "take it upon yourself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be worth doing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be useful or important enough to justify the effort",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c12_u036",
+      "answer": "worth",
+      "options": [
+        "worth",
+        "useless",
+        "boring",
+        "silly"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you've got to admit",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is clearly true, even if the listener may not want to accept it",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c03_u006",
+      "answer": "you got to admit",
+      "options": [
+        "you got to admit",
+        "you got to leave",
+        "you got to wait",
+        "you got to stop"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just a second",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to wait for a very short time",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c07_u023",
+      "answer": "Just a second",
+      "options": [
+        "Just a second",
+        "Just in case",
+        "Just my luck",
+        "Just for fun"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "in someone's way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "blocking or bothering someone so that they cannot do what they want",
+  "exchanges": [
+    {
+      "uid": "s08_e15_c10_u028",
+      "answer": "in our way",
+      "options": [
+        "in our way",
+        "on our side",
+        "in our debt",
+        "on our list"
+      ]
+    }
+  ]
 }
 ]

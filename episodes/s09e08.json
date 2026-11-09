@@ -499,5 +499,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what's the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that there is no good reason to do or have something",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u006",
+      "answer": "What is the point",
+      "options": [
+        "What is the point",
+        "What is the name",
+        "What is the matter",
+        "What is the rule"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get over it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "stop being upset about something that is not important",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u211",
+      "answer": "Get over it",
+      "options": [
+        "Get over it",
+        "Get into it",
+        "Get on it",
+        "Get behind it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of your mind",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "crazy or behaving in a completely unreasonable way",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u232",
+      "answer": "out of your mind",
+      "options": [
+        "out of your mind",
+        "out of your league",
+        "out of your way",
+        "out of your depth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whose side are you on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when someone seems to be supporting the other person in an argument instead of you",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u202",
+      "answer": "whose side",
+      "options": [
+        "whose side",
+        "whose list",
+        "whose bus",
+        "whose phone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tough to take",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "difficult to tolerate or spend time with",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u091",
+      "answer": "tough to take",
+      "options": [
+        "tough to take",
+        "tough to beat",
+        "tough to find",
+        "tough to spell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "father figure",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a man who acts like a father by guiding, protecting, and setting rules for a child",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u171",
+      "answer": "father figure",
+      "options": [
+        "father figure",
+        "fashion icon",
+        "family doctor",
+        "front runner"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "grounded",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "not allowed by your parents to go out, as a punishment",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u175",
+      "answer": "grounded",
+      "responseUid": null,
+      "options": [
+        "grounded",
+        "gifted",
+        "adopted",
+        "hired"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take something the wrong way",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to misunderstand a remark and be offended or upset by it",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u158",
+      "answer": "the wrong way",
+      "options": [
+        "the wrong way",
+        "the long way",
+        "the back way",
+        "the scenic way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "these things happen",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to comfort someone by pointing out that bad luck is a normal part of life",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u245",
+      "answer": "these things happen",
+      "options": [
+        "these things happen",
+        "these things hurt",
+        "these things count",
+        "these things sell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "well done",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to praise someone for doing something well",
+  "exchanges": [
+    {
+      "uid": "s09_e08_c01_u240",
+      "answer": "Well done",
+      "options": [
+        "Well done",
+        "Well fed",
+        "Well read",
+        "Well off"
+      ]
+    }
+  ]
 }
 ]

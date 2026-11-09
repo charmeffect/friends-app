@@ -490,5 +490,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "for the love of God",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to show strong frustration or urgency when begging someone to do something",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c01_u011",
+      "answer": "love of God",
+      "options": [
+        "love of God",
+        "sake of it",
+        "end of time",
+        "rest of us"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if you must know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, often a little annoyed, before telling someone something they have been curious or nosy about",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c02_u019",
+      "answer": "if you must know",
+      "options": [
+        "if you must know",
+        "if you must leave",
+        "if you can wait",
+        "if you could stay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "me neither",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree with a negative statement someone has just made",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c10_u021",
+      "answer": "Me neither",
+      "options": [
+        "Me neither",
+        "Me first",
+        "Me again",
+        "Me instead"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "upside down",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "with the top part at the bottom and the bottom part at the top",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c11_u029",
+      "answer": "upside down",
+      "options": [
+        "upside down",
+        "inside out",
+        "far away",
+        "fast asleep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's complicated",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a situation is too difficult or sensitive to explain simply",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c15_u010",
+      "answer": "complicated",
+      "options": [
+        "complicated",
+        "finished",
+        "hilarious",
+        "contagious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what are you talking about",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you do not understand or are surprised by what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c16_u008",
+      "answer": "talking about",
+      "options": [
+        "talking about",
+        "looking at",
+        "laughing at",
+        "waiting for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm screwed",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you are in a bad situation and there is nothing you can do about it",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c12_u051",
+      "answer": "screwed",
+      "options": [
+        "screwed",
+        "thrilled",
+        "relieved",
+        "forgiven"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I hate to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used politely before saying something critical or unwelcome",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c14_u014",
+      "answer": "I hate to",
+      "options": [
+        "I hate to",
+        "I used to",
+        "I tend to",
+        "I got to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "about to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "going to do something very soon",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c09_u009",
+      "answer": "about to",
+      "options": [
+        "about to",
+        "unable to",
+        "pretending to",
+        "refusing to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by myself",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "alone and without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s08_e24_c16_u013",
+      "answer": "by myself",
+      "options": [
+        "by myself",
+        "for myself",
+        "with myself",
+        "to myself"
+      ]
+    }
+  ]
 }
 ]

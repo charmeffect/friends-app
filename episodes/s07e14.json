@@ -498,5 +498,146 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "is it just me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask whether other people notice or feel the same thing you do",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c01_u026",
+      "answer": "Is it just me",
+      "responseUid": null,
+      "options": [
+        "Is it just me",
+        "Is it my turn",
+        "Is it on sale",
+        "Is it your car"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here's what we're gonna do",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to announce a plan that you are about to explain",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c05_u009",
+      "answer": "here's what",
+      "options": [
+        "here's what",
+        "here's why",
+        "here's how",
+        "here's where"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wasted",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely drunk",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c07_u021",
+      "answer": "wasted",
+      "options": [
+        "wasted",
+        "asleep",
+        "bored",
+        "late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me guess",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said before you try to work out or predict something, often jokingly",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c09_u006",
+      "answer": "let me guess",
+      "options": [
+        "let me guess",
+        "let me sleep",
+        "let me drive",
+        "let me pay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as I was saying",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to continue what you were saying after someone has interrupted you",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c09_u007",
+      "answer": "As I was saying",
+      "options": [
+        "As I was saying",
+        "As I was leaving",
+        "As I was sleeping",
+        "As I was eating"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "past the point where",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "at a stage in life or in a situation where something is no longer possible or suitable",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c13_u020",
+      "answer": "past the point",
+      "options": [
+        "past the point",
+        "off the record",
+        "on the house",
+        "under the weather"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how'd it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked to find out whether an event or task went well",
+  "exchanges": [
+    {
+      "uid": "s07_e14_c13_u028",
+      "answer": "How'd it go",
+      "options": [
+        "How'd it go",
+        "Who'd you call",
+        "What'd you eat",
+        "Why'd you sit"
+      ]
+    }
+  ]
 }
 ]

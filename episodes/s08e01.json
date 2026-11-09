@@ -457,5 +457,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "give me a sec",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to wait for a very short time",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c01_u002",
+      "answer": "give me a sec",
+      "options": [
+        "give me a sec",
+        "give me a ride",
+        "give me a hint",
+        "give me a kiss"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't believe we've met",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite way to start introducing yourself to someone you do not know yet",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c03_u043",
+      "answer": "we've met",
+      "options": [
+        "we've met",
+        "we've won",
+        "we've lost",
+        "we've paid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the good news is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the positive side of a bad or awkward situation",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c03_u020",
+      "answer": "the good news is",
+      "options": [
+        "the good news is",
+        "the bad news is",
+        "the sad truth is",
+        "the real problem is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a seat",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to sit down, often said as a polite invitation",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c03_u072",
+      "answer": "take your seats",
+      "options": [
+        "take your seats",
+        "check your coats",
+        "find your keys",
+        "open your gifts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "between you and me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that what you are about to tell someone should be kept secret",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c03_u090",
+      "answer": "Between me and you",
+      "options": [
+        "Between me and you",
+        "Except me and you",
+        "Unlike me and you",
+        "Beside me and you"
+      ],
+      "responseUid": "s08_e01_c03_u092"
+    }
+  ]
+},
+
+{
+  "expression": "why bother",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that there is no point in doing something",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c04_u006",
+      "answer": "Why bother",
+      "options": [
+        "Why bother",
+        "Why not",
+        "Why me",
+        "Bless you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wouldn't mind",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "would be willing to do something and not object to it",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c04_u040",
+      "answer": "wouldn't mind",
+      "options": [
+        "wouldn't mind",
+        "wouldn't dare",
+        "couldn't stand",
+        "shouldn't risk"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "try me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to challenge someone to test whether you can or will do something",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c04_u094",
+      "answer": "try me",
+      "options": [
+        "try me",
+        "pay me",
+        "thank me",
+        "blame me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be right for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "to be the suitable person or thing for a particular role or purpose",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c04_u093",
+      "answer": "right for",
+      "options": [
+        "right for",
+        "sorry for",
+        "famous for",
+        "known for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be proud of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to feel pleased and satisfied about something you have or have done",
+  "exchanges": [
+    {
+      "uid": "s08_e01_c04_u096",
+      "answer": "proud of",
+      "options": [
+        "proud of",
+        "full of",
+        "short of",
+        "aware of"
+      ]
+    }
+  ]
 }
 ]

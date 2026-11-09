@@ -480,5 +480,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "is this a bad time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when you arrive or call to check whether you are interrupting someone",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c04_u002",
+      "answer": "bad time",
+      "options": [
+        "bad time",
+        "bad idea",
+        "big deal",
+        "long way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I know, right",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree enthusiastically with what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c08_u004",
+      "answer": "right",
+      "options": [
+        "right",
+        "please",
+        "again",
+        "twice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "your thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the activity or quality that a person is known for or especially good at",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c08_u008",
+      "answer": "thing",
+      "options": [
+        "thing",
+        "debt",
+        "loss",
+        "rent"
+      ],
+      "responseUid": "s09_e06_c08_u010"
+    }
+  ]
+},
+
+{
+  "expression": "damage control",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "action taken to limit the harm after something has gone wrong",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c12_u022",
+      "answer": "damage control",
+      "options": [
+        "damage control",
+        "quality time",
+        "small talk",
+        "pest control"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chemistry",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a strong mutual attraction or natural connection between two people",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c18_u007",
+      "answer": "chemistry",
+      "options": [
+        "chemistry",
+        "geography",
+        "history",
+        "grammar"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's fair",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to agree that a suggestion or arrangement is reasonable and just",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c18_u015",
+      "answer": "That's fair",
+      "options": [
+        "That's fair",
+        "That's rude",
+        "That's late",
+        "That's cheap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "irresistible",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "so attractive that people cannot stop themselves from wanting it",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c05_u005",
+      "answer": "irresistible",
+      "options": [
+        "irresistible",
+        "unbearable",
+        "invisible",
+        "unreliable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tough guy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a man who acts hard, strong, and unemotional",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c18_u018",
+      "answer": "tough guy",
+      "options": [
+        "tough guy",
+        "shy guy",
+        "sad guy",
+        "soft guy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be seeing someone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be in a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s09_e06_c09_u006",
+      "answer": "seeing",
+      "options": [
+        "seeing",
+        "hiring",
+        "robbing",
+        "teaching"
+      ]
+    }
+  ]
 }
 ]

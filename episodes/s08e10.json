@@ -462,5 +462,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "do me a favor",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to help you with something",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c02_u012",
+      "answer": "do me a favor",
+      "options": [
+        "do me a favor",
+        "pay me a visit",
+        "lend me a pen",
+        "owe me a dollar"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's too bad",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show sympathy when something disappointing has happened to someone",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c02_u034",
+      "answer": "that's too bad",
+      "options": [
+        "that's too bad",
+        "that's so great",
+        "that's my fault",
+        "that's no problem"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get your money back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the money you paid for something returned to you",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c03_u016",
+      "answer": "get your money back",
+      "options": [
+        "get your money back",
+        "get your hopes up",
+        "get your hair cut",
+        "get your feet wet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the outside",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in the way someone or something appears, which may differ from what they are really like",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c07_u006",
+      "answer": "on the outside",
+      "options": [
+        "on the outside",
+        "on the house",
+        "on the way",
+        "on the bright side"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give me a second",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to wait for a very short time",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c08_u015",
+      "answer": "give me a second",
+      "options": [
+        "give me a second",
+        "give me a hug",
+        "give me a call",
+        "give me a break"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a little help here",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask people nearby to support you or help you in a difficult moment",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c09_u024",
+      "answer": "A little help here",
+      "options": [
+        "A little help here",
+        "A little lower here",
+        "A little early here",
+        "A little colder here"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "two sides to every story",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that each person involved in a disagreement has their own version of what happened",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c10_u013",
+      "answer": "two sides",
+      "options": [
+        "two sides",
+        "two cents",
+        "two faces",
+        "two minutes"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get a chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the opportunity or the free time to do something",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c11_u013",
+      "answer": "get a chance",
+      "options": [
+        "get a chance",
+        "get a ticket",
+        "get a grip",
+        "get a clue"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ruin your life",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something that causes very serious and lasting harm to your future",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c12_u011",
+      "answer": "ruin your life",
+      "options": [
+        "ruin your life",
+        "save your life",
+        "enjoy your life",
+        "run your life"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "break the law",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something that is illegal",
+  "exchanges": [
+    {
+      "uid": "s08_e10_c13_u009",
+      "answer": "breaking the law",
+      "options": [
+        "breaking the law",
+        "breaking the ice",
+        "breaking the news",
+        "breaking the bank"
+      ]
+    }
+  ]
 }
 ]

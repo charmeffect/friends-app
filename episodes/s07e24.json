@@ -507,5 +507,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "pretty sure",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "fairly certain, though not completely",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c02_u005",
+      "answer": "Pretty sure",
+      "options": [
+        "Pretty sure",
+        "Pretty soon",
+        "Pretty late",
+        "Pretty rich"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "God knows",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to emphasize that something is certainly true",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c03_u013",
+      "answer": "God knows",
+      "options": [
+        "God knows",
+        "God forbid",
+        "God help",
+        "God bless"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in disguise",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "wearing clothes or makeup so that other people will not recognize you",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c04_u005",
+      "answer": "in disguise",
+      "options": [
+        "in disguise",
+        "in charge",
+        "in favor",
+        "in tune"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's wrong with",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what problem someone or something has",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c04_u016",
+      "answer": "What's wrong with",
+      "options": [
+        "What's wrong with",
+        "What's left of",
+        "Who's tired of",
+        "What's become of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a low opinion of",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to think that someone is not good, clever, or capable",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c04_u022",
+      "answer": "lower opinion",
+      "options": [
+        "lower opinion",
+        "bigger fear",
+        "louder voice",
+        "longer list"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "depends on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "used to say that the answer changes according to something else",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c04_u027",
+      "answer": "Depends on",
+      "options": [
+        "Depends on",
+        "Insists on",
+        "Focuses on",
+        "Relies on"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "at a time",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "separately, one after another, instead of all together",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c08_u004",
+      "answer": "at a time",
+      "options": [
+        "at a time",
+        "at a loss",
+        "at all costs",
+        "at first sight"
+      ],
+      "cueUid": "s07_e24_c08_u002"
+    }
+  ]
+},
+
+{
+  "expression": "get some fresh air",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to go outside for a short time to breathe outdoor air",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c08_u011",
+      "answer": "fresh air",
+      "options": [
+        "fresh air",
+        "hot water",
+        "bad news",
+        "loose change"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "done for the day",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "finished working for today",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c11_u006",
+      "answer": "done for the day",
+      "options": [
+        "done for the day",
+        "in for a treat",
+        "up for a raise",
+        "on for the night"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be meant to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be intended by fate to do or be something",
+  "exchanges": [
+    {
+      "uid": "s07_e24_c13_u034",
+      "answer": "meant to",
+      "options": [
+        "meant to",
+        "afraid to",
+        "forced to",
+        "unable to"
+      ]
+    }
+  ]
 }
 ]

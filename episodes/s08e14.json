@@ -500,5 +500,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "catch someone at a bad time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to come to or contact someone when they are busy or it is not convenient for them",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c01_u014",
+      "answer": "bad time",
+      "options": [
+        "bad time",
+        "bad price",
+        "bad angle",
+        "bad seat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do I know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to admit that you are not an expert and your opinion may be wrong",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c07_u012",
+      "answer": "what do I know",
+      "options": [
+        "what do I know",
+        "what do I owe",
+        "what do I win",
+        "what do I wear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lone wolf",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who prefers to live or act alone",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c12_u007",
+      "answer": "lone wolf",
+      "options": [
+        "lone wolf",
+        "night owl",
+        "dark horse",
+        "lame duck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spur on",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to encourage someone to keep going or do something with more energy",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c09_u015",
+      "answer": "spurred you on",
+      "options": [
+        "spurred you on",
+        "turned you in",
+        "gave you up",
+        "let you down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be due",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be expected to have something happen because it has not happened for a long time",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c10_u035",
+      "answer": "due",
+      "options": [
+        "due",
+        "born",
+        "lost",
+        "late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for all I know",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said when you have no real information and something could easily be true",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c08_u009",
+      "answer": "For all I know",
+      "options": [
+        "For all I know",
+        "For all I paid",
+        "For all I ate",
+        "For all I said"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it could happen to anyone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to comfort someone by telling them a mistake is common and not their fault",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c10_u015",
+      "answer": "happen to anyone",
+      "options": [
+        "happen to anyone",
+        "belong to anyone",
+        "talk to anyone",
+        "listen to anyone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on my own",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "alone, without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c12_u007",
+      "answer": "on my own",
+      "options": [
+        "on my own",
+        "on my bike",
+        "on my break",
+        "on my diet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lying around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "left somewhere carelessly instead of being put away",
+  "exchanges": [
+    {
+      "uid": "s08_e14_c11_u010",
+      "answer": "lying around",
+      "options": [
+        "lying around",
+        "showing off",
+        "coming over",
+        "running late"
+      ]
+    }
+  ]
 }
 ]

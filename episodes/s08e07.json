@@ -502,5 +502,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "give someone a chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to let someone show what they are like before you judge them",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c01_u016",
+      "answer": "give her a chance",
+      "options": [
+        "give her a chance",
+        "give her a ride",
+        "give her a push",
+        "give her a cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not so much",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a humorous, understated way of saying no",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c02_u031",
+      "answer": "Not so much",
+      "options": [
+        "Not so much",
+        "Not so fast",
+        "Not so loud",
+        "Not so late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "apartment hunting",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "looking around for a new apartment to rent or buy",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c02_u025",
+      "answer": "apartment hunting",
+      "options": [
+        "apartment hunting",
+        "house sitting",
+        "bird watching",
+        "baby sitting"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fight for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to try hard to win or keep someone or something you want",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c02_u016",
+      "answer": "Fight for",
+      "options": [
+        "Fight for",
+        "Pay for",
+        "Cry for",
+        "Lie for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sorry for your loss",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite formula used to express sympathy to someone whose friend or relative has died",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c03_u005",
+      "answer": "sorry for your loss",
+      "options": [
+        "sorry for your loss",
+        "sorry for your mess",
+        "happy for your family",
+        "grateful for your help"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work up an appetite",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make yourself hungry by doing physical activity",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c07_u009",
+      "answer": "work up your appetite",
+      "options": [
+        "work up your appetite",
+        "give up your appetite",
+        "cover up your appetite",
+        "shut up your appetite"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we're all in this together",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to mean that everyone is sharing the same situation and should support each other",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c10_u019",
+      "answer": "in this together",
+      "options": [
+        "in this together",
+        "in this alone",
+        "out of luck",
+        "on our own"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to understand the main idea someone is trying to make",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c10_u024",
+      "answer": "get your point",
+      "options": [
+        "get your point",
+        "miss your bus",
+        "hear your phone",
+        "lose your keys"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tired out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very tired after a lot of activity",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c12_u005",
+      "answer": "tired out",
+      "options": [
+        "tired out",
+        "sold out",
+        "left out",
+        "locked out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "an awful lot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very much; to a great degree",
+  "exchanges": [
+    {
+      "uid": "s08_e07_c12_u011",
+      "answer": "an awful lot",
+      "options": [
+        "an awful lot",
+        "an awful mess",
+        "a short while",
+        "a long shot"
+      ]
+    }
+  ]
 }
 ]

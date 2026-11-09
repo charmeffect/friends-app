@@ -523,5 +523,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "come on in",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of inviting someone to enter a room or home",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c09_u009",
+      "answer": "Come on in",
+      "options": [
+        "Come on in",
+        "Go on out",
+        "Hold on tight",
+        "Come back soon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel good about yourself",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel confident and pleased with who you are",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c15_u003",
+      "answer": "feel good about yourself",
+      "options": [
+        "feel good about yourself",
+        "feel sorry for yourself",
+        "keep it to yourself",
+        "be hard on yourself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the good news is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the positive side of a bad or awkward situation",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c01_u011",
+      "answer": "the good news is",
+      "options": [
+        "the good news is",
+        "the sad truth is",
+        "the worst part is",
+        "the strange thing is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "first impression",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the opinion people form of you when they meet you for the first time",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c05_u024",
+      "answer": "first impression",
+      "options": [
+        "first impression",
+        "second opinion",
+        "last minute",
+        "final offer"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shy away from",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to avoid doing something because you are nervous or unwilling",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c11_u002",
+      "answer": "shy away from",
+      "options": [
+        "shy away from",
+        "bring back from",
+        "sign up for",
+        "run out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go into detail",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to explain or discuss something thoroughly, including all the facts",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c13_u011",
+      "answer": "go into detail",
+      "options": [
+        "go into detail",
+        "go into hiding",
+        "go into labor",
+        "go on strike"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come on too strong",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to behave in a way that is too forceful or intense for other people",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c13_u016",
+      "answer": "come on too strong",
+      "options": [
+        "come on too strong",
+        "come up too short",
+        "go down too easy",
+        "come in too cheap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "humiliated",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "feeling deeply ashamed and embarrassed in front of others",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c01_u016",
+      "answer": "humiliated",
+      "options": [
+        "humiliated",
+        "flattered",
+        "relieved",
+        "delighted"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fascinated",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely interested in something",
+  "exchanges": [
+    {
+      "uid": "s08_e21_c04_u014",
+      "answer": "fascinated",
+      "options": [
+        "fascinated",
+        "frustrated",
+        "disgusted",
+        "terrified"
+      ]
+    }
+  ]
 }
 ]

@@ -459,5 +459,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "have to run",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say politely that you must leave now",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c02_u028",
+      "answer": "have to run",
+      "options": [
+        "have to run",
+        "have to stay",
+        "have to eat",
+        "have to sing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take it slow",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to let a relationship develop gradually without rushing",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c06_u002",
+      "answer": "taking it slow",
+      "options": [
+        "taking it slow",
+        "taking it back",
+        "taking it home",
+        "taking it apart"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to express surprise, often sarcastically, at something you have just noticed",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c06_u010",
+      "answer": "what do you know",
+      "options": [
+        "what do you know",
+        "what do you need",
+        "what do you say",
+        "what do you do"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give me a call",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to phone you",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c08_u046",
+      "answer": "Give me a call",
+      "options": [
+        "Give me a call",
+        "Give me a hand",
+        "Give me a break",
+        "Give me a ride"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what have you got to lose",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to encourage someone to try something because there is no risk in doing it",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c09_u006",
+      "answer": "got to lose",
+      "options": [
+        "got to lose",
+        "got to hide",
+        "got to sell",
+        "got to fix"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work late",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stay at work after the usual time",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c11_u010",
+      "answer": "work late",
+      "options": [
+        "work late",
+        "sleep late",
+        "eat late",
+        "arrive late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk it out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to settle a problem or disagreement by discussing it openly",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c11_u049",
+      "answer": "talk it out",
+      "options": [
+        "talk it out",
+        "throw it out",
+        "hand it out",
+        "find it out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "more often than not",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "in most cases; usually",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c12_u008",
+      "answer": "more often than not",
+      "options": [
+        "more often than not",
+        "more than ever",
+        "later than usual",
+        "less than ever"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I want to say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used when you give an answer you think is right but are not sure about",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c13_u005",
+      "answer": "wanna say",
+      "options": [
+        "wanna say",
+        "wanna know",
+        "wanna see",
+        "wanna buy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can see it now",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to describe, often mockingly, how you imagine a situation would look",
+  "exchanges": [
+    {
+      "uid": "s06_e19_c08_u013",
+      "answer": "see it now",
+      "options": [
+        "see it now",
+        "fix it now",
+        "do it now",
+        "pay it now"
+      ]
+    }
+  ]
 }
 ]

@@ -541,5 +541,167 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "too soon",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "earlier than is sensible or right",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c01_u003",
+      "answer": "too soon",
+      "options": [
+        "too soon",
+        "too cold",
+        "too rich",
+        "too far"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speak for itself",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to show its quality clearly without needing any explanation",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c05_u008",
+      "answer": "speaks for itself",
+      "options": [
+        "speaks for itself",
+        "pays for itself",
+        "looks after itself",
+        "cleans up itself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "problem solved",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when a difficulty has just been dealt with and nothing more needs to be done",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c06_u018",
+      "answer": "Problem solved",
+      "options": [
+        "Problem solved",
+        "Sounds painful",
+        "Bad news",
+        "Happy birthday"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "be cool",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "stay calm and don't make a fuss",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c13_u003",
+      "answer": "be cool",
+      "options": [
+        "be cool",
+        "be loud",
+        "be late",
+        "be rude"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "the last thing you want",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "something you should definitely avoid because it would make things worse",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c12_u007",
+      "answer": "the last thing",
+      "options": [
+        "the last thing",
+        "the first thing",
+        "the right thing",
+        "the best thing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "absolutely",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to say yes very strongly; certainly",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c13_u017",
+      "answer": "Absolutely",
+      "options": [
+        "Absolutely",
+        "Hardly",
+        "Rarely",
+        "Barely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "such an honor",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say you feel proud and grateful to be chosen or included",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c16_u005",
+      "answer": "such an honor",
+      "options": [
+        "such an honor",
+        "such a shame",
+        "such a pity",
+        "such a mess"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be right with you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone that you will come or attend to them in a moment",
+  "exchanges": [
+    {
+      "uid": "s07_e18_c15_u008",
+      "answer": "be right with you",
+      "options": [
+        "be right with you",
+        "be done with you",
+        "be mad at you",
+        "be sick of you"
+      ]
+    }
+  ]
 }
 ]

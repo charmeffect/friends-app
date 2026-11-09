@@ -500,5 +500,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "set the mood",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to create a particular atmosphere, especially a romantic one",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c12_u004",
+      "answer": "set the mood",
+      "options": [
+        "set the mood",
+        "set the date",
+        "set the pace",
+        "set the record"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all grown up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said fondly or proudly when someone has become mature or adult",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c03_u013",
+      "answer": "all grown up",
+      "options": [
+        "all grown up",
+        "all washed up",
+        "all locked up",
+        "all cleaned up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "belong together",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be well suited to each other, especially as a couple",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c06_u005",
+      "answer": "belong together",
+      "options": [
+        "belong together",
+        "argue together",
+        "travel together",
+        "study together"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me guess",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said before you try to work out or predict something, often jokingly",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c09_u020",
+      "answer": "let me guess",
+      "options": [
+        "let me guess",
+        "let me explain",
+        "let me finish",
+        "let me apologize"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here comes",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that someone or something is arriving or about to happen",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c02_u037",
+      "answer": "Here comes",
+      "options": [
+        "Here comes",
+        "Here ends",
+        "Here stops",
+        "Here leaves"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "am I interrupting?",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said politely when you enter and think you may be disturbing people",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c04_u009",
+      "answer": "interrupting",
+      "options": [
+        "interrupting",
+        "introducing",
+        "intending",
+        "inventing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "handle it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be able to deal with a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c08_u007",
+      "answer": "handle it",
+      "options": [
+        "handle it",
+        "spoil it",
+        "waste it",
+        "drop it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm kidding",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that what you just said was only a joke",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c08_u013",
+      "answer": "I'm kidding",
+      "options": [
+        "I'm kidding",
+        "I'm leaving",
+        "I'm serious",
+        "I'm fainting"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in labor",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "going through the process of giving birth",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c07_u014",
+      "answer": "in labor",
+      "options": [
+        "in labor",
+        "in charge",
+        "in debt",
+        "in office"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "would you mind",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way of asking someone to do something",
+  "exchanges": [
+    {
+      "uid": "s08_e23_c01_u028",
+      "answer": "Would you mind",
+      "options": [
+        "Would you mind",
+        "Would you dare",
+        "Would you hate",
+        "Would you regret"
+      ]
+    }
+  ]
 }
 ]

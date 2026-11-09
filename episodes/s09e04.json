@@ -480,5 +480,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "dressed up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "wearing nicer or more formal clothes than usual",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c01_u004",
+      "answer": "dressed up",
+      "options": [
+        "dressed up",
+        "booked up",
+        "signed up",
+        "used up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "long-term relationship",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a romantic relationship that lasts for a long time",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c01_u015",
+      "answer": "long-term",
+      "options": [
+        "long-term",
+        "full-time",
+        "last-minute",
+        "one-way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I didn't catch",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you did not hear or understand what someone said, especially their name",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c01_u022",
+      "answer": "catch",
+      "options": [
+        "catch",
+        "throw",
+        "drop",
+        "break"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one of these days",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at some time in the future that is not yet decided",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c02_u007",
+      "answer": "one of these days",
+      "options": [
+        "one of these days",
+        "once upon a time",
+        "all of a sudden",
+        "every other day"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fly out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to travel by plane to a place, especially one far away",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c02_u008",
+      "answer": "fly out",
+      "options": [
+        "fly out",
+        "fly off",
+        "freak out",
+        "pass out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let myself out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to leave someone's home by yourself without them showing you to the door",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c09_u012",
+      "answer": "let myself out",
+      "options": [
+        "let myself out",
+        "make myself up",
+        "keep myself in",
+        "put myself off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on top of that",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in addition to what has already been said, usually something bad",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c10_u004",
+      "answer": "on top of that",
+      "options": [
+        "on top of that",
+        "instead of that",
+        "because of that",
+        "in spite of that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "smooth-talking",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "speaking in a charming, confident way that easily persuades people, often insincerely",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c10_u005",
+      "answer": "smooth talking",
+      "options": [
+        "smooth talking",
+        "slow walking",
+        "heavy sleeping",
+        "fast eating"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hit the gym",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go to the gym to exercise",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c06_u001",
+      "answer": "hit",
+      "options": [
+        "hit",
+        "beat",
+        "kick",
+        "punch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can't tell you how",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to emphasize how strongly you feel something",
+  "exchanges": [
+    {
+      "uid": "s09_e04_c11_u022",
+      "answer": "tell you",
+      "options": [
+        "tell you",
+        "sell you",
+        "warn you",
+        "pay you"
+      ]
+    }
+  ]
 }
 ]

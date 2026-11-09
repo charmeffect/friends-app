@@ -437,5 +437,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "sense of humor",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the ability to understand and enjoy funny things",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c01_u006",
+      "answer": "sense of humor",
+      "options": [
+        "sense of humor",
+        "sense of direction",
+        "peace of mind",
+        "point of view"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you should have seen",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something was so funny or remarkable that the listener would have enjoyed watching it",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c02_u005",
+      "answer": "You should've seen",
+      "options": [
+        "You should've seen",
+        "You could've hit",
+        "You would've hated",
+        "You must've told"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kinda",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "spoken short form of 'kind of': somewhat, a little",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c03_u008",
+      "answer": "kinda",
+      "options": [
+        "kinda",
+        "never",
+        "seldom",
+        "barely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "has it been that long",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said in surprise when you realize how much time has passed",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c04_u016",
+      "answer": "been that long",
+      "options": [
+        "been that long",
+        "been that cheap",
+        "been that loud",
+        "been that cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pretty soon",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "before long; in the near future",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u004",
+      "answer": "pretty soon",
+      "options": [
+        "pretty soon",
+        "pretty late",
+        "pretty rarely",
+        "pretty slowly"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "things change",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to accept that situations and relationships do not stay the same forever",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u005",
+      "answer": "things change",
+      "options": [
+        "things change",
+        "things freeze",
+        "things shrink",
+        "things melt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the way they are",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in their present state, without any changes",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u008",
+      "answer": "the way they are",
+      "options": [
+        "the way they are",
+        "the day they left",
+        "the one they sold",
+        "the time they came"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "got me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "I have no idea",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c05_u015",
+      "answer": "Got me",
+      "options": [
+        "Got me",
+        "Fooled me",
+        "Trust me",
+        "Excuse me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dude",
+  "type": "word",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an informal way to address a man, often to show surprise or admiration",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c06_u006",
+      "answer": "Dude",
+      "options": [
+        "Dude",
+        "Ma'am",
+        "Grandma",
+        "Your Honor"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go first",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be the one who starts, before the others take their turn",
+  "exchanges": [
+    {
+      "uid": "s07_e21_c06_u009",
+      "answer": "goes first",
+      "responseUid": null,
+      "options": [
+        "goes first",
+        "goes home",
+        "goes blind",
+        "goes broke"
+      ]
+    }
+  ]
 }
 ]

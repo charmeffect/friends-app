@@ -492,5 +492,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what was that all about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask the reason for something strange that just happened",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c01_u037",
+      "answer": "all about",
+      "options": [
+        "all about",
+        "all over",
+        "all along",
+        "all around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep it a secret",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to not tell anyone about something",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c01_u040",
+      "answer": "keep it a secret",
+      "options": [
+        "keep it a secret",
+        "make it a habit",
+        "give it a rest",
+        "call it a day"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to remove something from someone so that they no longer have it",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c02_u007",
+      "answer": "take away",
+      "options": [
+        "take away",
+        "take over",
+        "take up",
+        "take after"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds good",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree to a suggestion or plan",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c01_u031",
+      "answer": "sounds good",
+      "options": [
+        "sounds good",
+        "tastes good",
+        "smells good",
+        "feels good"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be okay with",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to accept something without being upset by it",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c06_u013",
+      "answer": "be okay with",
+      "options": [
+        "be okay with",
+        "be sick of",
+        "be scared of",
+        "be tired of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whenever you're ready",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone to take their time and speak or act when they feel able to",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c06_u016",
+      "answer": "whenever you're ready",
+      "options": [
+        "whenever you're ready",
+        "wherever you are",
+        "however you like",
+        "whoever you are"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "handle",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to deal with or be responsible for something",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c08_u027",
+      "answer": "handled",
+      "options": [
+        "handled",
+        "washed",
+        "painted",
+        "cooked"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "noticeable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "easy to see or notice",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c08_u016",
+      "answer": "noticeable",
+      "options": [
+        "noticeable",
+        "affordable",
+        "reasonable",
+        "comfortable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "excuse me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said in surprise or disbelief, asking someone to explain what they just said",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c11_u022",
+      "answer": "Excuse me",
+      "options": [
+        "Excuse me",
+        "Bless you",
+        "Thank you",
+        "Help me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the right thing to do",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "the morally correct or proper action in a situation",
+  "exchanges": [
+    {
+      "uid": "s08_e03_c11_u019",
+      "answer": "the right thing",
+      "options": [
+        "the right thing",
+        "the wrong thing",
+        "the scary thing",
+        "the funny thing"
+      ]
+    }
+  ]
 }
 ]

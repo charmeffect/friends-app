@@ -460,5 +460,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "somebody stop me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a joking way of saying you cannot stop yourself from telling something you probably should not",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c01_u022",
+      "answer": "Somebody stop me",
+      "options": [
+        "Somebody stop me",
+        "Somebody feed me",
+        "Somebody pay me",
+        "Somebody hire me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "yes and no",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is partly true and partly not, often to avoid a direct answer",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c02_u025",
+      "answer": "yes and no",
+      "options": [
+        "yes and no",
+        "now and then",
+        "here and there",
+        "back and forth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "scare off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to frighten someone so much that they stay away",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c03_u018",
+      "answer": "scare her off",
+      "options": [
+        "scare her off",
+        "show her off",
+        "drop her off",
+        "kick her off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "explain yourself",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to give reasons for your behaviour or decisions",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c07_u002",
+      "answer": "Explain yourself",
+      "options": [
+        "Explain yourself",
+        "Enjoy yourself",
+        "Help yourself",
+        "Treat yourself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one night thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "something, especially a romantic encounter, that happened only once and was not serious",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c07_u006",
+      "answer": "one night thing",
+      "options": [
+        "one night thing",
+        "two year thing",
+        "family thing",
+        "work thing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "inseparable",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "always together because of a very close friendship",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c11_u021",
+      "answer": "inseparable",
+      "options": [
+        "inseparable",
+        "invisible",
+        "unbearable",
+        "unemployed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I tell you what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce a suggestion or an offer",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c11_u024",
+      "answer": "I tell you what",
+      "options": [
+        "I tell you what",
+        "I told you so",
+        "I doubt it",
+        "I don't care"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'd better",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "I should; used to say what you think you need to do now",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c12_u004",
+      "answer": "I'd better",
+      "options": [
+        "I'd better",
+        "I never",
+        "I can't",
+        "I won't"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what gives you the right",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "an angry way of asking why someone thinks they are allowed to do or say something",
+  "exchanges": [
+    {
+      "uid": "s08_e08_c15_u008",
+      "answer": "gives you the right",
+      "options": [
+        "gives you the right",
+        "makes you so sure",
+        "tells you the time",
+        "took you so long"
+      ]
+    }
+  ]
 }
 ]

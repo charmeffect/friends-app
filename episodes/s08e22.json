@@ -489,5 +489,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "fall asleep",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to begin sleeping",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c10_u026",
+      "answer": "fell asleep",
+      "options": [
+        "fell asleep",
+        "fell behind",
+        "stood out",
+        "dropped by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on earth",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used after a question word to add emphasis or show surprise",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c11_u021",
+      "answer": "on earth",
+      "options": [
+        "on earth",
+        "at least",
+        "in fact",
+        "by far"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whatever you want",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree to let someone have their way, often in an annoyed tone",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c05_u021",
+      "answer": "Whatever you want",
+      "options": [
+        "Whatever you want",
+        "Wherever you live",
+        "Whoever you are",
+        "Whichever is cheaper"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm done",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you have decided to stop doing something",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c12_u004",
+      "answer": "I'm done",
+      "options": [
+        "I'm done",
+        "I'm in",
+        "I'm up",
+        "I'm on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lose sleep",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to worry about something so much that you cannot sleep",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c10_u004",
+      "answer": "lose sleep",
+      "options": [
+        "lose sleep",
+        "lose weight",
+        "lose track",
+        "lose face"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "odds",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the ratio in a bet that decides how much you win compared with how much you risk",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c12_u013",
+      "answer": "odds",
+      "options": [
+        "odds",
+        "grades",
+        "advice",
+        "directions"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "glamorous",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "attractive and exciting in a way connected with fame and wealth",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c04_u002",
+      "answer": "glamorous",
+      "options": [
+        "glamorous",
+        "generous",
+        "delicious",
+        "cautious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "repercussions",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "bad effects that follow an action, often unexpectedly and over a long time",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c09_u014",
+      "answer": "repercussions",
+      "options": [
+        "repercussions",
+        "ingredients",
+        "directions",
+        "refunds"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "home remedy",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a simple treatment for an illness or condition made or done at home",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c07_u028",
+      "answer": "home remedies",
+      "options": [
+        "home remedies",
+        "house rules",
+        "home videos",
+        "house plants"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "boundaries",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "limits on how people may behave toward you or how close they may get",
+  "exchanges": [
+    {
+      "uid": "s08_e22_c11_u008",
+      "answer": "boundaries",
+      "options": [
+        "boundaries",
+        "vegetables",
+        "batteries",
+        "neighbors"
+      ]
+    }
+  ]
 }
 ]

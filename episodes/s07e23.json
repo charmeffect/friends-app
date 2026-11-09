@@ -499,5 +499,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you won't believe",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce surprising news that you are about to tell someone",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c01_u028",
+      "answer": "You won't believe",
+      "options": [
+        "You won't believe",
+        "You won't mind",
+        "You won't regret",
+        "You won't miss"
+      ],
+      "cueUid": "s07_e23_c01_u026",
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "I hear what you're saying",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you understand someone's point, often just before you disagree with it",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c01_u024",
+      "answer": "hear what you're saying",
+      "options": [
+        "hear what you're saying",
+        "doubt what you're saying",
+        "hate what you're wearing",
+        "missed what you're saying"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a couple of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a small number of; two or a few",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c03_u012",
+      "answer": "a couple of",
+      "options": [
+        "a couple of",
+        "a waste of",
+        "a matter of",
+        "a fear of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's what I'm here for",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when someone thanks you, meaning that helping is your job or role",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c06_u009",
+      "answer": "what I'm here for",
+      "options": [
+        "what I'm here for",
+        "what I'm afraid of",
+        "what I'm sorry for",
+        "what I'm tired of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can't believe",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something is very surprising or shocking",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c04_u008",
+      "answer": "I can't believe",
+      "options": [
+        "I can't believe",
+        "I can't remember",
+        "I can't promise",
+        "I can't decide"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be okay with",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to accept something without being upset by it",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c05_u024",
+      "answer": "okay with",
+      "options": [
+        "okay with",
+        "done with",
+        "bored with",
+        "angry with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if I remember correctly",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when you think something is true but are not completely sure",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c07_u009",
+      "answer": "if I remember correctly",
+      "options": [
+        "if I remember correctly",
+        "if I may ask",
+        "if I'm not careful",
+        "if I pay attention"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I figure",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "I think or suppose, after considering the situation",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c07_u008",
+      "answer": "I figure",
+      "options": [
+        "I figure",
+        "I wonder",
+        "I promise",
+        "I doubt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the last of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "the final remaining amount of something",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c09_u003",
+      "answer": "the last of",
+      "options": [
+        "the last of",
+        "the smell of",
+        "the side of",
+        "the price of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "negative",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "always expecting the worst to happen",
+  "exchanges": [
+    {
+      "uid": "s07_e23_c09_u006",
+      "answer": "negative",
+      "options": [
+        "negative",
+        "generous",
+        "polite",
+        "modest"
+      ]
+    }
+  ]
 }
 ]

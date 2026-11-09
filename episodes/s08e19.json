@@ -460,5 +460,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "jinx",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to bring bad luck to something by talking about it too soon",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c03_u038",
+      "answer": "jinx",
+      "options": [
+        "jinx",
+        "bless",
+        "solve",
+        "copy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tough call",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a decision that is difficult to make",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c09_u012",
+      "answer": "tough call",
+      "options": [
+        "tough call",
+        "cold feet",
+        "fair game",
+        "big mouth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a life",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have an interesting social life with friends and things to do",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c12_u035",
+      "answer": "have a life",
+      "options": [
+        "have a life",
+        "have a clue",
+        "have a heart",
+        "have a ball"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "guess who",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to introduce surprising news, inviting the listener to guess who it is about",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c01_u005",
+      "answer": "guess who",
+      "options": [
+        "guess who",
+        "wonder who",
+        "ask who",
+        "forget who"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the dirt",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "gossip or secret, often scandalous information about someone",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c07_u003",
+      "answer": "the dirt",
+      "options": [
+        "the dirt",
+        "the bill",
+        "the menu",
+        "the keys"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good to know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you have noted some information, often dryly when the information is unwelcome",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c12_u038",
+      "answer": "good to know",
+      "options": [
+        "good to know",
+        "hard to say",
+        "free to go",
+        "nice to meet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fill or use an amount of space",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c02_u048",
+      "answer": "take up",
+      "options": [
+        "take up",
+        "take off",
+        "take back",
+        "take apart"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's wrong with",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what problem someone or something has",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c04_u002",
+      "answer": "What's wrong with",
+      "options": [
+        "What's wrong with",
+        "What's good about",
+        "What's nice about",
+        "What's left for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turn off",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop a machine such as a TV from working by using a switch",
+  "exchanges": [
+    {
+      "uid": "s08_e19_c03_u008",
+      "answer": "turn off",
+      "options": [
+        "turn off",
+        "turn in",
+        "turn over",
+        "turn around"
+      ]
+    }
+  ]
 }
 ]

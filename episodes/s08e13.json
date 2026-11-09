@@ -499,5 +499,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "sounds fair",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree that a suggestion seems reasonable and just",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c03_u028",
+      "answer": "sounds fair",
+      "options": [
+        "sounds fair",
+        "smells nice",
+        "tastes sweet",
+        "feels soft"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it wouldn't hurt to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "it would be a good idea to do something, even if it may not be necessary",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c03_u016",
+      "answer": "wouldn't hurt",
+      "options": [
+        "wouldn't hurt",
+        "wouldn't fit",
+        "wouldn't last",
+        "wouldn't count"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come around",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to change your opinion and start to accept or like someone or something",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c07_u004",
+      "answer": "coming around",
+      "options": [
+        "coming around",
+        "going under",
+        "getting by",
+        "passing out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you don't say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a sarcastic reply meaning that what was just said is obvious",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c06_u056",
+      "answer": "You don't say",
+      "options": [
+        "You don't say",
+        "You don't eat",
+        "You don't sleep",
+        "You don't swim"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the other hand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to introduce a contrasting situation or point",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c06_u058",
+      "answer": "on the other hand",
+      "options": [
+        "on the other hand",
+        "off the top",
+        "in the first place",
+        "at the last minute"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you got a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual way of asking if someone has time to talk",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c02_u012",
+      "answer": "got a minute",
+      "options": [
+        "got a minute",
+        "got a cold",
+        "got a car",
+        "got a job"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be new at",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "to have little experience of doing something",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c10_u009",
+      "answer": "new at",
+      "options": [
+        "new at",
+        "mad at",
+        "close to",
+        "known for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "beat someone over the head with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to keep repeating or stressing something far more than is needed",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c08_u014",
+      "answer": "over the head",
+      "options": [
+        "over the head",
+        "under the table",
+        "behind the back",
+        "on the nose"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lately",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "recently; during the last few days or weeks",
+  "exchanges": [
+    {
+      "uid": "s08_e13_c02_u016",
+      "answer": "lately",
+      "options": [
+        "lately",
+        "nearly",
+        "barely",
+        "hardly"
+      ]
+    }
+  ]
 }
 ]

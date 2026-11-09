@@ -458,5 +458,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "take it from me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "believe me, because I know about this from my own experience",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c01_u017",
+      "answer": "Take it from me",
+      "options": [
+        "Take it from me",
+        "Give it to me",
+        "Keep it from me",
+        "Leave it to me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for instance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "for example",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c01_u021",
+      "answer": "for instance",
+      "options": [
+        "for instance",
+        "for good",
+        "for sure",
+        "for nothing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cranky",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "bad-tempered and easily annoyed",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c03_u022",
+      "answer": "cranky",
+      "options": [
+        "cranky",
+        "famous",
+        "lucky",
+        "rich"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wear out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to use something so much that it becomes damaged or no longer usable",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c11_u014",
+      "answer": "wore out",
+      "options": [
+        "wore out",
+        "took off",
+        "signed up",
+        "showed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the important thing is",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce what matters most in a situation",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c10_u011",
+      "answer": "The important thing",
+      "options": [
+        "The important thing",
+        "The worst thing",
+        "The scary thing",
+        "The sad thing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep someone waiting",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone wait for you",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c13_u017",
+      "answer": "keep me waiting",
+      "options": [
+        "keep me waiting",
+        "get me wrong",
+        "make me laugh",
+        "tell me lies"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's wrong with",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what problem someone or something has",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c02_u008",
+      "answer": "what's wrong with",
+      "options": [
+        "what's wrong with",
+        "what's left of",
+        "who's in charge of",
+        "who's afraid of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm serious",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to insist that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c11_u006",
+      "answer": "I'm serious",
+      "options": [
+        "I'm serious",
+        "I'm kidding",
+        "I'm lost",
+        "I'm late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "totally",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "completely or definitely; used in speech to add emphasis",
+  "exchanges": [
+    {
+      "uid": "s07_e02_c12_u025",
+      "answer": "totally",
+      "options": [
+        "totally",
+        "barely",
+        "rarely",
+        "hardly"
+      ]
+    }
+  ]
 }
 ]

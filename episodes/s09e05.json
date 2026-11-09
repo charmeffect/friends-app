@@ -498,5 +498,208 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "pull yourself together",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to calm down and control your emotions after being upset",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c07_u009",
+      "answer": "pull yourself together",
+      "options": [
+        "pull yourself together",
+        "help yourself out",
+        "take yourself apart",
+        "make yourself small"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the truth is",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to introduce an honest statement, often an admission",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c03_u024",
+      "answer": "the truth is",
+      "options": [
+        "the truth is",
+        "the menu is",
+        "the weather is",
+        "the bill is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "willpower",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the ability to control yourself and resist doing things you want to do but should not",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c06_u003",
+      "answer": "will power",
+      "options": [
+        "will power",
+        "horse power",
+        "man power",
+        "fire power"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "forbid",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to order someone not to do something",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c06_u007",
+      "answer": "forbid",
+      "options": [
+        "forbid",
+        "invite",
+        "teach",
+        "pay"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "bear",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to accept or deal with something painful or difficult",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c04_u010",
+      "answer": "bear",
+      "options": [
+        "bear",
+        "fix",
+        "sell",
+        "wear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "over time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "gradually, as time passes",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c10_u005",
+      "answer": "over time",
+      "options": [
+        "over time",
+        "on time",
+        "by heart",
+        "at most"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "locked out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unable to get into a place because the door is locked and you do not have the key",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c12_u012",
+      "answer": "locked out",
+      "options": [
+        "locked out",
+        "burned out",
+        "logged out",
+        "worn out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do what you've got to do",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to do what is necessary, even if it is hard or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c12_u015",
+      "answer": "got to do",
+      "options": [
+        "got to do",
+        "forgot to do",
+        "used to do",
+        "failed to do"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the world is your oyster",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "you are free and able to do anything or go anywhere you want",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c04_u015",
+      "answer": "oyster",
+      "options": [
+        "oyster",
+        "pillow",
+        "garbage",
+        "prison"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "manipulative",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "skilfully controlling or influencing people for your own advantage, often unfairly",
+  "exchanges": [
+    {
+      "uid": "s09_e05_c12_u034",
+      "answer": "manipulative",
+      "options": [
+        "manipulative",
+        "generous",
+        "modest",
+        "punctual"
+      ]
+    }
+  ]
 }
 ]

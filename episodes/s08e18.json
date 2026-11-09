@@ -458,5 +458,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "zest for life",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "great enthusiasm and energy for enjoying life",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c01_u008",
+      "answer": "zest",
+      "options": [
+        "zest",
+        "fear",
+        "pity",
+        "debt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in honor of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "in order to celebrate or show respect for someone or something",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c02_u013",
+      "answer": "in honor of",
+      "options": [
+        "in honor of",
+        "in spite of",
+        "in front of",
+        "in case of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pearls of wisdom",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "wise pieces of advice, often said humorously",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c03_u004",
+      "answer": "pearls of wisdom",
+      "options": [
+        "pearls of wisdom",
+        "pieces of cake",
+        "grains of salt",
+        "drops of rain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "open-minded",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "willing to accept ideas and ways of life that are different from your own",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c03_u013",
+      "answer": "open-minded",
+      "options": [
+        "open-minded",
+        "short-tempered",
+        "left-handed",
+        "soft-spoken"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nod along",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to keep nodding as if you agree or understand, even when you do not",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c03_u021",
+      "answer": "nod along",
+      "options": [
+        "nod along",
+        "sing along",
+        "tag along",
+        "move along"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that depends",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that your answer will change according to some other fact",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c03_u047",
+      "answer": "That depends",
+      "options": [
+        "That depends",
+        "That hurts",
+        "That's enough",
+        "That helps"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be all for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to strongly support or approve of something",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c04_u056",
+      "answer": "all for",
+      "options": [
+        "all for",
+        "afraid of",
+        "bad at",
+        "done with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "count yourself lucky",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to consider yourself fortunate",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c04_u082",
+      "answer": "count ourselves",
+      "options": [
+        "count ourselves",
+        "blame ourselves",
+        "help ourselves",
+        "enjoy ourselves"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how's something treating you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a friendly way of asking whether a situation in someone's life is going well for them",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c03_u029",
+      "answer": "treating",
+      "options": [
+        "treating",
+        "costing",
+        "calling",
+        "beating"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do me a favor",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to help you with something",
+  "exchanges": [
+    {
+      "uid": "s08_e18_c04_u076",
+      "answer": "Do me a favor",
+      "options": [
+        "Do me a favor",
+        "Give me a break",
+        "Cut me some slack",
+        "Leave me alone"
+      ]
+    }
+  ]
 }
 ]

@@ -507,5 +507,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "act on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something because of a feeling, idea, or piece of information",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u014",
+      "answer": "act on",
+      "options": [
+        "act on",
+        "count on",
+        "look on",
+        "call on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds great",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to accept a suggestion or show you like a plan",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c07_u009",
+      "answer": "sounds great",
+      "options": [
+        "sounds great",
+        "looks great",
+        "feels great",
+        "tastes great"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the good news is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the positive side of a bad or awkward situation",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c04_u024",
+      "answer": "the good news is",
+      "options": [
+        "the good news is",
+        "the bad news is",
+        "the worst part is",
+        "the sad truth is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "even if",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something would still be true in a possible situation",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c03_u008",
+      "answer": "even if",
+      "options": [
+        "even if",
+        "only if",
+        "as if",
+        "what if"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lose someone over something",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to lose a friendship or relationship with someone because of a particular problem",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c03_u016",
+      "answer": "lose Joey over",
+      "options": [
+        "lose Joey over",
+        "beat Joey at",
+        "help Joey with",
+        "pay Joey for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a girl's gotta eat",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a humorous excuse meaning that you still have to take care of your own needs",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c02_u036",
+      "answer": "a girl's gotta eat",
+      "options": [
+        "a girl's gotta eat",
+        "a girl's gotta cry",
+        "a girl's gotta pray",
+        "a girl's gotta run"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "that's all",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used at the end of a statement to say there is nothing more to it",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c07_u008",
+      "answer": "That's all",
+      "options": [
+        "That's all",
+        "That's life",
+        "That's mine",
+        "That's odd"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "or something",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to show that what you have just said is only a rough guess or example",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u010",
+      "answer": "or something",
+      "options": [
+        "or something",
+        "or nothing",
+        "or never",
+        "or else"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if it helps",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when offering a remark or fact that might make someone feel a little better",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c05_u021",
+      "answer": "if it helps",
+      "options": [
+        "if it helps",
+        "if it hurts",
+        "if it rains",
+        "if it breaks"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "excuse me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said in surprise or disbelief, asking someone to explain what they just said",
+  "exchanges": [
+    {
+      "uid": "s08_e16_c06_u004",
+      "answer": "Excuse me",
+      "options": [
+        "Excuse me",
+        "Bless you",
+        "Good luck",
+        "Thank you"
+      ]
+    }
+  ]
 }
 ]

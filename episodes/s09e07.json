@@ -518,5 +518,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "try and stop me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show that you are very eager to do something and nothing will prevent you",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c06_u014",
+      "answer": "try and stop me",
+      "options": [
+        "try and stop me",
+        "try and help me",
+        "try and find me",
+        "try and catch me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have only yourself to blame",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be the only person responsible for something bad that happens to you",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c08_u016",
+      "answer": "only yourself to blame",
+      "options": [
+        "only yourself to blame",
+        "only yourself to trust",
+        "only yourself to fear",
+        "only yourself to please"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm only human",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to excuse a weakness or mistake because everyone has them",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c08_u003",
+      "answer": "I'm only human",
+      "options": [
+        "I'm only human",
+        "I'm only visiting",
+        "I'm only passing",
+        "I'm only listening"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be all about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be the most important or essential point of something",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c09_u007",
+      "answer": "is all about",
+      "responseUid": null,
+      "options": [
+        "is all about",
+        "is all over",
+        "is all out of",
+        "is all done with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for nothing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "without any good reason or result",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c08_u020",
+      "answer": "for nothing",
+      "options": [
+        "for nothing",
+        "for free",
+        "for good",
+        "for sale"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's all that matters",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that one thing is the only important thing",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c11_u011",
+      "answer": "That's all that matters",
+      "options": [
+        "That's all that matters",
+        "That's all that happened",
+        "That's all that hurts",
+        "That's all that broke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be meant to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be intended or planned to happen or be done",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c11_u003",
+      "answer": "meant to",
+      "options": [
+        "meant to",
+        "used to",
+        "keen to",
+        "eager to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bankrupt",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "officially unable to pay your debts because you have no money",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c05_u003",
+      "answer": "bankrupt",
+      "options": [
+        "bankrupt",
+        "blond",
+        "quiet",
+        "pale"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "customary",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "usual or traditional in a particular situation",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c08_u021",
+      "answer": "customary",
+      "options": [
+        "customary",
+        "hereditary",
+        "sanitary",
+        "contrary"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "civil",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "polite and calm toward someone, even if you do not like them",
+  "exchanges": [
+    {
+      "uid": "s09_e07_c12_u012",
+      "answer": "civil",
+      "options": [
+        "civil",
+        "fluent",
+        "sober",
+        "punctual"
+      ]
+    }
+  ]
 }
 ]

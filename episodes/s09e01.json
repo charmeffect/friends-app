@@ -488,5 +488,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that reminds me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something makes you remember something you need to say or do",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c02_u011",
+      "answer": "reminds me",
+      "options": [
+        "reminds me",
+        "excites me",
+        "flatters me",
+        "bores me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get down on one knee",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to kneel on one knee, especially in order to ask someone to marry you",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c02_u020",
+      "answer": "on one knee",
+      "options": [
+        "on one knee",
+        "on one elbow",
+        "on one wheel",
+        "on one cheek"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deal",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree to the terms of a bet or offer",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c02_u039",
+      "answer": "Deal",
+      "options": [
+        "Deal",
+        "Pardon",
+        "Oops",
+        "Sorry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "noted",
+  "type": "word",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show you have heard what someone said, often without intending to act on it",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c02_u041",
+      "answer": "Noted",
+      "options": [
+        "Noted",
+        "Married",
+        "Painted",
+        "Hired"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for a bit",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "for a short time",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c02_u042",
+      "answer": "for a bit",
+      "options": [
+        "for a bit",
+        "by a bit",
+        "at a bit",
+        "in a bit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "full house",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a situation in which a room or place is full of people",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c03_u015",
+      "answer": "full house",
+      "options": [
+        "full house",
+        "dead end",
+        "close call",
+        "fresh start"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can't say I'm surprised",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something was expected and does not surprise you",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c03_u019",
+      "answer": "can't say",
+      "options": [
+        "can't say",
+        "can't hear",
+        "can't decide",
+        "can't imagine"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "make it to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to manage to reach a place or arrive somewhere",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c07_u002",
+      "answer": "make it to",
+      "options": [
+        "make it to",
+        "sign up for",
+        "give in to",
+        "catch up on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a lot going on",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "many things are happening at the same time, which can be confusing or stressful",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c10_u049",
+      "answer": "going on",
+      "options": [
+        "going on",
+        "giving up",
+        "coming off",
+        "holding up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give it another try",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to attempt something again after it has failed once",
+  "exchanges": [
+    {
+      "uid": "s09_e01_c10_u050",
+      "answer": "give this another try",
+      "options": [
+        "give this another try",
+        "give this another name",
+        "give this another coat",
+        "give this another week"
+      ]
+    }
+  ]
 }
 ]

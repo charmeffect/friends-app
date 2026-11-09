@@ -437,5 +437,216 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "how do I put this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you are searching for a careful or polite way to say something awkward",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c13_u010",
+      "answer": "put this",
+      "options": [
+        "put this",
+        "fix this",
+        "stop this",
+        "open this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to sum up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce a short summary of what you have just said",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c08_u008",
+      "answer": "to sum up",
+      "options": [
+        "to sum up",
+        "to make up",
+        "to back up",
+        "to start up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not getting any younger",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "getting older, so there is less time left to do something",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c08_u006",
+      "answer": "not getting any younger",
+      "options": [
+        "not getting any younger",
+        "not getting any taller",
+        "not getting any louder",
+        "not getting any closer"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spare time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "time when you are not working and can do what you like",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c05_u011",
+      "answer": "spare time",
+      "options": [
+        "spare time",
+        "spare change",
+        "spare room",
+        "spare tire"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mind reader",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who can know what others are thinking without being told",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c06_u021",
+      "answer": "mind reader",
+      "options": [
+        "mind reader",
+        "night owl",
+        "heavy sleeper",
+        "morning person"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be there yet",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be ready for the next, more serious stage of a relationship",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c04_u011",
+      "answer": "there yet",
+      "options": [
+        "there yet",
+        "done yet",
+        "home yet",
+        "awake yet"
+      ]
+    },
+    {
+      "uid": "s08_e11_c12_u008",
+      "answer": "there yet",
+      "options": [
+        "there yet",
+        "done yet",
+        "home yet",
+        "awake yet"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "talk crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to say something that sounds absurd or unreasonable",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c07_u009",
+      "answer": "talking crazy",
+      "options": [
+        "talking crazy",
+        "talking softly",
+        "talking fast",
+        "talking shop"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "send out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to mail something such as cards or invitations to many people",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c02_u013",
+      "answer": "send out",
+      "options": [
+        "send out",
+        "break out",
+        "drop out",
+        "work out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "random",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unknown and not specially chosen, just any person or thing",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c09_u020",
+      "answer": "random",
+      "options": [
+        "random",
+        "fluent",
+        "hollow",
+        "frequent"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "self-respecting",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "having pride and standards, so that you would not do something embarrassing",
+  "exchanges": [
+    {
+      "uid": "s08_e11_c06_u019",
+      "answer": "self-respecting",
+      "options": [
+        "self-respecting",
+        "self-employed",
+        "self-taught",
+        "self-made"
+      ]
+    }
+  ]
 }
 ]

@@ -489,5 +489,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "guess who",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to introduce surprising news, inviting the listener to guess who it is about",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u010",
+      "answer": "guess who",
+      "options": [
+        "guess who",
+        "ignore who",
+        "forget who",
+        "doubt who"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on a diet",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "eating less or only certain foods in order to lose weight",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u024",
+      "answer": "on a diet",
+      "options": [
+        "on a diet",
+        "on a roll",
+        "on a date",
+        "on a dare"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in one sitting",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "during one continuous period without stopping",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c01_u032",
+      "answer": "one sitting",
+      "options": [
+        "one sitting",
+        "one piece",
+        "one voice",
+        "one hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's been a while",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you have not seen someone or done something for a long time",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u053",
+      "answer": "it's been a while",
+      "options": [
+        "it's been a while",
+        "it's been a mistake",
+        "it's been a pleasure",
+        "it's been an honor"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "back then",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at that time in the past",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u081",
+      "answer": "back then",
+      "options": [
+        "back then",
+        "right now",
+        "these days",
+        "from now on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "screw it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you suddenly decide to stop worrying and just do something",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c02_u132",
+      "answer": "Screw it",
+      "options": [
+        "Screw it",
+        "Watch it",
+        "Beat it",
+        "Shake it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "point out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to draw someone's attention to a fact or detail",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c03_u055",
+      "answer": "point out",
+      "options": [
+        "point out",
+        "pick out",
+        "carry out",
+        "stand out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if you must know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said, often a little annoyed, before telling someone something they have been curious or nosy about",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c03_u074",
+      "answer": "If you must know",
+      "options": [
+        "If you must know",
+        "If you say so",
+        "If you're lucky",
+        "If you're hungry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rest in peace",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "a respectful wish for someone who has died",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c03_u074",
+      "answer": "rest in peace",
+      "options": [
+        "rest in peace",
+        "live in fear",
+        "sleep in late",
+        "stay in touch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be used up or come to an end",
+  "exchanges": [
+    {
+      "uid": "s08_e09_c04_u011",
+      "answer": "run out",
+      "options": [
+        "run out",
+        "run off",
+        "run over",
+        "run into"
+      ]
+    }
+  ]
 }
 ]

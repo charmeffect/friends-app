@@ -480,5 +480,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "in a hurry",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "needing to do something or go somewhere quickly because you have little time",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c04_u013",
+      "answer": "in a hurry",
+      "options": [
+        "in a hurry",
+        "in a row",
+        "in a while",
+        "in a word"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'd appreciate it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite way of saying that you would be grateful if someone did something",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c04_u013",
+      "answer": "I'd appreciate it",
+      "options": [
+        "I'd appreciate it",
+        "I'd regret it",
+        "I'd forget it",
+        "I'd doubt it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put it there",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to invite someone to shake hands with you",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c11_u028",
+      "answer": "put it there",
+      "options": [
+        "put it there",
+        "keep it there",
+        "leave it there",
+        "take it there"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what are you talking about",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you do not understand or are surprised by what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c09_u007",
+      "answer": "talking about",
+      "options": [
+        "talking about",
+        "waiting for",
+        "living for",
+        "working on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "would rather",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "would prefer to do or have something",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c09_u014",
+      "answer": "would rather",
+      "options": [
+        "would rather",
+        "would never",
+        "would hardly",
+        "would barely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have trouble",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to find it difficult to do something",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c11_u032",
+      "answer": "having trouble",
+      "options": [
+        "having trouble",
+        "having fun",
+        "having doubts",
+        "having luck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "where I'm going with this",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the point or conclusion that you are slowly leading up to in what you are saying",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c12_u010",
+      "answer": "going with this",
+      "options": [
+        "going with this",
+        "living with this",
+        "sleeping with this",
+        "staying with this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how about",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to make a suggestion",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c05_u016",
+      "answer": "how about",
+      "options": [
+        "how about",
+        "how come",
+        "how much",
+        "how long"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "subtle",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not obvious or strong; delicate and understated",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c08_u009",
+      "answer": "subtle",
+      "options": [
+        "subtle",
+        "awkward",
+        "generous",
+        "colorful"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "annoying",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "making you feel slightly angry or impatient",
+  "exchanges": [
+    {
+      "uid": "s07_e10_c08_u010",
+      "answer": "annoying",
+      "options": [
+        "annoying",
+        "amusing",
+        "relaxing",
+        "rewarding"
+      ]
+    }
+  ]
 }
 ]

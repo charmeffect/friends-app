@@ -479,5 +479,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'll think of something",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you do not yet have a solution but are sure you will find one",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c01_u019",
+      "answer": "I'll think of something",
+      "options": [
+        "I'll think of something",
+        "I'll pay for something",
+        "I'll ask for something",
+        "I'll look for something"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spend time with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be together with someone and do things with them",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c01_u016",
+      "answer": "spend time with",
+      "options": [
+        "spend time with",
+        "make fun of",
+        "get rid of",
+        "run out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "eye contact",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the act of looking directly into another person's eyes",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c03_u006",
+      "answer": "eye-contact",
+      "responseUid": "s09_e09_c03_u009",
+      "options": [
+        "eye-contact",
+        "check-up",
+        "cook-out",
+        "tune-up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I see what you mean",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you understand and accept someone's point",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u026",
+      "answer": "see what you mean",
+      "options": [
+        "see what you mean",
+        "say what you mean",
+        "pay what you owe",
+        "eat what you cook"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on one's way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "travelling toward a place and expected to arrive soon",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c06_u004",
+      "answer": "on our way",
+      "options": [
+        "on our way",
+        "in our way",
+        "out of our way",
+        "all the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a look around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to look at the different parts of a place, often to search or inspect it",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c07_u008",
+      "answer": "take a look around",
+      "options": [
+        "take a look around",
+        "take a step back",
+        "take a deep breath",
+        "take a short nap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it could happen to anyone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to comfort someone by telling them a mistake is common and not their fault",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c07_u020",
+      "answer": "happen to anyone",
+      "options": [
+        "happen to anyone",
+        "belong to anyone",
+        "speak to anyone",
+        "listen to anyone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "courtside",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "located right next to the playing area at a basketball or tennis game",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c01_u013",
+      "answer": "courtside",
+      "options": [
+        "courtside",
+        "backstage",
+        "upstairs",
+        "overseas"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "down for the night",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "of a baby, asleep and not expected to wake up until morning",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c02_u018",
+      "answer": "down for the night",
+      "options": [
+        "down for the night",
+        "down for the cause",
+        "down on the farm",
+        "down to the wire"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put on",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to dress yourself in a piece of clothing",
+  "exchanges": [
+    {
+      "uid": "s09_e09_c09_u016",
+      "answer": "put on",
+      "options": [
+        "put on",
+        "pass on",
+        "run on",
+        "log on"
+      ]
+    }
+  ]
 }
 ]

@@ -508,5 +508,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "first thing",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very early, before doing anything else",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c04_u014",
+      "answer": "first thing",
+      "options": [
+        "first thing",
+        "last thing",
+        "next time",
+        "no time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cheesy",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "cheap, obvious, and trying too hard to be charming or romantic",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c09_u010",
+      "answer": "cheesy",
+      "options": [
+        "cheesy",
+        "stingy",
+        "sleepy",
+        "nosy"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "headhunter",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person whose job is to find suitable people for important jobs and persuade them to change companies",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c09_u012",
+      "answer": "head-hunter",
+      "options": [
+        "head-hunter",
+        "shoplifter",
+        "bodyguard",
+        "babysitter"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "attaboy",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to praise or encourage a man or boy for doing something well",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c08_u004",
+      "answer": "Atta boy",
+      "options": [
+        "Atta boy",
+        "Shame on you",
+        "Get lost",
+        "Bless you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "security blanket",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a blanket a small child holds for comfort, or anything a person depends on to feel safe",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c12_u026",
+      "answer": "security blanket",
+      "options": [
+        "security blanket",
+        "safety pin",
+        "fire alarm",
+        "credit card"
+      ],
+      "responseUid": "s09_e03_c12_u028"
+    }
+  ]
+},
+
+{
+  "expression": "just to be clear",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before stating something plainly so that there is no misunderstanding",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c11_u018",
+      "answer": "just to be clear",
+      "options": [
+        "just to be clear",
+        "just in case",
+        "just for fun",
+        "just like that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the glue that holds something together",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the person or thing that keeps a group united",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c01_u018",
+      "answer": "glue",
+      "options": [
+        "glue",
+        "rope",
+        "nail",
+        "dust"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all grown up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "having become an adult or mature, often said with affection or surprise",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c02_u015",
+      "answer": "grown up",
+      "options": [
+        "grown up",
+        "cut off",
+        "burnt out",
+        "held up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take risks",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do things that could have bad results in the hope of gaining something",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c08_u001",
+      "answer": "taking",
+      "options": [
+        "taking",
+        "making",
+        "breaking",
+        "holding"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run something by",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to tell someone about an idea so they can give their opinion on it",
+  "exchanges": [
+    {
+      "uid": "s09_e03_c08_u015",
+      "answer": "run by",
+      "options": [
+        "run by",
+        "pass by",
+        "stand by",
+        "drop by"
+      ]
+    }
+  ]
 }
 ]

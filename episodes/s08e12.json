@@ -488,5 +488,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that's not gonna happen",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that something is impossible or will not happen",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c05_u005",
+      "answer": "not gonna happen",
+      "options": [
+        "not gonna happen",
+        "not gonna hurt",
+        "not gonna matter",
+        "not gonna sell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "like a moth to a flame",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "strongly and helplessly attracted to someone or something",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c09_u021",
+      "answer": "moth to a flame",
+      "options": [
+        "moth to a flame",
+        "bat out of hell",
+        "bump on a log",
+        "fish out of water"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't judge me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before admitting something embarrassing, asking the other person not to think badly of you",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c09_u014",
+      "answer": "don't judge me",
+      "options": [
+        "don't judge me",
+        "don't follow me",
+        "don't call me",
+        "don't wake me"
+      ],
+      "cueUid": "s08_e12_c09_u012",
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "loosen up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become less stiff so that it can move easily again",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c08_u009",
+      "answer": "loosen up",
+      "options": [
+        "loosen up",
+        "break up",
+        "show up",
+        "back up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come at a price",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be achieved only by losing or suffering something",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c11_u006",
+      "answer": "came at a price",
+      "options": [
+        "came at a price",
+        "came in handy",
+        "came to an end",
+        "came out fine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for now",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "for the present time, until something else is decided",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c01_u009",
+      "answer": "for now",
+      "options": [
+        "for now",
+        "for free",
+        "for real",
+        "for sure"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so bad",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "very much; with a strong desire",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c03_u011",
+      "answer": "so bad",
+      "options": [
+        "so bad",
+        "so late",
+        "so slow",
+        "so loud"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I gotta say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce an honest opinion or a surprising admission",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c09_u011",
+      "answer": "I gotta say",
+      "options": [
+        "I gotta say",
+        "I gotta go",
+        "I gotta run",
+        "I gotta eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be served or supplied together with something",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c07_u002",
+      "answer": "comes with",
+      "options": [
+        "comes with",
+        "goes by",
+        "runs into",
+        "gets over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's wrong with",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what problem someone or something has",
+  "exchanges": [
+    {
+      "uid": "s08_e12_c15_u006",
+      "answer": "what's wrong with",
+      "options": [
+        "what's wrong with",
+        "what's left of",
+        "what's next to",
+        "what's inside of"
+      ]
+    }
+  ]
 }
 ]

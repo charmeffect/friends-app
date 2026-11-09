@@ -510,5 +510,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "for the last time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said angrily when repeating something you have already said several times",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u002",
+      "answer": "For the last time",
+      "options": [
+        "For the last time",
+        "For the first time",
+        "For a long time",
+        "For the best"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check out of",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to pay your bill and leave a hotel",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u007",
+      "answer": "checking out of",
+      "options": [
+        "checking out of",
+        "dropping out of",
+        "running out of",
+        "falling out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no longer",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "not anymore; used to say that a situation has ended",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u008",
+      "answer": "no longer",
+      "options": [
+        "no longer",
+        "not yet",
+        "no doubt",
+        "not quite"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for a reason",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "because of a good cause, not by chance",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u016",
+      "answer": "for a reason",
+      "options": [
+        "for a reason",
+        "for a change",
+        "for a while",
+        "for a living"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "are you joking",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to show surprise that someone could think or ask something so unlikely",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c01_u023",
+      "answer": "Are you joking",
+      "options": [
+        "Are you joking",
+        "Are you lost",
+        "Are you hungry",
+        "Are you done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "believe me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to stress that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c03_u027",
+      "answer": "Believe me",
+      "options": [
+        "Believe me",
+        "Excuse me",
+        "Forgive me",
+        "Remind me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dressed up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "wearing nicer or more formal clothes than usual",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c04_u010",
+      "answer": "dressed up",
+      "options": [
+        "dressed up",
+        "grown up",
+        "fed up",
+        "mixed up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hell yeah",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an enthusiastic way of saying yes",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c06_u012",
+      "answer": "Hell yeah",
+      "options": [
+        "Hell yeah",
+        "Hell no",
+        "No way",
+        "Oh well"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give it another try",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to attempt something again after it has failed once",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c10_u014",
+      "answer": "give it another try",
+      "options": [
+        "give it another try",
+        "give it a rest",
+        "call it a day",
+        "leave it at that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no need to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone that they do not have to do or feel something",
+  "exchanges": [
+    {
+      "uid": "s08_e02_c11_u041",
+      "answer": "no need to",
+      "options": [
+        "no need to",
+        "no plan to",
+        "no fear to",
+        "no right to"
+      ]
+    }
+  ]
 }
 ]

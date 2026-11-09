@@ -479,5 +479,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "who knows",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is possible, although nobody can be sure",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c03_u012",
+      "answer": "Who knows",
+      "options": [
+        "Who knows",
+        "Who said",
+        "Who asked",
+        "Who paid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me finish",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to ask someone to stop interrupting you so you can complete what you are saying",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c03_u016",
+      "answer": "let me finish",
+      "options": [
+        "let me finish",
+        "let me drive",
+        "let me sleep",
+        "let me pay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk to you later",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of saying goodbye when you expect to speak again soon",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c04_u007",
+      "answer": "talk to you later",
+      "options": [
+        "talk to you later",
+        "cook for you later",
+        "wait for you later",
+        "sing for you later"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know what they say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used just before quoting a well-known saying",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c05_u023",
+      "answer": "what they say",
+      "options": [
+        "what they say",
+        "where they live",
+        "how they look",
+        "why they left"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've had better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something was not very good or impressive",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c06_u029",
+      "answer": "I've had better",
+      "options": [
+        "I've had better",
+        "I've had lunch",
+        "I've been fired",
+        "I've got mail"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make someone feel better",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to make someone feel less sad, guilty, or upset",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c07_u010",
+      "answer": "make me feel better",
+      "options": [
+        "make me feel better",
+        "make me feel worse",
+        "make me look older",
+        "make me sound smarter"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's not the point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when the conversation has moved away from the important issue",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c11_u011",
+      "answer": "That's not the point",
+      "options": [
+        "That's not the point",
+        "That's not my type",
+        "That's not my size",
+        "That's not my fault"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not see the point",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to not understand why something is worth doing",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c08_u035",
+      "answer": "see the point",
+      "options": [
+        "see the point",
+        "hear the music",
+        "smell the food",
+        "feel the heat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you earned it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that they deserve something because of what they have done",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c12_u018",
+      "answer": "you earned it",
+      "options": [
+        "you earned it",
+        "you stole it",
+        "you broke it",
+        "you lost it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "recount",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a second count of votes, done because the first result is very close or may be wrong",
+  "exchanges": [
+    {
+      "uid": "s07_e06_c10_u006",
+      "answer": "recount",
+      "options": [
+        "recount",
+        "receipt",
+        "rehearsal",
+        "reunion"
+      ]
+    }
+  ]
 }
 ]

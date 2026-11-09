@@ -502,5 +502,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "keep someone waiting",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone wait for you",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c02_u006",
+      "answer": "kept you waiting",
+      "options": [
+        "kept you waiting",
+        "kept you quiet",
+        "kept you safe",
+        "kept you warm"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "got a second",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask whether someone has a short time free to talk",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c08_u002",
+      "answer": "got a sec",
+      "options": [
+        "got a sec",
+        "got a cold",
+        "got a job",
+        "got a car"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that makes sense",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that an idea or explanation seems reasonable",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c07_u022",
+      "answer": "that makes sense",
+      "options": [
+        "that makes sense",
+        "that makes money",
+        "that makes noise",
+        "that makes friends"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "set someone up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange for someone to go on a date with a particular person",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c09_u016",
+      "answer": "set her up with",
+      "options": [
+        "set her up with",
+        "set her off with",
+        "set her down with",
+        "set her out with"
+      ],
+      "responseUid": "s08_e05_c09_u019"
+    }
+  ]
+},
+
+{
+  "expression": "hang",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spend time relaxing somewhere without doing anything special",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c11_u005",
+      "answer": "hang",
+      "options": [
+        "hang",
+        "fly",
+        "swim",
+        "race"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good call",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone that their decision or suggestion was a good one",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c11_u022",
+      "answer": "Good call",
+      "options": [
+        "Good call",
+        "Good luck",
+        "Good morning",
+        "Good night"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no matter what",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "regardless of what happens or is true",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c11_u026",
+      "answer": "no matter what",
+      "options": [
+        "no matter what",
+        "no longer than",
+        "no sooner when",
+        "no reason why"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "my pleasure",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite reply to thanks, meaning you were happy to help",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c13_u006",
+      "answer": "my pleasure",
+      "options": [
+        "my pleasure",
+        "my mistake",
+        "my fault",
+        "my turn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on the other hand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to introduce a contrasting situation or point",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c14_u025",
+      "answer": "On the other hand",
+      "options": [
+        "On the other hand",
+        "In the first place",
+        "By the same token",
+        "Under the weather"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "grab some coffee",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to go and have a quick, casual coffee with someone",
+  "exchanges": [
+    {
+      "uid": "s08_e05_c14_u027",
+      "answer": "grab some coffee",
+      "options": [
+        "grab some coffee",
+        "grab some shoes",
+        "grab some paper",
+        "grab some money"
+      ]
+    }
+  ]
 }
 ]

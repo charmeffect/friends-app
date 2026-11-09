@@ -507,5 +507,208 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'm not helping",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you realize that what you just said is making the situation worse",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c01_u002",
+      "answer": "I'm not helping",
+      "options": [
+        "I'm not helping",
+        "I'm not hungry",
+        "I'm not leaving",
+        "I'm not ready"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lie down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to move into a position in which your body is flat, usually to rest",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c02_u005",
+      "answer": "lie down",
+      "options": [
+        "lie down",
+        "stand up",
+        "speak up",
+        "wake up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fall asleep",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to begin sleeping",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c09_u003",
+      "answer": "fell asleep",
+      "options": [
+        "fell asleep",
+        "fell behind",
+        "fell over",
+        "fell short"
+      ],
+      "responseUid": "s09_e02_c09_u005"
+    }
+  ]
+},
+
+{
+  "expression": "what do I know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to admit that you are not an expert and your opinion may be wrong",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c02_u023",
+      "answer": "what do I know",
+      "options": [
+        "what do I know",
+        "what do I owe",
+        "what do I win",
+        "what do I need"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "say what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to show surprise or that you did not understand what someone just said",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c11_u026",
+      "answer": "Say what",
+      "options": [
+        "Say what",
+        "Say when",
+        "Say cheese",
+        "Say please"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's what I'm here for",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when someone thanks you, meaning that helping is your job or role",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c12_u011",
+      "answer": "what I'm here for",
+      "options": [
+        "what I'm here for",
+        "what I'm sorry for",
+        "what I'm famous for",
+        "what I'm paid for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "under control",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "being managed successfully so that nothing goes wrong",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c11_u003",
+      "answer": "under control",
+      "options": [
+        "under control",
+        "under arrest",
+        "under water",
+        "under age"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not a fan",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that someone does not like a person or thing",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c09_u005",
+      "answer": "Not a fan",
+      "options": [
+        "Not a fan",
+        "Not a clue",
+        "Not a chance",
+        "Not a problem"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "new at this",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "having only recently started doing something, so not yet experienced at it",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c11_u010",
+      "answer": "new at this",
+      "options": [
+        "new at this",
+        "famous for this",
+        "paid for this",
+        "banned from this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the best I can",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "as well as you are able to, even if the result is not perfect",
+  "exchanges": [
+    {
+      "uid": "s09_e02_c11_u005",
+      "answer": "the best I can",
+      "options": [
+        "the best I can",
+        "the least I can",
+        "the worst I can",
+        "the last I can"
+      ]
+    }
+  ]
 }
 ]

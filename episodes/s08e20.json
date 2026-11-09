@@ -460,5 +460,215 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "last minute",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "arranged or done very shortly before the time it is needed",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c01_u024",
+      "answer": "last minute",
+      "options": [
+        "last minute",
+        "first class",
+        "long term",
+        "half price"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take no for an answer",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to accept a refusal; usually said in the negative to show you will keep insisting",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c05_u012",
+      "answer": "no for an answer",
+      "options": [
+        "no for an answer",
+        "the stairs going up",
+        "a cab over there",
+        "the bus home"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stay put",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to remain where you are and not move somewhere else",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c09_u030",
+      "answer": "stay put",
+      "options": [
+        "stay put",
+        "fall apart",
+        "show off",
+        "break down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "it is your turn now",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c04_u016",
+      "answer": "you're up",
+      "options": [
+        "you're up",
+        "you're down",
+        "you're over",
+        "you're fired"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "going somewhere with this",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "said to ask whether what someone is saying is leading to a real point",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c09_u023",
+      "answer": "going somewhere with this",
+      "options": [
+        "going somewhere with this",
+        "going home with this",
+        "going crazy with this",
+        "going easy with this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in the lead",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "ahead of everyone else in a game or competition",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c04_u002",
+      "answer": "in the lead",
+      "options": [
+        "in the lead",
+        "in the way",
+        "in the dark",
+        "in the mood"
+      ]
+    },
+    {
+      "uid": "s08_e20_c06_u017",
+      "answer": "in the lead",
+      "options": [
+        "in the lead",
+        "in the way",
+        "in the dark",
+        "in the mood"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make no difference",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to not matter or change anything",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c04_u024",
+      "answer": "makes no difference",
+      "options": [
+        "makes no difference",
+        "makes no noise",
+        "makes no money",
+        "keeps no secrets"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "overwhelming",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "so great or difficult that you feel unable to deal with it",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c05_u045",
+      "answer": "overwhelming",
+      "options": [
+        "overwhelming",
+        "overheated",
+        "overdue",
+        "overcooked"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "inappropriate",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "not suitable or proper for the situation",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c03_u003",
+      "answer": "inappropriate",
+      "options": [
+        "inappropriate",
+        "waterproof",
+        "affordable",
+        "delicious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "vital",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "absolutely necessary or extremely important",
+  "exchanges": [
+    {
+      "uid": "s08_e20_c09_u005",
+      "answer": "vital",
+      "options": [
+        "vital",
+        "rare",
+        "cheap",
+        "quiet"
+      ]
+    }
+  ]
 }
 ]

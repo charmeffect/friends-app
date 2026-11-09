@@ -497,5 +497,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "on good terms",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in a friendly way, without anger or bad feelings between people",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c02_u024",
+      "answer": "good terms",
+      "options": [
+        "good terms",
+        "short notice",
+        "high hopes",
+        "fair prices"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk something through",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to discuss something carefully and completely in order to understand it or make a decision",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u014",
+      "answer": "talk this through",
+      "options": [
+        "talk this through",
+        "wash this out",
+        "break this up",
+        "laugh this off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "to be honest",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "said before admitting something frankly",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c14_u005",
+      "answer": "to be honest",
+      "options": [
+        "to be honest",
+        "to be late",
+        "to be safe",
+        "to be quiet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in exchange for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "as payment or a return for something given or done",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u021",
+      "answer": "in exchange for",
+      "options": [
+        "in exchange for",
+        "in search of",
+        "in front of",
+        "in charge of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give us a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way of asking someone to leave you alone for a short time so you can talk privately",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c13_u006",
+      "answer": "give us a minute",
+      "options": [
+        "give us a minute",
+        "give us a ride",
+        "give us a hint",
+        "give us a call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "Not a problem",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show you are happy to do what someone asked",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c09_u005",
+      "answer": "Not a problem",
+      "options": [
+        "Not a problem",
+        "Not a chance",
+        "Not my type",
+        "Not so fast"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mean a lot to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very important to someone",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c09_u004",
+      "answer": "meant a lot",
+      "options": [
+        "meant a lot",
+        "cost a lot",
+        "weighed a lot",
+        "sold a lot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no need to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone that they do not have to do or feel something",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c03_u012",
+      "answer": "No need to",
+      "options": [
+        "No need to",
+        "Not able to",
+        "No place to",
+        "Not about to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "imply",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to suggest that something is true without saying it directly",
+  "exchanges": [
+    {
+      "uid": "s08_e17_c11_u009",
+      "answer": "implied",
+      "options": [
+        "implied",
+        "denied",
+        "replied",
+        "applied"
+      ]
+    }
+  ]
 }
 ]

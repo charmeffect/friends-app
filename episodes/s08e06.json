@@ -459,5 +459,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'm happy for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say you are pleased about someone else's good news",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c02_u008",
+      "answer": "happy for you",
+      "options": [
+        "happy for you",
+        "similar to you",
+        "next to you",
+        "close to you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in style",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "fashionable at the present time",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u017",
+      "answer": "in style",
+      "options": [
+        "in style",
+        "in charge",
+        "in debt",
+        "in danger"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that is so you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is very typical of a person's character or habits",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u034",
+      "answer": "so you",
+      "options": [
+        "so you",
+        "so far",
+        "so long",
+        "so few"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mind games",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "attempts to confuse or manipulate someone psychologically",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u079",
+      "answer": "mind games",
+      "options": [
+        "mind games",
+        "mind maps",
+        "head starts",
+        "brain waves"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by day",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "during the daytime, as one's ordinary job, often suggesting a different role at other times",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u081",
+      "answer": "by day",
+      "options": [
+        "by day",
+        "by far",
+        "by heart",
+        "by chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "impulsive",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "acting suddenly without thinking carefully about what might happen",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u141",
+      "answer": "impulsive",
+      "options": [
+        "impulsive",
+        "expensive",
+        "obvious",
+        "delicious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "prove it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to challenge someone to show that what they claim is true",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c03_u165",
+      "answer": "prove it",
+      "options": [
+        "prove it",
+        "forget it",
+        "fix it",
+        "sell it"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "if you say so",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show that you accept what someone says even though you do not really agree",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u021",
+      "answer": "if you say so",
+      "options": [
+        "if you say so",
+        "if you ask me",
+        "if you go first",
+        "if you hurry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what a relief",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you feel happy because a worry or problem has gone away",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u045",
+      "answer": "What a relief",
+      "options": [
+        "What a relief",
+        "What a joke",
+        "What a waste",
+        "What a bore"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be good with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "to be skilled at dealing with or looking after a certain kind of person or thing",
+  "exchanges": [
+    {
+      "uid": "s08_e06_c05_u070",
+      "answer": "good with",
+      "options": [
+        "good with",
+        "full of",
+        "sick of",
+        "afraid of"
+      ]
+    }
+  ]
 }
 ]
