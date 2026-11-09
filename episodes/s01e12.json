@@ -508,5 +508,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "all I'm saying is",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to make clear the one simple point you are trying to make",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c02_u001",
+      "answer": "All I'm saying is",
+      "options": [
+        "All I'm saying is",
+        "All I'm eating is",
+        "All I'm buying is",
+        "All I'm cooking is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as a favor",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "as a kind act to help someone, not for payment",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c02_u008",
+      "answer": "as a favor",
+      "options": [
+        "as a favor",
+        "as a rule",
+        "as a whole",
+        "as a result"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big step",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an important change or move forward in a situation or relationship",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c02_u021",
+      "answer": "big step",
+      "options": [
+        "big step",
+        "big mess",
+        "big joke",
+        "big loss"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "way past",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "much further along than a stage or point",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c02_u027",
+      "answer": "way past",
+      "options": [
+        "way past",
+        "way below",
+        "way behind",
+        "way before"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you think?",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said sarcastically to agree that something is very obvious",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c03_u005",
+      "answer": "You think",
+      "options": [
+        "You think",
+        "You wish",
+        "You lied",
+        "You won"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if anything",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used to suggest that the opposite of what was just said may be true",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c05_u003",
+      "answer": "if anything",
+      "options": [
+        "if anything",
+        "if possible",
+        "if ever",
+        "if needed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get ugly",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become unpleasant, angry, or hostile",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c05_u019",
+      "answer": "ugly",
+      "options": [
+        "ugly",
+        "early",
+        "sleepy",
+        "crowded"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "moral obligation",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "something you must do because it is the right thing to do",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c08_u022",
+      "answer": "moral obligation",
+      "options": [
+        "moral obligation",
+        "legal problem",
+        "secret plan",
+        "good excuse"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I speak for everyone",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that your opinion is shared by everyone present",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c14_u011",
+      "answer": "speak for everyone",
+      "options": [
+        "speak for everyone",
+        "speak to everyone",
+        "speak with everyone",
+        "speak about everyone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've been better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a mild way of saying that you are not feeling well or happy",
+  "exchanges": [
+    {
+      "uid": "s01_e12_c14_u020",
+      "answer": "I've been better",
+      "options": [
+        "I've been better",
+        "I've been asleep",
+        "I've been away",
+        "I've been shopping"
+      ]
+    }
+  ]
 }
 ]

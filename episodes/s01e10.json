@@ -500,5 +500,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "make a pact",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a firm agreement with others to do or not do something",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c02_u015",
+      "answer": "make a pact",
+      "options": [
+        "make a pact",
+        "make a mess",
+        "make a fuss",
+        "make a profit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I see where this is going",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when you can guess what someone is leading up to or about to do",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c03_u009",
+      "answer": "where this is going",
+      "options": [
+        "where this is going",
+        "what this is worth",
+        "how this is done",
+        "who this is for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nowhere near",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "not at all, or very far from being",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c04_u001",
+      "answer": "nowhere near",
+      "options": [
+        "nowhere near",
+        "somewhere near",
+        "ever since",
+        "once again"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shut out",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to refuse to share your feelings or thoughts with someone",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c05_u021",
+      "answer": "shutting me out",
+      "options": [
+        "shutting me out",
+        "shutting me in",
+        "cheering me up",
+        "helping me out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch a flight",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to get on a plane and travel on it",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c05_u015",
+      "answer": "catching",
+      "options": [
+        "catching",
+        "throwing",
+        "holding",
+        "running"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so not",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used before a statement to say very strongly that it is not true",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c05_u019",
+      "answer": "so not",
+      "options": [
+        "so not",
+        "so far",
+        "so long",
+        "so much"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "like nothing happened",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "as if nothing bad or embarrassing had taken place",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c07_u014",
+      "answer": "like nothing happened",
+      "options": [
+        "like nothing happened",
+        "like everybody cheered",
+        "like someone called",
+        "like something broke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mingle",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to move around and talk with different people at a social event",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c07_u016",
+      "answer": "mingling",
+      "options": [
+        "mingling",
+        "plumbing",
+        "ironing",
+        "bargaining"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "there you are",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you find someone you have been looking for",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c07_u029",
+      "answer": "There you are",
+      "options": [
+        "There you are",
+        "There you go",
+        "Here we are",
+        "Here you go"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whiz",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a person who is very good at a particular subject or skill",
+  "exchanges": [
+    {
+      "uid": "s01_e10_c07_u080",
+      "answer": "whiz",
+      "options": [
+        "whiz",
+        "book",
+        "test",
+        "class"
+      ]
+    }
+  ]
 }
 ]

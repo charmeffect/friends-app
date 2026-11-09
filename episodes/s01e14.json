@@ -525,5 +525,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'm telling you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to insist that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c01_u001",
+      "answer": "I'm tellin' you",
+      "options": [
+        "I'm tellin' you",
+        "I'm askin' you",
+        "I'm thankin' you",
+        "I'm missin' you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're in",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone that they are sure to succeed or be accepted",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c01_u005",
+      "answer": "You're in",
+      "options": [
+        "You're in",
+        "You're off",
+        "You're up",
+        "You're on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go up to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to walk towards someone in order to speak to them",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c01_u012",
+      "answer": "go up to",
+      "options": [
+        "go up to",
+        "look up to",
+        "make up to",
+        "catch up to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't you dare",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to warn someone strongly not to do something",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c02_u010",
+      "answer": "don't you dare",
+      "options": [
+        "don't you dare",
+        "don't you think",
+        "don't you see",
+        "don't you know"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a break for it",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to suddenly run away in order to escape",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c04_u001",
+      "answer": "break",
+      "options": [
+        "break",
+        "case",
+        "point",
+        "wish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "set someone up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to arrange for someone to go on a date with a particular person",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c04_u003",
+      "answer": "set me up with",
+      "options": [
+        "set me up with",
+        "put me up with",
+        "caught me up with",
+        "backed me up with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "or what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "added to the end of a question to show you are sure the answer is yes",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c06_u025",
+      "answer": "or what",
+      "options": [
+        "or what",
+        "or else",
+        "or so",
+        "or less"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "that is all; there is nothing more",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c09_u008",
+      "answer": "that's it",
+      "options": [
+        "that's it",
+        "that's life",
+        "that's fair",
+        "that's mine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give it another shot",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try something again, especially a relationship, after it failed before",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c15_u008",
+      "answer": "give it another shot",
+      "options": [
+        "give it another shot",
+        "give it a rest",
+        "call it a night",
+        "leave it alone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "easy for you to say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when someone gives advice or an opinion without facing the difficulty you face",
+  "exchanges": [
+    {
+      "uid": "s01_e14_c15_u013",
+      "answer": "easy",
+      "options": [
+        "easy",
+        "late",
+        "rare",
+        "cheap"
+      ]
+    }
+  ]
 }
 ]

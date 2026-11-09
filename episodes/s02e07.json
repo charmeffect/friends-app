@@ -511,5 +511,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "lie around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spend time lying down or relaxing and doing nothing useful",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c01_u009",
+      "answer": "lying around",
+      "options": [
+        "lying around",
+        "showing around",
+        "turning around",
+        "looking around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how did it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone whether an event or experience was successful",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c04_u003",
+      "answer": "how'd it go",
+      "options": [
+        "how'd it go",
+        "how'd it fit",
+        "how'd it cost",
+        "how'd it look"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "offended",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "upset or hurt because of something rude that someone said or did",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c06_u006",
+      "answer": "offended",
+      "options": [
+        "offended",
+        "flattered",
+        "relieved",
+        "impressed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trust me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you are sure what you are telling someone is true",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c07_u010",
+      "answer": "trust me",
+      "options": [
+        "trust me",
+        "excuse me",
+        "forgive me",
+        "remind me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be over someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to no longer have romantic feelings for someone",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c07_u012",
+      "answer": "over you",
+      "options": [
+        "over you",
+        "into you",
+        "behind you",
+        "about you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's not like",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is not true, often to defend yourself",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c11_u015",
+      "answer": "it's not like",
+      "options": [
+        "it's not like",
+        "it's not until",
+        "it's not when",
+        "it's not after"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't mind",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "it does not bother me; I am happy to accept it",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c12_u004",
+      "answer": "I don't mind",
+      "options": [
+        "I don't mind",
+        "I don't hear",
+        "I don't owe",
+        "I don't wear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stay positive",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep a hopeful attitude when things are difficult",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c12_u015",
+      "answer": "stay positive",
+      "options": [
+        "stay positive",
+        "stay awake",
+        "stay inside",
+        "stay seated"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold off on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to delay doing something",
+  "exchanges": [
+    {
+      "uid": "s02_e07_c10_u014",
+      "answer": "hold off",
+      "options": [
+        "hold off",
+        "show off",
+        "kick off",
+        "pay off"
+      ]
+    }
+  ]
 }
 ]

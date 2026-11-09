@@ -550,5 +550,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you know what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to get attention before saying something you have just decided or realized",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c09_u003",
+      "answer": "You know what",
+      "options": [
+        "You know what",
+        "You know who",
+        "You know where",
+        "You know how"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's going on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what is happening, or what is new or wrong in someone's life",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c03_u008",
+      "answer": "What's going on",
+      "options": [
+        "What's going on",
+        "What's holding on",
+        "What's moving on",
+        "What's carrying on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's just that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the real reason or problem behind what you are saying",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c12_u008",
+      "answer": "it's just that",
+      "options": [
+        "it's just that",
+        "it's not like",
+        "it's no wonder",
+        "it's just as"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I guess",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you think something is probably true, without being sure",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c15_u002",
+      "answer": "I guess",
+      "options": [
+        "I guess",
+        "I swear",
+        "I promise",
+        "I insist"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for all we know",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something could be true because we have no information that it is not",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c05_u007",
+      "answer": "for all we know",
+      "options": [
+        "for all we know",
+        "as we all know",
+        "for all we did",
+        "all we can say"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you caught me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to admit that someone has discovered the truth about you",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c07_u029",
+      "answer": "you caught me",
+      "options": [
+        "you caught me",
+        "you fooled me",
+        "you missed me",
+        "you saved me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nothing to see here",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell onlookers to stop watching and move on because whatever happened is over",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c07_u019",
+      "answer": "Nothing to see here",
+      "options": [
+        "Nothing to see here",
+        "Nothing to say here",
+        "Nobody to blame here",
+        "Nothing to eat here"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "send back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return something, such as food in a restaurant, because you are not satisfied with it",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c07_u020",
+      "answer": "send back",
+      "options": [
+        "send back",
+        "take after",
+        "run into",
+        "give out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it could happen to anyone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to comfort someone by telling them a mistake is common and not their fault",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c12_u010",
+      "answer": "could happen to anyone",
+      "options": [
+        "could happen to anyone",
+        "could last forever",
+        "could belong to anyone",
+        "could surprise anyone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "happy place",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a calm, pleasant place or memory you think about to make yourself relax",
+  "exchanges": [
+    {
+      "uid": "s01_e05_c14_u009",
+      "answer": "happy place",
+      "options": [
+        "happy place",
+        "happy hour",
+        "lucky day",
+        "last stop"
+      ]
+    }
+  ]
 }
 ]

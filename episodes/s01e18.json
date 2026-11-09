@@ -517,5 +517,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "shut up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "a rude way of telling someone to stop talking",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c01_u028",
+      "answer": "Shut up",
+      "options": [
+        "Shut up",
+        "Sit down",
+        "Hurry up",
+        "Cheer up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you should have seen",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something was so funny or remarkable that the listener would have enjoyed watching it",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c01_u035",
+      "answer": "you should've seen",
+      "options": [
+        "you should've seen",
+        "you should've met",
+        "you should've hit",
+        "you should've fed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose or try to get a particular thing",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c02_u011",
+      "answer": "going for",
+      "options": [
+        "going for",
+        "going over",
+        "going off",
+        "going through"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hell no",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a very strong and rude way of saying no",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c02_u037",
+      "answer": "Hell no",
+      "options": [
+        "Hell no",
+        "Sounds good",
+        "Good idea",
+        "Me neither"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fine with me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you agree or have no objection to something",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c02_u040",
+      "answer": "fine with me",
+      "options": [
+        "fine with me",
+        "news to me",
+        "lost on me",
+        "beyond me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "basically",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to sum up the main point of something in a simple way",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c02_u041",
+      "answer": "basically",
+      "options": [
+        "basically",
+        "hopefully",
+        "barely",
+        "rarely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "first of all",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to introduce the first point in a series of points",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c07_u056",
+      "answer": "First of all",
+      "options": [
+        "First of all",
+        "Best of all",
+        "Worst of all",
+        "Least of all"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't be silly",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell someone that there is no need to worry, apologize, or feel bad",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c07_u063",
+      "answer": "Don't be silly",
+      "options": [
+        "Don't be silly",
+        "Don't be late",
+        "Don't be shy",
+        "Don't be mean"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to question or object to what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c07_u082",
+      "answer": "What do you mean",
+      "options": [
+        "What do you mean",
+        "What do you want",
+        "What do you need",
+        "What do you bet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm in",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you will take part in something",
+  "exchanges": [
+    {
+      "uid": "s01_e18_c07_u084",
+      "answer": "I'm in",
+      "options": [
+        "I'm in",
+        "I'm up",
+        "I'm off",
+        "I'm on"
+      ]
+    }
+  ]
 }
 ]

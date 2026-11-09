@@ -28,7 +28,12 @@ never change or remove the items already there).
      expression's exact name and fields if it is really the same unit.
 5. Discourse markers often sit at the start of a line; that is fine. Make sure the blank is still answerable
    from the context and that distractors are clearly wrong there (e.g. "I mean" vs "I bet / I wish / I swear").
-6. Run `node tools/build-data.js --check`; fix every error and WARN that mentions your episodes (ignore others —
+   Read the full line with each distractor in the blank: if any of them gives a natural sentence that makes
+   sense in the scene (e.g. "Let's keep going" vs "Let's give up"), replace it.
+   Avoid a line whose answer occurs twice in it, and lines where two speakers are merged into one.
+6. Put any temp files in your own scratchpad subfolder named after your episodes (the scratchpad is shared).
+   Keep the file's format when appending (indent 2, one blank line between items, as `tools/merge-expression.py` saves).
+7. Run `node tools/build-data.js --check`; fix every error and WARN that mentions your episodes (ignore others —
    other agents work at the same time). Repeat until clean.
 
 Final report (short): per episode, how many items added and by type/level; any judgement calls.

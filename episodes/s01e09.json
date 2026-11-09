@@ -493,5 +493,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "you know what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to get attention before saying something you have just decided or realized",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c08_u003",
+      "answer": "You know what",
+      "options": [
+        "You know what",
+        "You know who",
+        "You know when",
+        "You know where"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "all the time",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "very often or continually",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c03_u015",
+      "answer": "all the time",
+      "options": [
+        "all the time",
+        "all the way",
+        "all at once",
+        "all in all"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "anytime you're ready",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone to start whenever they feel prepared",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c09_u001",
+      "answer": "Anytime you're ready",
+      "options": [
+        "Anytime you're ready",
+        "Anytime you're sorry",
+        "Anytime you're hungry",
+        "Anytime you're busy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here we go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you are about to start doing something",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c09_u002",
+      "answer": "here we go",
+      "options": [
+        "here we go",
+        "here we sit",
+        "here we stay",
+        "here we were"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here's to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when raising a glass to drink in honour of someone or something",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c12_u054",
+      "answer": "here's to",
+      "options": [
+        "here's to",
+        "here's for",
+        "here's from",
+        "here's with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's bad enough",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say a situation is already unpleasant before adding something that makes it worse",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c08_u017",
+      "answer": "It's bad enough",
+      "options": [
+        "It's bad enough",
+        "It's fair enough",
+        "It's late enough",
+        "It's soon enough"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who's with me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask who wants to join you in doing something",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c08_u034",
+      "answer": "who's with me",
+      "options": [
+        "who's with me",
+        "who's near me",
+        "who's like me",
+        "who's after me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in reverse",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "in the opposite order or direction",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c04_u024",
+      "answer": "in reverse",
+      "options": [
+        "in reverse",
+        "in advance",
+        "in vain",
+        "in short"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on a dare",
+  "type": "phrase",
+  "level": "college",
+  "pos": "adverb",
+  "meaning": "because someone challenged you to do something risky or silly",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c11_u001",
+      "answer": "on a dare",
+      "options": [
+        "on a dare",
+        "on a diet",
+        "on a date",
+        "on a budget"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "infectious",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "quickly spreading from one person to others",
+  "exchanges": [
+    {
+      "uid": "s01_e09_c06_u003",
+      "answer": "infectious",
+      "options": [
+        "infectious",
+        "expensive",
+        "forgettable",
+        "punctual"
+      ]
+    }
+  ]
 }
 ]

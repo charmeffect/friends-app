@@ -481,5 +481,166 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "talk to me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to encourage someone to tell you what they are thinking or worried about",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c04_u013",
+      "answer": "talk to me",
+      "cueUid": "s02_e04_c04_u010",
+      "options": [
+        "talk to me",
+        "come with me",
+        "wait for me",
+        "stay with me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let me tell you something",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce something you think is important or that you feel strongly about",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c04_u025",
+      "answer": "tell you something",
+      "options": [
+        "tell you something",
+        "ask you something",
+        "show you something",
+        "get you something"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get over yourself",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "stop thinking that you and your feelings are more important than they really are",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c06_u012",
+      "answer": "get over myself",
+      "options": [
+        "get over myself",
+        "get off myself",
+        "get under myself",
+        "get into myself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just what I need",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically when something unwelcome or annoying happens",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c07_u005",
+      "answer": "just what I need",
+      "options": [
+        "just what I need",
+        "just what I said",
+        "just what I did",
+        "just what I made"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "recover from",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to get back to a normal state after something bad has happened",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c11_u018",
+      "answer": "recover from",
+      "options": [
+        "recover from",
+        "refer to",
+        "rely on",
+        "respond to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see what happens",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to wait and let events develop instead of planning everything in advance",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c11_u015",
+      "answer": "see what happens",
+      "options": [
+        "see what happens",
+        "see who answers",
+        "see what's left",
+        "see who wins"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wait a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to make someone stop because you have just noticed something surprising or unfair",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c07_u010",
+      "answer": "wait a minute",
+      "options": [
+        "wait a minute",
+        "take a minute",
+        "in a minute",
+        "for a minute"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on some level",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to some degree, often in a way you do not fully admit to yourself",
+  "exchanges": [
+    {
+      "uid": "s02_e04_c08_u013",
+      "answer": "on some level",
+      "options": [
+        "on some level",
+        "on some day",
+        "on some side",
+        "on some road"
+      ]
+    }
+  ]
 }
 ]

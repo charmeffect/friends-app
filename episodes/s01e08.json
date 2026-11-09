@@ -509,5 +509,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "it's a shame",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are sorry or disappointed about something",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c07_u008",
+      "answer": "it's a shame",
+      "options": [
+        "it's a shame",
+        "it's a deal",
+        "it's a relief",
+        "it's a joke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look into",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to find out more about something before deciding",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c03_u036",
+      "answer": "looking into",
+      "options": [
+        "looking into",
+        "looking after",
+        "running into",
+        "getting into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked to find out the reason for something strange or unexpected",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c03_u004",
+      "answer": "What's with",
+      "options": [
+        "What's with",
+        "Who's with",
+        "What's for",
+        "Where's"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how's it going",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of asking someone how they are or how things are in their life",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c13_u003",
+      "answer": "how's it going",
+      "options": [
+        "how's it going",
+        "how's it done",
+        "where's it going",
+        "who's it for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can imagine",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you understand how someone feels, often because you have experienced the same thing",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u039",
+      "answer": "I can imagine",
+      "options": [
+        "I can imagine",
+        "I can't wait",
+        "I can manage",
+        "I can explain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to introduce the reasons that explain a situation",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u035",
+      "answer": "what with",
+      "options": [
+        "what with",
+        "except for",
+        "in spite of",
+        "instead of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be critical of",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "always finding fault with someone or something",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c11_u038",
+      "answer": "critical of",
+      "options": [
+        "critical of",
+        "aware of",
+        "capable of",
+        "jealous of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "worst fear",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the thing you are most afraid of happening",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c10_u016",
+      "answer": "worst fear",
+      "options": [
+        "worst fear",
+        "best dream",
+        "first love",
+        "last wish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "define",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "used alone, often sarcastically, to ask what someone means by a word because you doubt it fits",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c06_u006",
+      "answer": "Define",
+      "options": [
+        "Define",
+        "Pardon",
+        "Imagine",
+        "Remember"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "vague",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "not clear, detailed, or exact",
+  "exchanges": [
+    {
+      "uid": "s01_e08_c02_u020",
+      "answer": "vague",
+      "options": [
+        "vague",
+        "vain",
+        "vast",
+        "vivid"
+      ]
+    }
+  ]
 }
 ]

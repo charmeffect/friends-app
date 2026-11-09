@@ -504,5 +504,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "right about now",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "at approximately this moment",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c01_u001",
+      "answer": "right about now",
+      "options": [
+        "right about now",
+        "right on time",
+        "all along",
+        "in the past"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by accident",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "without intending to; not deliberately",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c02_u001",
+      "answer": "by accident",
+      "options": [
+        "by accident",
+        "by heart",
+        "by design",
+        "by email"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what else is new",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show that something is not surprising because it happens all the time",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c02_u032",
+      "answer": "what else is new",
+      "options": [
+        "what else is new",
+        "who else is coming",
+        "where else is open",
+        "when else is good"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at first",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "in the beginning, before things changed",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c02_u038",
+      "answer": "at first",
+      "options": [
+        "at first",
+        "at last",
+        "at least",
+        "at once"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "won't happen again",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a promise, often after a mistake, that you will not do the same thing again",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c04_u014",
+      "answer": "happen again",
+      "options": [
+        "happen again",
+        "take long",
+        "be easy",
+        "matter much"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's been better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used as an understated way of saying that things are going badly",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c07_u002",
+      "answer": "been better",
+      "options": [
+        "been better",
+        "been fun",
+        "been great",
+        "been perfect"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to remove something that was hung or put up, such as decorations",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c10_u003",
+      "answer": "taken down",
+      "options": [
+        "taken down",
+        "taken in",
+        "given up",
+        "turned over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sit around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spend time sitting and doing nothing useful",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c10_u016",
+      "answer": "sitting around",
+      "options": [
+        "sitting around",
+        "giving up",
+        "walking out",
+        "falling behind"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not that it's any of your business",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said before answering a personal question to show that the other person had no right to ask it",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c13_u015",
+      "answer": "any of your business",
+      "options": [
+        "any of your business",
+        "any of my friends",
+        "any of these days",
+        "any of your plates"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "why not",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree to something or to say there is no reason not to do it",
+  "exchanges": [
+    {
+      "uid": "s01_e16_c14_u008",
+      "answer": "why not",
+      "options": [
+        "why not",
+        "what for",
+        "how come",
+        "what now"
+      ]
+    }
+  ]
 }
 ]

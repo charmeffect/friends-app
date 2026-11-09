@@ -537,5 +537,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "for all we know",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something could be true because we have no information that it is not",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c02_u035",
+      "answer": "for all we know",
+      "options": [
+        "for all we know",
+        "by all means",
+        "on the other hand",
+        "in the long run"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pass on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to politely decline an offer or a chance to do something",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c04_u027",
+      "answer": "pass on",
+      "options": [
+        "pass on",
+        "count on",
+        "insist on",
+        "carry on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's on us",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "we are paying for it, so you do not have to",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c04_u013",
+      "answer": "It's on us",
+      "options": [
+        "It's on us",
+        "It's not us",
+        "It's all us",
+        "It's just us"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for old time's sake",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "because of memories of the good times you had together in the past",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c07_u040",
+      "answer": "for old time's sake",
+      "options": [
+        "for old time's sake",
+        "for goodness' sake",
+        "for the record",
+        "for a change"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "let me get that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to offer to pay the bill",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c07_u038",
+      "answer": "Let me get that",
+      "options": [
+        "Let me get that",
+        "Let me forget that",
+        "Let me fix that",
+        "Let me finish that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I hear ya",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "I understand what you are saying and I agree with you",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c03_u058",
+      "answer": "I hear ya",
+      "options": [
+        "I hear ya",
+        "I owe ya",
+        "I bet ya",
+        "I miss ya"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a life",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have an interesting social life with friends and things to do",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c01_u005",
+      "answer": "have a life",
+      "options": [
+        "have a life",
+        "have a cold",
+        "have a clue",
+        "have a choice"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel guilty",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel bad because you think you have done something wrong",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c07_u027",
+      "answer": "feel guilty",
+      "options": [
+        "feel guilty",
+        "feel hungry",
+        "feel lonely",
+        "feel sleepy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "aside from",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "except for; apart from",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c07_u009",
+      "answer": "aside from",
+      "options": [
+        "aside from",
+        "ahead of",
+        "next to",
+        "close to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "round up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to increase a number to a higher, simpler figure",
+  "exchanges": [
+    {
+      "uid": "s02_e05_c02_u006",
+      "answer": "rounding up",
+      "options": [
+        "rounding up",
+        "rounding down",
+        "speeding up",
+        "cheering up"
+      ]
+    }
+  ]
 }
 ]

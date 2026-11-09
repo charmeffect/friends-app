@@ -517,5 +517,209 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "it pays to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "it brings you an advantage to do something",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c05_u012",
+      "answer": "it pays to",
+      "options": [
+        "it pays to",
+        "it fails to",
+        "it refuses to",
+        "it forgets to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "did something regularly or felt a certain way in the past but no longer do",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c05_u021",
+      "answer": "used to",
+      "options": [
+        "used to",
+        "refused to",
+        "forgot to",
+        "failed to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "so not",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used before a statement to say very strongly that it is not true",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c05_u036",
+      "answer": "so not",
+      "options": [
+        "so not",
+        "so very",
+        "so totally",
+        "so really"
+      ],
+      "cueUid": "s01_e22_c05_u030",
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "face it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to accept an unpleasant truth instead of avoiding it",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c09_u006",
+      "answer": "face it",
+      "options": [
+        "face it",
+        "miss it",
+        "buy it",
+        "sell it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "frankly",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "speaking honestly and directly",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c10_u004",
+      "answer": "frankly",
+      "options": [
+        "frankly",
+        "barely",
+        "rarely",
+        "merely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "icky",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unpleasant in a way that makes you feel slightly disgusted",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c10_u016",
+      "answer": "icky",
+      "options": [
+        "icky",
+        "lucky",
+        "picky",
+        "salty"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "judging by",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to give the reason for a guess or opinion",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c05_u008",
+      "answer": "Judging by",
+      "options": [
+        "Judging by",
+        "Instead of",
+        "In front of",
+        "In case of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "school night",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an evening before a day when someone has to go to school",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c07_u011",
+      "answer": "school night",
+      "options": [
+        "school night",
+        "garage sale",
+        "lunch break",
+        "snow day"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shut up",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "a rude way of telling someone to stop talking",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c05_u038",
+      "answer": "shut up",
+      "options": [
+        "shut up",
+        "show up",
+        "sign up",
+        "give up"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "a touch",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "a little; slightly",
+  "exchanges": [
+    {
+      "uid": "s01_e22_c04_u002",
+      "answer": "a touch",
+      "options": [
+        "a touch",
+        "a crowd",
+        "a spell",
+        "a drink"
+      ]
+    }
+  ]
 }
 ]

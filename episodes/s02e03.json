@@ -500,5 +500,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'm telling you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to insist that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c01_u006",
+      "answer": "I'm tellin' you",
+      "options": [
+        "I'm tellin' you",
+        "I'm askin' you",
+        "I'm warnin' you",
+        "I'm beggin' you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to protest that something is unreasonable or to urge someone not to expect too much",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c01_u005",
+      "answer": "Come on",
+      "options": [
+        "Come on",
+        "Come in",
+        "Come back",
+        "Come here"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not really",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say no in a softer, less definite way",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c02_u014",
+      "answer": "Not really",
+      "options": [
+        "Not really",
+        "Not bad",
+        "Not fair",
+        "Not again"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "or what",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "added to the end of a question to show you are sure the answer is yes",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c06_u004",
+      "answer": "or what",
+      "options": [
+        "or what",
+        "or else",
+        "or so",
+        "or never"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's not like",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is not really the case, often to defend yourself",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c06_u006",
+      "answer": "it's not like",
+      "options": [
+        "it's not like",
+        "it's not when",
+        "it's not why",
+        "it's not how"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nut case",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a person who behaves in a crazy or very strange way",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u016",
+      "answer": "nut case",
+      "options": [
+        "nut case",
+        "test case",
+        "court case",
+        "base case"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what if",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what would happen in a possible, often worrying, situation",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c08_u024",
+      "answer": "what if",
+      "options": [
+        "what if",
+        "even if",
+        "as if",
+        "only if"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a commitment",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to promise seriously to stay loyal to someone or to do something",
+  "exchanges": [
+    {
+      "uid": "s02_e03_c11_u025",
+      "answer": "make a commitment",
+      "options": [
+        "make a commitment",
+        "make a complaint",
+        "make a confession",
+        "make a comeback"
+      ]
+    }
+  ]
 }
 ]

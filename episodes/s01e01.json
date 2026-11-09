@@ -1,612 +1,774 @@
 [
-{
-  "expression": "go through",
-  "type": "phrase",
-  "level": "elementary",
-  "pos": "verb",
-  "meaning": "to experience a difficult or unpleasant period",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c05_u003",
-      "answer": "going through",
-      "options": [
-        "going through",
-        "getting over",
-        "putting up",
-        "looking into"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "all of a sudden",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "adverb",
-  "meaning": "suddenly and unexpectedly",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c01_u017",
-      "answer": "All of a sudden",
-      "options": [
-        "All of a sudden",
-        "Once in a while",
-        "By and large",
-        "In the long run"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "turn out",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to be discovered to be; to happen in a particular way in the end",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c01_u019",
-      "answer": "turns out",
-      "options": [
-        "turns out",
-        "shows up",
-        "comes off",
-        "gets by"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "to hell with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "used to say angrily that you no longer care about someone or something",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c01_u035",
-      "answer": "to hell with",
-      "options": [
-        "to hell with",
-        "no thanks to",
-        "as far as",
-        "in spite of"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "freak out",
-  "type": "colloquial",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c01_u056",
-      "answer": "freaked out",
-      "options": [
-        "freaked out",
-        "backed off",
-        "showed off",
-        "calmed down"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "drift apart",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to gradually become less close to someone over time",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c01_u056",
-      "answer": "drifted apart",
-      "options": [
-        "drifted apart",
-        "dropped out",
-        "run away",
-        "set off"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "kinda",
-  "type": "colloquial",
-  "level": "elementary",
-  "pos": "adverb",
-  "meaning": "spoken short form of 'kind of': somewhat, a little",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c01_u058",
-      "answer": "kinda",
-      "options": [
-        "kinda",
-        "gonna",
-        "wanna",
-        "gotta"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "let go of",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to stop holding something",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c02_u006",
-      "answer": "let go of",
-      "options": [
-        "let go of",
-        "get rid of",
-        "take care of",
-        "make fun of"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "metaphor",
-  "type": "word",
-  "level": "high",
-  "pos": "noun",
-  "meaning": "a way of describing something by calling it something else that it resembles",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c02_u011",
-      "answer": "metaphor",
-      "options": [
-        "metaphor",
-        "mentor",
-        "method",
-        "memoir"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "hit on",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c02_u023",
-      "answer": "hitting on",
-      "options": [
-        "hitting on",
-        "picking on",
-        "looking after",
-        "running into"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "buzz in",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to let someone into a building by pressing the button that unlocks the door",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c02_u028",
-      "answer": "Buzz him in",
-      "options": [
-        "Buzz him in",
-        "Let him off",
-        "Ring him up",
-        "Call him out"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "ask out",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to invite someone on a date",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c02_u032",
-      "answer": "asked you out",
-      "options": [
-        "asked you out",
-        "put you off",
-        "took you in",
-        "called you up"
-      ]
-    },
-    {
-      "uid": "s01_e01_c14_u041",
-      "answer": "asked you out",
-      "options": [
-        "asked you out",
-        "put you off",
-        "took you in",
-        "called you up"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "be up to",
-  "type": "colloquial",
-  "level": "elementary",
-  "pos": "expression",
-  "meaning": "to be doing or planning (what are you up to = what are you doing)",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c02_u055",
-      "answer": "up to",
-      "options": [
-        "up to",
-        "in for",
-        "out of",
-        "on about"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "hang out",
-  "type": "phrase",
-  "level": "elementary",
-  "pos": "verb",
-  "meaning": "to spend time relaxing somewhere or with someone",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c02_u059",
-      "answer": "hang out",
-      "options": [
-        "hang out",
-        "work out",
-        "show up",
-        "drop by"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "get screwed",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to be treated very unfairly; to be cheated",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c04_u018",
-      "answer": "screwed",
-      "cueUid": "s01_e01_c04_u015",
-      "options": [
-        "screwed",
-        "glued",
-        "hooked",
-        "bolted"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "catch on",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to finally understand or realize what is happening",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c05_u002",
-      "answer": "caught on",
-      "options": [
-        "caught on",
-        "given in",
-        "held up",
-        "taken off"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "steer clear of",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to deliberately avoid someone or something",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c05_u008",
-      "answer": "steer clear of",
-      "options": [
-        "steer clear of",
-        "make way for",
-        "keep track of",
-        "take hold of"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "walk out on",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to suddenly leave your partner or family and end the relationship",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c08_u001",
-      "answer": "walked out on",
-      "options": [
-        "walked out on",
-        "ran into",
-        "looked up to",
-        "got along with"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "revelation",
-  "type": "word",
-  "level": "high",
-  "pos": "noun",
-  "meaning": "a surprising fact that is made known, especially a personal one",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c08_u003",
-      "answer": "revelation",
-      "options": [
-        "revelation",
-        "reservation",
-        "resolution",
-        "recreation"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "on a roll",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "having a period of repeated success",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c11_u006",
-      "answer": "on a roll",
-      "options": [
-        "on a roll",
-        "in a row",
-        "at a loss",
-        "off the hook"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "outta here",
-  "type": "colloquial",
-  "level": "middle",
-  "pos": "expression",
-  "meaning": "spoken form of 'out of here': leaving now",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c10_u004",
-      "answer": "outta here",
-      "options": [
-        "outta here",
-        "off there",
-        "out to it",
-        "in there"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "sophisticated",
-  "type": "word",
-  "level": "high",
-  "pos": "adjective",
-  "meaning": "complex and showing a deep understanding; not simple or naive",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c13_u003",
-      "answer": "sophisticated",
-      "options": [
-        "sophisticated",
-        "sentimental",
-        "superficial",
-        "significant"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "upbeat",
-  "type": "word",
-  "level": "college",
-  "pos": "adjective",
-  "meaning": "cheerful and optimistic",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c13_u014",
-      "answer": "upbeat",
-      "options": [
-        "upbeat",
-        "upright",
-        "upset",
-        "uptight"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "on sale",
-  "type": "phrase",
-  "level": "elementary",
-  "pos": "adjective",
-  "meaning": "being sold at a reduced price",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c13_u015",
-      "answer": "on sale",
-      "options": [
-        "on sale",
-        "for rent",
-        "in stock",
-        "at cost"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "live off",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to depend on someone or something for the money you need to live",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c14_u002",
-      "answer": "live off",
-      "options": [
-        "live off",
-        "get by",
-        "look up",
-        "hold on"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "end up",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to finally be in a situation or place, often without planning it",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c14_u006",
-      "answer": "ended up",
-      "options": [
-        "ended up",
-        "turned in",
-        "set out",
-        "kept on"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "leave it at that",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "to stop doing or discussing something and not go any further",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c14_u016",
-      "answer": "leave it at that",
-      "options": [
-        "leave it at that",
-        "put it like this",
-        "take it from there",
-        "make it up here"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "crash",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to sleep somewhere for the night, especially not in your own bed",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c14_u023",
-      "answer": "crash",
-      "options": [
-        "crash",
-        "crush",
-        "crawl",
-        "crack"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "have a crush on",
-  "type": "colloquial",
-  "level": "middle",
-  "pos": "expression",
-  "meaning": "to have a strong, often secret, romantic attraction to someone",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c14_u037",
-      "answer": "crush",
-      "options": [
-        "crush",
-        "crash",
-        "clash",
-        "crunch"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "geeky",
-  "type": "word",
-  "level": "middle",
-  "pos": "adjective",
-  "meaning": "socially awkward and overly interested in technical or unfashionable things",
-  "exchanges": [
-    {
-      "uid": "s01_e01_c14_u039",
-      "answer": "geeky",
-      "options": [
-        "geeky",
-        "greedy",
-        "gloomy",
-        "grumpy"
-      ]
-    }
-  ]
-}
+  {
+    "expression": "go through",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to experience a difficult or unpleasant period",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c05_u003",
+        "answer": "going through",
+        "options": [
+          "going through",
+          "getting over",
+          "putting up",
+          "looking into"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "all of a sudden",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "adverb",
+    "meaning": "suddenly and unexpectedly",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u017",
+        "answer": "All of a sudden",
+        "options": [
+          "All of a sudden",
+          "Once in a while",
+          "By and large",
+          "In the long run"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "turn out",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to be discovered to be; to happen in a particular way in the end",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u019",
+        "answer": "turns out",
+        "options": [
+          "turns out",
+          "shows up",
+          "comes off",
+          "gets by"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "to hell with",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "used to say angrily that you no longer care about someone or something",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u035",
+        "answer": "to hell with",
+        "options": [
+          "to hell with",
+          "no thanks to",
+          "as far as",
+          "in spite of"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "freak out",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to become very anxious, upset, or panicked",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u056",
+        "answer": "freaked out",
+        "options": [
+          "freaked out",
+          "backed off",
+          "showed off",
+          "calmed down"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "drift apart",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to gradually become less close to someone over time",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u056",
+        "answer": "drifted apart",
+        "options": [
+          "drifted apart",
+          "dropped out",
+          "run away",
+          "set off"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "kinda",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "adverb",
+    "meaning": "spoken short form of 'kind of': somewhat, a little",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u058",
+        "answer": "kinda",
+        "options": [
+          "kinda",
+          "gonna",
+          "wanna",
+          "gotta"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "let go of",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to stop holding something",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u006",
+        "answer": "let go of",
+        "options": [
+          "let go of",
+          "get rid of",
+          "take care of",
+          "make fun of"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "metaphor",
+    "type": "word",
+    "level": "high",
+    "pos": "noun",
+    "meaning": "a way of describing something by calling it something else that it resembles",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u011",
+        "answer": "metaphor",
+        "options": [
+          "metaphor",
+          "mentor",
+          "method",
+          "memoir"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "hit on",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to flirt with someone or try to start a romantic or sexual relationship",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u023",
+        "answer": "hitting on",
+        "options": [
+          "hitting on",
+          "picking on",
+          "looking after",
+          "running into"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "buzz in",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to let someone into a building by pressing the button that unlocks the door",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u028",
+        "answer": "Buzz him in",
+        "options": [
+          "Buzz him in",
+          "Let him off",
+          "Ring him up",
+          "Call him out"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "ask out",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to invite someone on a date",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u032",
+        "answer": "asked you out",
+        "options": [
+          "asked you out",
+          "put you off",
+          "took you in",
+          "called you up"
+        ]
+      },
+      {
+        "uid": "s01_e01_c14_u041",
+        "answer": "asked you out",
+        "options": [
+          "asked you out",
+          "put you off",
+          "took you in",
+          "called you up"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "be up to",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "to be doing or planning (what are you up to = what are you doing)",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u055",
+        "answer": "up to",
+        "options": [
+          "up to",
+          "in for",
+          "out of",
+          "on about"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "hang out",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to spend time relaxing somewhere or with someone",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u059",
+        "answer": "hang out",
+        "options": [
+          "hang out",
+          "work out",
+          "show up",
+          "drop by"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "get screwed",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to be treated very unfairly; to be cheated",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c04_u018",
+        "answer": "screwed",
+        "cueUid": "s01_e01_c04_u015",
+        "options": [
+          "screwed",
+          "glued",
+          "hooked",
+          "bolted"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "catch on",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to finally understand or realize what is happening",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c05_u002",
+        "answer": "caught on",
+        "options": [
+          "caught on",
+          "given in",
+          "held up",
+          "taken off"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "steer clear of",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to deliberately avoid someone or something",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c05_u008",
+        "answer": "steer clear of",
+        "options": [
+          "steer clear of",
+          "make way for",
+          "keep track of",
+          "take hold of"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "walk out on",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to suddenly leave your partner or family and end the relationship",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c08_u001",
+        "answer": "walked out on",
+        "options": [
+          "walked out on",
+          "ran into",
+          "looked up to",
+          "got along with"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "revelation",
+    "type": "word",
+    "level": "high",
+    "pos": "noun",
+    "meaning": "a surprising fact that is made known, especially a personal one",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c08_u003",
+        "answer": "revelation",
+        "options": [
+          "revelation",
+          "reservation",
+          "resolution",
+          "recreation"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "on a roll",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "having a period of repeated success",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c11_u006",
+        "answer": "on a roll",
+        "options": [
+          "on a roll",
+          "in a row",
+          "at a loss",
+          "off the hook"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "outta here",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "spoken form of 'out of here': leaving now",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c10_u004",
+        "answer": "outta here",
+        "options": [
+          "outta here",
+          "off there",
+          "out to it",
+          "in there"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "sophisticated",
+    "type": "word",
+    "level": "high",
+    "pos": "adjective",
+    "meaning": "complex and showing a deep understanding; not simple or naive",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c13_u003",
+        "answer": "sophisticated",
+        "options": [
+          "sophisticated",
+          "sentimental",
+          "superficial",
+          "significant"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "upbeat",
+    "type": "word",
+    "level": "college",
+    "pos": "adjective",
+    "meaning": "cheerful and optimistic",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c13_u014",
+        "answer": "upbeat",
+        "options": [
+          "upbeat",
+          "upright",
+          "upset",
+          "uptight"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "on sale",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "adjective",
+    "meaning": "being sold at a reduced price",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c13_u015",
+        "answer": "on sale",
+        "options": [
+          "on sale",
+          "for rent",
+          "in stock",
+          "at cost"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "live off",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to depend on someone or something for the money you need to live",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u002",
+        "answer": "live off",
+        "options": [
+          "live off",
+          "get by",
+          "look up",
+          "hold on"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "end up",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to finally be in a situation or place, often without planning it",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u006",
+        "answer": "ended up",
+        "options": [
+          "ended up",
+          "turned in",
+          "set out",
+          "kept on"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "leave it at that",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "to stop doing or discussing something and not go any further",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u016",
+        "answer": "leave it at that",
+        "options": [
+          "leave it at that",
+          "put it like this",
+          "take it from there",
+          "make it up here"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "crash",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to sleep somewhere for the night, especially not in your own bed",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u023",
+        "answer": "crash",
+        "options": [
+          "crash",
+          "crush",
+          "crawl",
+          "crack"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "have a crush on",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "to have a strong, often secret, romantic attraction to someone",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u037",
+        "answer": "crush",
+        "options": [
+          "crush",
+          "crash",
+          "clash",
+          "crunch"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "geeky",
+    "type": "word",
+    "level": "middle",
+    "pos": "adjective",
+    "meaning": "socially awkward and overly interested in technical or unfashionable things",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u039",
+        "answer": "geeky",
+        "options": [
+          "geeky",
+          "greedy",
+          "gloomy",
+          "grumpy"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "there's nothing to tell",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "used to say that there is no interesting story or secret to share",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u001",
+        "answer": "nothing to tell",
+        "options": [
+          "nothing to tell",
+          "nothing to lose",
+          "nothing to eat",
+          "nothing to fix"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "sound like",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to seem to be something, judging from what you have heard",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c01_u008",
+        "answer": "Sounds like",
+        "options": [
+          "Sounds like",
+          "Turns into",
+          "Comes from",
+          "Stands for"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "you know what",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "used to get attention before saying something you have just decided or realized",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u016",
+        "answer": "Y'know what",
+        "options": [
+          "Y'know what",
+          "Guess who",
+          "Says who",
+          "No way"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "I guess",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "used to say that you think something is probably true, without being sure",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u014",
+        "answer": "I guess",
+        "options": [
+          "I guess",
+          "I swear",
+          "I wish",
+          "I promise"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "I mean",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "used to explain or correct what you have just said",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u037",
+        "answer": "I mean",
+        "options": [
+          "I mean",
+          "I bet",
+          "I swear",
+          "I wish"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "anyway",
+    "type": "word",
+    "level": "middle",
+    "pos": "adverb",
+    "meaning": "used to return to the main point or change the subject after a digression",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u057",
+        "answer": "Anyway",
+        "options": [
+          "Anyway",
+          "Instead",
+          "Therefore",
+          "Unless"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "I wish I could",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "a polite way of turning down an invitation by suggesting you are unable to accept",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c02_u062",
+        "answer": "I wish I could",
+        "options": [
+          "I wish I could",
+          "I think I will",
+          "I know I should",
+          "I hope I can"
+        ],
+        "responseUid": null
+      }
+    ]
+  },
+  {
+    "expression": "that's it",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "that is all; there is nothing more",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c07_u006",
+        "answer": "that's it",
+        "options": [
+          "that's it",
+          "that's why",
+          "that's how",
+          "that's new"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "I doubt it",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "used to say that you think something is probably not true or will probably not happen",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c11_u027",
+        "answer": "I doubt it",
+        "options": [
+          "I doubt it",
+          "I knew it",
+          "I love it",
+          "I'm on it"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "come on",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "used to protest that something is unreasonable or to urge someone not to expect too much",
+    "exchanges": [
+      {
+        "uid": "s01_e01_c14_u010",
+        "answer": "Come on",
+        "options": [
+          "Come on",
+          "Go ahead",
+          "Cheer up",
+          "Look out"
+        ]
+      }
+    ]
+  }
 ]

@@ -507,5 +507,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "one thing led to another",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when a series of events happened naturally, often ending in something romantic",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c08_u018",
+      "answer": "led to another",
+      "options": [
+        "led to another",
+        "led to nothing",
+        "went too far",
+        "fell to pieces"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "yeah, right",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said sarcastically to show that you do not believe what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c08_u021",
+      "answer": "Yeah, right",
+      "options": [
+        "Yeah, right",
+        "Oh, thanks",
+        "Oh, sorry",
+        "Oh, hello"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you care",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something should not matter to the person you are talking to",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c10_u006",
+      "answer": "What do you care",
+      "options": [
+        "What do you care",
+        "What do you need",
+        "What do you owe",
+        "What do you hear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're damn right",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to agree very strongly that something is true",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c10_u010",
+      "answer": "You're damn right",
+      "options": [
+        "You're damn right",
+        "You're dead wrong",
+        "You're barely right",
+        "You're never right"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the feeling",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start to believe something without being certain of it",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c13_u006",
+      "answer": "got the feeling",
+      "options": [
+        "got the feeling",
+        "got the chance",
+        "got the joke",
+        "got the time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk to you later",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of saying goodbye when you expect to speak again soon",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c13_u012",
+      "answer": "talk to you later",
+      "options": [
+        "talk to you later",
+        "look at you later",
+        "think of you later",
+        "ask of you later"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have to do with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be connected with or about something",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c11_u012",
+      "answer": "to do with",
+      "options": [
+        "to do with",
+        "to look at",
+        "to live on",
+        "to run from"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's bad enough",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say a situation is already unpleasant before adding something that makes it worse",
+  "exchanges": [
+    {
+      "uid": "s02_e02_c11_u009",
+      "answer": "It's bad enough",
+      "options": [
+        "It's bad enough",
+        "It's lucky enough",
+        "It's fair enough",
+        "It's nice enough"
+      ]
+    }
+  ]
 }
 ]

@@ -525,5 +525,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "be done with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have finished with something and want no more of it",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c03_u007",
+      "answer": "done with",
+      "options": [
+        "done with",
+        "fine with",
+        "good with",
+        "big with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make your toes curl",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to excite you very strongly, especially in a romantic way",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c03_u010",
+      "answer": "make your toes curl",
+      "options": [
+        "make your toes curl",
+        "make your skin crawl",
+        "make your blood boil",
+        "make your ears burn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in fact",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to add something that supports or goes further than what you have just said",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c03_u011",
+      "answer": "In fact",
+      "options": [
+        "In fact",
+        "In vain",
+        "In case",
+        "In turn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chick flick",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a film made mainly to appeal to women, usually a romantic or emotional one",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c03_u019",
+      "answer": "chick-flick",
+      "options": [
+        "chick-flick",
+        "page-turner",
+        "know-it-all",
+        "show-off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how did it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone whether an event or experience was successful",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c05_u040",
+      "answer": "how'd it go",
+      "options": [
+        "how'd it go",
+        "how'd it end",
+        "how'd it start",
+        "how'd it look"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ridiculous",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very silly or unreasonable",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c06_u097",
+      "answer": "ridiculous",
+      "options": [
+        "ridiculous",
+        "delicious",
+        "generous",
+        "ambitious"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a million times",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "very many times; an exaggeration used when you are annoyed at repeating something",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c06_u100",
+      "answer": "a million times",
+      "options": [
+        "a million times",
+        "a million miles",
+        "a million dollars",
+        "a million years"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "vintage",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "showing the most typical qualities of a particular person or thing",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c06_u103",
+      "answer": "vintage",
+      "options": [
+        "vintage",
+        "ancient",
+        "modern",
+        "junior"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have got to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "must; used to say strongly that something is necessary",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c08_u013",
+      "answer": "have got to",
+      "options": [
+        "have got to",
+        "have used to",
+        "have come to",
+        "have tried to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I dunno",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "an informal way of saying 'I don't know', often used before disagreeing gently",
+  "exchanges": [
+    {
+      "uid": "s01_e19_c09_u006",
+      "answer": "I dunno",
+      "options": [
+        "I dunno",
+        "I gotta",
+        "I wanna",
+        "I gotcha"
+      ]
+    }
+  ]
 }
 ]

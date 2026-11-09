@@ -504,5 +504,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what if",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what would happen in a possible, often worrying, situation",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c04_u027",
+      "answer": "What if",
+      "options": [
+        "What if",
+        "What for",
+        "So what",
+        "Only if"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we've been through this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when a subject has already been discussed and you do not want to discuss it again",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c05_u001",
+      "answer": "we've been through this",
+      "options": [
+        "we've been through this",
+        "we've never met",
+        "we've got company",
+        "we've run out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "thanks a lot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically when someone has done something that causes you trouble",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c06_u029",
+      "answer": "Thanks a lot",
+      "options": [
+        "Thanks a lot",
+        "Happy birthday",
+        "Nice to meet you",
+        "Bless you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "threatened",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "feeling that someone is a danger to your position or importance",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c08_u006",
+      "answer": "threatened",
+      "options": [
+        "threatened",
+        "forgiven",
+        "adopted",
+        "sponsored"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "here for you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "ready to support and help you whenever you need it",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c10_u002",
+      "answer": "here for you",
+      "options": [
+        "here for you",
+        "done with you",
+        "mad at you",
+        "sick of you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "anyway",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to return to the main point or change the subject after a digression",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c10_u006",
+      "answer": "anyway",
+      "options": [
+        "anyway",
+        "instead",
+        "besides",
+        "unless"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be involved with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be in a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c14_u001",
+      "answer": "involved with",
+      "options": [
+        "involved with",
+        "worried about",
+        "related to",
+        "allergic to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for instance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "for example",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c14_u007",
+      "answer": "for instance",
+      "options": [
+        "for instance",
+        "for good",
+        "for once",
+        "for real"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "check up on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go and see whether someone is all right",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c14_u011",
+      "answer": "check up on",
+      "options": [
+        "check up on",
+        "catch up on",
+        "make up with",
+        "look down on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get to do",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the chance or privilege of doing something",
+  "exchanges": [
+    {
+      "uid": "s01_e23_c16_u003",
+      "answer": "get to",
+      "options": [
+        "get to",
+        "forget to",
+        "refuse to",
+        "pretend to"
+      ],
+      "responseUid": null
+    }
+  ]
 }
 ]

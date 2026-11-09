@@ -534,5 +534,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "how's it going",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of asking someone how they are or how things are in their life",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c07_u003",
+      "answer": "How's it going",
+      "options": [
+        "How's it going",
+        "Where's it going",
+        "What's it doing",
+        "Who's it going"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "that is all; there is nothing more",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c07_u020",
+      "answer": "that's it",
+      "options": [
+        "that's it",
+        "that's odd",
+        "that's sad",
+        "that's new"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make eyes at",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "verb",
+  "meaning": "to look at someone in a way that shows you are attracted to them",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c09_u012",
+      "answer": "made eyes at",
+      "options": [
+        "made eyes at",
+        "made sure of",
+        "made use of",
+        "made way for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whatever",
+  "type": "word",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to show that you do not care or are not interested in what someone has said",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c07_u005",
+      "answer": "whatever",
+      "options": [
+        "whatever",
+        "welcome",
+        "forever",
+        "however"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speed up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something faster",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c06_u033",
+      "answer": "speed it up",
+      "options": [
+        "speed it up",
+        "slow it down",
+        "give it up",
+        "turn it down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "any time",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said in reply to thanks to mean you were happy to help",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c08_u006",
+      "answer": "Any time",
+      "options": [
+        "Any time",
+        "No time",
+        "Some time",
+        "Next time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to feel sympathy for someone",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c06_u040",
+      "answer": "feel for",
+      "options": [
+        "feel for",
+        "fall for",
+        "look for",
+        "ask for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on earth",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used after a question word to add emphasis or show surprise",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c06_u028",
+      "answer": "on earth",
+      "options": [
+        "on earth",
+        "at least",
+        "in fact",
+        "by far"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "of all people",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to stress that a particular person is the most surprising or unlikely choice",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c06_u027",
+      "answer": "of all people",
+      "options": [
+        "of all people",
+        "at all costs",
+        "for all time",
+        "in all ways"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "can't help but",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be unable to stop yourself from doing something",
+  "exchanges": [
+    {
+      "uid": "s02_e11_c09_u008",
+      "answer": "couldn't help but",
+      "options": [
+        "couldn't help but",
+        "couldn't wait to",
+        "couldn't stand to",
+        "couldn't bear to"
+      ]
+    }
+  ]
 }
 ]

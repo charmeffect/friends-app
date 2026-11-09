@@ -30,6 +30,7 @@ const CHECK_ONLY = process.argv.includes('--check'); // validate without writing
 
 // "Rachel Green" -> "Rachel"; keep titles/articles with the next word ("The Dealer", "Dr. Green", "Mrs. Geller")
 function shortName(full) {
+  if (/^#all#$/i.test(full.trim())) return 'All';
   const w = full.trim().split(/\s+/);
   if (w.length > 1 && /^(the|a|an|dr\.?|mr\.?|mrs\.?|ms\.?|miss|aunt|uncle|grandma|grandpa|old|young|little|big)$/i.test(w[0])) return w[0] + ' ' + w[1];
   return w[0];

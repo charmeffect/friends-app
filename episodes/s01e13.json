@@ -523,5 +523,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "back up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to go back to an earlier point in a discussion or line of thought",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c02_u027",
+      "answer": "back up",
+      "options": [
+        "back up",
+        "give up",
+        "sit up",
+        "wake up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep someone at a distance",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to avoid becoming emotionally close to someone",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c02_u028",
+      "answer": "at a distance",
+      "options": [
+        "at a distance",
+        "at a discount",
+        "in a hurry",
+        "on a budget"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "this blows",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when a situation is really bad, disappointing, or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c04_u001",
+      "answer": "This blows",
+      "options": [
+        "This blows",
+        "This helps",
+        "This fits",
+        "This works"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't see that happening",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say firmly that something is not going to happen",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c04_u006",
+      "answer": "see that happening",
+      "options": [
+        "see that happening",
+        "remember that happening",
+        "recall that happening",
+        "regret that happening"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't mean to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something that might sound rude, to show it is not your intention to offend",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c10_u009",
+      "answer": "I don't mean to",
+      "options": [
+        "I don't mean to",
+        "I don't get to",
+        "I don't seem to",
+        "I don't happen to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make things right",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to fix a bad situation or correct a wrong so that things are fair again",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c10_u004",
+      "answer": "making things right",
+      "options": [
+        "making things right",
+        "making things up",
+        "making things fun",
+        "taking things slow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cover story",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a false explanation made up to hide what someone is really doing",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c10_u006",
+      "answer": "cover stories",
+      "options": [
+        "cover stories",
+        "bedtime stories",
+        "ghost stories",
+        "success stories"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no contest",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that one side would win very easily because the competition is so uneven",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c10_u017",
+      "answer": "No contest",
+      "options": [
+        "No contest",
+        "No offense",
+        "No comment",
+        "No thanks"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "I guess",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you think something is probably true, without being sure",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c12_u006",
+      "answer": "I guess",
+      "options": [
+        "I guess",
+        "I swear",
+        "I promise",
+        "I insist"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how's it going",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of asking someone how they are or how things are in their life",
+  "exchanges": [
+    {
+      "uid": "s01_e13_c12_u011",
+      "answer": "How's it going",
+      "options": [
+        "How's it going",
+        "Where's it going",
+        "Who's it for",
+        "What's it worth"
+      ]
+    }
+  ]
 }
 ]

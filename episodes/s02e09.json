@@ -535,5 +535,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "get in line",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to tell someone that other people already want the same thing first",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c09_u006",
+      "answer": "get in line",
+      "options": [
+        "get in line",
+        "get in shape",
+        "get in touch",
+        "get it together"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to get attention before saying something you have just decided or realized",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c04_u025",
+      "answer": "you know what",
+      "options": [
+        "you know what",
+        "you know who",
+        "you know where",
+        "you know how"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "anyway",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to return to the main point or change the subject after a digression",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c02_u038",
+      "answer": "anyway",
+      "options": [
+        "anyway",
+        "instead",
+        "otherwise",
+        "therefore"
+      ],
+      "cueUid": "s02_e09_c02_u034"
+    }
+  ]
+},
+
+{
+  "expression": "I mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to explain or correct what you have just said",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c11_u009",
+      "answer": "I mean",
+      "options": [
+        "I mean",
+        "I bet",
+        "I wish",
+        "I swear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how's it going",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of asking someone how they are or how things are in their life",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c05_u005",
+      "answer": "How's it going",
+      "options": [
+        "How's it going",
+        "Where's it going",
+        "What's it doing",
+        "Who's it going"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "worse comes to worse",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "if the situation turns out as badly as possible",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c07_u019",
+      "answer": "worse comes to worse",
+      "options": [
+        "worse comes to worse",
+        "best comes to best",
+        "good comes to good",
+        "more comes to more"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "last I heard",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "according to the most recent information I have",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c03_u019",
+      "answer": "Last I heard",
+      "options": [
+        "Last I heard",
+        "First I said",
+        "Next I knew",
+        "Once I told"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "broke",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "having no money",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c01_u011",
+      "answer": "broke",
+      "options": [
+        "broke",
+        "bored",
+        "brave",
+        "drunk"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "plenty of time",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "noun",
+  "meaning": "more than enough time to do something",
+  "exchanges": [
+    {
+      "uid": "s02_e09_c06_u005",
+      "answer": "plenty of time",
+      "options": [
+        "plenty of time",
+        "lack of time",
+        "sense of time",
+        "waste of time"
+      ]
+    }
+  ]
 }
 ]

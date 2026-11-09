@@ -522,5 +522,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "seriously",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to show that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c04_u035",
+      "answer": "Seriously",
+      "options": [
+        "Seriously",
+        "Hopefully",
+        "Apparently",
+        "Obviously"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to protest that something is unreasonable or to urge someone not to expect too much",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c04_u042",
+      "answer": "C'mon",
+      "options": [
+        "C'mon",
+        "Go away",
+        "Hurry up",
+        "Cheer up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here goes",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said just before you start doing something difficult or nerve-racking",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c02_u022",
+      "answer": "Here goes",
+      "options": [
+        "Here goes",
+        "Get lost",
+        "Bless you",
+        "Good night"
+      ],
+      "cueUid": "s01_e06_c02_u020"
+    }
+  ]
+},
+
+{
+  "expression": "just for fun",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "only to enjoy yourself or out of curiosity, not for any serious reason",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c04_u011",
+      "answer": "Just for fun",
+      "options": [
+        "Just for fun",
+        "Just in time",
+        "Just by chance",
+        "Just as well"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "impending doom",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a feeling that something terrible is about to happen",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c01_u002",
+      "answer": "impending doom",
+      "options": [
+        "impending doom",
+        "lasting peace",
+        "sudden wealth",
+        "growing interest"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go for",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose or try to get a particular thing",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c06_u014",
+      "answer": "going for",
+      "options": [
+        "going for",
+        "going off",
+        "going over",
+        "going under"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "about to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "going to do something very soon",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c01_u005",
+      "answer": "about to",
+      "options": [
+        "about to",
+        "used to",
+        "fond of",
+        "known for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a part of me",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that you partly feel or believe something",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c07_u029",
+      "answer": "part of me",
+      "options": [
+        "part of me",
+        "none of me",
+        "all of us",
+        "each of us"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "doesn't matter",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something is not important",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c08_u027",
+      "answer": "Doesn't matter",
+      "options": [
+        "Doesn't matter",
+        "Doesn't work",
+        "Doesn't fit",
+        "Doesn't hurt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spot",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to notice or recognize someone or something",
+  "exchanges": [
+    {
+      "uid": "s01_e06_c01_u002",
+      "answer": "spot",
+      "options": [
+        "spot",
+        "spoil",
+        "spill",
+        "spin"
+      ]
+    }
+  ]
 }
 ]

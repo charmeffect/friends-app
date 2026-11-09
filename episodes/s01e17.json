@@ -534,5 +534,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to explain or correct what you have just said",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c04_u004",
+      "answer": "I mean",
+      "options": [
+        "I mean",
+        "I wish",
+        "I hope",
+        "I doubt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wait a second",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to make someone stop because you have just noticed or realized something",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c01_u023",
+      "answer": "wait a second",
+      "options": [
+        "wait a second",
+        "take a break",
+        "have a seat",
+        "make a wish"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to get attention before saying something you have just decided or realized",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c06_u015",
+      "answer": "You know what",
+      "options": [
+        "You know what",
+        "You know why",
+        "You know who",
+        "You know where"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it turns out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something was discovered to be true, often unexpectedly",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c09_u003",
+      "answer": "it turns out",
+      "options": [
+        "it turns out",
+        "it comes out",
+        "it works out",
+        "it gives out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a heart",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask someone to be kind and show some sympathy",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c11_u011",
+      "answer": "have a heart",
+      "options": [
+        "have a heart",
+        "have a seat",
+        "have a drink",
+        "have a ball"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take a look at",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to examine someone or something, for example to check what is wrong",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c11_u013",
+      "answer": "take a look at",
+      "options": [
+        "take a look at",
+        "take a shot at",
+        "take a swing at",
+        "take a dig at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sort of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some degree; used to make a statement less definite",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c05_u004",
+      "answer": "sort of",
+      "options": [
+        "sort of",
+        "out of",
+        "full of",
+        "instead of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I guess",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you think something is probably true, without being sure",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c05_u009",
+      "answer": "I guess",
+      "options": [
+        "I guess",
+        "I wish",
+        "I hope",
+        "I doubt"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's going on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what is happening, or what is new or wrong in someone's life",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c04_u022",
+      "answer": "what's going on",
+      "options": [
+        "what's going on",
+        "what's coming up",
+        "what's taking off",
+        "what's falling out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "STAT",
+  "type": "word",
+  "level": "expert",
+  "pos": "adverb",
+  "meaning": "immediately; a word used by doctors and nurses for something urgent",
+  "exchanges": [
+    {
+      "uid": "s01_e17_c06_u015",
+      "answer": "STAT",
+      "options": [
+        "STAT",
+        "AWOL",
+        "RSVP",
+        "FYI"
+      ]
+    }
+  ]
 }
 ]

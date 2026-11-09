@@ -501,5 +501,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "so what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something does not matter or is not important",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u038",
+      "answer": "So what",
+      "options": [
+        "So what",
+        "So long",
+        "So close",
+        "So soon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kind of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some degree; used to make a statement softer or less definite",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c02_u013",
+      "answer": "kind of",
+      "options": [
+        "kind of",
+        "out of",
+        "all of",
+        "made of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I guess",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you think something is probably true, without being sure",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c02_u016",
+      "answer": "I guess",
+      "options": [
+        "I guess",
+        "I wish",
+        "I doubt",
+        "I swear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make excuses",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to give reasons to explain or defend behaviour instead of dealing with the real problem",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c02_u014",
+      "answer": "made excuses",
+      "options": [
+        "made excuses",
+        "made progress",
+        "made friends",
+        "made money"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "seriously",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "used to show that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c01_u018",
+      "answer": "seriously",
+      "options": [
+        "seriously",
+        "hopefully",
+        "finally",
+        "luckily"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's going on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what is happening, or what is new or wrong in someone's life",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c08_u014",
+      "answer": "What's going on",
+      "options": [
+        "What's going on",
+        "What's coming up",
+        "What's turning off",
+        "What's going out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you had to be there",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when something was funny at the time but is hard to explain to someone who did not see it",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c04_u020",
+      "answer": "have to be there",
+      "options": [
+        "have to be there",
+        "have to be sure",
+        "have to be right",
+        "have to be first"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the other night",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "on an evening a few days ago",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c04_u012",
+      "answer": "the other night",
+      "options": [
+        "the other night",
+        "the next night",
+        "the last night",
+        "the whole night"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think about something that happened in the past",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c05_u019",
+      "answer": "look back",
+      "options": [
+        "look back",
+        "look up",
+        "look out",
+        "look away"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give me a break",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to ask someone to stop being so hard on you",
+  "exchanges": [
+    {
+      "uid": "s02_e10_c03_u002",
+      "answer": "give me a break",
+      "options": [
+        "give me a break",
+        "give me a raise",
+        "give me a refund",
+        "give me a ticket"
+      ]
+    }
+  ]
 }
 ]

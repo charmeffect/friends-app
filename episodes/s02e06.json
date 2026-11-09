@@ -545,5 +545,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what if",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask what would happen in a possible, often worrying, situation",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c01_u013",
+      "answer": "What if",
+      "options": [
+        "What if",
+        "Even if",
+        "As if",
+        "Only if"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "got it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "I understand; I have noted that",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c01_u040",
+      "answer": "got it",
+      "options": [
+        "got it",
+        "lost it",
+        "made it",
+        "took it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not a fan",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that someone does not like a person or thing",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c02_u010",
+      "answer": "not a fan",
+      "options": [
+        "not a fan",
+        "not a pro",
+        "not a chef",
+        "not a kid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cutie pie",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "an affectionate name for a cute child or person",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c03_u009",
+      "answer": "cutie pie",
+      "options": [
+        "cutie pie",
+        "couch potato",
+        "hot shot",
+        "big cheese"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let go of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stop holding something",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c04_u033",
+      "answer": "Let go of",
+      "options": [
+        "Let go of",
+        "Take care of",
+        "Make use of",
+        "Get rid of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here you go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you hand something to someone",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c05_u016",
+      "answer": "Here you go",
+      "options": [
+        "Here you go",
+        "Here we come",
+        "Off you go",
+        "Here I am"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kind of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some degree; used to make a statement softer or less definite",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c05_u015",
+      "answer": "kind of",
+      "options": [
+        "kind of",
+        "instead of",
+        "because of",
+        "out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "feel bad",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to feel guilty or sorry about something",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c06_u029",
+      "answer": "feel bad",
+      "options": [
+        "feel bad",
+        "feel free",
+        "feel sick",
+        "feel lucky"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be all about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be the most important or essential point of something",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c05_u011",
+      "answer": "all about",
+      "options": [
+        "all about",
+        "all over",
+        "all along",
+        "all around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from the top",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "from the beginning again; said to restart a song or performance",
+  "exchanges": [
+    {
+      "uid": "s02_e06_c06_u032",
+      "answer": "From the top",
+      "options": [
+        "From the top",
+        "From the heart",
+        "From the side",
+        "From the back"
+      ],
+      "responseUid": null
+    }
+  ]
 }
 ]

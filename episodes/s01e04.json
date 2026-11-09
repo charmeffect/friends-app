@@ -1,508 +1,684 @@
 [
-{
-  "expression": "check it out",
-  "type": "colloquial",
-  "level": "elementary",
-  "pos": "expression",
-  "meaning": "said to make someone look at something interesting you are showing them",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u015",
-      "answer": "check it out",
-      "options": [
-        "check it out",
-        "take it off",
-        "put it on",
-        "give it up"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "by the way",
-  "type": "phrase",
-  "level": "elementary",
-  "pos": "adverb",
-  "meaning": "used to add a new topic or something you just remembered",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u045",
-      "answer": "by the way",
-      "cueUid": "s01_e04_c02_u043",
-      "responseUid": null,
-      "options": [
-        "by the way",
-        "on the way",
-        "in the way",
-        "all the way"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "stay over",
-  "type": "phrase",
-  "level": "elementary",
-  "pos": "verb",
-  "meaning": "to spend the night at someone else's home",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c05_u005",
-      "answer": "staying over",
-      "cueUid": "s01_e04_c05_u003",
-      "options": [
-        "staying over",
-        "staying up",
-        "staying out",
-        "staying in"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "give up",
-  "type": "phrase",
-  "level": "elementary",
-  "pos": "verb",
-  "meaning": "to stop having something, often as a sacrifice",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c07_u002",
-      "answer": "gave up",
-      "options": [
-        "gave up",
-        "gave in",
-        "took up",
-        "put up"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "live on",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to have enough money from something to pay for your basic needs",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u043",
-      "answer": "live on",
-      "responseUid": "s01_e04_c02_u045",
-      "options": [
-        "live on",
-        "live up",
-        "live out",
-        "live down"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "get promoted",
-  "type": "phrase",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to be given a higher position at work",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c05_u012",
-      "answer": "getting promoted",
-      "options": [
-        "getting promoted",
-        "getting provoked",
-        "getting prepared",
-        "getting protected"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "pretty much",
-  "type": "colloquial",
-  "level": "elementary",
-  "pos": "adverb",
-  "meaning": "almost completely; more or less",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c10_u018",
-      "answer": "pretty much",
-      "options": [
-        "pretty much",
-        "fairly well",
-        "quite often",
-        "rather soon"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "nuts",
-  "type": "word",
-  "level": "middle",
-  "pos": "adjective",
-  "meaning": "crazy",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c10_u021",
-      "answer": "nuts",
-      "options": [
-        "nuts",
-        "beans",
-        "eggs",
-        "rocks"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "painkillers",
-  "type": "word",
-  "level": "middle",
-  "pos": "noun",
-  "meaning": "medicine that reduces pain",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c13_u002",
-      "answer": "painkillers",
-      "options": [
-        "painkillers",
-        "peacekeepers",
-        "pacemakers",
-        "pathfinders"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "complicated",
-  "type": "word",
-  "level": "middle",
-  "pos": "adjective",
-  "meaning": "involving many parts or feelings and difficult to explain",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c13_u004",
-      "answer": "complicated",
-      "options": [
-        "complicated",
-        "concentrated",
-        "complimented",
-        "contaminated"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "nod off",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to fall asleep without meaning to, usually while sitting",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u005",
-      "answer": "nodded off",
-      "options": [
-        "nodded off",
-        "called off",
-        "showed off",
-        "took off"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "insecure",
-  "type": "word",
-  "level": "high",
-  "pos": "adjective",
-  "meaning": "not confident about yourself and worried about what others think",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u009",
-      "answer": "insecure",
-      "options": [
-        "insecure",
-        "insincere",
-        "insistent",
-        "inseparable"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "pass on",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to politely decline an offer or a chance to do something",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u027",
-      "answer": "pass on",
-      "options": [
-        "pass on",
-        "take on",
-        "hold on",
-        "run on"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "take one's mind off",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to make someone stop thinking about something upsetting",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u033",
-      "answer": "take my mind off",
-      "cueUid": "s01_e04_c02_u029",
-      "options": [
-        "take my mind off",
-        "put my heart in",
-        "get my hands on",
-        "keep my eyes on"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "dump",
-  "type": "colloquial",
-  "level": "middle",
-  "pos": "verb",
-  "meaning": "to end a romantic relationship with someone suddenly",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c04_u002",
-      "answer": "dumping",
-      "options": [
-        "dumping",
-        "pumping",
-        "jumping",
-        "bumping"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "now that you mention it",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "said when someone's remark makes you notice or remember something",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c06_u003",
-      "answer": "now you mention it",
-      "options": [
-        "now you mention it",
-        "once you forget it",
-        "since you take it",
-        "when you leave it"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "bring down",
-  "type": "phrase",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to make someone feel sad or less cheerful",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c10_u001",
-      "answer": "bring you down",
-      "options": [
-        "bring you down",
-        "bring you up",
-        "bring you in",
-        "bring you over"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "the glass is half empty",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "expression",
-  "meaning": "describes someone who always sees the negative side of a situation",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u021",
-      "answer": "half empty",
-      "options": [
-        "half empty",
-        "half gone",
-        "half done",
-        "half baked"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "dirt",
-  "type": "word",
-  "level": "college",
-  "pos": "noun",
-  "meaning": "gossip or private information about people",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c04_u001",
-      "answer": "dirt",
-      "options": [
-        "dirt",
-        "dust",
-        "mud",
-        "sand"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "in reference to",
-  "type": "phrase",
-  "level": "college",
-  "pos": "expression",
-  "meaning": "concerning or about a particular matter",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c05_u009",
-      "answer": "in reference to",
-      "options": [
-        "in reference to",
-        "in exchange for",
-        "in addition to",
-        "in charge of"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "draw out",
-  "type": "phrase",
-  "level": "college",
-  "pos": "verb",
-  "meaning": "to encourage a shy person to talk and open up",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c12_u009",
-      "answer": "draw him out",
-      "cueUid": "s01_e04_c12_u007",
-      "responseUid": null,
-      "options": [
-        "draw him out",
-        "draw him up",
-        "draw him off",
-        "draw him over"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "all things considered",
-  "type": "phrase",
-  "level": "high",
-  "pos": "expression",
-  "meaning": "when you think about everything that happened; overall",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c15_u008",
-      "answer": "All things considered",
-      "options": [
-        "All things considered",
-        "All cards counted",
-        "All boxes checked",
-        "All doors closed"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "omnipotent",
-  "type": "word",
-  "level": "expert",
-  "pos": "adjective",
-  "meaning": "having unlimited power; able to do anything",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c01_u002",
-      "answer": "omnipotent",
-      "options": [
-        "omnipotent",
-        "impotent",
-        "incompetent",
-        "indifferent"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "consummate",
-  "type": "word",
-  "level": "expert",
-  "pos": "verb",
-  "meaning": "to make a relationship complete by having sex for the first time",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c02_u027",
-      "answer": "consummated",
-      "options": [
-        "consummated",
-        "complimented",
-        "contemplated",
-        "concentrated"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "finders keepers",
-  "type": "colloquial",
-  "level": "college",
-  "pos": "expression",
-  "meaning": "a childish saying that whoever finds something has the right to keep it",
-  "exchanges": [
-    {
-      "uid": "s01_e04_c15_u012",
-      "answer": "Finders keepers",
-      "options": [
-        "Finders keepers",
-        "Seekers takers",
-        "Holders owners",
-        "Getters winners"
-      ]
-    }
-  ]
-}
+  {
+    "expression": "check it out",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "said to make someone look at something interesting you are showing them",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u015",
+        "answer": "check it out",
+        "options": [
+          "check it out",
+          "take it off",
+          "put it on",
+          "give it up"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "by the way",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "adverb",
+    "meaning": "used to add a new topic or something you just remembered",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u045",
+        "answer": "by the way",
+        "cueUid": "s01_e04_c02_u043",
+        "responseUid": null,
+        "options": [
+          "by the way",
+          "on the way",
+          "in the way",
+          "all the way"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "stay over",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to spend the night at someone else's home",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c05_u005",
+        "answer": "staying over",
+        "cueUid": "s01_e04_c05_u003",
+        "options": [
+          "staying over",
+          "staying up",
+          "staying out",
+          "staying in"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "give up",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to stop having something, often as a sacrifice",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c07_u002",
+        "answer": "gave up",
+        "options": [
+          "gave up",
+          "gave in",
+          "took up",
+          "put up"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "live on",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to have enough money from something to pay for your basic needs",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u043",
+        "answer": "live on",
+        "responseUid": "s01_e04_c02_u045",
+        "options": [
+          "live on",
+          "live up",
+          "live out",
+          "live down"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "get promoted",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to be given a higher position at work",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c05_u012",
+        "answer": "getting promoted",
+        "options": [
+          "getting promoted",
+          "getting provoked",
+          "getting prepared",
+          "getting protected"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "pretty much",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "adverb",
+    "meaning": "almost completely; more or less",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c10_u018",
+        "answer": "pretty much",
+        "options": [
+          "pretty much",
+          "fairly well",
+          "quite often",
+          "rather soon"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "nuts",
+    "type": "word",
+    "level": "middle",
+    "pos": "adjective",
+    "meaning": "crazy",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c10_u021",
+        "answer": "nuts",
+        "options": [
+          "nuts",
+          "beans",
+          "eggs",
+          "rocks"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "painkillers",
+    "type": "word",
+    "level": "middle",
+    "pos": "noun",
+    "meaning": "medicine that reduces pain",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c13_u002",
+        "answer": "painkillers",
+        "options": [
+          "painkillers",
+          "peacekeepers",
+          "pacemakers",
+          "pathfinders"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "complicated",
+    "type": "word",
+    "level": "middle",
+    "pos": "adjective",
+    "meaning": "involving many parts or feelings and difficult to explain",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c13_u004",
+        "answer": "complicated",
+        "options": [
+          "complicated",
+          "concentrated",
+          "complimented",
+          "contaminated"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "nod off",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to fall asleep without meaning to, usually while sitting",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u005",
+        "answer": "nodded off",
+        "options": [
+          "nodded off",
+          "called off",
+          "showed off",
+          "took off"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "insecure",
+    "type": "word",
+    "level": "high",
+    "pos": "adjective",
+    "meaning": "not confident about yourself and worried about what others think",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u009",
+        "answer": "insecure",
+        "options": [
+          "insecure",
+          "insincere",
+          "insistent",
+          "inseparable"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "pass on",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to politely decline an offer or a chance to do something",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u027",
+        "answer": "pass on",
+        "options": [
+          "pass on",
+          "take on",
+          "hold on",
+          "run on"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "take one's mind off",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to make someone stop thinking about something upsetting",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u033",
+        "answer": "take my mind off",
+        "cueUid": "s01_e04_c02_u029",
+        "options": [
+          "take my mind off",
+          "put my heart in",
+          "get my hands on",
+          "keep my eyes on"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "dump",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "verb",
+    "meaning": "to end a romantic relationship with someone suddenly",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c04_u002",
+        "answer": "dumping",
+        "options": [
+          "dumping",
+          "pumping",
+          "jumping",
+          "bumping"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "now that you mention it",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "said when someone's remark makes you notice or remember something",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c06_u003",
+        "answer": "now you mention it",
+        "options": [
+          "now you mention it",
+          "once you forget it",
+          "since you take it",
+          "when you leave it"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "bring down",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to make someone feel sad or less cheerful",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c10_u001",
+        "answer": "bring you down",
+        "options": [
+          "bring you down",
+          "bring you up",
+          "bring you in",
+          "bring you over"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "the glass is half empty",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "expression",
+    "meaning": "describes someone who always sees the negative side of a situation",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u021",
+        "answer": "half empty",
+        "options": [
+          "half empty",
+          "half gone",
+          "half done",
+          "half baked"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "dirt",
+    "type": "word",
+    "level": "college",
+    "pos": "noun",
+    "meaning": "gossip or private information about people",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c04_u001",
+        "answer": "dirt",
+        "options": [
+          "dirt",
+          "dust",
+          "mud",
+          "sand"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "in reference to",
+    "type": "phrase",
+    "level": "college",
+    "pos": "expression",
+    "meaning": "concerning or about a particular matter",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c05_u009",
+        "answer": "in reference to",
+        "options": [
+          "in reference to",
+          "in exchange for",
+          "in addition to",
+          "in charge of"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "draw out",
+    "type": "phrase",
+    "level": "college",
+    "pos": "verb",
+    "meaning": "to encourage a shy person to talk and open up",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c12_u009",
+        "answer": "draw him out",
+        "cueUid": "s01_e04_c12_u007",
+        "responseUid": null,
+        "options": [
+          "draw him out",
+          "draw him up",
+          "draw him off",
+          "draw him over"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "all things considered",
+    "type": "phrase",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "when you think about everything that happened; overall",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c15_u008",
+        "answer": "All things considered",
+        "options": [
+          "All things considered",
+          "All cards counted",
+          "All boxes checked",
+          "All doors closed"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "omnipotent",
+    "type": "word",
+    "level": "expert",
+    "pos": "adjective",
+    "meaning": "having unlimited power; able to do anything",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c01_u002",
+        "answer": "omnipotent",
+        "options": [
+          "omnipotent",
+          "impotent",
+          "incompetent",
+          "indifferent"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "consummate",
+    "type": "word",
+    "level": "expert",
+    "pos": "verb",
+    "meaning": "to make a relationship complete by having sex for the first time",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u027",
+        "answer": "consummated",
+        "options": [
+          "consummated",
+          "complimented",
+          "contemplated",
+          "concentrated"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "finders keepers",
+    "type": "colloquial",
+    "level": "college",
+    "pos": "expression",
+    "meaning": "a childish saying that whoever finds something has the right to keep it",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c15_u012",
+        "answer": "Finders keepers",
+        "options": [
+          "Finders keepers",
+          "Seekers takers",
+          "Holders owners",
+          "Getters winners"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "what's going on",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "used to ask what is happening, or what is new or wrong in someone's life",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u006",
+        "answer": "What's going on",
+        "options": [
+          "What's going on",
+          "Who's going out",
+          "What's left over",
+          "Who's taking over"
+        ]
+      },
+      {
+        "uid": "s01_e04_c02_u057",
+        "answer": "what's going on",
+        "options": [
+          "what's going on",
+          "who's going out",
+          "what's left over",
+          "who's taking over"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "have no idea",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "to not know something at all",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u031",
+        "answer": "no idea",
+        "options": [
+          "no idea",
+          "no choice",
+          "no time",
+          "no money"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "I swear",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "used to stress that you really mean what you are saying",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u051",
+        "answer": "I swear",
+        "options": [
+          "I swear",
+          "I wonder",
+          "I forgot",
+          "I fear"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "while we're on the subject",
+    "type": "phrase",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "used to introduce something connected to what is already being talked about",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c02_u059",
+        "answer": "on the subject",
+        "options": [
+          "on the subject",
+          "on the phone",
+          "on the way",
+          "on the house"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "come together",
+    "type": "phrase",
+    "level": "high",
+    "pos": "verb",
+    "meaning": "to develop into a satisfying, well-organized whole",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c07_u013",
+        "answer": "come together",
+        "options": [
+          "come together",
+          "break even",
+          "show off",
+          "run late"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "wait your turn",
+    "type": "phrase",
+    "level": "elementary",
+    "pos": "verb",
+    "meaning": "to wait until the people ahead of you have been dealt with",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c09_u006",
+        "answer": "wait your turn",
+        "options": [
+          "wait your turn",
+          "mind your step",
+          "do your best",
+          "pay your bill"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "any minute now",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "adverb",
+    "meaning": "very soon, at any moment",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c09_u008",
+        "answer": "Any minute now",
+        "options": [
+          "Any minute now",
+          "Once upon a time",
+          "Every other day",
+          "Long time no see"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "sounds about right",
+    "type": "colloquial",
+    "level": "high",
+    "pos": "expression",
+    "meaning": "said when something is what you expected or seems correct",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c10_u015",
+        "answer": "sounds about right",
+        "options": [
+          "sounds about right",
+          "looks a bit off",
+          "feels too late",
+          "seems so wrong"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "please tell me",
+    "type": "colloquial",
+    "level": "middle",
+    "pos": "expression",
+    "meaning": "used to say that you very much hope something is true",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c10_u030",
+        "answer": "Please tell me",
+        "options": [
+          "Please tell me",
+          "I told you",
+          "Who told you",
+          "You tell me"
+        ]
+      }
+    ]
+  },
+  {
+    "expression": "so what",
+    "type": "colloquial",
+    "level": "elementary",
+    "pos": "expression",
+    "meaning": "used to say that something does not matter or is not important",
+    "exchanges": [
+      {
+        "uid": "s01_e04_c13_u003",
+        "answer": "so what",
+        "options": [
+          "so what",
+          "so far",
+          "so long",
+          "so much"
+        ]
+      }
+    ]
+  }
 ]

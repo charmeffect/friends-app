@@ -509,5 +509,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "now and then",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "occasionally; sometimes but not often",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c02_u029",
+      "answer": "now and then",
+      "options": [
+        "now and then",
+        "here and there",
+        "back and forth",
+        "up and down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "special someone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a person you love or have a serious romantic relationship with",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c02_u010",
+      "answer": "special someone",
+      "options": [
+        "special someone",
+        "lucky charm",
+        "old roommate",
+        "new boss"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how are you holding up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "asked to find out how someone is coping with a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c02_u068",
+      "answer": "holding up",
+      "options": [
+        "holding up",
+        "showing up",
+        "making up",
+        "giving up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not following you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "I do not understand what you mean",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c02_u076",
+      "answer": "Not following you",
+      "options": [
+        "Not following you",
+        "Not blaming you",
+        "Not paying you",
+        "Not dating you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cost a fortune",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be extremely expensive",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c02_u097",
+      "answer": "cost him a fortune",
+      "options": [
+        "cost him a fortune",
+        "saved him a fortune",
+        "made him a fortune",
+        "won him a fortune"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "behind someone's back",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "secretly, without the person concerned knowing about it",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c08_u016",
+      "answer": "Behind my brother's back",
+      "options": [
+        "Behind my brother's back",
+        "On my brother's birthday",
+        "At my brother's wedding",
+        "In my brother's car"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "so what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something does not matter or is not important",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c10_u008",
+      "answer": "So what",
+      "options": [
+        "So what",
+        "So long",
+        "So far",
+        "So sorry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you see in",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when you cannot understand why someone likes or is attracted to a person",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c10_u009",
+      "answer": "see in",
+      "options": [
+        "see in",
+        "owe to",
+        "sell to",
+        "lend to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "attracted to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "finding someone romantically or sexually appealing",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c10_u020",
+      "answer": "attracted to",
+      "options": [
+        "attracted to",
+        "allergic to",
+        "related to",
+        "married to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turn back time",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to go back to an earlier time and undo what has happened",
+  "exchanges": [
+    {
+      "uid": "s01_e24_c02_u107",
+      "answer": "turn back time",
+      "options": [
+        "turn back time",
+        "tell the time",
+        "pass the time",
+        "keep the time"
+      ],
+      "responseUid": null
+    }
+  ]
 }
 ]

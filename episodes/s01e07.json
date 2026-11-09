@@ -519,5 +519,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "friend zone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a situation in which someone you like romantically sees you only as a friend",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c08_u045",
+      "answer": "friend zone",
+      "options": [
+        "friend zone",
+        "war zone",
+        "time zone",
+        "end zone"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you'd better",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to advise or warn someone that they should do something",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c10_u023",
+      "answer": "You'd better",
+      "options": [
+        "You'd better",
+        "You'd rather",
+        "You used to",
+        "You ought"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't look at me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are not responsible for something or do not know about it",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c10_u029",
+      "answer": "don't look at me",
+      "options": [
+        "don't look at me",
+        "don't wait for me",
+        "don't lie to me",
+        "don't count on me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dead man",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "someone who is going to be in very serious trouble, used as a joking threat",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c10_u006",
+      "answer": "dead man",
+      "options": [
+        "dead man",
+        "free man",
+        "lucky man",
+        "wise man"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "scared to death",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely frightened or worried",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c12_u004",
+      "answer": "scared to death",
+      "options": [
+        "scared to death",
+        "bored to tears",
+        "fed up",
+        "over the moon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nice going",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when someone has done something well, or sarcastically when they have made a mistake",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c17_u003",
+      "answer": "Nice going",
+      "options": [
+        "Nice going",
+        "Way off",
+        "Good night",
+        "Hold still"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good save",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when someone quickly recovers from a mistake or an awkward moment",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c17_u004",
+      "answer": "Good save",
+      "options": [
+        "Good save",
+        "Good luck",
+        "Nice try",
+        "Bad call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "last to know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "the last person to find out something that everyone else already knows",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c16_u020",
+      "answer": "Last to know",
+      "options": [
+        "Last to know",
+        "First to leave",
+        "Hard to say",
+        "Nice to meet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mental note",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "something you tell yourself to remember, without writing it down",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c09_u004",
+      "answer": "Mental note",
+      "options": [
+        "Mental note",
+        "Side effect",
+        "Final answer",
+        "Last call"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go up to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to walk towards someone in order to speak to them",
+  "exchanges": [
+    {
+      "uid": "s01_e07_c08_u051",
+      "answer": "go up to",
+      "options": [
+        "go up to",
+        "look up to",
+        "make up to",
+        "give up on"
+      ]
+    }
+  ]
 }
 ]

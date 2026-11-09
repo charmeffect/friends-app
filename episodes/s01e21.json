@@ -519,5 +519,208 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "throw caution to the wind",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to stop worrying about risks and act boldly",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c01_u005",
+      "answer": "caution",
+      "options": [
+        "caution",
+        "courage",
+        "fortune",
+        "patience"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let's just say",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to hint at something without saying it directly",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c01_u017",
+      "answer": "Let's just say",
+      "options": [
+        "Let's just say",
+        "Let's just go",
+        "Let's just eat",
+        "Let's just wait"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "you're kidding",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show surprise and disbelief at what someone just told you",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c05_u036",
+      "answer": "You're kidding",
+      "options": [
+        "You're kidding",
+        "You're welcome",
+        "You're fired",
+        "You're late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to get attention before saying something you have just decided or realized",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c07_u017",
+      "answer": "Y'know what",
+      "options": [
+        "Y'know what",
+        "I bet",
+        "Excuse me",
+        "Thank you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to explain or correct what you have just said",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c12_u016",
+      "answer": "I mean",
+      "options": [
+        "I mean",
+        "I bet",
+        "I wish",
+        "I hope"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at least",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "used to point out the minimum you are asking for or the one good thing in a situation",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c13_u004",
+      "answer": "at least",
+      "options": [
+        "at least",
+        "at last",
+        "at most",
+        "at once"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "this is it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when an important or final moment has arrived",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c14_u013",
+      "answer": "this is it",
+      "options": [
+        "this is it",
+        "this is wrong",
+        "this is mine",
+        "this is easy"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "get a hold of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to manage to obtain something, often something you should not have",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c01_u001",
+      "answer": "get a hold of",
+      "options": [
+        "get a hold of",
+        "get the hang of",
+        "get a load of",
+        "get out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if it wasn't for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that something would not have happened without a particular person or thing",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c12_u009",
+      "answer": "if it wasn't for",
+      "options": [
+        "if it wasn't for",
+        "if it was only",
+        "if it was just",
+        "if it was never"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "vicious",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "violent and dangerous, likely to attack",
+  "exchanges": [
+    {
+      "uid": "s01_e21_c07_u005",
+      "answer": "vicious",
+      "options": [
+        "vicious",
+        "precious",
+        "delicious",
+        "ambitious"
+      ]
+    }
+  ]
 }
 ]

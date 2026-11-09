@@ -525,5 +525,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "play games",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to hide your real feelings or intentions in a relationship, for example to seem less interested than you are",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c02_u001",
+      "answer": "play any games",
+      "options": [
+        "play any games",
+        "pay any bills",
+        "wash any dishes",
+        "fix any cars"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let someone know",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to tell someone something",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c02_u003",
+      "answer": "Let her know",
+      "options": [
+        "Let her know",
+        "Let her go",
+        "Let her down",
+        "Let her in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "duh",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show that something is so obvious it did not need saying",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c02_u030",
+      "answer": "Duh",
+      "options": [
+        "Duh",
+        "Yay",
+        "Oops",
+        "Phew"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put an end to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make something stop happening",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c02_u037",
+      "answer": "put an end to",
+      "options": [
+        "put an end to",
+        "take a liking to",
+        "make a point of",
+        "get the hang of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "snubbed",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "rejected or ignored in a way that feels insulting",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c06_u014",
+      "answer": "snubbed",
+      "options": [
+        "snubbed",
+        "sunburned",
+        "promoted",
+        "married"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what were you thinking",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to criticize someone for a foolish decision",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c06_u026",
+      "answer": "what were you thinking",
+      "options": [
+        "what were you thinking",
+        "what were you wearing",
+        "what were you eating",
+        "what were you reading"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "jam-packed",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "completely full, with no free space or time",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c06_u034",
+      "answer": "jam packed",
+      "options": [
+        "jam packed",
+        "half empty",
+        "wide open",
+        "brand new"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the other woman",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a woman who is having a secret relationship with a man who is married or already has a partner",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c07_u013",
+      "answer": "the other woman",
+      "options": [
+        "the other woman",
+        "the best man",
+        "the only child",
+        "the last straw"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "point out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to draw someone's attention to a fact or detail",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c09_u008",
+      "answer": "pointing out",
+      "options": [
+        "pointing out",
+        "making up",
+        "giving away",
+        "turning down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds good",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree to a suggestion or plan",
+  "exchanges": [
+    {
+      "uid": "s01_e20_c12_u011",
+      "answer": "sounds good",
+      "options": [
+        "sounds good",
+        "sounds wrong",
+        "smells good",
+        "tastes good"
+      ]
+    }
+  ]
 }
 ]

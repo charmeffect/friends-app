@@ -546,5 +546,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "be used to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be accustomed to doing something because you have done it often",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c05_u017",
+      "answer": "used to",
+      "options": [
+        "used to",
+        "open to",
+        "close to",
+        "next to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get at",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try to say or suggest something indirectly",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c12_u025",
+      "answer": "getting at",
+      "options": [
+        "getting at",
+        "getting on",
+        "getting over",
+        "getting by"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "this is it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when an important or final moment has arrived",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c03_u015",
+      "answer": "this is it",
+      "options": [
+        "this is it",
+        "this is odd",
+        "this is fun",
+        "this is new"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bring back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone or something that is gone return",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c04_u010",
+      "answer": "bring him back",
+      "options": [
+        "bring him back",
+        "bring him up",
+        "bring him down",
+        "bring him over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "rock",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be excellent or very impressive",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c09_u008",
+      "answer": "rock",
+      "options": [
+        "rock",
+        "quit",
+        "lose",
+        "fail"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to get someone's attention before telling them something surprising",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c14_u002",
+      "answer": "get this",
+      "options": [
+        "get this",
+        "see this",
+        "stop this",
+        "take this"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know why",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask a question that you are about to answer yourself, to draw attention to the reason",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c09_u009",
+      "answer": "you know why",
+      "options": [
+        "you know why",
+        "you know who",
+        "you know where",
+        "you know when"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I can see that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "I understand why you think so",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c01_u006",
+      "answer": "I can see that",
+      "options": [
+        "I can see that",
+        "I can't stand that",
+        "I can do that",
+        "I can fix that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "exact opposite",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "someone or something that is completely different from another in every way",
+  "exchanges": [
+    {
+      "uid": "s02_e12_c05_u008",
+      "answer": "exact opposite",
+      "options": [
+        "exact opposite",
+        "whole truth",
+        "last minute",
+        "only way"
+      ]
+    }
+  ]
 }
 ]

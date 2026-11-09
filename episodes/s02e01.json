@@ -528,5 +528,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'm telling you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to insist that what you are saying is true",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c03_u003",
+      "answer": "I'm telling you",
+      "options": [
+        "I'm telling you",
+        "I'm asking you",
+        "I'm warning you",
+        "I'm begging you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the point is",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the most important part of what you are trying to say",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c10_u019",
+      "answer": "The point is",
+      "options": [
+        "The point is",
+        "The catch is",
+        "The rumor is",
+        "The worry is"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "way too",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "much too; far more than is suitable or needed",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c11_u018",
+      "answer": "way too",
+      "options": [
+        "way too",
+        "not too",
+        "way less",
+        "no more"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm not gonna lie",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something honest that the listener may not want to hear",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c10_u005",
+      "answer": "I'm not gonna lie",
+      "options": [
+        "I'm not gonna lie",
+        "I'm not gonna ask",
+        "I'm not gonna wait",
+        "I'm not gonna stop"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be on your way",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to leave and continue to wherever you are going",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c07_u002",
+      "answer": "be on your way",
+      "options": [
+        "be on your way",
+        "be on your guard",
+        "be on your toes",
+        "be on your feet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to protest that something is unreasonable or to urge someone not to expect too much",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c10_u016",
+      "answer": "Come on",
+      "options": [
+        "Come on",
+        "Come in",
+        "Come back",
+        "Come here"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sort of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some degree; used to make a statement less definite",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c06_u008",
+      "answer": "sorta",
+      "options": [
+        "sorta",
+        "hardly",
+        "rarely",
+        "seldom"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kind of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some degree; used to make a statement softer or less definite",
+  "exchanges": [
+    {
+      "uid": "s02_e01_c11_u009",
+      "answer": "kinda",
+      "options": [
+        "kinda",
+        "hardly",
+        "barely",
+        "rarely"
+      ]
+    }
+  ]
 }
 ]

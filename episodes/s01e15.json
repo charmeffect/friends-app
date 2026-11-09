@@ -506,5 +506,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that's the thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to point out the main problem or the most important fact in a situation",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c03_u022",
+      "answer": "That's the thing",
+      "options": [
+        "That's the thing",
+        "That's the spirit",
+        "That's the way",
+        "That's the ticket"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see yourself",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be able to imagine yourself in a particular role or situation",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c03_u032",
+      "answer": "see myself",
+      "options": [
+        "see myself",
+        "help myself",
+        "hurt myself",
+        "enjoy myself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how about",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to make a suggestion",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c04_u023",
+      "answer": "How about",
+      "options": [
+        "How about",
+        "How come",
+        "Who wants",
+        "Where's"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take by surprise",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to happen unexpectedly so that someone is not prepared for it",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c08_u002",
+      "answer": "took me by surprise",
+      "options": [
+        "took me by surprise",
+        "took me by force",
+        "took me for granted",
+        "took me to dinner"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that'll be all",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said by someone in charge to tell a person they can leave because nothing more is needed",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c09_u011",
+      "answer": "that'll be all",
+      "options": [
+        "that'll be all",
+        "that'll be fun",
+        "that'll be hard",
+        "that'll be late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I wish I could",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way of turning down an invitation by suggesting you are unable to accept",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c10_u008",
+      "answer": "I wish I could",
+      "options": [
+        "I wish I could",
+        "I bet I could",
+        "I swear I could",
+        "I knew I could"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spoil your appetite",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to eat something before a meal so that you are no longer hungry for it",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c11_u028",
+      "answer": "spoil your appetite",
+      "options": [
+        "spoil your appetite",
+        "lose your balance",
+        "hurt your feelings",
+        "waste your breath"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's just that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the real reason or problem behind what you are saying",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c11_u044",
+      "answer": "It's just that",
+      "options": [
+        "It's just that",
+        "It's not that",
+        "It's only fair",
+        "It's so funny"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you'll get there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to encourage someone that they will reach their goal in the end",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c12_u005",
+      "answer": "you'll get there",
+      "options": [
+        "you'll get there",
+        "you'll get lost",
+        "you'll get caught",
+        "you'll get fired"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how did it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone whether an event or experience was successful",
+  "exchanges": [
+    {
+      "uid": "s01_e15_c12_u008",
+      "answer": "how did it go",
+      "options": [
+        "how did it go",
+        "what did it cost",
+        "when did it start",
+        "where did it happen"
+      ]
+    }
+  ]
 }
 ]

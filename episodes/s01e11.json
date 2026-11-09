@@ -524,5 +524,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "don't look now",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to warn someone that a person you are talking about is nearby, so they should not turn and stare",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c01_u004",
+      "answer": "Don't look now",
+      "options": [
+        "Don't look now",
+        "Don't stop now",
+        "Don't eat now",
+        "Don't sit now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come out of your shell",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become less shy and more willing to talk to and be with people",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c05_u004",
+      "answer": "out of your shell",
+      "options": [
+        "out of your shell",
+        "out of your league",
+        "out of your mind",
+        "out of your way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm in",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that you will take part in something",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c05_u010",
+      "answer": "I'm in",
+      "options": [
+        "I'm in",
+        "I'm on",
+        "I'm up",
+        "I'm at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "too much information",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when someone tells you personal details you did not want to hear",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c03_u032",
+      "answer": "too much information",
+      "options": [
+        "too much information",
+        "too much pressure",
+        "too much trouble",
+        "too much attention"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "famished",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "extremely hungry",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c05_u001",
+      "answer": "famished",
+      "options": [
+        "famished",
+        "furnished",
+        "finished",
+        "famous"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're good",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to admit that someone has guessed or understood something correctly",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c05_u032",
+      "answer": "You're good",
+      "options": [
+        "You're good",
+        "You're late",
+        "You're early",
+        "You're tall"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in one's day",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "when someone was young or at the most successful time of their life",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c06_u022",
+      "answer": "in her day",
+      "options": [
+        "in her day",
+        "in her sleep",
+        "in her room",
+        "in her car"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big help",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically to mean that someone did not help at all",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c08_u011",
+      "answer": "big help",
+      "options": [
+        "big help",
+        "big deal",
+        "big mistake",
+        "big news"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "trick question",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a question that seems simple but is meant to catch you out",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c09_u014",
+      "answer": "trick question",
+      "options": [
+        "trick question",
+        "math question",
+        "job question",
+        "yes question"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "woozy",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "feeling weak, dizzy, and slightly confused",
+  "exchanges": [
+    {
+      "uid": "s01_e11_c10_u005",
+      "answer": "woozy",
+      "options": [
+        "woozy",
+        "greedy",
+        "fussy",
+        "nosy"
+      ]
+    }
+  ]
 }
 ]

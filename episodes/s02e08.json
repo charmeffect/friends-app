@@ -506,5 +506,146 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "and stuff",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "and other similar things",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c03_u004",
+      "answer": "and stuff",
+      "options": [
+        "and stuff",
+        "and then",
+        "and so",
+        "and yet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here's a thought",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce a suggestion or idea",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c06_u004",
+      "answer": "here's a thought",
+      "options": [
+        "here's a thought",
+        "here's your change",
+        "here's my number",
+        "here's the bill"
+      ],
+      "responseUid": "s02_e08_c06_u006"
+    }
+  ]
+},
+
+{
+  "expression": "what were you thinking",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to criticize someone for a foolish decision",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c09_u010",
+      "answer": "What were you thinking",
+      "options": [
+        "What were you thinking",
+        "What were you wearing",
+        "What were you eating",
+        "What were you reading"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's what I said",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to firmly repeat or confirm what you have already said",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c10_u017",
+      "answer": "That's what I said",
+      "options": [
+        "That's what I said",
+        "That's what I ate",
+        "That's what I wore",
+        "That's what I paid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you could say that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to agree, often humorously, that something is true or even an understatement",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c06_u012",
+      "answer": "You could say that",
+      "options": [
+        "You could say that",
+        "You could fix that",
+        "You could try that",
+        "You could wash that"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as opposed to",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "rather than; used to contrast one thing with another",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c08_u047",
+      "answer": "as opposed to",
+      "options": [
+        "as opposed to",
+        "as soon as",
+        "as long as",
+        "as far as"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "spoiled",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "selfish and badly behaved because you have always been given what you want",
+  "exchanges": [
+    {
+      "uid": "s02_e08_c06_u011",
+      "answer": "spoiled",
+      "options": [
+        "spoiled",
+        "patient",
+        "modest",
+        "generous"
+      ]
+    }
+  ]
 }
 ]
