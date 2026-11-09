@@ -537,5 +537,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "did I miss anything",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when you arrive late to find out what has already happened",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c01_u004",
+      "answer": "did I miss anything",
+      "options": [
+        "did I miss anything",
+        "did I say anything",
+        "did I break anything",
+        "did I win anything"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "before you know it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "very soon, sooner than you expect",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c02_u005",
+      "answer": "before you know it",
+      "options": [
+        "before you know it",
+        "as you like it",
+        "when you see it",
+        "once you try it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "can't take it anymore",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be unable to bear an unpleasant situation any longer",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c06_u005",
+      "answer": "can't take this anymore",
+      "options": [
+        "can't take this anymore",
+        "can't find this anymore",
+        "can't sell this anymore",
+        "can't eat this anymore"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "write down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to put something on paper so you remember it",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c08_u007",
+      "answer": "writing these down",
+      "options": [
+        "writing these down",
+        "turning these down",
+        "cutting these down",
+        "settling these down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fit in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be accepted by a group because you are like its other members",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c09_u007",
+      "answer": "fit in",
+      "options": [
+        "fit in",
+        "give in",
+        "drop in",
+        "check in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "gain someone's trust",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone believe that you are honest and on their side",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c09_u005",
+      "answer": "gain their trust",
+      "options": [
+        "gain their trust",
+        "break their hearts",
+        "pay their rent",
+        "lose their keys"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "talk back",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to answer someone in authority rudely instead of obeying",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c15_u002",
+      "answer": "talked back",
+      "options": [
+        "talked back",
+        "held back",
+        "paid back",
+        "stepped back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "taste in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the ability to judge what is good or attractive in a particular area, such as people or clothes",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c07_u002",
+      "answer": "taste in",
+      "options": [
+        "taste in",
+        "fear of",
+        "need for",
+        "use of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "like father, like son",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that a son has the same character or habits as his father",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c07_u003",
+      "answer": "like father, like son",
+      "options": [
+        "like father, like son",
+        "easy come, easy go",
+        "first come, first served",
+        "no pain, no gain"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're hired",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to tell someone that they have got the job",
+  "exchanges": [
+    {
+      "uid": "s04_e10_c02_u031",
+      "answer": "you're hired",
+      "options": [
+        "you're hired",
+        "you're welcome",
+        "you're late",
+        "you're kidding"
+      ]
+    }
+  ]
 }
 ]

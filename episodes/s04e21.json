@@ -360,5 +360,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "cool off",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become calmer after being angry or upset",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c09_u011",
+      "answer": "cool off",
+      "options": [
+        "cool off",
+        "show off",
+        "log off",
+        "pay off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "over and over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "many times; repeatedly",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c09_u008",
+      "answer": "over and over",
+      "options": [
+        "over and over",
+        "now and then",
+        "here and there",
+        "up and down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "right on time",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "at exactly the time that was planned, not early or late",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c10_u010",
+      "answer": "right on time",
+      "options": [
+        "right on time",
+        "right up front",
+        "right out loud",
+        "right off base"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "worth the wait",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "good enough to justify the long time spent waiting",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c23_u003",
+      "answer": "worth the wait",
+      "options": [
+        "worth the wait",
+        "out of line",
+        "on the way",
+        "in the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "why not",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree to something or to say there is no reason not to do it",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c02_u007",
+      "answer": "Why not",
+      "options": [
+        "Why not",
+        "Why me",
+        "How come",
+        "What for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ready or not",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is about to happen whether or not someone is prepared for it",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c28_u028",
+      "answer": "ready or not",
+      "options": [
+        "ready or not",
+        "sooner or later",
+        "more or less",
+        "now or never"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be happy for",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to feel glad because something good has happened to someone else",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c09_u003",
+      "answer": "happy for ya",
+      "options": [
+        "happy for ya",
+        "mad at ya",
+        "sick of ya",
+        "jealous of ya"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that ship has sailed",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "the chance for something has passed and it is now too late",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c08_u007",
+      "answer": "ship has sailed",
+      "options": [
+        "ship has sailed",
+        "coast is clear",
+        "ice is broken",
+        "cat is out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "one of these days",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "at some time in the future that is not yet decided",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c01_u027",
+      "answer": "One of these days",
+      "options": [
+        "One of these days",
+        "All of a sudden",
+        "Most of the time",
+        "None of your business"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go into labor",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to begin the process of giving birth",
+  "exchanges": [
+    {
+      "uid": "s04_e21_c28_u037",
+      "answer": "goes into labour",
+      "options": [
+        "goes into labour",
+        "goes into hiding",
+        "goes into business",
+        "goes into debt"
+      ]
+    }
+  ]
 }
 ]

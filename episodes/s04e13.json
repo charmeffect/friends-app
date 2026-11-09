@@ -505,5 +505,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "is it just me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask whether other people notice or feel the same thing you do",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c01_u012",
+      "answer": "Is it just me",
+      "options": [
+        "Is it just me",
+        "Is it too late",
+        "Is it my turn",
+        "Is it your fault"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be screwed",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "to be in serious trouble, with no way to avoid a bad result",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c03_u009",
+      "answer": "screwed",
+      "options": [
+        "screwed",
+        "relaxed",
+        "thrilled",
+        "bored"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nothing to worry about",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "no reason to feel anxious about something",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c03_u021",
+      "answer": "nothing to worry about",
+      "options": [
+        "nothing to worry about",
+        "nothing to talk about",
+        "nothing to look at",
+        "nothing to eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm there",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say eagerly that you will definitely come or take part",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c04_u005",
+      "answer": "I'm there",
+      "options": [
+        "I'm there",
+        "I'm lost",
+        "I'm late",
+        "I'm full"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stick out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to hold something out in front of you so someone can reach it",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c04_u020",
+      "answer": "stick out",
+      "options": [
+        "stick out",
+        "stick up",
+        "stick on",
+        "stick in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "relief",
+  "type": "word",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a pleasant feeling that comes when something unpleasant is over or no longer your problem",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c04_u019",
+      "answer": "relief",
+      "options": [
+        "relief",
+        "shame",
+        "crime",
+        "secret"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of a job",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "no longer employed; having lost your job",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c02_u008",
+      "answer": "out of a job",
+      "options": [
+        "out of a job",
+        "out of a dream",
+        "out of a box",
+        "out of a book"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how you doin'",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a casual spoken way of asking 'how are you?', often used as a flirtatious greeting",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c08_u021",
+      "answer": "how you doin'",
+      "options": [
+        "how you doin'",
+        "where you goin'",
+        "who you callin'",
+        "why you cryin'"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "oh, please",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to dismiss what someone has just said as silly or not worth taking seriously",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c08_u022",
+      "answer": "Oh, please",
+      "options": [
+        "Oh, please",
+        "Oh, thanks",
+        "Oh, sorry",
+        "Oh, hello"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be cool",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "stay calm and don't make a fuss",
+  "exchanges": [
+    {
+      "uid": "s04_e13_c06_u005",
+      "answer": "be cool",
+      "options": [
+        "be cool",
+        "be loud",
+        "be rude",
+        "be mean"
+      ]
+    }
+  ]
 }
 ]

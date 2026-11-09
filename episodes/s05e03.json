@@ -514,5 +514,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what took you so long",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when someone arrives later than expected",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c01_u017",
+      "answer": "took",
+      "options": [
+        "took",
+        "gave",
+        "made",
+        "paid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "on one's way",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "travelling toward a place and expected to arrive soon",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c02_u031",
+      "answer": "on her way",
+      "options": [
+        "on her way",
+        "in her room",
+        "at her best",
+        "off her guard"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "harder than it sounds",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something that seems simple turns out to be difficult to do",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c03_u011",
+      "answer": "Harder than it sounds",
+      "options": [
+        "Harder than it sounds",
+        "Older than it looks",
+        "Bigger than it seems",
+        "Louder than it sounds"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dive right into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start doing or enjoying something immediately and eagerly",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c04_u002",
+      "answer": "dive right into",
+      "options": [
+        "dive right into",
+        "fall right off",
+        "walk right past",
+        "turn right around"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I get that a lot",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when people often make the same comment or mistake about you",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c06_u004",
+      "answer": "get that a lot",
+      "options": [
+        "get that a lot",
+        "miss that a lot",
+        "like that a lot",
+        "need that a lot"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just to clarify",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used before explaining something so that there is no misunderstanding",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c08_u006",
+      "answer": "Just to clarify",
+      "options": [
+        "Just to clarify",
+        "Just to celebrate",
+        "Just to complain",
+        "Just to compete"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you've got to be kidding me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show surprise, disbelief, or annoyance at what someone has said or done",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c09_u002",
+      "answer": "gotta be kidding",
+      "options": [
+        "gotta be kidding",
+        "gotta be leaving",
+        "gotta be starving",
+        "gotta be sleeping"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cover someone's shift",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to work in place of someone during their scheduled working hours",
+  "exchanges": [
+    {
+      "uid": "s05_e03_c11_u032",
+      "answer": "cover my shift",
+      "options": [
+        "cover my shift",
+        "pay my bill",
+        "walk my dog",
+        "fix my car"
+      ]
+    }
+  ]
 }
 ]

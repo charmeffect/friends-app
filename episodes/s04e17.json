@@ -515,5 +515,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that's the thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to point out the main problem or the most important fact in a situation",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c03_u010",
+      "answer": "that's the thing",
+      "options": [
+        "that's the thing",
+        "that's the spirit",
+        "that's the ticket",
+        "that's the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "yeah right",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically to show you do not believe what someone just said",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c07_u005",
+      "answer": "Yeah right",
+      "options": [
+        "Yeah right",
+        "So long",
+        "Bless you",
+        "Watch out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "without a fight",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "without trying hard to stop something from happening or to keep what you have",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c10_u019",
+      "answer": "without a fight",
+      "options": [
+        "without a fight",
+        "without a doubt",
+        "without a clue",
+        "without a care"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make the mistake of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to do something that you later realize was a bad idea",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c01_u018",
+      "answer": "made the mistake of",
+      "options": [
+        "made the mistake of",
+        "made the most of",
+        "made fun of",
+        "made sense of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that reminds me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something makes you remember something you need to say or do",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c02_u022",
+      "answer": "that reminds me",
+      "options": [
+        "that reminds me",
+        "that worries me",
+        "that surprises me",
+        "that bores me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "leave something to the imagination",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to not show or say everything, so that people can imagine the rest",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c07_u006",
+      "answer": "to the imagination",
+      "options": [
+        "to the imagination",
+        "to the landlord",
+        "to the weather",
+        "to the dog"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "say it back",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to tell someone you love them after they have said it to you",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c10_u012",
+      "answer": "say it back",
+      "options": [
+        "say it back",
+        "pay it back",
+        "give it back",
+        "take it back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm glad you asked",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said, often jokingly, when someone's question lets you talk about something you want to talk about",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c08_u010",
+      "answer": "I'm glad you asked",
+      "options": [
+        "I'm glad you asked",
+        "I'm sad you left",
+        "I'm told you won",
+        "I'm sure you lost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "think about it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to ask someone to consider an idea carefully before rejecting it",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c11_u010",
+      "answer": "Think about it",
+      "options": [
+        "Think about it",
+        "Forget about it",
+        "Get over it",
+        "Deal with it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to mean that it is your turn, or that the flight or call just announced is yours",
+  "exchanges": [
+    {
+      "uid": "s04_e17_c06_u010",
+      "answer": "that's me",
+      "options": [
+        "that's me",
+        "that's him",
+        "that's you",
+        "that's them"
+      ]
+    }
+  ]
 }
 ]

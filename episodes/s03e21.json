@@ -503,5 +503,187 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "here it comes",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you expect something bad or predictable to happen any second",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c07_u015",
+      "answer": "here it comes",
+      "options": [
+        "here it comes",
+        "there you go",
+        "here we are",
+        "that'll do"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "see each other",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be in a dating relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c14_u018",
+      "answer": "see each other",
+      "options": [
+        "see each other",
+        "copy each other",
+        "fear each other",
+        "thank each other"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kill for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to want something so much that you would do almost anything to get it",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c04_u004",
+      "answer": "kill for",
+      "options": [
+        "kill for",
+        "vote for",
+        "care for",
+        "shop for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm kidding",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that what you just said was only a joke",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c04_u024",
+      "answer": "I'm kidding",
+      "options": [
+        "I'm kidding",
+        "I'm starving",
+        "I'm leaving",
+        "I'm freezing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a point",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to deliberately show something or prove an opinion through what you do",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c04_u020",
+      "answer": "making a point",
+      "options": [
+        "making a point",
+        "taking a nap",
+        "losing a bet",
+        "doing a favor"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come back to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return to a subject later in a conversation",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c10_u019",
+      "answer": "come back to",
+      "options": [
+        "come back to",
+        "stay away from",
+        "look up to",
+        "give in to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get tired of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to become bored or annoyed with something because it has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c06_u010",
+      "answer": "got tired of",
+      "options": [
+        "got tired of",
+        "got fond of",
+        "got afraid of",
+        "got proud of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "turn around",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to turn your body so that you face the opposite direction",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c11_u010",
+      "answer": "turn around",
+      "options": [
+        "turn around",
+        "calm down",
+        "speak up",
+        "cheer up"
+      ],
+      "responseUid": "s03_e21_c11_u012"
+    }
+  ]
+},
+
+{
+  "expression": "oh, please",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to dismiss what someone has just said as silly or not worth taking seriously",
+  "exchanges": [
+    {
+      "uid": "s03_e21_c04_u008",
+      "answer": "Oh, please",
+      "options": [
+        "Oh, please",
+        "Oh, thanks",
+        "Oh, cheers",
+        "Oh, congrats"
+      ]
+    }
+  ]
 }
 ]

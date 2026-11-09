@@ -553,5 +553,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "go wrong",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to fail or happen in a bad way that was not planned",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c16_u004",
+      "answer": "go wrong",
+      "options": [
+        "go wrong",
+        "go ahead",
+        "come true",
+        "stay put"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "gotcha",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you catch or trap someone",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c15_u027",
+      "answer": "Gotcha",
+      "options": [
+        "Gotcha",
+        "Cheers",
+        "Welcome",
+        "Goodbye"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get yourself into",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to put yourself into a difficult situation by your own choice",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c15_u009",
+      "answer": "got myself into",
+      "options": [
+        "got myself into",
+        "told myself about",
+        "kept myself from",
+        "found myself in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be done with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to have finished with something and want no more of it",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c15_u007",
+      "answer": "done with",
+      "options": [
+        "done with",
+        "fond of",
+        "bored by",
+        "known for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from the start",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "from the very beginning",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c16_u017",
+      "answer": "from the start",
+      "options": [
+        "from the start",
+        "on the spot",
+        "under the table",
+        "out of order"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "later",
+  "type": "word",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "an informal way of saying goodbye",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c03_u013",
+      "answer": "Later",
+      "options": [
+        "Later",
+        "Please",
+        "Really",
+        "Thanks"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give me a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone to wait a short time before you do something",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c09_u005",
+      "answer": "give me a minute",
+      "options": [
+        "give me a minute",
+        "give me a break",
+        "give me a call",
+        "give me a hand"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "figure",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to think or assume that something is true",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c02_u012",
+      "answer": "figured",
+      "options": [
+        "figured",
+        "wondered",
+        "forgot",
+        "denied"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run away",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to leave quickly in order to escape from a difficult situation",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c15_u013",
+      "answer": "run away",
+      "options": [
+        "run away",
+        "give in",
+        "sleep over",
+        "show up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "this sucks",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a situation is very bad or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s04_e22_c06_u002",
+      "answer": "This sucks",
+      "options": [
+        "This sucks",
+        "This rocks",
+        "This works",
+        "This helps"
+      ]
+    }
+  ]
 }
 ]

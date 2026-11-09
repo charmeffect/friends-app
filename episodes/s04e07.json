@@ -500,5 +500,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "it's bad enough",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say a situation is already unpleasant before adding something that makes it worse",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c01_u004",
+      "answer": "bad enough",
+      "options": [
+        "bad enough",
+        "good enough",
+        "close enough",
+        "fair enough"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick a lane",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "to choose one option or direction and stick to it",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c02_u017",
+      "answer": "pick a lane",
+      "options": [
+        "pick a lane",
+        "pick a lock",
+        "pick a fight",
+        "pick a card"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run late",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be behind schedule and arrive later than planned",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c04_u020",
+      "answer": "running",
+      "options": [
+        "running",
+        "paying",
+        "turning",
+        "growing"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as soon as I can",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "at the earliest moment that is possible for me",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c04_u013",
+      "answer": "as soon as",
+      "options": [
+        "as soon as",
+        "as well as",
+        "as far as",
+        "as good as"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "couldn't be better",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "is as good or as well-timed as it could possibly be",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c10_u011",
+      "answer": "couldn't be better",
+      "options": [
+        "couldn't be better",
+        "couldn't care less",
+        "can't be helped",
+        "won't be long"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fall into place",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to happen or fit together in a satisfactory way",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c07_u023",
+      "answer": "falling",
+      "options": [
+        "falling",
+        "breaking",
+        "walking",
+        "getting"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who needs",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to suggest that something is not necessary or important, often jokingly",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c07_u011",
+      "answer": "who needs",
+      "options": [
+        "who needs",
+        "who sells",
+        "who steals",
+        "who closes"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "is that a real thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when you doubt that something someone mentioned actually exists",
+  "exchanges": [
+    {
+      "uid": "s04_e07_c10_u004",
+      "answer": "a real thing",
+      "options": [
+        "a real thing",
+        "a bad idea",
+        "a good sign",
+        "a big mistake"
+      ]
+    }
+  ]
 }
 ]

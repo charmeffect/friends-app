@@ -522,5 +522,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "knock over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to hit something so that it falls down",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c01_u009",
+      "answer": "knocked over",
+      "options": [
+        "knocked over",
+        "knocked out",
+        "knocked on",
+        "knocked back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "coming right up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you will bring something someone has asked for very soon",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c02_u009",
+      "answer": "coming right up",
+      "options": [
+        "coming right up",
+        "going right down",
+        "running right out",
+        "falling right off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep someone company",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spend time with someone so that they are not alone",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c02_u013",
+      "answer": "keep her company",
+      "options": [
+        "keep her company",
+        "keep her secret",
+        "keep her waiting",
+        "keep her quiet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you betcha",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "an enthusiastic way of saying yes or certainly",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c02_u031",
+      "answer": "you betcha",
+      "options": [
+        "you betcha",
+        "you wish",
+        "you idiot",
+        "you see"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "toughie",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a difficult problem, question, or decision",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c03_u039",
+      "answer": "toughie",
+      "options": [
+        "toughie",
+        "freebie",
+        "goodie",
+        "newbie"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be happy for",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to feel glad because something good has happened to someone else",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c03_u042",
+      "answer": "be happy for",
+      "options": [
+        "be happy for",
+        "be angry at",
+        "be jealous of",
+        "be afraid of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're killing me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something someone is doing or saying is almost too much for you to bear",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c09_u034",
+      "answer": "You're killing me",
+      "options": [
+        "You're killing me",
+        "You're helping me",
+        "You're boring me",
+        "You're fooling me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at the top of your voice",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "as loudly as you possibly can",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c11_u002",
+      "answer": "top",
+      "options": [
+        "top",
+        "bottom",
+        "back",
+        "edge"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bust into",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to enter a place suddenly, without permission",
+  "exchanges": [
+    {
+      "uid": "s04_e14_c08_u016",
+      "answer": "bust into",
+      "options": [
+        "bust into",
+        "look into",
+        "talk into",
+        "turn into"
+      ]
+    }
+  ]
 }
 ]

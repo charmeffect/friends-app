@@ -484,5 +484,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "get stuck with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be left with something unwanted that you cannot get rid of",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c02_u055",
+      "answer": "get stuck with",
+      "options": [
+        "get stuck with",
+        "get away with",
+        "get along with",
+        "get back with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to return something to the place it came from, such as a shop or counter",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c02_u056",
+      "answer": "took back",
+      "options": [
+        "took back",
+        "came across",
+        "ran into",
+        "looked into"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kind of",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "to some degree; used to make a statement softer or less definite",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c02_u022",
+      "answer": "kind of",
+      "options": [
+        "kind of",
+        "instead of",
+        "because of",
+        "out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for the best",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "likely to have a good result in the end, even if it seems bad now",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c08_u126",
+      "answer": "for the best",
+      "options": [
+        "for the best",
+        "out of order",
+        "on the house",
+        "in the way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "see you around",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a casual goodbye that makes no promise to meet again",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c06_u016",
+      "answer": "See you around",
+      "options": [
+        "See you around",
+        "Hear you out",
+        "Count me in",
+        "Bear with me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to reach someone who is ahead of you",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c09_u003",
+      "answer": "catching up",
+      "options": [
+        "catching up",
+        "giving up",
+        "holding up",
+        "making up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to admit that someone has made a sensible argument",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c03_u010",
+      "answer": "good point",
+      "options": [
+        "good point",
+        "bad sign",
+        "big mistake",
+        "nice try"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "break the tension",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make an uncomfortable or strained situation feel more relaxed",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c08_u079",
+      "answer": "break the tension",
+      "options": [
+        "break the tension",
+        "break the law",
+        "break the bank",
+        "break the news"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I gotta tell you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something you feel strongly about or want to say honestly",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c07_u004",
+      "answer": "I gotta tell you",
+      "options": [
+        "I gotta tell you",
+        "I gotta ask you",
+        "I gotta warn you",
+        "I gotta leave you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "push for",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to try hard to get support or a good result for someone or something",
+  "exchanges": [
+    {
+      "uid": "s04_e08_c03_u015",
+      "answer": "pushing for",
+      "options": [
+        "pushing for",
+        "looking for",
+        "paying for",
+        "asking for"
+      ]
+    }
+  ]
 }
 ]

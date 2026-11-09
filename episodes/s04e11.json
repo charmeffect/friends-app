@@ -502,5 +502,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "not really",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say no in a softer, less definite way",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c02_u013",
+      "answer": "not really",
+      "options": [
+        "not really",
+        "not again",
+        "not yet",
+        "not now"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's your point",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked when you do not see why what someone has just said matters",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c02_u035",
+      "answer": "what's your point",
+      "options": [
+        "what's your point",
+        "what's your name",
+        "what's the time",
+        "what's the rush"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in the neighborhood",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "in the nearby area",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c10_u009",
+      "answer": "in the neighbourhood",
+      "options": [
+        "in the neighbourhood",
+        "on the clock",
+        "in the dark",
+        "off the hook"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it depends",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that the answer changes according to the situation or person",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c11_u003",
+      "answer": "It depends",
+      "options": [
+        "It depends",
+        "It happens",
+        "It works",
+        "It counts"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the next level",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a more advanced or more serious stage of something, such as a relationship",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c03_u011",
+      "answer": "the next level",
+      "options": [
+        "the next level",
+        "the last word",
+        "the bottom line",
+        "the first place"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be all right with",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be willing to accept something even though you are not enthusiastic about it",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c08_u011",
+      "answer": "all right with",
+      "options": [
+        "all right with",
+        "allergic to",
+        "scared of",
+        "proud of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no pressure",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to tell someone they should not feel forced to agree or answer",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c10_u010",
+      "answer": "no pressure",
+      "options": [
+        "no pressure",
+        "no exit",
+        "no signal",
+        "no vacancy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get pregnant",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to begin to carry a baby inside your body",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c01_u010",
+      "answer": "get pregnant",
+      "options": [
+        "get pregnant",
+        "get divorced",
+        "get arrested",
+        "get lost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "moving right along",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are going on to the next thing or topic",
+  "exchanges": [
+    {
+      "uid": "s04_e11_c04_u004",
+      "answer": "moving right along",
+      "options": [
+        "moving right along",
+        "coming right back",
+        "sitting right down",
+        "standing right here"
+      ]
+    }
+  ]
 }
 ]

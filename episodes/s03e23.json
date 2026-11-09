@@ -513,5 +513,165 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "we need to talk",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you want to have a serious conversation, often about a problem in a relationship",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c02_u038",
+      "answer": "we need to talk",
+      "options": [
+        "we need to talk",
+        "we need to eat",
+        "we need to shop",
+        "we need to move"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just so I know",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used when asking for information so that you can be prepared",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c07_u022",
+      "answer": "just so I know",
+      "options": [
+        "just so I know",
+        "just in case",
+        "just like that",
+        "just my luck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "couldn't resist",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to admit that you did something because you wanted to so much that you could not stop yourself",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c10_u006",
+      "answer": "couldn't resist",
+      "options": [
+        "couldn't resist",
+        "couldn't swim",
+        "couldn't hear",
+        "couldn't drive"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make someone crazy",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone very anxious, stressed, or upset",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c05_u005",
+      "answer": "making me crazy",
+      "options": [
+        "making me crazy",
+        "making me rich",
+        "making me late",
+        "making me hungry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pass by",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go past a place on your way somewhere else",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c14_u006",
+      "answer": "passin' by",
+      "options": [
+        "passin' by",
+        "showin' off",
+        "givin' up",
+        "fallin' in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "come on in",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of inviting someone to enter a room or home",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c11_u003",
+      "answer": "come on in",
+      "options": [
+        "come on in",
+        "go on out",
+        "hang on there",
+        "move on up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "would you stop",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone in an annoyed way to stop saying or doing something",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c08_u003",
+      "answer": "Would you stop",
+      "options": [
+        "Would you stop",
+        "Would you sing",
+        "Would you swim",
+        "Would you cook"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be good with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adjective",
+  "meaning": "to be skilled at dealing with or looking after a certain kind of person or thing",
+  "exchanges": [
+    {
+      "uid": "s03_e23_c04_u011",
+      "answer": "good with",
+      "options": [
+        "good with",
+        "bad at",
+        "new to",
+        "tired of"
+      ]
+    }
+  ]
 }
 ]

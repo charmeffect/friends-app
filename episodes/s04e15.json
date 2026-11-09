@@ -534,5 +534,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "would you mind",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a polite way of asking someone to do something",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u010",
+      "answer": "would you mind",
+      "options": [
+        "would you mind",
+        "would you hate",
+        "would you stop",
+        "would you regret"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how have you been",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "a friendly way of asking someone you have not seen for a while how their life has been",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c02_u016",
+      "answer": "How have you been",
+      "options": [
+        "How have you been",
+        "What have you done",
+        "Why have you come",
+        "Who have you seen"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've been meaning to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say you have intended to do something for some time but have not done it yet",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c03_u010",
+      "answer": "I've been meaning",
+      "options": [
+        "I've been meaning",
+        "I've been refusing",
+        "I've been pretending",
+        "I've been hating"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're welcome to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone they are free to do something if they want",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c03_u017",
+      "answer": "You're welcome to",
+      "options": [
+        "You're welcome to",
+        "You're forbidden to",
+        "You're afraid to",
+        "You're unable to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's so funny",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when someone laughs at something you do not find funny, often defensively",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c03_u019",
+      "answer": "what's so funny",
+      "options": [
+        "what's so funny",
+        "what's so new",
+        "what's so old",
+        "what's so rare"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "freaky",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "strange in a way that is slightly frightening",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c05_u011",
+      "answer": "freaky",
+      "options": [
+        "freaky",
+        "boring",
+        "normal",
+        "tasty"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "man enough",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "brave or tough enough to do something difficult",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c06_u003",
+      "answer": "man enough",
+      "responseUid": null,
+      "options": [
+        "man enough",
+        "late enough",
+        "small enough",
+        "weak enough"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "poor baby",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show sympathy for someone who is hurt or unhappy, sometimes teasingly",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c10_u012",
+      "answer": "poor baby",
+      "options": [
+        "poor baby",
+        "lucky baby",
+        "rich baby",
+        "new baby"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm serious",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to insist that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c12_u015",
+      "answer": "I'm serious",
+      "options": [
+        "I'm serious",
+        "I'm finished",
+        "I'm leaving",
+        "I'm hungry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if only",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to express a wish that a situation were different, often sarcastically",
+  "exchanges": [
+    {
+      "uid": "s04_e15_c08_u010",
+      "answer": "If only",
+      "options": [
+        "If only",
+        "Even if",
+        "Only if",
+        "As if"
+      ]
+    }
+  ]
 }
 ]

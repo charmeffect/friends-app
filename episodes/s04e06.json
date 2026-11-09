@@ -512,5 +512,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "get moving",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start doing something, especially after a period of not acting",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u028",
+      "answer": "get you moving",
+      "options": [
+        "get you moving",
+        "get you down",
+        "get you fired",
+        "get you lost"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how'd it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked to find out whether an event or task went well",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u052",
+      "answer": "how'd it go",
+      "options": [
+        "how'd it go",
+        "where'd it go",
+        "who'd you see",
+        "what'd you eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm so happy for you",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that you are glad about someone else's good news",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c02_u054",
+      "answer": "happy for you",
+      "options": [
+        "happy for you",
+        "sorry for you",
+        "tired of you",
+        "done with you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'd rather not",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite way of saying that you do not want to do something",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c03_u013",
+      "answer": "I'd rather not",
+      "options": [
+        "I'd rather not",
+        "I'd love to",
+        "I'd like that",
+        "I'd be happy to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "according to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "as stated or reported by a particular source",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c03_u005",
+      "answer": "According to",
+      "options": [
+        "According to",
+        "Instead of",
+        "Because of",
+        "Except for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "enough is enough",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you want something to stop because it has gone on too long",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c09_u006",
+      "answer": "Enough is enough",
+      "options": [
+        "Enough is enough",
+        "Easy come, easy go",
+        "Better safe than sorry",
+        "Live and learn"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by myself",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "alone and without help from anyone else",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c11_u002",
+      "answer": "by myself",
+      "options": [
+        "by myself",
+        "to myself",
+        "at myself",
+        "on myself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go to all that trouble",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make a lot of effort to do something for someone",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c12_u033",
+      "answer": "all that trouble",
+      "options": [
+        "all that trouble",
+        "all that fuss",
+        "all that noise",
+        "all that space"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you didn't have to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a polite way of thanking someone for a gift or favour you did not expect",
+  "exchanges": [
+    {
+      "uid": "s04_e06_c12_u017",
+      "answer": "didn't have to",
+      "options": [
+        "didn't have to",
+        "didn't mean it",
+        "don't like it",
+        "won't need it"
+      ]
+    }
+  ]
 }
 ]

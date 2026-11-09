@@ -503,5 +503,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "best offer",
+  "type": "phrase",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the highest price a buyer is willing to pay, used when a seller will accept less than the asking price",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c03_u015",
+      "answer": "best offer",
+      "options": [
+        "best offer",
+        "last chance",
+        "best guess",
+        "final round"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have something to do with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to be connected with or partly responsible for something",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c03_u022",
+      "answer": "to do with",
+      "options": [
+        "to do with",
+        "to go with",
+        "to come with",
+        "to sit with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't start",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to tell someone not to begin complaining, teasing, or arguing about something",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c05_u011",
+      "answer": "don't start",
+      "options": [
+        "don't start",
+        "don't stop",
+        "don't leave",
+        "don't worry"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "suck someone into",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make someone get involved in something they wanted to stay out of",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c05_u016",
+      "answer": "suck me into",
+      "options": [
+        "suck me into",
+        "lock me out",
+        "let me off",
+        "wake me up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mean a lot to",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to be very important to someone",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c14_u036",
+      "answer": "mean a lot to",
+      "options": [
+        "mean a lot to",
+        "owe a lot to",
+        "cost a lot to",
+        "lie a lot to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you have yourself a deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to agree to an offer or bet",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c10_u007",
+      "answer": "yourself a deal",
+      "options": [
+        "yourself a deal",
+        "yourself a seat",
+        "yourself a cold",
+        "yourself a break"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "from time to time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "occasionally, but not regularly",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c11_u010",
+      "answer": "from time to time",
+      "options": [
+        "from time to time",
+        "from head to toe",
+        "from door to door",
+        "from side to side"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "make a sale",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to succeed in selling something to a customer",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c12_u011",
+      "answer": "make a sale",
+      "options": [
+        "make a sale",
+        "make a wish",
+        "make a scene",
+        "make a mess"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be right there",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to arrive where someone needs you very soon",
+  "exchanges": [
+    {
+      "uid": "s04_e02_c08_u010",
+      "answer": "be right there",
+      "options": [
+        "be right there",
+        "be left out",
+        "be all set",
+        "be over it"
+      ]
+    }
+  ]
 }
 ]

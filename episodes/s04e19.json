@@ -514,5 +514,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "are you kidding me",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show surprise, disbelief, or annoyance at what someone has said or done",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c01_u007",
+      "answer": "kidding",
+      "options": [
+        "kidding",
+        "leaving",
+        "sleeping",
+        "drowning"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a minute",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "immediately and without any hesitation, if you were able to",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c02_u016",
+      "answer": "in a minute",
+      "options": [
+        "in a minute",
+        "in a row",
+        "in a box",
+        "in a line"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "leave something to the last minute",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to wait until just before it is too late to do something",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c02_u020",
+      "answer": "the last minute",
+      "options": [
+        "the last minute",
+        "the first day",
+        "the main road",
+        "the next room"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be that guy",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be the kind of person who does something embarrassing or annoying that others look down on",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c02_u023",
+      "answer": "be that guy",
+      "options": [
+        "be that guy",
+        "see that guy",
+        "call that guy",
+        "hire that guy"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "are you serious",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when you are surprised by what someone said and want to check they are not joking",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c03_u029",
+      "answer": "Are you serious",
+      "cueUid": "s04_e19_c03_u027",
+      "options": [
+        "Are you serious",
+        "Are you hungry",
+        "Are you lost",
+        "Are you cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "easy tiger",
+  "type": "colloquial",
+  "level": "expert",
+  "pos": "expression",
+  "meaning": "said jokingly to tell someone to calm down when they are too excited or angry",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c04_u020",
+      "answer": "Easy tiger",
+      "options": [
+        "Easy tiger",
+        "Lucky dog",
+        "Wise owl",
+        "Busy bee"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's what counts",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that this is the only thing that really matters",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c04_u014",
+      "answer": "that's what counts",
+      "options": [
+        "that's what counts",
+        "that's what hurts",
+        "that's what sells",
+        "that's what burns"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "way too",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "much too; far more than is suitable or needed",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c04_u031",
+      "answer": "way too",
+      "options": [
+        "way too",
+        "way out",
+        "way back",
+        "way off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "done",
+  "type": "word",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to accept an offer or deal immediately",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c05_u020",
+      "answer": "Done",
+      "options": [
+        "Done",
+        "Gone",
+        "Lost",
+        "Late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "mad",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "crazy or very foolish (mainly British use)",
+  "exchanges": [
+    {
+      "uid": "s04_e19_c06_u019",
+      "answer": "mad",
+      "options": [
+        "mad",
+        "rich",
+        "tall",
+        "shy"
+      ]
+    }
+  ]
 }
 ]

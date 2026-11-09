@@ -540,5 +540,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "thanks a million",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "thank you very much",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c01_u006",
+      "answer": "Thanks a million",
+      "responseUid": "s04_e01_c01_u008",
+      "options": [
+        "Thanks a million",
+        "Sorry a million",
+        "Thanks a little",
+        "Thanks at once"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take responsibility",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to accept that you caused something and are to blame for it",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c08_u002",
+      "answer": "take responsibility",
+      "options": [
+        "take responsibility",
+        "take advantage",
+        "take control",
+        "take credit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fine by me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you have no objection to something",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c12_u022",
+      "answer": "Fine by me",
+      "options": [
+        "Fine by me",
+        "Hard on me",
+        "Sorry for me",
+        "Up to me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't blame me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is not your fault or responsibility",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c06_u021",
+      "answer": "Don't blame me",
+      "options": [
+        "Don't blame me",
+        "Don't tell me",
+        "Don't rush me",
+        "Don't thank me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stage fright",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "nervousness that stops you from performing when people are watching or there is pressure",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c10_u030",
+      "answer": "stage fright",
+      "options": [
+        "stage fright",
+        "stage name",
+        "stage door",
+        "stage set"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "perspective",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "the ability to see a situation calmly and judge what really matters",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c12_u008",
+      "answer": "perspective",
+      "options": [
+        "perspective",
+        "altitude",
+        "interest",
+        "popularity"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give yourself credit",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to recognize your own abilities or achievements",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c12_u006",
+      "answer": "give yourself credit",
+      "options": [
+        "give yourself credit",
+        "give yourself away",
+        "give yourself up",
+        "give yourself airs"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I knew it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when something you suspected turns out to be true",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c11_u015",
+      "answer": "I knew it",
+      "options": [
+        "I knew it",
+        "I missed it",
+        "I lost it",
+        "I sold it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I gotta go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "I have to leave now",
+  "exchanges": [
+    {
+      "uid": "s04_e01_c01_u013",
+      "answer": "I gotta go",
+      "options": [
+        "I gotta go",
+        "I gotta eat",
+        "I gotta sit",
+        "I gotta win"
+      ]
+    }
+  ]
 }
 ]

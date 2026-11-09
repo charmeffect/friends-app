@@ -510,5 +510,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "this sucks",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that a situation is very bad or unpleasant",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c07_u002",
+      "answer": "This sucks",
+      "options": [
+        "This sucks",
+        "This rocks",
+        "This works",
+        "This helps"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "whipped",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "(of a man) so eager to please his girlfriend or wife that she controls what he does",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c02_u036",
+      "answer": "whipped",
+      "cueUid": "s04_e20_c02_u034",
+      "responseUid": "s04_e20_c02_u038",
+      "options": [
+        "whipped",
+        "spoiled",
+        "grounded",
+        "fired"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to question or object to what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c07_u008",
+      "answer": "What do you mean",
+      "options": [
+        "What do you mean",
+        "What do you want",
+        "Where do you go",
+        "Who do you know"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I gotta tell you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something you feel strongly or want to admit honestly",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c12_u038",
+      "answer": "I gotta tell ya",
+      "options": [
+        "I gotta tell ya",
+        "I gotta run now",
+        "I gotta get up",
+        "I gotta go home"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what are you in for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "a joking way to ask why someone is in a place such as a hospital or clinic, borrowed from asking a prisoner about their crime",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c09_u019",
+      "answer": "in for",
+      "options": [
+        "in for",
+        "out of",
+        "over to",
+        "back at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "down the road",
+  "type": "phrase",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "at some time in the future",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c12_u012",
+      "answer": "down the road",
+      "options": [
+        "down the road",
+        "off the hook",
+        "over the moon",
+        "on the house"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do you have a minute",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask politely whether someone has time to talk",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c03_u005",
+      "answer": "have a minute",
+      "options": [
+        "have a minute",
+        "have a point",
+        "make a wish",
+        "take a bow"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I was just wondering",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask about or raise something politely and gently",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c03_u007",
+      "answer": "just wondering",
+      "options": [
+        "just wondering",
+        "just forgetting",
+        "just pretending",
+        "just promising"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "leave me alone",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "stop bothering me and go away",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c02_u010",
+      "answer": "leave me alone",
+      "options": [
+        "leave me alone",
+        "let me know",
+        "give me time",
+        "tell me why"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "any luck",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to ask whether someone succeeded in what they were trying to do",
+  "exchanges": [
+    {
+      "uid": "s04_e20_c12_u011",
+      "answer": "Any luck",
+      "options": [
+        "Any luck",
+        "Any time",
+        "Any more",
+        "Any day"
+      ]
+    }
+  ]
 }
 ]

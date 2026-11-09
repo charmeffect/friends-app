@@ -505,5 +505,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "hear from",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to receive a call, letter or message from someone",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u031",
+      "answer": "heard from",
+      "options": [
+        "heard from",
+        "waited for",
+        "looked at",
+        "cared for"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "glad to have you back",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to welcome someone who has returned after being away",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c02_u059",
+      "answer": "have you back",
+      "options": [
+        "have you back",
+        "wear you out",
+        "pick you up",
+        "let you down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "didn't I tell you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when something happens just as you predicted it would",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c03_u030",
+      "answer": "didn't I tell you",
+      "options": [
+        "didn't I tell you",
+        "don't you know me",
+        "haven't I met you",
+        "can't you hear me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what took you so long",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when someone arrives later than expected",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c04_u002",
+      "answer": "took",
+      "options": [
+        "took",
+        "gave",
+        "made",
+        "paid"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be around",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to be present somewhere nearby and available to talk to",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c05_u011",
+      "answer": "around",
+      "options": [
+        "around",
+        "ahead",
+        "aside",
+        "along"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to show you are pleased with an arrangement or agreement",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c06_u020",
+      "answer": "Good deal",
+      "responseUid": null,
+      "options": [
+        "Good deal",
+        "Good night",
+        "Good morning",
+        "Good afternoon"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I've been meaning to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say you have intended to do something for a while but have not done it yet",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c07_u014",
+      "answer": "been meaning to",
+      "options": [
+        "been meaning to",
+        "been paid to",
+        "been born to",
+        "been sent to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if nothing else",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to mention one good point even if there is no other",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c08_u050",
+      "answer": "if nothing else",
+      "options": [
+        "if nothing else",
+        "for no reason",
+        "at no time",
+        "by no means"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "my water broke",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said by a pregnant woman when the fluid around the baby comes out, showing that labor has started",
+  "exchanges": [
+    {
+      "uid": "s05_e02_c09_u007",
+      "answer": "water broke",
+      "options": [
+        "water broke",
+        "phone rang",
+        "car crashed",
+        "light flickered"
+      ]
+    }
+  ]
 }
 ]

@@ -486,5 +486,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "suck up to",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to flatter and please someone in authority so that they will favour you",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c05_u028",
+      "answer": "suck up",
+      "options": [
+        "suck up",
+        "give in",
+        "run off",
+        "cool off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "tell me something I don't know",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said when someone tells you something you think is obvious or already known",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c04_u009",
+      "answer": "something I don't know",
+      "responseUid": null,
+      "options": [
+        "something I don't know",
+        "something that's not true",
+        "someone who doesn't care",
+        "something you can't prove"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm good",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "no, thank you; used to politely refuse an offer",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c14_u037",
+      "answer": "I'm good",
+      "responseUid": null,
+      "options": [
+        "I'm good",
+        "I'm in",
+        "I'm game",
+        "I'm on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go get 'em",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to encourage someone who is about to try to do something",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c14_u033",
+      "answer": "Go get 'em",
+      "options": [
+        "Go get 'em",
+        "Go lie down",
+        "Go to bed",
+        "Go calm down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's no use",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "there is no point in trying because it will not succeed",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c10_u011",
+      "answer": "it's no use",
+      "options": [
+        "it's no use",
+        "it's no fun",
+        "it's no joke",
+        "it's no trouble"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "look at the time",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you suddenly notice that it is late and you need to leave",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c14_u026",
+      "answer": "look at the time",
+      "options": [
+        "look at the time",
+        "look at the view",
+        "look at the sky",
+        "look at the map"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're all set",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "everything is ready or finished for you",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c13_u004",
+      "answer": "all set",
+      "options": [
+        "all set",
+        "all wrong",
+        "all alone",
+        "all mine"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "nail it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to do something perfectly or very successfully",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c14_u025",
+      "answer": "nailed it",
+      "options": [
+        "nailed it",
+        "blew it",
+        "dropped it",
+        "missed it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "for free",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "without having to pay",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c05_u005",
+      "answer": "for free",
+      "options": [
+        "for free",
+        "for sure",
+        "for real",
+        "for good"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "end up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to finally be in a situation or place, often without planning it",
+  "exchanges": [
+    {
+      "uid": "s04_e04_c14_u003",
+      "answer": "ended up",
+      "options": [
+        "ended up",
+        "gave up",
+        "set up",
+        "made up"
+      ]
+    }
+  ]
 }
 ]

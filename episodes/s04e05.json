@@ -513,5 +513,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "what's the worst that could happen",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to encourage someone by suggesting that the risk of trying is small",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c02_u011",
+      "answer": "the worst thing",
+      "options": [
+        "the worst thing",
+        "the oldest trick",
+        "the hardest part",
+        "the last chance"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be yourself",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to act naturally and not pretend to be someone different",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c02_u022",
+      "answer": "be yourself",
+      "options": [
+        "be yourself",
+        "hurt yourself",
+        "kid yourself",
+        "blame yourself"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you want from me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said in frustration when you feel someone is demanding too much of you",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c11_u015",
+      "answer": "want from me",
+      "options": [
+        "want from me",
+        "think of me",
+        "know about me",
+        "hear from me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the least you can do",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "the minimum effort that someone should make in a situation",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c11_u016",
+      "answer": "the least",
+      "options": [
+        "the least",
+        "the last",
+        "the first",
+        "the whole"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's getting late",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to suggest it is time to leave or stop because the evening is passing",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c05_u020",
+      "answer": "getting late",
+      "options": [
+        "getting late",
+        "getting worse",
+        "getting better",
+        "getting easier"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I don't mean to",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something that might sound rude, to show it is not your intention to offend",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c06_u014",
+      "answer": "don't mean to",
+      "options": [
+        "don't mean to",
+        "don't get to",
+        "don't seem to",
+        "don't dare to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "are you serious",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "asked when you are surprised by what someone said and want to check they are not joking",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c08_u010",
+      "answer": "Are you serious",
+      "options": [
+        "Are you serious",
+        "Are you ready",
+        "Are you hungry",
+        "Are you done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we had a deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to remind someone that they agreed to do something and are not doing it",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c11_u014",
+      "answer": "had a deal",
+      "options": [
+        "had a deal",
+        "had a fight",
+        "had a drink",
+        "had a party"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ready or not",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is about to happen whether or not someone is prepared for it",
+  "exchanges": [
+    {
+      "uid": "s04_e05_c09_u002",
+      "answer": "Ready or not",
+      "options": [
+        "Ready or not",
+        "More or less",
+        "Sooner or later",
+        "Rain or shine"
+      ]
+    }
+  ]
 }
 ]

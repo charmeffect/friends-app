@@ -495,5 +495,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "take a shot",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make an attempt or a guess without being sure",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c04_u031",
+      "answer": "took a shot",
+      "options": [
+        "took a shot",
+        "took a bow",
+        "took a nap",
+        "took a bath"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wanna bet",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a challenge used to say you think the other person is wrong",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c06_u015",
+      "answer": "wanna bet",
+      "options": [
+        "wanna bet",
+        "wanna dance",
+        "wanna leave",
+        "wanna eat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're up",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "it is your turn now",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c07_u009",
+      "answer": "you're up",
+      "options": [
+        "you're up",
+        "you're down",
+        "you're over",
+        "you're out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I knew it",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when something you suspected turns out to be true",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u032",
+      "answer": "I knew it",
+      "options": [
+        "I knew it",
+        "I lost it",
+        "I missed it",
+        "I hated it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give it some time",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to wait patiently before expecting a result",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u038",
+      "answer": "give it some time",
+      "options": [
+        "give it some time",
+        "give it some salt",
+        "give it some credit",
+        "give it some work"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cough up",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to hand over money you owe, usually reluctantly",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c02_u055",
+      "answer": "Cough it up",
+      "options": [
+        "Cough it up",
+        "Cover it up",
+        "Turn it up",
+        "Write it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "steady as a rock",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "completely steady and not shaking at all",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c07_u005",
+      "answer": "Steady as a rock",
+      "options": [
+        "Steady as a rock",
+        "Busy as a bee",
+        "Sly as a fox",
+        "Quiet as a mouse"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "are you with me",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "asked to check whether someone supports you and will join you",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c07_u005",
+      "answer": "are you with me",
+      "options": [
+        "are you with me",
+        "are you near me",
+        "are you over me",
+        "are you like me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put all your eggs in one basket",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to rely completely on one plan or chance, so that you could lose everything",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c08_u015",
+      "answer": "eggs",
+      "options": [
+        "eggs",
+        "apples",
+        "coins",
+        "shoes"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deal",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to agree to the terms of a bet or offer",
+  "exchanges": [
+    {
+      "uid": "s04_e12_c06_u039",
+      "answer": "Deal",
+      "responseUid": null,
+      "options": [
+        "Deal",
+        "Oops",
+        "Sorry",
+        "Ouch"
+      ]
+    }
+  ]
 }
 ]

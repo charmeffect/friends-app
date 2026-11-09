@@ -514,5 +514,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "if it makes you feel any better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before telling someone something that may comfort them",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c06_u006",
+      "answer": "feel any better",
+      "cueUid": "s04_e16_c06_u004",
+      "options": [
+        "feel any better",
+        "look any different",
+        "get any easier",
+        "sound any worse"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have you lost your mind",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said angrily to ask whether someone has gone crazy",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c05_u025",
+      "answer": "lost your mind",
+      "options": [
+        "lost your mind",
+        "held your breath",
+        "made your bed",
+        "kept your word"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as much as",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "although; used to say that you will not do something even though you would like to",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c04_u006",
+      "answer": "as much as",
+      "options": [
+        "as much as",
+        "as soon as",
+        "as far as",
+        "as long as"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at what cost",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask whether a good result was worth the harm or sacrifice it caused",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c05_u013",
+      "answer": "at what cost",
+      "options": [
+        "at what cost",
+        "at what point",
+        "at what age",
+        "at what speed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give someone a call",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to phone someone",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c02_u004",
+      "answer": "give me a call",
+      "options": [
+        "give me a call",
+        "give me a hand",
+        "give me a break",
+        "give me a ride"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "drag",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make someone go somewhere they do not want to go",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c02_u011",
+      "answer": "dragged",
+      "options": [
+        "dragged",
+        "spared",
+        "warned",
+        "blamed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "leave it at that",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to stop doing or discussing something and not go any further",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c05_u073",
+      "answer": "leave it at",
+      "options": [
+        "leave it at",
+        "pass it to",
+        "take it from",
+        "put it on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cold-blooded",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "done deliberately and without any pity or feeling",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c05_u002",
+      "answer": "cold blooded",
+      "options": [
+        "cold blooded",
+        "half hearted",
+        "open minded",
+        "light headed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "free to go",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "allowed to leave whenever you want",
+  "exchanges": [
+    {
+      "uid": "s04_e16_c06_u002",
+      "answer": "free to go",
+      "options": [
+        "free to go",
+        "due to go",
+        "bound to go",
+        "sorry to go"
+      ]
+    }
+  ]
 }
 ]

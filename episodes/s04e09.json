@@ -524,5 +524,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "quick question",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to introduce a short question you want to ask someone right away",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c02_u011",
+      "answer": "quick question",
+      "options": [
+        "quick question",
+        "good morning",
+        "big favor",
+        "long story"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "used to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "did something regularly or felt a certain way in the past but no longer do",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c06_u003",
+      "answer": "used to",
+      "options": [
+        "used to",
+        "failed to",
+        "refused to",
+        "forgot to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "may as well",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is the sensible thing to do because there is no better choice",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c06_u021",
+      "answer": "may as well",
+      "options": [
+        "may as well",
+        "would rather",
+        "need not",
+        "used to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hang up on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a phone call suddenly while the other person is still talking",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c06_u020",
+      "answer": "hang up on",
+      "options": [
+        "hang up on",
+        "look down on",
+        "pick up on",
+        "run out on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cross the line",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to move past a boundary into a new or riskier stage of a relationship or behavior",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c08_u009",
+      "answer": "crossed the line",
+      "options": [
+        "crossed the line",
+        "drew the line",
+        "toed the line",
+        "held the line"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in that case",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "if that is true or that is the situation",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c03_u007",
+      "answer": "in that case",
+      "options": [
+        "in that case",
+        "for a change",
+        "in the end",
+        "at any rate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "are you serious",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you are surprised by what someone has said and want to check they mean it",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c11_u010",
+      "answer": "Are you serious",
+      "options": [
+        "Are you serious",
+        "Are you hungry",
+        "Are you lost",
+        "Are you done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "head back",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go back or return to a place",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c11_u002",
+      "answer": "head back",
+      "options": [
+        "head back",
+        "hold back",
+        "cut back",
+        "bring back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get the feeling",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start to believe something without being certain of it",
+  "exchanges": [
+    {
+      "uid": "s04_e09_c12_u010",
+      "answer": "getting the feeling",
+      "options": [
+        "getting the feeling",
+        "getting the chance",
+        "getting the hang",
+        "getting the blame"
+      ]
+    }
+  ]
 }
 ]

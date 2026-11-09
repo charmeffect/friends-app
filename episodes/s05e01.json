@@ -428,5 +428,188 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "feel right about",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to feel comfortable that something is morally acceptable or the right thing to do",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c04_u004",
+      "answer": "feel right about",
+      "options": [
+        "feel right about",
+        "run late for",
+        "get mad at",
+        "look good in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "do you mind",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to politely ask whether someone would be willing to do something",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c04_u021",
+      "answer": "mind",
+      "options": [
+        "mind",
+        "finish",
+        "practice",
+        "deny"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's cool",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to show that you accept something and it is fine with you",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c04_u024",
+      "answer": "That's cool",
+      "cueUid": "s05_e01_c04_u022",
+      "options": [
+        "That's cool",
+        "That's mine",
+        "That's heavy",
+        "That's wet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "there you are",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you find someone you have been looking for",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c05_u014",
+      "answer": "there you are",
+      "options": [
+        "there you are",
+        "here I come",
+        "there it goes",
+        "here we stay"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "waste your life",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to spend your time and years on something that will never bring results",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c06_u009",
+      "answer": "wasting my life",
+      "options": [
+        "wasting my life",
+        "washing my car",
+        "paying my rent",
+        "making my bed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "who knows",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is possible, although nobody can be sure",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c06_u017",
+      "answer": "who knows",
+      "options": [
+        "who knows",
+        "who paid",
+        "who sang",
+        "who left"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what with",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "used to introduce the reasons that explain a situation",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c07_u018",
+      "answer": "what with",
+      "options": [
+        "what with",
+        "how about",
+        "so that",
+        "even if"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "time-out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said to ask everyone to stop for a moment so that something can be dealt with",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c09_u002",
+      "answer": "time-out",
+      "options": [
+        "time-out",
+        "pop-up",
+        "drop-off",
+        "sit-up"
+      ],
+      "cueUid": "s05_e01_c08_u050",
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "I suppose",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you think something is true or likely, often reluctantly",
+  "exchanges": [
+    {
+      "uid": "s05_e01_c03_u032",
+      "answer": "I suppose",
+      "options": [
+        "I suppose",
+        "I promise",
+        "I wonder",
+        "I forgot"
+      ]
+    }
+  ]
 }
 ]

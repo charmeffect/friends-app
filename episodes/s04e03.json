@@ -504,5 +504,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "take something to the next level",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to develop something, such as a relationship, to a more advanced or serious stage",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c03_u014",
+      "answer": "to the next level",
+      "options": [
+        "to the next level",
+        "to the cleaners",
+        "to the extreme",
+        "to the edge"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick on",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to keep treating someone unfairly or making fun of them",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c04_u013",
+      "answer": "pick on",
+      "options": [
+        "pick on",
+        "pick up",
+        "rely on",
+        "log on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "don't panic",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to tell someone to stay calm when something has gone wrong",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c06_u008",
+      "answer": "don't panic",
+      "options": [
+        "don't panic",
+        "don't bother",
+        "don't vote",
+        "don't sign"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sense of humor",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "the ability to understand and enjoy funny things",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c06_u022",
+      "answer": "sense of humour",
+      "options": [
+        "sense of humour",
+        "sense of duty",
+        "sense of style",
+        "sense of smell"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have faith in",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to trust that someone will be able to do something well",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c06_u023",
+      "answer": "faith in",
+      "options": [
+        "faith in",
+        "part in",
+        "say in",
+        "taste in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm out",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said to announce that you will not take part in something",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c09_u005",
+      "answer": "I'm out",
+      "options": [
+        "I'm out",
+        "I'm in",
+        "I'm up",
+        "I'm on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "either way",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "whichever of the two possibilities happens",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c11_u003",
+      "answer": "either way",
+      "options": [
+        "either way",
+        "by the way",
+        "on the way",
+        "in a way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "prove someone wrong",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to show that what someone believed or said about you was not true",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c10_u008",
+      "answer": "prove",
+      "options": [
+        "prove",
+        "leave",
+        "call",
+        "keep"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "funny story",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce an awkward or surprising piece of news, often one the listener will not like",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c03_u004",
+      "answer": "funny story",
+      "options": [
+        "funny story",
+        "funny face",
+        "sad song",
+        "big plan"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "at first",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "in the beginning, before things changed",
+  "exchanges": [
+    {
+      "uid": "s04_e03_c03_u010",
+      "answer": "at first",
+      "options": [
+        "at first",
+        "at last",
+        "at least",
+        "at heart"
+      ]
+    }
+  ]
 }
 ]

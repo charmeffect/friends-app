@@ -521,5 +521,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "I'm out of here",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when you are leaving a place, often because you are annoyed",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c09_u017",
+      "answer": "I'm out of here",
+      "options": [
+        "I'm out of here",
+        "I'm into this",
+        "I'm up for it",
+        "I'm all for it"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we're off",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you are leaving now to start a journey",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c02_u023",
+      "answer": "we're off",
+      "options": [
+        "we're off",
+        "we're in",
+        "we're up",
+        "we're on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "if it makes you feel any better",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said before telling someone something that may comfort them",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c12_u007",
+      "answer": "feel any better",
+      "options": [
+        "feel any better",
+        "feel any worse",
+        "look any older",
+        "sound any smarter"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "way too",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "much too; far more than is suitable or needed",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c13_u013",
+      "answer": "way too",
+      "options": [
+        "way too",
+        "not too",
+        "so little",
+        "never too"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you're welcome",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said in reply to thanks, or, before anyone has thanked you, to claim credit for a favor",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c12_u028",
+      "answer": "you are welcome",
+      "options": [
+        "you are welcome",
+        "you are fired",
+        "you are next",
+        "you are late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "give something a try",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to try doing something to see whether it works",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c02_u004",
+      "answer": "give that a try",
+      "options": [
+        "give that a try",
+        "give that a name",
+        "give that a hand",
+        "give that a ride"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as much as the next guy",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "as much as anyone else; used to say you are no different from most people in this",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c08_u017",
+      "answer": "the next guy",
+      "options": [
+        "the next guy",
+        "the last time",
+        "the other day",
+        "the first date"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what do you mean",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to question or object to what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c15_u007",
+      "answer": "What do you mean",
+      "options": [
+        "What do you mean",
+        "What do you want",
+        "Where do you go",
+        "Who do you know"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good choice",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to approve of a decision someone has just made",
+  "exchanges": [
+    {
+      "uid": "s04_e23_c09_u015",
+      "answer": "Good choice",
+      "options": [
+        "Good choice",
+        "Bad timing",
+        "Fair point",
+        "Nice try"
+      ]
+    }
+  ]
 }
 ]

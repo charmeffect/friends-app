@@ -513,5 +513,205 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "ask a favor",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to request that someone do something kind to help you",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c01_u011",
+      "answer": "favour",
+      "options": [
+        "favour",
+        "fortune",
+        "failure",
+        "feature"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "kick someone when they're down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make things even worse for someone who is already unhappy or in trouble",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c05_u016",
+      "answer": "kick me",
+      "options": [
+        "kick me",
+        "pay me",
+        "greet me",
+        "hire me"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that works",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to agree that a suggestion or plan is fine with you",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c06_u030",
+      "answer": "that works",
+      "options": [
+        "that works",
+        "that hurts",
+        "that fails",
+        "that stinks"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "out of your hair",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "no longer bothering you or getting in your way",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c08_u020",
+      "answer": "out of your hair",
+      "options": [
+        "out of your hair",
+        "out of your mind",
+        "out of your league",
+        "out of your depth"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "sounds like a plan",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to agree happily with a suggestion",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c08_u010",
+      "answer": "sounds like a plan",
+      "options": [
+        "sounds like a plan",
+        "sounds like a joke",
+        "sounds like a lie",
+        "sounds like a threat"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have got to",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "must; used to say strongly that something is necessary",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c12_u008",
+      "answer": "has got to",
+      "options": [
+        "has got to",
+        "has used to",
+        "has come to",
+        "has tried to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I swear",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to stress that you really mean what you are saying",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c06_u016",
+      "answer": "I swear",
+      "options": [
+        "I swear",
+        "I wonder",
+        "I forgot",
+        "I fear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's true what they say",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to agree that a common saying or belief turns out to be right",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c01_u003",
+      "answer": "what they say",
+      "options": [
+        "what they say",
+        "what they paid",
+        "what they built",
+        "what they ate"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "left over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "remaining after the rest has been used or eaten",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c04_u009",
+      "answer": "left over",
+      "options": [
+        "left over",
+        "left off",
+        "left out",
+        "left in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speak for someone",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to say what another person thinks or feels, as if you knew",
+  "exchanges": [
+    {
+      "uid": "s04_e18_c07_u015",
+      "answer": "speak for",
+      "options": [
+        "speak for",
+        "care for",
+        "ask for",
+        "pay for"
+      ]
+    }
+  ]
 }
 ]

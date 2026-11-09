@@ -523,5 +523,186 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "laugh in someone's face",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to openly mock someone or reject what they say with scorn",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c05_u004",
+      "answer": "laugh in my face",
+      "options": [
+        "laugh in my face",
+        "fall on my feet",
+        "sleep on my couch",
+        "sit on my lap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take that tone with someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to speak to someone in a rude or disrespectful way",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c05_u006",
+      "answer": "take that tone",
+      "options": [
+        "take that tone",
+        "pay that bill",
+        "fix that roof",
+        "sign that lease"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what were we thinking",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you realize something you did was foolish or a mistake",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c18_u019",
+      "answer": "What were we thinking",
+      "options": [
+        "What were we thinking",
+        "Where were we sitting",
+        "When were we leaving",
+        "How were we sleeping"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that went well",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said sarcastically after something has gone very badly",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c18_u059",
+      "answer": "that went well",
+      "options": [
+        "that went well",
+        "that tasted sweet",
+        "that smelled nice",
+        "that sounded new"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that's that",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "said to show that a matter is finished and nothing more can be done",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c24_u017",
+      "answer": "that's that",
+      "options": [
+        "that's that",
+        "that's mine",
+        "that's new",
+        "that's cheap"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be in a bad place",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be going through a difficult, unhappy period emotionally",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c26_u021",
+      "answer": "in a bad place",
+      "options": [
+        "in a bad place",
+        "on a bad diet",
+        "in a bad seat",
+        "at a bad angle"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "meet someone in the middle",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to compromise by each side giving up part of what it wants",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c17_u012",
+      "answer": "in the middle",
+      "responseUid": "s04_e24_c17_u014",
+      "options": [
+        "in the middle",
+        "on the rocks",
+        "in the dark",
+        "on the house"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pull away",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to start moving away from a place, especially in a vehicle",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c09_u005",
+      "answer": "pulled away",
+      "options": [
+        "pulled away",
+        "pulled down",
+        "pulled through",
+        "pulled apart"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "point out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to draw someone's attention to a fact or detail",
+  "exchanges": [
+    {
+      "uid": "s04_e24_c19_u055",
+      "answer": "point her out",
+      "options": [
+        "point her out",
+        "hand her over",
+        "work her out",
+        "drop her off"
+      ]
+    }
+  ]
 }
 ]

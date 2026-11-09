@@ -504,5 +504,185 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "that's the one",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that something is exactly the thing being described or looked for",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c01_u026",
+      "answer": "That's the one",
+      "options": [
+        "That's the one",
+        "That's a shame",
+        "That's my bad",
+        "That's no fun"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "that must be it",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to accept an explanation as the probable reason for something",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c06_u009",
+      "answer": "that must be it",
+      "options": [
+        "that must be it",
+        "that might be fun",
+        "that should be easy",
+        "that could be worse"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just perfect",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used sarcastically to say that a situation is very bad or annoying",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c06_u018",
+      "answer": "just perfect",
+      "options": [
+        "just perfect",
+        "just boring",
+        "just healthy",
+        "just legal"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it takes guts",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say that doing something requires courage",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c11_u015",
+      "answer": "it takes guts",
+      "options": [
+        "it takes guts",
+        "it takes years",
+        "it pays well",
+        "it gets cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "go as planned",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to happen in the way that was intended",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c10_u018",
+      "answer": "goes as planned",
+      "options": [
+        "goes as planned",
+        "goes too far",
+        "goes to waste",
+        "goes downhill"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I hear you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you understand what someone is telling you, often because they keep repeating it",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c10_u013",
+      "answer": "I hear you",
+      "options": [
+        "I hear you",
+        "I owe you",
+        "I miss you",
+        "I trust you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "teach someone a lesson",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to punish someone or let them suffer so that they will not behave badly again",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c04_u018",
+      "answer": "teach him a lesson",
+      "options": [
+        "teach him a lesson",
+        "give him a hand",
+        "buy him a drink",
+        "pay him a visit"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let someone down easy",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to reject someone gently so that they are not hurt too much",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c12_u007",
+      "answer": "lets her down easy",
+      "options": [
+        "lets her down easy",
+        "takes her out first",
+        "picks her up early",
+        "walks her home later"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "by accident",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "without intending to; not deliberately",
+  "exchanges": [
+    {
+      "uid": "s03_e24_c14_u004",
+      "answer": "by accident",
+      "options": [
+        "by accident",
+        "by heart",
+        "by email",
+        "by force"
+      ]
+    }
+  ]
 }
 ]

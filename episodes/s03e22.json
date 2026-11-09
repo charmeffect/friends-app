@@ -518,5 +518,207 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "get a chance",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have the opportunity or the free time to do something",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c01_u003",
+      "answer": "get a chance",
+      "options": [
+        "get a chance",
+        "get a grip",
+        "get a clue",
+        "get a cold"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "plus one",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "noun",
+  "meaning": "a guest that an invited person is allowed to bring to an event",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c01_u023",
+      "answer": "plus one",
+      "options": [
+        "plus one",
+        "minus one",
+        "times two",
+        "over two"
+      ],
+      "responseUid": null
+    }
+  ]
+},
+
+{
+  "expression": "looks that way",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to agree that something seems to be true",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c03_u009",
+      "answer": "looks that way",
+      "options": [
+        "looks that way",
+        "goes that way",
+        "turns that way",
+        "comes that way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm good",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to politely refuse an offer, meaning you do not need or want anything",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c03_u039",
+      "answer": "I'm good",
+      "options": [
+        "I'm good",
+        "I'm late",
+        "I'm lost",
+        "I'm next"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep oneself busy",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to find things to do so that time passes or you do not get bored",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c05_u008",
+      "answer": "kept myself busy",
+      "options": [
+        "kept myself busy",
+        "locked myself out",
+        "talked myself down",
+        "signed myself up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "walk someone home",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to go on foot with someone to their home to keep them company or make sure they are safe",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c06_u012",
+      "answer": "walk you home",
+      "options": [
+        "walk you home",
+        "beat you up",
+        "wake you up",
+        "lock you out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stand around",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to stand somewhere doing nothing useful, usually while waiting",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c04_u038",
+      "answer": "standing around",
+      "options": [
+        "standing around",
+        "showing off",
+        "giving up",
+        "going out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "good thing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that it is lucky that something is the case",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c13_u003",
+      "answer": "good thing",
+      "options": [
+        "good thing",
+        "good grief",
+        "bad habit",
+        "big deal"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get old",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to become boring or annoying after happening many times",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c11_u009",
+      "answer": "getting really old",
+      "options": [
+        "getting really old",
+        "getting really rich",
+        "getting really tall",
+        "getting really wet"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "stay away from",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to keep at a distance from someone or something",
+  "exchanges": [
+    {
+      "uid": "s03_e22_c09_u013",
+      "answer": "stay away from",
+      "options": [
+        "stay away from",
+        "look up to",
+        "hold on to",
+        "run into"
+      ],
+      "responseUid": null
+    }
+  ]
 }
 ]

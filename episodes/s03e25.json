@@ -524,5 +524,206 @@
       ]
     }
   ]
+},
+
+{
+  "expression": "if worst comes to worst",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "if the situation becomes as bad as it possibly can",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c02_u005",
+      "answer": "worst comes to worst",
+      "options": [
+        "worst comes to worst",
+        "best comes to best",
+        "night turns to day",
+        "worst goes to waste"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I'm good",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to politely refuse an offer, meaning you do not need or want anything",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c09_u010",
+      "answer": "I'm good",
+      "options": [
+        "I'm good",
+        "I'm in",
+        "I'm next",
+        "I'm on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take it like a man",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to accept something unpleasant bravely and without complaining",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c05_u019",
+      "answer": "like a man",
+      "options": [
+        "like a man",
+        "like a log",
+        "like a charm",
+        "like a dream"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "totally",
+  "type": "word",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "completely or definitely; used in speech to add emphasis",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c05_u081",
+      "answer": "totally",
+      "options": [
+        "totally",
+        "lately",
+        "hardly",
+        "rarely"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I gotta tell you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used before saying something you feel strongly about or want to say honestly",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c07_u009",
+      "answer": "I gotta tell ya",
+      "options": [
+        "I gotta tell ya",
+        "I gotta ask ya",
+        "I gotta warn ya",
+        "I gotta leave ya"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "lucky for you",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "fortunately for you; said when something turned out well for the other person",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c06_u006",
+      "answer": "lucky for you",
+      "options": [
+        "lucky for you",
+        "sorry to hear",
+        "same to you",
+        "up to you"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put yourself through",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to make yourself experience something difficult or painful",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c11_u015",
+      "answer": "put myself through",
+      "options": [
+        "put myself through",
+        "put myself above",
+        "keep myself from",
+        "cut myself off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "establish",
+  "type": "word",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to show or agree that something is true or settled",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c02_u012",
+      "answer": "established",
+      "options": [
+        "established",
+        "exaggerated",
+        "abandoned",
+        "neglected"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cancel on",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to call off a planned meeting with someone, often at short notice",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c08_u003",
+      "answer": "cancelled on",
+      "responseUid": "s03_e25_c08_u005",
+      "options": [
+        "cancelled on",
+        "counted on",
+        "checked on",
+        "picked on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to reach someone who is ahead of you",
+  "exchanges": [
+    {
+      "uid": "s03_e25_c05_u089",
+      "answer": "catch up",
+      "options": [
+        "catch up",
+        "back up",
+        "sum up",
+        "show up"
+      ]
+    }
+  ]
 }
 ]
