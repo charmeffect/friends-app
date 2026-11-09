@@ -270,3 +270,45 @@ User decision: Friends-level sexual scenes stay; only items whose expression is 
 - two-way street s10_e09_c12_u015 - Cue reads 'Sure I do. Coule?' - 'Coule' is garbled (probably 'Clam?' or similar); check the transcript.
 - respectfully disagree s09_e17_c03_u017 - Cue 'That only is not funny, it's physically impossible!' looks garbled (probably 'Not only is that not funny...'); left unchanged.
 - condolences s09_e17_c09_u009 - 'people are gonna stir up your family at this tragic time' looks like a mishearing; left unchanged.
+
+## New-items audit 2026-11-10 — left for a human look
+
+- hang out s09_e19_c13_u002 - two speakers merged in one line: 'Monica: Besides tampons and salt? ... it's empty! Ross: Hi you guys! ... you guys wanna [[hang out]]' - the blank is Ross's line but is shown as Monica's; pick another exchange or split the utterance
+- break up with s09_e20_c08_u012 - cue merges two speakers ('Monica: ... Have Mercy! Ross: So, eh... it's probably gonna be hard for you to leave Boston') - cue shown as Monica though the relevant part is Ross's; override cueUid or trim
+- you know what s01_e05_c09_u003 - 'You know what I miss the most about her?' is the literal question 'Do you know what...', not the attention-getting formula in the meaning; consider replacing this exchange
+- kinda s07_e21_c03_u008 - item is just the spoken spelling of 'kind of'; low learning value as a standalone item - owner may prefer to drop or merge into a 'kind of' item
+- here's the deal s02_e21_c05_u031 - 'so long as never ever show your faces' is probably missing 'you' (so long as you never ever show) - left as is because unsure
+- let go of s02_e06_c04_u033 - response (Chandler, 'That's a good plan, Joe...') is from a different scene; consider dropping responseUid
+- sort of s01_e17_c05_u005 - response line is labelled Ross but is spoken by his dad (Jack) answering Ross's question ('Your mother really did the work'); speaker label looks wrong, cue u003 may be Jack too
+- do someone a favor s07_e23_c05_u039 - 'could you do me a favor and would talk to Chandler's dad' looks garbled (probably 'and go talk' / 'and would you talk'); left unchanged because unsure of the original
+- get in trouble s03_e16_c08_u007 - 'this totally honesty thing' may be a transcript error for 'total honesty'; left as possible character speech
+- help out s09_e04_c02_u024 - 'you don't seem like the kind of guy that does this very a lot' looks garbled (maybe 'very often' / 'a lot'); not fixed because the original wording is uncertain
+- let me get this straight s03_e25_c11_u015 - cue 'getting over Rachel was so , y'know?' has a word missing after 'so'
+- worse comes to worse s02_e09_c07_u019 - the standard form is 'worst comes to worst'; the item teaches the less common variant as the headword, so consider naming the expression 'if worst comes to worst' in the meaning or a note
+- hook up with s04_e24_c18_u013 - here it means a one-night sexual encounter; mild and very common, so kept, but the owner may want to judge it under the sexual-slang rule
+- gotcha s06_e07_c05_u003 - distractors 'Gotta/Lemme/Dunno' are all reduced forms of different shapes; acceptable but weak
+- tag along s05_e18_c08_u024 - The same line continues 'You're like the uh, tag-a-long dad', which gives the answer away. Consider another exchange or accept the hint.
+- impulse buyer s02_e19_c12_u022 - Line reads 'I was an impulse buyer, near the register' — the aired line is probably 'It was an impulse buy, near the register' (the bird was bought near the register). If so, the expression should be 'impulse buy'; check the source/episode.
+- just in case s07_e18_c03_u006 - Second sentence 'But no Chandler is in an accident and can't perform sexually...' is garbled (probably 'But say Chandler is in an accident...'); check against the episode before fixing.
+- it's no use s04_e04_c10_u011 - Line reads "I'm sure as hell a dancer, it's no use" - contradictory; the original is probably "I'm sure as hell no dancer" / "not a dancer". Check the episode before fixing.
+- out of your mind s09_e08_c01_u232 - Duplicate of the item 'out of one's mind' (s03e11); consider merging.
+- on your own s06_e13_c02_u046 - Overlaps the item 'on my own' (s03e14, s08e14); s08e20 exchange even has answer 'on my own'. Consider merging.
+- the next level s04_e11_c03_u011 - Overlaps 'take something to the next level' (s04e03); consider merging.
+- I'm so happy for you s04_e06_c02_u054 - Overlaps 'be happy for' (s04e14, s04e21, s10e02); consider merging.
+- I'd rather not s04_e06_c03_u013 - Distractors 'I'd love to / I'd like that / I'd be happy to' all fit the line grammatically; only the response ('why not?') rules them out. Acceptable but weak.
+- time-out s05_e01_c09_u002 - cue s05_e01_c08_u050 comes from the previous scene (c08), not the plane scene; check the cue neighbour
+- fix someone a drink s05_e20_c02_u014 - response s05_e20_c02_u015 'Ross: Ross has the blender!' is attributed to Ross; in the scene it is Monica's line (speaker error in transcript; TTS voice will be wrong)
+- pain in the ass s05_e07_c15_u023 - line ends truncated in transcript ('keep my annoying habits just .'); textFix only makes it trail off with '...' - check the real ending
+- keep talking s07_e01_c10_u006 - cue 'Rue de la .' is truncated in the transcript; textFix makes it trail off '...'
+- who's to say s07_e16_c09_u011 - two separate textFixes on this uid (bride's maid, way to big); they are far apart and the answer lies between them, so they were not merged
+- have trouble s09_e10_c06_u015 - exchange is word-for-word identical to s07_e10_c11_u032 (Santa costume scene); s09e10 transcript seems to contain a copy of the s07e10 scene — check whether it is genuine
+- part ways s07_e12_c15_u002 - cue s07_e12_c09_u002 comes from a different scene (c09 vs c15); cue likely wrong
+- whip up s09_e19_c11_u018 - response text merges two utterances ('...over-p... Phoebe: Who's hoping the hand raising thing...'); the embedded second line should probably be removed
+- honorable mention s06_e10_c09_u010 - 'Mom and Dad are gonna be so faced!' looks like a transcription error (possibly 'psyched'); left unchanged
+- over time s09_e05_c10_u004 - cue had '???' in the transcript ('tucked his ??? between his legs'); textFix fills in 'pee-pee' from memory of the episode, please verify
+- use up s10_e16_c04_u006 - source line merges Ross ('Rock on!') and Phoebe ('Wow, this is quite a spread!...'); textFix drops 'Rock on! Phoebe : ' but the cue is still attributed to Ross (wrong speaker/voice). Consider cueUid override or re-attributing
+- ahead of the game s09_e19_c10_u002 - cue and line each contained a second embedded speaker label (merged lines); labels removed by textFixes, but each line is really two utterances
+- new at this s09_e02_c11_u010 - overlaps with separate item 'be new at' (s08_e13_c10_u009, answer 'new at'); consider merging
+- just a second s08_e15_c07_u023 - near-duplicate of 'give me a second'; also no response line and the cue ('So, what'd you tell him?') gives little support for the blank
+- committed s09_e16_c09_u016 - line is garbled transcript ('call me name', 'my marriage isn't exactly work out', 'I love to be that committed'); first two fixed, third left as is
+- lone wolf s08_e14_c12_u007 - very long line (whole monologue); the following 'A loner. Alone.' makes the blank easy

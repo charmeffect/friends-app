@@ -4,7 +4,7 @@
   "type": "colloquial",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "said to show that someone has finally got it right or done the sensible thing",
+  "meaning": "said when someone has done the right thing, or to show that something proves or explains a point",
   "exchanges": [
     {
       "uid": "s01_e22_c02_u038",
@@ -349,7 +349,7 @@
 
 {
   "expression": "pass for",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "high",
   "pos": "verb",
   "meaning": "to be accepted as something you are not, such as a different age",
@@ -521,7 +521,7 @@
 
 {
   "expression": "it pays to",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "high",
   "pos": "expression",
   "meaning": "it brings you an advantage to do something",
@@ -571,9 +571,9 @@
       "answer": "so not",
       "options": [
         "so not",
-        "so very",
-        "so totally",
-        "so really"
+        "so far",
+        "so long",
+        "so much"
       ],
       "cueUid": "s01_e22_c05_u030",
       "responseUid": null

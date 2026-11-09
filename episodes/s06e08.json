@@ -163,7 +163,7 @@
 
 {
   "expression": "dump",
-  "type": "colloquial",
+  "type": "word",
   "level": "middle",
   "pos": "verb",
   "meaning": "to end a romantic relationship with someone",
@@ -236,37 +236,6 @@
         "lay off",
         "doze off",
         "show off"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "make out with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss and touch someone in a sexual way",
-  "exchanges": [
-    {
-      "uid": "s06_e08_c03_u014",
-      "answer": "make out with",
-      "responseUid": null,
-      "options": [
-        "make out with",
-        "break up with",
-        "put up with",
-        "catch up with"
-      ]
-    },
-    {
-      "uid": "s06_e08_c06_u041",
-      "answer": "make out with",
-      "options": [
-        "make out with",
-        "break up with",
-        "put up with",
-        "catch up with"
       ]
     }
   ]

@@ -1,763 +1,802 @@
 [
-  {
-    "expression": "pretty much",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "adverb",
-    "meaning": "almost completely; more or less",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c01_u006",
-        "answer": "pretty much",
-        "options": [
-          "pretty much",
-          "very well",
-          "quite far",
-          "so long"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "calm down",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to stop feeling angry, excited, or nervous",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u012",
-        "answer": "calm down",
-        "options": [
-          "calm down",
-          "come along",
-          "give up",
-          "sit back"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "run into",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to meet someone by chance",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u017",
-        "answer": "ran into",
-        "options": [
-          "ran into",
-          "looked after",
-          "put away",
-          "gave up"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "work out",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to happen or develop successfully",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c11_u015",
-        "answer": "works out",
-        "options": [
-          "works out",
-          "gets by",
-          "turns up",
-          "holds on"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "speaking of",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "used to introduce something related to what was just mentioned",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c02_u006",
-        "answer": "Speaking of",
-        "options": [
-          "Speaking of",
-          "Talking to",
-          "Thinking about",
-          "Looking at"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "catch up with",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to reach someone who is ahead of you; to meet and talk later",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c02_u010",
-        "answer": "catch up with",
-        "options": [
-          "catch up with",
-          "get along with",
-          "look out for",
-          "run out of"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "fit into",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to have a place or role in a situation or group",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u047",
-        "answer": "fit into",
-        "options": [
-          "fit into",
-          "set up",
-          "give away",
-          "turn down"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "be up to someone",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "to be someone's decision or responsibility",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u048",
-        "answer": "up to",
-        "options": [
-          "up to",
-          "out of",
-          "in for",
-          "on about"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "bring up",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to start talking about a subject",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u015",
-        "answer": "bringing up",
-        "options": [
-          "bringing up",
-          "putting off",
-          "taking down",
-          "giving in"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "what's that supposed to mean",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "said when you are annoyed or suspicious about what someone has just said",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u020",
-        "answer": "supposed to",
-        "options": [
-          "supposed to",
-          "meant for",
-          "about to",
-          "likely to"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "here's the deal",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "used to introduce an explanation of the situation",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u029",
-        "answer": "here's the deal",
-        "options": [
-          "here's the deal",
-          "there's the catch",
-          "that's the point",
-          "what's the story"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "dump",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c07_u012",
-        "answer": "dumped",
-        "options": [
-          "dumped",
-          "damped",
-          "dimmed",
-          "dented"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "be stuck",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "adjective",
-    "meaning": "unable to leave or move from a place or situation",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c06_u001",
-        "answer": "stuck",
-        "options": [
-          "stuck",
-          "struck",
-          "stacked",
-          "stopped"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "word of advice",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "used before giving someone a short piece of advice",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c01_u009",
-        "answer": "word of advice",
-        "options": [
-          "word of advice",
-          "peace of mind",
-          "point of view",
-          "matter of fact"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "be through with",
-    "type": "phrase",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "to have finished using or doing something",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u003",
-        "answer": "through with",
-        "options": [
-          "through with",
-          "up against",
-          "down for",
-          "in on"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "as far as someone is concerned",
-    "type": "phrase",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "in someone's opinion",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u013",
-        "answer": "concerned",
-        "options": [
-          "concerned",
-          "considered",
-          "connected",
-          "convinced"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "have a thing for",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "to be romantically attracted to someone",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u005",
-        "answer": "had a thing for",
-        "responseUid": null,
-        "options": [
-          "had a thing for",
-          "made a point of",
-          "took a stand on",
-          "set a price on"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "chances are",
-    "type": "phrase",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "it is likely that",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c05_u025",
-        "answer": "Chances are",
-        "options": [
-          "Chances are",
-          "Odds say",
-          "Luck is",
-          "Bets go"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "wind up",
-    "type": "phrase",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to end up in a situation, usually without intending to",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c10_u016",
-        "answer": "wind up",
-        "options": [
-          "wind up",
-          "set off",
-          "hold back",
-          "pull over"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "dread",
-    "type": "word",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to feel very worried about something that is going to happen",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u023",
-        "answer": "dreading",
-        "options": [
-          "dreading",
-          "drafting",
-          "drifting",
-          "draining"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "paranoid",
-    "type": "word",
-    "level": "high",
-    "pos": "adjective",
-    "meaning": "unreasonably suspicious and afraid that others want to harm you",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c02_u019",
-        "answer": "paranoid",
-        "options": [
-          "paranoid",
-          "parallel",
-          "paralyzed",
-          "paramount"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "put in perspective",
-    "type": "phrase",
-    "level": "college",
-    "pos": "expression",
-    "meaning": "to make something seem less serious by comparing it with something bigger",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u046",
-        "answer": "in perspective",
-        "options": [
-          "in perspective",
-          "at random",
-          "on purpose",
-          "by heart"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "take the heat off",
-    "type": "colloquial",
-    "level": "college",
-    "pos": "expression",
-    "meaning": "to reduce the pressure or criticism directed at someone",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u015",
-        "answer": "heat",
-        "options": [
-          "heat",
-          "fire",
-          "steam",
-          "smoke"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "anecdote",
-    "type": "word",
-    "level": "high",
-    "pos": "noun",
-    "meaning": "a short, amusing story about a real person or event",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u028",
-        "answer": "anecdotes",
-        "options": [
-          "anecdotes",
-          "antidotes",
-          "analogies",
-          "anomalies"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "border on",
-    "type": "phrase",
-    "level": "college",
-    "pos": "verb",
-    "meaning": "to be almost the same as something, usually something bad",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c10_u014",
-        "answer": "borders on",
-        "options": [
-          "borders on",
-          "leans to",
-          "heads for",
-          "falls in"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "well up",
-    "type": "phrase",
-    "level": "college",
-    "pos": "verb",
-    "meaning": "to start to have tears in your eyes",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c11_u009",
-        "answer": "welling up",
-        "options": [
-          "welling up",
-          "filling in",
-          "tearing down",
-          "drying out"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "presumably",
-    "type": "word",
-    "level": "high",
-    "pos": "adverb",
-    "meaning": "used to say that something is probably true",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u051",
-        "answer": "presumably",
-        "options": [
-          "presumably",
-          "previously",
-          "precisely",
-          "primarily"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "roll with the punches",
-    "type": "colloquial",
-    "level": "college",
-    "pos": "expression",
-    "meaning": "to adapt to difficulties without being badly affected",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c08_u012",
-        "answer": "roll with the punches",
-        "options": [
-          "roll with the punches",
-          "run with the wolves",
-          "stick with the plan",
-          "play with the rules"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "orthodontist",
-    "type": "word",
-    "level": "expert",
-    "pos": "noun",
-    "meaning": "a dentist who specializes in straightening teeth",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c09_u017",
-        "answer": "orthodontist",
-        "options": [
-          "orthodontist",
-          "orthopedist",
-          "optometrist",
-          "obstetrician"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "be up to",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "to be doing or planning (what are you up to = what are you doing)",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c09_u001",
-        "answer": "up to",
-        "options": [
-          "up to",
-          "in for",
-          "out of",
-          "on about"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "yeah, right",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "said sarcastically to show that you do not believe what someone has just said",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c01_u002",
-        "answer": "Yeah, right",
-        "options": [
-          "Yeah, right",
-          "Good point",
-          "Fair enough",
-          "Well done"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "it's just that",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "used to introduce the real reason or problem behind what you are saying",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c02_u001",
-        "answer": "it's just that",
-        "options": [
-          "it's just that",
-          "it's not like",
-          "it's a shame",
-          "it's high time"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "you never know",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "used to say that something unlikely could still happen or be true",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c02_u018",
-        "answer": "you never know",
-        "options": [
-          "you never know",
-          "you're welcome",
-          "you first",
-          "you're kidding"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "how could I forget",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "used to say that you certainly remember something, often ironically because it was unpleasant",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c06_u005",
-        "answer": "How could I forget",
-        "options": [
-          "How could I forget",
-          "What could go wrong",
-          "Where have you been",
-          "When did that happen"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "no matter what",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "regardless of what happens or is true",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c03_u054",
-        "answer": "No matter what",
-        "options": [
-          "No matter what",
-          "Now and then",
-          "Just in case",
-          "All of a sudden"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "shoot for the stars",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to aim for very great success",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u025",
-        "answer": "shoot for the stars",
-        "options": [
-          "shoot for the stars",
-          "run for the hills",
-          "sleep on the couch",
-          "play it by ear"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "have it all",
-    "type": "phrase",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to have a successful career, a family, and everything else one wants at the same time",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c04_u027",
-        "answer": "have it all",
-        "options": [
-          "have it all",
-          "call it off",
-          "give it up",
-          "make it up"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "in a sec",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "adverb",
-    "meaning": "in a very short time; very soon",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c07_u010",
-        "answer": "in a sec",
-        "options": [
-          "in a sec",
-          "in a row",
-          "in a way",
-          "in a rush"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "be a thing",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "to be in a romantic relationship with each other",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c09_u011",
-        "answer": "a thing",
-        "options": [
-          "a thing",
-          "a bit",
-          "a lot",
-          "a rule"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "thanks for sharing",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "said ironically when someone has told you something you did not need or want to know",
-    "exchanges": [
-      {
-        "uid": "s01_e02_c10_u020",
-        "answer": "thanks for sharing",
-        "options": [
-          "thanks for sharing",
-          "see you later",
-          "nice try",
-          "happy birthday"
-        ]
-      }
-    ]
-  }
+{
+  "expression": "pretty much",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "almost completely; more or less",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c01_u006",
+      "answer": "pretty much",
+      "options": [
+        "pretty much",
+        "very well",
+        "quite far",
+        "so long"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "calm down",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to stop feeling angry, excited, or nervous",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u012",
+      "answer": "calm down",
+      "options": [
+        "calm down",
+        "come along",
+        "give up",
+        "sit back"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "run into",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to meet someone by chance",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u017",
+      "answer": "ran into",
+      "options": [
+        "ran into",
+        "looked after",
+        "put away",
+        "gave up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "work out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to happen or develop successfully",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c11_u015",
+      "answer": "works out",
+      "options": [
+        "works out",
+        "gets by",
+        "turns up",
+        "holds on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "speaking of",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce something related to what was just mentioned",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c02_u006",
+      "answer": "Speaking of",
+      "options": [
+        "Speaking of",
+        "Talking to",
+        "Thinking about",
+        "Looking at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "catch up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to reach someone who is ahead of you; to meet and talk later",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c02_u010",
+      "answer": "catch up with",
+      "options": [
+        "catch up with",
+        "get along with",
+        "look out for",
+        "run out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fit into",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to have a place or role in a situation or group",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u047",
+      "answer": "fit into",
+      "options": [
+        "fit into",
+        "set up",
+        "give away",
+        "turn down"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be up to someone",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "to be someone's decision or responsibility",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u048",
+      "answer": "up to",
+      "options": [
+        "up to",
+        "out of",
+        "in for",
+        "on about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bring up",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to start talking about a subject",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u015",
+      "answer": "bringing up",
+      "options": [
+        "bringing up",
+        "putting off",
+        "taking down",
+        "giving in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what's that supposed to mean",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said when you are annoyed or suspicious about what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u020",
+      "answer": "supposed to",
+      "options": [
+        "supposed to",
+        "meant for",
+        "about to",
+        "likely to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "here's the deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce an explanation of the situation",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u029",
+      "answer": "here's the deal",
+      "options": [
+        "here's the deal",
+        "there's the catch",
+        "that's the point",
+        "what's the story"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dump",
+  "type": "word",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c07_u012",
+      "answer": "dumped",
+      "options": [
+        "dumped",
+        "damped",
+        "dimmed",
+        "dented"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be stuck",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "unable to leave or move from a place or situation",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c06_u001",
+      "answer": "stuck",
+      "options": [
+        "stuck",
+        "struck",
+        "stacked",
+        "stopped"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "word of advice",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used before giving someone a short piece of advice",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c01_u009",
+      "answer": "word of advice",
+      "options": [
+        "word of advice",
+        "peace of mind",
+        "point of view",
+        "matter of fact"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be through with",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to have finished using or doing something",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u003",
+      "answer": "through with",
+      "options": [
+        "through with",
+        "up against",
+        "down for",
+        "in on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "as far as someone is concerned",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "in someone's opinion",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u013",
+      "answer": "concerned",
+      "options": [
+        "concerned",
+        "considered",
+        "connected",
+        "convinced"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have a thing for",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be romantically attracted to someone",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u005",
+      "answer": "had a thing for",
+      "responseUid": null,
+      "options": [
+        "had a thing for",
+        "made a point of",
+        "took a stand on",
+        "set a price on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "chances are",
+  "type": "phrase",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "it is likely that",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c05_u025",
+      "answer": "Chances are",
+      "options": [
+        "Chances are",
+        "Odds say",
+        "Luck is",
+        "Bets go"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "wind up",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to end up in a situation, usually without intending to",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c10_u016",
+      "answer": "wind up",
+      "options": [
+        "wind up",
+        "set off",
+        "hold back",
+        "pull over"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "dread",
+  "type": "word",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to feel very worried about something that is going to happen",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u023",
+      "answer": "dreading",
+      "options": [
+        "dreading",
+        "drafting",
+        "drifting",
+        "draining"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "paranoid",
+  "type": "word",
+  "level": "high",
+  "pos": "adjective",
+  "meaning": "unreasonably suspicious and afraid that others want to harm you",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c02_u019",
+      "answer": "paranoid",
+      "options": [
+        "paranoid",
+        "parallel",
+        "paralyzed",
+        "paramount"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put in perspective",
+  "type": "phrase",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to make something seem less serious by comparing it with something bigger",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u046",
+      "answer": "in perspective",
+      "options": [
+        "in perspective",
+        "at random",
+        "on purpose",
+        "by heart"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "take the heat off",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to reduce the pressure or criticism directed at someone",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u015",
+      "answer": "heat",
+      "options": [
+        "heat",
+        "fire",
+        "steam",
+        "smoke"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "anecdote",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a short, amusing story about a real person or event",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u028",
+      "answer": "anecdotes",
+      "options": [
+        "anecdotes",
+        "antidotes",
+        "analogies",
+        "anomalies"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "border on",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to be almost the same as something, usually something bad",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c10_u014",
+      "answer": "borders on",
+      "options": [
+        "borders on",
+        "leans to",
+        "heads for",
+        "falls in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "well up",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to start to have tears in your eyes",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c11_u009",
+      "answer": "welling up",
+      "options": [
+        "welling up",
+        "filling in",
+        "tearing down",
+        "drying out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "presumably",
+  "type": "word",
+  "level": "high",
+  "pos": "adverb",
+  "meaning": "used to say that something is probably true",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u051",
+      "answer": "presumably",
+      "options": [
+        "presumably",
+        "previously",
+        "precisely",
+        "primarily"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "roll with the punches",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to adapt to difficulties without being badly affected",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c08_u012",
+      "answer": "roll with the punches",
+      "options": [
+        "roll with the punches",
+        "run with the wolves",
+        "stick with the plan",
+        "play with the rules"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "orthodontist",
+  "type": "word",
+  "level": "expert",
+  "pos": "noun",
+  "meaning": "a dentist who specializes in straightening teeth",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c09_u017",
+      "answer": "orthodontist",
+      "options": [
+        "orthodontist",
+        "orthopedist",
+        "optometrist",
+        "obstetrician"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be up to",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be doing or planning (what are you up to = what are you doing)",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c09_u001",
+      "answer": "up to",
+      "options": [
+        "up to",
+        "in for",
+        "out of",
+        "on about"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "yeah, right",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said sarcastically to show that you do not believe what someone has just said",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c01_u002",
+      "answer": "Yeah, right",
+      "options": [
+        "Yeah, right",
+        "Good point",
+        "Fair enough",
+        "Well done"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "it's just that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to introduce the real reason or problem behind what you are saying",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c02_u001",
+      "answer": "it's just that",
+      "options": [
+        "it's just that",
+        "it's not like",
+        "it's a shame",
+        "it's high time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you never know",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to say that something unlikely could still happen or be true",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c02_u018",
+      "answer": "you never know",
+      "options": [
+        "you never know",
+        "you're welcome",
+        "you first",
+        "you're kidding"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how could I forget",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "used to say that you certainly remember something, often ironically because it was unpleasant",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c06_u005",
+      "answer": "How could I forget",
+      "options": [
+        "How could I forget",
+        "What could go wrong",
+        "Where have you been",
+        "When did that happen"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "no matter what",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "regardless of what happens or is true",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c03_u054",
+      "answer": "No matter what",
+      "options": [
+        "No matter what",
+        "Now and then",
+        "Just in case",
+        "All of a sudden"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "shoot for the stars",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to aim for very great success",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u025",
+      "answer": "shoot for the stars",
+      "options": [
+        "shoot for the stars",
+        "run for the hills",
+        "sleep on the couch",
+        "play it by ear"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have it all",
+  "type": "phrase",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to have a successful career, a family, and everything else one wants at the same time",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c04_u027",
+      "answer": "have it all",
+      "options": [
+        "have it all",
+        "call it off",
+        "give it up",
+        "make it up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "in a sec",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "adverb",
+  "meaning": "in a very short time; very soon",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c07_u010",
+      "answer": "in a sec",
+      "options": [
+        "in a sec",
+        "in a row",
+        "in a way",
+        "in a rush"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be a thing",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be in a romantic relationship with each other",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c09_u011",
+      "answer": "a thing",
+      "options": [
+        "a thing",
+        "a bit",
+        "a lot",
+        "a rule"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "thanks for sharing",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said ironically when someone has told you something you did not need or want to know",
+  "exchanges": [
+    {
+      "uid": "s01_e02_c10_u020",
+      "answer": "thanks for sharing",
+      "options": [
+        "thanks for sharing",
+        "see you later",
+        "nice try",
+        "happy birthday"
+      ]
+    }
+  ]
+}
 ]

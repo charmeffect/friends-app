@@ -101,7 +101,7 @@
 
 {
   "expression": "take it personally",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "middle",
   "pos": "verb",
   "meaning": "to feel hurt or offended by something as if it were aimed at you",
@@ -243,26 +243,6 @@
 },
 
 {
-  "expression": "make out with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss and touch someone in a sexual way",
-  "exchanges": [
-    {
-      "uid": "s02_e13_c01_u022",
-      "answer": "making out with",
-      "options": [
-        "making out with",
-        "getting along with",
-        "catching up with",
-        "keeping up with"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "get off the track",
   "type": "colloquial",
   "level": "high",
@@ -389,7 +369,7 @@
   "type": "colloquial",
   "level": "college",
   "pos": "verb",
-  "meaning": "to skip or ignore something you were supposed to do",
+  "meaning": "to cancel plans with someone or ignore them, often because you would rather do something else",
   "exchanges": [
     {
       "uid": "s02_e13_c02_u009",

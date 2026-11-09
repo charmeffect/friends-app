@@ -32,7 +32,7 @@
       "options": [
         "forget it",
         "watch it",
-        "hold it",
+        "make it",
         "beat it"
       ]
     }
@@ -65,7 +65,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "a large number of things",
+  "meaning": "a large amount or number of something",
   "exchanges": [
     {
       "uid": "s03_e20_c03_u009",

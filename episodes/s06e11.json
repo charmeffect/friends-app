@@ -497,7 +497,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "verb",
-  "meaning": "to make someone feel happier",
+  "meaning": "to become happier, or to make someone feel happier",
   "exchanges": [
     {
       "uid": "s06_e11_c13_u010",
@@ -667,7 +667,7 @@
         "You'd better",
         "You'd rather",
         "You used to",
-        "You ought"
+        "You never"
       ]
     }
   ]

@@ -32,8 +32,8 @@
       "answer": "never mind",
       "options": [
         "never mind",
-        "no matter",
-        "not now",
+        "not bad",
+        "no chance",
         "no doubt"
       ]
     }
@@ -626,7 +626,7 @@
 
 {
   "expression": "on some level",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "college",
   "pos": "expression",
   "meaning": "to some degree, often in a way you do not fully admit to yourself",

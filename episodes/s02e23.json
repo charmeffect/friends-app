@@ -169,7 +169,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s02_e23_c09_u028",
@@ -189,7 +189,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "said sarcastically to show that something is not important",
+  "meaning": "something important; also said sarcastically ('big deal!') to show that something does not matter",
   "exchanges": [
     {
       "uid": "s02_e23_c12_u009",
@@ -584,7 +584,7 @@
         "running that risk",
         "making that call",
         "taking that road",
-        "paying that price"
+        "keeping that secret"
       ]
     }
   ]
@@ -603,7 +603,7 @@
       "options": [
         "Whatever you do",
         "Whenever you can",
-        "Wherever you go",
+        "Whoever you are",
         "However you like"
       ]
     }

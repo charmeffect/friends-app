@@ -24,16 +24,16 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "verb",
-  "meaning": "to make someone feel happier",
+  "meaning": "to become happier, or to make someone feel happier",
   "exchanges": [
     {
       "uid": "s03_e01_c03_u005",
       "answer": "cheer up",
       "options": [
         "cheer up",
-        "calm down",
-        "give in",
-        "hold on"
+        "sign up",
+        "fall off",
+        "wear out"
       ]
     }
   ]
@@ -227,15 +227,15 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s03_e01_c14_u004",
       "answer": "freaking me out",
       "options": [
         "freaking me out",
-        "wearing me down",
-        "putting me off",
+        "cheering me up",
+        "filling me in",
         "letting me down"
       ]
     }

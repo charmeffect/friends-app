@@ -1,30 +1,10 @@
 [
 {
-  "expression": "make out with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss and touch someone in a sexual way",
-  "exchanges": [
-    {
-      "uid": "s07_e09_c02_u014",
-      "answer": "make out with",
-      "options": [
-        "make out with",
-        "fall out with",
-        "come up with",
-        "run out of"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "big deal",
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "said sarcastically to show that something is not important",
+  "meaning": "something important; also said sarcastically ('big deal!') to show that something does not matter",
   "exchanges": [
     {
       "uid": "s07_e09_c02_u015",

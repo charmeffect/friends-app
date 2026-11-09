@@ -251,7 +251,7 @@
       "answer": "hook up with",
       "options": [
         "hook up with",
-        "catch up with",
+        "put up with",
         "keep up with",
         "come up with"
       ]
@@ -538,9 +538,9 @@
   "exchanges": [
     {
       "uid": "s07_e16_c09_u007",
-      "answer": "runner up",
+      "answer": "runner-up",
       "options": [
-        "runner up",
+        "runner-up",
         "show-off",
         "pushover",
         "dropout"
@@ -671,7 +671,7 @@
 
 {
   "expression": "expecting company",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "high",
   "pos": "expression",
   "meaning": "waiting for a visitor or guest to arrive",

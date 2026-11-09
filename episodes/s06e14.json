@@ -1,25 +1,5 @@
 [
 {
-  "expression": "make out with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss and touch someone in a sexual way",
-  "exchanges": [
-    {
-      "uid": "s06_e14_c01_u014",
-      "answer": "made out with",
-      "options": [
-        "made out with",
-        "broke up with",
-        "caught up with",
-        "put up with"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "hit it off",
   "type": "colloquial",
   "level": "high",
@@ -64,7 +44,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s06_e14_c02_u020",
@@ -237,7 +217,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "verb",
-  "meaning": "to make someone feel happier",
+  "meaning": "to become happier, or to make someone feel happier",
   "exchanges": [
     {
       "uid": "s06_e14_c05_u006",
@@ -436,9 +416,9 @@
       "answer": "talk them into",
       "options": [
         "talk them into",
-        "keep them from",
-        "put them off",
-        "let them down"
+        "look them over",
+        "let them down",
+        "wear them out"
       ]
     }
   ]
@@ -679,8 +659,8 @@
       "options": [
         "bizarre",
         "boring",
-        "typical",
-        "normal"
+        "polite",
+        "cozy"
       ]
     }
   ]
@@ -688,7 +668,7 @@
 
 {
   "expression": "hard to tell",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "middle",
   "pos": "expression",
   "meaning": "difficult to know or judge for certain",

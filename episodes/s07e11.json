@@ -244,7 +244,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to leave something at a place while you are on your way somewhere",
+  "meaning": "to take someone or something to a place and leave them there",
   "exchanges": [
     {
       "uid": "s07_e11_c04_u010",
@@ -489,9 +489,9 @@
   "exchanges": [
     {
       "uid": "s07_e11_c02_u004",
-      "answer": "Smartie Pants",
+      "answer": "Smarty-Pants",
       "options": [
-        "Smartie Pants",
+        "Smarty-Pants",
         "Party Animal",
         "Sleepy Head",
         "Lazy Bones"

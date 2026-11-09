@@ -54,7 +54,7 @@
         "Hang on",
         "Carry on",
         "Move on",
-        "Come on"
+        "Give up"
       ]
     }
   ]
@@ -274,8 +274,8 @@
       "options": [
         "passed out",
         "passed on",
-        "made out",
-        "stood out"
+        "stood out",
+        "signed up"
       ]
     }
   ]

@@ -125,7 +125,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to choose or remove something from a group",
+  "meaning": "to choose something carefully from a group",
   "exchanges": [
     {
       "uid": "s08_e24_c12_u038",
@@ -174,7 +174,7 @@
         "brought it up",
         "took it back",
         "gave it away",
-        "put it off"
+        "set it down"
       ]
     }
   ]

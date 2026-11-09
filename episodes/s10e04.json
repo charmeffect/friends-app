@@ -92,7 +92,7 @@
       "options": [
         "end up",
         "turn in",
-        "end off",
+        "give up",
         "come up"
       ]
     }
@@ -484,7 +484,7 @@
   "type": "colloquial",
   "level": "high",
   "pos": "expression",
-  "meaning": "to understand something that is suggested indirectly, such as that you are not wanted",
+  "meaning": "to understand something that someone has suggested indirectly instead of saying it directly",
   "exchanges": [
     {
       "uid": "s10_e04_c01_u004",

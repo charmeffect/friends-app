@@ -144,7 +144,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s09_e02_c10_u023",
@@ -673,11 +673,11 @@
 },
 
 {
-  "expression": "new at this",
+  "expression": "be new at",
   "type": "phrase",
   "level": "middle",
   "pos": "adjective",
-  "meaning": "having only recently started doing something, so not yet experienced at it",
+  "meaning": "to have little experience of doing something",
   "exchanges": [
     {
       "uid": "s09_e02_c11_u010",

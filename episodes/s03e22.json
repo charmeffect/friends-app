@@ -145,7 +145,7 @@
 
 {
   "expression": "dump",
-  "type": "colloquial",
+  "type": "word",
   "level": "middle",
   "pos": "verb",
   "meaning": "to end a romantic relationship with someone",
@@ -584,7 +584,7 @@
 {
   "expression": "I'm good",
   "type": "colloquial",
-  "level": "elementary",
+  "level": "middle",
   "pos": "expression",
   "meaning": "used to politely refuse an offer, meaning you do not need or want anything",
   "exchanges": [

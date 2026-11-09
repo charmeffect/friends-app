@@ -589,9 +589,9 @@
       "answer": "Sorry I'm late",
       "options": [
         "Sorry I'm late",
-        "Glad I'm early",
-        "Sorry I'm early",
-        "Good I'm here"
+        "Sorry I'm full",
+        "Sorry I'm lost",
+        "Sorry I'm done"
       ]
     },
     {
@@ -599,9 +599,9 @@
       "answer": "Sorry I'm late",
       "options": [
         "Sorry I'm late",
-        "Glad I'm early",
-        "Sorry I'm early",
-        "Good I'm here"
+        "Sorry I'm full",
+        "Sorry I'm lost",
+        "Sorry I'm done"
       ]
     }
   ]
@@ -616,9 +616,9 @@
   "exchanges": [
     {
       "uid": "s05_e09_c08_u010",
-      "answer": "goodie-goodie",
+      "answer": "goody-goody",
       "options": [
-        "goodie-goodie",
+        "goody-goody",
         "couch potato",
         "party animal",
         "night owl"

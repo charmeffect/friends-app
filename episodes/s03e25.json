@@ -174,9 +174,9 @@
       "answer": "get back together",
       "options": [
         "get back together",
-        "break it off",
-        "hang out tonight",
-        "call it even"
+        "run back inside",
+        "go down together",
+        "come back around"
       ]
     },
     {
@@ -549,7 +549,7 @@
 {
   "expression": "I'm good",
   "type": "colloquial",
-  "level": "elementary",
+  "level": "middle",
   "pos": "expression",
   "meaning": "used to politely refuse an offer, meaning you do not need or want anything",
   "exchanges": [

@@ -300,26 +300,6 @@
 },
 
 {
-  "expression": "make out with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss and touch someone in a sexual way",
-  "exchanges": [
-    {
-      "uid": "s07_e01_c10_u052",
-      "answer": "made out with",
-      "options": [
-        "made out with",
-        "run out of",
-        "come up with",
-        "given up on"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "dignity",
   "type": "word",
   "level": "high",
@@ -422,7 +402,7 @@
 
 {
   "expression": "pass for",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "high",
   "pos": "verb",
   "meaning": "to be accepted as something you are not, such as a different age",
@@ -453,7 +433,7 @@
       "answer": "afraid",
       "options": [
         "afraid",
-        "proud",
+        "jealous",
         "capable",
         "ignorant"
       ]

@@ -232,7 +232,7 @@
       "options": [
         "no big deal",
         "no laughing matter",
-        "no fair",
+        "no easy task",
         "no wonder"
       ]
     }
@@ -530,10 +530,10 @@
   "exchanges": [
     {
       "uid": "s09_e09_c03_u006",
-      "answer": "eye-contact",
+      "answer": "eye contact",
       "responseUid": "s09_e09_c03_u009",
       "options": [
-        "eye-contact",
+        "eye contact",
         "check-up",
         "cook-out",
         "tune-up"

@@ -4,7 +4,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "verb",
-  "meaning": "to make someone feel happier",
+  "meaning": "to become happier, or to make someone feel happier",
   "exchanges": [
     {
       "uid": "s08_e15_c03_u002",
@@ -162,7 +162,7 @@
 
 {
   "expression": "dump",
-  "type": "colloquial",
+  "type": "word",
   "level": "middle",
   "pos": "verb",
   "meaning": "to end a romantic relationship with someone",
@@ -185,7 +185,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s08_e15_c11_u024",

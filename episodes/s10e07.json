@@ -64,7 +64,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s10_e07_c04_u024",
@@ -655,11 +655,11 @@
   "exchanges": [
     {
       "uid": "s10_e07_c06_u013",
-      "answer": "dare-devil",
+      "answer": "daredevil",
       "options": [
-        "dare-devil",
-        "copy-cat",
-        "busy-body",
+        "daredevil",
+        "copycat",
+        "busybody",
         "couch potato"
       ]
     }

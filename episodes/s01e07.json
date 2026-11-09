@@ -24,7 +24,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "a large number of things",
+  "meaning": "a large amount or number of something",
   "exchanges": [
     {
       "uid": "s01_e07_c05_u004",
@@ -44,7 +44,7 @@
   "type": "colloquial",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "said to encourage or praise someone when they finally do something right",
+  "meaning": "said when someone has done the right thing, or to show that something proves or explains a point",
   "exchanges": [
     {
       "uid": "s01_e07_c06_u003",
@@ -555,7 +555,7 @@
         "You'd better",
         "You'd rather",
         "You used to",
-        "You ought"
+        "You never"
       ]
     }
   ]

@@ -24,7 +24,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "verb",
-  "meaning": "to make someone feel happier",
+  "meaning": "to become happier, or to make someone feel happier",
   "exchanges": [
     {
       "uid": "s04_e17_c03_u009",
@@ -124,7 +124,7 @@
       "options": [
         "brought it up",
         "took it off",
-        "gave it in",
+        "gave it away",
         "set it down"
       ]
     }

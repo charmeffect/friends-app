@@ -584,12 +584,12 @@
   "exchanges": [
     {
       "uid": "s05_e20_c11_u007",
-      "answer": "near death experience",
+      "answer": "near-death experience",
       "options": [
-        "near death experience",
-        "long distance relationship",
-        "full body workout",
-        "last minute decision"
+        "near-death experience",
+        "long-distance relationship",
+        "full-body workout",
+        "last-minute decision"
       ]
     }
   ]

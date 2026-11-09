@@ -44,7 +44,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to choose or remove something from a group",
+  "meaning": "to choose something carefully from a group",
   "exchanges": [
     {
       "uid": "s06_e23_c01_u002",
@@ -640,9 +640,9 @@
   "exchanges": [
     {
       "uid": "s06_e23_c15_u015",
-      "answer": "cry baby",
+      "answer": "crybaby",
       "options": [
-        "cry baby",
+        "crybaby",
         "party animal",
         "night owl",
         "couch potato"

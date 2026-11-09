@@ -286,7 +286,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s06_e22_c05_u010",
@@ -294,8 +294,8 @@
       "options": [
         "freaked me out",
         "cheered me up",
-        "let me down",
-        "wore me out"
+        "showed me off",
+        "turned me down"
       ]
     },
     {
@@ -336,7 +336,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "said sarcastically to show that something is not important",
+  "meaning": "something important; also said sarcastically ('big deal!') to show that something does not matter",
   "exchanges": [
     {
       "uid": "s06_e22_c05_u011",

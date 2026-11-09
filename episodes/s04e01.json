@@ -137,7 +137,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s04_e01_c10_u032",
@@ -145,7 +145,7 @@
       "responseUid": null,
       "options": [
         "freak you out",
-        "back you off",
+        "cheer you up",
         "show you up",
         "calm you down"
       ]
@@ -156,7 +156,7 @@
       "responseUid": null,
       "options": [
         "freak me out",
-        "back me off",
+        "cheer me up",
         "show me up",
         "calm me down"
       ]

@@ -413,36 +413,6 @@
 },
 
 {
-  "expression": "make out with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss and touch someone in a sexual way",
-  "exchanges": [
-    {
-      "uid": "s07_e20_c07_u009",
-      "answer": "made out",
-      "options": [
-        "made out",
-        "broke down",
-        "went off",
-        "checked in"
-      ]
-    },
-    {
-      "uid": "s07_e20_c07_u013",
-      "answer": "made out",
-      "options": [
-        "made out",
-        "broke down",
-        "went off",
-        "checked in"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "warm up",
   "type": "phrase",
   "level": "high",
@@ -547,16 +517,16 @@
   "type": "word",
   "level": "high",
   "pos": "adjective",
-  "meaning": "very strange or unnatural, in a way that seems abnormal",
+  "meaning": "in a very strange or unnatural way; abnormally",
   "exchanges": [
     {
       "uid": "s07_e20_c05_u003",
-      "answer": "freakish",
+      "answer": "freakishly",
       "options": [
-        "freakish",
-        "generous",
-        "punctual",
-        "obedient"
+        "freakishly",
+        "generously",
+        "punctually",
+        "obediently"
       ]
     }
   ]

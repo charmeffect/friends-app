@@ -225,7 +225,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s10_e08_c04_u003",
@@ -569,9 +569,9 @@
   "exchanges": [
     {
       "uid": "s10_e08_c08_u083",
-      "answer": "for Pete's sakes",
+      "answer": "for Pete's sake",
       "options": [
-        "for Pete's sakes",
+        "for Pete's sake",
         "for the record",
         "for a change",
         "for good measure"

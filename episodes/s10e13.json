@@ -1,10 +1,10 @@
 [
 {
-  "expression": "on my own",
+  "expression": "on your own",
   "type": "phrase",
   "level": "elementary",
-  "pos": "expression",
-  "meaning": "alone, without help from anyone else",
+  "pos": "adverb",
+  "meaning": "without help from anyone else",
   "exchanges": [
     {
       "uid": "s10_e13_c02_u030",

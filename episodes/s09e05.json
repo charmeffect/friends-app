@@ -549,12 +549,12 @@
   "exchanges": [
     {
       "uid": "s09_e05_c06_u003",
-      "answer": "will power",
+      "answer": "willpower",
       "options": [
-        "will power",
-        "horse power",
-        "man power",
-        "fire power"
+        "willpower",
+        "horsepower",
+        "manpower",
+        "firepower"
       ],
       "responseUid": null
     }

@@ -456,7 +456,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s07_e18_c12_u004",
@@ -657,9 +657,9 @@
       "answer": "Absolutely",
       "options": [
         "Absolutely",
-        "Hardly",
-        "Rarely",
-        "Barely"
+        "Previously",
+        "Gradually",
+        "Recently"
       ]
     }
   ]

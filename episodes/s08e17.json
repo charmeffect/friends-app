@@ -471,7 +471,7 @@
 
 {
   "expression": "meant to be",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "high",
   "pos": "expression",
   "meaning": "destined to happen, especially said of a relationship",
@@ -511,7 +511,7 @@
       "answer": "good terms",
       "options": [
         "good terms",
-        "short notice",
+        "long hours",
         "high hopes",
         "fair prices"
       ]
@@ -662,7 +662,7 @@
 {
   "expression": "imply",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "verb",
   "meaning": "to suggest that something is true without saying it directly",
   "exchanges": [

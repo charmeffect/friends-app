@@ -31,7 +31,7 @@
       "answer": "picking up",
       "options": [
         "picking up",
-        "giving up",
+        "looking up",
         "throwing up",
         "making up"
       ]
@@ -125,7 +125,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s10_e10_c05_u074",
@@ -574,8 +574,8 @@
       "options": [
         "hypothetical",
         "historical",
-        "hysterical",
-        "hereditary"
+        "hereditary",
+        "horizontal"
       ]
     }
   ]
@@ -593,9 +593,9 @@
       "answer": "something to do with",
       "options": [
         "something to do with",
-        "nothing to do with",
-        "something to say about",
-        "nothing in common with"
+        "something to look at",
+        "something to live for",
+        "something to talk about"
       ]
     }
   ]

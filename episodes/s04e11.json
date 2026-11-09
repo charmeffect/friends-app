@@ -64,7 +64,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "said sarcastically to show that something is not important",
+  "meaning": "something important; also said sarcastically ('big deal!') to show that something does not matter",
   "exchanges": [
     {
       "uid": "s04_e11_c03_u023",
@@ -155,9 +155,9 @@
       "cueUid": "s04_e11_c09_u007",
       "options": [
         "hang in there",
-        "get out there",
         "look over there",
-        "stay up there"
+        "stay up there",
+        "sit down there"
       ]
     }
   ]
@@ -585,11 +585,11 @@
 },
 
 {
-  "expression": "the next level",
+  "expression": "take something to the next level",
   "type": "phrase",
-  "level": "middle",
-  "pos": "noun",
-  "meaning": "a more advanced or more serious stage of something, such as a relationship",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to develop something, such as a relationship, to a more advanced or serious stage",
   "exchanges": [
     {
       "uid": "s04_e11_c03_u011",

@@ -620,12 +620,12 @@
   "exchanges": [
     {
       "uid": "s02_e22_c05_u035",
-      "answer": "sneakin off",
+      "answer": "sneakin' off",
       "options": [
-        "sneakin off",
-        "showin off",
-        "dozin off",
-        "cuttin off"
+        "sneakin' off",
+        "showin' off",
+        "dozin' off",
+        "cuttin' off"
       ]
     }
   ]

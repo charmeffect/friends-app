@@ -512,12 +512,12 @@
   "exchanges": [
     {
       "uid": "s06_e07_c05_u003",
-      "answer": "Gotcha",
+      "answer": "gotcha",
       "options": [
-        "Gotcha",
-        "Gotta",
-        "Lemme",
-        "Dunno"
+        "gotcha",
+        "gotta",
+        "lemme",
+        "dunno"
       ]
     }
   ]

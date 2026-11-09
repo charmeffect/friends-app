@@ -107,7 +107,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to leave something at a place while you are on your way somewhere",
+  "meaning": "to take someone or something to a place and leave them there",
   "exchanges": [
     {
       "uid": "s04_e05_c12_u002",
@@ -115,7 +115,7 @@
       "responseUid": "s04_e05_c12_u004",
       "options": [
         "dropped me off",
-        "let me down",
+        "mixed me up",
         "turned me in",
         "called me back"
       ]
@@ -577,7 +577,7 @@
 
 {
   "expression": "the least you can do",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "high",
   "pos": "expression",
   "meaning": "the minimum effort that someone should make in a situation",

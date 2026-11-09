@@ -208,7 +208,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "expression",
-  "meaning": "do what I do and copy my movements",
+  "meaning": "do what I do and go along with how I handle the situation",
   "exchanges": [
     {
       "uid": "s04_e04_c10_u003",
@@ -532,7 +532,7 @@
 {
   "expression": "I'm good",
   "type": "colloquial",
-  "level": "elementary",
+  "level": "middle",
   "pos": "expression",
   "meaning": "no, thank you; used to politely refuse an offer",
   "exchanges": [
@@ -663,7 +663,7 @@
       "options": [
         "for free",
         "for sure",
-        "for real",
+        "by heart",
         "for good"
       ]
     }

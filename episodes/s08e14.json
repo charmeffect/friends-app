@@ -643,11 +643,11 @@
 },
 
 {
-  "expression": "on my own",
+  "expression": "on your own",
   "type": "phrase",
   "level": "elementary",
-  "pos": "expression",
-  "meaning": "alone, without help from anyone else",
+  "pos": "adverb",
+  "meaning": "without help from anyone else",
   "exchanges": [
     {
       "uid": "s08_e14_c12_u007",

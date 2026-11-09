@@ -166,7 +166,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to choose or remove something from a group",
+  "meaning": "to choose something carefully from a group",
   "exchanges": [
     {
       "uid": "s09_e16_c04_u023",
@@ -253,7 +253,7 @@
       "answer": "changing your mind",
       "options": [
         "changing your mind",
-        "speaking your mind",
+        "brushing your teeth",
         "making your bed",
         "doing your job"
       ]
@@ -622,12 +622,12 @@
   "exchanges": [
     {
       "uid": "s09_e16_c07_u015",
-      "answer": "It's not about you",
+      "answer": "it's not about you",
       "options": [
-        "It's not about you",
-        "It's your big day",
-        "It's a done deal",
-        "It's on the house"
+        "it's not about you",
+        "it's your big day",
+        "it's a done deal",
+        "it's on the house"
       ],
       "cueUid": "s09_e16_c07_u014"
     }

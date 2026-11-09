@@ -51,9 +51,9 @@
       "answer": "give me a hand",
       "options": [
         "give me a hand",
-        "give me a foot",
-        "get me a hand",
-        "show me a hand"
+        "show me a sign",
+        "cut me a deal",
+        "pay me a visit"
       ]
     }
   ]
@@ -184,7 +184,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s07_e08_c07_u037",
@@ -193,7 +193,7 @@
         "freaked him out",
         "cheered him up",
         "calmed him down",
-        "backed him off"
+        "woke him up"
       ]
     }
   ]

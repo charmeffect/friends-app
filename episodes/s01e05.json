@@ -95,7 +95,7 @@
 
 {
   "expression": "dump",
-  "type": "colloquial",
+  "type": "word",
   "level": "middle",
   "pos": "verb",
   "meaning": "to end a romantic relationship with someone suddenly",
@@ -105,9 +105,9 @@
       "answer": "dumped",
       "options": [
         "dumped",
-        "bumped",
-        "pumped",
-        "jumped"
+        "hired",
+        "taught",
+        "coached"
       ]
     }
   ]
@@ -188,7 +188,7 @@
   "type": "colloquial",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "said to show that someone has finally got it right or done the sensible thing",
+  "meaning": "said when someone has done the right thing, or to show that something proves or explains a point",
   "exchanges": [
     {
       "uid": "s01_e05_c04_u012",
@@ -445,7 +445,7 @@
   "type": "word",
   "level": "high",
   "pos": "adjective",
-  "meaning": "having a lot of experience of the world and knowledge of culture and style",
+  "meaning": "having a lot of experience of the world and knowledge of culture and good taste; refined",
   "exchanges": [
     {
       "uid": "s01_e05_c02_u048",
@@ -475,7 +475,7 @@
   "type": "colloquial",
   "level": "college",
   "pos": "verb",
-  "meaning": "to skip or ignore something you were supposed to do",
+  "meaning": "to cancel plans with someone or ignore them, often because you would rather do something else",
   "exchanges": [
     {
       "uid": "s01_e05_c06_u011",
@@ -604,9 +604,9 @@
       "answer": "it's just that",
       "options": [
         "it's just that",
-        "it's not like",
-        "it's no wonder",
-        "it's just as"
+        "it's high time",
+        "it's about time",
+        "it's no wonder"
       ]
     }
   ]

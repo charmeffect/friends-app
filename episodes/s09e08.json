@@ -72,7 +72,7 @@
       "options": [
         "crush on",
         "claim on",
-        "hold on",
+        "bet on",
         "lock on"
       ]
     }
@@ -205,7 +205,7 @@
   "type": "colloquial",
   "level": "high",
   "pos": "expression",
-  "meaning": "to understand something that is suggested indirectly, such as that you are not wanted",
+  "meaning": "to understand something that someone has suggested indirectly instead of saying it directly",
   "exchanges": [
     {
       "uid": "s09_e08_c01_u004",

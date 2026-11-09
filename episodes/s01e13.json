@@ -168,7 +168,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s01_e13_c09_u013",
@@ -177,7 +177,7 @@
         "freaks you out",
         "shows you off",
         "calms you down",
-        "wears you out"
+        "lets you down"
       ]
     }
   ]
@@ -637,7 +637,7 @@
       "answer": "making things right",
       "options": [
         "making things right",
-        "making things up",
+        "making things worse",
         "making things fun",
         "taking things slow"
       ]

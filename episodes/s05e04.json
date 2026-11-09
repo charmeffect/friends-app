@@ -553,9 +553,9 @@
   "exchanges": [
     {
       "uid": "s05_e04_c07_u022",
-      "answer": "mix up",
+      "answer": "mix-up",
       "options": [
-        "mix up",
+        "mix-up",
         "pay cut",
         "bake sale",
         "heat wave"
@@ -687,7 +687,7 @@
 {
   "expression": "I got nothing",
   "type": "colloquial",
-  "level": "college",
+  "level": "high",
   "pos": "expression",
   "meaning": "said when you have no idea what to say or do to fix a situation",
   "exchanges": [

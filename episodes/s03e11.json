@@ -131,7 +131,7 @@
       "answer": "made up",
       "options": [
         "made up",
-        "made out",
+        "cut off",
         "put up",
         "gave in"
       ]
@@ -649,7 +649,7 @@
 },
 
 {
-  "expression": "out of one's mind",
+  "expression": "out of your mind",
   "type": "colloquial",
   "level": "middle",
   "pos": "adjective",

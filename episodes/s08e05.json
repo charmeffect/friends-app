@@ -345,7 +345,7 @@
 
 {
   "expression": "dump",
-  "type": "colloquial",
+  "type": "word",
   "level": "middle",
   "pos": "verb",
   "meaning": "to end a romantic relationship with someone",
@@ -638,8 +638,8 @@
       "options": [
         "no matter what",
         "no longer than",
-        "no sooner when",
-        "no reason why"
+        "now and then",
+        "just in case"
       ]
     }
   ]

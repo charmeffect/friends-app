@@ -173,7 +173,7 @@
       "cueUid": "s01_e16_c05_u020",
       "options": [
         "asked out",
-        "called up",
+        "gave up",
         "put down",
         "let in"
       ]
@@ -598,9 +598,9 @@
       "answer": "happen again",
       "options": [
         "happen again",
-        "take long",
-        "be easy",
-        "matter much"
+        "come cheap",
+        "stay open",
+        "sell well"
       ]
     }
   ]
@@ -618,9 +618,9 @@
       "answer": "been better",
       "options": [
         "been better",
-        "been fun",
-        "been great",
-        "been perfect"
+        "been stolen",
+        "been cooked",
+        "been closed"
       ]
     }
   ]

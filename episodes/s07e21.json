@@ -451,9 +451,9 @@
       "answer": "sense of humor",
       "options": [
         "sense of humor",
-        "sense of direction",
-        "peace of mind",
-        "point of view"
+        "sense of smell",
+        "cup of coffee",
+        "piece of cake"
       ]
     }
   ]
@@ -481,8 +481,8 @@
 
 {
   "expression": "kinda",
-  "type": "colloquial",
-  "level": "elementary",
+  "type": "word",
+  "level": "middle",
   "pos": "adverb",
   "meaning": "spoken short form of 'kind of': somewhat, a little",
   "exchanges": [

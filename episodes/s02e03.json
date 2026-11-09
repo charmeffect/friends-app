@@ -24,7 +24,7 @@
   "type": "colloquial",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "said to show that someone has finally got it right or done the sensible thing",
+  "meaning": "said when someone has done the right thing, or to show that something proves or explains a point",
   "exchanges": [
     {
       "uid": "s02_e03_c05_u007",
@@ -101,7 +101,7 @@
 
 {
   "expression": "dump",
-  "type": "colloquial",
+  "type": "word",
   "level": "middle",
   "pos": "verb",
   "meaning": "to end a romantic relationship with someone",
@@ -484,7 +484,7 @@
 
 {
   "expression": "if you will",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "college",
   "pos": "expression",
   "meaning": "said after an unusual or fanciful way of describing something, to acknowledge it is a bit of a stretch",
@@ -527,7 +527,7 @@
   "type": "colloquial",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "used to protest that something is unreasonable or to urge someone not to expect too much",
+  "meaning": "used to protest that something is unreasonable, to express disbelief, or to urge someone",
   "exchanges": [
     {
       "uid": "s02_e03_c01_u005",

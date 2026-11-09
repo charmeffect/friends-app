@@ -605,7 +605,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to refuse or reject someone, especially someone who asks you out",
+  "meaning": "to refuse an offer or request from someone",
   "exchanges": [
     {
       "uid": "s10_e15_c09_u002",
@@ -629,12 +629,12 @@
   "exchanges": [
     {
       "uid": "s10_e15_c09_u012",
-      "answer": "Believe me",
+      "answer": "believe me",
       "options": [
-        "Believe me",
-        "Excuse me",
-        "Forgive me",
-        "Remind me"
+        "believe me",
+        "excuse me",
+        "forgive me",
+        "remind me"
       ]
     }
   ]

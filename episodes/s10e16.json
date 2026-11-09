@@ -498,12 +498,12 @@
   "exchanges": [
     {
       "uid": "s10_e16_c01_u008",
-      "answer": "going away party",
+      "answer": "going-away party",
       "options": [
-        "going away party",
-        "coming out party",
-        "welcome home party",
-        "fancy dress party"
+        "going-away party",
+        "coming-out party",
+        "welcome-home party",
+        "fancy-dress party"
       ]
     }
   ]
@@ -522,7 +522,7 @@
       "options": [
         "catching a movie",
         "catching a cold",
-        "catching a break",
+        "catching a fish",
         "catching a wave"
       ]
     }

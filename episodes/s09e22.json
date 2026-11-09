@@ -65,7 +65,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to choose or remove something from a group",
+  "meaning": "to choose something carefully from a group",
   "exchanges": [
     {
       "uid": "s09_e22_c01_u007",
@@ -203,7 +203,7 @@
       "options": [
         "up for",
         "in for",
-        "down for",
+        "off to",
         "out for"
       ]
     }
@@ -243,8 +243,8 @@
       "options": [
         "Step up",
         "Back off",
-        "Calm down",
-        "Sit down"
+        "Run off",
+        "Show off"
       ]
     }
   ]
@@ -572,9 +572,9 @@
       "answer": "keep this between us",
       "options": [
         "keep this between us",
-        "talk about this later",
-        "put this on hold",
-        "take this outside"
+        "write this down",
+        "take this outside",
+        "put this on hold"
       ]
     }
   ]

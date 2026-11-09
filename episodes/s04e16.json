@@ -24,7 +24,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "a large number of things",
+  "meaning": "a large amount or number of something",
   "exchanges": [
     {
       "uid": "s04_e16_c06_u022",
@@ -611,7 +611,7 @@
         "give me a call",
         "give me a hand",
         "give me a break",
-        "give me a ride"
+        "give me a raise"
       ]
     }
   ]
@@ -666,12 +666,12 @@
   "exchanges": [
     {
       "uid": "s04_e16_c05_u002",
-      "answer": "cold blooded",
+      "answer": "cold-blooded",
       "options": [
-        "cold blooded",
-        "half hearted",
-        "open minded",
-        "light headed"
+        "cold-blooded",
+        "half-hearted",
+        "open-minded",
+        "light-headed"
       ]
     }
   ]

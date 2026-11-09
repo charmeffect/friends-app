@@ -542,9 +542,9 @@
   "exchanges": [
     {
       "uid": "s05_e07_c07_u017",
-      "answer": "driver seat",
+      "answer": "driver's seat",
       "options": [
-        "driver seat",
+        "driver's seat",
         "window seat",
         "aisle seat",
         "car seat"

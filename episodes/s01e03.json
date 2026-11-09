@@ -1,793 +1,833 @@
 [
-  {
-    "expression": "be good at",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "to be able to do something well",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c03_u005",
-        "answer": "good at",
-        "options": [
-          "good at",
-          "well in",
-          "fine for",
-          "nice to"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "deal with",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to take action to solve a problem or handle a person",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c03_u016",
-        "answer": "deal with",
-        "options": [
-          "deal with",
-          "play for",
-          "stand by",
-          "look at"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "hold on",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "wait a moment",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c03_u032",
-        "answer": "Hold on",
-        "options": [
-          "Hold on",
-          "Keep on",
-          "Hold off",
-          "Carry on"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "figure out",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to understand or solve something after thinking about it",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c03_u045",
-        "answer": "figure that out",
-        "options": [
-          "figure that out",
-          "make that up",
-          "work that off",
-          "get that in"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "let it go",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "to stop worrying or talking about something",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c05_u001",
-        "answer": "Let it go",
-        "options": [
-          "Let it go",
-          "Take it in",
-          "Put it on",
-          "Set it off"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "keep the change",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "said when paying, to let the other person keep the extra money",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c08_u001",
-        "answer": "Keep the change",
-        "options": [
-          "Keep the change",
-          "Hold the coins",
-          "Save the rest",
-          "Take the bill"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "unbelievable",
-    "type": "word",
-    "level": "middle",
-    "pos": "adjective",
-    "meaning": "extremely surprising or impressive",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c01_u017",
-        "answer": "unbelievable",
-        "options": [
-          "unbelievable",
-          "unreasonable",
-          "unbearable",
-          "unavailable"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "ridiculous",
-    "type": "word",
-    "level": "middle",
-    "pos": "adjective",
-    "meaning": "very silly or unreasonable",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c03_u003",
-        "answer": "ridiculous",
-        "options": [
-          "ridiculous",
-          "religious",
-          "rigorous",
-          "righteous"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "put out",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to make a cigarette or fire stop burning",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c03_u034",
-        "answer": "Put it out",
-        "responseUid": null,
-        "options": [
-          "Put it out",
-          "Take it off",
-          "Turn it up",
-          "Give it in"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "pick out",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to choose or remove something from a group",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c07_u004",
-        "answer": "pick out",
-        "options": [
-          "pick out",
-          "put off",
-          "take back",
-          "set up"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "cut it out",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "stop doing that (said when someone is being annoying)",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c09_u009",
-        "answer": "Cut it out",
-        "options": [
-          "Cut it out",
-          "Put it up",
-          "Take it on",
-          "Set it in"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "big deal",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "said sarcastically to show that something is not important",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c09_u013",
-        "answer": "Big deal",
-        "options": [
-          "Big deal",
-          "Fat chance",
-          "Long shot",
-          "High five"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "get over",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to recover from something unpleasant, such as a breakup",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c10_u008",
-        "answer": "get over",
-        "options": [
-          "get over",
-          "put up",
-          "take after",
-          "show off"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "now and then",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "adverb",
-    "meaning": "occasionally; sometimes but not often",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c11_u005",
-        "answer": "now and then",
-        "options": [
-          "now and then",
-          "up and down",
-          "back and forth",
-          "in and out"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "break up with",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to end a romantic relationship with someone",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c12_u026",
-        "answer": "break up with",
-        "options": [
-          "break up with",
-          "make up for",
-          "get on with",
-          "run off with"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "can't stand",
-    "type": "phrase",
-    "level": "middle",
-    "pos": "verb",
-    "meaning": "to strongly dislike someone or something",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c13_u005",
-        "answer": "stand",
-        "options": [
-          "stand",
-          "sit",
-          "hold",
-          "lift"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "put to sleep",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "verb",
-    "meaning": "to kill an animal painlessly, usually because it is old or sick (euphemism)",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c01_u014",
-        "answer": "to sleep",
-        "options": [
-          "to sleep",
-          "to bed",
-          "to work",
-          "to shame"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "be all over someone",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "to give someone a lot of attention, often too much",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c04_u001",
-        "answer": "all over",
-        "options": [
-          "all over",
-          "right on",
-          "well off",
-          "far from"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "fair share",
-    "type": "phrase",
-    "level": "high",
-    "pos": "noun",
-    "meaning": "a reasonable or expected amount of something, often something bad",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c04_u002",
-        "answer": "fair share",
-        "options": [
-          "fair share",
-          "big deal",
-          "long run",
-          "high time"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "a thing or two",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "some useful knowledge or skill (show someone a thing or two = prove you are better)",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c06_u008",
-        "answer": "a thing or two",
-        "options": [
-          "a thing or two",
-          "a bit or so",
-          "a one or more",
-          "a piece or part"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "bottom line",
-    "type": "phrase",
-    "level": "high",
-    "pos": "noun",
-    "meaning": "the most important fact or conclusion",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c11_u003",
-        "answer": "bottom line",
-        "options": [
-          "bottom line",
-          "top end",
-          "back row",
-          "front page"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "what is up with",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "what is wrong with; why is (something) behaving strangely",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c12_u014",
-        "answer": "up with",
-        "options": [
-          "up with",
-          "down on",
-          "in for",
-          "out of"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "relieved",
-    "type": "word",
-    "level": "middle",
-    "pos": "adjective",
-    "meaning": "feeling happy because a worry has gone away",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c13_u003",
-        "answer": "relieved",
-        "responseUid": null,
-        "options": [
-          "relieved",
-          "released",
-          "relied",
-          "revealed"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "the odds",
-    "type": "word",
-    "level": "high",
-    "pos": "noun",
-    "meaning": "the probability that something will happen",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c04_u004",
-        "answer": "odds",
-        "options": [
-          "odds",
-          "ends",
-          "bets",
-          "ties"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "call attention to",
-    "type": "phrase",
-    "level": "college",
-    "pos": "verb",
-    "meaning": "to make people notice something",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c05_u011",
-        "answer": "calling attention to",
-        "options": [
-          "calling attention to",
-          "paying respect to",
-          "making sense of",
-          "taking care of"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "innate",
-    "type": "word",
-    "level": "college",
-    "pos": "adjective",
-    "meaning": "existing naturally in a person from birth; not learned",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c06_u013",
-        "answer": "innate",
-        "options": [
-          "innate",
-          "inmate",
-          "intact",
-          "inane"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "endearing",
-    "type": "word",
-    "level": "college",
-    "pos": "adjective",
-    "meaning": "making people like you; charming",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c09_u019",
-        "answer": "endearing",
-        "options": [
-          "endearing",
-          "enduring",
-          "endangering",
-          "entering"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "have had it with",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "to be so annoyed with someone or something that you cannot tolerate it any more",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c11_u003",
-        "answer": "had it with",
-        "options": [
-          "had it with",
-          "made it for",
-          "got it from",
-          "done it to"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "let your guard down",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "to relax and stop protecting yourself from being hurt",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c12_u032",
-        "answer": "let your guard down",
-        "options": [
-          "let your guard down",
-          "put your foot down",
-          "get your hopes up",
-          "keep your chin up"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "cushion the blow",
-    "type": "colloquial",
-    "level": "college",
-    "pos": "expression",
-    "meaning": "to make bad news or a disappointment easier to accept",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c01_u013",
-        "answer": "Cushions the blow",
-        "options": [
-          "Cushions the blow",
-          "Pillows the hit",
-          "Softens the kick",
-          "Pads the punch"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "yardstick",
-    "type": "word",
-    "level": "college",
-    "pos": "noun",
-    "meaning": "a standard used to judge or compare things",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c05_u040",
-        "answer": "yardstick",
-        "options": [
-          "yardstick",
-          "drumstick",
-          "lipstick",
-          "joystick"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "how did it go",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "used to ask someone whether an event or experience was successful",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c01_u003",
-        "answer": "how'd it go",
-        "options": [
-          "how'd it go",
-          "how'd you know",
-          "where'd he go",
-          "who'd you see"
-        ]
-      },
-      {
-        "uid": "s01_e03_c14_u005",
-        "answer": "how'd it go",
-        "options": [
-          "how'd it go",
-          "how'd you know",
-          "where'd he go",
-          "who'd you see"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "since when",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "used to ask, often with surprise or doubt, when something started being true",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c01_u008",
-        "answer": "Since when",
-        "options": [
-          "Since when",
-          "So what",
-          "Thank God",
-          "Good luck"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "keep going",
-    "type": "phrase",
-    "level": "elementary",
-    "pos": "verb",
-    "meaning": "to continue doing something without stopping",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c02_u004",
-        "answer": "keep going",
-        "options": [
-          "keep going",
-          "give up",
-          "break up",
-          "look out"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "not so much",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "a humorous, understated way of saying no",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c02_u025",
-        "answer": "not so much",
-        "options": [
-          "not so much",
-          "no wonder",
-          "not yet",
-          "no problem"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "we're even",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "neither person has an advantage over the other or owes the other anything",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c07_u017",
-        "answer": "we're even",
-        "options": [
-          "we're even",
-          "we're over",
-          "we're lost",
-          "we're late"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "I could live without it",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "expression",
-    "meaning": "used to say politely that you do not like something and would prefer not to have it",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c09_u016",
-        "answer": "live without",
-        "options": [
-          "live without",
-          "look after",
-          "carry on",
-          "put up"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "you know what",
-    "type": "colloquial",
-    "level": "elementary",
-    "pos": "expression",
-    "meaning": "used to get attention before saying something you have just decided or realized",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c10_u005",
-        "answer": "Y'know what",
-        "options": [
-          "Y'know what",
-          "Guess who",
-          "Says who",
-          "No way"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "big boy",
-    "type": "colloquial",
-    "level": "high",
-    "pos": "noun",
-    "meaning": "an adult man who can take care of himself and handle disappointment",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c10_u008",
-        "answer": "a big boy",
-        "options": [
-          "a big boy",
-          "a little kid",
-          "a lucky dog",
-          "a lost cause"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "there's no easy way to say this",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "expression",
-    "meaning": "said just before giving someone news that will upset them",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c12_u026",
-        "answer": "no easy way",
-        "options": [
-          "no easy way",
-          "no big deal",
-          "no other choice",
-          "no time left"
-        ]
-      }
-    ]
-  },
-  {
-    "expression": "just like that",
-    "type": "colloquial",
-    "level": "middle",
-    "pos": "adverb",
-    "meaning": "suddenly and without warning or explanation",
-    "exchanges": [
-      {
-        "uid": "s01_e03_c12_u031",
-        "answer": "Just like that",
-        "options": [
-          "Just like that",
-          "Just in time",
-          "Just for fun",
-          "Just in case"
-        ]
-      }
-    ]
-  }
+{
+  "expression": "be good at",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to be able to do something well",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c03_u005",
+      "answer": "good at",
+      "options": [
+        "good at",
+        "well in",
+        "fine for",
+        "nice to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "deal with",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to take action to solve a problem or handle a person",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c03_u016",
+      "answer": "deal with",
+      "options": [
+        "deal with",
+        "play for",
+        "stand by",
+        "look at"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "hold on",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "wait a moment",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c03_u032",
+      "answer": "Hold on",
+      "options": [
+        "Hold on",
+        "Keep on",
+        "Hold off",
+        "Carry on"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "figure out",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to understand or solve something after thinking about it",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c03_u045",
+      "answer": "figure that out",
+      "options": [
+        "figure that out",
+        "make that up",
+        "work that off",
+        "get that in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "to stop worrying or talking about something",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c05_u001",
+      "answer": "Let it go",
+      "options": [
+        "Let it go",
+        "Take it in",
+        "Put it on",
+        "Set it off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep the change",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "said when paying, to let the other person keep the extra money",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c08_u001",
+      "answer": "Keep the change",
+      "options": [
+        "Keep the change",
+        "Hold the coins",
+        "Save the rest",
+        "Take the bill"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "unbelievable",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "extremely surprising or impressive",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c01_u017",
+      "answer": "unbelievable",
+      "options": [
+        "unbelievable",
+        "unreasonable",
+        "unbearable",
+        "unavailable"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "ridiculous",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "very silly or unreasonable",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c03_u003",
+      "answer": "ridiculous",
+      "options": [
+        "ridiculous",
+        "religious",
+        "rigorous",
+        "righteous"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to make a cigarette or fire stop burning",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c03_u034",
+      "answer": "Put it out",
+      "responseUid": null,
+      "options": [
+        "Put it out",
+        "Take it off",
+        "Turn it up",
+        "Give it in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "pick out",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to choose something carefully from a group",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c07_u004",
+      "answer": "pick out",
+      "options": [
+        "pick out",
+        "put off",
+        "take back",
+        "set up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cut it out",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "stop doing that (said when someone is being annoying)",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c09_u009",
+      "answer": "Cut it out",
+      "options": [
+        "Cut it out",
+        "Put it up",
+        "Take it on",
+        "Set it in"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big deal",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "something important; also said sarcastically ('big deal!') to show that something does not matter",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c09_u013",
+      "answer": "Big deal",
+      "options": [
+        "Big deal",
+        "Fat chance",
+        "Long shot",
+        "High five"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "get over",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to recover from something unpleasant, such as a breakup",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c10_u008",
+      "answer": "get over",
+      "options": [
+        "get over",
+        "put up",
+        "take after",
+        "show off"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "now and then",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "occasionally; sometimes but not often",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c11_u005",
+      "answer": "now and then",
+      "options": [
+        "now and then",
+        "up and down",
+        "back and forth",
+        "in and out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "break up with",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to end a romantic relationship with someone",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c12_u026",
+      "answer": "break up with",
+      "options": [
+        "break up with",
+        "make up for",
+        "get on with",
+        "run off with"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "can't stand",
+  "type": "phrase",
+  "level": "middle",
+  "pos": "verb",
+  "meaning": "to strongly dislike someone or something",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c13_u005",
+      "answer": "stand",
+      "options": [
+        "stand",
+        "sit",
+        "hold",
+        "lift"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "put to sleep",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "verb",
+  "meaning": "to kill an animal painlessly, usually because it is old or sick (euphemism)",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c01_u014",
+      "answer": "to sleep",
+      "options": [
+        "to sleep",
+        "to bed",
+        "to work",
+        "to shame"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "be all over someone",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to touch or flirt with someone in an eager way that shows obvious romantic interest",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c04_u001",
+      "answer": "all over",
+      "options": [
+        "all over",
+        "right on",
+        "well off",
+        "far from"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "fair share",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "a reasonable or expected amount of something, often something bad",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c04_u002",
+      "answer": "fair share",
+      "options": [
+        "fair share",
+        "big deal",
+        "long run",
+        "high time"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "a thing or two",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "some useful knowledge or skill (show someone a thing or two = prove you are better)",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c06_u008",
+      "answer": "a thing or two",
+      "options": [
+        "a thing or two",
+        "a bit or so",
+        "a one or more",
+        "a piece or part"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "bottom line",
+  "type": "phrase",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the most important fact or conclusion",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c11_u003",
+      "answer": "bottom line",
+      "options": [
+        "bottom line",
+        "top end",
+        "back row",
+        "front page"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "what is up with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "what is wrong with; why is (something) behaving strangely",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c12_u014",
+      "answer": "up with",
+      "options": [
+        "up with",
+        "down on",
+        "in for",
+        "out of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "relieved",
+  "type": "word",
+  "level": "middle",
+  "pos": "adjective",
+  "meaning": "feeling happy because a worry has gone away",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c13_u003",
+      "answer": "relieved",
+      "responseUid": null,
+      "options": [
+        "relieved",
+        "released",
+        "relied",
+        "revealed"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "the odds",
+  "type": "word",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "the probability that something will happen",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c04_u004",
+      "answer": "odds",
+      "options": [
+        "odds",
+        "ends",
+        "bets",
+        "ties"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "call attention to",
+  "type": "phrase",
+  "level": "college",
+  "pos": "verb",
+  "meaning": "to make people notice something",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c05_u011",
+      "answer": "calling attention to",
+      "options": [
+        "calling attention to",
+        "paying respect to",
+        "making sense of",
+        "taking care of"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "innate",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "existing naturally in a person from birth; not learned",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c06_u013",
+      "answer": "innate",
+      "options": [
+        "innate",
+        "inmate",
+        "intact",
+        "inane"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "endearing",
+  "type": "word",
+  "level": "college",
+  "pos": "adjective",
+  "meaning": "making people like you; charming",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c09_u019",
+      "answer": "endearing",
+      "options": [
+        "endearing",
+        "enduring",
+        "endangering",
+        "entering"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "have had it with",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to be so annoyed with someone or something that you cannot tolerate it any more",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c11_u003",
+      "answer": "had it with",
+      "options": [
+        "had it with",
+        "made it for",
+        "got it from",
+        "done it to"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "let your guard down",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "to relax and stop protecting yourself from being hurt",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c12_u032",
+      "answer": "let your guard down",
+      "options": [
+        "let your guard down",
+        "put your foot down",
+        "get your hopes up",
+        "keep your chin up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "cushion the blow",
+  "type": "colloquial",
+  "level": "college",
+  "pos": "expression",
+  "meaning": "to make bad news or a disappointment easier to accept",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c01_u013",
+      "answer": "Cushions the blow",
+      "options": [
+        "Cushions the blow",
+        "Pillows the hit",
+        "Softens the kick",
+        "Pads the punch"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "yardstick",
+  "type": "word",
+  "level": "college",
+  "pos": "noun",
+  "meaning": "a standard used to judge or compare things",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c05_u040",
+      "answer": "yardstick",
+      "options": [
+        "yardstick",
+        "drumstick",
+        "lipstick",
+        "joystick"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "how did it go",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to ask someone whether an event or experience was successful",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c01_u003",
+      "answer": "how'd it go",
+      "options": [
+        "how'd it go",
+        "how'd you know",
+        "where'd he go",
+        "who'd you see"
+      ]
+    },
+    {
+      "uid": "s01_e03_c14_u005",
+      "answer": "how'd it go",
+      "options": [
+        "how'd it go",
+        "how'd you know",
+        "where'd he go",
+        "who'd you see"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "since when",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to ask, often with surprise or doubt, when something started being true",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c01_u008",
+      "answer": "Since when",
+      "options": [
+        "Since when",
+        "So what",
+        "Thank God",
+        "Good luck"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "keep going",
+  "type": "phrase",
+  "level": "elementary",
+  "pos": "verb",
+  "meaning": "to continue doing something without stopping",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c02_u004",
+      "answer": "keep going",
+      "options": [
+        "keep going",
+        "give up",
+        "break up",
+        "look out"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "not so much",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "a humorous, understated way of saying no",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c02_u025",
+      "answer": "not so much",
+      "options": [
+        "not so much",
+        "no wonder",
+        "no kidding",
+        "no problem"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "we're even",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "neither person has an advantage over the other or owes the other anything",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c07_u017",
+      "answer": "we're even",
+      "options": [
+        "we're even",
+        "we're over",
+        "we're lost",
+        "we're late"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "I could live without it",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "expression",
+  "meaning": "used to say politely that you do not like something and would prefer not to have it",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c09_u016",
+      "answer": "live without",
+      "options": [
+        "live without",
+        "look after",
+        "carry on",
+        "put up"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "you know what",
+  "type": "colloquial",
+  "level": "elementary",
+  "pos": "expression",
+  "meaning": "used to get attention before saying something you have just decided or realized",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c10_u005",
+      "answer": "Y'know what",
+      "options": [
+        "Y'know what",
+        "Guess who",
+        "Says who",
+        "No way"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "big boy",
+  "type": "colloquial",
+  "level": "high",
+  "pos": "noun",
+  "meaning": "an adult man who can take care of himself and handle disappointment",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c10_u008",
+      "answer": "a big boy",
+      "options": [
+        "a big boy",
+        "a little kid",
+        "a lucky dog",
+        "a lost cause"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "there's no easy way to say this",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "expression",
+  "meaning": "said just before giving someone news that will upset them",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c12_u026",
+      "answer": "no easy way",
+      "options": [
+        "no easy way",
+        "no big deal",
+        "no other choice",
+        "no time left"
+      ]
+    }
+  ]
+},
+
+{
+  "expression": "just like that",
+  "type": "colloquial",
+  "level": "middle",
+  "pos": "adverb",
+  "meaning": "suddenly and without warning or explanation",
+  "exchanges": [
+    {
+      "uid": "s01_e03_c12_u031",
+      "answer": "Just like that",
+      "options": [
+        "Just like that",
+        "Just in time",
+        "Just for fun",
+        "Just in case"
+      ]
+    }
+  ]
+}
 ]

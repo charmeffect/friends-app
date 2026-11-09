@@ -301,26 +301,6 @@
 },
 
 {
-  "expression": "make out with",
-  "type": "colloquial",
-  "level": "high",
-  "pos": "verb",
-  "meaning": "to kiss and touch someone in a sexual way",
-  "exchanges": [
-    {
-      "uid": "s01_e10_c06_u008",
-      "answer": "make out with",
-      "options": [
-        "make out with",
-        "put up with",
-        "get away with",
-        "come up with"
-      ]
-    }
-  ]
-},
-
-{
   "expression": "tear apart",
   "type": "colloquial",
   "level": "high",

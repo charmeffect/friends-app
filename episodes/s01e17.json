@@ -429,7 +429,7 @@
   "type": "colloquial",
   "level": "college",
   "pos": "verb",
-  "meaning": "to skip or ignore something you were supposed to do",
+  "meaning": "to cancel plans with someone or ignore them, often because you would rather do something else",
   "exchanges": [
     {
       "uid": "s01_e17_c04_u004",
@@ -608,8 +608,8 @@
       "answer": "it turns out",
       "options": [
         "it turns out",
-        "it comes out",
-        "it works out",
+        "it holds up",
+        "it wears off",
         "it gives out"
       ]
     }

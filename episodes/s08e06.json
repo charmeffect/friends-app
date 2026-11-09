@@ -173,7 +173,7 @@
       "options": [
         "crush",
         "grip",
-        "fix",
+        "fight",
         "bet"
       ]
     }
@@ -564,7 +564,7 @@
 {
   "expression": "impulsive",
   "type": "word",
-  "level": "college",
+  "level": "high",
   "pos": "adjective",
   "meaning": "acting suddenly without thinking carefully about what might happen",
   "exchanges": [

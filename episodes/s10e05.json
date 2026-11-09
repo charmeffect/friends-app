@@ -104,7 +104,7 @@
   "type": "phrase",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to leave something at a place while you are on your way somewhere",
+  "meaning": "to take someone or something to a place and leave them there",
   "exchanges": [
     {
       "uid": "s10_e05_c10_u012",
@@ -272,9 +272,9 @@
       "answer": "flip out",
       "options": [
         "flip out",
-        "show off",
         "drop by",
-        "back off"
+        "sign up",
+        "doze off"
       ]
     }
   ]
@@ -530,12 +530,12 @@
   "exchanges": [
     {
       "uid": "s10_e05_c04_u024",
-      "answer": "Mr Right",
+      "answer": "Mr. Right",
       "options": [
-        "Mr Right",
-        "Mr Wrong",
-        "Mr Bean",
-        "Mr Clean"
+        "Mr. Right",
+        "Mr. Wrong",
+        "Mr. Bean",
+        "Mr. Clean"
       ]
     }
   ]
@@ -614,8 +614,8 @@
       "options": [
         "That's not a thing",
         "That's not my fault",
-        "That's not fair",
-        "That's not my hat"
+        "That's not my hat",
+        "That's not my size"
       ]
     }
   ]

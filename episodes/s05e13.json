@@ -86,14 +86,14 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s05_e13_c08_u008",
       "answer": "freak him out",
       "options": [
         "freak him out",
-        "let him down",
+        "cheer him up",
         "turn him in",
         "show him up"
       ]
@@ -350,7 +350,7 @@
   "type": "word",
   "level": "high",
   "pos": "adjective",
-  "meaning": "having a lot of experience of the world and knowledge of culture and style",
+  "meaning": "having a lot of experience of the world and knowledge of culture and good taste; refined",
   "exchanges": [
     {
       "uid": "s05_e13_c02_u012",

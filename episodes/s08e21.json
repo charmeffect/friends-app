@@ -64,7 +64,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s08_e21_c02_u004",
@@ -557,9 +557,9 @@
       "answer": "feel good about yourself",
       "options": [
         "feel good about yourself",
-        "feel sorry for yourself",
         "keep it to yourself",
-        "be hard on yourself"
+        "clean up after yourself",
+        "make yourself at home"
       ]
     }
   ]

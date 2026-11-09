@@ -327,7 +327,7 @@
   "type": "colloquial",
   "level": "middle",
   "pos": "verb",
-  "meaning": "to become very anxious, upset, or panicked",
+  "meaning": "to become, or to make someone, very anxious, upset, or panicked",
   "exchanges": [
     {
       "uid": "s08_e08_c12_u006",
@@ -537,26 +537,6 @@
         "Enjoy yourself",
         "Help yourself",
         "Treat yourself"
-      ]
-    }
-  ]
-},
-
-{
-  "expression": "one night thing",
-  "type": "colloquial",
-  "level": "middle",
-  "pos": "noun",
-  "meaning": "something, especially a romantic encounter, that happened only once and was not serious",
-  "exchanges": [
-    {
-      "uid": "s08_e08_c07_u006",
-      "answer": "one night thing",
-      "options": [
-        "one night thing",
-        "two year thing",
-        "family thing",
-        "work thing"
       ]
     }
   ]

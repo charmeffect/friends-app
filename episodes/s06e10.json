@@ -53,7 +53,7 @@
         "find out",
         "hand out",
         "give out",
-        "find in"
+        "drop out"
       ]
     }
   ]
@@ -71,9 +71,9 @@
       "answer": "ask me out",
       "options": [
         "ask me out",
-        "ask me off",
-        "ask me down",
-        "ask me through"
+        "tell me off",
+        "show me up",
+        "fill me in"
       ]
     }
   ]

@@ -183,7 +183,7 @@
 
 {
   "expression": "hard to tell",
-  "type": "colloquial",
+  "type": "phrase",
   "level": "middle",
   "pos": "expression",
   "meaning": "difficult to know or judge for certain",
@@ -549,7 +549,7 @@
   "type": "colloquial",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "used to protest that something is unreasonable or to urge someone not to expect too much",
+  "meaning": "used to protest that something is unreasonable, to express disbelief, or to urge someone",
   "exchanges": [
     {
       "uid": "s01_e06_c04_u042",
@@ -558,7 +558,7 @@
         "C'mon",
         "Go away",
         "Hurry up",
-        "Cheer up"
+        "Look out"
       ]
     }
   ]

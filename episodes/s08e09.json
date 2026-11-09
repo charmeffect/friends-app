@@ -4,7 +4,7 @@
   "type": "phrase",
   "level": "elementary",
   "pos": "expression",
-  "meaning": "a large number of things",
+  "meaning": "a large amount or number of something",
   "exchanges": [
     {
       "uid": "s08_e09_c01_u016",
@@ -71,7 +71,7 @@
       "answer": "up to",
       "options": [
         "up to",
-        "up for",
+        "out of",
         "down to",
         "over to"
       ]
